@@ -4,7 +4,13 @@ O OBJETIVO INICIAL DO PROJETO NÃO É TRADUZIR TODO JOGO, ESTAREI COMEÇANDO PEL
 
 # PROGRESSO:
 
+## The Jackbox Party Pack 4
+
 ## The Jackbox Party Pack 5
  - PatentlyStupid 
    - [x] Frases do "market research" traduzidas
    - [ ] Traduzindo palavras que aparecem em "blank"
+
+## The Jackbox Party Pack 6
+
+## The Jackbox Party Pack 7
