@@ -1,0 +1,1774 @@
+{
+    "payload": [
+        {
+            "id": "ACTLIKE",
+            "category": "ACTIVITY",
+            "name": "Act Like You've Been There Drama School",
+            "locationId": "NM"
+        },
+        {
+            "id": "BASS_INSTINC",
+            "category": "ACTIVITY",
+            "name": "Bass Instincts Guitar Lessons",
+            "locationId": "EE"
+        },
+        {
+            "id": "BRASSY_BREND",
+            "category": "ACTIVITY",
+            "name": "Brassy Brenda's Trumpet Lessons",
+            "locationId": "EJ"
+        },
+        {
+            "id": "CANDOKENDU",
+            "category": "ACTIVITY",
+            "name": "Can-Do Kendo",
+            "locationId": "WO"
+        },
+        {
+            "id": "CERAMIC",
+            "category": "ACTIVITY",
+            "name": "Ceramic Panic",
+            "locationId": "EU"
+        },
+        {
+            "id": "CHOIRBEWARE",
+            "category": "ACTIVITY",
+            "name": "Choir Beware Singing Lessons",
+            "locationId": "NJ"
+        },
+        {
+            "id": "CLOVERTONS_R",
+            "category": "ACTIVITY",
+            "name": "Cloverton's Rec Center",
+            "locationId": "NQ"
+        },
+        {
+            "id": "DONNA_CHAFFI",
+            "category": "ACTIVITY",
+            "name": "Donna Chaffington's Dance Studio",
+            "locationId": "WG"
+        },
+        {
+            "id": "FERGUSONS_DI",
+            "category": "ACTIVITY",
+            "name": "Ferguson's Discount Piano Lessons",
+            "locationId": "NV"
+        },
+        {
+            "id": "LITTLE_LORD_",
+            "category": "ACTIVITY",
+            "name": "Little Lord Little League Fields",
+            "locationId": "LD"
+        },
+        {
+            "id": "YAKKITY",
+            "category": "ACTIVITY",
+            "name": "Yakkity Kayak Whitewater Rafting",
+            "locationId": "NW"
+        },
+        {
+            "id": "ASTERROTH",
+            "category": "AIRPORT",
+            "name": "Aster Roth International Airport",
+            "locationId": "NX"
+        },
+        {
+            "id": "BESHAVE_YOUR",
+            "category": "BARBER",
+            "name": "Beshave Yourself",
+            "locationId": "EA"
+        },
+        {
+            "id": "SALON_AND_HA",
+            "category": "BARBER",
+            "name": "Salon And Hair-Well",
+            "locationId": "BH"
+        },
+        {
+            "id": "GINNY_ST._PO",
+            "category": "BOSS",
+            "name": "Ginny St. Porridge",
+            "locationId": "GD"
+        },
+        {
+            "id": "GRETTA_GRISS",
+            "category": "BOSS",
+            "name": "Gretta Grisspiddler",
+            "locationId": "BE"
+        },
+        {
+            "id": "MARJORIE_HUM",
+            "category": "BOSS",
+            "name": "Marjorie Humid",
+            "locationId": "NW"
+        },
+        {
+            "id": "YAMADA_HONEY",
+            "category": "BOSS",
+            "name": "Yamada Honeycomb",
+            "locationId": "LD"
+        },
+        {
+            "id": "BOB_ROBSON’S",
+            "category": "CAR",
+            "name": "Bob Robson’s Single-Use Autos",
+            "locationId": "BA"
+        },
+        {
+            "id": "GEARS_N_BEER",
+            "category": "CAR",
+            "name": "Gears N Beers Autoshop and Brewery",
+            "locationId": "WJ"
+        },
+        {
+            "id": "HEAPIN’_HEAP",
+            "category": "CAR",
+            "name": "Heapin’ Heaps o’ Heaps",
+            "locationId": "EP"
+        },
+        {
+            "id": "LIGHTLY_STOL",
+            "category": "CAR",
+            "name": "Lightly Stolen Cars",
+            "locationId": "NF"
+        },
+        {
+            "id": "MID-LIFE_CRI",
+            "category": "CAR",
+            "name": "Mid-life Crisis Sports Cars",
+            "locationId": "WO"
+        },
+        {
+            "id": "ROB_CAMITTI’",
+            "category": "CAR",
+            "name": "Rob Camitti’s Superfluous Cars",
+            "locationId": "NI"
+        },
+        {
+            "id": "SREDNESTATIS",
+            "category": "CAR",
+            "name": "Srednestatisticheskiy Sedans",
+            "locationId": "WH"
+        },
+        {
+            "id": "THE_CAR_SIDE",
+            "category": "CAR",
+            "name": "The Car Side",
+            "locationId": "EY"
+        },
+        {
+            "id": "TIPSYTUNE",
+            "category": "CAR",
+            "name": "Tipsy Tune's Unsteady Autos",
+            "locationId": "GC"
+        },
+        {
+            "id": "VANCE_VANVAN",
+            "category": "CAR",
+            "name": "Vance VanVan’s Van Lot",
+            "locationId": "LB"
+        },
+        {
+            "id": "E.ROY_FINLEY",
+            "category": "DENTIST",
+            "name": "E.Roy Finley, DDS",
+            "locationId": "ET"
+        },
+        {
+            "id": "JANET_BORGLE",
+            "category": "DENTIST",
+            "name": "Janet Borgleman, DDS",
+            "locationId": "EC"
+        },
+        {
+            "id": "JIM_JAMES_JO",
+            "category": "DENTIST",
+            "name": "Jim James Jonatheux, DDS",
+            "locationId": "EM"
+        },
+        {
+            "id": "KEVIN_PULLMA",
+            "category": "DENTIST",
+            "name": "Kevin Pullman, DDS",
+            "locationId": "BB"
+        },
+        {
+            "id": "VIVIAN_STICK",
+            "category": "DENTIST",
+            "name": "Vivian Stickler, DDS",
+            "locationId": "LD"
+        },
+        {
+            "id": "ALL-IS-FROST",
+            "category": "DESSERT",
+            "name": "All-Is-Frost Ice Cream",
+            "locationId": "CB"
+        },
+        {
+            "id": "CAKED_N_LOAD",
+            "category": "DESSERT",
+            "name": "Caked n' Loaded",
+            "locationId": "ET"
+        },
+        {
+            "id": "OLD_BONES_CR",
+            "category": "DESSERT",
+            "name": "Old Bones Creamery",
+            "locationId": "NA"
+        },
+        {
+            "id": "DOCAJAY",
+            "category": "DOCTOR",
+            "name": "Ajay Gilderoy, MD",
+            "locationId": "GC"
+        },
+        {
+            "id": "DOCCORKY",
+            "category": "DOCTOR",
+            "name": "Corky Zigzag, MD",
+            "locationId": "NF"
+        },
+        {
+            "id": "DOCFRANK",
+            "category": "DOCTOR",
+            "name": "Frank Spongeman, MD",
+            "locationId": "N0"
+        },
+        {
+            "id": "DOCZHANG",
+            "category": "DOCTOR",
+            "name": "Zhang Pérez, MD",
+            "locationId": "BA"
+        },
+        {
+            "id": "CIRQUE_DU_SQ",
+            "category": "ENTERTAINMENT",
+            "name": "Cirque du Squirrel",
+            "locationId": "LM"
+        },
+        {
+            "id": "DJ_MIXMASTER",
+            "category": "ENTERTAINMENT",
+            "name": "DJ Mixmaster Max Mustermann",
+            "locationId": "EM"
+        },
+        {
+            "id": "MIND_YOUR_OW",
+            "category": "ENTERTAINMENT",
+            "name": "Mind Your Own Beeswax Candlemaking Studio",
+            "locationId": "EO"
+        },
+        {
+            "id": "PAY-BY-THE-M",
+            "category": "ENTERTAINMENT",
+            "name": "Pay-By-The-Minute Roller Coasters",
+            "locationId": "AF"
+        },
+        {
+            "id": "THE_LAFF_STO",
+            "category": "ENTERTAINMENT",
+            "name": "The Laff Stockade",
+            "locationId": "LK"
+        },
+        {
+            "id": "THREE_MINUTE",
+            "category": "ENTERTAINMENT",
+            "name": "Three Minute Escape Rooms",
+            "locationId": "LF"
+        },
+        {
+            "id": "ANTENNA_RIPP",
+            "category": "ERRAND",
+            "name": "Antenna Rippers Car Wash",
+            "locationId": "EV"
+        },
+        {
+            "id": "CASH_4_GOLD_",
+            "category": "ERRAND",
+            "name": "Cash 4 Gold 4 Seeds 4 Less",
+            "locationId": "NH"
+        },
+        {
+            "id": "HAPPY_SCALES",
+            "category": "ERRAND",
+            "name": "Happy Scales Lizard Salon",
+            "locationId": "AC"
+        },
+        {
+            "id": "INVESTINAL_F",
+            "category": "ERRAND",
+            "name": "Investinal Fortitude Savings and Loan",
+            "locationId": "EL"
+        },
+        {
+            "id": "PENSCRAFTERS",
+            "category": "ERRAND",
+            "name": "PensCrafters 1-Hour Pens",
+            "locationId": "NC"
+        },
+        {
+            "id": "POORLY_LABEL",
+            "category": "ERRAND",
+            "name": "Poorly Labelled Salt and/or Sugar Supply",
+            "locationId": "LG"
+        },
+        {
+            "id": "RIVERS_BANK",
+            "category": "ERRAND",
+            "name": "Rivers Bank",
+            "locationId": "AK"
+        },
+        {
+            "id": "SHIRT-OUTTA-",
+            "category": "ERRAND",
+            "name": "Shirt-Outta-Luck Dry Cleaners",
+            "locationId": "EW"
+        },
+        {
+            "id": "SLOW_AND_STE",
+            "category": "ERRAND",
+            "name": "Slow and Steady Pigeon Messaging Service",
+            "locationId": "NK"
+        },
+        {
+            "id": "TIM_SIMIAN_C",
+            "category": "ERRAND",
+            "name": "Tim Simian Chimp Mechanic",
+            "locationId": "LG"
+        },
+        {
+            "id": "WELCOME_TO_Y",
+            "category": "ERRAND",
+            "name": "Welcome to Yarnia",
+            "locationId": "NL"
+        },
+        {
+            "id": "BUG-B-BYE-BY",
+            "category": "EXTERMINATOR",
+            "name": "Bug-B-Bye-Bye Exterminators",
+            "locationId": "WJ"
+        },
+        {
+            "id": "INSECT_RELOC",
+            "category": "EXTERMINATOR",
+            "name": "Insect Relocation Services",
+            "locationId": "GG"
+        },
+        {
+            "id": "MOSTLY_NO-KI",
+            "category": "EXTERMINATOR",
+            "name": "Mostly No-Kill Pest Removal",
+            "locationId": "AF"
+        },
+        {
+            "id": "RODENT_RAP",
+            "category": "EXTERMINATOR",
+            "name": "Rodent Capture & Rapture",
+            "locationId": "NL"
+        },
+        {
+            "id": "OMNI",
+            "category": "FILMSTUDIO",
+            "name": "Omnipresent Studios",
+            "locationId": "BJ"
+        },
+        {
+            "id": "BASKETS_OF_R",
+            "category": "FOOD",
+            "name": "Baskets of Robins",
+            "locationId": "WA"
+        },
+        {
+            "id": "BOBO’S:_HOME",
+            "category": "FOOD",
+            "name": "Bobo’s: Home of the Thrown Kebabs",
+            "locationId": "LA"
+        },
+        {
+            "id": "BY-THE-POUND",
+            "category": "FOOD",
+            "name": "By-The-Pound Buffet",
+            "locationId": "LH"
+        },
+        {
+            "id": "C.J._O’BALLY",
+            "category": "FOOD",
+            "name": "C.J. O’Ballyhoo’s American Eatery",
+            "locationId": "WD"
+        },
+        {
+            "id": "CHIKN_4_U",
+            "category": "FOOD",
+            "name": "Chikn 4 U",
+            "locationId": "WO"
+        },
+        {
+            "id": "CORAL’S_JR._",
+            "category": "FOOD",
+            "name": "Coral’s Jr. Seafood",
+            "locationId": "EO"
+        },
+        {
+            "id": "GAS_N_SUSHI",
+            "category": "FOOD",
+            "name": "Gas N’ Sushi",
+            "locationId": "WK"
+        },
+        {
+            "id": "HAM_BY_THE_F",
+            "category": "FOOD",
+            "name": "Ham By The Foot",
+            "locationId": "EG"
+        },
+        {
+            "id": "MISC._RIB_SH",
+            "category": "FOOD",
+            "name": "Misc. Rib Shack",
+            "locationId": "AE"
+        },
+        {
+            "id": "OLD_RAISIN_W",
+            "category": "FOOD",
+            "name": "Old Raisin Winery",
+            "locationId": "BJ"
+        },
+        {
+            "id": "PEPPER-VEGAN",
+            "category": "FOOD",
+            "name": "Pepper-Phonies Vegan Pizza",
+            "locationId": "NQ"
+        },
+        {
+            "id": "PHO-GETTA_BO",
+            "category": "FOOD",
+            "name": "Pho-getta Bout It!",
+            "locationId": "EM"
+        },
+        {
+            "id": "PIZZA_FUN_TI",
+            "category": "FOOD",
+            "name": "Pizza Fun Time",
+            "locationId": "EQ"
+        },
+        {
+            "id": "SNARF_&_HURL",
+            "category": "FOOD",
+            "name": "Snarf & Hurl",
+            "locationId": "LK"
+        },
+        {
+            "id": "THE_BACON_BA",
+            "category": "FOOD",
+            "name": "The Bacon Barn",
+            "locationId": "NJ"
+        },
+        {
+            "id": "THE_BUTTER_T",
+            "category": "FOOD",
+            "name": "The Butter Trough",
+            "locationId": "GE"
+        },
+        {
+            "id": "THE_CHILI_FO",
+            "category": "FOOD",
+            "name": "The Chili Fountain",
+            "locationId": "BH"
+        },
+        {
+            "id": "THE_GREASY_F",
+            "category": "FOOD",
+            "name": "The Greasy Fork",
+            "locationId": "AM"
+        },
+        {
+            "id": "THE_GRISTLE_",
+            "category": "FOOD",
+            "name": "The Gristle Spot",
+            "locationId": "BH"
+        },
+        {
+            "id": "THE_HAPPY_BO",
+            "category": "FOOD",
+            "name": "The Happy Bowel Vegan Buffet",
+            "locationId": "BG"
+        },
+        {
+            "id": "WOK_THIS_WAY",
+            "category": "FOOD",
+            "name": "Wok This Way",
+            "locationId": "LJ"
+        },
+        {
+            "id": "CITYHALL",
+            "category": "GOV",
+            "name": "City Hall",
+            "locationId": "EA"
+        },
+        {
+            "id": "BUYNFOOD",
+            "category": "GROCERY",
+            "name": "Buy 'n Food",
+            "locationId": "EO"
+        },
+        {
+            "id": "GENTLYUSED",
+            "category": "GROCERY",
+            "name": "Gently Used Produce",
+            "locationId": "AF"
+        },
+        {
+            "id": "MILESAISLES",
+            "category": "GROCERY",
+            "name": "Miles of Aisles Discount Market",
+            "locationId": "LH"
+        },
+        {
+            "id": "SMARMTABLE",
+            "category": "GROCERY",
+            "name": "Smarm to Table Sarcastic Grocers",
+            "locationId": "WM"
+        },
+        {
+            "id": "BIGROCK",
+            "category": "MUSEUM",
+            "name": "Big Rock Astronomical Observatory",
+            "locationId": "AL"
+        },
+        {
+            "id": "CONTEMPORARY",
+            "category": "MUSEUM",
+            "name": "Contemporary Art Museum For Dads",
+            "locationId": "NC"
+        },
+        {
+            "id": "HAND_TURKEY_",
+            "category": "MUSEUM",
+            "name": "Hand Turkey Art Museum",
+            "locationId": "N0"
+        },
+        {
+            "id": "MUSEUM_OF_CL",
+            "category": "MUSEUM",
+            "name": "Museum of Clever Bumper Stickers",
+            "locationId": "LC"
+        },
+        {
+            "id": "MUSEUM_OF_PO",
+            "category": "MUSEUM",
+            "name": "Museum of Potato Chips That Look Like Things",
+            "locationId": "EJ"
+        },
+        {
+            "id": "MUSEUM_OF_SC",
+            "category": "MUSEUM",
+            "name": "Museum of Science and Hearsay",
+            "locationId": "LM"
+        },
+        {
+            "id": "OL’_HAMBONE’",
+            "category": "MUSEUM",
+            "name": "Ol’ Hambone’s Pig Petting Zoo",
+            "locationId": "EV"
+        },
+        {
+            "id": "PLANETARIUM_",
+            "category": "MUSEUM",
+            "name": "Planetarium of the Apes",
+            "locationId": "CC"
+        },
+        {
+            "id": "POPSICLE_STI",
+            "category": "MUSEUM",
+            "name": "Popsicle Stick Louvre",
+            "locationId": "NL"
+        },
+        {
+            "id": "THE_INTERNAT",
+            "category": "MUSEUM",
+            "name": "The International Museum of Corn Dogs",
+            "locationId": "GF"
+        },
+        {
+            "id": "MUSEUM_ART",
+            "category": "MUSEUM",
+            "name": "The Museum of “Art”",
+            "locationId": "BG"
+        },
+        {
+            "id": "MUSEUM_BENCHES",
+            "category": "MUSEUM",
+            "name": "The Museum of Benches",
+            "locationId": "AK"
+        },
+        {
+            "id": "THE_WALKEN_C",
+            "category": "MUSEUM",
+            "name": "The Walken Clinic",
+            "locationId": "ER"
+        },
+        {
+            "id": "NASA",
+            "category": "NASA",
+            "name": "National Aeronautics and Space Administration",
+            "locationId": "EL"
+        },
+        {
+            "id": "EERIEACRES",
+            "category": "NURSINGHOME",
+            "name": "Eerie Acres Retirement Home",
+            "locationId": "LM"
+        },
+        {
+            "id": "ANGRY_GEESE_",
+            "category": "PARK",
+            "name": "Angry Geese Park",
+            "locationId": "BD"
+        },
+        {
+            "id": "BIG_SNAKE_PO",
+            "category": "PARK",
+            "name": "Big Snake Pond",
+            "locationId": "LD"
+        },
+        {
+            "id": "DIRT_PILE_PA",
+            "category": "PARK",
+            "name": "Dirt Pile Park",
+            "locationId": "LF"
+        },
+        {
+            "id": "FOGGY_LAGOON",
+            "category": "PARK",
+            "name": "Foggy Lagoon Park",
+            "locationId": "NA"
+        },
+        {
+            "id": "MYSTERIOUS_C",
+            "category": "PARK",
+            "name": "Mysterious Crevice Park",
+            "locationId": "WB"
+        },
+        {
+            "id": "SCENIC_UNDER",
+            "category": "PARK",
+            "name": "Scenic Underlook",
+            "locationId": "LL"
+        },
+        {
+            "id": "PARTYTOWNSHIP",
+            "category": "PARTY",
+            "name": "Party Township",
+            "locationId": "LN"
+        },
+        {
+            "id": "FINEAID",
+            "category": "PHARMACY",
+            "name": "Fine Aid Pharmacy",
+            "locationId": "AM"
+        },
+        {
+            "id": "UNDERCOUNTER",
+            "category": "PHARMACY",
+            "name": "Under the Counter Pharmacy",
+            "locationId": "WM"
+        },
+        {
+            "id": "ALFRED_J._CH",
+            "category": "POSTOFFICE",
+            "name": "Alfred J. Charon Post Office",
+            "locationId": "LF"
+        },
+        {
+            "id": "ZIPPY",
+            "category": "POSTOFFICE",
+            "name": "Zippy Zip Memorial Post Office",
+            "locationId": "GB"
+        },
+        {
+            "id": "ABRAM_VORMAN",
+            "category": "RESIDENCE",
+            "name": "Abram Vorman",
+            "locationId": "WA"
+        },
+        {
+            "id": "ADRIAN_GOOF",
+            "category": "RESIDENCE",
+            "name": "Adrian Goof",
+            "locationId": "EL"
+        },
+        {
+            "id": "AGATHA_COFFI",
+            "category": "RESIDENCE",
+            "name": "Agatha Coffin",
+            "locationId": "EX"
+        },
+        {
+            "id": "AGNES_LONGBO",
+            "category": "RESIDENCE",
+            "name": "Agnes Longbottom",
+            "locationId": "NO"
+        },
+        {
+            "id": "AILEEN_TWADD",
+            "category": "RESIDENCE",
+            "name": "Aileen Twaddle",
+            "locationId": "EV"
+        },
+        {
+            "id": "ALEJANDRA_RA",
+            "category": "RESIDENCE",
+            "name": "Alejandra Raisinette",
+            "locationId": "NH"
+        },
+        {
+            "id": "AMELIA_SMELT",
+            "category": "RESIDENCE",
+            "name": "Amelia Smelting-Foxery",
+            "locationId": "WK"
+        },
+        {
+            "id": "ARMANDO_QUIX",
+            "category": "RESIDENCE",
+            "name": "Armando Quixote",
+            "locationId": "EJ"
+        },
+        {
+            "id": "ARTIE_CLICKM",
+            "category": "RESIDENCE",
+            "name": "Artie Clickman",
+            "locationId": "AK"
+        },
+        {
+            "id": "ASHOK_KUMARV",
+            "category": "RESIDENCE",
+            "name": "Ashok Kumarvelous",
+            "locationId": "NW"
+        },
+        {
+            "id": "ASPEN_FANTIS",
+            "category": "RESIDENCE",
+            "name": "Aspen Fantismo",
+            "locationId": "NB"
+        },
+        {
+            "id": "BEN_JACOBS",
+            "category": "RESIDENCE",
+            "name": "Ben Jacobs",
+            "locationId": "NA"
+        },
+        {
+            "id": "BERDIE_FABBL",
+            "category": "RESIDENCE",
+            "name": "Berdie Fabble",
+            "locationId": "EW"
+        },
+        {
+            "id": "BIKE_MILDER",
+            "category": "RESIDENCE",
+            "name": "Bike Milder",
+            "locationId": "AL"
+        },
+        {
+            "id": "BONIFACE_CHE",
+            "category": "RESIDENCE",
+            "name": "Boniface Cheebles",
+            "locationId": "GF"
+        },
+        {
+            "id": "BONK_CROCKLE",
+            "category": "RESIDENCE",
+            "name": "Bonk Crockley",
+            "locationId": "WN"
+        },
+        {
+            "id": "BUD_NEEDLETO",
+            "category": "RESIDENCE",
+            "name": "Bud Needletoes",
+            "locationId": "N2"
+        },
+        {
+            "id": "BURPIE_HALE",
+            "category": "RESIDENCE",
+            "name": "Burpie Hale",
+            "locationId": "AL"
+        },
+        {
+            "id": "CABBAGE_THOM",
+            "category": "RESIDENCE",
+            "name": "Cabbage Thompson Jr.",
+            "locationId": "EF"
+        },
+        {
+            "id": "CALGARY_CHUM",
+            "category": "RESIDENCE",
+            "name": "Calgary Chumprints",
+            "locationId": "EC"
+        },
+        {
+            "id": "CARMELLA_WHO",
+            "category": "RESIDENCE",
+            "name": "Carmella Whoopingcough",
+            "locationId": "NB"
+        },
+        {
+            "id": "CARNIVAL_WIL",
+            "category": "RESIDENCE",
+            "name": "Carnival Wilson",
+            "locationId": "N0"
+        },
+        {
+            "id": "CASSIEL",
+            "category": "RESIDENCE",
+            "name": "Cassiel Seraph",
+            "locationId": "AF"
+        },
+        {
+            "id": "CECELIA_BAGG",
+            "category": "RESIDENCE",
+            "name": "Cecelia Baggage",
+            "locationId": "GA"
+        },
+        {
+            "id": "CHASE_MCCLUR",
+            "category": "RESIDENCE",
+            "name": "Chase McClure",
+            "locationId": "ER"
+        },
+        {
+            "id": "CHIB_SPITTLE",
+            "category": "RESIDENCE",
+            "name": "Chib Spittleton",
+            "locationId": "NX"
+        },
+        {
+            "id": "CLIFF_CHOLER",
+            "category": "RESIDENCE",
+            "name": "Cliff Cholera",
+            "locationId": "EF"
+        },
+        {
+            "id": "CLORA_HEAD",
+            "category": "RESIDENCE",
+            "name": "Clora Head",
+            "locationId": "BF"
+        },
+        {
+            "id": "CORDUROY_P._",
+            "category": "RESIDENCE",
+            "name": "Corduroy P. Munke",
+            "locationId": "NW"
+        },
+        {
+            "id": "CORNCOB_MCBI",
+            "category": "RESIDENCE",
+            "name": "Corncob McBilge",
+            "locationId": "EK"
+        },
+        {
+            "id": "CORNWALLACE_",
+            "category": "RESIDENCE",
+            "name": "Cornwallace Stickle",
+            "locationId": "LB"
+        },
+        {
+            "id": "COWARD_APPLE",
+            "category": "RESIDENCE",
+            "name": "Coward Appleton",
+            "locationId": "AL"
+        },
+        {
+            "id": "COYO",
+            "category": "RESIDENCE",
+            "name": "Coyo Kaleido",
+            "locationId": "AB"
+        },
+        {
+            "id": "CRAIGJACOBS",
+            "category": "RESIDENCE",
+            "name": "Craig Jacobs",
+            "locationId": "EC"
+        },
+        {
+            "id": "CRIMP_BEARDB",
+            "category": "RESIDENCE",
+            "name": "Crimp Beardbody",
+            "locationId": "NO"
+        },
+        {
+            "id": "CYRUS_MCNABB",
+            "category": "RESIDENCE",
+            "name": "Cyrus McNabbers",
+            "locationId": "N2"
+        },
+        {
+            "id": "DAPHNE_ORNER",
+            "category": "RESIDENCE",
+            "name": "Daphne Ornery",
+            "locationId": "NV"
+        },
+        {
+            "id": "DAREDARE",
+            "category": "RESIDENCE",
+            "name": "Daredare Si",
+            "locationId": "N2"
+        },
+        {
+            "id": "DELILAH_HUCK",
+            "category": "RESIDENCE",
+            "name": "Delilah Hucksuckle",
+            "locationId": "NE"
+        },
+        {
+            "id": "DELLBERT_MIN",
+            "category": "RESIDENCE",
+            "name": "Dellbert Mints",
+            "locationId": "WM"
+        },
+        {
+            "id": "EDITH_WICKER",
+            "category": "RESIDENCE",
+            "name": "Edith Wickerbasket",
+            "locationId": "ES"
+        },
+        {
+            "id": "ELFRIEDA_MUL",
+            "category": "RESIDENCE",
+            "name": "Elfrieda Mulberry",
+            "locationId": "N2"
+        },
+        {
+            "id": "EMMALINE",
+            "category": "RESIDENCE",
+            "name": "Emmaline Morris",
+            "locationId": "EM"
+        },
+        {
+            "id": "EZEKIEL_HORS",
+            "category": "RESIDENCE",
+            "name": "Ezekiel Horsefeather",
+            "locationId": "LF"
+        },
+        {
+            "id": "FEDORA_JENKI",
+            "category": "RESIDENCE",
+            "name": "Fedora Jenkins",
+            "locationId": "EC"
+        },
+        {
+            "id": "FERD_PARKING",
+            "category": "RESIDENCE",
+            "name": "Ferd Parkington",
+            "locationId": "LM"
+        },
+        {
+            "id": "FLINT_PEMPLE",
+            "category": "RESIDENCE",
+            "name": "Flint Pemples",
+            "locationId": "N2"
+        },
+        {
+            "id": "FLORENCE_BUT",
+            "category": "RESIDENCE",
+            "name": "Florence Butt",
+            "locationId": "GG"
+        },
+        {
+            "id": "FORREST_SMAL",
+            "category": "RESIDENCE",
+            "name": "Forrest Smallmouth",
+            "locationId": "GF"
+        },
+        {
+            "id": "FULANO_DE_TA",
+            "category": "RESIDENCE",
+            "name": "Fulano de Tallgrass",
+            "locationId": "EJ"
+        },
+        {
+            "id": "GABRIEL_TOOT",
+            "category": "RESIDENCE",
+            "name": "Gabriel Tootlebloom",
+            "locationId": "ET"
+        },
+        {
+            "id": "GALE_TIDDLYW",
+            "category": "RESIDENCE",
+            "name": "Gale Tiddlywinks",
+            "locationId": "BJ"
+        },
+        {
+            "id": "GARLAND_MCRA",
+            "category": "RESIDENCE",
+            "name": "Garland McRae",
+            "locationId": "EY"
+        },
+        {
+            "id": "GARYTENG",
+            "category": "RESIDENCE",
+            "name": "Gary Tengu",
+            "locationId": "WA"
+        },
+        {
+            "id": "GERTRUDE_DIX",
+            "category": "RESIDENCE",
+            "name": "Gertrude Dixie",
+            "locationId": "NO"
+        },
+        {
+            "id": "UNAS",
+            "category": "RESIDENCE",
+            "name": "Gijs F Unas III",
+            "locationId": "NW"
+        },
+        {
+            "id": "GNUTE_IPSWIT",
+            "category": "RESIDENCE",
+            "name": "Gnute Ipswitch",
+            "locationId": "WA"
+        },
+        {
+            "id": "GORTNOY_CORN",
+            "category": "RESIDENCE",
+            "name": "Gortnoy Cornmedley",
+            "locationId": "LM"
+        },
+        {
+            "id": "HALLEY",
+            "category": "RESIDENCE",
+            "name": "Halley Jacobs",
+            "locationId": "EP"
+        },
+        {
+            "id": "HAPPY_HAMSMA",
+            "category": "RESIDENCE",
+            "name": "Happy Hamsmanning",
+            "locationId": "EE"
+        },
+        {
+            "id": "HARVEY_NUTTS",
+            "category": "RESIDENCE",
+            "name": "Harvey Nutts",
+            "locationId": "WF"
+        },
+        {
+            "id": "HECK_PANCAKE",
+            "category": "RESIDENCE",
+            "name": "Heck Pancake",
+            "locationId": "ER"
+        },
+        {
+            "id": "MODHOLLY",
+            "category": "RESIDENCE",
+            "name": "Holly T. Small",
+            "locationId": "CC"
+        },
+        {
+            "id": "HORACE_OAF",
+            "category": "RESIDENCE",
+            "name": "Horace Oaf",
+            "locationId": "EX"
+        },
+        {
+            "id": "IGNACIO_FIRE",
+            "category": "RESIDENCE",
+            "name": "Ignacio Firestarter",
+            "locationId": "NE"
+        },
+        {
+            "id": "ISAAC_JEPHCO",
+            "category": "RESIDENCE",
+            "name": "Isaac Jephcots",
+            "locationId": "WI"
+        },
+        {
+            "id": "IVY_TRICKLE",
+            "category": "RESIDENCE",
+            "name": "Ivy Trickle",
+            "locationId": "LH"
+        },
+        {
+            "id": "“ONION”_CROT",
+            "category": "RESIDENCE",
+            "name": "J. “Onion” Crotchswaddle",
+            "locationId": "LB"
+        },
+        {
+            "id": "JEAN_DUPONTE",
+            "category": "RESIDENCE",
+            "name": "Jean Duponte Cristo",
+            "locationId": "AK"
+        },
+        {
+            "id": "JEFF_“GEOFF”",
+            "category": "RESIDENCE",
+            "name": "Jeff “Geoff” Jefferstein",
+            "locationId": "EF"
+        },
+        {
+            "id": "JEFF_HANSEN",
+            "category": "RESIDENCE",
+            "name": "Jeff Hansen",
+            "locationId": "EG"
+        },
+        {
+            "id": "JIMMINY_MYRO",
+            "category": "RESIDENCE",
+            "name": "Jimminy Myron Crankenfitz",
+            "locationId": "NH"
+        },
+        {
+            "id": "JIMMY_DURANT",
+            "category": "RESIDENCE",
+            "name": "Jimmy Duranto",
+            "locationId": "EC"
+        },
+        {
+            "id": "JOANNA_CUSTA",
+            "category": "RESIDENCE",
+            "name": "Joanna Custardio",
+            "locationId": "LN"
+        },
+        {
+            "id": "JOHN_BORING",
+            "category": "RESIDENCE",
+            "name": "John Boring",
+            "locationId": "EL"
+        },
+        {
+            "id": "JOHN_KANGARO",
+            "category": "RESIDENCE",
+            "name": "John Kangaroo",
+            "locationId": "AB"
+        },
+        {
+            "id": "JOHNNY_GUMLA",
+            "category": "RESIDENCE",
+            "name": "Johnny Gumlately",
+            "locationId": "AA"
+        },
+        {
+            "id": "KATESTARK",
+            "category": "RESIDENCE",
+            "name": "Kate Stark",
+            "locationId": "AF"
+        },
+        {
+            "id": "KAY",
+            "category": "RESIDENCE",
+            "name": "Kayla Swift",
+            "locationId": "GF"
+        },
+        {
+            "id": "KELLYP",
+            "category": "RESIDENCE",
+            "name": "Kelly Paleczny",
+            "locationId": "EJ"
+        },
+        {
+            "id": "KIP_ORTIZ",
+            "category": "RESIDENCE",
+            "name": "Kip Ortiz",
+            "locationId": "CA"
+        },
+        {
+            "id": "KURTIMUK",
+            "category": "RESIDENCE",
+            "name": "Kurt I. Mukha",
+            "locationId": "WL"
+        },
+        {
+            "id": "MODLEMON",
+            "category": "RESIDENCE",
+            "name": "Lem N. Forlolz",
+            "locationId": "NB"
+        },
+        {
+            "id": "LEON_FISHBUC",
+            "category": "RESIDENCE",
+            "name": "Leon Fishbucket",
+            "locationId": "NI"
+        },
+        {
+            "id": "LEROY_BOWDIT",
+            "category": "RESIDENCE",
+            "name": "Leroy Bowditch",
+            "locationId": "LE"
+        },
+        {
+            "id": "LIKUMARI",
+            "category": "RESIDENCE",
+            "name": "Li Kumari",
+            "locationId": "AE"
+        },
+        {
+            "id": "LIL_“LI’L_GO",
+            "category": "RESIDENCE",
+            "name": "Lil “Li’l Goober” Goober",
+            "locationId": "EL"
+        },
+        {
+            "id": "LOGAN_LEE",
+            "category": "RESIDENCE",
+            "name": "Logan Lee",
+            "locationId": "EX"
+        },
+        {
+            "id": "LUELLA_BEDWE",
+            "category": "RESIDENCE",
+            "name": "Luella Bedwetter",
+            "locationId": "AD"
+        },
+        {
+            "id": "LUKE_POODTOO",
+            "category": "RESIDENCE",
+            "name": "Luke Poodtootle",
+            "locationId": "AL"
+        },
+        {
+            "id": "LULABELLE_GE",
+            "category": "RESIDENCE",
+            "name": "Lulabelle Gertz-Smalley",
+            "locationId": "WD"
+        },
+        {
+            "id": "MABEL_RUSTBU",
+            "category": "RESIDENCE",
+            "name": "Mabel Rustbucket",
+            "locationId": "NN"
+        },
+        {
+            "id": "MAN_VANDERSL",
+            "category": "RESIDENCE",
+            "name": "Man Vanderslice",
+            "locationId": "NQ"
+        },
+        {
+            "id": "MANNYMAN",
+            "category": "RESIDENCE",
+            "name": "Manny Manananggal",
+            "locationId": "AB"
+        },
+        {
+            "id": "MATILDA_LAMP",
+            "category": "RESIDENCE",
+            "name": "Matilda Lampfoot",
+            "locationId": "ET"
+        },
+        {
+            "id": "MENGANOWU",
+            "category": "RESIDENCE",
+            "name": "Mengano Wu",
+            "locationId": "LL"
+        },
+        {
+            "id": "MOM_FATHERMA",
+            "category": "RESIDENCE",
+            "name": "Mom Fatherman",
+            "locationId": "ED"
+        },
+        {
+            "id": "MORDECHAI_H.",
+            "category": "RESIDENCE",
+            "name": "Mordechai H. Sizzle",
+            "locationId": "GD"
+        },
+        {
+            "id": "MORTEN_MENIG",
+            "category": "RESIDENCE",
+            "name": "Morten Menigmandible",
+            "locationId": "NL"
+        },
+        {
+            "id": "MURRY_BRUIN",
+            "category": "RESIDENCE",
+            "name": "Murry Bruin",
+            "locationId": "AL"
+        },
+        {
+            "id": "NANDBEAR",
+            "category": "RESIDENCE",
+            "name": "Nan D. Bear",
+            "locationId": "N2"
+        },
+        {
+            "id": "PENNY_PLINKS",
+            "category": "RESIDENCE",
+            "name": "Penny Plinkstein",
+            "locationId": "NJ"
+        },
+        {
+            "id": "PEPA_Z._DEPA",
+            "category": "RESIDENCE",
+            "name": "Pepa Z. Depa",
+            "locationId": "LG"
+        },
+        {
+            "id": "POOPSIE_GUMB",
+            "category": "RESIDENCE",
+            "name": "Poopsie Gumball",
+            "locationId": "CC"
+        },
+        {
+            "id": "PRIYAGIL",
+            "category": "RESIDENCE",
+            "name": "Priya Gildong",
+            "locationId": "CA"
+        },
+        {
+            "id": "IMPUNDULU",
+            "category": "RESIDENCE",
+            "name": "Rebecca Impundulu",
+            "locationId": "NV"
+        },
+        {
+            "id": "RILEY",
+            "category": "RESIDENCE",
+            "name": "Riley Phoenix",
+            "locationId": "GF"
+        },
+        {
+            "id": "RONALD_STOOL",
+            "category": "RESIDENCE",
+            "name": "Ronald Stoolback",
+            "locationId": "NL"
+        },
+        {
+            "id": "RYAN_D",
+            "category": "RESIDENCE",
+            "name": "Ryan DiGiorgi",
+            "locationId": "WH"
+        },
+        {
+            "id": "SAMUEL_RAINT",
+            "category": "RESIDENCE",
+            "name": "Samuel Raintoot",
+            "locationId": "WO"
+        },
+        {
+            "id": "SANTIAGO_LEM",
+            "category": "RESIDENCE",
+            "name": "Santiago Lemontoe",
+            "locationId": "WL"
+        },
+        {
+            "id": "SHELBY_HODDL",
+            "category": "RESIDENCE",
+            "name": "Shelby Hoddle",
+            "locationId": "NP"
+        },
+        {
+            "id": "SHERMAN_LYNE",
+            "category": "RESIDENCE",
+            "name": "Sherman Lyness",
+            "locationId": "ER"
+        },
+        {
+            "id": "SIDNEY_HAMMO",
+            "category": "RESIDENCE",
+            "name": "Sidney Hammockman",
+            "locationId": "AB"
+        },
+        {
+            "id": "SPECIAL_AGEN",
+            "category": "RESIDENCE",
+            "name": "Special Agent Normal Neighborman",
+            "locationId": "GE"
+        },
+        {
+            "id": "STEVE_PHLANS",
+            "category": "RESIDENCE",
+            "name": "Steve Phlansby",
+            "locationId": "AH"
+        },
+        {
+            "id": "SYLVESTER_BR",
+            "category": "RESIDENCE",
+            "name": "Sylvester Brunch",
+            "locationId": "NA"
+        },
+        {
+            "id": "TAD_THOODLE",
+            "category": "RESIDENCE",
+            "name": "Tad Thoodle",
+            "locationId": "N2"
+        },
+        {
+            "id": "TEEDS_WYVERN",
+            "category": "RESIDENCE",
+            "name": "Teeds Wyvern",
+            "locationId": "CC"
+        },
+        {
+            "id": "THURMAN_NOGO",
+            "category": "RESIDENCE",
+            "name": "Thurman Nogood",
+            "locationId": "NX"
+        },
+        {
+            "id": "TOM_PUDDING",
+            "category": "RESIDENCE",
+            "name": "Tom Pudding",
+            "locationId": "EH"
+        },
+        {
+            "id": "TOOT_POOTLAD",
+            "category": "RESIDENCE",
+            "name": "Toot Pootladder",
+            "locationId": "GA"
+        },
+        {
+            "id": "TRENT",
+            "category": "RESIDENCE",
+            "name": "Trent Jormbo",
+            "locationId": "EY"
+        },
+        {
+            "id": "MODUXIE",
+            "category": "RESIDENCE",
+            "name": "U. Xie",
+            "locationId": "NI"
+        },
+        {
+            "id": "VARDENIS_PAV",
+            "category": "RESIDENCE",
+            "name": "Vardenis Pavardenis",
+            "locationId": "N2"
+        },
+        {
+            "id": "VINCENT_PRIC",
+            "category": "RESIDENCE",
+            "name": "Vincent Pricecheck",
+            "locationId": "LN"
+        },
+        {
+            "id": "WANGZ",
+            "category": "RESIDENCE",
+            "name": "Wang Zutano",
+            "locationId": "AF"
+        },
+        {
+            "id": "WATERDANCE",
+            "category": "RESIDENCE",
+            "name": "Waterdance",
+            "locationId": "NC"
+        },
+        {
+            "id": "WILFORD_O’HI",
+            "category": "RESIDENCE",
+            "name": "Wilford O’Hicks",
+            "locationId": "CB"
+        },
+        {
+            "id": "WYLIE_SKIDD",
+            "category": "RESIDENCE",
+            "name": "Wylie Skidd",
+            "locationId": "EK"
+        },
+        {
+            "id": "MODZAK",
+            "category": "RESIDENCE",
+            "name": "Zak Zakaryas",
+            "locationId": "N0"
+        },
+        {
+            "id": "SCHOOL",
+            "category": "SCHOOL",
+            "name": "Dante Alighieri Public School",
+            "locationId": "EE"
+        },
+        {
+            "id": "ANNEK",
+            "category": "SHOPPING",
+            "name": "Anne's House of Door Keys",
+            "locationId": "WF"
+        },
+        {
+            "id": "BUILD-A-BRA-",
+            "category": "SHOPPING",
+            "name": "Build-A-Bra-Workshop",
+            "locationId": "LB"
+        },
+        {
+            "id": "CAVE_O’_SAVI",
+            "category": "SHOPPING",
+            "name": "Cave O’ Savings",
+            "locationId": "EN"
+        },
+        {
+            "id": "CONTAINER",
+            "category": "SHOPPING",
+            "name": "Container Contentment",
+            "locationId": "NL"
+        },
+        {
+            "id": "DOUG’S_YOGA_",
+            "category": "SHOPPING",
+            "name": "Doug’s Yoga and Bait",
+            "locationId": "LE"
+        },
+        {
+            "id": "DRAWING-A-BL",
+            "category": "SHOPPING",
+            "name": "Drawing-A-Blank Art Supplies",
+            "locationId": "LG"
+        },
+        {
+            "id": "DUMPY’S_DISC",
+            "category": "SHOPPING",
+            "name": "Dumpy’s Discount Cargo Pants",
+            "locationId": "NX"
+        },
+        {
+            "id": "EMILY",
+            "category": "SHOPPING",
+            "name": "Emily's Slightly Corrupted Gems",
+            "locationId": "CC"
+        },
+        {
+            "id": "FANCIFUL_AUN",
+            "category": "SHOPPING",
+            "name": "Fanciful Aunt Home Decor",
+            "locationId": "ES"
+        },
+        {
+            "id": "JEN’S_VEGAN_",
+            "category": "SHOPPING",
+            "name": "Jen’s Vegan Bathmats",
+            "locationId": "BH"
+        },
+        {
+            "id": "JOHN’S_IRREG",
+            "category": "SHOPPING",
+            "name": "John’s Irregular Casket Shop",
+            "locationId": "EO"
+        },
+        {
+            "id": "JOS_JOSKENS_",
+            "category": "SHOPPING",
+            "name": "Jos Joskens Yo-Yo's",
+            "locationId": "LB"
+        },
+        {
+            "id": "JUST_OLD_CAL",
+            "category": "SHOPPING",
+            "name": "Just Old Calendars",
+            "locationId": "EN"
+        },
+        {
+            "id": "KAREN’S_NON-",
+            "category": "SHOPPING",
+            "name": "Karen’s Non-Possessed Doll Shop",
+            "locationId": "EJ"
+        },
+        {
+            "id": "KISS_PISTAS_",
+            "category": "SHOPPING",
+            "name": "Kiss Pista's Pistachio Kisses",
+            "locationId": "AK"
+        },
+        {
+            "id": "LACEY’S_TABL",
+            "category": "SHOPPING",
+            "name": "Lacey’s Tablecloths & Gowns",
+            "locationId": "EO"
+        },
+        {
+            "id": "LEFTY’S_UNPA",
+            "category": "SHOPPING",
+            "name": "Lefty’s Unpaired Gloves",
+            "locationId": "NK"
+        },
+        {
+            "id": "MELON_BALLER",
+            "category": "SHOPPING",
+            "name": "Melon Ballerz",
+            "locationId": "NK"
+        },
+        {
+            "id": "NOTHING_BUT_",
+            "category": "SHOPPING",
+            "name": "Nothing But Toilet Seats",
+            "locationId": "LN"
+        },
+        {
+            "id": "PINCO_PALLIN",
+            "category": "SHOPPING",
+            "name": "Pinco Pallino's Pastry Palace",
+            "locationId": "WK"
+        },
+        {
+            "id": "PORCH_DEBRIS",
+            "category": "SHOPPING",
+            "name": "Porch Debris Warehouse",
+            "locationId": "AH"
+        },
+        {
+            "id": "RYDASH",
+            "category": "SHOPPING",
+            "name": "Rye Dash: Fastest Bread in Town",
+            "locationId": "WB"
+        },
+        {
+            "id": "SAY_WHO_LIK",
+            "category": "SHOPPING",
+            "name": "Say, Who Likes Crap?",
+            "locationId": "NQ"
+        },
+        {
+            "id": "SPOONS_‘R_WE",
+            "category": "SHOPPING",
+            "name": "Spoons ‘R We",
+            "locationId": "LL"
+        },
+        {
+            "id": "MODSTAD",
+            "category": "SHOPPING",
+            "name": "Stad's Thawed Pre-Jawed Scrod",
+            "locationId": "AF"
+        },
+        {
+            "id": "TEENAGE_WAIS",
+            "category": "SHOPPING",
+            "name": "Teenage Waistline",
+            "locationId": "LK"
+        },
+        {
+            "id": "TGIH_YEAR-RO",
+            "category": "SHOPPING",
+            "name": "TGIH Year-Round Halloween Depot",
+            "locationId": "WI"
+        },
+        {
+            "id": "THE_GABERDIN",
+            "category": "SHOPPING",
+            "name": "The Gaberdine Joey: Aussie Kids Clothing",
+            "locationId": "NQ"
+        },
+        {
+            "id": "THE_RUG_DETE",
+            "category": "SHOPPING",
+            "name": "The Rug Detective",
+            "locationId": "NX"
+        },
+        {
+            "id": "MODTOAD",
+            "category": "SHOPPING",
+            "name": "Toadboy's Slightly Used Reptiles",
+            "locationId": "BJ"
+        },
+        {
+            "id": "USED_TIRE_PA",
+            "category": "SHOPPING",
+            "name": "Used Tire Palace",
+            "locationId": "EF"
+        },
+        {
+            "id": "VESTWORLD",
+            "category": "SHOPPING",
+            "name": "Vestworld",
+            "locationId": "NJ"
+        },
+        {
+            "id": "WE_R_TOYS",
+            "category": "SHOPPING",
+            "name": "We 'R Toys",
+            "locationId": "NB"
+        },
+        {
+            "id": "WOOD_LUMBER",
+            "category": "SHOPPING",
+            "name": "Wood If Ya Could Lumber",
+            "locationId": "BG"
+        },
+        {
+            "id": "MODYOSUP",
+            "category": "SHOPPING",
+            "name": "Yosup's To-Go Cups",
+            "locationId": "GC"
+        },
+        {
+            "id": "ZUZU’S_KETTL",
+            "category": "SHOPPING",
+            "name": "Zuzu’s Kettles",
+            "locationId": "BF"
+        },
+        {
+            "id": "FRAGRANTPHIL",
+            "category": "TAXI",
+            "name": "Fragrant Phil's Taxi Service",
+            "locationId": "WL"
+        },
+        {
+            "id": "RIDEDONT",
+            "category": "TAXI",
+            "name": "Ride or Don't Taxi Service",
+            "locationId": "CC"
+        },
+        {
+            "id": "TAKEMERIDE",
+            "category": "TAXI",
+            "name": "Take Me for a Ride Cab Co.",
+            "locationId": "LH"
+        },
+        {
+            "id": "YANLUO",
+            "category": "TEACHER",
+            "name": "Brenda Yanluo",
+            "locationId": "ED"
+        },
+        {
+            "id": "BILLS_BANKRU",
+            "category": "THEATER",
+            "name": "Bill's Bankrupt Independent Theater",
+            "locationId": "WH"
+        },
+        {
+            "id": "BROKEN_SEAT_",
+            "category": "THEATER",
+            "name": "Broken Seat Cinemas",
+            "locationId": "NO"
+        },
+        {
+            "id": "FANCY_PANTS_",
+            "category": "THEATER",
+            "name": "Fancy Pants Cinemas",
+            "locationId": "NV"
+        },
+        {
+            "id": "WRECKIN_CREW",
+            "category": "THEATER",
+            "name": "Wreckin' Crew Theatre",
+            "locationId": "NO"
+        },
+        {
+            "id": "ASTERTRAIN",
+            "category": "TRAIN",
+            "name": "Aster Roth Train Station",
+            "locationId": "AK"
+        },
+        {
+            "id": "KITTY_CARE",
+            "category": "VET",
+            "name": "Decent Kitty Care",
+            "locationId": "NJ"
+        },
+        {
+            "id": "DOG_CAT",
+            "category": "VET",
+            "name": "Dog & Cat Repair",
+            "locationId": "LB"
+        },
+        {
+            "id": "MEOWSKI",
+            "category": "VET",
+            "name": "Dr. Meowski DVM",
+            "locationId": "NH"
+        },
+        {
+            "id": "PET_VET",
+            "category": "VET",
+            "name": "The Pet Vet",
+            "locationId": "EB"
+        }
+    ]
+}

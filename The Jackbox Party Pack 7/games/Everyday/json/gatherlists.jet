@@ -1,0 +1,910 @@
+{
+    "payload": [
+        {
+            "id": "BAT_WARD",
+            "name": "Anti-Demon-Bat Ward",
+            "category": "BATWARD",
+            "locationId": "KITCHEN",
+            "requiredItemIds": [
+                "GARLIC",
+                "RAT_LIVER",
+                "MARSHMALLOW_FLUFF",
+                "PAPRIKA",
+                "SULFUR",
+                "BRIMSTONE",
+                "LEFTOVER_CASSEROLE",
+                "SPIDER_TEETH"
+            ]
+        },
+        {
+            "id": "POTATO_SALAD",
+            "name": "Apocalypotato Salad",
+            "category": "BBQ",
+            "locationId": "KITCHEN",
+            "requiredItemIds": [
+                "POTATOES",
+                "MAYONNAISE",
+                "MUSTARD",
+                "CHIVES",
+                "GARLIC",
+                "ONION"
+            ]
+        },
+        {
+            "id": "DENVER_OMELET",
+            "name": "Denver Omelet",
+            "category": "BREAKFAST",
+            "locationId": "KITCHEN",
+            "requiredItemIds": [
+                "EGGS",
+                "CAYENNE_PEPPER",
+                "HAM",
+                "ONION",
+                "BELL_PEPPER",
+                "CHEDDAR_CHEESE",
+                "BUTTER"
+            ]
+        },
+        {
+            "id": "PEACHES_CREAM",
+            "name": "Peaches and Cream",
+            "category": "BREAKFAST",
+            "locationId": "KITCHEN",
+            "requiredItemIds": [
+                "CANNED_PEACHES",
+                "OATMEAL",
+                "MILK",
+                "BROWN_SUGAR",
+                "VANILLA",
+                "CINNAMON",
+                "SALT"
+            ]
+        },
+        {
+            "id": "SPAM_EGGS",
+            "name": "Spam and Eggs",
+            "category": "BREAKFAST",
+            "locationId": "KITCHEN",
+            "requiredItemIds": [
+                "EGGS",
+                "SPAM",
+                "CHEDDAR_CHEESE",
+                "CHIVES",
+                "MILK",
+                "SALT",
+                "BLACK_PEPPER"
+            ]
+        },
+        {
+            "id": "PICARONES",
+            "name": "Picarones",
+            "category": "BREAKFAST",
+            "locationId": "KITCHEN",
+            "requiredItemIds": [
+                "SWEET_POTATOES",
+                "FLOUR",
+                "CINNAMON",
+                "NUTMEG",
+                "VEGETABLE_OIL",
+                "HONEY",
+                "LIMES"
+            ]
+        },
+        {
+            "id": "NATTO",
+            "name": "Natto",
+            "category": "BREAKFAST",
+            "locationId": "KITCHEN",
+            "requiredItemIds": [
+                "RICE",
+                "NATTO",
+                "SOY_BEANS",
+                "EGGS",
+                "SOY_SAUCE",
+                "SESAME_OIL",
+                "SEAWEED"
+            ]
+        },
+        {
+            "id": "FRIED_PLANTAINS",
+            "name": "Fried Plantains",
+            "category": "BREAKFAST",
+            "locationId": "KITCHEN",
+            "requiredItemIds": [
+                "PLANTAINS",
+                "VEGETABLE_OIL",
+                "SALT"
+            ]
+        },
+        {
+            "id": "POT_ROAST",
+            "name": "Pot Roast",
+            "category": "DINNER",
+            "locationId": "KITCHEN",
+            "requiredItemIds": [
+                "CHUCK_ROAST",
+                "BROTH",
+                "ONION",
+                "ROSEMARY",
+                "POTATOES",
+                "OLIVE_OIL",
+                "CARROTS",
+                "THYME"
+            ]
+        },
+        {
+            "id": "PASTA_PRIM",
+            "name": "Pasta Primavera",
+            "category": "DINNER",
+            "locationId": "KITCHEN",
+            "requiredItemIds": [
+                "CARROTS",
+                "ONION",
+                "SQUASH",
+                "ZUCCHINI",
+                "PARMESAN",
+                "BOWTIE_PASTA",
+                "OLIVE_OIL",
+                "TOMATOES"
+            ]
+        },
+        {
+            "id": "CHICKEN_KIEV",
+            "name": "Chicken Kiev",
+            "category": "DINNER",
+            "locationId": "KITCHEN",
+            "requiredItemIds": [
+                "CHICKEN_BREAST",
+                "BUTTER",
+                "EGGS",
+                "PARSLEY",
+                "BREAD_CRUMBS",
+                "VEGETABLE_OIL",
+                "GARLIC",
+                "FLOUR"
+            ]
+        },
+        {
+            "id": "DUMPLINGS",
+            "name": "Dumplings",
+            "category": "DINNER",
+            "locationId": "KITCHEN",
+            "requiredItemIds": [
+                "FLOUR",
+                "EGGS",
+                "VEGETABLE_OIL",
+                "CHIVES",
+                "GROUND_PORK",
+                "SOY_SAUCE",
+                "SESAME_OIL",
+                "GARLIC"
+            ]
+        },
+        {
+            "id": "SAMBUSA",
+            "name": "Sambusa",
+            "category": "DINNER",
+            "locationId": "KITCHEN",
+            "requiredItemIds": [
+                "GROUND_BEEF",
+                "VEGETABLE_OIL",
+                "ONION",
+                "CORIANDER",
+                "CUMIN",
+                "SALT",
+                "BLACK_PEPPER",
+                "GARLIC",
+                "FLOUR"
+            ]
+        },
+        {
+            "id": "CHICKEN_CURRY",
+            "name": "Chicken Curry",
+            "category": "DINNER",
+            "locationId": "KITCHEN",
+            "requiredItemIds": [
+                "ONION",
+                "CHICKEN_BREAST",
+                "GARLIC",
+                "GINGER",
+                "PAPRIKA",
+                "CUMIN",
+                "TOMATOES",
+                "HEAVY_CREAM",
+                "RICE"
+            ]
+        },
+        {
+            "id": "DAL",
+            "name": "Dal",
+            "category": "DINNER",
+            "locationId": "KITCHEN",
+            "requiredItemIds": [
+                "LENTILS",
+                "VEGETABLE_OIL",
+                "CUMIN",
+                "CINNAMON",
+                "CAYENNE_PEPPER",
+                "GARLIC",
+                "PAPRIKA",
+                "TOMATOES",
+                "LEMON_JUICE"
+            ]
+        },
+        {
+            "id": "EMPANADAS",
+            "name": "Empanadas",
+            "category": "DINNER",
+            "locationId": "KITCHEN",
+            "requiredItemIds": [
+                "BUTTER",
+                "FLOUR",
+                "EGGS",
+                "VINEGAR",
+                "ONION",
+                "CAYENNE_PEPPER",
+                "GARLIC",
+                "GROUND_BEEF"
+            ]
+        },
+        {
+            "id": "SWEET_SOUR_CHICKEN",
+            "name": "Sweet and Sour Chicken",
+            "category": "DINNER",
+            "locationId": "KITCHEN",
+            "requiredItemIds": [
+                "PINEAPPLE_JUICE",
+                "SALT",
+                "SUGAR",
+                "KETCHUP",
+                "CHICKEN_BREAST",
+                "GARLIC",
+                "SESAME_OIL",
+                "FLOUR",
+                "CAYENNE_PEPPER"
+            ]
+        },
+        {
+            "id": "JOLLOF",
+            "name": "Jollof Rice",
+            "category": "DINNER",
+            "locationId": "KITCHEN",
+            "requiredItemIds": [
+                "TOMATOES",
+                "RICE",
+                "BELL_PEPPER",
+                "ONION",
+                "SALT",
+                "CURRY_POWDER",
+                "THYME"
+            ]
+        },
+        {
+            "id": "TEMPURA",
+            "name": "Vegetable Tempura",
+            "category": "DINNER",
+            "locationId": "KITCHEN",
+            "requiredItemIds": [
+                "EGGS",
+                "FLOUR",
+                "VEGETABLE_OIL",
+                "SWEET_POTATOES",
+                "ONION",
+                "BELL_PEPPER",
+                "SOY_SAUCE"
+            ]
+        },
+        {
+            "id": "PROM_CORSAGE",
+            "name": "A Formal Corsage",
+            "category": "FLOWERS",
+            "locationId": "FLOWER_SHOP",
+            "requiredItemIds": [
+                "SWEETHEART_ROSES",
+                "DUSTY_MILLER",
+                "SATIN",
+                "LAVENDER",
+                "FERN"
+            ]
+        },
+        {
+            "id": "CHEERFUL_FLOWERS",
+            "name": "A Cheerful Bouquet",
+            "category": "FLOWERS",
+            "locationId": "FLOWER_SHOP",
+            "requiredItemIds": [
+                "MASON_JAR",
+                "SUNFLOWERS",
+                "IVY",
+                "DAISES",
+                "SNAPDRAGONS",
+                "RICKRACK"
+            ]
+        },
+        {
+            "id": "FRAGRANT_FLOWERS",
+            "name": "A Stinky Bouquet",
+            "category": "FLOWERS",
+            "locationId": "FLOWER_SHOP",
+            "requiredItemIds": [
+                "LILIES",
+                "EUCALYTPUS",
+                "TWISTY",
+                "BOXWOOD",
+                "RAFFIA",
+                "LAVENDER"
+            ]
+        },
+        {
+            "id": "FRIENDLY_FLOWERS",
+            "name": "A Modern Bouquet",
+            "category": "FLOWERS",
+            "locationId": "FLOWER_SHOP",
+            "requiredItemIds": [
+                "MILK_BOTTLE",
+                "PEONIES",
+                "SWEETHEART_ROSES",
+                "IVY",
+                "PAPER",
+                "CARNATIONS"
+            ]
+        },
+        {
+            "id": "GRANDMAS_FLOWERS",
+            "name": "An Old-Fashioned Bouquet",
+            "category": "FLOWERS",
+            "locationId": "FLOWER_SHOP",
+            "requiredItemIds": [
+                "GLADIOLUS",
+                "GRANDMAS_OLD_VASE",
+                "BELLS_OF_IRELAND",
+                "LILIES",
+                "GRASS",
+                "VELVET"
+            ]
+        },
+        {
+            "id": "ROMANTIC_FLOWERS",
+            "name": "A Romantic Bouquet ",
+            "category": "FLOWERS",
+            "locationId": "FLOWER_SHOP",
+            "requiredItemIds": [
+                "CRYSTAL",
+                "BABYS_BREATH",
+                "RED_ROSES",
+                "LEATHER_LEAF",
+                "SATIN"
+            ]
+        },
+        {
+            "id": "GORBO_CASSEROLE",
+            "name": "Fragrant Fish & Peanut Butter Casserole",
+            "category": "GORBO",
+            "locationId": "KITCHEN",
+            "requiredItemIds": [
+                "CANNED_TUNA",
+                "PEANUT_BUTTER",
+                "EGGS",
+                "BROWN_SUGAR",
+                "PAPRIKA",
+                "MARSHMALLOW_FLUFF",
+                "COOL_WHIP",
+                "LETTUCE",
+                "BOWTIE_PASTA"
+            ]
+        },
+        {
+            "id": "ICE_CREAM",
+            "name": "Homemade Ice Cream",
+            "category": "ICECREAM",
+            "locationId": "KITCHEN",
+            "requiredItemIds": [
+                "EGGS",
+                "SUGAR",
+                "HEAVY_CREAM",
+                "HALF_AND_HALF",
+                "SALT",
+                "VANILLA",
+                "ICE"
+            ]
+        },
+        {
+            "id": "MACARONI_AND_CHEESE",
+            "name": "Macaroni and Cheese",
+            "category": "LUNCH",
+            "locationId": "KITCHEN",
+            "requiredItemIds": [
+                "MACARONI",
+                "CHEDDAR_CHEESE",
+                "PAPRIKA",
+                "FLOUR",
+                "BUTTER",
+                "MILK"
+            ]
+        },
+        {
+            "id": "TUNA_SALAD_SANDWICHES",
+            "name": "Tuna Salad Sandwiches",
+            "category": "LUNCH",
+            "locationId": "KITCHEN",
+            "requiredItemIds": [
+                "CANNED_TUNA",
+                "BREAD",
+                "MAYONNAISE",
+                "MUSTARD",
+                "LETTUCE"
+            ]
+        },
+        {
+            "id": "FLUFFER_NUTTERS",
+            "name": "Fluffernutters",
+            "category": "LUNCH",
+            "locationId": "KITCHEN",
+            "requiredItemIds": [
+                "BREAD",
+                "MARSHMALLOW_FLUFF",
+                "PEANUT_BUTTER",
+                "POTATO_CHIPS",
+                "BANANAS"
+            ]
+        },
+        {
+            "id": "SAMOSA",
+            "name": "Samosa",
+            "category": "LUNCH",
+            "locationId": "KITCHEN",
+            "requiredItemIds": [
+                "POTATOES",
+                "VEGETABLE_OIL",
+                "ONION",
+                "FROZEN_PEAS",
+                "GARAM_MASALA",
+                "CURRY_POWDER",
+                "SALT",
+                "FLOUR",
+                "AJWAIN_SEED"
+            ]
+        },
+        {
+            "id": "HUMMUS",
+            "name": "Hummus",
+            "category": "LUNCH",
+            "locationId": "KITCHEN",
+            "requiredItemIds": [
+                "GARBANZO",
+                "LEMON_JUICE",
+                "OLIVE_OIL",
+                "GARLIC",
+                "CUMIN",
+                "SALT",
+                "SESAME_OIL"
+            ]
+        },
+        {
+            "id": "TABBOULEH",
+            "name": "Tabbouleh",
+            "category": "LUNCH",
+            "locationId": "KITCHEN",
+            "requiredItemIds": [
+                "BULGUR",
+                "TOMATOES",
+                "LEMON_JUICE",
+                "OLIVE_OIL",
+                "SALT",
+                "BLACK_PEPPER"
+            ]
+        },
+        {
+            "id": "MALA_MALA",
+            "name": "Mala Mala Fire Salad",
+            "category": "LUNCH",
+            "locationId": "KITCHEN",
+            "requiredItemIds": [
+                "TOMATOES",
+                "CELERY",
+                "EGGS",
+                "CAYENNE_PEPPER",
+                "VINEGAR",
+                "SALT",
+                "SUGAR"
+            ]
+        },
+        {
+            "id": "CHUTNEY",
+            "name": "Chutney",
+            "category": "LUNCH",
+            "locationId": "KITCHEN",
+            "requiredItemIds": [
+                "ONION",
+                "CAYENNE_PEPPER",
+                "TOMATOES",
+                "VINEGAR",
+                "BROWN_SUGAR"
+            ]
+        },
+        {
+            "id": "BIBIMBAP",
+            "name": "Bibimbap",
+            "category": "LUNCH",
+            "locationId": "KITCHEN",
+            "requiredItemIds": [
+                "RICE",
+                "CARROTS",
+                "GARLIC",
+                "SALT",
+                "SESAME_OIL",
+                "VEGETABLE_OIL",
+                "GROUND_BEEF",
+                "SOY_SAUCE",
+                "KIMCHI"
+            ]
+        },
+        {
+            "id": "TACOS",
+            "name": "Tacos",
+            "category": "LUNCH",
+            "locationId": "KITCHEN",
+            "requiredItemIds": [
+                "GROUND_BEEF",
+                "TOMATOES",
+                "FLOUR",
+                "LETTUCE",
+                "CHEDDAR_CHEESE",
+                "SOUR_CREAM",
+                "CAYENNE_PEPPER"
+            ]
+        },
+        {
+            "id": "LO MEIN",
+            "name": "Lo Mein",
+            "category": "LUNCH",
+            "locationId": "KITCHEN",
+            "requiredItemIds": [
+                "NOODLES",
+                "SOY_SAUCE",
+                "SESAME_OIL",
+                "SUGAR",
+                "ONION",
+                "CARROTS",
+                "BELL_PEPPER"
+            ]
+        },
+        {
+            "id": "CONGEE",
+            "name": "Congee",
+            "category": "LUNCH",
+            "locationId": "KITCHEN",
+            "requiredItemIds": [
+                "RICE",
+                "CHICKEN_BREAST",
+                "GARLIC",
+                "GINGER",
+                "SOY_SAUCE",
+                "BLACK_PEPPER"
+            ]
+        },
+        {
+            "id": "BLAND_MEAL",
+            "name": "Soup and Crackers",
+            "category": "SICKMEAL",
+            "locationId": "KITCHEN",
+            "requiredItemIds": [
+                "CANNED_SOUP",
+                "CRACKERS",
+                "SODA"
+            ]
+        },
+        {
+            "id": "SNACK_TRAY",
+            "name": "Snack Tray",
+            "category": "SNACKS",
+            "locationId": "KITCHEN",
+            "requiredItemIds": [
+                "COOKIES",
+                "POTATO_CHIPS",
+                "MILK",
+                "SODA",
+                "PEANUT_BUTTER",
+                "CRACKERS",
+                "STRING_CHEESE",
+                "POPSICLES",
+                "SALT_VINEGAR_ALMONDS"
+            ]
+        },
+        {
+            "id": "SPACE_SUPPLIES",
+            "name": "Space Trip Supplies",
+            "category": "SPACETRIP",
+            "locationId": "SPACE",
+            "requiredItemIds": [
+                "SOCKS",
+                "UNDERWEAR",
+                "SHOES",
+                "MOONBOOTS",
+                "BOOKSTARS",
+                "ROATRIPPLAY",
+                "RECORDALLHUMAN"
+            ]
+        },
+        {
+            "id": "MOVIE_NIGHT1",
+            "name": "Movie Night",
+            "category": "MOVIENIGHT",
+            "locationId": "VIDEO_STORE",
+            "requiredItemIds": [
+                "BOMBSFORLUNC",
+                "THENECKLACEN",
+                "ANGRYCARBOYS",
+                "THEDENTISTHU",
+                "THESPYWHOWAS",
+                "LOVEISAFIB"
+            ]
+        },
+        {
+            "id": "MOVIE_NIGHT2",
+            "name": "Movie Night",
+            "category": "MOVIENIGHT",
+            "locationId": "VIDEO_STORE",
+            "requiredItemIds": [
+                "QUESTIONMARX",
+                "IKNOWWHATYOU",
+                "TURNSOUTWE’R",
+                "THEENDLESSMO",
+                "SPOOKED2:2SP",
+                "AVERYSICKDOG"
+            ]
+        },
+        {
+            "id": "MOVIE_NIGHT3",
+            "name": "Movie Night",
+            "category": "MOVIENIGHT",
+            "locationId": "VIDEO_STORE",
+            "requiredItemIds": [
+                "TREACHERYATT",
+                "THEDENTISTHU",
+                "THEFILBERBIX",
+                "THEBADSKULL",
+                "BLUNTEDGES",
+                "JENWHEN:TIME"
+            ]
+        },
+        {
+            "id": "MOVIE_NIGHT4",
+            "name": "Movie Night",
+            "category": "MOVIENIGHT",
+            "locationId": "VIDEO_STORE",
+            "requiredItemIds": [
+                "EVILBOAT",
+                "DON’TTOUCHTH",
+                "TIMETOGETMAD",
+                "MYDRYCLEANER",
+                "DIAGNOSIS:SH",
+                "RHINOROUNDUP"
+            ]
+        },
+        {
+            "id": "MOVIE_NIGHT5",
+            "name": "Movie Night",
+            "category": "MOVIENIGHT",
+            "locationId": "VIDEO_STORE",
+            "requiredItemIds": [
+                "MYDRYCLEANER",
+                "WATCHYOURBAC",
+                "THEBIGSMOOCH",
+                "DIAL9FORANOU",
+                "KELP",
+                "JENWHEN:TIME"
+            ]
+        },
+        {
+            "id": "MOVIE_NIGHT6",
+            "name": "Movie Night",
+            "category": "MOVIENIGHT",
+            "locationId": "VIDEO_STORE",
+            "requiredItemIds": [
+                "CHURCHOFTHEK",
+                "MAYBEHEDROWN",
+                "BOMBSFORLUNC",
+                "WHYSQUIDDNA?",
+                "BORINGATFIRS",
+                "GENTLEMANWEI"
+            ]
+        },
+        {
+            "id": "MOVIE_NIGHT7",
+            "name": "Movie Night",
+            "category": "MOVIENIGHT",
+            "locationId": "VIDEO_STORE",
+            "requiredItemIds": [
+                "ALLTHATWASLE",
+                "A.B.D.U.C.T.",
+                "JOENUTZGOEST",
+                "SPACEISN’TRE",
+                "IKNOWWHATYOU",
+                "IHAVEMADEATE"
+            ]
+        },
+        {
+            "id": "MOVIE_NIGHT8",
+            "name": "Movie Night",
+            "category": "MOVIENIGHT",
+            "locationId": "VIDEO_STORE",
+            "requiredItemIds": [
+                "WHYSQUIDDNA?",
+                "RICHMANLEARN",
+                "NINEHOURSOFT",
+                "HAUNTEDASCAN",
+                "QUICKSANDDAN",
+                "THEHOUSETHAT"
+            ]
+        },
+        {
+            "id": "MOVIE_NIGHT9",
+            "name": "Movie Night",
+            "category": "MOVIENIGHT",
+            "locationId": "VIDEO_STORE",
+            "requiredItemIds": [
+                "FRANKENSTEIN",
+                "WHICHSENATOR",
+                "THECORPORATE",
+                "THEMANWHOCOU",
+                "AHOY!PIRATES",
+                "CRUMMYDAYFOR"
+            ]
+        },
+        {
+            "id": "MOVIE_NIGHT10",
+            "name": "Movie Night",
+            "category": "MOVIENIGHT",
+            "locationId": "VIDEO_STORE",
+            "requiredItemIds": [
+                "THEGO-KARTMU",
+                "QUESTIONMARX",
+                "HAUNTEDASCAN",
+                "THEMANWHOCOU",
+                "STRAWBERRYHU",
+                "TICKTOCK,BOM"
+            ]
+        },
+        {
+            "id": "MOVIE_NIGHT11",
+            "name": "Movie Night",
+            "category": "MOVIENIGHT",
+            "locationId": "VIDEO_STORE",
+            "requiredItemIds": [
+                "ANALLEGORYFO",
+                "STRESSFULTEN",
+                "HARDSLAPPING",
+                "AVERYWACKYPR",
+                "THEGO-KARTMU",
+                "STRAWBERRYHU"
+            ]
+        },
+        {
+            "id": "MOVIE_NIGHT12",
+            "name": "Movie Night",
+            "category": "MOVIENIGHT",
+            "locationId": "VIDEO_STORE",
+            "requiredItemIds": [
+                "THEGENERALTH",
+                "KISSLICKSHOO",
+                "HUGEEXPLOSIO",
+                "SHOVEPALSPAR",
+                "HERCONFUSING",
+                "LASTDAYOFTHE"
+            ]
+        },
+        {
+            "id": "MOVIE_NIGHT13",
+            "name": "Movie Night",
+            "category": "MOVIENIGHT",
+            "locationId": "VIDEO_STORE",
+            "requiredItemIds": [
+                "IPROMISEDI’D",
+                "SPEEDWALKING",
+                "AVERYWACKYPR",
+                "ESOTERICESOT",
+                "THEOLD-TIMEY",
+                "WEDGIEUNIVER"
+            ]
+        },
+        {
+            "id": "MOVIE_NIGHT14",
+            "name": "Movie Night",
+            "category": "MOVIENIGHT",
+            "locationId": "VIDEO_STORE",
+            "requiredItemIds": [
+                "CLEANTHESTAR",
+                "STRANGERSONA",
+                "NO,NOTMYGROI",
+                "HUGEEXPLOSIO",
+                "TECHNOSCAPE:",
+                "CLIMATECHANG"
+            ]
+        },
+        {
+            "id": "MOVIE_NIGHT15",
+            "name": "Movie Night",
+            "category": "MOVIENIGHT",
+            "locationId": "VIDEO_STORE",
+            "requiredItemIds": [
+                "WEEP",
+                "HAIRSTYLESOF",
+                "SPOOKED2:2SP",
+                "ALLTHATWASLE",
+                "WHYSQUIDDNA?",
+                "ICKYSCENESWI"
+            ]
+        },
+        {
+            "id": "MOVIE_NIGHT16",
+            "name": "Movie Night",
+            "category": "MOVIENIGHT",
+            "locationId": "VIDEO_STORE",
+            "requiredItemIds": [
+                "IKNOWWHATYOU",
+                "LET’SSHOOTTH",
+                "THENECKLACEN",
+                "JUSTWAITIN’F",
+                "HELP!MYDADIS",
+                "UNSATISFYING"
+            ]
+        },
+        {
+            "id": "MOVIE_NIGHT17",
+            "name": "Movie Night",
+            "category": "MOVIENIGHT",
+            "locationId": "VIDEO_STORE",
+            "requiredItemIds": [
+                "BADVIBESFROM",
+                "RICHMANLEARN",
+                "WEEP",
+                "THEFILBERBIX",
+                "APOCALYPSELA",
+                "RETIREDASSAS"
+            ]
+        },
+        {
+            "id": "MOVIE_NIGHT18",
+            "name": "Movie Night",
+            "category": "MOVIENIGHT",
+            "locationId": "VIDEO_STORE",
+            "requiredItemIds": [
+                "THEBADSKULL",
+                "DIAGNOSIS:SH",
+                "NINEHOURSOFT",
+                "MAKINGAMUDDE",
+                "THEDOUGLASVE",
+                "CHASTECONTEM"
+            ]
+        },
+        {
+            "id": "MOVIE_NIGHT19",
+            "name": "Movie Night",
+            "category": "MOVIENIGHT",
+            "locationId": "VIDEO_STORE",
+            "requiredItemIds": [
+                "TEMPORARYISF",
+                "DAREWOLF",
+                "RADIOACTIVEA",
+                "THEFILBERBIX",
+                "THENOTGREATP",
+                "YIKES,NOTGOO"
+            ]
+        },
+        {
+            "id": "MOVIE_NIGHT20",
+            "name": "Movie Night",
+            "category": "MOVIENIGHT",
+            "locationId": "VIDEO_STORE",
+            "requiredItemIds": [
+                "DIAL9FORANOU",
+                "ESOTERICESOT",
+                "JENWHEN:TIME",
+                "REXSUTURE:DO",
+                "THETOOMUCHAB",
+                "TROUBLELLC"
+            ]
+        }
+    ]
+}
