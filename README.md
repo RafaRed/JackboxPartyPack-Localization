@@ -1,4 +1,4 @@
-# Jackbox Party Pack - Localization - Tradução português - pt_br
+# Jackbox Party Pack - Tradução português - pt_br
 
 O objetivo inicial do projeto não é traduzir todo jogo, estarei começando pelos modulos que considero principais e essenciais.
 
