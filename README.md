@@ -4,6 +4,8 @@ O OBJETIVO INICIAL DO PROJETO NÃO É TRADUZIR TODO JOGO, ESTAREI COMEÇANDO PEL
 
 # PROGRESSO:
 
+[ ] Adicionar arquivos de todos os jogos para tradução.
+
 ## The Jackbox Party Pack 4
 
 ## The Jackbox Party Pack 5
