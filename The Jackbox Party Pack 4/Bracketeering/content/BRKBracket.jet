@@ -1,0 +1,576 @@
+{
+    "content": [
+        {
+            "id":"BracketOf8",
+            "linkage":"BracketOf8",
+
+            "lines":[
+                { "id":"line0",  "path":"line0", "sort":0  },
+                { "id":"line1",  "path":"line1", "sort":0  },
+                { "id":"line2",  "path":"line2", "sort":0  },
+                { "id":"line3",  "path":"line3", "sort":0  },
+                { "id":"line4",  "path":"line4", "sort":0  },
+                { "id":"line5",  "path":"line5", "sort":0  },
+                { "id":"line6",  "path":"line6", "sort":0  },
+                { "id":"line7",  "path":"line7", "sort":0  },
+                { "id":"line8",  "path":"line8", "sort":2  },
+                { "id":"line9",  "path":"line9", "sort":2  },
+                { "id":"line10", "path":"line10", "sort":2 },
+                { "id":"line11", "path":"line11", "sort":2 },
+                { "id":"line12", "path":"line12", "sort":4 },
+                { "id":"line13", "path":"line13", "sort":4 },
+                { "id":"line14", "path":"line14", "sort":1 },
+                { "id":"line15", "path":"line15", "sort":1 },
+                { "id":"line16", "path":"line16", "sort":1 },
+                { "id":"line17", "path":"line17", "sort":1 },
+                { "id":"line18", "path":"line18", "sort":1 },
+                { "id":"line19", "path":"line19", "sort":1 },
+                { "id":"line20", "path":"line20", "sort":1 },
+                { "id":"line21", "path":"line21", "sort":1 },
+                { "id":"line22", "path":"line22", "sort":3 },
+                { "id":"line23", "path":"line23", "sort":3 },
+                { "id":"line24", "path":"line24", "sort":3 },
+                { "id":"line25", "path":"line25", "sort":3 }
+            ],
+            
+            "matchups":[
+                {
+                    "id":"round0Matchup0",
+                    "sort":0,
+                    "slots":[
+                        {
+                            "id":"slot0",
+                            "path":"slot0",
+                            "lines":{
+                                "base":"line0",
+                                "connection":"line14"
+                            },
+                            "source":"PlayerEntry",
+                            "enterBehavior":"EnterLeft",
+                            "exitBehavior":"ExitLeft"
+                        },
+                        {
+                            "id":"slot1",
+                            "path":"slot1",
+                            "lines":{
+                                "base":"line1",
+                                "connection":"line15"
+                            },
+                            "source":"PlayerEntry",
+                            "enterBehavior":"EnterRight",
+                            "exitBehavior":"ExitRight"
+                        }
+                    ]
+                },
+                {
+                    "id":"round0Matchup1",
+                    "sort":1,
+                    "slots":[
+                        { 
+                            "id":"slot2",
+                            "path":"slot2",
+                            "lines":{
+                                "base":"line2",
+                                "connection":"line16"
+                            },
+                            "source":"PlayerEntry",
+                            "enterBehavior":"EnterLeft",
+                            "exitBehavior":"ExitLeft"
+                        },
+                        { 
+                            "id":"slot3",
+                            "path":"slot3",
+                            "lines":{
+                                "base":"line3",
+                                "connection":"line17"
+                            },
+                            "source":"PlayerEntry",
+                            "enterBehavior":"EnterRight",
+                            "exitBehavior":"ExitRight"
+                        }
+                    ]
+                },
+                {
+                    "id":"round0Matchup2",
+                    "sort":2,
+                    "slots":[
+                        { 
+                            "id":"slot4",
+                            "path":"slot4",
+                            "lines":{
+                                "base":"line4",
+                                "connection":"line18"
+                            },
+                            "source":"PlayerEntry",
+                            "enterBehavior":"EnterLeft",
+                            "exitBehavior":"ExitLeft"
+                        },
+                        { 
+                            "id":"slot5",
+                            "path":"slot5",
+                            "lines":{
+                                "base":"line5",
+                                "connection":"line19"
+                            },
+                            "source":"PlayerEntry",
+                            "enterBehavior":"EnterRight",
+                            "exitBehavior":"ExitRight"
+                        }
+                    ]
+                },
+                {
+                    "id":"round0Matchup3",
+                    "sort":3,
+                    "slots":[
+                        { 
+                            "id":"slot6",
+                            "path":"slot6",
+                            "lines":{
+                                "base":"line6",
+                                "connection":"line20"
+                            },
+                            "source":"PlayerEntry",
+                            "enterBehavior":"EnterLeft",
+                            "exitBehavior":"ExitLeft"
+                        },
+                        {
+                            "id":"slot7", 
+                            "path":"slot7",
+                            "lines":{
+                                "base":"line7",
+                                "connection":"line21"
+                            },
+                            "source":"PlayerEntry",
+                            "enterBehavior":"EnterRight",
+                            "exitBehavior":"ExitRight"
+                        }
+                    ]
+                },
+                {
+                    "id":"round1Matchup0",
+                    "sort":0,
+                    "slots":[
+                        { 
+                            "id":"slot8",
+                            "path":"slot8",
+                            "lines":{
+                                "base":"line8",
+                                "connection":"line22"
+                            },
+                            "source":"Winner(round0Matchup0)",
+                            "enterBehavior":"EnterLeft",
+                            "exitBehavior":"ExitLeft"
+                        },
+                        {
+                            "id":"slot9",
+                            "path":"slot9",
+                            "lines":{
+                                "base":"line9",
+                                "connection":"line23"
+                            },
+                            "source":"Winner(round0Matchup1)",
+                            "enterBehavior":"EnterRight",
+                            "exitBehavior":"ExitRight"
+                        }
+                    ]
+                },
+                {
+                    "id":"round1Matchup1",
+                    "sort":1,
+                    "slots":[
+                        { 
+                            "id":"slot10",
+                            "path":"slot10",
+                            "lines":{
+                                "base":"line10",
+                                "connection":"line24"
+                            },
+                            "source":"Winner(round0Matchup2)",
+                            "enterBehavior":"EnterLeft",
+                            "exitBehavior":"ExitLeft"
+                        },
+                        { 
+                            "id":"slot11",
+                            "path":"slot11",
+                            "lines":{
+                                "base":"line11",
+                                "connection":"line25"
+                            },
+                            "source":"Winner(round0Matchup3)",
+                            "enterBehavior":"EnterRight",
+                            "exitBehavior":"ExitRight"
+                        }
+                    ]
+                },
+                {
+                    "id":"round2Matchup0",
+                    "sort":0,
+                    "slots":[
+                        { 
+                            "id":"slot12",
+                            "path":"slot12",
+                            "lines":{
+                                "base":"line12",
+                                "connection":null
+                            },
+                            "source":"Winner(round1Matchup0)",
+                            "enterBehavior":"EnterLeft",
+                            "exitBehavior":"ExitLeft"
+                        },
+                        { 
+                            "id":"slot13",
+                            "path":"slot13",
+                            "lines":{
+                                "base":"line13",
+                                "connection":null
+                            },
+                            "source":"Winner(round1Matchup1)",
+                            "enterBehavior":"EnterRight",
+                            "exitBehavior":"ExitRight"
+                        }
+                    ]
+                }
+            ],
+            
+            "final":"round2Matchup0"
+        },
+        {
+            "id":"BracketOf16",
+            "linkage":"BracketOf16",
+
+            "lines":[
+                { "id":"line0",  "path":"line0", "sort":0  },
+                { "id":"line1",  "path":"line1", "sort":0  },
+                { "id":"line2",  "path":"line2", "sort":0  },
+                { "id":"line3",  "path":"line3", "sort":0  },
+                { "id":"line4",  "path":"line4", "sort":0  },
+                { "id":"line5",  "path":"line5", "sort":0  },
+                { "id":"line6",  "path":"line6", "sort":0  },
+                { "id":"line7",  "path":"line7", "sort":0  },
+                { "id":"line8",  "path":"line8", "sort":0  },
+                { "id":"line9",  "path":"line9", "sort":0  },
+                { "id":"line10", "path":"line10", "sort":0 },
+                { "id":"line11", "path":"line11", "sort":0 },
+                { "id":"line12", "path":"line12", "sort":0 },
+                { "id":"line13", "path":"line13", "sort":0 },
+                { "id":"line14", "path":"line14", "sort":0 },
+                { "id":"line15", "path":"line15", "sort":0 },
+                { "id":"line16", "path":"line16", "sort":3 },
+                { "id":"line17", "path":"line17", "sort":3 },
+                { "id":"line18", "path":"line18", "sort":3 },
+                { "id":"line19", "path":"line19", "sort":3 },
+                { "id":"line20", "path":"line20", "sort":5 },
+                { "id":"line21", "path":"line21", "sort":5 },
+                { "id":"line22", "path":"line22", "sort":1 },
+                { "id":"line23", "path":"line23", "sort":2 },
+                { "id":"line24", "path":"line24", "sort":2 },
+                { "id":"line25", "path":"line25", "sort":1 },
+                { "id":"line26", "path":"line26", "sort":1 },
+                { "id":"line27", "path":"line27", "sort":2 },
+                { "id":"line28", "path":"line28", "sort":2 },
+                { "id":"line29", "path":"line29", "sort":1 },
+                { "id":"line30", "path":"line30", "sort":1 },
+                { "id":"line31", "path":"line31", "sort":2 },
+                { "id":"line32", "path":"line32", "sort":2 },
+                { "id":"line33", "path":"line33", "sort":1 },
+                { "id":"line34", "path":"line34", "sort":1 },
+                { "id":"line35", "path":"line35", "sort":2 },
+                { "id":"line36", "path":"line36", "sort":2 },
+                { "id":"line37", "path":"line37", "sort":1 },
+                { "id":"line38", "path":"line38", "sort":4 },
+                { "id":"line39", "path":"line39", "sort":4 },
+                { "id":"line40", "path":"line40", "sort":4 },
+                { "id":"line41", "path":"line41", "sort":4 }
+            ],
+            
+            "matchups":[
+                {
+                    "id":"round0Matchup0",
+                    "sort":0,
+                    "slots":[
+                        {
+                            "id":"slot0",
+                            "path":"slot0",
+                            "lines":{
+                                "base":"line0",
+                                "connection":["line22", "line23"]
+                            },
+                            "source":"PlayerEntry",
+                            "enterBehavior":"EnterLeft",
+                            "exitBehavior":"ExitLeft"
+                        },
+                        {
+                            "id":"slot1",
+                            "path":"slot1",
+                            "lines":{
+                                "base":"line1",
+                                "connection":["line23"]
+                            },
+                            "source":"PlayerEntry",
+                            "enterBehavior":"EnterLeft",
+                            "exitBehavior":"ExitLeft"
+                        },
+                        {
+                            "id":"slot2",
+                            "path":"slot2",
+                            "lines":{
+                                "base":"line2",
+                                "connection":["line24"]
+                            },
+                            "source":"PlayerEntry",
+                            "enterBehavior":"EnterLeft",
+                            "exitBehavior":"ExitLeft"
+                        },
+                        {
+                            "id":"slot3",
+                            "path":"slot3",
+                            "lines":{
+                                "base":"line3",
+                                "connection":["line25", "line24"]
+                            },
+                            "source":"PlayerEntry",
+                            "enterBehavior":"EnterLeft",
+                            "exitBehavior":"ExitLeft"
+                        }
+                    ]
+                },
+                {
+                    "id":"round0Matchup1",
+                    "sort":1,
+                    "slots":[
+                        { 
+                            "id":"slot4",
+                            "path":"slot4",
+                            "lines":{
+                                "base":"line4",
+                                "connection":["line26", "line27"]
+                            },
+                            "source":"PlayerEntry",
+                            "enterBehavior":"EnterLeft",
+                            "exitBehavior":"ExitLeft"
+                        },
+                        { 
+                            "id":"slot5",
+                            "path":"slot5",
+                            "lines":{
+                                "base":"line5",
+                                "connection":["line27"]
+                            },
+                            "source":"PlayerEntry",
+                            "enterBehavior":"EnterLeft",
+                            "exitBehavior":"ExitLeft"
+                        },
+                        {
+                            "id":"slot6",
+                            "path":"slot6",
+                            "lines":{
+                                "base":"line6",
+                                "connection":["line28"]
+                            },
+                            "source":"PlayerEntry",
+                            "enterBehavior":"EnterLeft",
+                            "exitBehavior":"ExitLeft"
+                        },
+                        {
+                            "id":"slot7",
+                            "path":"slot7",
+                            "lines":{
+                                "base":"line7",
+                                "connection":["line29", "line28"]
+                            },
+                            "source":"PlayerEntry",
+                            "enterBehavior":"EnterLeft",
+                            "exitBehavior":"ExitLeft"
+                        }
+                    ]
+                },
+                {
+                    "id":"round0Matchup2",
+                    "sort":2,
+                    "slots":[
+                        { 
+                            "id":"slot8",
+                            "path":"slot8",
+                            "lines":{
+                                "base":"line8",
+                                "connection":["line30", "line31"]
+                            },
+                            "source":"PlayerEntry",
+                            "enterBehavior":"EnterRight",
+                            "exitBehavior":"ExitRight"
+                        },
+                        { 
+                            "id":"slot9",
+                            "path":"slot9",
+                            "lines":{
+                                "base":"line9",
+                                "connection":["line31"]
+                            },
+                            "source":"PlayerEntry",
+                            "enterBehavior":"EnterRight",
+                            "exitBehavior":"ExitRight"
+                        },
+                        {
+                            "id":"slot10",
+                            "path":"slot10",
+                            "lines":{
+                                "base":"line10",
+                                "connection":["line32"]
+                            },
+                            "source":"PlayerEntry",
+                            "enterBehavior":"EnterRight",
+                            "exitBehavior":"ExitRight"
+                        },
+                        {
+                            "id":"slot11",
+                            "path":"slot11",
+                            "lines":{
+                                "base":"line11",
+                                "connection":["line33", "line32"]
+                            },
+                            "source":"PlayerEntry",
+                            "enterBehavior":"EnterRight",
+                            "exitBehavior":"ExitRight"
+                        }
+                    ]
+                },
+                {
+                    "id":"round0Matchup3",
+                    "sort":3,
+                    "slots":[
+                        { 
+                            "id":"slot12",
+                            "path":"slot12",
+                            "lines":{
+                                "base":"line12",
+                                "connection":["line34", "line35"]
+                            },
+                            "source":"PlayerEntry",
+                            "enterBehavior":"EnterRight",
+                            "exitBehavior":"ExitRight"
+                        },
+                        {
+                            "id":"slot13", 
+                            "path":"slot13",
+                            "lines":{
+                                "base":"line13",
+                                "connection":["line35"]
+                            },
+                            "source":"PlayerEntry",
+                            "enterBehavior":"EnterRight",
+                            "exitBehavior":"ExitRight"
+                        },
+                        {
+                            "id":"slot14",
+                            "path":"slot14",
+                            "lines":{
+                                "base":"line14",
+                                "connection":["line36"]
+                            },
+                            "source":"PlayerEntry",
+                            "enterBehavior":"EnterRight",
+                            "exitBehavior":"ExitRight"
+                        },
+                        {
+                            "id":"slot15",
+                            "path":"slot15",
+                            "lines":{
+                                "base":"line15",
+                                "connection":["line37", "line36"]
+                            },
+                            "source":"PlayerEntry",
+                            "enterBehavior":"EnterRight",
+                            "exitBehavior":"ExitRight"
+                        }
+                    ]
+                },
+                {
+                    "id":"round1Matchup0",
+                    "sort":0,
+                    "slots":[
+                        { 
+                            "id":"slot16",
+                            "path":"slot16",
+                            "lines":{
+                                "base":"line16",
+                                "connection":"line38"
+                            },
+                            "source":"Winner(round0Matchup0)",
+                            "enterBehavior":"EnterLeft",
+                            "exitBehavior":"ExitLeft"
+                        },
+                        {
+                            "id":"slot17",
+                            "path":"slot17",
+                            "lines":{
+                                "base":"line17",
+                                "connection":"line39"
+                            },
+                            "source":"Winner(round0Matchup1)",
+                            "enterBehavior":"EnterRight",
+                            "exitBehavior":"ExitRight"
+                        }
+                    ]
+                },
+                {
+                    "id":"round1Matchup1",
+                    "sort":1,
+                    "slots":[
+                        { 
+                            "id":"slot18",
+                            "path":"slot18",
+                            "lines":{
+                                "base":"line18",
+                                "connection":"line40"
+                            },
+                            "source":"Winner(round0Matchup2)",
+                            "enterBehavior":"EnterLeft",
+                            "exitBehavior":"ExitLeft"                            
+                        },
+                        { 
+                            "id":"slot19",
+                            "path":"slot19",
+                            "lines":{
+                                "base":"line19",
+                                "connection":"line41"
+                            },
+                            "source":"Winner(round0Matchup3)",
+                            "enterBehavior":"EnterRight",
+                            "exitBehavior":"ExitRight"
+                        }
+                    ]
+                },
+                {
+                    "id":"round2Matchup0",
+                    "sort":0,
+                    "slots":[
+                        { 
+                            "id":"slot20",
+                            "path":"slot20",
+                            "lines":{
+                                "base":"line20",
+                                "connection":null
+                            },
+                            "source":"Winner(round1Matchup0)",
+                            "enterBehavior":"EnterLeft",
+                            "exitBehavior":"ExitLeft"
+                        },
+                        { 
+                            "id":"slot21",
+                            "path":"slot21",
+                            "lines":{
+                                "base":"line21",
+                                "connection":null
+                            },
+                            "source":"Winner(round1Matchup1)",
+                            "enterBehavior":"EnterRight",
+                            "exitBehavior":"ExitRight"
+                        }
+                    ]
+                }
+            ],
+            
+            "final":"round2Matchup0"
+        }
+    ]
+}

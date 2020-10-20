@@ -1,0 +1,1006 @@
+{
+    "content":[
+        {
+            "id":"00000000",
+            "windowTitle":"Message from Mom",
+            "messages":[
+                { 
+                    "from":"Mom",
+                    "text":"Please pick up some flushable wipes for dad.",
+                    "behavior":"on",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Todd",
+                    "text":"I can't talk now.",
+                    "behavior":"send",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Mom",
+                    "text":"Well last time you forgot and he got a butt rash.",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000001",
+            "windowTitle":"Message from Gene",
+            "messages":[
+                { 
+                    "from":"Gene",
+                    "text":"I'm lovin' my new haircut!",
+                    "behavior":"on",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Todd",
+                    "text":"awesome :)",
+                    "behavior":"send",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Gene",
+                    "text":"Thanks again. I'll give u one tmrw.",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                },
+                { 
+                    "from":"Todd",
+                    "text":"k",
+                    "behavior":"send",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000002",
+            "windowTitle":"Message from Gene",
+            "messages":[
+                { 
+                    "from":"Gene",
+                    "text":"What are you wearing to the wedding?",
+                    "behavior":"on",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Todd",
+                    "text":"Dunno. Probably a suit and Chuck Taylors.",
+                    "behavior":"send",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Gene",
+                    "text":"A suit with sneakers?!",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                },
+                { 
+                    "from":"Gene",
+                    "text":"You are the coolest person I know.",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000003",
+            "windowTitle":"Message from Dee23",
+            "messages":[
+                { 
+                    "from":"Dee23",
+                    "text":"Hey cutie ;)",
+                    "behavior":"on",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Todd",
+                    "text":"Hi...do I know you?",
+                    "behavior":"send",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Dee23",
+                    "text":"check me out at lonelyvideogamesgirls.biz",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                },
+                { 
+                    "from":"Todd",
+                    "text":"I will later. Thanks for the invite, ma'am!",
+                    "behavior":"send",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000004",
+            "windowTitle":"Message from Mom",
+            "messages":[
+                { 
+                    "from":"Mom",
+                    "text":"LucyLovesYarn42",
+                    "behavior":"on",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Todd",
+                    "text":"What are you doing, Mom?",
+                    "behavior":"send",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Mom",
+                    "text":"LucyLovesYarn42",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                },
+                { 
+                    "from":"Todd",
+                    "text":"This is NOT where your password goes, Mom!",
+                    "behavior":"send",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000005",
+            "windowTitle":"Message from Mom",
+            "messages":[
+                { 
+                    "from":"Mom",
+                    "text":"When you get a sec, can you come in here?",
+                    "behavior":"on",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Todd",
+                    "text":"I’m not checking dad for ticks again.",
+                    "behavior":"send",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Mom",
+                    "text":"I just need help with the thighs!",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000006",
+            "windowTitle":"Message from Gene",
+            "messages":[
+                { 
+                    "from":"Gene",
+                    "text":"Did you look it up?",
+                    "behavior":"on",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Todd",
+                    "text":"Yeah.",
+                    "behavior":"send",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Gene",
+                    "text":"And?!",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                },
+                { 
+                    "from":"Todd",
+                    "text":"Tom Petty does not have a son named Manny.",
+                    "behavior":"send",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000007",
+            "windowTitle":"Message to Mom",
+            "messages":[
+                { 
+                    "from":"Todd",
+                    "text":"How was yesterday?",
+                    "behavior":"send",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Mom",
+                    "text":"Good! I did a lot of retail therapy.",
+                    "behavior":"receive",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Todd",
+                    "text":"Bought a lot, huh?",
+                    "behavior":"send",
+                    "timeTilNextMessage":3.0
+                },
+                { 
+                    "from":"Mom",
+                    "text":"No, but I vented about your father to the sales clerk.",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000008",
+            "windowTitle":"Message to Dad",
+            "messages":[
+                { 
+                    "from":"Todd",
+                    "text":"I heard you guys got a new mattress.",
+                    "behavior":"send",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Dad",
+                    "text":"Yeah. BIG mistake.",
+                    "behavior":"receive",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Todd",
+                    "text":"Why’s that?",
+                    "behavior":"send",
+                    "timeTilNextMessage":3.0
+                },
+                { 
+                    "from":"Dad",
+                    "text":"I went to the mattress store sleepy and overspent.",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000009",
+            "windowTitle":"Message from Gene",
+            "messages":[
+                { 
+                    "from":"Gene",
+                    "text":"You free tomorrow night?",
+                    "behavior":"on",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Todd",
+                    "text":"Yeah! What’s up?",
+                    "behavior":"send",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Gene",
+                    "text":"I’ve got an improv show!",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                },
+                { 
+                    "from":"Todd",
+                    "text":"Oh wait… I’m busy. Yeah, definitely busy.",
+                    "behavior":"send",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000010",
+            "windowTitle":"Message from Gene",
+            "messages":[
+                { 
+                    "from":"Gene",
+                    "text":"Sorry for ghosting last night at the party.",
+                    "behavior":"on",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Todd",
+                    "text":"That’s ok.",
+                    "behavior":"send",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Todd",
+                    "text":"I just wish you hadn’t cut up my bedsheet",
+                    "behavior":"send",
+                    "timeTilNextMessage":3.0
+                },
+                { 
+                    "from":"Gene",
+                    "text":":(",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000011",
+            "windowTitle":"Message from Gene",
+            "messages":[
+                { 
+                    "from":"Gene",
+                    "text":"Did it work?",
+                    "behavior":"on",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Todd",
+                    "text":"No. Neither did darkweb.org or darkweb.gov",
+                    "behavior":"send",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Gene",
+                    "text":"How do we access it then?!",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                },
+                { 
+                    "from":"Todd",
+                    "text":"I have no idea.",
+                    "behavior":"send",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000012",
+            "windowTitle":"Message from Dad",
+            "messages":[
+                { 
+                    "from":"Dad",
+                    "text":"Hey, son.",
+                    "behavior":"on",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Todd",
+                    "text":"Hi, dad.",
+                    "behavior":"send",
+                    "timeTilNextMessage":3.0
+                },
+                { 
+                    "from":"Dad",
+                    "text":"Ok, good talk.",
+                    "behavior":"receive",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Dad",
+                    "text":"Gotta run.",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000013",
+            "windowTitle":"Message from Mom",
+            "messages":[
+                { 
+                    "from":"Mom",
+                    "text":"Are you still playing that game?",
+                    "behavior":"on",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Todd",
+                    "text":"It’s not just a “game” mom.",
+                    "behavior":"send",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Todd",
+                    "text":"IT’S. MY. LIFE.",
+                    "behavior":"send",
+                    "timeTilNextMessage":3.0
+                },
+                { 
+                    "from":"Mom",
+                    "text":"Whatever. Just remember to bring home toilet paper.",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000014",
+            "windowTitle":"Message from Gene",
+            "messages":[
+                { 
+                    "from":"Gene",
+                    "text":"Do you ever play any other games?",
+                    "behavior":"on",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Todd",
+                    "text":"Occasionely",
+                    "behavior":"send",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Todd",
+                    "text":"Ocassianaly",
+                    "behavior":"send",
+                    "timeTilNextMessage":2.0
+                },
+                { 
+                    "from":"Todd",
+                    "text":"Sometimes.",
+                    "behavior":"send",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000015",
+            "windowTitle":"Message from Mom",
+            "messages":[
+                { 
+                    "from":"Mom",
+                    "text":"I hope you’re having a good day, sweetie. Love, Mom.",
+                    "behavior":"on",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Todd",
+                    "text":"Thanks, mom, but you don’t have to sign your name.",
+                    "behavior":"send",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Todd",
+                    "text":"I know you’re typing to me.",
+                    "behavior":"send",
+                    "timeTilNextMessage":3.0
+                },
+                { 
+                    "from":"Mom",
+                    "text":"OH, I see. Love, Mom.",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000016",
+            "windowTitle":"Message from Mom",
+            "messages":[
+                { 
+                    "from":"Mom",
+                    "text":"I finally figured out emojis!",
+                    "behavior":"on",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Mom",
+                    "text":"&:X=:=",
+                    "behavior":"receive",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Todd",
+                    "text":"That didn’t work.",
+                    "behavior":"send",
+                    "timeTilNextMessage":3.0
+                },
+                { 
+                    "from":"Mom",
+                    "text":"Shoot! Oh, I figured it out! &:X=:=",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000017",
+            "windowTitle":"Message from Mom",
+            "messages":[
+                { 
+                    "from":"Mom",
+                    "text":"Did your computer get hacked?",
+                    "behavior":"on",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Todd",
+                    "text":"No. Why?",
+                    "behavior":"send",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Mom",
+                    "text":"I saw you post a nice comment on my wall.",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000018",
+            "windowTitle":"Message from Gene",
+            "messages":[
+                { 
+                    "from":"Gene",
+                    "text":"Yeah, sometimes Todd can be really annoying.",
+                    "behavior":"on",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Todd",
+                    "text":"Uh...",
+                    "behavior":"send",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Gene",
+                    "text":"Oh hahaha jk! Just doing a fun bit!",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                },
+                { 
+                    "from":"Gene",
+                    "text":"I'm definitely not chatting with Susan right now!",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000019",
+            "windowTitle":"Message from Gene",
+            "messages":[
+                { 
+                    "from":"Gene",
+                    "text":"Yo!",
+                    "behavior":"on",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Gene",
+                    "text":"Hey!",
+                    "behavior":"receive",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Todd",
+                    "text":"What’s up?",
+                    "behavior":"send",
+                    "timeTilNextMessage":2.0
+                },
+                { 
+                    "from":"Gene",
+                    "text":"nothin",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000020",
+            "windowTitle":"Message from Dad",
+            "messages":[
+                { 
+                    "from":"Dad",
+                    "text":"I’m proud of you, son.",
+                    "behavior":"on",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Todd",
+                    "text":"...Mom?",
+                    "behavior":"send",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Todd",
+                    "text":"Is that you?",
+                    "behavior":"send",
+                    "timeTilNextMessage":3.0
+                },
+                { 
+                    "from":"Dad",
+                    "text":"He might not say it but he means it!",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000021",
+            "windowTitle":"Message from Gene",
+            "messages":[
+                { 
+                    "from":"Gene",
+                    "text":"Sarah asked me if you live at the gym!",
+                    "behavior":"on",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Todd",
+                    "text":"Oh yeah?!",
+                    "behavior":"send",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Todd",
+                    "text":"I guess I am getting ripped!",
+                    "behavior":"send",
+                    "timeTilNextMessage":3.0
+                },
+                { 
+                    "from":"Gene",
+                    "text":"She asked b/c she thought u were homeless. :(",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000022",
+            "windowTitle":"Message to Mom",
+            "messages":[
+                { 
+                    "from":"Todd",
+                    "text":"How did the yard sale go?",
+                    "behavior":"send",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Mom",
+                    "text":"Good! We sold all of the stuff you’ve left here.",
+                    "behavior":"receive",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Todd",
+                    "text":"What?!",
+                    "behavior":"send",
+                    "timeTilNextMessage":3.0
+                },
+                { 
+                    "from":"Mom",
+                    "text":"Kidding! Just your clothes and DVDs.",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000023",
+            "windowTitle":"Message from Dee23",
+            "messages":[
+                { 
+                    "from":"Dee23",
+                    "text":"what u doin l8er? lonelyvideogamegirls.biz",
+                    "behavior":"on",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Todd",
+                    "text":"uh, hey. I’m planning on reading some Thoreau",
+                    "behavior":"send",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Dee23",
+                    "text":"sounds hott. I want to hear all about it",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                },
+                { 
+                    "from":"Todd",
+                    "text":"Well he moves to this pond and decides to plant beans...",
+                    "behavior":"send",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000024",
+            "windowTitle":"Message from Gene",
+            "messages":[
+                { 
+                    "from":"Gene",
+                    "text":"We on for tonight?",
+                    "behavior":"on",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Todd",
+                    "text":"I told you no",
+                    "behavior":"send",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Gene",
+                    "text":"C’mon!",
+                    "behavior":"receive",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Gene",
+                    "text":"I can’t cosplay as Angel unless you’re Buffy",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000025",
+            "windowTitle":"Message from Mom",
+            "messages":[
+                { 
+                    "from":"Mom",
+                    "text":"I thought you were stuck in Germany.",
+                    "behavior":"on",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Todd",
+                    "text":"What? No. I’ve been here the whole time.",
+                    "behavior":"send",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Mom",
+                    "text":"Then who did I send $10,000 to?!",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000026",
+            "windowTitle":"Message from Mom",
+            "messages":[
+                { 
+                    "from":"Mom",
+                    "text":"Dear Diary, I had that dream about Antonio again.",
+                    "behavior":"on",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Todd",
+                    "text":"Mom, this isn’t your journal!",
+                    "behavior":"send",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Mom",
+                    "text":"He found me in the kitchen, drenched from the rain.",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000027",
+            "windowTitle":"Message from Liz",
+            "messages":[
+                { 
+                    "from":"Liz",
+                    "text":"Now tighten the hex wrench and your futon is complete.",
+                    "behavior":"on",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Todd",
+                    "text":"Thanks! I’m glad your business does this.",
+                    "behavior":"send",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Todd",
+                    "text":"And sorry for crying when I couldn’t find a wrench.",
+                    "behavior":"send",
+                    "timeTilNextMessage":3.0
+                },
+                { 
+                    "from":"Liz",
+                    "text":"Happens all the time.",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000028",
+            "windowTitle":"Message from Mom",
+            "messages":[
+                { 
+                    "from":"Mom",
+                    "text":"Did you delete WordPuttz off my phone?",
+                    "behavior":"on",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Todd",
+                    "text":"Nobody plays that anymore",
+                    "behavior":"send",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Mom",
+                    "text":"I don’t care! I love it!",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000029",
+            "windowTitle":"Message from Gene",
+            "messages":[
+                { 
+                    "from":"Gene",
+                    "text":"You having a rough day too?",
+                    "behavior":"on",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Todd",
+                    "text":"Yeah. Last night was crazy.",
+                    "behavior":"send",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Gene",
+                    "text":"Why did we drink so many Mr. Pibbs?!",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000030",
+            "windowTitle":"Message from Walt",
+            "messages":[
+                { 
+                    "from":"Walt",
+                    "text":"Hey, Todder!",
+                    "behavior":"on",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Todd",
+                    "text":"Hi Uncle Walter",
+                    "behavior":"send",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Walt",
+                    "text":"I almost typed TODDLER :)",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                },
+                { 
+                    "from":"Todd",
+                    "text":"... that’s never not funny.",
+                    "behavior":"send",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000031",
+            "windowTitle":"Message from Dee23",
+            "messages":[
+                { 
+                    "from":"Dee23",
+                    "text":"Hey cutie! What's up? Lonelygamegirls.biz",
+                    "behavior":"on",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Todd",
+                    "text":"Making some gazpacho.",
+                    "behavior":"send",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Dee23",
+                    "text":"Sounds hot!",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                },
+                { 
+                    "from":"Todd",
+                    "text":"No, it’s gazpacho. It’s cold.",
+                    "behavior":"send",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000032",
+            "windowTitle":"Message from Mom",
+            "messages":[
+                { 
+                    "from":"Mom",
+                    "text":"I have a computer question.",
+                    "behavior":"on",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Todd",
+                    "text":"Sorry, I’m busy. Maybe later?",
+                    "behavior":"send",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Mom",
+                    "text":"Ok, hopefully the fire dies down.",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000033",
+            "windowTitle":"Message from Mom",
+            "messages":[
+                { 
+                    "from":"Mom",
+                    "text":"Your cousin is here.",
+                    "behavior":"on",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Mom",
+                    "text":"When are you coming over?",
+                    "behavior":"receive",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Todd",
+                    "text":"After the game.",
+                    "behavior":"send",
+                    "timeTilNextMessage":3.0
+                },
+                { 
+                    "from":"Mom",
+                    "text":"Please hurry. He creeps me out.",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        },
+        {
+            "id":"00000034",
+            "windowTitle":"Message from Gene",
+            "messages":[
+                { 
+                    "from":"Gene",
+                    "text":"I had that dream again...",
+                    "behavior":"on",
+                    "timeTilNextMessage":0.5
+                },
+                { 
+                    "from":"Todd",
+                    "text":"I thought we agreed not to talk about it.",
+                    "behavior":"send",
+                    "timeTilNextMessage":1.0
+                },
+                { 
+                    "from":"Gene",
+                    "text":"It has to mean something!",
+                    "behavior":"receive",
+                    "timeTilNextMessage":3.0
+                },
+                { 
+                    "from":"Todd",
+                    "text":"I have to go.",
+                    "behavior":"send",
+                    "timeTilNextMessage":3.0
+                }
+            ]
+        }
+    ]
+}
