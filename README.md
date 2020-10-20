@@ -1,8 +1,7 @@
 # Jackbox Party Pack - Localization - Tradução português - pt_br
 
+O objetivo inicial do projeto não é traduzir todo jogo, estarei começando pelos modulos que considero principais e essenciais.
 
-O OBJETIVO INICIAL DO PROJETO NÃO É TRADUZIR TODO JOGO, 
-ESTAREI COMEÇANDO PELOS MODULOS QUE CONSIDERO PRINCIPAIS E ESSENCIAIS.
 
 # Progresso:
 
