@@ -8,7 +8,11 @@ O objetivo inicial do projeto não é traduzir todo jogo, estarei começando pel
 
 - [x] Adicionar arquivos de todos os jogos para tradução.
 
+## The Jackbox Party Pack 2
 
+## The Jackbox Party Pack 3
+
+## The Jackbox Party Pack 4
 
 ## The Jackbox Party Pack 5
  - PatentlyStupid 
