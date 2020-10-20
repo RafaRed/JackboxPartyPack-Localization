@@ -1,0 +1,68 @@
+{
+    "content":[
+        {
+            "id":"BasicTerrain",
+            "type":0,
+            "friction": 0.2,
+            "restitution": 0.4,
+            "allowSleep": true
+        },
+        {
+            "id":"OneWayPlatform",
+            "type":0,
+            "behaviorClass":"jackboxgames.slingshoot.model.terrain.OneWayPlatformResolver",
+            "friction": 0.2,
+            "restitution": 0.4,
+            "allowSleep": true
+        },
+        {
+            "id":"Bumper",
+            "type":0,
+            "behaviorClass":"jackboxgames.slingshoot.model.terrain.BumperResolver",
+            "friction": 0.2,
+            "restitution": 0.4,
+            "impulseTarget": 22.0,
+            "allowSleep": true
+        },
+        {
+            "id":"DomeBarrier",
+            "type":0,
+            "behaviorClass":"jackboxgames.slingshoot.model.terrain.DomeBarrierResolver",
+            "friction": 0.2,
+            "restitution": 0.4,
+            "impulseTarget": 0.7,
+            "allowSleep": true
+        },
+        {
+            "id":"ColorBarrier",
+            "type":0,
+            "behaviorClass":"jackboxgames.slingshoot.model.terrain.ColorBarrierResolver",
+            "friction": 0.2,
+            "restitution": 0.4,
+            "firstColorChangeTime": 1,
+            "changeTimeMin": 6.0,
+            "changeTimeMax": 10.0,
+            "warningTime": 1.0,
+            "flickerDelay": 0.1,
+            "allowSleep": true
+        },
+        {
+            "id":"CeilingBarrier",
+            "type":0,
+            "behaviorClass":"jackboxgames.slingshoot.model.terrain.CeilingBarrierResolver",
+            "friction": 0.0,
+            "restitution": 1.0,
+            "impulseTarget": 0.7,
+            "allowSleep": true
+        },
+        {
+            "id":"Portal",
+            "type":0,
+            "behaviorClass":"jackboxgames.slingshoot.model.terrain.PortalResolver",
+            "friction": 0.0,
+            "boostImpulse": 8.0,
+            "isSensor": true,
+            "allowSleep": true
+        }
+   ]
+}
