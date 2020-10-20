@@ -1,12 +1,13 @@
 # Jackbox Party Pack - Localization ( tradução pt_br)
 
-O OBJETIVO INICIAL DO PROJETO NÃO É TRADUZIR TODO JOGO, ESTAREI COMEÇANDO PELOS MODULOS QUE CONSIDERO PRINCIPAIS E ESSENCIAIS.
+O OBJETIVO INICIAL DO PROJETO NÃO É TRADUZIR TODO JOGO, 
+ESTAREI COMEÇANDO PELOS MODULOS QUE CONSIDERO PRINCIPAIS E ESSENCIAIS.
 
-# PROGRESSO:
 
-- [ ] Adicionar arquivos de todos os jogos para tradução.
+# Progresso:
 
-## The Jackbox Party Pack 4
+- [x] Adicionar arquivos de todos os jogos para tradução.
+( Alguns arquivos menores e arquivos de som não foram adicionados, caso necessario estarei adicionando )
 
 ## The Jackbox Party Pack 5
  - PatentlyStupid 
