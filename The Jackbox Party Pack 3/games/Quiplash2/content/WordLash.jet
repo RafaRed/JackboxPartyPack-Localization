@@ -1,0 +1,90 @@
+{
+    "content":[
+        {
+            "id":0,
+            "type":"WordLash",
+            "quip":"Come up with a new hilarious sitcom with this word in the title:"
+        },
+        {
+            "id":1,
+            "type":"WordLash",
+            "quip":"Come up with a new TV show with this word in the title:"
+        },
+        {
+            "id":2,
+            "type":"WordLash",
+            "quip":"Come up with a hit song with this word in the title:"
+        },
+        {
+            "id":3,
+            "type":"WordLash",
+            "quip":"Come up with a romantic comedy film with this word in the title:"
+        },
+        {
+            "id":4,
+            "type":"WordLash",
+            "quip":"Come up with a classic novel with this word in the title:"
+        },
+        {
+            "id":5,
+            "type":"WordLash",
+            "quip":"Come up with a new sport with this word in its name:"
+        },
+        {
+            "id":6,
+            "type":"WordLash",
+            "quip":"Come up with an award-winning movie with this word in its title:"
+        },
+        {
+            "id":7,
+            "type":"WordLash",
+            "quip":"Come up with a shocking newspaper headline with this word in its title:"
+        },
+        {
+            "id":8,
+            "type":"WordLash",
+            "quip":"Come up with a new cartoon character with this word in his name:"
+        },
+        {
+            "id":9,
+            "type":"WordLash",
+            "quip":"Come up with a hot new Broadway musical with this word in its name:"
+        },
+        {
+            "id":10,
+            "type":"WordLash",
+            "quip":"Come up with a fast food restaurant with this word in its name:"
+        },
+        {
+            "id":11,
+            "type":"WordLash",
+            "quip":"Come up with a hit new video game with this word in its title:"
+        },
+        {
+            "id":12,
+            "type":"WordLash",
+            "quip":"Come up with a music group with this word in their name:"
+        },
+        {
+            "id":13,
+            "type":"WordLash",
+            "quip":"Come up with a clever insult using this word:"
+        },
+        {
+            "id":14,
+            "type":"WordLash",
+            "quip":"Come up with a flashy wrestling move with this word in its name:"
+        },
+        {
+            "id":15,
+            "type":"WordLash",
+            "quip":"Come up with a new snack food with this word in its name:"
+        },
+        {
+            "id":16,
+            "type":"WordLash",
+            "quip":"Come up with a hot new website with this word in its name:"
+        }
+    ],
+    "episodeid":1
+}
