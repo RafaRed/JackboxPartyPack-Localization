@@ -10,7 +10,7 @@ O objetivo inicial do projeto não é traduzir todo jogo, estarei começando pel
 
 ## The Jackbox Party Pack 2
  - Bidiots
-   - [ ] tradução das dicas
+   - [x] tradução das dicas
    - [ ] tradução das categorias
 
 ## The Jackbox Party Pack 3
