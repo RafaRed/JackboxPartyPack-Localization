@@ -1,0 +1,32 @@
+[
+    {
+        "title":"PLAY GAME",
+        "action":"doPlayGame",
+        "description":"Create a game room & play",
+        "value":0
+    },
+    {
+        "title":"MAKE YOUR OWN",
+        "action":"doUGC",
+        "description":"Create your own prompts",
+        "value":1
+    },
+    {
+        "title":"LEADERBOARD",
+        "action":"doLeaderboards",
+        "description":"Track stats from your recent games",
+        "value":2
+    },
+    {
+        "title":"SETTINGS",
+        "action":"doSettings",
+        "description":"Family-Friendly Filter, Audience options, & more",
+        "value":3
+    },
+    {
+        "title":"BACK TO PACK",
+        "action":"doBackToPack",
+        "description":"Exit back to the Party Pack",
+        "value":4
+    }
+]

@@ -1,0 +1,18 @@
+{
+    "payload":[
+        { "determiner": "having" },
+        { "determiner": "having a" },
+        { "determiner": "drinking" },
+        { "determiner": "drinking a" },
+        { "determiner": "wanting" },
+        { "determiner": "wanting a" },
+        { "determiner": "needing" },
+        { "determiner": "needing a" },
+        { "determiner": "craving" },
+        { "determiner": "craving a" },
+        { "determiner": "downing" },
+        { "determiner": "downing a" },
+        { "determiner": "guzzling" },
+        { "determiner": "guzzling a" }
+    ]
+}

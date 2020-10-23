@@ -1,0 +1,30 @@
+{
+    "views": [
+        {
+            "id": "session",
+            "name": "Session Stats",
+            "description": "Stats from the current play session (These stats will reset when you quit the game.)"
+        },
+        {
+            "id": "twitch",
+            "name": "Twitch Stats",
+            "description": "Stats from Twitch-locked games (These stats are saved even after you quit the game.)"
+        }
+    ],
+    "columns": [{
+        "id": "playerName",
+        "name": "Player Name"
+    }, {
+        "id": "topScore",
+        "name": "High Score"
+    }, {
+        "id": "averageScore",
+        "name": "Average Score"
+    }, {
+        "id": "gamesPlayed",
+        "name": "Games Played"
+    }, {
+        "id": "quiplashes",
+        "name": "Quiplashes"
+    }]
+}

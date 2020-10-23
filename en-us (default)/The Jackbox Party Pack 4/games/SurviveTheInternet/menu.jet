@@ -1,0 +1,23 @@
+{
+    "localized" : "true",
+    "items": [
+        {
+            "title":"PLAY",
+            "action":"doPlayGame",
+            "description":"PLAY_DESCRIPTION",
+            "value":0
+        },
+        {
+            "title":"SETTINGS",
+            "action":"doSettings",
+            "description":"SETTINGS_DESCRIPTION",
+            "value":1
+        },
+        {
+            "title":"QUIT_GAME",
+            "action":"doBackToPack",
+            "description":"BACK_TO_PACK_DESCRIPTION",
+            "value":3
+        }
+    ]
+}

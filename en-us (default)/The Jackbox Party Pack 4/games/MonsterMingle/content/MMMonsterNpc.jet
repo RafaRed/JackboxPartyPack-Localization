@@ -1,0 +1,26 @@
+{
+    "content":[
+        {
+            "id":"Robot",
+            "frame":"Monster17",
+            "name":"Robot",
+            "role":"Bot",
+            
+            "shortDescription": "",
+            "description":"ROBOT: Randomly dates 1 of the players that messages and tries to date it each night.</br>At end of game, if Robot is in last place, it fails to understand human emotions and destroys everyone. (Everyone loses)</br>Robot gains a heart for EVERY player that even tries to date it each night.</br>BUT… it also loses a heart at the end of each night.",
+            "selfDescription":"",
+            "powerpopup": {"single": "Asked out by one player.",
+                           "multiple": "Asked out by [Number] players.",
+                           "decay": "Robot loses 1 heart each night",
+                           "destroy": "Robot destroys everyone!"},
+            "epitaph": { "nobody": "Wasn't asked out, not even once.",
+                         "singular": "Asked out once.",
+                         "plural": "Asked out [Number] times.",
+                         "destroyer": "<br />And regrets destroying humanity.",
+                         "winner": "<br />And somehow won!",
+                         "loser": "<br />And didn’t come in last (thankfully)." },
+
+            "behaviorClass":"jackboxgames.monstermingle.monsterbehavior.Robot"
+        }
+    ]
+}

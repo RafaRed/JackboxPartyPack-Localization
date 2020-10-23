@@ -1,0 +1,58 @@
+{
+
+    "payload":[
+
+        { "id": "MISC", "iconFrame":"Miscellaneous", "joinAudioKey":"JOIN_MISC" },
+
+        { "id": "CLEANING", "iconFrame":"Cleaning", "joinAudioKey":"JOIN_CLEANING" }, 
+
+        { "id": "FIXING", "iconFrame":"Fixing", "joinAudioKey":"JOIN_FIXING" }, 
+
+        { "id": "COOKING", "iconFrame":"Cooking", "joinAudioKey":"JOIN_COOKING" }, 
+
+        { "id": "CLOTHES", "iconFrame":"Clothes", "joinAudioKey":"JOIN_CLOTHES" }, 
+
+        { "id": "KITCHEN", "iconFrame":"Kitchen", "joinAudioKey":"JOIN_KITCHEN" }, 
+
+        { "id": "BATHROOM", "iconFrame":"Bathroom", "joinAudioKey":"JOIN_BATHROOM" }, 
+
+        { "id": "RECREATION", "iconFrame":"Recreation", "joinAudioKey":"JOIN_RECREATION" }, 
+
+        { "id": "BEDROOM", "iconFrame":"Bedroom", "joinAudioKey":"JOIN_BEDROOM" }, 
+
+        { "id": "GUESTS", "iconFrame":"Guests", "joinAudioKey":"JOIN_GUESTS" }, 
+
+        { "id": "YARD_WORK", "iconFrame":"Yard Work", "joinAudioKey":"JOIN_YARDWORK" }, 
+
+        { "id": "PLAYING", "iconFrame":"Playing Outside", "joinAudioKey":"JOIN_PLAYING_OUTSIDE" }, 
+
+        { "id": "PAPERWORK", "iconFrame":"Paperwork", "joinAudioKey":"JOIN_PAPERWORK" }, 
+
+        { "id": "DECORATING", "iconFrame":"Decorating", "joinAudioKey":"JOIN_DECORATING" }, 
+
+        { "id": "TALKING", "iconFrame":"Talking", "joinAudioKey":"JOIN_TALKING" }, 
+
+        { "id": "ERRAND", "iconFrame":"Errand", "joinAudioKey":"JOIN_ERRAND" }, 
+
+        { "id": "FAMILY_TASK", "iconFrame":"Family Moment", "joinAudioKey":"JOIN_FAMILY_TASK" },
+
+        { "id": "FAMILY_MOMENT", "iconFrame":"Family Moment", "joinAudioKey":"JOIN_FAMILY_MOMENT" }, 
+
+        { "id": "SEARCH_FIND", "iconFrame":"Search/Find", "joinAudioKey":"JOIN_SEARCH_FIND" },
+
+        { "id": "CANCELER", "iconFrame":"Canceler", "joinAudioKey":"JOIN_CANCELER" },
+
+        { "id": "SELFISH", "iconFrame":"Selfish", "joinAudioKey":"JOIN_SELFISH" },
+
+        { "id": "STORY", "iconFrame":"Story", "joinAudioKey":"JOIN_MISC" },
+
+        { "id": "AUDIENCE", "iconFrame":"Audience", "joinAudioKey":"JOIN_AUDIENCE" }
+
+    ]
+
+}
+
+
+
+
+
