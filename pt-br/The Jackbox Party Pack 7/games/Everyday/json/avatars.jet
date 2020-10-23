@@ -1,0 +1,12 @@
+{
+    "payload": [
+        { "id": "Adult0", "forRoleId": "ADULT" },
+        { "id": "Adult1", "forRoleId": "ADULT" },
+        { "id": "Teen0",  "forRoleId": "TEEN"  },
+        { "id": "Teen1",  "forRoleId": "TEEN"  },
+        { "id": "Teen2",  "forRoleId": "TEEN"  },
+        { "id": "Child0", "forRoleId": "CHILD" },
+        { "id": "Child1", "forRoleId": "CHILD" },
+        { "id": "Child2", "forRoleId": "CHILD" }
+    ]
+}

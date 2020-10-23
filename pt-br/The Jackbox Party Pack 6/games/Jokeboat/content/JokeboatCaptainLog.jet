@@ -1,0 +1,364 @@
+{
+    "content": [
+        {
+            "doodle": "Log1", 
+            "id": 1, 
+            "log": "If you listen to the ocean, it is almost always making fun of you.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log2", 
+            "id": 2, 
+            "log": "Today I discovered mayonnaise is a great sunscreen substitute if you don\u2019t mind crispy skin!", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log3", 
+            "id": 3, 
+            "log": "No one uses the sauna at 7AM. It\u2019s a great spot for crying alone!", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log4", 
+            "id": 4, 
+            "log": "One time I thought I found a lighthouse, but it turned out to be the band Lifehouse. Stayed for the whole concert.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log5", 
+            "id": 5, 
+            "log": "Thinking about starting a podcast about whales called The Pod Pod.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log6", 
+            "id": 6, 
+            "log": "My YouTube video \u201cEpic Sails\u201d got another four hits today. ", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log7", 
+            "id": 7, 
+            "log": "Reminder: Try not to hit anything with the boat today.", 
+            "x": true
+        }, 
+        {
+            "doodle": "Log8", 
+            "id": 8, 
+            "log": "Accidentally joined a conga line today. I guess sometimes the rhythm IS going to get you. Proceed with caution.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log9", 
+            "id": 9, 
+            "log": "\u201cIf you go fishing for compliments, you might FLOUNDER\u201d - putting this on a t-shirt. How many should I make? 25k?", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log10", 
+            "id": 10, 
+            "log": "I fell in love with a persistent seagull, but discovered later that she was only after my lunch.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log11", 
+            "id": 11, 
+            "log": "I put salt water in my oatmeal. I call it BOATMEAL\u2026 I\u2019ve thrown up four times today.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log12", 
+            "id": 12, 
+            "log": "I can\u2019t believe I didn\u2019t book that frozen fish spokesperson gig! I almost had fish stick money!! ", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log13", 
+            "id": 13, 
+            "log": "There are good ships and there are wood ships, but the best ships are free online memberships. ", 
+            "x": true
+        }, 
+        {
+            "doodle": "Log14", 
+            "id": 14, 
+            "log": "Still haven\u2019t heard back from Sandra Bullock. Did she forget I was a consultant on Speed 2: Cruise Control??", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log15", 
+            "id": 15, 
+            "log": "How many plastic bottles are on the bottom of the ocean? I think about this every time I chuck one overboard.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log16", 
+            "id": 16, 
+            "log": "I should rename the Lazy River something more positive. Sleepy River? River That Just Needs Motivation?", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log17", 
+            "id": 17, 
+            "log": "Accidentally spilled coffee all over the ship\u2019s operating manual. Talk about foreshadowing! ", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log18", 
+            "id": 18, 
+            "log": "Making good progress on my self-help book \u201cHow to Go from a Cap 1 to a Cap 10\u201d ", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log19", 
+            "id": 19, 
+            "log": "It\u2019s been a rough day. Another child stole my flare gun and shot me in the butt. ", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log20", 
+            "id": 20, 
+            "log": "Made good progress on my Sir Mix-a-Lot parody \u201cI like big BOATS and I cannot lie\u2026\u201d", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log21", 
+            "id": 21, 
+            "log": "Getting sand in your underpants is bad. Even worse? It happening because you sat on an hourglass. OWIE!!!", 
+            "x": true
+        }, 
+        {
+            "doodle": "Log22", 
+            "id": 22, 
+            "log": "T-shirt idea: \u201cI\u2019m ashore thing.\u201d Hmmm better put this mock-up in a safe. ", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log23", 
+            "id": 23, 
+            "log": "I wonder if anybody\u2019s noticed that none of the toilets work\u2026 ", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log24", 
+            "id": 24, 
+            "log": "Can I pull off a romper? Seriously, how do I get this off?", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log25", 
+            "id": 25, 
+            "log": "Never accept a double dog dare to try and jump the volleyball net. Kid just left me hanging there for 3 hours.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log26", 
+            "id": 26, 
+            "log": "Found a message in the bottle but it turned out to be spam.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log27", 
+            "id": 27, 
+            "log": "Tattoo idea: \u201cDeez Knots.\u201d", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log28", 
+            "id": 28, 
+            "log": "Tattoo idea: STINGRAY LIOTTA. ", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log29", 
+            "id": 29, 
+            "log": "Book idea: First Mates: A Captain\u2019s Guide to Dating", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log30", 
+            "id": 30, 
+            "log": "There\u2019s a lot I miss about being on land. For example, I wonder what Young Sheldon is up to\u2026", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log31", 
+            "id": 31, 
+            "log": "I\u2019m pretty sure I just saw a dolphin spy\u2026", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log32", 
+            "id": 32, 
+            "log": "Observation: fitted sheets are difficult to put on a bed. There might be a funny joke here\u2026", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log33", 
+            "id": 33, 
+            "log": "Another successful morning where nobody noticed my insignia is just candy.  ", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log34", 
+            "id": 34, 
+            "log": "Another midwestern family got stuck in the water slide. Had to use the crane again. ", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log35", 
+            "id": 35, 
+            "log": "Made good progress on my self-hlp book \u201cI, I.. A Captain\u2019s Guide to Putting Yourself First\u201d", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log36", 
+            "id": 36, 
+            "log": "The spa gave me all of their used cucumbers. I\u2019m gonna eat like a king tonight! ", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log37", 
+            "id": 37, 
+            "log": "Put bacon on my salad today because I\u2019m a bad boy.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log38", 
+            "id": 38, 
+            "log": "Someone asked if I live at the gym. I thought it was a compliment until they assumed I was homeless. ", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log39", 
+            "id": 39, 
+            "log": "I just realized that I was wearing two different shoes.  Even worse: I was wearing them on my hands.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log40", 
+            "id": 40, 
+            "log": "Tom Hanks wrote back. Apparently Captain Phillips was NOT based off me. :(", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log41", 
+            "id": 41, 
+            "log": "I got into a debate with some flat earthers. I\u2019m going to be super embarrassed if we fall off the edge of the earth. ", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log42", 
+            "id": 42, 
+            "log": "Accidentally made a young girl cry after I told her mermaids most likely have mercury poisoning. ", 
+            "x": true
+        }, 
+        {
+            "doodle": "Log43", 
+            "id": 43, 
+            "log": "80% of the passengers are on scooters. I\u2019ve found my squad. ", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log44", 
+            "id": 44, 
+            "log": "Three weeks later and this ship STILL smells like juggalos. Woof.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log45", 
+            "id": 45, 
+            "log": "Call Me Maybe > Call me Ishmael ", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log46", 
+            "id": 46, 
+            "log": "I put a seashell to my ear but all I heard was a robocall. ", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log47", 
+            "id": 47, 
+            "log": "Made my momma\u2019s famous hot tub stew recipe. ", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log48", 
+            "id": 48, 
+            "log": "Dropped another phone in a whale\u2019s blowhole today.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log49", 
+            "id": 49, 
+            "log": "Rough day. I took a nap by the pool and got mistaken for an inflatable toy. ", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log50", 
+            "id": 50, 
+            "log": "Only a third of the way through reading the ship\u2019s operating manual. it\u2019s so boring. What a snoozefest! ", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log51", 
+            "id": 51, 
+            "log": "I might not have a 401k but I do have this t-shirt idea: front says SEAHORSE and the back says SAWHORSE. ", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log52", 
+            "id": 52, 
+            "log": "My room is starting to feel like a prison cell. I think because of its small size and all of those metal bars... ", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log53", 
+            "id": 53, 
+            "log": "I tested out a new joke last night. \u201cWhy does God hate dolphins? Because they have no PORPOISE!\u201d Didn\u2019t go well. ", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log54", 
+            "id": 54, 
+            "log": "Housekeeping is losing it. They keep folding my towel into a snake. ", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log55", 
+            "id": 55, 
+            "log": "I recreated the king of the world moment with the janitor. He has very soft hands.", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log56", 
+            "id": 56, 
+            "log": "Joke to test out: Why do they call them barnacles and not boatacles?! [pause five minutes for laughter]", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log57", 
+            "id": 57, 
+            "log": "25 years on a ship and nobody has ever drawn me nude. Time to take matters into my own hand. ", 
+            "x": true
+        }, 
+        {
+            "doodle": "Log58", 
+            "id": 58, 
+            "log": "Port day tomorrow! I plan on getting my ears pierced at Claire\u2019s!! ", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log59", 
+            "id": 59, 
+            "log": "Thinking about getting bangs\u2026", 
+            "x": false
+        }, 
+        {
+            "doodle": "Log60", 
+            "id": 60, 
+            "log": "I JUST discovered what planking is. Now people are literally walking all over me!", 
+            "x": false
+        }
+    ]
+}

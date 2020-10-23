@@ -1,0 +1,293 @@
+{
+    "content": [{
+            "id": "00000000",
+            "minSequel": 2,
+            
+            "tag": "SIMPLE",
+            
+            "text": {
+                "main": "Five Years Later"
+            }
+        }, {
+            "id": "00000001",
+            "minSequel": 2,
+            
+            "tag": "DOC",
+            "playerNamePrefix": "Dr.",
+
+            "text": {
+                "main": "One Year Later",
+                "sub": "(during a medical convention booked at the hotel)"
+            }
+        }, {
+            "id": "00000002",
+            "minSequel": 2,
+            
+            "tag": "NOT",
+            "playerNamePrefix": "Not ",
+
+            "text": {
+                "main": "Nineteen Years Later",
+                "sub": "(completely different guests are assembled)"
+            }
+        }, {
+            "id": "00000003",
+            "minSequel": 2,
+            
+            "tag": "AM",
+
+            "text": {
+                "lowerThird": "3:01 a.m."
+            }
+        }, {
+            "id": "00000004",
+            "minSequel": 2,
+			
+			"tag": "SIMPLE",
+            
+            "text": {
+                "main": "Seven Years Later",
+                "sub": "(really it's closer to six and a half but it's rounded up)"
+            }
+        }, {
+            "id": "00000005",
+            "minSequel": 2,
+            
+            "tag": "SIMPLE",
+
+            "text": {
+                "main": "Ten Years Later"
+            }
+        }, {
+            "id": "00000006",
+            "minSequel": 2,
+            
+            "tag": "SIMPLE",
+
+            "text": {
+                "main": "Twenty Years Later"
+            }
+        }, {
+            "id": "00000007",
+            "minSequel": 2,
+            
+            "tag": "SIMPLE",
+
+            "text": {
+                "main": "Fifteen Years Later"
+            }
+        }, {
+            "id": "00000008",
+            "minSequel": 2,
+            
+			"tag": "SIMPLE",
+			
+            "text": {
+                "main": "Five Years Later",
+                "sub": "(but it totally feels like six years)"
+            }
+        }, {
+            "id": "00000009",
+            "minSequel": 2,
+			
+			"tag": "SIMPLE",
+
+            "text": {
+                "main": "Eight Years Later",
+                "sub": "(more or less)"
+            }
+        }, {
+            "id": "00000010",
+            "minSequel": 2,
+			
+			"tag": "SIMPLE",
+
+            "text": {
+                "main": "Twelve Years Later",
+                "sub": "(give or take a day)"
+            }
+        }, {
+            "id": "00000011",
+            "minSequel": 2,
+			
+			"tag": "SIMPLE",
+
+            "text": {
+                "main": "Some Time Passes",
+                "sub": "(no one kept track of how much)"
+            }
+        }, {
+            "id": "00000012",
+            "minSequel": 2,
+			
+			"tag": "SIMPLE",
+
+            "text": {
+                "main": "Twenty Years Later",
+                "sub": "but much much earlier in the day"
+            }
+        }, {
+            "id": "00000013",
+            "minSequel": 2,
+			
+			"tag": "SIMPLE",
+
+            "text": {
+                "main": "Five Years Later",
+                "sub": "but not on the exact same day"
+            }
+        }, {
+            "id": "00000014",
+            "minSequel": 2,
+			
+			"tag": "SIMPLE",
+
+            "text": {
+                "main": "Next Friday",
+                "sub": "but not the movie <i>Next Friday</i>"
+            }
+        }, {
+            "id": "00000015",
+            "minSequel": 2,
+
+            "tag": "MONDAY",
+
+            "text": {
+                "main": "The Following Monday",
+                "sub": "but it feels like a Wednesday"
+            }
+        }, {
+            "id": "00000016",
+            "minSequel": 2,
+			
+			"tag": "SIMPLE",
+
+            "text": {
+                "main": "Some Time Later",
+                "sub": "don't worry about specifics"
+            }
+        }, {
+            "id": "00000017",
+            "minSequel": 2,
+			
+			"tag": "SIMPLE",
+
+            "text": {
+                "main": "Some Time Later",
+                "sub": "it's not important to know exactly how long, okay?!"
+            }
+        }, {
+            "id": "00000018",
+            "minSequel": 2,
+			
+			"tag": "SIMPLE",
+
+            "text": {
+                "main": "The Next Day",
+                "sub": "but the vibe is way different"
+            }
+        }, {
+            "id": "00000019",
+            "minSequel": 2,
+			
+			"tag": "SIMPLE",
+
+            "text": {
+                "main": "24 Hours Later"
+            }
+        }, {
+            "id": "00000020",
+            "minSequel": 2,
+			
+			"tag": "SIMPLE",
+
+            "text": {
+                "main": "One Fortnight Later",
+                "sub": "... but not THAT Fortnite"
+            }
+        }, {
+            "id": "00000021",
+            "minSequel": 2,
+			
+			"tag": "SIMPLE",
+
+            "text": {
+                "main": "47 Months Later"
+            }
+        }, {
+            "id": "00000022",
+            "minSequel": 2,
+			
+			"tag": "SIMPLE",
+
+            "text": {
+                "main": "On the Next Full Moon",
+                "sub": "(spooky, right?!)"
+            }
+        }, {
+            "id": "00000023",
+            "minSequel": 2,
+
+            "tag": "CHRISTMAS",
+
+            "text": {
+                "main": "Seven Christmases Later"
+            }
+        }, {
+            "id": "00000024",
+            "minSequel": 2,
+			
+			"tag": "SIMPLE",
+
+            "text": {
+                "main": "2,709 Days Later"
+            }
+        }, {
+            "id": "00000025",
+            "minSequel": 2,
+
+            "tag": "AKA",
+            "playerNamePrefix": "AKA ",
+
+            "text": {
+                "main": "Twenty Years Later",
+                "sub": "(most of that time spent in hiding)"
+            }
+        },
+
+        {
+            "id": "00000026",
+            "minSequel": 2,
+
+            "tag": "CAPT",
+            "playerNamePrefix": "Capt ",
+
+            "text": {
+                "main": "Fifteen Years Later",
+                "sub": "(a sea captain convention is in town)"
+            }
+        }, {
+            "id": "00000027",
+            "minSequel": 2,
+            "generationJump":13,
+            
+            "tag": "FUTURE",
+
+            "text": {
+                "main": "300 Years Later"
+            }
+        }, {
+            "id": "00000028",
+            "minSequel": 2,
+
+            "tag": "ALT",
+			"playerNamePrefix": " ",
+            "nameModifier":"REVERSE",
+            
+            "text": {
+                "main": "Thirty Years Later",
+                "sub": "(in an alternate dimension similar to our own)"
+            }
+        }
+    ]
+}

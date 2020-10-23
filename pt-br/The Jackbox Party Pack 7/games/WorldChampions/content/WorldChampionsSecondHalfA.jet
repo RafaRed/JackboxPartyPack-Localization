@@ -1,0 +1,2446 @@
+{
+ "content": [
+  {
+   "contest": "The Champion of Influencers ",
+   "gameText": "Influencers ",
+   "id": "68700",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "70368"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "contest": "The Champion of Intrigue ",
+   "gameText": "Intrigue ",
+   "id": "68702",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "74746"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "contest": "The Champion of Being Adorable",
+   "gameText": " Being Adorable",
+   "id": "68705",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "70371"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Conspiracy Theories",
+   "gameText": "Conspiracy Theories",
+   "id": "69230",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "71351"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "contest": "The Champion of Gamers",
+   "gameText": " Gamers",
+   "id": "69814",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "74948"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Parades",
+   "gameText": "Parades",
+   "id": "69845",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "74952"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Good Vibes",
+   "gameText": "Good Vibes",
+   "id": "70277",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "70365"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "contest": "The Champion of Weakness ",
+   "gameText": " Weakness ",
+   "id": "70293",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "70515"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Being Repulsive",
+   "gameText": "Being Repulsive",
+   "id": "70299",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "70366"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "contest": "The Champion of New Mascots",
+   "gameText": "New Mascots",
+   "id": "70302",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "70369"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Goofballs ",
+   "gameText": "Goofballs ",
+   "id": "70303",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "70367"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Being Fake Nice",
+   "gameText": "Being Fake Nice",
+   "id": "70327",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "73044"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "contest": "The Champion of Immaturity",
+   "gameText": "Immaturity",
+   "id": "70335",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "72019"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "contest": "The Champion of the Underworld",
+   "gameText": "the Underworld",
+   "id": "70475",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "70479"
+   ],
+   "us": true,
+   "x": true
+  },
+  {
+   "contest": "The Champion of Tantrums",
+   "gameText": "Tantrums",
+   "id": "70644",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "71623"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Boomers",
+   "gameText": "Boomers",
+   "id": "70858",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "72541"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "contest": "The Champion of Florida ",
+   "gameText": "Florida ",
+   "id": "71270",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "74965"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Being Disproportionate",
+   "gameText": "Being Disproportionate",
+   "id": "71817",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "71816"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "contest": "The Champion of Stepdads",
+   "gameText": "Stepdads",
+   "id": "71824",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "71823"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "contest": "The Champion of Athleisure",
+   "gameText": "Athleisure",
+   "id": "71827",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "71825"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Dad Bod",
+   "gameText": "Dad Bod",
+   "id": "71834",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "71833"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "contest": "The Champion of Prop Comedy",
+   "gameText": "Prop Comedy",
+   "id": "71840",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "71839"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "contest": "The Champion of Chillaxing",
+   "gameText": "Chillaxing",
+   "id": "71842",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "71841"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "contest": "The Champion of Romantic Fantasies ",
+   "gameText": "Romantic Fantasies",
+   "id": "71843",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "71844"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "contest": "The Champion of Cat Parents",
+   "gameText": "Cat Parents",
+   "id": "71846",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "71845"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of the Apocalypse ",
+   "gameText": "the Apocalypse ",
+   "id": "71847",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "71849"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "contest": "The Champion of Caves",
+   "gameText": "Caves",
+   "id": "71852",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "71853"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "contest": "The Champion of Heists",
+   "gameText": "Heists",
+   "id": "71859",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "71858"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "contest": "The Champion of Bad Habits",
+   "gameText": "Bad Habits",
+   "id": "71860",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "71861"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Beauty Pageants",
+   "gameText": "Beauty Pageants",
+   "id": "71876",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "71877"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Heroes",
+   "gameText": "Heroes",
+   "id": "71878",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "71879"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "contest": "The Champion of Wild Nights",
+   "gameText": "Wild Nights",
+   "id": "71880",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "71881"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "contest": "The Champion of Underappreciated Workers",
+   "gameText": "Underappreciated Workers",
+   "id": "71882",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "71883"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "contest": "The Champion of British People",
+   "gameText": "British People",
+   "id": "71894",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "71895"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Jerks",
+   "gameText": "Jerks",
+   "id": "71906",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "71907"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "contest": "The Champion of Condiments",
+   "gameText": "Condiments",
+   "id": "71908",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "71909"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "contest": "The Champion of Non-Threatening Supervillains",
+   "gameText": "Non-Threatening Supervillains",
+   "id": "71919",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "71917"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Self-Care",
+   "gameText": "Self-Care",
+   "id": "71945",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "71944"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "contest": "The Champion of Hallucinations",
+   "gameText": "Hallucinations",
+   "id": "71946",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "71943"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "contest": "The Champion of Black Friday Shoppers",
+   "gameText": "Black Friday Shoppers",
+   "id": "71973",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "71972"
+   ],
+   "us": true,
+   "x": true
+  },
+  {
+   "contest": "The Champion of School Photos",
+   "gameText": "School Photos",
+   "id": "71979",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "71978"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "contest": "The Champion of Action Stars",
+   "gameText": "Action Stars",
+   "id": "71985",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "71984"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Not This Guy Again",
+   "gameText": "Not This Guy Again",
+   "id": "71989",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "71988"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Knows How To Make An Entrance",
+   "gameText": "Knows How To Make An Entrance",
+   "id": "72007",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "72006"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Jocks",
+   "gameText": "Jocks",
+   "id": "72010",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "72011"
+   ],
+   "us": true,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Monsters",
+   "gameText": "Monsters",
+   "id": "72014",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "72015"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "contest": "The Champion of the Gym",
+   "gameText": "the Gym",
+   "id": "72016",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "72017"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "contest": "The Champion of Porcelain Dolls",
+   "gameText": "Porcelain Dolls",
+   "id": "72024",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "72025"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Hypnosis",
+   "gameText": "Hypnosis ",
+   "id": "72049",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "72050"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "contest": "The Champion of Scary Creatures",
+   "gameText": "Scary Creatures",
+   "id": "72053",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "72052"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Imaginary Friends",
+   "gameText": "Imaginary Friends  ",
+   "id": "72054",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "72056"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "contest": "The Champion of Murder",
+   "gameText": "Murder",
+   "id": "72073",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "72074"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "contest": "The Champion of Leftovers",
+   "gameText": "Leftovers",
+   "id": "72108",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "72540"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Moving",
+   "gameText": "Moving",
+   "id": "72114",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "72115"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Multitasking ",
+   "gameText": "Multitasking ",
+   "id": "72151",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "72152"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Meeting The Parents",
+   "gameText": "Meeting The Parents",
+   "id": "72155",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "72156"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "contest": "The Champion of Business Casual ",
+   "gameText": "Business Casual ",
+   "id": "72157",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "72158"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "contest": "The Champion of Gluttony",
+   "gameText": "Gluttony",
+   "id": "72211",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "72210"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "contest": "The Champion of Diabolical",
+   "gameText": "Diabolical",
+   "id": "72216",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "71760"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Brawn",
+   "gameText": "Brawn",
+   "id": "72218",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "72217"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Smelling Fantastic",
+   "gameText": "Smelling Fantastic",
+   "id": "72233",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "72231"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Rock 'n Roll",
+   "gameText": "Rock 'n Roll",
+   "id": "72266",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "72265"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "contest": "The Champion of Victorian Children ",
+   "gameText": "Victorian Children",
+   "id": "72275",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "72274"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "contest": "The Champion of Dance Like Nobody's Watching",
+   "gameText": "Dance Like Nobody's Watching",
+   "id": "72300",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "72299"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Gambling",
+   "gameText": "Gambling",
+   "id": "72304",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "72303"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "contest": "The Champion of Twerps",
+   "gameText": "Twerps",
+   "id": "72317",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "72316"
+   ],
+   "us": true,
+   "x": true
+  },
+  {
+   "contest": "The Champion of Pranksters",
+   "gameText": "Pranksters",
+   "id": "72318",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "72320"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Dubstep",
+   "gameText": "Dubstep",
+   "id": "72324",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "72326"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "contest": "The Champion of the Landfill",
+   "gameText": "the Landfill",
+   "id": "72330",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "72331"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Precious Angels",
+   "gameText": "Precious Angels",
+   "id": "72333",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "72334"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "contest": "The Champion of Being Tall",
+   "gameText": "Being Tall",
+   "id": "72338",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "72339"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Dorks",
+   "gameText": "Dorks",
+   "id": "72341",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "72342"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "contest": "The Champion of Sketchy Carnivals",
+   "gameText": "Sketchy Carnivals",
+   "id": "72370",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "72371"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "contest": "The Champion of Danger",
+   "gameText": "Danger",
+   "id": "72390",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "72381"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "contest": "The Champion of Vanity",
+   "gameText": "Vanity",
+   "id": "72443",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "72444"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "contest": "The Champion of Low Self-Esteem",
+   "gameText": "Low Self-Esteem",
+   "id": "72450",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "71336"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "contest": "The Champion of Forever Alone",
+   "gameText": "Forever Alone",
+   "id": "72467",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "72470"
+   ],
+   "us": true,
+   "x": true
+  },
+  {
+   "contest": "The Champion of Disguise",
+   "gameText": "Disguise",
+   "id": "72485",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "72484"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Introverts",
+   "gameText": "Introverts",
+   "id": "72520",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "72519"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "contest": "The Champion of Living Under A Bridge",
+   "gameText": "Living Under A Bridge",
+   "id": "72571",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "72572"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Lab Accidents",
+   "gameText": "Lab Accidents",
+   "id": "72577",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "72270"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "contest": "The Champion of Good Cheer",
+   "gameText": "Good Cheer",
+   "id": "72657",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "72655"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "contest": "The Champion of Spies",
+   "gameText": "Spies",
+   "id": "72661",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "72662"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "contest": "The Champion of Jam Bands",
+   "gameText": "Jam Bands",
+   "id": "72667",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "72668"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Gore",
+   "gameText": "Gore",
+   "id": "72671",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "72672"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "contest": "The Champion of Grumpy",
+   "gameText": "Grumpy",
+   "id": "72683",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "72684"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Porta Potties",
+   "gameText": "Porta Potties",
+   "id": "72690",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "72691"
+   ],
+   "us": true,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Man Caves",
+   "gameText": "Man Caves",
+   "id": "72692",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "70184"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "contest": "The Champion of Aristocrats",
+   "gameText": "Aristocrats",
+   "id": "72694",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "72695"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "contest": "The Champion of Future Hollywood Stars",
+   "gameText": "Future Hollywood Stars",
+   "id": "72891",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "72892"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "contest": "The Champion of CEOs",
+   "gameText": "CEOs",
+   "id": "72895",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "72896"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "contest": "The Champion of Bureaucracy",
+   "gameText": "Bureaucracy",
+   "id": "72899",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "72900"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "contest": "The Champion of TikTok ",
+   "gameText": "TikTok",
+   "id": "72901",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "72902"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Gruesome",
+   "gameText": "Gruesome",
+   "id": "72914",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "72913"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "contest": "The Champion of Explorers",
+   "gameText": "Explorers ",
+   "id": "72952",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "72951"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Confidence",
+   "gameText": "Confidence",
+   "id": "72956",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "72955"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "contest": "The Champion of Gen Z",
+   "gameText": "Gen Z",
+   "id": "72958",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "72957"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Serenity",
+   "gameText": "Serenity",
+   "id": "72960",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "72959"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Fandom",
+   "gameText": "Fandom",
+   "id": "72995",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "72993"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Hoity-Toity",
+   "gameText": "Hoity-Toity",
+   "id": "73046",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "73045"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "contest": "The Champion of Nature",
+   "gameText": "Nature",
+   "id": "73110",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "73111"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Cool Teens",
+   "gameText": "Cool Teens",
+   "id": "73151",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "73152"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Princesses",
+   "gameText": "Princesses",
+   "id": "73176",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "73177"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "contest": "The Champion of Broadway",
+   "gameText": "Broadway",
+   "id": "73317",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "73316"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "contest": "The Champion of the Swamp",
+   "gameText": "the Swamp",
+   "id": "73323",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "73322"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Party Cruises",
+   "gameText": "Party Cruises",
+   "id": "73340",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "73339"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Bingo Night",
+   "gameText": "Bingo Night",
+   "id": "73363",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "73362"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Retirement",
+   "gameText": "Retirement",
+   "id": "73397",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "74852"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "contest": "The Champion of Door-to-Door Salesmen ",
+   "gameText": "Door-to-Door Salesmen ",
+   "id": "73413",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "72743"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Steampunk",
+   "gameText": "Steampunk",
+   "id": "73885",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "73884"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "contest": "The Champion of the Cave",
+   "gameText": "the Cave",
+   "id": "73889",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "73888"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Freaking Out",
+   "gameText": "Freaking Out",
+   "id": "73896",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "72897"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Powerful Auras",
+   "gameText": "Powerful Auras",
+   "id": "73916",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "73917"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "contest": "The Champion of Being Uptight",
+   "gameText": "Being Uptight",
+   "id": "73926",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "73927"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Macho",
+   "gameText": "Macho",
+   "id": "73938",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "73939"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Stunts ",
+   "gameText": "Stunts ",
+   "id": "73941",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "73940"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of the Macabre",
+   "gameText": "the Macabre",
+   "id": "73942",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "73943"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "contest": "The Champion of Stage Fright",
+   "gameText": "Stage Fright",
+   "id": "73978",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "73976"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Magicians",
+   "gameText": "Magicians ",
+   "id": "73990",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "73991"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of the Junk Drawer",
+   "gameText": "the Junk Drawer",
+   "id": "73992",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "73993"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Early Bedtime",
+   "gameText": "Early Bedtime",
+   "id": "73995",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "74000"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "contest": "The Champion of Criminals",
+   "gameText": "Criminals",
+   "id": "74007",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "74008"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "contest": "The Champion of Being Zen",
+   "gameText": "Being Zen",
+   "id": "74053",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "74057"
+   ],
+   "us": true,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Travel",
+   "gameText": "Travel",
+   "id": "74058",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "74059"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Young Adult Fiction",
+   "gameText": "Young Adult Fiction",
+   "id": "74093",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "74094"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Hipsters",
+   "gameText": "Hipsters",
+   "id": "74095",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "71291"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Comic-Con",
+   "gameText": "Comic-Con",
+   "id": "74103",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "74104"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Former Child Stars",
+   "gameText": "Former Child Stars",
+   "id": "74119",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "74118"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "contest": "The Champion of Cosplay",
+   "gameText": "Cosplay",
+   "id": "74144",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "74145"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "contest": "The Champion of the Ivy League ",
+   "gameText": "the Ivy League ",
+   "id": "74157",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "74142"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Kicking Butt And Taking Names",
+   "gameText": "Kicking Butt And Taking Names",
+   "id": "74265",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "74264"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "contest": "The Champion of Being Majestic",
+   "gameText": "Being Majestic",
+   "id": "74359",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "74360"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Makeup Tutorials ",
+   "gameText": "Makeup Tutorials ",
+   "id": "74365",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "74366"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of the Nudist Club",
+   "gameText": "the Nudist Club",
+   "id": "74367",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "74368"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "contest": "The Champion of Bougie ",
+   "gameText": "Bougie ",
+   "id": "74635",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "74634"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "contest": "The Champion of Extroverts ",
+   "gameText": "Extroverts ",
+   "id": "74637",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "74636"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "contest": "The Champion of Sidekicks ",
+   "gameText": "Sidekicks ",
+   "id": "74639",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "74638"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Being Odd Looking ",
+   "gameText": "Being Odd Looking ",
+   "id": "74641",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "74640"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "contest": "The Champion of Sociopaths",
+   "gameText": "Sociopaths",
+   "id": "74643",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "74642"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "contest": "The Champion of Big Energy",
+   "gameText": "Big Energy",
+   "id": "74645",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "74644"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Being Vivacious ",
+   "gameText": "Being Vivacious ",
+   "id": "74647",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "74646"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "contest": "The Champion of My Way or the Highway ",
+   "gameText": "My Way or the Highway ",
+   "id": "74649",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "74648"
+   ],
+   "us": true,
+   "x": true
+  },
+  {
+   "contest": "The Champion of Tourists ",
+   "gameText": "Tourists ",
+   "id": "74651",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "74650"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of The Futon ",
+   "gameText": "The Futon",
+   "id": "74653",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "74652"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Feeling Gassy",
+   "gameText": "Feeling Gassy ",
+   "id": "74655",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "74654"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Suspect Number One",
+   "gameText": "Suspect Number One",
+   "id": "74657",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "74656"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "contest": "The Champion of Being Basic ",
+   "gameText": "Being Basic",
+   "id": "74659",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "74658"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Punks",
+   "gameText": "Punks",
+   "id": "74661",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "74660"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of DJs",
+   "gameText": "DJs",
+   "id": "74663",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "74662"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of the Tea Party ",
+   "gameText": "the Tea Party",
+   "id": "74665",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "74664"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "contest": "The Champion of Pulling an All-Nighter ",
+   "gameText": "Pulling an All-Nighter ",
+   "id": "74667",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "74666"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Parasites ",
+   "gameText": "Parasites ",
+   "id": "74669",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "74668"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "contest": "The Champion of Hitmen",
+   "gameText": "Hitmen ",
+   "id": "74671",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "74670"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "contest": "The Champion of the Escape Room",
+   "gameText": "the Escape Room ",
+   "id": "74673",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "74672"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Interns",
+   "gameText": "Interns",
+   "id": "74675",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "74674"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Live Action Role Playing",
+   "gameText": "Live Action Role Playing",
+   "id": "74677",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "74676"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Yachts",
+   "gameText": "Yachts",
+   "id": "74679",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "74678"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "contest": "The Champion of \"Bless Their Heart\" ",
+   "gameText": " \"Bless Their Heart\" ",
+   "id": "74681",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "74680"
+   ],
+   "us": true,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Glamour",
+   "gameText": "Glamour",
+   "id": "74683",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "74682"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Being Kind of a Big Deal ",
+   "gameText": "Being Kind of a Big Deal",
+   "id": "74685",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "74684"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Calling People \"Sheeple\" ",
+   "gameText": "Calling People \"Sheeple\" ",
+   "id": "74687",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "74686"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "contest": "The Champion of Spring Break",
+   "gameText": "Spring Break",
+   "id": "74689",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "74688"
+   ],
+   "us": true,
+   "x": true
+  },
+  {
+   "contest": "The Champion of West Coast Livin' ",
+   "gameText": "West Coast Livin' ",
+   "id": "74691",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "74690"
+   ],
+   "us": true,
+   "x": false
+  },
+  {
+   "contest": "The Champion of the Walk of Shame",
+   "gameText": " the Walk of Shame",
+   "id": "74693",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "74692"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "contest": "The Champion of Small Claims Court",
+   "gameText": "Small Claims Court",
+   "id": "74695",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "74694"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "contest": "The Champion of Heartthrobs ",
+   "gameText": "Heartthrobs ",
+   "id": "74703",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "74702"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "contest": "The Champion of the Hootenanny ",
+   "gameText": "the Hootenanny ",
+   "id": "74705",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "74704"
+   ],
+   "us": true,
+   "x": true
+  },
+  {
+   "contest": "The Champion of Tyrants ",
+   "gameText": "Tyrants ",
+   "id": "74707",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "74706"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Mug Shots",
+   "gameText": "Mug Shots",
+   "id": "74709",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "74708"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "contest": "The Champion of the Dark Arts",
+   "gameText": "the Dark Arts ",
+   "id": "74711",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "74710"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Tinseltown ",
+   "gameText": "Tinseltown ",
+   "id": "74713",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "74712"
+   ],
+   "us": true,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Being a Silly Goose ",
+   "gameText": "Being a Silly Goose ",
+   "id": "74715",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "74714"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Complicated Board Games",
+   "gameText": "Complicated Board Games",
+   "id": "74717",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "74716"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Dive Bars",
+   "gameText": "Dive Bars",
+   "id": "74725",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "74724"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "contest": "The Champion of Gossip ",
+   "gameText": "Gossip ",
+   "id": "74726",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "71807"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "contest": "The Champion of the Purge ",
+   "gameText": "the Purge ",
+   "id": "74728",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "74727"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "contest": "The Champion of Perky ",
+   "gameText": "Perky",
+   "id": "74730",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "74729"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Applebee's",
+   "gameText": "Applebee's ",
+   "id": "74732",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "74731"
+   ],
+   "us": true,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Magical Creatures ",
+   "gameText": "Magical Creatures ",
+   "id": "74734",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "74733"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Looking Dope",
+   "gameText": "Looking Dope",
+   "id": "74736",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "74735"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "contest": "The Champion of Village Idiots ",
+   "gameText": "Village Idiots ",
+   "id": "74737",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "69792"
+   ],
+   "us": true,
+   "x": true
+  },
+  {
+   "contest": "The Champion of Hallucinations ",
+   "gameText": "Hallucinations ",
+   "id": "74738",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "69847"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "contest": "The Champion of the Wedding Reception ",
+   "gameText": "the Wedding Reception ",
+   "id": "74740",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "74739"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "contest": "The Champion of Dating",
+   "gameText": "Dating",
+   "id": "74742",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "74741"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "contest": "The Champion of Grace",
+   "gameText": "Grace",
+   "id": "74744",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "74743"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Slackers ",
+   "gameText": "Slackers ",
+   "id": "74748",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "74747"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Looking Unsuspecting ",
+   "gameText": "Looking Unsuspecting ",
+   "id": "74752",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "74751"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Martial Arts ",
+   "gameText": "Martial Arts ",
+   "id": "74832",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "74831"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Looking Lost ",
+   "gameText": "Looking Lost ",
+   "id": "74834",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "74833"
+   ],
+   "us": true,
+   "x": true
+  },
+  {
+   "contest": "The Champion of Being Terrible ",
+   "gameText": "Being Terrible ",
+   "id": "74836",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "74835"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Grotesque ",
+   "gameText": "Grotesque ",
+   "id": "74838",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "74837"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "contest": "The Champion of Maturity ",
+   "gameText": "Maturity ",
+   "id": "74841",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "74840"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Shock and Awe",
+   "gameText": "Shock and Awe",
+   "id": "74846",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "74845"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "contest": "The Champion of Wickedness ",
+   "gameText": "Wickedness ",
+   "id": "74848",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "68684"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Being Putrid",
+   "gameText": "Being Putrid ",
+   "id": "74851",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "74850"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "contest": "The Champion of Cuties",
+   "gameText": "Cuties",
+   "id": "74954",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "74953"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Enigmas",
+   "gameText": "Enigmas ",
+   "id": "74960",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "74959"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "contest": "The Champion of Always Being On Facebook ",
+   "gameText": "Always Being On Facebook ",
+   "id": "74970",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "74969"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Whimsy ",
+   "gameText": "Whimsy",
+   "id": "75615",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "75614"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Weirdos",
+   "gameText": "Weirdos",
+   "id": "75617",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "75616"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Being Desperate",
+   "gameText": "Being Desperate",
+   "id": "75619",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "75618"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Fictional Celebrities ",
+   "gameText": "Fictional Celebrities ",
+   "id": "75621",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "75620"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Positivity ",
+   "gameText": "Positivity ",
+   "id": "75624",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "75622"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Looking Important ",
+   "gameText": "Looking Important ",
+   "id": "75626",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "75625"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of the Bunker",
+   "gameText": "the Bunker",
+   "id": "75628",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "75627"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "contest": "The Champion of the Desert Island",
+   "gameText": "the Desert Island",
+   "id": "76008",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "76007"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Mansions",
+   "gameText": "Mansions",
+   "id": "76010",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "76009"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "contest": "The Champion of Camping",
+   "gameText": "Camping",
+   "id": "76012",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "76011"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Public Freak-outs",
+   "gameText": "Public Freak-outs",
+   "id": "76014",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "76013"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Being Home Schooled",
+   "gameText": " Being Home Schooled",
+   "id": "76016",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "76015"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of the Talent Show",
+   "gameText": "the Talent Show",
+   "id": "76018",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "76017"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Reality TV Judges",
+   "gameText": " Reality TV Judges",
+   "id": "76020",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "76019"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of the Barn Dance",
+   "gameText": "the Barn Dance",
+   "id": "76022",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "76021"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of the 1990s",
+   "gameText": "the 1990s",
+   "id": "76024",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "76023"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Gloop",
+   "gameText": "Gloop",
+   "id": "76026",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "76025"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Lead Singers",
+   "gameText": "Lead Singers",
+   "id": "76028",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "76027"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Short Attention Spans",
+   "gameText": "Short Attention Spans",
+   "id": "76030",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "76029"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Being Raised by Wolves",
+   "gameText": "Being Raised by Wolves",
+   "id": "76032",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "76031"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Surprise",
+   "gameText": "Surprise ",
+   "id": "76034",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "76033"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of the Graveyard ",
+   "gameText": "the Graveyard ",
+   "id": "76097",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "76096"
+   ],
+   "us": false,
+   "x": true
+  },
+  {
+   "contest": "The Champion of Nasty",
+   "gameText": "Nasty",
+   "id": "76099",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "76098"
+   ],
+   "us": false,
+   "x": false
+  },
+  {
+   "contest": "The Champion of Bad Attitudes ",
+   "gameText": "Bad Attitudes ",
+   "id": "76101",
+   "includesPlayerName": false,
+   "linkedPrompts": [
+    "76100"
+   ],
+   "us": false,
+   "x": false
+  }
+ ]
+}

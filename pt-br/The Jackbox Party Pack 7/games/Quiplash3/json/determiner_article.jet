@@ -1,0 +1,17 @@
+{
+    "payload":[
+        { "determiner": "a" },
+        { "determiner": "an" },
+        { "determiner": "the" },
+        { "determiner": "this" },
+        { "determiner": "that" },
+        { "determiner": "some" },
+        { "determiner": "a lot of" },
+        { "determiner": "a bunch of" },
+        { "determiner": "a huge" },
+        { "determiner": "a massive" },
+        { "determiner": "a monster" },
+        { "determiner": "a giant" },
+        { "determiner": "a big" }
+    ]
+}

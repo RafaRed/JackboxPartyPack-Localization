@@ -1,0 +1,189 @@
+{
+    "table":{
+    "en": {
+        "LANGUAGE_NAME": "English",
+        "LANGUAGE": "Language",
+        "INTERNET_CONNECTED": "We've just found the internet.",
+        "INTERNET_DISCONNECTED": "We're sorry, we can't seem to connect to the Jackbox Games servers.<br />Please check that your internet connection is working properly.",
+        "ROOM_DESTROYED": "We're sorry, a network error occurred and your room was destroyed.<br />Please check that your internet connection is working properly.",
+        "SOCKET_DISCONNECTED ": "We're sorry, we've lost your connection to the Jackbox Games servers.",
+        "TIMEOUT": "We're sorry, we can't seem to connect to the Jackbox Games servers.<br />Please check that your internet connection is working properly.",
+        "USER_DISCONNECT": "We're sorry, the server has disconnected you. Please try again.",
+        "LOST_LICENSE": "We're sorry, we lost the license for this content!",
+        "STEAM_ERROR": "We're sorry, we couldn't validate your Steam license.",
+        "TWITCH_PRIME_ERROR": "We're sorry, we couldn't validate your Twitch Prime license.",
+        "LOST_DLC": "We're sorry, the license for your DLC could not be found. Returning you to the menu...",
+        "BACK": "Back",
+        "CLOSE": "Close",
+        "CANCEL": "Cancel",
+        "SELECT": "Select",
+        "OR": "Or",
+        "ON": "On",
+        "OFF": "Off",
+        "HIDE": "Hide",
+        "UNHIDE": "Unhide",
+        "JOIN": "Join!",
+        "PLAY": "PLAY",
+        "SETTINGS": "Settings",
+        "BACK_TO_PACK": "Back",
+        "PLAY_DESCRIPTION": "Create a game room & play",
+        "TMI_DESCRIPTION": "Play a brand new mode that's all about the players",
+        "SETTINGS_DESCRIPTION": "Censoring, Audience, & more",
+        "LEADERBOARD_DESCRIPTION": "",
+        "BACK_TO_PACK_DESCRIPTION": "Exit back to the Party Pack",
+        "SETTINGS_TITLE": "SETTINGS",
+        "LEADERBOARD_TITLE": "LEADERBOARD",
+        "CONNECTING": "Connecting to jackbox games services",
+        "CONNECTING_DELAY": "This is taking a while...<br />Please check your internet connection.",
+        "GO_TO": "Go to",
+        "ROOM_CODE":"Room Code",
+        "JOIN_ON_YOUR_DEVICE": "on your mobile device to join in",
+        "JOIN_THE_AUDIENCE": "Join the Audience",
+        "ENTER_ROOM_CODE": "ENTER ROOM CODE",
+        "POST_GAME_CHOICE_TITLE": "What do you want to do now?",
+        "EVERYBODY_S_IN": "Press EVERYBODY'S IN to start!",
+        "PRESS": "Press",
+        "TO_START": "to start",
+        "TO_CANCEL": "to cancel",
+        "TO_START_GAME": "to start game",
+        "TO_CANCEL_GAME": "to cancel game",
+        "JOIN_AUDIENCE": "Join the audience!",
+        "PLAY_AGAIN_WITH": "PLAY AGAIN WITH",
+        "SAME_PLAYERS": "SAME PLAYERS",
+        "LOBBY_OR": "OR",
+        "NEW_PLAYERS": "NEW PLAYERS",
+
+        "VOLUME": "Master Volume",
+        "VOLUME_DESCRIPTION": "Adjust the global volume.",
+        "VOLUME_HOST": "Host Volume",
+        "VOLUME_HOST_DESCRIPTION": "Adjust the volume for the host(s).",
+        "VOLUME_SFX": "SFX Volume",
+        "VOLUME_SFX_DESCRIPTION": "Adjust the volume for sound effects.",
+        "VOLUME_MUSIC": "Music Volume",
+        "VOLUME_MUSIC_DESCRIPTION": "Adjust the volume for the music.",
+        
+        "FULL_SCREEN": "Full-screen Mode",
+        "FULL_SCREEN_DESCRIPTION": "Make the game full-screen.",
+
+        "AUDIENCE": "Audience",
+        "AUDIENCE_MODE": "Audience",
+        "AUDIENCE_MODE_DESCRIPTION": "Turn ON to allow non-players to join and affect the game.",
+        
+        "EXTENDED_TIMERS": "Extended Timers",
+        "EXTENDED_TIMERS_DESCRIPTION": "Extended timers will give you more time to make decisions.",
+        
+        "PASSWORDED_GAME": "Passworded Game",
+        "PASSWORDED_GAME_DESCRIPTION": "Generate a password that players must enter to join the game.",
+        
+        "SKIP_TUTORIALS": "Skip Tutorials",
+        "SKIP_TUTORIALS_DESCRIPTION": "Skip tutorial sections.",
+        
+        "TWITCH_REQUIRED": "Require Twitch",
+        "TWITCH_REQUIRED_DESCRIPTION": "Require players to be logged into Twitch.",
+        
+        "FILTER_US_CENTRIC": "Filter US-Centric Questions",
+        "FILTER_US_CENTRIC_DESCRIPTION": "Reduces the number of U.S.-centric questions. But does NOT entirely eliminate them.",
+                        
+        "POSTGAME_SHARING": "Post-Game Sharing",
+        "POSTGAME_SHARING_DESCRIPTION": "Allow players to optionally share answers and scores from the game on social media.",
+
+        "DISABLE_USER_ENTRY_KILLING_FLOORS":"No Writing/Drawing Mode",
+        "DISABLE_USER_ENTRY_KILLING_FLOORS_DESCRIPTION":"Don’t trust your terrible players? This mode makes sure that players can't write or draw things.",
+
+        "START_GAMEPAD": "Start Game from Controller Only",
+        "START_GAMEPAD_DESCRIPTION": "Games must be started with controller, not from player devices.",
+        
+        "HIDE_ROOM_CODE": "Allow Room Code Hiding",
+        "HIDE_ROOM_CODE_DESCRIPTION": "Allow the on-screen room code to be hidden.",
+        
+        "MAX_PLAYERS": "Max Players",
+        "MAX_PLAYERS_DESCRIPTION": "Number of players that can join the game before people are added to the audience.",
+        
+        "SUBTITLES": "Subtitles",
+        "SUBTITLES_DESCRIPTION": "Display subtitles on the screen.",
+
+        "PLAYER_NAME": "Player Name",
+        "HIGH_SCORE": "High Score",
+        "AVERAGE_SCORE": "Average Score",
+        "GAMES_PLAYED": "Games Played",
+        "GAMES_WON": "Games Won",
+
+        "INTRO_BANNER":"Hit this button if you want to skip",
+        "INTRO_BUTTON":"SKIP",
+        "END_GAME_BANNER":"What do you want to do?",
+        "END_GAME_SAME_PLAYERS_BUTTON":"SEQUEL",
+        "END_GAME_NEW_PLAYERS_BUTTON":"REBOOT FRANCHISE",
+        "DEATH_BET_BANNER":"Guess who will die and win $100",
+        "DEATH_BET_AUDIENCE_BANNER":"Guess who will die and win money!",
+        
+        "CONFIRM_NONE":"Submit none of them.",
+        "CONFIRM_ALL":"Submit all of them",
+        "CONFIRM_BUTTON":"SUBMIT",
+        
+        "CONFIRM_QUESTION":"You have chosen<br>%s",
+        "CONFIRM_DEATH_BET":"You think %s is going to die. You'll win $%d if you're right!",
+        "CONFIRM_DEATH_BET_AUDIENCE":"Thank you for your very macabre choice",
+        
+        "HIGH_ROLLERS_BANNER":"You have %d dice",
+        "HIGH_ROLLERS_BUTTON":"ROLL",
+        "HIGH_ROLLERS_SAFE_PLAYER_BANNER":"Who will you give an extra die?",
+        
+        "SKULL_DICE_BANNER":"Current total: %d",
+        "SKULL_DICE_SAFE_PLAYER_BANNER":"Press this button to roll!",
+        "SKULL_DICE_BUTTON_ENABLED":"ROLL",
+        "SKULL_DICE_BUTTON_DISABLED":"ROLLING...",
+        
+        "DICTATION_BANNER":"Get Ready",
+        "DICTATION_ENTRY":"TYPE LETTER HERE",
+        
+        "MATH_FROZEN_BANNER":"You are frozen",
+        
+        "MIRROR_BANNER":"What did Aunt Mildred write on the mirror?",
+        "MIRROR_ENTRY":"TYPE HERE",
+        "MIRROR_SAFE_PLAYER_BANNER":"Draw a word on this mirror",
+        
+        "DONATIONS_CHOOSE_PLAYER_BANNER":"Who do you want to donate to?",
+        "DONATIONS_CHOOSE_AMOUNT_BANNER":"How much do you want to donate?",
+        "DONATIONS_ENTRY":"(0-<DONATION_LIMIT>)",
+        
+        "PASSWORD_BANNER":"Enter a 4-letter word",
+        "PASSWORD_ENTRY":"XXXX",
+        
+        "SKEWERS_BANNER":"Choose where you want to hide!",
+        "SKEWERS_ERROR":"Another player is already hiding there. Try again!",
+        "SKEWERS_SAFE_PLAYER_BANNER":"Choose a row or column to stab!",
+        
+        "TATTOO_BANNER":"Draw a sweet, sweet tattoo",
+        "TATTOO_VOTE_BANNER":"Which tattoo is the best?",
+        
+        "GREED_BANNER":"Enter a number between %d and %d",
+        "GREED_ENTRY":"(%d-%d)",
+        
+        "CHALICE_BANNER":"Choose which chalice to drink from",
+        "CHALICE_SAFE_PLAYER_BANNER":"Choose which chalice to poison",
+
+        "GIFT_BANNER":"Choose a gift",
+        
+        "FINGERS_BANNER":"Choose a finger to cut off",
+        
+        "LOCK_AND_KEY_BANNER_ONE":"Take a key",
+        "LOCK_AND_KEY_BANNER_TWO":"Take another key",
+        "LOCK_AND_KEY_BANNER_THREE":"Take a final key",
+        
+        "LOSER_WHEEL_BANNER":"Good luck",
+        "LOSER_WHEEL_BUTTON":"SPIN",
+        
+        "MIND_MELD_ENTRY":"ANSWER HERE",
+        "MIND_MELD_ERROR":"That answer is incorrect! Try again!",
+        "MIND_MELD_DUPLICATE":"Answers already claimed:<br>%s<br>Try again!",
+        
+        "PACHINKO_BANNER":"Drag and drop you chip",
+        "PACHINKO_SAFE_PLAYER_BANNER":"Choose a bucket to curse"
+    
+    },
+    "fr": {},
+    "it": {},
+    "de": {},
+    "es": {}
+}
+}

@@ -1,0 +1,92 @@
+{
+    "content":[
+        {
+            "id":"RemoveVowels",
+            
+            "controllerText":"You've been screwed! No more vowels for you!",
+            "controllerName":"Disemvoweled",
+            
+            "power":0
+        },
+        {
+            "id":"TinyFont",
+            
+            "controllerText":"You've been screwed! I hope you brought your glasses.",
+            "controllerName":"Fine Print",
+            
+            "power":0
+        },
+		{
+            "id":"HugeFont",
+            
+            "controllerText":"You've been screwed! I hope you have a huge phone.",
+            "controllerName":"Large Print",
+            
+            "power":0
+        },
+        {
+            "id":"Hashtag",
+            
+            "controllerText":"You've been screwed! LOL, like, JK.",
+            "controllerName":"Hashtagged",
+            
+            "power":0
+        },
+        {
+            "id":"TextColor",
+            
+            "controllerText":"You've been screwed! Try to answer NOW, jerk!",
+            "controllerName":"Shades of Gray",
+            
+            "power":0
+        },
+        {
+            "id":"Mirror",
+            
+            "controllerText":"You've been screwed! Try to answer NOW, jerk!",
+            "controllerName":"Mirror Mirror",
+            
+            "power":0
+        },
+        {
+            "id":"PassCode",
+            
+            "controllerText":"You've been screwed! Try to answer NOW, jerk!",
+            "controllerName":"Password",
+            
+            "power":1
+        },
+        {
+            "id":"Flip",
+            
+            "controllerText":"You've been screwed! Try to answer NOW, jerk!",
+            "controllerName":"Flipped",
+            
+            "power":1
+        },
+        {
+            "id":"NameChange",
+            
+            "controllerText":"You've been screwed! Try to answer NOW, jerk!",
+            "controllerName":"Name Change",
+            
+            "power":1
+        },
+        {
+            "id":"Screensaver",
+            
+            "controllerText":"You've been screwed! Try to answer NOW, jerk!",
+            "controllerName":"Screensaver",
+            
+            "power":1
+        },
+        {
+            "id":"TOS",
+            
+            "controllerText":"You've been screwed! Try to answer NOW, jerk!",
+            "controllerName":"Fake Terms of Service",
+            
+            "power":1
+        }
+    ]
+}

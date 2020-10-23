@@ -1,0 +1,69 @@
+{
+    "payload":[
+        { 
+            "id": "EAT_BUGS",
+            "name": "GOOD KITTY! Eat the bugs",
+            "taskIdToSpawn": "AudienceGiveKittyTreat"
+        },
+        { 
+            "id": "POSE_FOR_PIC",
+            "name": "GOOD KITTY! Pose for social media pic",
+            "taskIdToSpawn": "AudienceTakeKittyPic"
+        },
+        { 
+            "id": "SHOW_BELLY",
+            "name": "GOOD KITTY! Flop over and show your belly",
+            "taskIdToSpawn": "AudiencePetKitty"
+        },
+        { 
+            "id": "SHOW_CLAWS",
+            "name": "GOOD KITTY! Let your devils clip your claws",
+            "taskIdToSpawn": "AudienceClipClaws"
+        },
+        { 
+            "id": "FIGHT_VACUUM",
+            "name": "BAD KITTY! Fight with the robot vacuum",
+            "taskIdToSpawn": "AudienceFixVacuum"
+        },
+        { 
+            "id": "DESTROY_LITTER",
+            "name": "BAD KITTY! Destroy the litter box",
+            "taskIdToSpawn": "AudienceCleanLitter"
+        },
+        { 
+            "id": "LAY_ON_LAPTOP",
+            "name": "BAD KITTY! Lay on the laptop and refuse to move",
+            "taskIdToSpawn": "AudienceMoveKitty"
+        },
+        { 
+            "id": "VOMIT",
+            "name": "BAD KITTY! Vomit on the nice clean sheets",
+            "taskIdToSpawn": "AudienceVetTrip"
+        },
+        { 
+            "id": "DART_OUT",
+            "name": "BAD KITTY! Dart out the front door and disappear",
+            "taskIdToSpawn": "AudienceFindKitty"
+        },
+        { 
+            "id": "SCRATCH_CHAIR",
+            "name": "BAD KITTY! Scratch up the good chair",
+            "taskIdToSpawn": "AudienceScoldKitty"
+        },
+        { 
+            "id": "KNOCK_ITEMS",
+            "name": "BAD KITTY! Knock random objects off the desk",
+            "taskIdToSpawn": "AudiencePickUp"
+        },
+        { 
+            "id": "PAW_WATER",
+            "name": "BAD KITTY! Stick your paw in owner's water glass",
+            "taskIdToSpawn": "AudienceGetWater"
+        },
+        { 
+            "id": "SHOW_BELLY_TRAP",
+            "name": "BAD KITTY! Flop over and show your belly (but it's a trap)",
+            "taskIdToSpawn": "AudiencePetKittyScratch"
+        }
+    ]
+}

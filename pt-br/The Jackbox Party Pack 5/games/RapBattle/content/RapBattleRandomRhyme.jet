@@ -1,0 +1,716 @@
+{
+    "content": [
+        {
+            "id": "001",
+            "text": "I couldn't be bothered to start typing."
+        },
+        {
+            "id": "002",
+            "text": "Guess who didn't enter anything."
+        },
+        {
+            "id": "003",
+            "text": "I wasn't sure what they meant by 'time to write.'"
+        },
+        {
+            "id": "004",
+            "text": "This game would be easier if I could read."
+        },
+        {
+            "id": "005",
+            "text": "I'm not hung up on that 'completion' thing."
+        },
+        {
+            "id": "006",
+            "text": "Where's the darn Send button?"
+        },
+        {
+            "id": "007",
+            "text": "Maybe next time I'll pay attention."
+        },
+        {
+            "id": "008",
+            "text": "My answer was gonna be great, trust me."
+        },
+        {
+            "id": "009",
+            "text": "I decided to pick my nose instead of answer."
+        },
+        {
+            "id": "010",
+            "text": "Following directions is hard!"
+        },
+        {
+            "id": "011",
+            "text": "Maybe we should turn on extended timers."
+        },
+        {
+            "id": "012",
+            "text": "This doesn't rhyme cuz I didn't type anything."
+        },
+        {
+            "id": "013",
+            "text": "I don't get it... My phone's my controller?"
+        },
+        {
+            "id": "014",
+            "text": "I didn't type anything, please shame me."
+        },
+        {
+            "id": "015",
+            "text": "I didn't care enough to finish this rhyme."
+        },
+        {
+            "id": "016",
+            "text": "I was too scared to type, so I let the computer decide."
+        },
+        {
+            "id": "017",
+            "text": "I didn't hit the right button, so this rhyme is wack."
+        },
+        {
+            "id": "018",
+            "text": "It was game time and I panicked. I'm sorry."
+        },
+        {
+            "id": "019",
+            "text": "Fun fact: A stock phrase appears if u don't submit one."
+        },
+        {
+            "id": "020",
+            "text": "I can't follow directions."
+        },
+        {
+            "id": "021",
+            "text": "There! That's all I needed to type in!"
+        },
+        {
+            "id": "022",
+            "text": "Wait! I didn't write this! Hey!"
+        },
+        {
+            "id": "023",
+            "text": "Next time remember: Your rhyme goes here."
+        },
+        {
+            "id": "024",
+            "text": "There must be something up with my phone."
+        },
+        {
+            "id": "025",
+            "text": "Think I might have forgotten something…"
+        },
+        {
+            "id": "026",
+            "text": "Please let me win even though I typed nothing."
+        },
+        {
+            "id": "027",
+            "text": "I submitted nothing, but I'll do better next time."
+        },
+        {
+            "id": "028",
+            "text": "And that's all I wrote, sorry."
+        },
+        {
+            "id": "029",
+            "text": "And then I forgot to enter something."
+        },
+        {
+            "id": "030",
+            "text": "And then I ruined the game for everyone."
+        },
+        {
+            "id": "031",
+            "text": "I'll type more and talk less from now on."
+        },
+        {
+            "id": "032",
+            "text": "Whoops! Guess I didn't finish the rhyme."
+        },
+        {
+            "id": "033",
+            "text": "I sure wish I'd finished this rhyme."
+        },
+        {
+            "id": "034",
+            "text": "Next time I'll write, and not be so lazy."
+        },
+        {
+            "id": "035",
+            "text": "I'm too much of a pacifist to kill this verse."
+        },
+        {
+            "id": "036",
+            "text": "I'll let the computer answer in a crazy way!"
+        },
+        {
+            "id": "037",
+            "text": "(This space intentionaly left blank)"
+        },
+        {
+            "id": "038",
+            "text": "Okay, but I bet 50 bucks I nail the next one."
+        },
+        {
+            "id": "039",
+            "text": "I'm so bored by your verse, I feel asleep."
+        },
+        {
+            "id": "040",
+            "text": "Ah, heck-just let my opponent win."
+        },
+        {
+            "id": "041",
+            "text": "I was way too tired to fill in the rest."
+        },
+        {
+            "id": "042",
+            "text": "They wrote this for me, cuz I suck."
+        },
+        {
+            "id": "043",
+            "text": "Sorry, I was thinking about smooching."
+        },
+        {
+            "id": "044",
+            "text": "Oh no I'm about to run out of ti"
+        },
+        {
+            "id": "045",
+            "text": "Take my car keys, I'm too sleepy to play."
+        },
+        {
+            "id": "046",
+            "text": "Sorry, guess I'm kind of a doofus."
+        },
+        {
+            "id": "047",
+            "text": "I can't even write one tiny line."
+        },
+        {
+            "id": "048",
+            "text": "Ugggh, there are just too many words!"
+        },
+        {
+            "id": "049",
+            "text": "Maybe next round I won't talk so much."
+        },
+        {
+            "id": "050",
+            "text": "Oops... Was there something I forgot to do?"
+        },
+        {
+            "id": "051",
+            "text": "Hold on! There's a time limit?!"
+        },
+        {
+            "id": "052",
+            "text": "Sorry, I was busy thinking about toast."
+        },
+        {
+            "id": "053",
+            "text": "I couldn't think cuz I was lost in your eyes."
+        },
+        {
+            "id": "054",
+            "text": "I can't even write one tiny line."
+        },
+        {
+            "id": "055",
+            "text": "I'm not gonna type just cuz they said to."
+        },
+        {
+            "id": "056",
+            "text": "No rhyme this time. Except for that one…"
+        },
+        {
+            "id": "057",
+            "text": "Using predictive text to write is lunch!"
+        },
+        {
+            "id": "058",
+            "text": "Hand me a balloon cause I just blew it."
+        },
+        {
+            "id": "059",
+            "text": "Never invite me to play again."
+        },
+        {
+            "id": "060",
+            "text": "I fell asleep. What are we doing?"
+        },
+        {
+            "id": "061",
+            "text": "Slow and steady wins… nothing.  "
+        },
+        {
+            "id": "062",
+            "text": "Someone tag in and take over for me."
+        },
+        {
+            "id": "063",
+            "text": "I ran out of time because I'm a dum-dum."
+        },
+        {
+            "id": "064",
+            "text": "Did you guys know you have to type in words?"
+        },
+        {
+            "id": "065",
+            "text": "Don't look at me unless you want to see shame."
+        },
+        {
+            "id": "066",
+            "text": "Sorry, I didn't have anything else to say."
+        },
+        {
+            "id": "067",
+            "text": "Wake me up when it's time to play."
+        },
+        {
+            "id": "068",
+            "text": "I snooze, so I lose."
+        },
+        {
+            "id": "069",
+            "text": "Well, this is embarrassing."
+        },
+        {
+            "id": "070",
+            "text": "I didn't write anything. I'm too sad."
+        },
+        {
+            "id": "071",
+            "text": "Instead of dropping the mic, I dropped the ball."
+        },
+        {
+            "id": "072",
+            "text": "And violets are blue, like I blew this line."
+        },
+        {
+            "id": "073",
+            "text": "I wasn't sleeping! I was resting my eyes!"
+        },
+        {
+            "id": "074",
+            "text": "Don't blame me cuz my keypad sucks."
+        },
+        {
+            "id": "075",
+            "text": "Yeah, I know this looks bad. I can explain."
+        },
+        {
+            "id": "076",
+            "text": "Maybe I won't write the rest of the game."
+        },
+        {
+            "id": "077",
+            "text": "And here's the part where I embarrass myself."
+        },
+        {
+            "id": "078",
+            "text": "Creativity should never have time constraints."
+        },
+        {
+            "id": "079",
+            "text": "I'm guessing this needs to rhyme with 'sasquatch.' "
+        },
+        {
+            "id": "080",
+            "text": "Missing: One rhyme writer."
+        },
+        {
+            "id": "081",
+            "text": "Oh the agony. No one knows the pain I'm in."
+        },
+        {
+            "id": "082",
+            "text": "I'm at a loss for words, except these lame ones."
+        },
+        {
+            "id": "083",
+            "text": "Winning is for losers. I will not give in."
+        },
+        {
+            "id": "084",
+            "text": "Ooopsadoodle."
+        },
+        {
+            "id": "085",
+            "text": "I did my best and it didn't work."
+        },
+        {
+            "id": "086",
+            "text": "Let me hear you say 'OH NO.'"
+        },
+        {
+            "id": "087",
+            "text": "Don't call it a comeback. I didn't do anything."
+        },
+        {
+            "id": "088",
+            "text": "(fingers in ears) LALALALALALALA."
+        },
+        {
+            "id": "089",
+            "text": "Even pizza can't fix this."
+        },
+        {
+            "id": "090",
+            "text": "Thanks Jackbox, for completing this rhyme."
+        },
+        {
+            "id": "091",
+            "text": "Nobody's home. Leave a rap at the BEEEEEEEP."
+        },
+        {
+            "id": "092",
+            "text": "Nuh uh, I wasn't even playing this game."
+        },
+        {
+            "id": "093",
+            "text": "Typing words is hard and stewpid."
+        },
+        {
+            "id": "094",
+            "text": "If I say my rap out loud, it won't come true."
+        },
+        {
+            "id": "095",
+            "text": "I was Tweeting instead of thinking of a rhyme."
+        },
+        {
+            "id": "096",
+            "text": "This is a practice round, right?"
+        },
+        {
+            "id": "097",
+            "text": "Fine! It's true! I AM just a pretty face."
+        },
+        {
+            "id": "098",
+            "text": "Does anybody have a phone charger?"
+        },
+        {
+            "id": "099",
+            "text": "What excuse will you find most believable?"
+        },
+        {
+            "id": "100",
+            "text": "Did I write this? Or was it a ghost?"
+        },
+        {
+            "id": "101",
+            "text": "Turn on the heat because I just froze."
+        },
+        {
+            "id": "102",
+            "text": "It was nice of them to fill in this line."
+        },
+        {
+            "id": "103",
+            "text": "At least my hair looks good. "
+        },
+        {
+            "id": "104",
+            "text": "Never tell my family about this failure."
+        },
+        {
+            "id": "105",
+            "text": "Is it just me or is 'rhyme' spelled weird?"
+        },
+        {
+            "id": "106",
+            "text": "I forgot the password for my phone."
+        },
+        {
+            "id": "107",
+            "text": "I really want to hold onto my underdog status."
+        },
+        {
+            "id": "108",
+            "text": "Typing in stuff is for chumps!"
+        },
+        {
+            "id": "109",
+            "text": "I'd probably be killed first in the Hunger Games."
+        },
+        {
+            "id": "110",
+            "text": "Isn't a time limit more of a suggestion?"
+        },
+        {
+            "id": "111",
+            "text": "If my face looks red it's because I'm choking."
+        },
+        {
+            "id": "112",
+            "text": "Let us never speak of my failure again."
+        },
+        {
+            "id": "113",
+            "text": "Wait… if I didn’t write this… who did?!"
+        },
+        {
+            "id": "114",
+            "text": "I got five dollars if u r willing to write for me."
+        },
+        {
+            "id": "115",
+            "text": "Can we watch the instructions again?"
+        },
+        {
+            "id": "116",
+            "text": "Has anyone seen my phone… oh here it is."
+        },
+        {
+            "id": "117",
+            "text": "But seriously… are we ordering food?"
+        },
+        {
+            "id": "118",
+            "text": "Idle fingers are the computer's playground."
+        },
+        {
+            "id": "119",
+            "text": "I can never clap on beat or answer on time. "
+        },
+        {
+            "id": "120",
+            "text": "New mic, who dis?"
+        },
+        {
+            "id": "121",
+            "text": "Please bring flowers to my score's gravesite."
+        },
+        {
+            "id": "122",
+            "text": "Can anybody tell me what a verb is?"
+        },
+        {
+            "id": "123",
+            "text": "It's not my fault, I got the worst robot. "
+        },
+        {
+            "id": "124",
+            "text": "I had the weirdest dream I was in a rap battle."
+        },
+        {
+            "id": "125",
+            "text": "Think I heard something outside! I'll investigate!"
+        },
+        {
+            "id": "126",
+            "text": "That line was too devasting to follow up."
+        },
+        {
+            "id": "127",
+            "text": "The only winning move is not to play."
+        },
+        {
+            "id": "128",
+            "text": "In alternate timeline, I had a great rhyme."
+        },
+        {
+            "id": "129",
+            "text": "Newtonian physics state I must stay at rest. "
+        },
+        {
+            "id": "130",
+            "text": "I really need an understudy."
+        },
+        {
+            "id": "131",
+            "text": "My phone battery's fine but my brain isn't charged."
+        },
+        {
+            "id": "132",
+            "text": "I'm not getting a trophy, am I?"
+        },
+        {
+            "id": "133",
+            "text": "My physician advises me to avoid rhyming."
+        },
+        {
+            "id": "134",
+            "text": "Wait… What were we talking about?"
+        },
+        {
+            "id": "135",
+            "text": "I lost my rhyme, can I have yours?"
+        },
+        {
+            "id": "136",
+            "text": "To be continued...?"
+        },
+        {
+            "id": "137",
+            "text": "My phone buttons are sticky with jam!"
+        },
+        {
+            "id": "138",
+            "text": "The rules confuse and anger me."
+        },
+        {
+            "id": "139",
+            "text": "This act of charity is a tax write-off."
+        },
+        {
+            "id": "140",
+            "text": "Call the rhyme police cuz I broke the law."
+        },
+        {
+            "id": "141",
+            "text": "Time is relative… relatively hard to understand."
+        },
+        {
+            "id": "142",
+            "text": "I HAD ONE JOB."
+        },
+        {
+            "id": "143",
+            "text": "This is what messing up looks like."
+        },
+        {
+            "id": "144",
+            "text": "Did everyone else follow the instructions?"
+        },
+        {
+            "id": "145",
+            "text": "I cannot tell a lie. I ran out of time."
+        },
+        {
+            "id": "146",
+            "text": "Life is full of second chances. But not this time."
+        },
+        {
+            "id": "147",
+            "text": "Life is beautiful, and I got distracted."
+        },
+        {
+            "id": "148",
+            "text": "Y'all, I wasn't ready for this. "
+        },
+        {
+            "id": "149",
+            "text": "I messed up. I'll see myself out."
+        },
+        {
+            "id": "150",
+            "text": "I have nothing, and I'm not ashamed!"
+        },
+        {
+            "id": "151",
+            "text": "An algorhythm wrote this."
+        },
+        {
+            "id": "152",
+            "text": "I stand by my choice not to submit a rhyme."
+        },
+        {
+            "id": "153",
+            "text": "Pay attention as I shoot myself in the foot."
+        },
+        {
+            "id": "154",
+            "text": "Time is a construct I don't understand."
+        },
+        {
+            "id": "155",
+            "text": "I left this blank, because I am a dingle."
+        },
+        {
+            "id": "156",
+            "text": "Knock knock! Who's there? Not me!"
+        },
+        {
+            "id": "157",
+            "text": "And this is how to kill a good flow."
+        },
+        {
+            "id": "158",
+            "text": "Oh are you waiting on me? Then I am a jackass."
+        },
+        {
+            "id": "159",
+            "text": "I hit a wall. Anyone have 5 Hour Energy?"
+        },
+        {
+            "id": "160",
+            "text": "Woe is me. Woe is me. Woe is me."
+        },
+        {
+            "id": "161",
+            "text": "And now I will crawl under this large rock."
+        },
+        {
+            "id": "162",
+            "text": "Oh my. Wherever did the time go?"
+        },
+        {
+            "id": "163",
+            "text": "Sorry my hands are tied. I typed with my nose."
+        },
+        {
+            "id": "164",
+            "text": "I totally just forgot what I was gonna say."
+        },
+        {
+            "id": "165",
+            "text": "Ponder that as I stand here like an oaf."
+        },
+        {
+            "id": "166",
+            "text": "And suddenly, I am quite speechless."
+        },
+        {
+            "id": "167",
+            "text": "Excuse me, I have a pot roast in the oven."
+        },
+        {
+            "id": "168",
+            "text": "No, stay where you are. I'll let myself out. "
+        },
+        {
+            "id": "169",
+            "text": "Sorry, my phone's dying. Had to get my charger."
+        },
+        {
+            "id": "170",
+            "text": "I have trouble finishing things. "
+        },
+        {
+            "id": "171",
+            "text": "Oh wait. Did I miss something?"
+        },
+        {
+            "id": "172",
+            "text": "Unfortunately I can't back that up right now."
+        },
+        {
+            "id": "173",
+            "text": "I'm going to the kitchen. Anyone need a refill?"
+        },
+        {
+            "id": "174",
+            "text": "Yeah, just try to ignore this last part."
+        },
+        {
+            "id": "175",
+            "text": "Truth is, I'm actually quite new to the hip hop."
+        },
+        {
+            "id": "176",
+            "text": "Oh, I wasn't aware there were two parts to this."
+        },
+        {
+            "id": "177",
+            "text": "The first thing I said stands on its own."
+        },
+        {
+            "id": "178",
+            "text": "Whoop dee doo. Twenty-three skidoo!"
+        }
+    ]
+}

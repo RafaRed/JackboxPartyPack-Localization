@@ -1,0 +1,5422 @@
+{
+   "packid": 1208,
+   "questions": [
+      {
+         "id": 10928,
+         "text": "Natural Redheads",
+         "category": "Natural Redheads",
+         "audio": "10928_cat",
+         "subject": "People",
+         "statements": [
+            {
+               "response": "Rumor has it, his drapes matched his tapestry.",
+               "text": "Thomas Jefferson",
+               "audio": "10928_0",
+               "truth": true,
+               "tweet": "Thomas Jefferson was a natural redhead."
+            },
+            {
+               "response": "So, part of her is natural.",
+               "text": "Kathy Griffin",
+               "audio": "10928_1",
+               "truth": true,
+               "tweet": "Kathy Griffen is a natural redhead."
+            },
+            {
+               "response": "A fact any fan of <i>Herbie: Fully Loaded<\/i> should know.",
+               "text": "Lindsay Lohan",
+               "audio": "10928_2",
+               "truth": true,
+               "tweet": "Lindsay Lohan is a natural redhead."
+            },
+            {
+               "text": "Julia Roberts",
+               "audio": "10928_3",
+               "truth": false,
+               "tweet": "Julia Roberts is a natural redhead."
+            },
+            {
+               "text": "Lucille Ball",
+               "audio": "10928_4",
+               "truth": false,
+               "tweet": "Lucille Ball is a natural redhead."
+            },
+            {
+               "text": "Amy Adams",
+               "audio": "10928_5",
+               "truth": false,
+               "tweet": "Amy Adams is a natural redhead."
+            },
+            {
+               "text": "Malcolm X",
+               "audio": "10928_6",
+               "truth": false,
+               "tweet": "Malcolm X is a natural redhead."
+            }
+         ]
+      },
+      {
+         "id": 10876,
+         "text": "Internet Dating",
+         "category": "Internet Dating",
+         "audio": "10876_cat",
+         "subject": "Technology",
+         "statements": [
+            {
+               "response": "For lovers who love themselves.",
+               "text": "FindYourFaceMate matches up couples who look the same as one another.",
+               "audio": "10876_0",
+               "truth": true
+            },
+            {
+               "response": "Slogan: \u201cCity folks just don\u2019t get it!\u201d",
+               "text": "The Farmers Only dating website also welcomes interested non-farmers.",
+               "audio": "10876_1",
+               "truth": true
+            },
+            {
+               "response": "It\u2019s free!",
+               "text": "STDmatch makes love connections between people who share the same STD.",
+               "audio": "10876_2",
+               "truth": true
+            },
+            {
+               "text": "J Date was originally a dating site exclusively for people whose name starts with J.",
+               "audio": "10876_3",
+               "truth": false
+            },
+            {
+               "text": "The most popular TV show listed on eHarmony is <i>Golden Girls<\/i>.",
+               "audio": "10876_4",
+               "truth": false
+            },
+            {
+               "text": "R&B group Boyz II Men sued a dating web site of the same name in 1999.",
+               "audio": "10876_5",
+               "truth": false
+            },
+            {
+               "text": "PsychicMatch requires absolutely no information.",
+               "audio": "10876_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 10869,
+         "text": "Real Pro Baseball Players",
+         "category": "Real Pro Baseball Players",
+         "audio": "10869_cat",
+         "subject": "Real",
+         "statements": [
+            {
+               "response": "Dick Cox played for the Brooklyn Robins in the 1920s.",
+               "text": "Dick Cox",
+               "audio": "10869_0",
+               "truth": true
+            },
+            {
+               "response": "Rusty played for a number of teams in the \u201880s.",
+               "text": "Rusty Kuntz",
+               "audio": "10869_1",
+               "truth": true
+            },
+            {
+               "response": "Butts played for the Washington Senators in the 1890s.",
+               "text": "Butts Wagner",
+               "audio": "10869_2",
+               "truth": true
+            },
+            {
+               "text": "Peter Dong",
+               "audio": "10869_3",
+               "truth": false
+            },
+            {
+               "text": "Vaj Johnson",
+               "audio": "10869_4",
+               "truth": false
+            },
+            {
+               "text": "Tiny Member",
+               "audio": "10869_5",
+               "truth": false
+            },
+            {
+               "text": "Fanny Mann",
+               "audio": "10869_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 10819,
+         "text": "Soda",
+         "category": "Soda",
+         "audio": "10819_cat",
+         "subject": "Food",
+         "statements": [
+            {
+               "response": "7-Up originally included lithium as an ingredient.",
+               "text": "7-Up used to be named Bib-Label Lithiated Lemon-Lime Soda.",
+               "audio": "10819_0",
+               "truth": true
+            },
+            {
+               "response": "Pepsi\u2019s inventor was Caleb Bradham.",
+               "text": "Pepsi used to be named Brad\u2019s Drink.",
+               "audio": "10819_1",
+               "truth": true
+            },
+            {
+               "text": "Dr. Pepper used to be named Coke Zero.",
+               "audio": "10819_2",
+               "truth": false
+            },
+            {
+               "text": "Hawaiian Punch used to be named Koloko-Huka-Naka Slam.",
+               "audio": "10819_3",
+               "truth": false
+            },
+            {
+               "text": "Royal Crown used to be named Queen Elizabeth Select.",
+               "audio": "10819_4",
+               "truth": false
+            },
+            {
+               "text": "A&W used to be named Animals & Women Root Beer.",
+               "audio": "10819_5",
+               "truth": false
+            },
+            {
+               "text": "Mr. Pibb used to be named Prof. Pibb.",
+               "audio": "10819_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 10788,
+         "text": "Real U.S. Towns",
+         "category": "Real U.S. Towns",
+         "audio": "10788_cat",
+         "subject": "Places",
+         "statements": [
+            {
+               "response": "Boring Population: About 12,000",
+               "text": "Boring, Oregon",
+               "audio": "10788_0",
+               "truth": true,
+               "tweet": "Boring, Oregon is a real U.S. town."
+            },
+            {
+               "response": "Nimrod is named after the character from the Bible.",
+               "text": "Nimrod, Minnesota",
+               "audio": "10788_1",
+               "truth": true,
+               "tweet": "Nimrod, Minnesotta is a real U.S. town."
+            },
+            {
+               "response": "It\u2019s fairly small. Ahem.",
+               "text": "New Erection, Virginia",
+               "audio": "10788_2",
+               "truth": true,
+               "tweet": "New Erection, Virginia is a real U.S. town."
+            },
+            {
+               "text": "Buttzville, Texas",
+               "audio": "10788_3",
+               "truth": false,
+               "tweet": "Buttzville, Texas is a real U.S. town."
+            },
+            {
+               "text": "Big Taint, Ohio",
+               "audio": "10788_4",
+               "truth": false,
+               "tweet": "Big Taint, Ohio is a real U.S. town."
+            },
+            {
+               "text": "Taco Bell, Arizona",
+               "audio": "10788_5",
+               "truth": false,
+               "tweet": "Taco Bell, Arizona is a real U.S. town."
+            },
+            {
+               "text": "Puppy Party, Iowa",
+               "audio": "10788_6",
+               "truth": false,
+               "tweet": "Puppy Party, Iowa is a real U.S. town."
+            }
+         ]
+      },
+      {
+         "id": 10785,
+         "text": "Kentucky Derby Winners",
+         "category": "Kentucky Derby Winners",
+         "audio": "10785_cat",
+         "subject": "Real",
+         "statements": [
+            {
+               "response": "Jet Pilot won the Kentucky Derby in 1947.",
+               "text": "Jet Pilot",
+               "audio": "10785_0",
+               "truth": true,
+               "tweet": "A horse named Jet Pilot won the Kentucky Derby."
+            },
+            {
+               "response": "Regret won the Kentucky Derby in 1915.",
+               "text": "Regret",
+               "audio": "10785_1",
+               "truth": true,
+               "tweet": "A horse named Regret won the Kentucky Derby."
+            },
+            {
+               "response": "Smarty Jones won the Kentucky Derby in 2004.",
+               "text": "Smarty Jones ",
+               "audio": "10785_2",
+               "truth": true,
+               "tweet": "A horse named Smarty Jones won the Kentucky Derby."
+            },
+            {
+               "text": "Not a Real Horse",
+               "audio": "10785_3",
+               "truth": false,
+               "tweet": "A horse named Not a Real Horse won the Kentucky Derby."
+            },
+            {
+               "text": "Admiral Venture",
+               "audio": "10785_4",
+               "truth": false,
+               "tweet": "A horse named Admiral Venture won the Kentucky Derby."
+            },
+            {
+               "text": "Sometimes a Winner",
+               "audio": "10785_5",
+               "truth": false,
+               "tweet": "A horse named Sometimes a Winner won the Kentucky Derby."
+            },
+            {
+               "text": "Saxby Chambliss",
+               "audio": "10785_6",
+               "truth": false,
+               "tweet": "A horse named Saxby Chambliss won the Kentucky Derby."
+            }
+         ]
+      },
+      {
+         "id": 10780,
+         "text": "Real U.S. Court Cases",
+         "category": "Real U.S. Court Cases",
+         "audio": "10780_cat",
+         "subject": "Real",
+         "statements": [
+            {
+               "response": "We couldn\u2019t find out, though, if Ray L. Batman won or not.",
+               "text": "Batman v. Commissioner",
+               "audio": "10780_0",
+               "truth": true,
+               "tweet": "Batman v. Commissioner was a real U.S. court case."
+            },
+            {
+               "response": "Weird, huh?",
+               "text": "United States v. 64,695 Pounds of Shark Fins",
+               "audio": "10780_1",
+               "truth": true,
+               "tweet": "United States v. 64,695 Pounds of Shark Fins was a real U.S. court case."
+            },
+            {
+               "response": "Doesn\u2019t sound sexy at all.",
+               "text": "Easter Seals Society for Crippled Children v. Playboy Enterprises",
+               "audio": "10780_2",
+               "truth": true,
+               "tweet": "Easter Seals Society for Crippled Children v. Playboy Enterprises was a real U.S. court case."
+            },
+            {
+               "text": "Snobs v. Slobs",
+               "audio": "10780_3",
+               "truth": false,
+               "tweet": "Snobs v. Slobs was a real U.S. court case."
+            },
+            {
+               "text": "United States v. Bizzaro United States",
+               "audio": "10780_4",
+               "truth": false,
+               "tweet": "United States v. Bizzaro United States was a real U.S. court case."
+            },
+            {
+               "text": "Cat Fancy v. Dog Fancy",
+               "audio": "10780_5",
+               "truth": false,
+               "tweet": "Cat Fancy v. Dog Fancy was a real U.S. court case."
+            },
+            {
+               "text": "State of Indiana v. Giant Baby",
+               "audio": "10780_6",
+               "truth": false,
+               "tweet": "State of Indiana v. Giant Baby was a real U.S. court case."
+            }
+         ]
+      },
+      {
+         "id": 10776,
+         "text": "Celebs with Weird Names",
+         "category": "Celebs with Weird Names",
+         "audio": "10776_cat",
+         "subject": "People",
+         "statements": [
+            {
+               "response": "Madonna Louise Ciccone",
+               "text": "Madonna\u2019s birth name is really Madonna.",
+               "audio": "10776_0",
+               "truth": true
+            },
+            {
+               "response": "Prince Rogers Nelson",
+               "text": "Prince\u2019s birth name is really Prince.",
+               "audio": "10776_1",
+               "truth": true
+            },
+            {
+               "text": "Queen Latifah\u2019s birth name is really Queen.",
+               "audio": "10776_2",
+               "truth": false
+            },
+            {
+               "text": "Whoopi Goldberg\u2019s birth name is really Whoopi.",
+               "audio": "10776_3",
+               "truth": false
+            },
+            {
+               "text": "Slash\u2019s birth name is really Slash.",
+               "audio": "10776_4",
+               "truth": false
+            },
+            {
+               "text": "Lady Gaga\u2019s birth name is really Gaga.",
+               "audio": "10776_5",
+               "truth": false
+            },
+            {
+               "text": "Bruno Mars\u2019 birth names are really Bruno and Mars.",
+               "audio": "10776_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 10773,
+         "text": "Irony",
+         "category": "Irony",
+         "audio": "10773_cat",
+         "subject": "Easter Egg",
+         "statements": [
+            {
+               "response": "Humans have dander too.",
+               "text": "Some dogs are allergic to humans.",
+               "audio": "10773_0",
+               "truth": true
+            },
+            {
+               "response": "80,000 buttons were recalled in 1974.",
+               "text": "\u2018Think Toy Safety\u2019 buttons were recalled because of lead paint and sharp edges.",
+               "audio": "10773_1",
+               "truth": true
+            },
+            {
+               "response": "The blood was infected with tuberculosis and malaria.",
+               "text": "The founder of the first blood bank died from a bad blood transfusion.",
+               "audio": "10773_2",
+               "truth": true
+            },
+            {
+               "text": "The most popular TV show in U.S. prisons is <i>Law & Order<\/i>.",
+               "audio": "10773_3",
+               "truth": false
+            },
+            {
+               "text": "Irony, New Mexico used to be named Sincerity, New Mexico.",
+               "audio": "10773_4",
+               "truth": false
+            },
+            {
+               "text": "The inventor of the smiley face suffered chronic depression.",
+               "audio": "10773_5",
+               "truth": false
+            },
+            {
+               "text": "The highest rated <i>60 Minutes<\/i> episode was on the dangers of watching television.",
+               "audio": "10773_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 10769,
+         "text": "Baseball Team Names",
+         "category": "Baseball Team Names",
+         "audio": "10769_cat",
+         "subject": "Sports",
+         "statements": [
+            {
+               "response": "They were also once known as the Pittsburgh Alleghenys.",
+               "text": "The Pittsburgh Pirates were formerly the Pittsburgh Innocents.",
+               "audio": "10769_0",
+               "truth": true
+            },
+            {
+               "response": "Both Chicago baseball franchises were once named the White Stockings.",
+               "text": "The Chicago Cubs were formerly the Chicago White Stockings.",
+               "audio": "10769_1",
+               "truth": true
+            },
+            {
+               "response": "They were also once the Cleveland Spiders.",
+               "text": "The Cleveland Indians were formerly the Cleveland Naps.",
+               "audio": "10769_2",
+               "truth": true
+            },
+            {
+               "text": "The New York Yankees were formerly the New York Rats.",
+               "audio": "10769_3",
+               "truth": false
+            },
+            {
+               "text": "The Baltimore Orioles were formerly the Baltimore Vampires.",
+               "audio": "10769_4",
+               "truth": false
+            },
+            {
+               "text": "The Minnesota Twins were formerly the Minnesota Only Children.",
+               "audio": "10769_5",
+               "truth": false
+            },
+            {
+               "text": "The Saint Louis Cardinals were formerly the Saint Louis Scoundrels.",
+               "audio": "10769_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 11389,
+         "text": "Common Products",
+         "category": "Common Products",
+         "audio": "11389_cat",
+         "subject": "Products",
+         "statements": [
+            {
+               "response": "Which is fun for anal-retentive adults.",
+               "text": "Play-Doh was originally used as wallpaper cleaner. ",
+               "audio": "11389_0",
+               "truth": true
+            },
+            {
+               "response": "Ouch.",
+               "text": "Lysol used to be sold as a douche. ",
+               "audio": "11389_1",
+               "truth": true
+            },
+            {
+               "response": "It also stopped them from squeaking.",
+               "text": "WD-40 was originally used to protect nuclear missiles. ",
+               "audio": "11389_2",
+               "truth": true
+            },
+            {
+               "text": "Root beer was originally sold as mouthwash. ",
+               "audio": "11389_3",
+               "truth": false
+            },
+            {
+               "text": "Bubble wrap used to be sold as bed sheets for babies. ",
+               "audio": "11389_4",
+               "truth": false
+            },
+            {
+               "text": "Ugg boots were originally part of the Australian Army\u2019s uniform. ",
+               "audio": "11389_5",
+               "truth": false
+            },
+            {
+               "text": "ShamWow towels were originally used exclusively by the adult film industry. ",
+               "audio": "11389_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 11533,
+         "text": "April Fool\u2019s Jokes",
+         "category": "April Fool\u2019s Jokes",
+         "audio": "11533_cat",
+         "subject": "Awesome",
+         "statements": [
+            {
+               "response": "It was called a \u201cPlenta.\u201d",
+               "text": "Starbucks claimed it was selling a 128 fluid ounce drink.",
+               "audio": "11533_0",
+               "truth": true
+            },
+            {
+               "response": "All of the condiments were rotated 180 degrees.",
+               "text": "Burger King claimed it was selling a left-handed Whopper.",
+               "audio": "11533_1",
+               "truth": true
+            },
+            {
+               "response": "His fake quote: \u201cI never did anything wrong, and I won\u2019t do it again.\u201d",
+               "text": "NPR claimed Richard Nixon was running for president, in 1992. ",
+               "audio": "11533_2",
+               "truth": true
+            },
+            {
+               "text": "Bed Bath & Beyond claimed it would just start selling Beyond items.",
+               "audio": "11533_3",
+               "truth": false
+            },
+            {
+               "text": "Pringles claimed to open an addiction center for people who couldn\u2019t stop popping.",
+               "audio": "11533_4",
+               "truth": false
+            },
+            {
+               "text": "Marvel comics announced that Captain America was getting a sex change. ",
+               "audio": "11533_5",
+               "truth": false
+            },
+            {
+               "text": "Google claimed it had been bought by Ask Jeeves.",
+               "audio": "11533_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 11332,
+         "text": "Look-Alikes",
+         "category": "Look-Alikes",
+         "audio": "11332_cat",
+         "subject": "People",
+         "statements": [
+            {
+               "response": "He didn\u2019t do the \u201cbest\u201d Little Tramp.",
+               "text": "Charlie Chaplin lost a Charlie Chaplin look-alike contest.",
+               "audio": "11332_0",
+               "truth": true
+            },
+            {
+               "response": "She came in second.",
+               "text": "Dolly Parton lost a Dolly Parton look-alike contest.",
+               "audio": "11332_1",
+               "truth": true
+            },
+            {
+               "text": "Michael Jackson lost a Michael Jackson look-alike contest. ",
+               "audio": "11332_2",
+               "truth": false
+            },
+            {
+               "text": "Jeff Goldblum lost a Jeff Goldblum look-alike contest. ",
+               "audio": "11332_3",
+               "truth": false
+            },
+            {
+               "text": "Bill Pullman lost a Bill Paxton look-alike contest. ",
+               "audio": "11332_4",
+               "truth": false
+            },
+            {
+               "text": "Miley Cyrus lost a Hannah Montana look-alike contest. ",
+               "audio": "11332_5",
+               "truth": false
+            },
+            {
+               "text": "Marilyn Monroe lost a Marilyn Monroe look-alike contest.",
+               "audio": "11332_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 11634,
+         "text": "Batman Villains",
+         "category": "Batman Villains",
+         "audio": "11634_cat",
+         "subject": "Pop Culture",
+         "statements": [
+            {
+               "response": "He \u201ccalculates\u201d Batman\u2019s every move.",
+               "text": "The Calculator dresses like a giant pocket calculator.",
+               "audio": "11634_0",
+               "truth": true
+            },
+            {
+               "response": "He later upgraded to hot sauce.",
+               "text": "Condiment King sprays deadly ketchup and mustard.",
+               "audio": "11634_1",
+               "truth": true
+            },
+            {
+               "response": "Batman defeated him with special Bat-Kites.",
+               "text": "Kite Man attacks people with a barrage of kites.",
+               "audio": "11634_2",
+               "truth": true
+            },
+            {
+               "text": "Shoulder Devil hypnotizes Batman into committing crimes.",
+               "audio": "11634_3",
+               "truth": false
+            },
+            {
+               "text": "Couch Face would swallow up victims in his crevices.",
+               "audio": "11634_4",
+               "truth": false
+            },
+            {
+               "text": "Prof. Urine could transport himself anywhere there was a flushable toilet.",
+               "audio": "11634_5",
+               "truth": false
+            },
+            {
+               "text": "Elbows Grease is an eight-armed auto mechanic.",
+               "audio": "11634_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 11531,
+         "text": "Words in the U.S. Constitution",
+         "category": "Words in the U.S. Constitution",
+         "audio": "11531_cat",
+         "subject": "History",
+         "statements": [
+            {
+               "response": "It\u2019s also spelled correctly in a few other places.",
+               "text": "a misspelled \u201cPensylvania\u201d",
+               "audio": "11531_0",
+               "truth": true
+            },
+            {
+               "response": "It\u2019s the first amendment!",
+               "text": "\u201cfreedom of speech\u201d",
+               "audio": "11531_1",
+               "truth": true
+            },
+            {
+               "response": "More specifically: \u201cthe erection of forts\u201d",
+               "text": "\u201cerection\u201d",
+               "audio": "11531_2",
+               "truth": true
+            },
+            {
+               "text": "\u201cdemocracy\u201d",
+               "audio": "11531_3",
+               "truth": false
+            },
+            {
+               "text": "\u201cseparation of church and state\u201d",
+               "audio": "11531_4",
+               "truth": false
+            },
+            {
+               "text": "\u201clet\u2019s party\u201d",
+               "audio": "11531_5",
+               "truth": false
+            },
+            {
+               "text": "\u201cGod\u201d",
+               "audio": "11531_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 11207,
+         "text": "Cereal Mascots",
+         "category": "Cereal Mascots",
+         "audio": "11207_cat",
+         "subject": "Food",
+         "statements": [
+            {
+               "response": "And the cereal was called CherriOats.",
+               "text": "Cheerio\u2019s mascot was originally a little girl named Cheeri O\u2019Leary.",
+               "audio": "11207_0",
+               "truth": true
+            },
+            {
+               "response": "Also Katy the Kangaroo and Elmo the Elephant.",
+               "text": "One of the first mascots for Kellogg\u2019s Frosted Flakes was Newt the Gnu. ",
+               "audio": "11207_1",
+               "truth": true
+            },
+            {
+               "response": "For less than a year in the 70s.",
+               "text": "Lucky the Leprechaun was briefly replaced with Waldo the Wizard.",
+               "audio": "11207_2",
+               "truth": true
+            },
+            {
+               "text": "Cocoa Puffs\u2019 original mascot was a blowfish named Sir Puffington.",
+               "audio": "11207_3",
+               "truth": false
+            },
+            {
+               "text": "An old, wrinkled woman named Ester was the mascot for Raisin Bran from 1984 - 1989.",
+               "audio": "11207_4",
+               "truth": false
+            },
+            {
+               "text": "Toucan Sam\u2019s best friend was a wallaby in a straitjacket named \u201cLoopy.\u201d",
+               "audio": "11207_5",
+               "truth": false
+            },
+            {
+               "text": "Snap, Crackle and Pop were originally called Blam, Kapow, and Bonkers.",
+               "audio": "11207_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 11628,
+         "text": "<i>The Baby-sitters Club<\/i> Books",
+         "category": "<i>The Baby-sitters Club<\/i> Books",
+         "audio": "11628_cat",
+         "subject": "Pop Culture",
+         "statements": [
+            {
+               "response": "Baby-Sitters Club #8",
+               "text": "<i>Boy-Crazy Stacey<\/i>",
+               "audio": "11628_0",
+               "truth": true,
+               "tweet": "<i>Boy-Crazy Stacey<\/i> is a Baby-sitters book."
+            },
+            {
+               "response": "Baby-Sitters Club #59",
+               "text": "<i>Mallory Hates Boys (and Gym)<\/i>",
+               "audio": "11628_1",
+               "truth": true,
+               "tweet": "<i>Mallory Hates Boys (and Gym)<\/i> is a Baby-sitters book."
+            },
+            {
+               "response": "Baby-Sitters Club #95",
+               "text": "<i>Kristy + Bart = ?<\/i>",
+               "audio": "11628_2",
+               "truth": true
+            },
+            {
+               "text": "<i>Prom-ageddon!<\/i>",
+               "audio": "11628_3",
+               "truth": false
+            },
+            {
+               "text": "<i>Dawn and the Mysterious Hair<\/i>",
+               "audio": "11628_4",
+               "truth": false
+            },
+            {
+               "text": "<i>Claudia Gets a Case of the Cooties<\/i>",
+               "audio": "11628_5",
+               "truth": false
+            },
+            {
+               "text": "<i>Abby at Makeout-Point Alone<\/i>",
+               "audio": "11628_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 11330,
+         "text": "Real Molecule Names",
+         "category": "Real Molecule Names",
+         "audio": "11330_cat",
+         "subject": "Math",
+         "statements": [
+            {
+               "response": "It can be extracted from mistletoe.",
+               "text": "Moronic Acid",
+               "audio": "11330_0",
+               "truth": true
+            },
+            {
+               "response": "It\u2019s a molecule containing arsenic.",
+               "text": "Arsole",
+               "audio": "11330_1",
+               "truth": true
+            },
+            {
+               "response": "It\u2019s an anticoagulant obtained from vampire bat saliva.",
+               "text": "Draculin",
+               "audio": "11330_2",
+               "truth": true
+            },
+            {
+               "text": "Tittigen",
+               "audio": "11330_3",
+               "truth": false
+            },
+            {
+               "text": "Barfaho",
+               "audio": "11330_4",
+               "truth": false
+            },
+            {
+               "text": "Moistone",
+               "audio": "11330_5",
+               "truth": false
+            },
+            {
+               "text": "Streisandic Acid",
+               "audio": "11330_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 11626,
+         "text": "Ben & Jerry\u2019s Flavors",
+         "category": "Ben & Jerry\u2019s Flavors",
+         "audio": "11626_cat",
+         "subject": "Food",
+         "statements": [
+            {
+               "response": "Sold in Britain, it contains little chocolate peace signs.",
+               "text": "Fossil Fuel",
+               "audio": "11626_0",
+               "truth": true
+            },
+            {
+               "response": "A limited offer named after the SNL sketch.",
+               "text": "Schweddy Balls",
+               "audio": "11626_1",
+               "truth": true
+            },
+            {
+               "response": "A sexy blend of caramel and chocolate.",
+               "text": "Karamel Sutra",
+               "audio": "11626_2",
+               "truth": true
+            },
+            {
+               "text": "Neapolitan Complex ",
+               "audio": "11626_3",
+               "truth": false
+            },
+            {
+               "text": "Mud Butt",
+               "audio": "11626_4",
+               "truth": false
+            },
+            {
+               "text": "Mint Romney ",
+               "audio": "11626_5",
+               "truth": false
+            },
+            {
+               "text": "Don\u2019t Taste Me, Bro",
+               "audio": "11626_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 11383,
+         "text": "Musical Irony",
+         "category": "Musical Irony",
+         "audio": "11383_cat",
+         "subject": "Art",
+         "statements": [
+            {
+               "response": "By Brian Eno.",
+               "text": "The Windows 95 start-up theme was composed on a Mac.",
+               "audio": "11383_0",
+               "truth": true
+            },
+            {
+               "response": "Also: \u201cA Holly Jolly Christmas\u201d and \u201cRockin\u2019 Around the Christmas Tree.\u201d",
+               "text": "\u201cRudolph the Red-Nosed Reindeer,\u201d was written by a Jewish composer. ",
+               "audio": "11383_1",
+               "truth": true
+            },
+            {
+               "text": "Bruce Springsteen was born in Canada. ",
+               "audio": "11383_2",
+               "truth": false
+            },
+            {
+               "text": "Ray Parker Jr., writer of the <i>Ghostbusters<\/i> theme song, suffered from phasmophobia.",
+               "audio": "11383_3",
+               "truth": false
+            },
+            {
+               "text": "Li\u2019l Jon recorded the song \u201cShots\u201d in a studio above an alcohol rehab clinic. ",
+               "audio": "11383_4",
+               "truth": false
+            },
+            {
+               "text": "The composer of the <i>Wheel of Fortune<\/i> theme song was functionally illiterate. ",
+               "audio": "11383_5",
+               "truth": false
+            },
+            {
+               "text": "A Jehovah\u2019s Witness owns the copyright to the \u201cHappy Birthday\u201d song.",
+               "audio": "11383_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 11524,
+         "text": "Small Ohio Towns",
+         "category": "Small Ohio Towns",
+         "audio": "11524_cat",
+         "subject": "Places",
+         "statements": [
+            {
+               "response": "Pronounced \u201cRoo-She.\u201d",
+               "text": "Russia, OH",
+               "audio": "11524_0",
+               "truth": true
+            },
+            {
+               "response": "It is very very small.",
+               "text": "Egypt, OH",
+               "audio": "11524_1",
+               "truth": true
+            },
+            {
+               "response": "There\u2019s also a Poland, New York.",
+               "text": "Poland, OH",
+               "audio": "11524_2",
+               "truth": true
+            },
+            {
+               "text": "Canada, OH",
+               "audio": "11524_3",
+               "truth": false
+            },
+            {
+               "text": "Brazil, OH",
+               "audio": "11524_4",
+               "truth": false
+            },
+            {
+               "text": "Japan, OH",
+               "audio": "11524_5",
+               "truth": false
+            },
+            {
+               "text": "Middle Earth, OH",
+               "audio": "11524_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 11522,
+         "text": "Frank Zappa Albums",
+         "category": "Frank Zappa Albums",
+         "audio": "11522_cat",
+         "subject": "Pop Culture",
+         "statements": [
+            {
+               "text": "<i>Uncle Meat<\/i>",
+               "audio": "11522_0",
+               "truth": true,
+               "tweet": "Uncle Meat is an album by Frank Zappa."
+            },
+            {
+               "text": "<i>Burnt Weeny Sandwich<\/i>",
+               "audio": "11522_1",
+               "truth": true,
+               "tweet": "Burnt Weeny Sandwich is an album by Frank Zappa."
+            },
+            {
+               "text": "<i>Weasels Ripped My Flesh<\/i>",
+               "audio": "11522_2",
+               "truth": true,
+               "tweet": "Bongo Fury is an album by Frank Zappa.\r\nOR\r\nWeasels Ripped My Flesh is an album by Frank Zappa."
+            },
+            {
+               "text": "<i>Butt Machine<\/i>",
+               "audio": "11522_3",
+               "truth": false
+            },
+            {
+               "text": "<i>The Mis-Education of Lauryn Hill<\/i>",
+               "audio": "11522_4",
+               "truth": false
+            },
+            {
+               "text": "<i>Let Me Be Frank For A Second<\/i>",
+               "audio": "11522_5",
+               "truth": false
+            },
+            {
+               "text": "<i>Donkey Cabbage<\/i>",
+               "audio": "11522_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 11590,
+         "text": "Real Hanna-Barbera Cartoons",
+         "category": "Real Hanna-Barbera Cartoons",
+         "audio": "11590_cat",
+         "subject": "Pop Culture",
+         "statements": [
+            {
+               "response": "Based on the TV movie <i>The Kid with the Broken Halo<\/i>.",
+               "text": "<i>The Gary Coleman Show<\/i>: Gary Coleman\u2019s an angel trying to earn his wings.",
+               "audio": "11590_0",
+               "truth": true
+            },
+            {
+               "response": "With a theme song by Menudo.",
+               "text": "<i>Rubik, the Amazing Cube<\/i>: A talking Rubik\u2019s cube versus an evil magician.",
+               "audio": "11590_1",
+               "truth": true
+            },
+            {
+               "response": "It still made more sense than the movie.",
+               "text": "<i>Casper and the Angels<\/i>: Casper the Ghost fights crime in outer space.",
+               "audio": "11590_2",
+               "truth": true
+            },
+            {
+               "text": "<i>Don Knotts\u2019 Gladiators<\/i>: Don Knotts is the emperor of Rome.",
+               "audio": "11590_3",
+               "truth": false
+            },
+            {
+               "text": "<i>Scooter Toots<\/i>: Scooter Toots is a scooter by day, a jazz musician by night.",
+               "audio": "11590_4",
+               "truth": false
+            },
+            {
+               "text": "<i>Lava Cats<\/i>: A group of cats protect a village from a volcano.",
+               "audio": "11590_5",
+               "truth": false
+            },
+            {
+               "text": "<i>Scooby-Doo\u2019s Love Boat<\/i>: Scooby sets sail for love.",
+               "audio": "11590_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 11688,
+         "text": "Real Fake People",
+         "category": "Real Fake People",
+         "audio": "11688_cat",
+         "subject": "Real",
+         "statements": [
+            {
+               "response": "He worked there.",
+               "text": "A man named Ronald McDonald robbed a Wendy\u2019s. ",
+               "audio": "11688_0",
+               "truth": true
+            },
+            {
+               "response": "After Don Draper stayed in a Howard Johnson hotel on <i>Mad Men<\/i>.",
+               "text": "Howard Johnson offered anyone named Don Draper a free night in one of their hotels.",
+               "audio": "11688_1",
+               "truth": true
+            },
+            {
+               "response": "Several times.",
+               "text": "A man name Walter White was arrested in Alabama for making meth.",
+               "audio": "11688_2",
+               "truth": true
+            },
+            {
+               "text": "A man named Holden Caulfield tried to kill Mark David Chapman.",
+               "audio": "11688_3",
+               "truth": false
+            },
+            {
+               "text": "The first men legally married in San Francisco were named Bert & Ernie. ",
+               "audio": "11688_4",
+               "truth": false
+            },
+            {
+               "text": "Margaret Simpson won a Nobel Prize for her cure for jaundice.",
+               "audio": "11688_5",
+               "truth": false
+            },
+            {
+               "text": "The oldest man in 1973 was named Peter Pan.",
+               "audio": "11688_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 11589,
+         "text": "<i>Saved By The Bell<\/i> Episodes",
+         "category": "<i>Saved By The Bell<\/i> Episodes",
+         "audio": "11589_cat",
+         "subject": "Pop Culture",
+         "statements": [
+            {
+               "response": "Oil is found under the football field!",
+               "text": "The kids strike oil.",
+               "audio": "11589_0",
+               "truth": true
+            },
+            {
+               "response": "Turns out, they were being pranked by a TV show!",
+               "text": "The kids steal $5,000 to buy U2 tickets.",
+               "audio": "11589_1",
+               "truth": true
+            },
+            {
+               "response": "A murder mystery weekend produces a real murder...  or did it?!?",
+               "text": "The kids investigate a murder.",
+               "audio": "11589_2",
+               "truth": true
+            },
+            {
+               "text": "The kids campaign for Bob Dole. ",
+               "audio": "11589_3",
+               "truth": false
+            },
+            {
+               "text": "The kids accidentally burn down the poor part of town.",
+               "audio": "11589_4",
+               "truth": false
+            },
+            {
+               "text": "The kids write a rap song about WWII. ",
+               "audio": "11589_5",
+               "truth": false
+            },
+            {
+               "text": "The kids invent a new kind of super glue.",
+               "audio": "11589_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 11592,
+         "text": "Harlem Globetrotters",
+         "category": "Harlem Globetrotters",
+         "audio": "11592_cat",
+         "subject": "Sports",
+         "statements": [
+            {
+               "response": "Pope John Paul II was made an honorary Globetrotter.",
+               "text": "Pope John Paul II",
+               "audio": "11592_0",
+               "truth": true
+            },
+            {
+               "response": "He also played in the NBA for 8 seasons.",
+               "text": "John \u201cHot Plate\u201d Williams",
+               "audio": "11592_1",
+               "truth": true
+            },
+            {
+               "response": "The 7-foot-all Mongolian was the first Asian Globetrotter.",
+               "text": "Sharavjamts \u201cShark\u201d Tserenjanhor",
+               "audio": "11592_2",
+               "truth": true
+            },
+            {
+               "text": "Darnel \u201cLoose Britches\u201d Hershey",
+               "audio": "11592_3",
+               "truth": false
+            },
+            {
+               "text": "Stevie \u201cBlood Pudding\u201d Reynolds",
+               "audio": "11592_4",
+               "truth": false
+            },
+            {
+               "text": "Hank \u201cMichael Jordan\u201d Perry",
+               "audio": "11592_5",
+               "truth": false
+            },
+            {
+               "text": "Archibald \u201cBalderdash\u201d Cumberbeard",
+               "audio": "11592_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 11662,
+         "text": "Making Money",
+         "category": "Making Money",
+         "audio": "11662_cat",
+         "subject": "USA",
+         "statements": [
+            {
+               "response": "In 2011, it cost about 11.2 cents to make a 5 cent nickel.",
+               "text": "It costs over 11 cents to make a U.S. nickel.",
+               "audio": "11662_0",
+               "truth": true
+            },
+            {
+               "response": "A $10 bill costs about 8.5 cents and a $100 bill costs 7.7 cents to print.",
+               "text": "It costs more to print a $10 bill than a $100 bill",
+               "audio": "11662_1",
+               "truth": true
+            },
+            {
+               "text": "A penny costs exactly one cent to manufacture. ",
+               "audio": "11662_2",
+               "truth": false
+            },
+            {
+               "text": "The U.S. Mint loses $1 trillion a year making new money. ",
+               "audio": "11662_3",
+               "truth": false
+            },
+            {
+               "text": "It costs less to make a silver dollar than to print a paper dollar. ",
+               "audio": "11662_4",
+               "truth": false
+            },
+            {
+               "text": "The U.S. Mint earns a dollar for every dime made.",
+               "audio": "11662_5",
+               "truth": false
+            },
+            {
+               "text": "Temporary currency printed on cotton was used to save money during the Civil War.",
+               "audio": "11662_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 11198,
+         "text": "Fashion Designers",
+         "category": "Fashion Designers",
+         "audio": "11198_cat",
+         "subject": "Fashion",
+         "statements": [
+            {
+               "response": "For his clothing company, 1791.",
+               "text": "Glenn Beck created a line of blue jeans. ",
+               "audio": "11198_0",
+               "truth": true
+            },
+            {
+               "response": "It\u2019s called Pantaloonies.",
+               "text": "Helena Bonham Carter runs a service that converts your pants into pantaloons. ",
+               "audio": "11198_1",
+               "truth": true
+            },
+            {
+               "response": "Unfortunately, none of the shoes were co-designed by Rob Thomas.",
+               "text": "Carlos Santana sells a line of high heels. ",
+               "audio": "11198_2",
+               "truth": true
+            },
+            {
+               "text": "Johnny Knoxville designed a line of men\u2019s thongs.",
+               "audio": "11198_3",
+               "truth": false
+            },
+            {
+               "text": "John Goodman sells a line of male girdles. ",
+               "audio": "11198_4",
+               "truth": false
+            },
+            {
+               "text": "Sissy Spacek has her own line of toe rings. ",
+               "audio": "11198_5",
+               "truth": false
+            },
+            {
+               "text": "Jason Alexander opened a handbag store in Toronto. ",
+               "audio": "11198_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 11511,
+         "text": "X",
+         "category": "X",
+         "audio": "11511_cat",
+         "subject": "Math",
+         "statements": [
+            {
+               "response": "Obviously.",
+               "text": "When X is an integer that isn\u2019t zero, 1 / X³ is less than or equal to 1.",
+               "audio": "11511_0",
+               "truth": true
+            },
+            {
+               "response": "When multiplying exponents, just add them together.",
+               "text": "X² * X= X³",
+               "audio": "11511_1",
+               "truth": true
+            },
+            {
+               "response": "When dividing exponents, just subtract them.",
+               "text": "X³ / X² = X",
+               "audio": "11511_2",
+               "truth": true
+            },
+            {
+               "text": "X² + X³ = 69XXX",
+               "audio": "11511_3",
+               "truth": false
+            },
+            {
+               "text": "X² = X0X0",
+               "audio": "11511_4",
+               "truth": false
+            },
+            {
+               "text": "X / X = X +3",
+               "audio": "11511_5",
+               "truth": false
+            },
+            {
+               "text": "X² + 3X + 64 = (X +8)(X+8)",
+               "audio": "11511_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 11385,
+         "text": "Mother\u2019s Day",
+         "category": "Mother\u2019s Day",
+         "audio": "11385_cat",
+         "subject": "Holidays",
+         "statements": [
+            {
+               "response": "She thought it became too commercial.",
+               "text": "The founder of Mother's Day in America also started a campaign to abolish it. ",
+               "audio": "11385_0",
+               "truth": true
+            },
+            {
+               "response": "It\u2019s now a day to celebrate mothers.",
+               "text": "Mothering Sunday, in the UK, was a day servants were allowed to visit their families. ",
+               "audio": "11385_1",
+               "truth": true
+            },
+            {
+               "response": "They aren\u2019t released until they promise to make treats for the family.",
+               "text": "In Yugoslavia, children tie up their moms on Mother's Day.",
+               "audio": "11385_2",
+               "truth": true
+            },
+            {
+               "text": "Children fast from sunup to sundown on Mother's Day in Albania. ",
+               "audio": "11385_3",
+               "truth": false
+            },
+            {
+               "text": "Mother's Day is statistically the most common day for women to give birth in the U.S.",
+               "audio": "11385_4",
+               "truth": false
+            },
+            {
+               "text": "The mother of the Prime Minister runs Finland on Mother's Day.",
+               "audio": "11385_5",
+               "truth": false
+            },
+            {
+               "text": "Mother's Day was first celebrated by three men raising a family together in San Francisco.",
+               "audio": "11385_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 11185,
+         "text": "# We\u2019re Thinking Of",
+         "category": "# We\u2019re Thinking Of",
+         "audio": "11185_cat",
+         "subject": "Easter Egg",
+         "statements": [
+            {
+               "response": "That\u2019s the number we were thinking of.",
+               "text": "17",
+               "audio": "11185_0",
+               "truth": true
+            },
+            {
+               "text": "2",
+               "audio": "11185_1",
+               "truth": false
+            },
+            {
+               "text": "13",
+               "audio": "11185_2",
+               "truth": false
+            },
+            {
+               "text": "7",
+               "audio": "11185_3",
+               "truth": false
+            },
+            {
+               "text": "4",
+               "audio": "11185_4",
+               "truth": false
+            },
+            {
+               "text": "11",
+               "audio": "11185_5",
+               "truth": false
+            },
+            {
+               "text": "20",
+               "audio": "11185_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 11341,
+         "text": "WWE\u2019s Kane",
+         "category": "WWE\u2019s Kane",
+         "audio": "11341_cat",
+         "subject": "People",
+         "statements": [
+            {
+               "response": "Called Christmas Creature.",
+               "text": "Early in his career, WWE\u2019s Kane wrestled as a Christmas tree.",
+               "audio": "11341_0",
+               "truth": true
+            },
+            {
+               "response": "Dr. Isaac Yankem",
+               "text": "Early in his career, WWE\u2019s Kane wrestled as an evil dentist.",
+               "audio": "11341_1",
+               "truth": true
+            },
+            {
+               "text": "Early in his career, WWE\u2019s Kane wrestled as Ronald Reagan.",
+               "audio": "11341_2",
+               "truth": false
+            },
+            {
+               "text": "Early in his career, WWE\u2019s Kane wrestled as a giant baby.",
+               "audio": "11341_3",
+               "truth": false
+            },
+            {
+               "text": "Early in his career, WWE\u2019s Kane wrestled as a giant George Foreman grill.",
+               "audio": "11341_4",
+               "truth": false
+            },
+            {
+               "text": "Early in his career, WWE\u2019s Kane wrestled as a woman.",
+               "audio": "11341_5",
+               "truth": false
+            },
+            {
+               "text": "Early in his career, WWE\u2019s Kane wrestled in a tag team duo with \u201cHalf Nelson Mandela.\u201d",
+               "audio": "11341_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 11647,
+         "text": "Pluto",
+         "category": "Pluto",
+         "audio": "11647_cat",
+         "subject": "Space",
+         "statements": [
+            {
+               "response": "After being demoted to a dwarf planet.",
+               "text": "In 2006, Pluto was renamed 134340.",
+               "audio": "11647_0",
+               "truth": true
+            },
+            {
+               "text": "In 2006, Pluto was renamed 759432.",
+               "audio": "11647_1",
+               "truth": false
+            },
+            {
+               "text": "In 2006, Pluto was renamed 429801.",
+               "audio": "11647_2",
+               "truth": false
+            },
+            {
+               "text": "In 2006, Pluto was renamed 222432.",
+               "audio": "11647_3",
+               "truth": false
+            },
+            {
+               "text": "In 2006, Pluto was renamed 099321.",
+               "audio": "11647_4",
+               "truth": false
+            },
+            {
+               "text": "In 2006, Pluto was renamed 600110.",
+               "audio": "11647_5",
+               "truth": false
+            },
+            {
+               "text": "In 2006, Pluto was renamed Earth 2.",
+               "audio": "11647_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 11062,
+         "text": "Nuts",
+         "category": "Nuts",
+         "audio": "11062_cat",
+         "subject": "Food",
+         "statements": [
+            {
+               "response": "Chestnuts are actually nuts.",
+               "text": "chestnuts",
+               "audio": "11062_0",
+               "truth": true,
+               "tweet": "Chestnuts are nuts."
+            },
+            {
+               "response": "Acorns are actually nuts.",
+               "text": "acorns",
+               "audio": "11062_1",
+               "truth": true,
+               "tweet": "Acorns are nuts."
+            },
+            {
+               "text": "truck nuts",
+               "audio": "11062_2",
+               "truth": false
+            },
+            {
+               "text": "peanuts",
+               "audio": "11062_3",
+               "truth": false,
+               "tweet": "Peanuts are nuts."
+            },
+            {
+               "text": "almonds",
+               "audio": "11062_4",
+               "truth": false,
+               "tweet": "Almonds are nuts."
+            },
+            {
+               "text": "pistachios",
+               "audio": "11062_5",
+               "truth": false,
+               "tweet": "Cashews are nuts."
+            },
+            {
+               "text": "pine nuts",
+               "audio": "11062_6",
+               "truth": false,
+               "tweet": "Pine nuts are nuts."
+            }
+         ]
+      },
+      {
+         "id": 11506,
+         "text": "Real Currency",
+         "category": "Real Currency",
+         "audio": "11506_cat",
+         "subject": "Real",
+         "statements": [
+            {
+               "response": "The Guatemalan quetzal.",
+               "text": "Q",
+               "audio": "11506_0",
+               "truth": true,
+               "tweet": "Q is a real currency symbol."
+            },
+            {
+               "response": "The Japanese yen.",
+               "text": "¥",
+               "audio": "11506_1",
+               "truth": true,
+               "tweet": "¥ is a real currency symbol."
+            },
+            {
+               "response": "The European euro.",
+               "text": "\u20ac",
+               "audio": "11506_2",
+               "truth": true,
+               "tweet": "is a real currency symbol."
+            },
+            {
+               "text": "Ë",
+               "audio": "11506_3",
+               "truth": false,
+               "tweet": "Ë is a real currency symbol."
+            },
+            {
+               "text": "¿",
+               "audio": "11506_4",
+               "truth": false,
+               "tweet": "¿ is a real currency symbol."
+            },
+            {
+               "text": "Ω",
+               "audio": "11506_5",
+               "truth": false,
+               "tweet": "§ is a real currency symbol."
+            },
+            {
+               "text": "Ç",
+               "audio": "11506_6",
+               "truth": false,
+               "tweet": "Ç is a real currency symbol."
+            }
+         ]
+      },
+      {
+         "id": 11263,
+         "text": "College Mascots",
+         "category": "College Mascots",
+         "audio": "11263_cat",
+         "subject": "Sports",
+         "statements": [
+            {
+               "response": "The students chose it over Sea Lions.",
+               "text": "UC-Santa Cruz Banana Slugs",
+               "audio": "11263_0",
+               "truth": true
+            },
+            {
+               "response": "This mascot\u2019s the real dill.",
+               "text": "North Carolina School of the Arts Fighting Pickles",
+               "audio": "11263_1",
+               "truth": true
+            },
+            {
+               "response": "The students yell \u201cGo Nads!\u201d at the games.",
+               "text": "Rhode Island School of Design Nads",
+               "audio": "11263_2",
+               "truth": true
+            },
+            {
+               "text": "Nebraska State Screaming Mermaids",
+               "audio": "11263_3",
+               "truth": false
+            },
+            {
+               "text": "Beloit College Friendly Hobos",
+               "audio": "11263_4",
+               "truth": false
+            },
+            {
+               "text": "Sonoma State University Enablers",
+               "audio": "11263_5",
+               "truth": false
+            },
+            {
+               "text": "Appleton School of Technology Luddites",
+               "audio": "11263_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 11085,
+         "text": "Princesses",
+         "category": "Princesses",
+         "audio": "11085_cat",
+         "subject": "Body",
+         "statements": [
+            {
+               "response": "It\u2019s like a hairball with a mullet.",
+               "text": "Rapunzel syndrome is a condition when ingested hair forms a tail in the intestine. ",
+               "audio": "11085_0",
+               "truth": true
+            },
+            {
+               "response": "People with Kleine\u2013Levin syndrome will sleep for 20 hours a day.",
+               "text": "A sleeping disorder known as Sleeping Beauty syndrome affects mostly teenage boys.",
+               "audio": "11085_1",
+               "truth": true
+            },
+            {
+               "text": "Snow-whitosis is a disease transmitted by a species of fly larvae found in apples. ",
+               "audio": "11085_2",
+               "truth": false
+            },
+            {
+               "text": "Cinderella syndrome is a degenerative disease that causes hands and feet to shrink.",
+               "audio": "11085_3",
+               "truth": false
+            },
+            {
+               "text": "A type of gigantism that causes appendage growth is called the Thumbelina disorder.",
+               "audio": "11085_4",
+               "truth": false
+            },
+            {
+               "text": "Vomiting from eating wild mushrooms has been nicknamed \u201cPrincess Peach disease\u201d in Japan.",
+               "audio": "11085_5",
+               "truth": false
+            },
+            {
+               "text": "A strand of E. coli is named after Princess Diana. ",
+               "audio": "11085_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 11173,
+         "text": "Middle Names",
+         "category": "Middle Names",
+         "audio": "11173_cat",
+         "subject": "People",
+         "statements": [
+            {
+               "response": "Fred McFeely Rogers",
+               "text": "Mr. Rogers\u2019 middle name was McFeely. ",
+               "audio": "11173_0",
+               "truth": true
+            },
+            {
+               "response": "Her last name is Roberts.",
+               "text": "Barbie\u2019s middle name is Millicent.",
+               "audio": "11173_1",
+               "truth": true
+            },
+            {
+               "response": "He took the name from a horse on a British sitcom.",
+               "text": "Sir Elton John\u2019s middle name is Hercules. ",
+               "audio": "11173_2",
+               "truth": true
+            },
+            {
+               "text": "Marge Simpson\u2019s middle name is Frankenstein.",
+               "audio": "11173_3",
+               "truth": false
+            },
+            {
+               "text": "Charlie Brown\u2019s middle name is Wemblingford. ",
+               "audio": "11173_4",
+               "truth": false
+            },
+            {
+               "text": "Winston Churchill\u2019s middle name was Adolf. ",
+               "audio": "11173_5",
+               "truth": false
+            },
+            {
+               "text": "Bill Cosby\u2019s middle names are Rudy, Vannessa, Theo, and Denise.",
+               "audio": "11173_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 10764,
+         "text": "Former Band Names",
+         "category": "Former Band Names",
+         "audio": "10764_cat",
+         "subject": "Pop Culture",
+         "statements": [
+            {
+               "response": "It\u2019s a shame they changed it.",
+               "text": "The Goo Goo Dolls were originally the Sex Maggots.",
+               "audio": "10764_0",
+               "truth": true
+            },
+            {
+               "response": "They also called themselves the Quarrymen and the Silver Beatles.",
+               "text": "The Beatles were originally Johnny and the Moondogs.",
+               "audio": "10764_1",
+               "truth": true
+            },
+            {
+               "response": "The Carl was Brian Wilson\u2019s younger brother, Carl.",
+               "text": "The Beach Boys were originally Carl and the Passions.",
+               "audio": "10764_2",
+               "truth": true
+            },
+            {
+               "text": "Nirvana was originally Pee Pee Poo Poo.",
+               "audio": "10764_3",
+               "truth": false
+            },
+            {
+               "text": "The Red Hot Chilli Peppers were originally Stink Party.",
+               "audio": "10764_4",
+               "truth": false
+            },
+            {
+               "text": "Radiohead was originally Grandma Sadness.",
+               "audio": "10764_5",
+               "truth": false
+            },
+            {
+               "text": "The Four Seasons were originally the Three Seasons.",
+               "audio": "10764_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 11074,
+         "text": "Foods That Poison Dogs",
+         "category": "Foods That Poison Dogs",
+         "audio": "11074_cat",
+         "subject": "Animals",
+         "statements": [
+            {
+               "response": "Avocados contain Persin, which causes vomiting and diarrhea.",
+               "text": "avocados",
+               "audio": "11074_0",
+               "truth": true,
+               "tweet": "Avocados are poisonous to dogs."
+            },
+            {
+               "response": "Grapes and raisins can cause kidney failure.",
+               "text": "raisins",
+               "audio": "11074_1",
+               "truth": true,
+               "tweet": "Raisins are poisonous to dogs."
+            },
+            {
+               "response": "The sweetener, Xylitol, can cause seizures or liver failure.",
+               "text": "sugar-free gum",
+               "audio": "11074_2",
+               "truth": false,
+               "tweet": "Sugar-free gum is poisonous to dogs."
+            },
+            {
+               "text": "watermelons",
+               "audio": "11074_3",
+               "truth": false
+            },
+            {
+               "text": "blueberries ",
+               "audio": "11074_4",
+               "truth": false
+            },
+            {
+               "text": "popcorn",
+               "audio": "11074_5",
+               "truth": false
+            },
+            {
+               "text": "cottage cheese",
+               "audio": "11074_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 11178,
+         "text": "\u201cC\u201d Names",
+         "category": "\u201cC\u201d Names",
+         "audio": "11178_cat",
+         "subject": "Words",
+         "statements": [
+            {
+               "response": "Sorry, Claudia.",
+               "text": "The name Claudia means \u201clame\u201d or \u201cdisabled.\u201d",
+               "audio": "11178_0",
+               "truth": true
+            },
+            {
+               "response": "It\u2019s Scottish.",
+               "text": "The name Cameron means \u201ccrooked nose.\u201d",
+               "audio": "11178_1",
+               "truth": true
+            },
+            {
+               "response": "It\u2019s a popular name among cruel parents.",
+               "text": "The name Calvin means \u201cbald.\u201d",
+               "audio": "11178_2",
+               "truth": true
+            },
+            {
+               "text": "The name Chad means \u201cweird pants.\u201d",
+               "audio": "11178_3",
+               "truth": false
+            },
+            {
+               "text": "The name Cathy means \u201cAck!\u201d",
+               "audio": "11178_4",
+               "truth": false
+            },
+            {
+               "text": "The name Carl means \u201cfat\u201d or \u201cheavy.\u201d",
+               "audio": "11178_5",
+               "truth": false
+            },
+            {
+               "text": "The name Chelsea means \u201cdifficult life.\u201d",
+               "audio": "11178_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 11232,
+         "text": "<i>Snow White and the Seven Dwarfs<\/i>",
+         "category": "<i>Snow White and the Seven Dwarfs<\/i>",
+         "audio": "11232_cat",
+         "subject": "Pop Culture",
+         "statements": [
+            {
+               "response": "Also: Graspy",
+               "text": "Dirty was a potential dwarf name for the movie.",
+               "audio": "11232_0",
+               "truth": true,
+               "tweet": "Dirty was considered as a dwarf name for \u201cSnow White and the Seven Dwarfs.\u201d"
+            },
+            {
+               "response": "Also: Goopy",
+               "text": "Shifty was a potential dwarf name for the movie.",
+               "audio": "11232_1",
+               "truth": true,
+               "tweet": "Shifty was considered as a dwarf name for \u201cSnow White and the Seven Dwarfs.\u201d"
+            },
+            {
+               "response": "Also: Chesty",
+               "text": "Awful was a potential dwarf name for the movie.",
+               "audio": "11232_2",
+               "truth": true,
+               "tweet": "Awful was considered as a dwarf name for \u201cSnow White and the Seven Dwarfs.\u201d"
+            },
+            {
+               "text": "Punchy was a potential dwarf name for the movie.",
+               "audio": "11232_3",
+               "truth": false,
+               "tweet": "Punchy was considered as a dwarf name for \u201cSnow White and the Seven Dwarfs.\u201d"
+            },
+            {
+               "text": "Grabby was a potential dwarf name for the movie.",
+               "audio": "11232_4",
+               "truth": false,
+               "tweet": "Grabby was considered as a dwarf name for \u201cSnow White and the Seven Dwarfs.\u201d"
+            },
+            {
+               "text": "Farty was a potential dwarf name for the movie.",
+               "audio": "11232_5",
+               "truth": false,
+               "tweet": "Farty was considered as a dwarf name for \u201cSnow White and the Seven Dwarfs.\u201d"
+            },
+            {
+               "text": "Professor was a potential dwarf name for the movie.",
+               "audio": "11232_6",
+               "truth": false,
+               "tweet": "Professor was considered as a dwarf name for \u201cSnow White and the Seven Dwarfs.\u201d"
+            }
+         ]
+      },
+      {
+         "id": 11032,
+         "text": "Inventions",
+         "category": "Inventions",
+         "audio": "11032_cat",
+         "subject": "Products",
+         "statements": [
+            {
+               "response": "It was for horse drawn carriages.",
+               "text": "The traffic light was invented before the car.",
+               "audio": "11032_0",
+               "truth": true
+            },
+            {
+               "response": "Early parachutes were intended for jumping out of buildings.",
+               "text": "The parachute was invented before the airplane.",
+               "audio": "11032_1",
+               "truth": true
+            },
+            {
+               "text": "Smoke detectors were invented before fire.",
+               "audio": "11032_2",
+               "truth": false
+            },
+            {
+               "text": "The bottle cap was invented before soda pop. ",
+               "audio": "11032_3",
+               "truth": false
+            },
+            {
+               "text": "The electric guitar was invented before the acoustic guitar.",
+               "audio": "11032_4",
+               "truth": false
+            },
+            {
+               "text": "Jacques Cousteau was born before the submarine was invented.",
+               "audio": "11032_5",
+               "truth": false
+            },
+            {
+               "text": "The toaster was invented before toast. ",
+               "audio": "11032_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 11117,
+         "text": "International Names",
+         "category": "International Names",
+         "audio": "11117_cat",
+         "subject": "Places",
+         "statements": [
+            {
+               "response": "Burger King was an already trademarked name.",
+               "text": "In Australia, Burger King is called Hungry Jack\u2019s. ",
+               "audio": "11117_0",
+               "truth": true
+            },
+            {
+               "response": "Keeping the name short and sweet.",
+               "text": "In India, Wal-Mart is called BestPrice Modern Wholesale. ",
+               "audio": "11117_1",
+               "truth": true
+            },
+            {
+               "response": "That\u2019s very German-sounding.",
+               "text": "In Germany, Mr. Clean is called Meister Proper. ",
+               "audio": "11117_2",
+               "truth": true
+            },
+            {
+               "text": "In Brazil, Target is called Bow e Quiver.",
+               "audio": "11117_3",
+               "truth": false
+            },
+            {
+               "text": "In Japan, Chuck E. Cheese is called House of Electronic Rat Pizza. ",
+               "audio": "11117_4",
+               "truth": false
+            },
+            {
+               "text": "In Sweden, <i>Friends<\/i> is called <i>Pod of Dependency<\/i>.",
+               "audio": "11117_5",
+               "truth": false
+            },
+            {
+               "text": "In Italy, Mr. Bubble is called Tony Bathtub. ",
+               "audio": "11117_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 11461,
+         "text": "Chuck Norris",
+         "category": "Chuck Norris",
+         "audio": "11461_cat",
+         "subject": "People",
+         "statements": [
+            {
+               "response": "He was born Carlos Ray Norris.",
+               "text": "Chuck Norris\u2019 real name is Carlos.",
+               "audio": "11461_0",
+               "truth": true
+            },
+            {
+               "response": "He claims he could eat, \u201ca whole pound of them.\u201d",
+               "text": "Chuck Norris loves peanut clusters. ",
+               "audio": "11461_1",
+               "truth": true
+            },
+            {
+               "text": "Chuck Norris sells handmade Christmas ornaments. ",
+               "audio": "11461_2",
+               "truth": false
+            },
+            {
+               "text": "Chuck Norris has three children. ",
+               "audio": "11461_3",
+               "truth": false
+            },
+            {
+               "text": "Chuck Norris eats a peanut butter and jelly sandwich every day.",
+               "audio": "11461_4",
+               "truth": false
+            },
+            {
+               "text": "Chuck Norris is a spokesman for birdwatching. ",
+               "audio": "11461_5",
+               "truth": false
+            },
+            {
+               "text": "Chuck Norris\u2019 favorite color is light gray. ",
+               "audio": "11461_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 10810,
+         "text": "Pee-Wee\u2019s Playhouse",
+         "category": "Pee-Wee\u2019s Playhouse",
+         "audio": "10810_cat",
+         "subject": "Pop Culture",
+         "statements": [
+            {
+               "response": "Scary.",
+               "text": "Rob Zombie was a production assistant.",
+               "audio": "10810_0",
+               "truth": true
+            },
+            {
+               "response": "While doing a Betty Boop impression.",
+               "text": "Cyndi Lauper sang the theme song.",
+               "audio": "10810_1",
+               "truth": true
+            },
+            {
+               "response": "His name was William Marshall.",
+               "text": "The actor who played \u201cBlacula\u201d in <i>Blacula<\/i> was the \u201cKing of Cartoons.\u201d",
+               "audio": "10810_2",
+               "truth": true
+            },
+            {
+               "text": "Andy Dick was the head writer.",
+               "audio": "10810_3",
+               "truth": false
+            },
+            {
+               "text": "Kevin Smith was a security guard on set.",
+               "audio": "10810_4",
+               "truth": false
+            },
+            {
+               "text": "Kevin Costner was a puppeteer.",
+               "audio": "10810_5",
+               "truth": false
+            },
+            {
+               "text": "Ben Affleck visited the set on a field trip.",
+               "audio": "10810_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 11355,
+         "text": "Wikipedia",
+         "category": "Wikipedia",
+         "audio": "11355_cat",
+         "subject": "Technology",
+         "statements": [
+            {
+               "response": "\u201cWorld War II\u201d was number 29. \u201cOne Direction\u201d was number 4.",
+               "text": "\u201cFacebook\u201d was the most-viewed English-language article on Wikipedia in 2012. ",
+               "audio": "11355_0",
+               "truth": true
+            },
+            {
+               "response": "The second most-viewed article was about Italy.",
+               "text": "<i>Grey\u2019s Anatomy<\/i> was the most-viewed Italian-language article on Wikipedia in 2012. ",
+               "audio": "11355_1",
+               "truth": true
+            },
+            {
+               "text": "\u201cList of <i>Frasier<\/i> Characters\u201d was the most viewed Wikipedia article in Montana in 2012.",
+               "audio": "11355_2",
+               "truth": false
+            },
+            {
+               "text": "\u201cSpanish\u201d was the most-viewed Portuguese-language article on Wikipedia.",
+               "audio": "11355_3",
+               "truth": false
+            },
+            {
+               "text": "<i>Mighty Ducks 2<\/i> was the most-viewed Icelandic-language article on Wikipedia.",
+               "audio": "11355_4",
+               "truth": false
+            },
+            {
+               "text": "\u201cWikipedia\u201d was the most-viewed German-language article on Wikipedia in 2012.",
+               "audio": "11355_5",
+               "truth": false
+            },
+            {
+               "text": "\u201cList of Diaper Brands\u201d was the second most-viewed Japanese-language article on Wikipedia.",
+               "audio": "11355_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 11279,
+         "text": "Celebrity Authors",
+         "category": "Celebrity Authors",
+         "audio": "11279_cat",
+         "subject": "People",
+         "statements": [
+            {
+               "response": "With Guy Fieri, Sammy Hagar, and Jerome Bettis.",
+               "text": "Smash Mouth wrote a cookbook.",
+               "audio": "11279_0",
+               "truth": true
+            },
+            {
+               "response": "That\u2019s such a Samantha thing to do.",
+               "text": "Kim Cattrall wrote a book called <i>Satisfaction: The Art of the Female Orgasm<\/i>. ",
+               "audio": "11279_1",
+               "truth": true
+            },
+            {
+               "response": "<i>Fallin\u2019 Up: My Story<\/i> was written by Taboo. You know, Taboo.",
+               "text": "One of the guys in the Black Eyed Peas that isn\u2019t Will.i.am wrote a memoir. ",
+               "audio": "11279_2",
+               "truth": true
+            },
+            {
+               "text": "Marilyn Manson wrote a children\u2019s book called \u201cThe Littlest Strawberry.\u201d",
+               "audio": "11279_3",
+               "truth": false
+            },
+            {
+               "text": "George Lopez wrote a book on how to deal with death.",
+               "audio": "11279_4",
+               "truth": false
+            },
+            {
+               "text": "Danny Devito and Rhea Perlman cowrote a comic book about Apartheid.",
+               "audio": "11279_5",
+               "truth": false
+            },
+            {
+               "text": "Jillian Michaels wrote a murder mystery that promoted weight loss.",
+               "audio": "11279_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 11027,
+         "text": "The Little Rascals",
+         "category": "The Little Rascals",
+         "audio": "11027_cat",
+         "subject": "People",
+         "statements": [
+            {
+               "response": "He was delivering newspapers.",
+               "text": "The actor who played Froggy died in a scooter accident at 16. ",
+               "audio": "11027_0",
+               "truth": true
+            },
+            {
+               "response": "He had a glandular disorder.",
+               "text": "The actor who played Chubby died after weight-loss surgery at 21. ",
+               "audio": "11027_1",
+               "truth": true
+            },
+            {
+               "response": "He was a hunting guide for the stars.",
+               "text": "The actor who played Alfalfa was killed during a fight over $50 at 32. ",
+               "audio": "11027_2",
+               "truth": true
+            },
+            {
+               "text": "The actor who played Spanky died when his parachute failed on D-Day at 26.",
+               "audio": "11027_3",
+               "truth": false
+            },
+            {
+               "text": "The actor who played Porky died while filming <i>Porky\u2019s<\/i> at age 78.",
+               "audio": "11027_4",
+               "truth": false
+            },
+            {
+               "text": "The actor who played Buckwheat never died.",
+               "audio": "11027_5",
+               "truth": false
+            },
+            {
+               "text": "The actress who played Darla fell off a cruise ship and died at age 19.",
+               "audio": "11027_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 11103,
+         "text": "His and Hers ",
+         "category": "His and Hers ",
+         "audio": "11103_cat",
+         "subject": "Products",
+         "statements": [
+            {
+               "response": "They are \u201cbig, strong, and reliable enough for all your needs.\u201d",
+               "text": "Kleenex sells \u201cMansize\u201d tissues.",
+               "audio": "11103_0",
+               "truth": true
+            },
+            {
+               "response": "The pens come in pink and purple.",
+               "text": "Bic sells pens specifically \u201cfor Her.\u201d",
+               "audio": "11103_1",
+               "truth": true
+            },
+            {
+               "response": "They come in medium and hardcore power.",
+               "text": "Spanx\u2019s line of men\u2019s underwear is named Manx. ",
+               "audio": "11103_2",
+               "truth": true
+            },
+            {
+               "text": "There is a pink George Foreman grill called \u201cLady George\u2019s Grill.\u201d",
+               "audio": "11103_3",
+               "truth": false
+            },
+            {
+               "text": "Kotex sells men\u2019s tampons. ",
+               "audio": "11103_4",
+               "truth": false
+            },
+            {
+               "text": "Hungry Man sells a Starving Gal meal.",
+               "audio": "11103_5",
+               "truth": false
+            },
+            {
+               "text": "Mr. Clean sells a \u201clady sponge.\u201d",
+               "audio": "11103_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 11054,
+         "text": "Former Jell-O Flavors",
+         "category": "Former Jell-O Flavors",
+         "audio": "11054_cat",
+         "subject": "Food",
+         "statements": [
+            {
+               "response": "\u201cFor Salads\u201d",
+               "text": "Celery",
+               "audio": "11054_0",
+               "truth": true
+            },
+            {
+               "response": "Also: Cola flavor",
+               "text": "Coffee",
+               "audio": "11054_1",
+               "truth": true
+            },
+            {
+               "response": "Not just as pudding... as actual Jell-O.",
+               "text": "Chocolate",
+               "audio": "11054_2",
+               "truth": true
+            },
+            {
+               "text": "Salmon",
+               "audio": "11054_3",
+               "truth": false
+            },
+            {
+               "text": "B.L.T.",
+               "audio": "11054_4",
+               "truth": false
+            },
+            {
+               "text": "Cream Cheese and Chives",
+               "audio": "11054_5",
+               "truth": false
+            },
+            {
+               "text": "Deviled Egg",
+               "audio": "11054_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 11351,
+         "text": "Sidekicks ",
+         "category": "Sidekicks ",
+         "audio": "11351_cat",
+         "subject": "People",
+         "statements": [
+            {
+               "response": "Said The Demeaning Ranger.",
+               "text": "Tonto means \u201cstupid\u201d in Spanish. ",
+               "audio": "11351_0",
+               "truth": true
+            },
+            {
+               "response": "At least two--some scholars claim six.",
+               "text": "Dr. John Watson had multiple wives. ",
+               "audio": "11351_1",
+               "truth": true
+            },
+            {
+               "response": "\u201cHiy-O 23!\u201d",
+               "text": "Ed McMahon started his career as a bingo announcer. ",
+               "audio": "11351_2",
+               "truth": true
+            },
+            {
+               "text": "Samwise Gamgee\u2019s middle name is \u201cLarry.\u201d ",
+               "audio": "11351_3",
+               "truth": false
+            },
+            {
+               "text": "Chewbacca is a hermaphrodite. ",
+               "audio": "11351_4",
+               "truth": false
+            },
+            {
+               "text": "Joe Biden was a magician\u2019s assistant in college. ",
+               "audio": "11351_5",
+               "truth": false
+            },
+            {
+               "text": "Andy Richter was Conan O\u2019Brien\u2019s manager at a Boston Market. ",
+               "audio": "11351_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 11438,
+         "text": "<i>Goosebumps<\/i> Book Titles",
+         "category": "<i>Goosebumps<\/i> Book Titles",
+         "audio": "11438_cat",
+         "subject": "Pop Culture",
+         "statements": [
+            {
+               "response": "Aaah! Scary!",
+               "text": "<i>Piano Lessons Can Be Murder<\/i>",
+               "audio": "11438_0",
+               "truth": true
+            },
+            {
+               "response": "Ooo! Spooky!",
+               "text": "<i>Shop Till You Drop... Dead!<\/i>",
+               "audio": "11438_1",
+               "truth": true
+            },
+            {
+               "response": "Eeep! Terrifying!",
+               "text": "<i>Say Cheese and Die - Again!<\/i>",
+               "audio": "11438_2",
+               "truth": true
+            },
+            {
+               "text": "<i>Spelling Bee Afraid, Spelling Bee Very Afraid<\/i>",
+               "audio": "11438_3",
+               "truth": false
+            },
+            {
+               "text": "<i>Headless Zombies Still Want Snacks<\/i>",
+               "audio": "11438_4",
+               "truth": false
+            },
+            {
+               "text": "<i>I\u2019m Grounded... Six Fee Under!<\/i>",
+               "audio": "11438_5",
+               "truth": false
+            },
+            {
+               "text": "<i>The Devil\u2019s Text Message<\/i>",
+               "audio": "11438_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 10963,
+         "text": "Santa Claus",
+         "category": "Santa Claus",
+         "audio": "10963_cat",
+         "subject": "Holidays",
+         "statements": [
+            {
+               "response": "Also the sausage-grabber.",
+               "text": "Iceland has 13 Santas, including a window-peeper and a candle-stealer.",
+               "audio": "10963_0",
+               "truth": true
+            },
+            {
+               "response": "Also the patron saint of \u201cprotection from wolves.\u201d",
+               "text": "St. Nick is also the patron saint of sailors and prisoners.",
+               "audio": "10963_1",
+               "truth": true
+            },
+            {
+               "text": "The fear of Santa Claus is called hollyjollyphobia. ",
+               "audio": "10963_2",
+               "truth": false
+            },
+            {
+               "text": "In Irish folklore, Santa is the Easter Bunny\u2019s father. ",
+               "audio": "10963_3",
+               "truth": false
+            },
+            {
+               "text": "NORAD\u2019s tracking of Santa costs U.S. taxpayers $9.4 million each year. ",
+               "audio": "10963_4",
+               "truth": false
+            },
+            {
+               "text": "A health group petitioned to make the Coke Santa thinner in their ads. ",
+               "audio": "10963_5",
+               "truth": false
+            },
+            {
+               "text": "Lee Harvey Oswald worked as a mall Santa. ",
+               "audio": "10963_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 11261,
+         "text": "Baseball Injuries ",
+         "category": "Baseball Injuries ",
+         "audio": "11261_cat",
+         "subject": "Sports",
+         "statements": [
+            {
+               "response": "His back went out.",
+               "text": "Sammy Sosa injured himself while sneezing. ",
+               "audio": "11261_0",
+               "truth": true
+            },
+            {
+               "response": "He had the balls to admit it.",
+               "text": "Ken Griffey, Jr. injured himself while adjusting his protective cup. ",
+               "audio": "11261_1",
+               "truth": true
+            },
+            {
+               "response": "To be fair, \u201cCrossroads\u201d is a really hard song.",
+               "text": "Joel Zumaya injured himself while playing <i>Guitar Hero<\/i>.",
+               "audio": "11261_2",
+               "truth": true
+            },
+            {
+               "text": "Bo Jackson injured himself playing mini golf. ",
+               "audio": "11261_3",
+               "truth": false
+            },
+            {
+               "text": "Pete Rose injured himself while pretending to play the harp. ",
+               "audio": "11261_4",
+               "truth": false
+            },
+            {
+               "text": "Cal Ripken, Jr. injured himself while putting the star on a Christmas tree.",
+               "audio": "11261_5",
+               "truth": false
+            },
+            {
+               "text": "Derek Jeter injured himself while farting. ",
+               "audio": "11261_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 11159,
+         "text": "Rats",
+         "category": "Rats",
+         "audio": "11159_cat",
+         "subject": "Animals",
+         "statements": [
+            {
+               "response": "Gross!!!",
+               "text": "Rats eat their own poop!!!",
+               "audio": "11159_0",
+               "truth": true
+            },
+            {
+               "response": "That\u2019s why there are so many rats!!!",
+               "text": "Rats can mate up to 500 times in six hours!!!",
+               "audio": "11159_1",
+               "truth": true
+            },
+            {
+               "response": "That\u2019s it?!!!",
+               "text": "The FDA allows one rat hair per 100 grams of peanut butter!!!",
+               "audio": "11159_2",
+               "truth": true
+            },
+            {
+               "text": "A rat orgasm can last nine days!!!",
+               "audio": "11159_3",
+               "truth": false
+            },
+            {
+               "text": "Crispin Glover ate a rat on the set of <i>Willard<\/i>!!!",
+               "audio": "11159_4",
+               "truth": false
+            },
+            {
+               "text": "Lasagna is Italian for \u201crat\u2019s nest\u201d!!!",
+               "audio": "11159_5",
+               "truth": false
+            },
+            {
+               "text": "Rats can chew through diamonds!!!",
+               "audio": "11159_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 10761,
+         "text": "Buttholes",
+         "category": "Buttholes",
+         "audio": "10761_cat",
+         "subject": "Awesome",
+         "statements": [
+            {
+               "response": "Don\u2019t worry! It\u2019s fixable!",
+               "text": "1 in 5,000 human babies are born with a missing or misplaced butthole.",
+               "audio": "10761_0",
+               "truth": true
+            },
+            {
+               "response": "They must have terrible breath.",
+               "text": "Some turtles can breathe through their buttholes.",
+               "audio": "10761_1",
+               "truth": true
+            },
+            {
+               "text": "Fidel Castro was born with three buttholes.",
+               "audio": "10761_2",
+               "truth": false
+            },
+            {
+               "text": "Butte, Montana\u2019s oldest bar is The Butte Hole.",
+               "audio": "10761_3",
+               "truth": false
+            },
+            {
+               "text": "40% of emergency room visits in the U.S. are \u201cbutthole related.\u201d",
+               "audio": "10761_4",
+               "truth": false
+            },
+            {
+               "text": "Your nose, ears and butthole never stop growing.",
+               "audio": "10761_5",
+               "truth": false
+            },
+            {
+               "text": "The Rolling Stones considered calling themselves The Buttholes.",
+               "audio": "10761_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 11289,
+         "text": "Clue",
+         "category": "Clue",
+         "audio": "11289_cat",
+         "subject": "Products",
+         "statements": [
+            {
+               "response": "Also: poison",
+               "text": "Syringe was a weapon in the original Clue game.",
+               "audio": "11289_0",
+               "truth": true
+            },
+            {
+               "response": "Also: axe",
+               "text": "Bomb was a weapon in the original Clue game.",
+               "audio": "11289_1",
+               "truth": true
+            },
+            {
+               "response": "An Irish walking stick.",
+               "text": "Shillelagh was a weapon in the original Clue game.",
+               "audio": "11289_2",
+               "truth": true
+            },
+            {
+               "text": "Sword was a weapon in the original Clue game.",
+               "audio": "11289_3",
+               "truth": false
+            },
+            {
+               "text": "Pillow was a weapon in the original Clue game.",
+               "audio": "11289_4",
+               "truth": false
+            },
+            {
+               "text": "Shotgun was a weapon in the original Clue game.",
+               "audio": "11289_5",
+               "truth": false
+            },
+            {
+               "text": "Voodoo Doll was a weapon in the original Clue game.",
+               "audio": "11289_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 11253,
+         "text": "Casting",
+         "category": "Casting",
+         "audio": "11253_cat",
+         "subject": "Pop Culture",
+         "statements": [
+            {
+               "response": "If only...",
+               "text": "Bill Murray was almost cast as Batman.",
+               "audio": "11253_0",
+               "truth": true
+            },
+            {
+               "response": "He missed out on about $450 million.",
+               "text": "Sean Connery was almost cast as Gandalf.",
+               "audio": "11253_1",
+               "truth": true
+            },
+            {
+               "response": "He must have needed more lightsaber.",
+               "text": "Christopher Walken was almost cast as Han Solo.",
+               "audio": "11253_2",
+               "truth": true
+            },
+            {
+               "text": "Lindsay Lohan was almost cast as Katniss.",
+               "audio": "11253_3",
+               "truth": false
+            },
+            {
+               "text": "French Stewart was almost cast as James Bond.",
+               "audio": "11253_4",
+               "truth": false
+            },
+            {
+               "text": "Julia Roberts was almost cast as Benjamin Button.",
+               "audio": "11253_5",
+               "truth": false
+            },
+            {
+               "text": "Alec Baldwin was almost cast as Forrest Gump.",
+               "audio": "11253_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 11064,
+         "text": "Death",
+         "category": "Death",
+         "audio": "11064_cat",
+         "subject": "Events",
+         "statements": [
+            {
+               "response": "A study found natural death is connected to circadian rhythm.",
+               "text": "You are more likely to die at 11 AM than any other time. ",
+               "audio": "11064_0",
+               "truth": true
+            },
+            {
+               "response": "Especially if you\u2019re over 60.",
+               "text": "You are more likely to die on your birthday than any other day.",
+               "audio": "11064_1",
+               "truth": true
+            },
+            {
+               "response": "January has the highest avg. deaths per day.",
+               "text": "You are more likely to die in January than any other month.",
+               "audio": "11064_2",
+               "truth": true
+            },
+            {
+               "text": "You are more likely to die at 63 than any other age.",
+               "audio": "11064_3",
+               "truth": false
+            },
+            {
+               "text": "You are more likely to die on Tuesday than any other day of the week.",
+               "audio": "11064_4",
+               "truth": false
+            },
+            {
+               "text": "You are more likely to die in Ohio than in any other state.",
+               "audio": "11064_5",
+               "truth": false
+            },
+            {
+               "text": "You are more likely to die watching <i>Pay it Forward<\/i> than any other movie.",
+               "audio": "11064_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 11152,
+         "text": "Words of the World",
+         "category": "Words of the World",
+         "audio": "11152_cat",
+         "subject": "Places",
+         "statements": [
+            {
+               "response": "Barf is the name of a cleaning product in Iran.",
+               "text": "\u201cBarf\u201d means \u201csnow\u201d in Iran. ",
+               "audio": "11152_0",
+               "truth": true
+            },
+            {
+               "response": "\u201cFull Fart\u201d means full speed ahead.",
+               "text": "\u201cFart\u201d means \u201cspeed\u201d in Sweden. ",
+               "audio": "11152_1",
+               "truth": true
+            },
+            {
+               "response": "Which could make introductions uncomfortable.",
+               "text": "\u201cGary\u201d means \u201cdiarrhea\u201d in Japan. ",
+               "audio": "11152_2",
+               "truth": true
+            },
+            {
+               "text": "\u201cSnot\u201d means \u201cgravy\u201d in Ireland.",
+               "audio": "11152_3",
+               "truth": false
+            },
+            {
+               "text": "\u201cPenis\u201d means \u201cVagina\u201d in Estonia.",
+               "audio": "11152_4",
+               "truth": false
+            },
+            {
+               "text": "\u201cScrotum\u201d means \u201cbicycle\u201d in Korea.",
+               "audio": "11152_5",
+               "truth": false
+            },
+            {
+               "text": "\u201cDingleberry\u201d means \u201celderly\u201d in Luxembourg.",
+               "audio": "11152_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 10744,
+         "text": "Your Body",
+         "category": "Your Body",
+         "audio": "10744_cat",
+         "subject": "Body",
+         "statements": [
+            {
+               "response": "That\u2019s where your heart goes.",
+               "text": "Your left lung is smaller than your right lung.",
+               "audio": "10744_0",
+               "truth": true
+            },
+            {
+               "response": "So don\u2019t lick any crime scenes.",
+               "text": "Your tongue print, like a finger print, is unique to you.",
+               "audio": "10744_1",
+               "truth": true
+            },
+            {
+               "response": "Some of your bones fuse together as you grow.",
+               "text": "You have fewer bones than you did as a baby.",
+               "audio": "10744_2",
+               "truth": true
+            },
+            {
+               "text": "Connected end-to-end, your blood vessels would be longer than the distance to the moon.",
+               "audio": "10744_3",
+               "truth": false
+            },
+            {
+               "text": "You are dead.",
+               "audio": "10744_4",
+               "truth": false
+            },
+            {
+               "text": "Your ears can detect smells, but only a tiny fraction as effectively as your nose.",
+               "audio": "10744_5",
+               "truth": false
+            },
+            {
+               "text": "Your liver shrinks when you are frightened.",
+               "audio": "10744_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 10743,
+         "text": "Black Eyed Peas Lyrics",
+         "category": "Black Eyed Peas Lyrics",
+         "audio": "10743_cat",
+         "subject": "Pop Culture",
+         "statements": [
+            {
+               "response": "From the song, \u201cSmells Like Funk.\u201d",
+               "text": "\u201cstinkin\u2019 like fat ladies $#!*&in\u2019 out logs\u201d",
+               "audio": "10743_0",
+               "truth": true,
+               "tweet": "\u201cstinkin\u2019 like fat ladies $#!*&in\u2019 out logs\u201d is a Black Eyed Peas lyric."
+            },
+            {
+               "response": "From the song, \u201cDisco Club.\u201d",
+               "text": "\u201crub it on your belly like an ultrasound\u201d",
+               "audio": "10743_1",
+               "truth": true,
+               "tweet": "\u201crub it on your belly like an ultrasound\u201d is a Black Eyed Peas lyric."
+            },
+            {
+               "response": "From the song, \u201cHands Up.\u201d",
+               "text": "\u201clet me %*@# up your ear til my sperm is up in your brain\u201d",
+               "audio": "10743_2",
+               "truth": true,
+               "tweet": "\u201clet me %*@# up your ear til my sperm is up in your brain\u201d is a Black Eyed Peas lyric."
+            },
+            {
+               "text": "\u201cboom boom boomin\u2019 at summer camp\u201d",
+               "audio": "10743_3",
+               "truth": false,
+               "tweet": "\u201cboom boom boomin\u2019 at summer camp\u201d is a Black Eyed Peas lyric."
+            },
+            {
+               "text": "\u201csexual sex in a sexy sex car\u201d",
+               "audio": "10743_4",
+               "truth": false,
+               "tweet": "\u201csexual sex in a sexy sex car\u201d is a Black Eyed Peas lyric."
+            },
+            {
+               "response": "But if the Peas want to use it, be our guest.",
+               "text": "\u201cbutt butt butt butt butt butt butt butt butt butt butt butt\u201d",
+               "audio": "10743_5",
+               "truth": false,
+               "tweet": "\u201cbutt butt butt butt butt butt butt butt butt butt butt butt\u201d is a Black Eyed Peas lyric."
+            },
+            {
+               "text": "\u201c@$%#es be playin\u2019 Space Invaders on my %#*@\u201d",
+               "audio": "10743_6",
+               "truth": false,
+               "tweet": "\u201c@$%#es be playin\u2019 Space Invaders on my %#*@\u201d is a Black Eyed Peas lyric."
+            }
+         ]
+      },
+      {
+         "id": 10986,
+         "text": "Friday the 13th ",
+         "category": "Friday the 13th ",
+         "audio": "10986_cat",
+         "subject": "Events",
+         "statements": [
+            {
+               "response": "People are less likely to spend money or fly on that day.",
+               "text": "U.S. businesses lose $800 million every Friday the 13th.",
+               "audio": "10986_0",
+               "truth": true
+            },
+            {
+               "response": "June 13, 1986",
+               "text": "The Olsen Twins were born on Friday the 13th.",
+               "audio": "10986_1",
+               "truth": true
+            },
+            {
+               "response": "<i>Friday the 13th<\/i> came out on May 9, 1980.",
+               "text": "The original <i>Friday the 13th<\/i> movie was released on Friday the 9th. ",
+               "audio": "10986_2",
+               "truth": true
+            },
+            {
+               "text": "Calendars in Newfoundland do not include Friday the 13th.",
+               "audio": "10986_3",
+               "truth": false
+            },
+            {
+               "text": "The McRib sandwich is always released on Friday the 13th. ",
+               "audio": "10986_4",
+               "truth": false
+            },
+            {
+               "text": "Every presidential assassination happened on Friday the 13th. ",
+               "audio": "10986_5",
+               "truth": false
+            },
+            {
+               "text": "Due to leap year, Friday the 13th sometimes lands on a Saturday.",
+               "audio": "10986_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 11241,
+         "text": "666",
+         "category": "666",
+         "audio": "11241_cat",
+         "subject": "Awesome",
+         "statements": [
+            {
+               "response": "1 to 36 add up to 666.",
+               "text": "If you add up all the numbers on a roulette wheel, you get 666. ",
+               "audio": "11241_0",
+               "truth": true
+            },
+            {
+               "response": "His wife, Nancy, got it changed to 668.",
+               "text": "Ronald Reagan\u2019s street address, after he was president, was 666.",
+               "audio": "11241_1",
+               "truth": true
+            },
+            {
+               "text": "666 people died on the Hindenburg.",
+               "audio": "11241_2",
+               "truth": false
+            },
+            {
+               "text": "Brett Favre broke his toe throwing his 666th touchdown.",
+               "audio": "11241_3",
+               "truth": false
+            },
+            {
+               "text": "The Dirt Devil originally cost $66.60.",
+               "audio": "11241_4",
+               "truth": false
+            },
+            {
+               "text": "You can spell DEVIL on your calculator by multiplying 666 times 666.",
+               "audio": "11241_5",
+               "truth": false
+            },
+            {
+               "text": "The town of Hell, Michigan is 666 ft. above sea level.",
+               "audio": "11241_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 10989,
+         "text": "The Labors of Hercules",
+         "category": "The Labors of Hercules",
+         "audio": "10989_cat",
+         "subject": "Art",
+         "statements": [
+            {
+               "response": "From the Queen of the Amazons.",
+               "text": "Stealing a belt. ",
+               "audio": "10989_0",
+               "truth": true
+            },
+            {
+               "response": "Hercules diverted two rivers to clean the dung from King Augeas\u2019 stables.",
+               "text": "Cleaning the poop out of a stable.",
+               "audio": "10989_1",
+               "truth": true
+            },
+            {
+               "response": "Fancy golden apples.",
+               "text": "Getting apples.",
+               "audio": "10989_2",
+               "truth": true
+            },
+            {
+               "text": "Babysitting.",
+               "audio": "10989_3",
+               "truth": false
+            },
+            {
+               "text": "Making a sandwich.",
+               "audio": "10989_4",
+               "truth": false
+            },
+            {
+               "text": "Wrestling the Minotaur.",
+               "audio": "10989_5",
+               "truth": false
+            },
+            {
+               "text": "Spending a day as a woman.",
+               "audio": "10989_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 10741,
+         "text": "Real Disney Cartoons",
+         "category": "Real Disney Cartoons",
+         "audio": "10741_cat",
+         "subject": "Pop Culture",
+         "statements": [
+            {
+               "response": "It\u2019s called \u201cThe Winged Scourge.\u201d",
+               "text": "The 7 Dwarves fight malaria.",
+               "audio": "10741_0",
+               "truth": true,
+               "tweet": "\u201cThe Story of Menstruation\u201d is a real Disney cartoon."
+            },
+            {
+               "response": "He\u2019s not successful.",
+               "text": "Goofy tries to quit smoking.",
+               "audio": "10741_1",
+               "truth": true,
+               "tweet": "Disney did a cartoon where Goofy tries to quit smoking."
+            },
+            {
+               "response": "It\u2019s called \u201cDer Fuehrer\u2019s Face.\u201d",
+               "text": "Donald Duck has a nightmare that he\u2019s a Nazi.",
+               "audio": "10741_2",
+               "truth": true,
+               "tweet": "There\u2019s a real Disney cartoon where Donald Duck has a nightmare that he\u2019s a nazi."
+            },
+            {
+               "text": "Pluto gets rabies.",
+               "audio": "10741_3",
+               "truth": false,
+               "tweet": "There\u2019s a real Disney cartoon where Pluto gets rabies"
+            },
+            {
+               "text": "Minnie Mouse files for divorce.",
+               "audio": "10741_4",
+               "truth": false,
+               "tweet": "\u201cWhy Your Parents Are Getting a Divorce\u201d is a real Disney cartoon."
+            },
+            {
+               "text": "Chip and Dale become beatniks.",
+               "audio": "10741_5",
+               "truth": false,
+               "tweet": "There\u2019s a real Disney cartoon where Chip and Dale become beatniks."
+            },
+            {
+               "text": "Mickey Mouse is arrested for not paying taxes.",
+               "audio": "10741_6",
+               "truth": false,
+               "tweet": "There\u2019s a real Disney cartoon where Mickey Mouse is arrested for not paying taxes."
+            }
+         ]
+      },
+      {
+         "id": 11099,
+         "text": "Oscar Winners",
+         "category": "Oscar Winners",
+         "audio": "11099_cat",
+         "subject": "Pop Culture",
+         "statements": [
+            {
+               "response": "But it only won for Best Original Screenplay.",
+               "text": "<i>Citizen Kane<\/i>",
+               "audio": "11099_0",
+               "truth": true,
+               "tweet": "<i>Citizen Kane<\/i> won at least one Oscar."
+            },
+            {
+               "response": "Best Makeup",
+               "text": "<i>Mrs. Doubtfire<\/i>",
+               "audio": "11099_1",
+               "truth": true,
+               "tweet": "<i>Mrs. Doubtfire<\/i> won at least one Oscar."
+            },
+            {
+               "response": "Best Makeup",
+               "text": "<i>Harry and the Hendersons<\/i>",
+               "audio": "11099_2",
+               "truth": true,
+               "tweet": "<i>Harry and the Hendersons<\/i> won at least one Oscar."
+            },
+            {
+               "text": "<i>The Shining<\/i>",
+               "audio": "11099_3",
+               "truth": false,
+               "tweet": "<\/i>The Shining<\/i> won at least one Oscar."
+            },
+            {
+               "text": "<i>Taxi Driver<\/i>",
+               "audio": "11099_4",
+               "truth": false,
+               "tweet": "<i>Taxi Driver<\/i> won at least one Oscar."
+            },
+            {
+               "text": "<i>Norbit<\/i>",
+               "audio": "11099_5",
+               "truth": false,
+               "tweet": "<i>Norbit<\/i> won at least one Oscar."
+            },
+            {
+               "text": "<i>Star Wars: Ep. I - The Phantom Menace<\/i>",
+               "audio": "11099_6",
+               "truth": false,
+               "tweet": "<i>Star Wars: Ep. I - The Phantom Menace<\/i> won at least one Oscar."
+            }
+         ]
+      },
+      {
+         "id": 10974,
+         "text": "Coincidences",
+         "category": "Coincidences",
+         "audio": "10974_cat",
+         "subject": "Easter Egg",
+         "statements": [
+            {
+               "response": "He pulled him out of the way of a train.",
+               "text": "John Wilkes Booth\u2019s brother saved the life of Abraham Lincoln\u2019s son.",
+               "audio": "10974_0",
+               "truth": true
+            },
+            {
+               "response": "He kept that information from NASA.",
+               "text": "Buzz Aldrin\u2019s mother\u2019s maiden name was Moon.",
+               "audio": "10974_1",
+               "truth": true
+            },
+            {
+               "response": "John Adams, Thomas Jefferson, and James Monroe.",
+               "text": "Three of the first five U.S. presidents died on the 4th of July.",
+               "audio": "10974_2",
+               "truth": true
+            },
+            {
+               "text": "The most tornadoes in recorded history occurred the year <i>The Wizard of Oz<\/i> came out.",
+               "audio": "10974_3",
+               "truth": false
+            },
+            {
+               "text": "Thomas Jefferson and Napoleon were stabbed by the same man.",
+               "audio": "10974_4",
+               "truth": false
+            },
+            {
+               "text": "David Letterman and Jay Leno had the same first grade teacher.",
+               "audio": "10974_5",
+               "truth": false
+            },
+            {
+               "text": "David Blaine found David Copperfield\u2019s wallet on a park bench.",
+               "audio": "10974_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 10972,
+         "text": "Real Theme Parks",
+         "category": "Real Theme Parks",
+         "audio": "10972_cat",
+         "subject": "Places",
+         "statements": [
+            {
+               "response": "Located in England, of course.",
+               "text": "Dickens World (with cabbage smells, soot and pickpockets)",
+               "audio": "10972_0",
+               "truth": true,
+               "tweet": "Dickens World is a real theme park."
+            },
+            {
+               "response": "A popular South Korean destination.",
+               "text": "Love Land (with phallic artwork and sex-themed, hands-on exhibits)",
+               "audio": "10972_1",
+               "truth": true,
+               "tweet": "Love Land is a real theme park."
+            },
+            {
+               "response": "Coming soon to France!",
+               "text": "Napoleonland (with guillotine re-enactments and a ski run dotted with artificial corpses)",
+               "audio": "10972_2",
+               "truth": true,
+               "tweet": "Napoleonland is a real theme park."
+            },
+            {
+               "text": "Poop Land (with the Colon Cave Adventure and the Poop Log Ride)",
+               "audio": "10972_3",
+               "truth": false
+            },
+            {
+               "text": "Sad Mountain (with animatronic goats and souvenir tissues)",
+               "audio": "10972_4",
+               "truth": false
+            },
+            {
+               "text": "Beatles Lands (with Yellow Submarine rides and simulated acid trips)",
+               "audio": "10972_5",
+               "truth": false
+            },
+            {
+               "text": "Global Warming Land (with the Al Gore\u2019s Greenhouse and Carbon Dioxide Coaster)",
+               "audio": "10972_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 10714,
+         "text": "Kanye West Tweets",
+         "category": "Kanye West Tweets",
+         "audio": "10714_cat",
+         "subject": "People",
+         "statements": [
+            {
+               "response": "He tweeted this hard truth on Aug. 1, 2010.",
+               "text": "\u201cFur pillows are hard to actually sleep on.\u201d ",
+               "audio": "10714_0",
+               "truth": true
+            },
+            {
+               "response": "He tweeted this on Sept. 9, 2010.",
+               "text": "\u201cMan\u2026 whatever happened to my antique fish tank.\u201d",
+               "audio": "10714_1",
+               "truth": true
+            },
+            {
+               "response": "He tweeted that on Sept. 18, 2010 after making an awesome in-bike store decision.",
+               "text": "\u201cI make awesome decisions in bike stores!!!\u201d",
+               "audio": "10714_2",
+               "truth": true
+            },
+            {
+               "text": "\u201cI know all the words to my songs too!\u201d",
+               "audio": "10714_3",
+               "truth": false
+            },
+            {
+               "text": "\u201cSuede boxers are super fresh till you go on stage lol #hotoutside\u201d",
+               "audio": "10714_4",
+               "truth": false
+            },
+            {
+               "text": "\u201cCan\u2019t go to the bathroom with this marble minotaur lookin at me lol\u201d",
+               "audio": "10714_5",
+               "truth": false
+            },
+            {
+               "text": "\u201cSoon as I\u2019m off this jet\u2026 imma rent <i>We Bought a Zoo<\/i> on Redbox!!!\u201d",
+               "audio": "10714_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 11095,
+         "text": "St. Patrick\u2019s Day",
+         "category": "St. Patrick\u2019s Day",
+         "audio": "11095_cat",
+         "subject": "Holidays",
+         "statements": [
+            {
+               "response": "Green became popular after it was used in the 1798 Irish Rebellion.",
+               "text": "Blue was originally the color of St. Patrick\u2019s Day.",
+               "audio": "11095_0",
+               "truth": true
+            },
+            {
+               "response": "He was born in England and brought to Ireland as a slave.",
+               "text": "St. Patrick wasn\u2019t Irish.",
+               "audio": "11095_1",
+               "truth": true
+            },
+            {
+               "text": "Corona is the top selling beer on St. Patrick\u2019s Day in the U.S.",
+               "audio": "11095_2",
+               "truth": false
+            },
+            {
+               "text": "St. Patrick\u2019s Day is celebrated in February in Ireland. ",
+               "audio": "11095_3",
+               "truth": false
+            },
+            {
+               "text": "Corned beef is served on St. Patrick\u2019s Day to scare away ghost cows. ",
+               "audio": "11095_4",
+               "truth": false
+            },
+            {
+               "text": "Per Irish tradition, a baby born on St. Patrick\u2019s Day must drink Guinness. ",
+               "audio": "11095_5",
+               "truth": false
+            },
+            {
+               "text": "St. Patrick\u2019s Day was originally celebrated by fasting.",
+               "audio": "11095_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 10964,
+         "text": "Thanksgiving",
+         "category": "Thanksgiving",
+         "audio": "10964_cat",
+         "subject": "Holidays",
+         "statements": [
+            {
+               "response": "Written by a Sunday school teacher.",
+               "text": "\u201cJingle Bells\u201d was originally written as a Thanksgiving song.",
+               "audio": "10964_0",
+               "truth": true
+            },
+            {
+               "response": "Over 20 turkeys have been pardoned.",
+               "text": "The U.S. President pardons a turkey every Thanksgiving.",
+               "audio": "10964_1",
+               "truth": true
+            },
+            {
+               "response": "In 1863.",
+               "text": "Thanksgiving didn\u2019t become an official holiday until Abraham Lincoln decreed it.",
+               "audio": "10964_2",
+               "truth": true
+            },
+            {
+               "text": "Thanksgiving lands on a Tuesday every 14 years. ",
+               "audio": "10964_3",
+               "truth": false
+            },
+            {
+               "text": "The Macy\u2019s Thanksgiving Day Parade had a giant inflatable Donald Trump in 2007.",
+               "audio": "10964_4",
+               "truth": false
+            },
+            {
+               "text": "<i>Pornucopia 7: Still Giving Thanks<\/i> is the highest grossing Thanksgiving-themed porn. ",
+               "audio": "10964_5",
+               "truth": false
+            },
+            {
+               "text": "Andre the Giant has the record for biggest hand-drawn Thanksgiving turkey. ",
+               "audio": "10964_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 10961,
+         "text": "Reality TV",
+         "category": "Reality TV",
+         "audio": "10961_cat",
+         "subject": "Pop Culture",
+         "statements": [
+            {
+               "response": "It lasted one episode.",
+               "text": "To win <i>Who\u2019s Your Daddy<\/i>, an adoptee had to pick her birth dad from a room full of men.",
+               "audio": "10961_0",
+               "truth": true
+            },
+            {
+               "response": "It was canceled after one episode.",
+               "text": "On <i>The Will<\/i>, 10 people competed to become sole beneficiary of a millionaire\u2019s will.",
+               "audio": "10961_1",
+               "truth": true
+            },
+            {
+               "text": "On <i>Love Behind Bars<\/i>, three men competed for the heart of a convicted felon.",
+               "audio": "10961_2",
+               "truth": false
+            },
+            {
+               "text": "On <i>Rock Camp<\/i>, kids lived in the wilderness while competing for a record contract.",
+               "audio": "10961_3",
+               "truth": false
+            },
+            {
+               "text": "On <i>Hammer Time<\/i>, the losing contestant had to tear down their dream home.",
+               "audio": "10961_4",
+               "truth": false
+            },
+            {
+               "text": "On <i>Saddled With Debt<\/i>, people crippled with debt raced horses for money.",
+               "audio": "10961_5",
+               "truth": false
+            },
+            {
+               "text": "In <i>Cougar Season<\/i>, young men had to pick up older women at bars.",
+               "audio": "10961_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 10706,
+         "text": "Christmas",
+         "category": "Christmas",
+         "audio": "10706_cat",
+         "subject": "Holidays",
+         "statements": [
+            {
+               "response": "It was banned until 1660.",
+               "text": "British Parliament banned Christmas in 1647.",
+               "audio": "10706_0",
+               "truth": true
+            },
+            {
+               "response": "After two astronauts reported a UFO that looked like Santa\u2019s sleigh in 1965.",
+               "text": "\u201cJingle Bells\u201d was the first song sung in outer space. ",
+               "audio": "10706_1",
+               "truth": true
+            },
+            {
+               "response": "He banned them for environmental reasons.",
+               "text": "Teddy Roosevelt banned Christmas trees in the White House.",
+               "audio": "10706_2",
+               "truth": true
+            },
+            {
+               "text": "George W. Bush was a department store Santa in his twenties. ",
+               "audio": "10706_3",
+               "truth": false
+            },
+            {
+               "text": "Kim Kardashian wrote a line of Christmas cards for Hallmark.",
+               "audio": "10706_4",
+               "truth": false
+            },
+            {
+               "text": "It\u2019s tradition in Poland for kids to sleep in shoes so the Christmas troll can\u2019t eat their toes.",
+               "audio": "10706_5",
+               "truth": false
+            },
+            {
+               "text": "There was no Christmas before 1974.",
+               "audio": "10706_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 10688,
+         "text": "Square Roots",
+         "category": "Square Roots",
+         "audio": "10688_cat",
+         "subject": "Math",
+         "statements": [
+            {
+               "response": "It\u2019s true. You can check on a calculator.",
+               "text": "The square root of 7,569 is 87.",
+               "audio": "10688_0",
+               "truth": true
+            },
+            {
+               "response": "Spooky.",
+               "text": "The square root of 443,556 is 666.",
+               "audio": "10688_1",
+               "truth": true
+            },
+            {
+               "text": "The square root of 813 is dog.",
+               "audio": "10688_2",
+               "truth": false
+            },
+            {
+               "text": "The square root of 555 is 24.",
+               "audio": "10688_3",
+               "truth": false
+            },
+            {
+               "text": "The square root of 1,800 is 911.",
+               "audio": "10688_4",
+               "truth": false
+            },
+            {
+               "text": "The square root of 999,009 is 999.",
+               "audio": "10688_5",
+               "truth": false
+            },
+            {
+               "response": "Zero is the square root of zero. Duh.",
+               "text": "There is no square root of zero.",
+               "audio": "10688_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 10947,
+         "text": "Real Airport Codes",
+         "category": "Real Airport Codes",
+         "audio": "10947_cat",
+         "subject": "Real",
+         "statements": [
+            {
+               "response": "It\u2019s the airport of Perm, Russia.",
+               "text": "PEE",
+               "audio": "10947_0",
+               "truth": true
+            },
+            {
+               "response": "Naturally, it\u2019s located in Germany.",
+               "text": "SEX",
+               "audio": "10947_1",
+               "truth": true
+            },
+            {
+               "response": "This is the code for Cumana, Venezuela.",
+               "text": "CUM",
+               "audio": "10947_2",
+               "truth": true
+            },
+            {
+               "text": "ASS",
+               "audio": "10947_3",
+               "truth": false
+            },
+            {
+               "text": "JIZ",
+               "audio": "10947_4",
+               "truth": false
+            },
+            {
+               "text": "TIT",
+               "audio": "10947_5",
+               "truth": false
+            },
+            {
+               "text": "DONG",
+               "audio": "10947_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 10687,
+         "text": "Blondes",
+         "category": "Blondes",
+         "audio": "10687_cat",
+         "subject": "Body",
+         "statements": [
+            {
+               "response": "Blondes are more likely to suffer macular degeneration.",
+               "text": "Blondes have more later-in-life blindness.",
+               "audio": "10687_0",
+               "truth": true
+            },
+            {
+               "response": "Red heads too.",
+               "text": "Blondes have more mosquito bites. ",
+               "audio": "10687_1",
+               "truth": true
+            },
+            {
+               "response": "They have thinner hair so there\u2019s room for more of it.",
+               "text": "Blondes have more hair. ",
+               "audio": "10687_2",
+               "truth": true
+            },
+            {
+               "text": "Blondes have more fungus problems.",
+               "audio": "10687_3",
+               "truth": false
+            },
+            {
+               "text": "Blondes have more diarrhea.",
+               "audio": "10687_4",
+               "truth": false
+            },
+            {
+               "text": "Blondes have more car accidents.",
+               "audio": "10687_5",
+               "truth": false
+            },
+            {
+               "text": "Blondes have more nightmares.",
+               "audio": "10687_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 10845,
+         "text": "World Leaders",
+         "category": "World Leaders",
+         "audio": "10845_cat",
+         "subject": "People",
+         "statements": [
+            {
+               "response": "\u201cZabibah and the King\u201d",
+               "text": "Saddam Hussein published a romance novel.",
+               "audio": "10845_0",
+               "truth": true
+            },
+            {
+               "response": "He did commercials for Pizza Hut\u2019s The Edge Pizza.",
+               "text": "Mikhail Gorbachev was briefly a spokesperson for Pizza Hut.",
+               "audio": "10845_1",
+               "truth": true
+            },
+            {
+               "text": "Prince Charles speaks Klingon.",
+               "audio": "10845_2",
+               "truth": false
+            },
+            {
+               "text": "Yasser Arafat wrote a fan letter to the voice of SpongeBob SquarePants.",
+               "audio": "10845_3",
+               "truth": false
+            },
+            {
+               "text": "Winston Churchill wore a hat in the shower.",
+               "audio": "10845_4",
+               "truth": false
+            },
+            {
+               "text": "Tony Blair got his hair braided on a trip to the Caribbean.",
+               "audio": "10845_5",
+               "truth": false
+            },
+            {
+               "text": "Fidel Castro lost 60 pounds after joining Weight Watchers.",
+               "audio": "10845_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 10684,
+         "text": "Former Olympic Events",
+         "category": "Former Olympic Events",
+         "audio": "10684_cat",
+         "subject": "Real",
+         "statements": [
+            {
+               "response": "Tug-of-War was an Olympic event from 1900 to 1920.",
+               "text": "Tug-of-war",
+               "audio": "10684_0",
+               "truth": true,
+               "tweet": "Tug-of-war was a former Olympic event."
+            },
+            {
+               "response": "Painting, Sculpture and Architecture were also Olympic events.",
+               "text": "Poetry",
+               "audio": "10684_1",
+               "truth": true,
+               "tweet": "Poetry was a former Olympic event."
+            },
+            {
+               "response": "300 birds were killed during the 1900 Olympics.",
+               "text": "Shooting Live Pigeons",
+               "audio": "10684_2",
+               "truth": true,
+               "tweet": "Shooting live pigeons was a former Olympic event."
+            },
+            {
+               "response": "But wouldn\u2019t that be awesome?!",
+               "text": "Jet Skiing",
+               "audio": "10684_3",
+               "truth": false,
+               "tweet": "Jetski was a former Olympic event."
+            },
+            {
+               "text": "Scrabble",
+               "audio": "10684_4",
+               "truth": false,
+               "tweet": "Scrabble was a former Olympic event."
+            },
+            {
+               "text": "Jump rope",
+               "audio": "10684_5",
+               "truth": false,
+               "tweet": "Jump rope was a former Olympic event."
+            },
+            {
+               "text": "Murder",
+               "audio": "10684_6",
+               "truth": false,
+               "tweet": "Murder was a former Olympic event."
+            }
+         ]
+      },
+      {
+         "id": 11005,
+         "text": "Movie Heroes",
+         "category": "Movie Heroes",
+         "audio": "11005_cat",
+         "subject": "Pop Culture",
+         "statements": [
+            {
+               "response": "George Lucas changed the name a few times.",
+               "text": "Luke Skywalker was originally Luke Starkiller.",
+               "audio": "11005_0",
+               "truth": true
+            },
+            {
+               "response": "Steven Spielberg suggested the name change.",
+               "text": "Indiana Jones was originally Indiana Smith.",
+               "audio": "11005_1",
+               "truth": true
+            },
+            {
+               "response": "Just doesn\u2019t sound as epic.",
+               "text": "Buzz Lightyear was originally Lunar Larry.",
+               "audio": "11005_2",
+               "truth": true
+            },
+            {
+               "text": "Dirty Harry was originally Johnny Fist.",
+               "audio": "11005_3",
+               "truth": false
+            },
+            {
+               "text": "Edward Scissorhands was originally Lenny Bladefingers.",
+               "audio": "11005_4",
+               "truth": false
+            },
+            {
+               "text": "The Transformers were originally Machine Men.",
+               "audio": "11005_5",
+               "truth": false
+            },
+            {
+               "text": "The Ghostbusters were originally the Ghoul Grabbers.",
+               "audio": "11005_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 10999,
+         "text": "Minerals",
+         "category": "Minerals",
+         "audio": "10999_cat",
+         "subject": "Resources",
+         "statements": [
+            {
+               "response": "It was discovered in Cummington, Massachusetts.",
+               "text": "There is a mineral named cummingtonite.",
+               "audio": "10999_0",
+               "truth": true
+            },
+            {
+               "response": "It\u2019s found in the Fuka region of Japan.",
+               "text": "There is a mineral named fukalite.",
+               "audio": "10999_1",
+               "truth": true
+            },
+            {
+               "text": "There is a mineral named millerlite.",
+               "audio": "10999_2",
+               "truth": false
+            },
+            {
+               "text": "There is a mineral named hangtite.",
+               "audio": "10999_3",
+               "truth": false
+            },
+            {
+               "text": "There is a mineral named vomitite. ",
+               "audio": "10999_4",
+               "truth": false
+            },
+            {
+               "text": "There is a mineral named nitebrite. ",
+               "audio": "10999_5",
+               "truth": false
+            },
+            {
+               "text": "There is a mineral named fartifimite.",
+               "audio": "10999_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 10977,
+         "text": "\u201cWeird Al\u201d Yankovic songs",
+         "category": "\u201cWeird Al\u201d Yankovic songs",
+         "audio": "10977_cat",
+         "subject": "Pop Culture",
+         "statements": [
+            {
+               "response": "A parody of Cyndi Lauper\u2019s \u201cGirls Just Want to Have Fun.\u201d",
+               "text": "\u201cGirls Just Want to Have Lunch\u201d",
+               "audio": "10977_0",
+               "truth": true
+            },
+            {
+               "response": "From the 1988 hit album <i>Even Worse<\/i>.",
+               "text": "\u201cI Think I\u2019m a Clone Now\u201d",
+               "audio": "10977_1",
+               "truth": true
+            },
+            {
+               "response": "It was released on Weird Al\u2019s self-titled debut album.",
+               "text": "\u201cAnother One Rides the Bus\u201d",
+               "audio": "10977_2",
+               "truth": true
+            },
+            {
+               "text": "\u201cPoke Her Face(book)\u201d",
+               "audio": "10977_3",
+               "truth": false
+            },
+            {
+               "text": "\u201cAll the Pringles Ladies\u201d ",
+               "audio": "10977_4",
+               "truth": false
+            },
+            {
+               "text": "\u201cI Will Always Love Stew\u201d",
+               "audio": "10977_5",
+               "truth": false
+            },
+            {
+               "text": "\u201cPets Get It On\u201d",
+               "audio": "10977_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 10931,
+         "text": "Donald Trump Tweets",
+         "category": "Donald Trump Tweets",
+         "audio": "10931_cat",
+         "subject": "People",
+         "statements": [
+            {
+               "response": "It got 1,101 retweets.",
+               "text": "\u201cEveryone knows I am right that Robert Pattinson should dump Kristen Stewart.\u201d",
+               "audio": "10931_0",
+               "truth": true
+            },
+            {
+               "response": "He added \u201c(Just watch!).\u201d",
+               "text": "\u201c@katyperry is no bargain but I don\u2019t like John Mayer-he dates and tells-be careful Katy.\u201d",
+               "audio": "10931_1",
+               "truth": true
+            },
+            {
+               "response": "He tweeted it a day late.",
+               "text": "\u201cCongratulations to Michelle and Barack Obama on their 20th anniversary.\u201d",
+               "audio": "10931_2",
+               "truth": true
+            },
+            {
+               "text": "\u201cMy dear friend Victoria Beckham should \u201dfire\u201c David. She can do better.\u201d",
+               "audio": "10931_3",
+               "truth": false
+            },
+            {
+               "text": "\u201c@KimKardashian and @KanyeWest are the greatest couple in America.\u201d",
+               "audio": "10931_4",
+               "truth": false
+            },
+            {
+               "text": "\u201c@IvankaTrump\u2019s husband is a chump! Give him the boot, honey!\u201d ",
+               "audio": "10931_5",
+               "truth": false
+            },
+            {
+               "text": "\u201cJustin Bieber and Selena Gomez are finished? No!!!\u201d  ",
+               "audio": "10931_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 10925,
+         "text": "Shaq Rap Lyrics",
+         "category": "Shaq Rap Lyrics",
+         "audio": "10925_cat",
+         "subject": "Pop Culture",
+         "statements": [
+            {
+               "response": "From the classic song \u201cWhat\u2019s Up Doc (Can We Rock).\u201d",
+               "text": "\u201cForget Tony Danza, I\u2019m the boss.\u201d",
+               "audio": "10925_0",
+               "truth": true
+            },
+            {
+               "response": "From 1993\u2019s \u201c(I Know I Got) Skillz.\u201d",
+               "text": "\u201cKnick-knack Shaq-attack, give a dog a bone.\u201d",
+               "audio": "10925_1",
+               "truth": true
+            },
+            {
+               "response": "That\u2019s a line from \u201cMy Style, My Steelo\u201d featuring Redman.",
+               "text": "\u201cYo I Gets Busy, packs more Speed than K. Reeves. \u201d",
+               "audio": "10925_2",
+               "truth": true
+            },
+            {
+               "text": "\u201cMy man Kobe is my BFF.\u201d",
+               "audio": "10925_3",
+               "truth": false
+            },
+            {
+               "text": "\u201cI rhyme so wild they call me Ace Ventura.\u201d",
+               "audio": "10925_4",
+               "truth": false
+            },
+            {
+               "text": "\u201cI\u2019m the devil with the razzmatazz. 360 slam dunk just like Taz.\u201d",
+               "audio": "10925_5",
+               "truth": false
+            },
+            {
+               "text": "\u201cSuper-Shaq-a-fragilistic-expi-Shaq-a-doe-Shaq.\u201d",
+               "audio": "10925_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 10920,
+         "text": "Secret Service Code Names",
+         "category": "Secret Service Code Names",
+         "audio": "10920_cat",
+         "subject": "USA",
+         "statements": [
+            {
+               "response": "Ouch.",
+               "text": "Ted Kennedy\u2019s Secret Service code name was Sunburn.",
+               "audio": "10920_0",
+               "truth": true
+            },
+            {
+               "response": "Kind of embarrassing.",
+               "text": "Prince Charles\u2019 Secret Service code names is Unicorn.",
+               "audio": "10920_1",
+               "truth": true
+            },
+            {
+               "text": "Ronald Reagan\u2019s Secret Service code name was Bonzo.",
+               "audio": "10920_2",
+               "truth": false
+            },
+            {
+               "text": "Hillary Clinton\u2019s Secret Service code name is Rawhide.",
+               "audio": "10920_3",
+               "truth": false
+            },
+            {
+               "text": "Donald Trump\u2019s Secret Service code name is Zeus.",
+               "audio": "10920_4",
+               "truth": false
+            },
+            {
+               "text": "Dan Quayle\u2019s Secret Service code name is Potatoe.",
+               "audio": "10920_5",
+               "truth": false
+            },
+            {
+               "text": "Dick Cheney\u2019s Secret Service code name is Unkillable.",
+               "audio": "10920_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 10892,
+         "text": "Lenin Statues",
+         "category": "Lenin Statues",
+         "audio": "10892_cat",
+         "subject": "History",
+         "statements": [
+            {
+               "response": "The spot is known as Antarctica\u2019s Pole of Inaccessiblity.",
+               "text": "There\u2019s a bust of Lenin in the geographical center of Antarctica.",
+               "audio": "10892_0",
+               "truth": true
+            },
+            {
+               "response": "It was beheaded due to customer complaints.",
+               "text": "There is a headless Lenin statue in Las Vegas\u2019 Mandalay Bay casino.",
+               "audio": "10892_1",
+               "truth": true
+            },
+            {
+               "text": "Sputnik had a Lenin figurine on board.",
+               "audio": "10892_2",
+               "truth": false
+            },
+            {
+               "text": "R. Kelly has a fountain of Uncle Sam peeing on Lenin.",
+               "audio": "10892_3",
+               "truth": false
+            },
+            {
+               "text": "Madonna simulated sex with a Lenin statue at a concert in West Berlin. ",
+               "audio": "10892_4",
+               "truth": false
+            },
+            {
+               "text": "There\u2019s a Lenin statue at the base of the Chinese side of Mt. Everest. ",
+               "audio": "10892_5",
+               "truth": false
+            },
+            {
+               "text": "At St. Basil\u2019s cathedral in Moscow, there\u2019s a statue of Lenin holding baby Jesus. ",
+               "audio": "10892_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 10887,
+         "text": "Hollywood Tough Guys",
+         "category": "Hollywood Tough Guys",
+         "audio": "10887_cat",
+         "subject": "People",
+         "statements": [
+            {
+               "response": "He entered again in 1953 but did not place.",
+               "text": "Sean Connery took third place in a Mr. Universe pageant.",
+               "audio": "10887_0",
+               "truth": true
+            },
+            {
+               "response": "With the album <i>Rawhide\u2019s Cline Eastwood Sings Cowboy Favorites<\/i>.",
+               "text": "Clint Eastwood tried to cross over from western film star to bubblegum pop singer.",
+               "audio": "10887_1",
+               "truth": true
+            },
+            {
+               "response": "He also sported a toupee.",
+               "text": "John Wayne wore shoe lifts and had cosmetic eye surgery.",
+               "audio": "10887_2",
+               "truth": true
+            },
+            {
+               "text": "Humphrey Bogart\u2019s original name was \u2018Alistair Lovey.\u2019",
+               "audio": "10887_3",
+               "truth": false
+            },
+            {
+               "text": "Before becoming an actor, Steve McQueen attended nursing school.",
+               "audio": "10887_4",
+               "truth": false
+            },
+            {
+               "text": "Charlton Heston was a member of a barbershop quartet, The Delightful Warblers.",
+               "audio": "10887_5",
+               "truth": false
+            },
+            {
+               "text": "Spencer Tracy and Katharine Hepburn once dressed as each other for the Oscars.",
+               "audio": "10887_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 10885,
+         "text": "Real Superman Storylines",
+         "category": "Real Superman Storylines",
+         "audio": "10885_cat",
+         "subject": "Pop Culture",
+         "statements": [
+            {
+               "response": "She learned important lessons.",
+               "text": "Superman turns Lois Lane black for a day.",
+               "audio": "10885_0",
+               "truth": true
+            },
+            {
+               "response": "It happened in \u201cSuperman/Batman Annual #1.\u201d",
+               "text": "Bruce Wayne and Clark Kent have to share a bed due to a cruise ship booking error.",
+               "audio": "10885_1",
+               "truth": true
+            },
+            {
+               "response": "His mind is taken over by a villain named Sleez.",
+               "text": "Superman is tricked into starring in a porno. ",
+               "audio": "10885_2",
+               "truth": true
+            },
+            {
+               "text": "Superman gets pregnant.",
+               "audio": "10885_3",
+               "truth": false
+            },
+            {
+               "text": "Superman walks out of the <i>Green Lantern<\/i> movie.",
+               "audio": "10885_4",
+               "truth": false
+            },
+            {
+               "text": "Superman gets amnesia and opens a pet shop.",
+               "audio": "10885_5",
+               "truth": false
+            },
+            {
+               "text": "Run-D.M.C. teaches Superman how to freestyle rap.",
+               "audio": "10885_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 10875,
+         "text": "American Girl Dolls",
+         "category": "American Girl Dolls",
+         "audio": "10875_cat",
+         "subject": "Pop Culture",
+         "statements": [
+            {
+               "response": "Her deadbeat dad walked out on the family and they were evicted.",
+               "text": "Gwen is the homeless American Girl Doll.",
+               "audio": "10875_0",
+               "truth": true
+            },
+            {
+               "response": "Spa Deluxe packages start at $12.",
+               "text": "American Girl stores offer manicures, facials and pampering for dolls.",
+               "audio": "10875_1",
+               "truth": true
+            },
+            {
+               "text": "Stephanie is the first transgender American Girl Doll.",
+               "audio": "10875_2",
+               "truth": false
+            },
+            {
+               "text": "Elizabeth Taylor donated her hair to be used on the Elizabeth Taylor American Girl Doll.",
+               "audio": "10875_3",
+               "truth": false
+            },
+            {
+               "text": "Samantha was named the hottest American Girl Doll by Maxim in 2005.",
+               "audio": "10875_4",
+               "truth": false
+            },
+            {
+               "text": "A church in Memphis will baptize your American Girl Doll.",
+               "audio": "10875_5",
+               "truth": false
+            },
+            {
+               "text": "Men that collect American Girl dolls are known as \u201cCreepsies.\u201d",
+               "audio": "10875_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 10865,
+         "text": "Plurals",
+         "category": "Plurals",
+         "audio": "10865_cat",
+         "subject": "Easter Egg",
+         "statements": [
+            {
+               "response": "Not much else to say about that.",
+               "text": "The plural of \u201ccul-de-sac\u201d is \u201cculs-de-sac.\u201d",
+               "audio": "10865_0",
+               "truth": true
+            },
+            {
+               "response": "Toyota announced the official Prius pluralization in 2011.",
+               "text": "The plural of \u201cPrius\u201d is \u201cPrii.\u201d",
+               "audio": "10865_1",
+               "truth": true
+            },
+            {
+               "text": "The plural of \u201cmongoose\u201d is \u201cmongeese.\u201d",
+               "audio": "10865_2",
+               "truth": false
+            },
+            {
+               "text": "The plural of \u201cFoot Locker\u201d is \u201cFoot Lockerz.\u201d",
+               "audio": "10865_3",
+               "truth": false
+            },
+            {
+               "text": "The plural of \u201ccharcoal\u201d is \u201ccharred coals.\u201d",
+               "audio": "10865_4",
+               "truth": false
+            },
+            {
+               "text": "The plural of \u201csamurai\u201d is \u201csamuraisis.\u201d",
+               "audio": "10865_5",
+               "truth": false
+            },
+            {
+               "text": "The plural of \u201cplural\u201d is \u201cplural.\u201d",
+               "audio": "10865_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 10863,
+         "text": "Real Barbies",
+         "category": "Real Barbies",
+         "audio": "10863_cat",
+         "subject": "Pop Culture",
+         "statements": [
+            {
+               "response": "She comes with a dog that poops biscuits.",
+               "text": "Poop and Scoop Barbie",
+               "audio": "10863_0",
+               "truth": true
+            },
+            {
+               "response": "She\u2019s a total GILF.",
+               "text": "Grandma Barbie",
+               "audio": "10863_1",
+               "truth": true
+            },
+            {
+               "text": "Comptroller Barbie ",
+               "audio": "10863_2",
+               "truth": false
+            },
+            {
+               "text": "Chimney Sweep Barbie",
+               "audio": "10863_3",
+               "truth": false
+            },
+            {
+               "text": "Nip and Tuck Barbie",
+               "audio": "10863_4",
+               "truth": false
+            },
+            {
+               "text": "Walgreens Manager Barbie ",
+               "audio": "10863_5",
+               "truth": false
+            },
+            {
+               "text": "Dialysis Barbie",
+               "audio": "10863_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 10828,
+         "text": "Songwriters",
+         "category": "Songwriters",
+         "audio": "10828_cat",
+         "subject": "Pop Culture",
+         "statements": [
+            {
+               "response": "Silverstein also drew cartoons for Playboy.",
+               "text": "Shel Silverstein wrote the Johnny Cash hit \u2018A Boy Named Sue.\u2019",
+               "audio": "10828_0",
+               "truth": true
+            },
+            {
+               "response": "He wrote it specifically for them.",
+               "text": "Prince wrote the Bangles\u2019 hit \u2018Manic Monday.\u2019",
+               "audio": "10828_1",
+               "truth": true
+            },
+            {
+               "text": "Adam Sandler wrote the theme song to <i>King Of Queens<\/i>.",
+               "audio": "10828_2",
+               "truth": false
+            },
+            {
+               "text": "Bob Dylan co-wrote \u201cRomeo and Juliet\u201d with Taylor Swift.",
+               "audio": "10828_3",
+               "truth": false
+            },
+            {
+               "text": "The lyrics of \u201cSmells Like Teen Spirit\u201d were taken from the back of a Cocoa Puffs box.",
+               "audio": "10828_4",
+               "truth": false
+            },
+            {
+               "text": "Mick Jagger wrote the Maroon Five hit \u201cMoves Like Jagger.\u201d",
+               "audio": "10828_5",
+               "truth": false
+            },
+            {
+               "text": "Salman Rushdie wrote the Cat Steven\u2019s hit \u201cPeace Train.\u201d",
+               "audio": "10828_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 10694,
+         "text": "Prolific Inventors",
+         "category": "Prolific Inventors",
+         "audio": "10694_cat",
+         "subject": "History",
+         "statements": [
+            {
+               "response": "William Mitchell also had patents related to Cool Whip and Jell-O.",
+               "text": "The inventor of Tang also invented Pop Rocks.",
+               "audio": "10694_0",
+               "truth": true
+            },
+            {
+               "response": "William Martsen helped develop the polygraph test and the owner of the lasso of truth.",
+               "text": "The inventor of the lie detector also created Wonder Woman. ",
+               "audio": "10694_1",
+               "truth": true
+            },
+            {
+               "response": "Both were very popular.",
+               "text": "The inventor of aspirin also invented heroin.",
+               "audio": "10694_2",
+               "truth": true
+            },
+            {
+               "text": "The inventor of the zipper also invented the latex condom.",
+               "audio": "10694_3",
+               "truth": false
+            },
+            {
+               "text": "The inventor of the windshield wiper also invented the mouse trap.",
+               "audio": "10694_4",
+               "truth": false
+            },
+            {
+               "text": "The inventor of Wite-Out also invented erasable pens. ",
+               "audio": "10694_5",
+               "truth": false
+            },
+            {
+               "text": "The inventor of pasteurization also invented the dog leash. ",
+               "audio": "10694_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 10823,
+         "text": "Old Ladies",
+         "category": "Old Ladies",
+         "audio": "10823_cat",
+         "subject": "People",
+         "statements": [
+            {
+               "response": "She was supposedly a great shot.",
+               "text": "Sex guru Dr. Ruth was a sniper trained by the Israeli military.",
+               "audio": "10823_0",
+               "truth": true
+            },
+            {
+               "response": "Delicious!",
+               "text": "TV chef Julia Child was a World War II-era spy.",
+               "audio": "10823_1",
+               "truth": true
+            },
+            {
+               "text": "Eleanor Roosevelt is buried under the Statue of Liberty. ",
+               "audio": "10823_2",
+               "truth": false
+            },
+            {
+               "text": "The actress from the \u201cWhere\u2019s the Beef\u201d commercial was a Titanic survivor. ",
+               "audio": "10823_3",
+               "truth": false
+            },
+            {
+               "text": "Katharine Hepburn had a line of clothing called \u201cLady Slacks.\u201d",
+               "audio": "10823_4",
+               "truth": false
+            },
+            {
+               "text": "Helen Mirren appeared nude in <i>Playboy<\/i> at the age of 74.",
+               "audio": "10823_5",
+               "truth": false
+            },
+            {
+               "text": "Cloris Leachman\u2019s birth name was Clitoris Wallace. ",
+               "audio": "10823_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 10811,
+         "text": "Dr. Seuss Books",
+         "category": "Dr. Seuss Books",
+         "audio": "10811_cat",
+         "subject": "Pop Culture",
+         "statements": [
+            {
+               "response": "One of his first books, from 1949, it\u2019s a little old tale about a boy and his slime.",
+               "text": "<i>Bartholomew and the Oobleck<\/i>",
+               "audio": "10811_0",
+               "truth": true
+            },
+            {
+               "response": "His last book, and though he tried, he couldn\u2019t finish before he died.",
+               "text": "<i>Hooray For Diffendoofer Day!<\/i>",
+               "audio": "10811_1",
+               "truth": true
+            },
+            {
+               "response": "A \u201874 classic many kids dug, about creatures in bottles and under a rug.",
+               "text": "<i>There\u2019s A Wocket In My Pocket!<\/i>",
+               "audio": "10811_2",
+               "truth": true
+            },
+            {
+               "text": "<i>Billy Boofaloof, Where Have You Gone?<\/i>",
+               "audio": "10811_3",
+               "truth": false
+            },
+            {
+               "text": "<i>A Four Feefle Friday For Me!<\/i>",
+               "audio": "10811_4",
+               "truth": false
+            },
+            {
+               "text": "<i>It\u2019s Puberty, Peter Piffle!<\/i>",
+               "audio": "10811_5",
+               "truth": false
+            },
+            {
+               "text": "<i>The Great Gilfer\u2019s Goofy Gala<\/i>",
+               "audio": "10811_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 10742,
+         "text": "Names of Salvador Dali Paintings",
+         "category": "Names of Salvador Dali Paintings",
+         "audio": "10742_cat",
+         "subject": "Art",
+         "statements": [
+            {
+               "response": "It\u2019s a pretty literal description.",
+               "text": "Debris of an Automobile Giving Birth to a Blind Horse Biting a Telephone",
+               "audio": "10742_0",
+               "truth": true
+            },
+            {
+               "response": "It shows a half lion-half human with Shirely Temple\u2019s face lying on a pile of bones.",
+               "text": "Shirley Temple, The Youngest, Most Sacred Monster of the Cinema in Her Time",
+               "audio": "10742_1",
+               "truth": true
+            },
+            {
+               "response": "It features a floating head, a giant locust, other insane things...",
+               "text": "The Great Masturbator ",
+               "audio": "10742_2",
+               "truth": true
+            },
+            {
+               "text": "Melting Clocks on Cliffs",
+               "audio": "10742_3",
+               "truth": false
+            },
+            {
+               "text": "Pablo Picasso\u2019s Breast Served on a Plate without the Plate",
+               "audio": "10742_4",
+               "truth": false
+            },
+            {
+               "text": "The Eternal Home of St. Peter Lit by Neon Giraffes",
+               "audio": "10742_5",
+               "truth": false
+            },
+            {
+               "text": "Self Portrait of the Nude Crusader, Humphrey Bogart. ",
+               "audio": "10742_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 11298,
+         "text": "Fidel Castro ",
+         "category": "Fidel Castro ",
+         "audio": "11298_cat",
+         "subject": "History",
+         "statements": [
+            {
+               "response": "Placed where he was known to dive.",
+               "text": "The CIA plotted to kill Castro with a booby-trapped seashell.",
+               "audio": "11298_0",
+               "truth": true
+            },
+            {
+               "response": "By putting thalium salts in his shoes.",
+               "text": "The CIA plotted to make Castro\u2019s beard fall off. ",
+               "audio": "11298_1",
+               "truth": true
+            },
+            {
+               "response": "Makes sense.",
+               "text": "The CIA tried to kill Castro with an exploding cigar.",
+               "audio": "11298_2",
+               "truth": true
+            },
+            {
+               "text": "The CIA hired a cat burglar to rearrange all of Castro\u2019s office furniture. ",
+               "audio": "11298_3",
+               "truth": false
+            },
+            {
+               "text": "The CIA plotted to kill Castro with assassin monkeys. ",
+               "audio": "11298_4",
+               "truth": false
+            },
+            {
+               "text": "The CIA tried to make Castro lactose-intolerant. ",
+               "audio": "11298_5",
+               "truth": false
+            },
+            {
+               "text": "The CIA plotted to make Castro forget how to speak Spanish.",
+               "audio": "11298_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 11958,
+         "text": "Hollywood Walk of Fame",
+         "category": "Hollywood Walk of Fame",
+         "audio": "11958_cat",
+         "subject": "Pop Culture",
+         "statements": [
+            {
+               "response": "One for each star category.",
+               "text": "Gene Autry has five stars on the Hollywood Walk of Fame.",
+               "audio": "11958_0",
+               "truth": true
+            },
+            {
+               "response": "In the Kodak Theatre.",
+               "text": "Muhammad Ali\u2019s star is on a wall because he didn\u2019t want to be stepped on. ",
+               "audio": "11958_1",
+               "truth": true,
+               "tweet": "Muhammad Ali\u2019s Walk of Fame star is on a wall because he didn\u2019t want to be stepped on."
+            },
+            {
+               "response": "For the Hollywood Station.",
+               "text": "The LAPD has a star on the Hollywood Walk of Fame.",
+               "audio": "11958_2",
+               "truth": true
+            },
+            {
+               "text": "Clark Gable\u2019s star on the Walk of Fame originally read \u201cClark Gobble.\u201d",
+               "audio": "11958_3",
+               "truth": false
+            },
+            {
+               "text": "The entire Hollywood Walk of Fame was duplicated in Mobile, Alabama. ",
+               "audio": "11958_4",
+               "truth": false
+            },
+            {
+               "text": "John Carpenter changed his star on the Hollywood Walk of Fame into a pentagram.",
+               "audio": "11958_5",
+               "truth": false
+            },
+            {
+               "text": "Keyboard Cat has a star on the Hollywood Walk of Fame.",
+               "audio": "11958_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 11914,
+         "text": "Blues Musicians",
+         "category": "Blues Musicians",
+         "audio": "11914_cat",
+         "subject": "History",
+         "statements": [
+            {
+               "response": "He was very influential in popularizing blues.",
+               "text": "Blind Lemon Jefferson",
+               "audio": "11914_0",
+               "truth": true
+            },
+            {
+               "response": "He played with a bottleneck slide.",
+               "text": "Blind Willie Johnson",
+               "audio": "11914_1",
+               "truth": true
+            },
+            {
+               "response": "He also played ragtime music.",
+               "text": "Blind Boy Fuller",
+               "audio": "11914_2",
+               "truth": true
+            },
+            {
+               "text": "Blind Snake O\u2019Harrigan",
+               "audio": "11914_3",
+               "truth": false
+            },
+            {
+               "text": "Blind Bill Cosby",
+               "audio": "11914_4",
+               "truth": false
+            },
+            {
+               "text": "Blind Spoons Sanderson",
+               "audio": "11914_5",
+               "truth": false
+            },
+            {
+               "text": "Blind Hanky Stanky",
+               "audio": "11914_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 11881,
+         "text": "Collaborations",
+         "category": "Collaborations",
+         "audio": "11881_cat",
+         "subject": "People",
+         "statements": [
+            {
+               "response": "<i>Ghost Brothers of Darkland County<\/i>",
+               "text": "Stephen King and John Mellencamp wrote a musical together. ",
+               "audio": "11881_0",
+               "truth": true
+            },
+            {
+               "response": "It was called \u201cDestino.\u201d",
+               "text": "Salvador Dali made an animated short with Walt Disney. ",
+               "audio": "11881_1",
+               "truth": true
+            },
+            {
+               "response": "A cover of a Mozart song.",
+               "text": "Jack White produced an Insane Clown Posse song.",
+               "audio": "11881_2",
+               "truth": true
+            },
+            {
+               "text": "Keith Olberman and Bill O\u2019Reilly wrote a poem together.",
+               "audio": "11881_3",
+               "truth": false
+            },
+            {
+               "text": "Deion Sanders and R.L. Stine wrote and produced a TV movie.",
+               "audio": "11881_4",
+               "truth": false
+            },
+            {
+               "text": "Gallagher once did a Vagina Monologue with Gloria Allred.",
+               "audio": "11881_5",
+               "truth": false
+            },
+            {
+               "text": "Mark McGrath fought Sugar Ray Leonard for charity.",
+               "audio": "11881_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 11854,
+         "text": "Technical Terms",
+         "category": "Technical Terms",
+         "audio": "11854_cat",
+         "subject": "Words",
+         "statements": [
+            {
+               "response": "Zarfs used to be ornamental decorations for handless cups.",
+               "text": "The cardboard sleeve around cups of coffee is a \u201czarf.\u201d",
+               "audio": "11854_0",
+               "truth": true
+            },
+            {
+               "response": "From the latin word for needle.",
+               "text": "The plastic tips on shoelaces are called \u201caglets.\u201d ",
+               "audio": "11854_1",
+               "truth": true
+            },
+            {
+               "response": "Stop staring at these tittles.",
+               "text": "The dot over an i is called a \u201ctittle.\u201d",
+               "audio": "11854_2",
+               "truth": true
+            },
+            {
+               "text": "The clip on a Sharpie is called a \u201cgrap.\u201d",
+               "audio": "11854_3",
+               "truth": false
+            },
+            {
+               "text": "The floating ball in a toilet is called a \u201ccrap melon.\u201d",
+               "audio": "11854_4",
+               "truth": false
+            },
+            {
+               "text": "The plastic around a dry-cleaned shirt is called a \u201ccondomly.\u201d",
+               "audio": "11854_5",
+               "truth": false
+            },
+            {
+               "text": "The plastic holder in a pizza box is called a \u201cjamble.\u201d",
+               "audio": "11854_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 11842,
+         "text": "Pop Tart Flavors",
+         "category": "Pop Tart Flavors",
+         "audio": "11842_cat",
+         "subject": "Food",
+         "statements": [
+            {
+               "response": "Perfect in the summer.",
+               "text": "Watermelon",
+               "audio": "11842_0",
+               "truth": true
+            },
+            {
+               "response": "Goes great with syrup.",
+               "text": "French Toast",
+               "audio": "11842_1",
+               "truth": true
+            },
+            {
+               "response": "It\u2019s breakfast and dessert all in one!",
+               "text": "Frosted Ice Cream Sandwich",
+               "audio": "11842_2",
+               "truth": true
+            },
+            {
+               "text": "Vanilla Dippin\u2019 Dots",
+               "audio": "11842_3",
+               "truth": false
+            },
+            {
+               "text": "Biscuits and Gravy",
+               "audio": "11842_4",
+               "truth": false
+            },
+            {
+               "text": "Cotton Candy",
+               "audio": "11842_5",
+               "truth": false
+            },
+            {
+               "text": "Wedding Cake",
+               "audio": "11842_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 11786,
+         "text": "Grammy Winning Songs",
+         "category": "Grammy Winning Songs",
+         "audio": "11786_cat",
+         "subject": "Real",
+         "statements": [
+            {
+               "response": "Best Rap Solo Performance, 1992",
+               "text": "Sir Mix-A-Lot\u2019s \u201cBaby Got Back\u201d",
+               "audio": "11786_0",
+               "truth": true
+            },
+            {
+               "response": "Best Dance Recording, 2000",
+               "text": "Baha Men\u2019s \u201cWho Let the Dogs Out\u201d",
+               "audio": "11786_1",
+               "truth": true
+            },
+            {
+               "response": "It won two Grammys in 1985.",
+               "text": "<i>Miami Vice<\/i> Theme",
+               "audio": "11786_2",
+               "truth": true
+            },
+            {
+               "text": "Rebecca Black\u2019s \u201cFriday\u201d",
+               "audio": "11786_3",
+               "truth": false
+            },
+            {
+               "text": "Hanson\u2019s \u201cMMMBop\u201d",
+               "audio": "11786_4",
+               "truth": false
+            },
+            {
+               "text": "Chumbawamba\u2019s \u201cTubthumping\u201d ",
+               "audio": "11786_5",
+               "truth": false
+            },
+            {
+               "text": "Dogs barking \u201cJingle Bells\u201d ",
+               "audio": "11786_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 11638,
+         "text": "Real Sitcoms",
+         "category": "Real Sitcoms",
+         "audio": "11638_cat",
+         "subject": "Pop Culture",
+         "statements": [
+            {
+               "response": "It was cancelled after one episode.",
+               "text": "<i>Heil Honey, I\u2019m Home!<\/i> was about Hitler and Eva Braun and their Jewish neighbors.",
+               "audio": "11638_0",
+               "truth": true
+            },
+            {
+               "response": "They all lived on a farm together.",
+               "text": "<i>Woops!<\/i> was about the 6 last people on Earth after a nuclear war.",
+               "audio": "11638_1",
+               "truth": true
+            },
+            {
+               "response": "Detective Holmes was given an android partner because his human ones kept dying.",
+               "text": "<i>Holmes & Yo-Yo<\/i> was about a detective and his android partner.",
+               "audio": "11638_2",
+               "truth": true
+            },
+            {
+               "response": "John Lithgow played Pitty McPatpat.",
+               "text": "<i>Homeboys in Outer Space<\/i> was about astronauts in a \u201cSpace Hoopty.\u201d",
+               "audio": "11638_3",
+               "truth": true
+            },
+            {
+               "text": "<i>Who\u2019s the Bassist?<\/i> was a spinoff of <i>Who\u2019s the Boss?<\/i> where Tony joins a band.",
+               "audio": "11638_4",
+               "truth": false
+            },
+            {
+               "text": "<i>What Beer Is It!?<\/i> was about a time traveling alcoholic.",
+               "audio": "11638_5",
+               "truth": false
+            },
+            {
+               "text": "<i>Forefathers<\/i> was about the founding fathers of America raising an orphaned baby.",
+               "audio": "11638_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 12251,
+         "text": "British Children\u2019s TV Shows",
+         "category": "British Children\u2019s TV Shows",
+         "audio": "12251_cat",
+         "subject": "Pop Culture",
+         "statements": [
+            {
+               "response": "A shortlived but beloved \u201870s show about a cat.",
+               "text": "<i>Bagpuss<\/i>",
+               "audio": "12251_0",
+               "truth": true
+            },
+            {
+               "response": "About a fleet of tugboats.",
+               "text": "<i>TUGS<\/i>",
+               "audio": "12251_1",
+               "truth": true
+            },
+            {
+               "response": "Grandpa has a magic shrinking cap.",
+               "text": "<i>Grandpa in My Pocket<\/i>",
+               "audio": "12251_2",
+               "truth": true
+            },
+            {
+               "text": "<i>Old Fussy Britches<\/i>",
+               "audio": "12251_3",
+               "truth": false
+            },
+            {
+               "text": "<i>His Balls<\/i>",
+               "audio": "12251_4",
+               "truth": false
+            },
+            {
+               "text": "<i>The Royal Wee<\/i>",
+               "audio": "12251_5",
+               "truth": false
+            },
+            {
+               "text": "<i>Musty Fanny<\/i>",
+               "audio": "12251_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 12248,
+         "text": "<i>Scooby Doo<\/i> Guest Stars",
+         "category": "<i>Scooby Doo<\/i> Guest Stars",
+         "audio": "12248_cat",
+         "subject": "Pop Culture",
+         "statements": [
+            {
+               "response": "He was dating Shaggy\u2019s ex-girlfriend.",
+               "text": "\u2019N Sync\u2019s J.C. Chasez",
+               "audio": "12248_0",
+               "truth": true
+            },
+            {
+               "response": "On a 2003 episode of <i>What\u2019s New, Scooby-Doo?<\/i>",
+               "text": "KISS ",
+               "audio": "12248_1",
+               "truth": true
+            },
+            {
+               "response": "Duh.",
+               "text": "The Harlem Globetrotters",
+               "audio": "12248_2",
+               "truth": true
+            },
+            {
+               "text": "Bill Clinton",
+               "audio": "12248_3",
+               "truth": false
+            },
+            {
+               "text": "Mister Rogers",
+               "audio": "12248_4",
+               "truth": false
+            },
+            {
+               "text": "Roseanne Barr",
+               "audio": "12248_5",
+               "truth": false
+            },
+            {
+               "text": "The Dukes of Hazard",
+               "audio": "12248_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 12240,
+         "text": "More",
+         "category": "More",
+         "audio": "12240_cat",
+         "subject": "Math",
+         "statements": [
+            {
+               "response": "The U.N. estimates six billion people have mobile phones and 4.5 billion have toilets.",
+               "text": "More people have cell phones than toilets. ",
+               "audio": "12240_0",
+               "truth": true
+            },
+            {
+               "response": "There are also more sheep than people.",
+               "text": "There are more cows than people in New Zealand. ",
+               "audio": "12240_1",
+               "truth": true
+            },
+            {
+               "response": "There are less than 2,000 tigers living in India.",
+               "text": "There are more tigers in Texas than in the wilds of India. ",
+               "audio": "12240_2",
+               "truth": true
+            },
+            {
+               "response": "A few more, anyway.",
+               "text": "There are more lies in this game than truths.",
+               "audio": "12240_3",
+               "truth": true
+            },
+            {
+               "text": "There are more Mondays each year than Fridays.",
+               "audio": "12240_4",
+               "truth": false
+            },
+            {
+               "text": "There are more people currently alive than all the people who have ever died.",
+               "audio": "12240_5",
+               "truth": false
+            },
+            {
+               "text": "There are more penguins at the North Pole than the South Pole.",
+               "audio": "12240_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 12069,
+         "text": "The Emmys",
+         "category": "The Emmys",
+         "audio": "12069_cat",
+         "subject": "Pop Culture",
+         "statements": [
+            {
+               "response": "For \u201cSports Broadcasting.\u201d",
+               "text": "ESPN\u2019s yellow \u201c1st-and-Ten\u201d line won an Emmy in 1998.",
+               "audio": "12069_0",
+               "truth": true
+            },
+            {
+               "response": "For \u201cPeripheral Development and Technological Impact of Video Game Controllers.\u201d",
+               "text": "The PS3 DUALSHOCK controller won an Emmy in 2007.",
+               "audio": "12069_1",
+               "truth": true
+            },
+            {
+               "response": "For \u201cEngineering.\u201d",
+               "text": "The TV test pattern color bars won an Emmy in 2001.",
+               "audio": "12069_2",
+               "truth": true
+            },
+            {
+               "text": "The Parental Guide notification won an Emmy in 2004.",
+               "audio": "12069_3",
+               "truth": false
+            },
+            {
+               "text": "MSNBC\u2019s Morning Joe coffee stain logo won an Emmy in 2009.",
+               "audio": "12069_4",
+               "truth": false
+            },
+            {
+               "text": "Rabbit ear antennas won an Emmy in 1955.",
+               "audio": "12069_5",
+               "truth": false
+            },
+            {
+               "text": "The Fox NFL robots won an Emmy in 2003.",
+               "audio": "12069_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 12052,
+         "text": "<i>The Bradys<\/i> (1990)",
+         "category": "<i>The Bradys<\/i> (1990)",
+         "audio": "12052_cat",
+         "subject": "Pop Culture",
+         "statements": [
+            {
+               "response": "The dramedy had a laugh track.",
+               "text": "Bobby is paralyzed in a race car accident.",
+               "audio": "12052_0",
+               "truth": true
+            },
+            {
+               "response": "She has a public meltdown.",
+               "text": "Marcia battles with alcoholism. ",
+               "audio": "12052_1",
+               "truth": true
+            },
+            {
+               "response": "He loses the race.",
+               "text": "Mike is blackmailed in a city council election.",
+               "audio": "12052_2",
+               "truth": true
+            },
+            {
+               "text": "Peter accidentally gets high on ecstasy.",
+               "audio": "12052_3",
+               "truth": false
+            },
+            {
+               "text": "Carol gets trapped in a mine for three weeks.",
+               "audio": "12052_4",
+               "truth": false
+            },
+            {
+               "text": "Cindy slaps an old lady to the ground.",
+               "audio": "12052_5",
+               "truth": false
+            },
+            {
+               "text": "Jan is a victim of an arsonist.",
+               "audio": "12052_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 11977,
+         "text": "Hugo Chávez",
+         "category": "Hugo Chávez",
+         "audio": "11977_cat",
+         "subject": "People",
+         "statements": [
+            {
+               "response": "For unspecified \u201chealth concerns.\u201d",
+               "text": "Hugo Chávez banned Coke Zero from Venezuela. ",
+               "audio": "11977_0",
+               "truth": true
+            },
+            {
+               "response": "He called it a \u201cgame of terror\u201d created by the U.S.",
+               "text": "Hugo Chávez called to have Halloween banned in 2005. ",
+               "audio": "11977_1",
+               "truth": true
+            },
+            {
+               "response": "To help conserve water.",
+               "text": "Hugo Chávez asked Venezuelans to stop singing in the shower.",
+               "audio": "11977_2",
+               "truth": true
+            },
+            {
+               "text": "Hugo Chávez tried to outlaw bacon in Venezuela.",
+               "audio": "11977_3",
+               "truth": false
+            },
+            {
+               "text": "Hugo Chávez outlawed sudoku puzzles in 2008.",
+               "audio": "11977_4",
+               "truth": false
+            },
+            {
+               "text": "Hugo Chávez urged citizens to not participate in choreographed flash mobs.",
+               "audio": "11977_5",
+               "truth": false
+            },
+            {
+               "text": "Hugo Chávez outlawed the Martin Scorsese film <i>Hugo<\/i>.",
+               "audio": "11977_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 11617,
+         "text": "International Space",
+         "category": "International Space",
+         "audio": "11617_cat",
+         "subject": "Animals",
+         "statements": [
+            {
+               "response": "The rocket also carried a mouse and some worms.",
+               "text": "Iran launched two turtles into space in 2010.",
+               "audio": "11617_0",
+               "truth": true
+            },
+            {
+               "response": "It\u2019s been launching satellites since 2003.",
+               "text": "Nigeria has a space program.",
+               "audio": "11617_1",
+               "truth": true
+            },
+            {
+               "response": "There have been British-born astronauts, but the UK has never funded manned space flight.",
+               "text": "England has never sent a human into space.",
+               "audio": "11617_2",
+               "truth": true
+            },
+            {
+               "text": "Australia has the world\u2019s oldest space program.",
+               "audio": "11617_3",
+               "truth": false
+            },
+            {
+               "text": "Canada\u2019s space program spent $95 dollars total in 2012.",
+               "audio": "11617_4",
+               "truth": false
+            },
+            {
+               "text": "Bjork is a scientific advisor to the Icelandic space program.",
+               "audio": "11617_5",
+               "truth": false
+            },
+            {
+               "text": "Portugal claimed ownership of Venus in 1699.",
+               "audio": "11617_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 11535,
+         "text": "Presidential Firsts",
+         "category": "Presidential Firsts",
+         "audio": "11535_cat",
+         "subject": "USA",
+         "statements": [
+            {
+               "response": "Prior to this, everyone had been born in the British colonies.",
+               "text": "Martin Van Buren was the first President born in the U.S.",
+               "audio": "11535_0",
+               "truth": true
+            },
+            {
+               "response": "Thus the \u201cwimp\u201d factor.",
+               "text": "Jimmy Carter was the first U.S. President born in a hospital.",
+               "audio": "11535_1",
+               "truth": true
+            },
+            {
+               "text": "FDR was the first U.S. President to have a driver\u2019s license.",
+               "audio": "11535_2",
+               "truth": false
+            },
+            {
+               "text": "Abe Lincoln was the first U.S. President to give a radio speech.",
+               "audio": "11535_3",
+               "truth": false
+            },
+            {
+               "text": "Chester A. Arthur was the first U.S. President to father a son.",
+               "audio": "11535_4",
+               "truth": false
+            },
+            {
+               "text": "Richard Nixon was the first U.S. President to lie.",
+               "audio": "11535_5",
+               "truth": false
+            },
+            {
+               "text": "Andrew Jackson was the first U.S. President to die of natural causes.",
+               "audio": "11535_6",
+               "truth": false
+            }
+         ]
+      },
+      {
+         "id": 10990,
+         "text": "Baseball Superstitions",
+         "category": "Baseball Superstitions",
+         "audio": "10990_cat",
+         "subject": "Sports",
+         "statements": [
+            {
+               "response": "Luckily, Gatorade was only a few decades away.",
+               "text": "The 1894 Baltimore Orioles chugged turkey gravy before each game.",
+               "audio": "10990_0",
+               "truth": true
+            },
+            {
+               "response": "He would share it with his teammates too.",
+               "text": "Yankees first baseman Jason Giambi broke out of slumps by wearing a golden thong.",
+               "audio": "10990_1",
+               "truth": true
+            },
+            {
+               "response": "He believed it made his skin tougher.",
+               "text": "Expos outfielder Moises Alou frequently urinated on his own hands.",
+               "audio": "10990_2",
+               "truth": true
+            },
+            {
+               "text": "The 1992 Detroit Tigers did trust falls before every game.",
+               "audio": "10990_3",
+               "truth": false
+            },
+            {
+               "text": "Rangers pitcher Nolan Ryan rubbed the head of an infant before each game.",
+               "audio": "10990_4",
+               "truth": false
+            },
+            {
+               "text": "Mariners pitcher Randy Johnson played chess in the bullpen every game he sat out.",
+               "audio": "10990_5",
+               "truth": false
+            },
+            {
+               "text": "Dodgers manager Tommy Lasorda opened spring training by running the bases naked.",
+               "audio": "10990_6",
+               "truth": false
+            }
+         ]
+      }
+   ]
+}

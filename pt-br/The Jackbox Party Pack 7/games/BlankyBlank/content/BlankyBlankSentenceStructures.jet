@@ -1,0 +1,57 @@
+{
+ "content": [
+  {
+   "category": "thing",
+   "id": "70571",
+   "structures": [
+    "It's <article-1> <thing-adjective-simple> <thing-noun-simple>.",
+    "It <thing-verb-simple> <article-2> <thing-noun-simple>.",
+    "Talk about <thing-adjective-complex>!",
+    "It <thing-verb-simple> <article-2> <thing-noun-complex>.",
+    "Oh, <thing-noun-complex>!",
+    "Quite simply, it's <article-1> <thing-adjective-complex> <thing-noun-complex>."
+   ]
+  },
+  {
+   "category": "place",
+   "id": "70714",
+   "structures": [
+    "It's <article-1> <place-adjective-simple> <place-noun-simple-s1>.",
+    "It's where you <place-verb-simple> <article-2> <place-noun-simple-s2>.",
+    "So much <place-noun-complex>!",
+    "This place has <article-1> <place-adjective-complex> <place-noun-complex>.",
+    "It's where you <place-verb-simple> <article-2> <place-noun-complex>."
+   ]
+  },
+  {
+   "category": "person",
+   "id": "70743",
+   "structures": [
+    "They're <article-1> <person-adjective-simple> <person-noun-simple>.",
+    "They <person-verb-simple> <article-2> <person-noun-simple-s2>.",
+    "<person-pronoun-1> so <person-adjective-complex>!",
+    "Known for the <person-adjective-complex> <person-noun-complex>.",
+    "And they <person-verb-simple> <article-2> <person-noun-complex>."
+   ]
+  },
+  {
+   "category": "story",
+   "id": "70758",
+   "structures": [
+    "It's a story about <article-1> <story-adjective-simple> <story-noun-simple>.",
+    "And a <story-adjective-simple> <story-noun-simple-s2>.",
+    "Whoa! A <story-adjective-complex> <story-noun-complex>.",
+    "The hero <story-verb-simple> <article-2> <story-noun-complex>.",
+    "Eventually, there's a <story-adjective-complex> <story-noun-complex>.",
+    "Then, <article-2> <story-noun-complex> <story-verb-ending>."
+   ]
+  },
+  {
+   "category": "response",
+   "id": "71167",
+   "structures": [
+    "<response-sentence> <PLAYERGUESS>"
+   ]
+  }
+ ]
+}

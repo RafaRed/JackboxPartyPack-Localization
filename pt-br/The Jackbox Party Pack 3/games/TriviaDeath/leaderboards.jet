@@ -1,0 +1,56 @@
+{
+    "views": [
+        {
+            "id": "session",
+            "name": "Session Stats",
+            "description": "Stats from the current play session (These stats will reset when you quit the game.)"
+        },
+        {
+            "id": "twitch",
+            "name": "Twitch Stats",
+            "description": "Stats from Twitch-locked games (These stats are saved even after you quit the game.)"
+        }
+    ],
+    "columns": [
+        {
+            "id": "playerName",
+            "name": "Player Name",
+            "titleNumLines": 2
+        }, 
+        {
+            "id": "topScore",
+            "name": "High Score",
+            "titleNumLines": 2
+        }, 
+        {
+            "id": "averageScore",
+            "name": "Average Score",
+            "titleNumLines": 2
+        }, 
+        {
+            "id": "gamesPlayed",
+            "name": "Times Kidnapped",
+            "titleNumLines": 2
+        }, 
+        {
+            "id": "gamesWon",
+            "name": "Times Escaped",
+            "titleNumLines": 2
+        },
+        {
+            "id": "killingFloorsSurvived",
+            "name": "Killing Floors Survived",
+            "titleNumLines": 2
+        },
+        {
+            "id": "questionsCorrect",
+            "name": "Questions Correct",
+            "titleNumLines": 2
+        },
+        {
+            "id": "charisma",
+            "name": "Charisma",
+            "titleNumLines": 2
+        }
+    ]
+}

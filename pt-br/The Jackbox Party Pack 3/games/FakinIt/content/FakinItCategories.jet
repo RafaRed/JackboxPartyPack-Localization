@@ -1,0 +1,35 @@
+{
+    "episodeid": 0,
+    "content": [
+        {
+            "id": 0,
+            "type": "Hands",
+            "name": "Hands of Truth",
+            "duration": 3
+        },
+        {
+            "id": 1,
+            "type": "Pointing",
+            "name": "You Gotta Point",
+            "duration": 3
+        },
+        {
+            "id": 2,
+            "type": "Faces",
+            "name": "Face Value",
+            "duration": 3
+        },
+        {
+            "id": 3,
+            "type": "Counting",
+            "name": "Number Pressure",
+            "duration": 3
+        },
+        {
+            "id": 4,
+            "type": "Input",
+            "name": "Text You Up",
+            "duration": 90
+        }
+    ]
+}

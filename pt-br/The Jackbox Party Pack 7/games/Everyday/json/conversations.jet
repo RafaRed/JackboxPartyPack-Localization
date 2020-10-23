@@ -1,0 +1,620 @@
+{
+    "payload": [
+        {
+            "id": "AUDIENCE_SCOLD",
+            "category": "AUDIENCE",
+            "icon": "CAT",
+            "name": "Scold the cat",
+            "sourceFile": "audience_scold_cat.conv"
+        },
+        {
+            "id": "ACTION_FIGURES",
+            "category": "ACTIONFIGURES",
+            "icon": "HUMAN_2",
+            "name": "Pretend your action figures are talking",
+            "sourceFile": "generic/Action_Figures.conv"
+        },
+        {
+            "id": "BAND_GEEK",
+            "category": "NEIGHBOR",
+            "icon": "HUMAN_3",
+            "name": "Marching band donations",
+            "sourceFile": "generic/Band_Geek.conv"
+        },
+        {
+            "id": "BIRDWATCHER",
+            "category": "NEIGHBOR",
+            "icon": "HUMAN_2",
+            "name": "Let Birdwatcher In Yard",
+            "sourceFile": "generic/Birdwatcher.conv"
+        },
+        {
+            "id": "BIRTHDAY_INVITE",
+            "category": "BIRTHDAYINVITE",
+            "icon": "HUMAN_3",
+            "name": "Get yourself invited to classmate's birthday",
+            "sourceFile": "generic/Birthday_Invite.conv"
+        },
+        {
+            "id": "CABLECO",
+            "category": "MAKECALL",
+            "icon": "HUMAN_4",
+            "name": "Call cable company",
+            "sourceFile": "generic/Cable_Co.conv"
+        },
+        {
+            "id": "COMPLAIN_ABOUT_KIDS",
+            "category": "RAMBLING",
+            "icon": "HUMAN_1",
+            "name": "Complain about kids these days",
+            "sourceFile": "generic/Complain_About_Kids.conv"
+        },
+        {
+            "id": "DENTIST",
+            "category": "MAKECALL",
+            "icon": "HUMAN_2",
+            "name": "Make dentist appointment",
+            "sourceFile": "generic/Dentist_Appt.conv"
+        },
+        {
+            "id": "FRIDGE_REPAIR",
+            "category": "MAKECALL",
+            "icon": "HUMAN_4",
+            "name": "Call Repair Shop About Fridge",
+            "sourceFile": "generic/Fix_Fridge.conv"
+        },
+        {
+            "id": "FRIDGE_PRANK",
+            "category": "MAKECALL",
+            "icon": "HUMAN_3",
+            "name": "Prank call local business",
+            "sourceFile": "generic/Fridge_Prank.conv"
+        },
+        {
+            "id": "FRISBEE",
+            "category": "NEIGHBOR",
+            "icon": "HUMAN_4",
+            "name": "Kid wants frisbee back",
+            "sourceFile": "generic/Frisbee.conv"
+        },
+        {
+            "id": "NEIGHBOR_GOSSIP",
+            "category": "NEIGHBOR",
+            "icon": "HUMAN_2",
+            "name": "Gossip with neighbor",
+            "sourceFile": "generic/Gossip_Neighbor.conv"
+        },
+        {
+            "id": "ICE_CREAM_VAN",
+            "category": "STREET",
+            "icon": "HUMAN_2",
+            "name": "Ice Cream Van! Ice Cream VAN!!!",
+            "sourceFile": "generic/Ice_Cream_Van.conv"
+        },
+        {
+            "id": "JOGGING",
+            "category": "NEIGHBOR",
+            "icon": "HUMAN_4",
+            "name": "Turn down the jogging club again",
+            "sourceFile": "generic/Jogging.conv"
+        },
+        {
+            "id": "LIZARD_INSURANCE",
+            "category": "ANSWERPHONE",
+            "icon": "HUMAN_1",
+            "name": "Telemarketer is calling",
+            "sourceFile": "generic/lizard_insurance.conv"
+        },
+        {
+            "id": "SUBSCRIBE_MAGS",
+            "category": "NEIGHBOR",
+            "icon": "HUMAN_4",
+            "name": "Selling Magazine Subscriptions",
+            "sourceFile": "generic/Magazines.conv"
+        },
+        {
+            "id": "MAGICIAN_CHAT",
+            "category": "NEIGHBOR",
+            "icon": "HUMAN_2",
+            "name": "Your neighbor wants to show you a trick",
+            "sourceFile": "generic/Magician_Chat.conv"
+        },
+        {
+            "id": "MOTIVATIONAL_MANTRA",
+            "category": "MANTRA",
+            "icon": "HUMAN_1",
+            "name": "Recite a motivational mantra to yourself",
+            "sourceFile": "generic/Motivational_Mantra.conv"
+        },
+        {
+            "id": "LOST_MAIL",
+            "category": "NEIGHBOR",
+            "icon": "HUMAN_1",
+            "name": "Neighbor Has Your Mail",
+            "sourceFile": "generic/Neighbor_Accident_Mail.conv"
+        },
+        {
+            "id": "MISSING_PAPER",
+            "category": "NEIGHBOR",
+            "icon": "HUMAN_2",
+            "name": "Neighbor's Newspaper",
+            "sourceFile": "generic/Neighbor_Steal_Mail.conv"
+        },
+        {
+            "id": "NEMESIS_CHAT",
+            "category": "NEIGHBOR",
+            "icon": "HUMAN_2",
+            "name": "Your nemesis has found you",
+            "sourceFile": "generic/Nemesis.conv"
+        },
+        {
+            "id": "NOISE",
+            "category": "NEIGHBOR",
+            "icon": "HUMAN_4",
+            "name": "Neighbor wants you to turn down music",
+            "sourceFile": "generic/Noise.conv"
+        },
+        {
+            "id": "COMPLIMENT_PETUNIAS",
+            "category": "PETUNIAS",
+            "icon": "HUMAN_1",
+            "name": "Compliment neighbor's petunias",
+            "sourceFile": "generic/Petunians.conv"
+        },
+        {
+            "id": "RADIO_CONTEST",
+            "category": "ANSWERPHONE",
+            "icon": "HUMAN_3",
+            "name": "Call in to radio show",
+            "sourceFile": "generic/Radio_Contest.conv"
+        },
+        {
+            "id": "SODA_POLL",
+            "category": "ANSWERPHONE",
+            "icon": "HUMAN_1",
+            "name": "Answer phone poll about your soda preferences",
+            "sourceFile": "generic/Soda_Poll.conv"
+        },
+        {
+            "id": "SUGAR",
+            "category": "NEIGHBOR",
+            "icon": "HUMAN_2",
+            "name": "Neighbor wants sugar",
+            "sourceFile": "generic/Sugar.conv"
+        },
+        {
+            "id": "TALK_SPORTS",
+            "category": "NEIGHBOR",
+            "icon": "HUMAN_1",
+            "name": "Talk sports with your neighbor",
+            "sourceFile": "generic/Talk_Sports.conv"
+        },
+        {
+            "id": "TEACHER_PRANK_CALL",
+            "category": "PRANKCALL",
+            "icon": "HUMAN_1",
+            "name": "Prank call your teacher",
+            "sourceFile": "generic/Teacher_Prank_Call.conv"
+        },
+        {
+            "id": "TEEN_GOSSIP",
+            "category": "TEENGOSSIP",
+            "icon": "HUMAN_2",
+            "name": "Gossip with Chatty Carl",
+            "sourceFile": "generic/teengossip.conv"
+        },
+        {
+            "id": "THREE_DOGS",
+            "category": "NEIGHBOR",
+            "icon": "HUMAN_2",
+            "name": "Your neighbor is not three dogs",
+            "sourceFile": "generic/Three_Dogs.conv"
+        },
+        {
+            "id": "TRIM_BRANCHES",
+            "category": "NEIGHBOR",
+            "icon": "HUMAN_3",
+            "name": "Neighbor wants you to trim your branches",
+            "sourceFile": "generic/Trim_Branches.conv"
+        },
+        {
+            "id": "PIZZA_ORDER",
+            "category": "MAKECALL",
+            "icon": "HUMAN_3",
+            "name": "Order a Pizza",
+            "sourceFile": "generic/Vegan_Pizza_Order.conv"
+        },
+        {
+            "id": "PLACEHOLDER",
+            "category": "PLACEHOLDER",
+            "icon": "DEVIL_2",
+            "name": "Placeholder conversation - remove all instances before ship",
+            "sourceFile": "placeholder.conv"
+        },
+        {
+            "id": "BAND_AGENT",
+            "category": "STORY",
+            "icon": "HUMAN_3",
+            "name": "Sign with agent",
+            "sourceFile": "story/Band_agent.conv"
+        },
+        {
+            "id": "BAND_BREAKUP",
+            "category": "STORY",
+            "icon": "HUMAN_2",
+            "name": "Band breakup",
+            "sourceFile": "story/Band_breakup.conv"
+        },
+        {
+            "id": "BARBECUE_INVITE1",
+            "category": "STORY",
+            "icon": "HUMAN_2",
+            "name": "Barbecue invite 1",
+            "sourceFile": "story/Barbecue_invite1.conv"
+        },
+        {
+            "id": "BARBECUE_INVITE2",
+            "category": "STORY",
+            "icon": "HUMAN_3",
+            "name": "Barbecue invite 2",
+            "sourceFile": "story/Barbecue_invite2.conv"
+        },
+        {
+            "id": "BARBECUE_INVITE3",
+            "category": "STORY",
+            "icon": "HUMAN_2",
+            "name": "Barbecue invite 3",
+            "sourceFile": "story/Barbecue_invite3.conv"
+        },
+        {
+            "id": "BEACHDAY_AC",
+            "category": "STORY",
+            "icon": "HUMAN_3",
+            "name": "Beach AC",
+            "sourceFile": "story/BeachDay_callAC.conv"
+        },
+        {
+            "id": "BEACHDAY_LIFEGUARD",
+            "category": "STORY",
+            "icon": "HUMAN_4",
+            "name": "Beach lifeguard",
+            "sourceFile": "story/BeachDay_lifeguard.conv"
+        },
+        {
+            "id": "BIGDANCE_GETDATE",
+            "category": "STORY",
+            "icon": "HUMAN_4",
+            "name": "Get date",
+            "sourceFile": "story/BigDance_getdate.conv"
+        },
+        {
+            "id": "BOSS_DINNER",
+            "category": "STORY",
+            "icon": "HUMAN_1",
+            "name": "Dinner chat with boss",
+            "sourceFile": "story/BossDinner_dinner.conv"
+        },
+        {
+            "id": "BOSS_FLATTER",
+            "category": "STORY",
+            "icon": "HUMAN_1",
+            "name": "Flatter boss",
+            "sourceFile": "story/BossDinner_flatter.conv"
+        },
+        {
+            "id": "BOSS_GREET",
+            "category": "STORY",
+            "icon": "HUMAN_1",
+            "name": "Greet boss",
+            "sourceFile": "story/BossDinner_Greet.conv"
+        },
+        {
+            "id": "BOSS_INVITE",
+            "category": "STORY",
+            "icon": "HUMAN_1",
+            "name": "Invite the ol' boss",
+            "sourceFile": "story/BossDinner_invite.conv"
+        },
+        {
+            "id": "COUSINVISIT_GREET",
+            "category": "STORY",
+            "icon": "DEVIL_2",
+            "name": "Greet cousin",
+            "sourceFile": "story/CousinVisit_greet.conv"
+        },
+        {
+            "id": "DANGEROUSTREND_JOIN",
+            "category": "STORY",
+            "icon": "HUMAN_3",
+            "name": "Gronk group",
+            "sourceFile": "story/DangerousTrend_joingroup.conv"
+        },
+        {
+            "id": "ENDOFTHEWORLD_NASA",
+            "category": "STORY",
+            "icon": "HUMAN_3",
+            "name": "End of world NASA",
+            "sourceFile": "story/EndOfTheWorld_NASA.conv"
+        },
+        {
+            "id": "ENDOFTHEWORLD_PARENT",
+            "category": "STORY",
+            "icon": "HUMAN_1",
+            "name": "End of world parent",
+            "sourceFile": "story/EndOfTheWorld_parent.conv"
+        },
+        {
+            "id": "ENDOFTHEWORLD_TEEN",
+            "category": "STORY",
+            "icon": "HUMAN_2",
+            "name": "End of world teen",
+            "sourceFile": "story/EndOfTheWorld_teen.conv"
+        },
+        {
+            "id": "EXCHANGESTUDENT_PARENT",
+            "category": "STORY",
+            "icon": "DEVIL_4",
+            "name": "Call exchange student's parents",
+            "sourceFile": "story/ExchangeStudent_parent.conv"
+        },
+        {
+            "id": "FAME_BEG",
+            "category": "STORY",
+            "icon": "HUMAN_4",
+            "name": "Ask for second audition",
+            "sourceFile": "story/Fame_beg.conv"
+        },
+        {
+            "id": "FAME_BILLY",
+            "category": "STORY",
+            "icon": "HUMAN_2",
+            "name": "Meet Billy",
+            "sourceFile": "story/Fame_meetbilly.conv"
+        },
+        {
+            "id": "FAME_REHEARSE",
+            "category": "STORY",
+            "icon": "HUMAN_4",
+            "name": "Producer audition",
+            "sourceFile": "story/Fame_rehearse.conv"
+        },
+        {
+            "id": "FIRSTDATE_AKWARD",
+            "category": "STORY",
+            "icon": "HUMAN_2",
+            "name": "Embarrassing story",
+            "sourceFile": "story/FirstDate_awkward.conv"
+        },
+        {
+            "id": "FIRSTDATE_GREET",
+            "category": "STORY",
+            "icon": "HUMAN_2",
+            "name": "Greet Riley",
+            "sourceFile": "story/FirstDate_greet.conv"
+        },
+        {
+            "id": "FIRSTDATE_INVITE",
+            "category": "STORY",
+            "icon": "HUMAN_2",
+            "name": "Invite Riley",
+            "sourceFile": "story/FirstDate_invite.conv"
+        },
+        {
+            "id": "GRANDMAS_FRIEND",
+            "category": "STORY",
+            "icon": "DEVIL_4",
+            "name": "Call grandma's friend",
+            "sourceFile": "story/GrandmasBirthday_friend.conv"
+        },
+        {
+            "id": "GRANDMAS_SMALLTALK",
+            "category": "STORY",
+            "icon": "DEVIL_1",
+            "name": "Call grandma's friend",
+            "sourceFile": "story/GrandmasBirthday_smalltalk.conv"
+        },
+        {
+            "id": "HOUSEPEST_BAT",
+            "category": "STORY",
+            "icon": "HUMAN_3",
+            "name": "House pest exterminator",
+            "sourceFile": "story/HousePest_bat.conv"
+        },
+        {
+            "id": "LAWN_TOPIARY",
+            "category": "STORY",
+            "icon": "HUMAN_4",
+            "name": "Lawn topiary",
+            "sourceFile": "story/Lawn_topiary.conv"
+        },
+        {
+            "id": "MONEY_FIRED",
+            "category": "STORY",
+            "icon": "HUMAN_2",
+            "name": "Fired",
+            "sourceFile": "story/Money_fired.conv"
+        },
+        {
+            "id": "MONEY_RAISE",
+            "category": "STORY",
+            "icon": "HUMAN_1",
+            "name": "Raise",
+            "sourceFile": "story/Money_raise.conv"
+        },
+        {
+            "id": "MYSTERY_WITNESS",
+            "category": "STORY",
+            "icon": "HUMAN_2",
+            "name": "Ghost witness",
+            "sourceFile": "story/Mystery_witness.conv"
+        },
+        {
+            "id": "NEWCAR_BRAG",
+            "category": "STORY",
+            "icon": "HUMAN_3",
+            "name": "Car brag",
+            "sourceFile": "story/NewCar_brag.conv"
+        },
+        {
+            "id": "NEWSCHOOL_PTA",
+            "category": "STORY",
+            "icon": "HUMAN_2",
+            "name": "PTA chat",
+            "sourceFile": "story/NewSchool_PTA.conv"
+        },
+        {
+            "id": "POLITICS_ICECREAM",
+            "category": "STORY",
+            "icon": "HUMAN_2",
+            "name": "Ice cream sale",
+            "sourceFile": "story/Politics_icecream.conv"
+        },
+        {
+            "id": "POLITICS_PETITION",
+            "category": "STORY",
+            "icon": "HUMAN_4",
+            "name": "Petition",
+            "sourceFile": "story/Politics_petition.conv"
+        },
+        {
+            "id": "POOL_BILL",
+            "category": "STORY",
+            "icon": "HUMAN_3",
+            "name": "Negotiate the exorbitant bill",
+            "sourceFile": "story/Pool_bill.conv"
+        },
+        {
+            "id": "POX_CANCEL",
+            "category": "STORY",
+            "icon": "HUMAN_4",
+            "name": "Pox cancel plans",
+            "sourceFile": "story/Pox_cancelplans.conv"
+        },
+        {
+            "id": "POX_DOCTOR",
+            "category": "STORY",
+            "icon": "HUMAN_2",
+            "name": "Pox doctor",
+            "sourceFile": "story/Pox_Doctor.conv"
+        },
+        {
+            "id": "REPORTCARD_TEACHER",
+            "category": "STORY",
+            "icon": "HUMAN_3",
+            "name": "Call teacher",
+            "sourceFile": "story/ReportCard_callteacher.conv"
+        },
+        {
+            "id": "SCHOOLPLAY_AUDITION",
+            "category": "STORY",
+            "icon": "HUMAN_1",
+            "name": "SCHOOLPLAY_AUDITION",
+            "sourceFile": "story/SchoolPlay_audition.conv"
+        },
+        {
+            "id": "SKIPDAY_CHECKIN",
+            "category": "STORY",
+            "icon": "HUMAN_3",
+            "name": "Skip check in",
+            "sourceFile": "story/SkipDay_checkin.conv"
+        },
+        {
+            "id": "SKIPDAY_SICKKINDER",
+            "category": "STORY",
+            "icon": "HUMAN_4",
+            "name": "Skip kindergarten",
+            "sourceFile": "story/SkipDay_sickkinder.conv"
+        },
+        {
+            "id": "SKIPDAY_SICKSCHOOL",
+            "category": "STORY",
+            "icon": "HUMAN_3",
+            "name": "Skip school",
+            "sourceFile": "story/SkipDay_sickschool.conv"
+        },
+        {
+            "id": "SKIPDAY_SICKWORK",
+            "category": "STORY",
+            "icon": "HUMAN_1",
+            "name": "Skip work",
+            "sourceFile": "story/SkipDay_sickwork.conv"
+        },
+        {
+            "id": "SLUMBERPARTY_WELCOME",
+            "category": "STORY",
+            "icon": "HUMAN_4",
+            "name": "Greet kids",
+            "sourceFile": "story/SlumberParty_welcomekids.conv"
+        },
+        {
+            "id": "SPACE_KID",
+            "category": "STORY",
+            "icon": "HUMAN_4",
+            "name": "Space interview kid",
+            "sourceFile": "story/Space_kid.conv"
+        },
+        {
+            "id": "SPACE_PARENT",
+            "category": "STORY",
+            "icon": "HUMAN_1",
+            "name": "Space interview parent",
+            "sourceFile": "story/Space_parent.conv"
+        },
+        {
+            "id": "SPACE_SKIP",
+            "category": "STORY",
+            "icon": "HUMAN_2",
+            "name": "Space Skip Moonley",
+            "sourceFile": "story/Space_skip.conv"
+        },
+        {
+            "id": "SPACE_TEEN",
+            "category": "STORY",
+            "icon": "HUMAN_3",
+            "name": "Space interview teen",
+            "sourceFile": "story/Space_teen.conv"
+        },
+        {
+            "id": "TREEHOUSE_ZONING",
+            "category": "STORY",
+            "icon": "HUMAN_4",
+            "name": "Zoning board",
+            "sourceFile": "story/Treehouse_zoning.conv"
+        },
+        {
+            "id": "UNCLEVISIT_AUNT",
+            "category": "STORY",
+            "icon": "DEVIL_1",
+            "name": "Aunt Flemm",
+            "sourceFile": "story/UncleVisit_aunt.conv"
+        },
+        {
+            "id": "UNCLEVISIT_LEAVE",
+            "category": "STORY",
+            "icon": "DEVIL_2",
+            "name": "Uncle leave",
+            "sourceFile": "story/UncleVisit_leave.conv"
+        },
+        {
+            "id": "VACATION_FRENCH1",
+            "category": "STORY",
+            "icon": "HUMAN_1",
+            "name": "French lesson 1",
+            "sourceFile": "story/Vacation_french1.conv"
+        },
+        {
+            "id": "VACATION_FRENCH2",
+            "category": "STORY",
+            "icon": "HUMAN_1",
+            "name": "French lesson 2",
+            "sourceFile": "story/Vacation_french2.conv"
+        },
+        {
+            "id": "VACATION_FRENCH3",
+            "category": "STORY",
+            "icon": "HUMAN_1",
+            "name": "French lesson 3",
+            "sourceFile": "story/Vacation_french3.conv"
+        }
+    ]
+}

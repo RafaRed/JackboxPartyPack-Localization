@@ -1,0 +1,10 @@
+{
+    "content":[
+        { "id":"gagMessenger" },
+        { "id":"gagBookmark" },
+        { "id":"gagPopUpAd" },
+        { "id":"gagWarning" },
+        { "id":"gagAddressBar" },
+        { "id":"stickyNote" }
+    ]
+}

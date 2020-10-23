@@ -1,0 +1,26 @@
+[
+    {
+        "title":"PLAY GAME",
+        "action":"doPlayGame",
+        "description":"Create a game room & play",
+        "value":0
+    },
+    {
+        "title":"LEADERBOARD",
+        "action":"doLeaderboards",
+        "description":"Track stats from your recent games",
+        "value":1
+    },
+    {
+        "title":"SETTINGS",
+        "action":"doSettings",
+        "description":"Censoring, Audience options, & more",
+        "value":2
+    },
+    {
+        "title":"BACK TO PACK",
+        "action":"doBackToPack",
+        "description":"Exit back to the Party Pack",
+        "value":3
+    }
+]
