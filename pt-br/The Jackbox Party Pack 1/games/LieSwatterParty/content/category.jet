@@ -3,100 +3,100 @@
    "questions": [
       {
          "id": 10928,
-         "text": "Natural Redheads",
+         "text": "Ruivos Naturais",
          "category": "Natural Redheads",
          "audio": "10928_cat",
          "subject": "People",
          "statements": [
             {
-               "response": "Rumor has it, his drapes matched his tapestry.",
+               "response": "Boatos de que as cortinas dele combinavam com os tapetes.",
                "text": "Thomas Jefferson",
                "audio": "10928_0",
                "truth": true,
-               "tweet": "Thomas Jefferson was a natural redhead."
+               "tweet": "Thomas Jefferson era ruivo natural."
             },
             {
-               "response": "So, part of her is natural.",
+               "response": "Então, parte dela é natural.",
                "text": "Kathy Griffin",
                "audio": "10928_1",
                "truth": true,
-               "tweet": "Kathy Griffen is a natural redhead."
+               "tweet": "Kathy Griffen é ruiva natural."
             },
             {
-               "response": "A fact any fan of <i>Herbie: Fully Loaded<\/i> should know.",
+               "response": "Um fato que qualquer fã de <i>Herbie - Meu Fusca Turbinado<\/i> deveria saber.",
                "text": "Lindsay Lohan",
                "audio": "10928_2",
                "truth": true,
-               "tweet": "Lindsay Lohan is a natural redhead."
+               "tweet": "Lindsay Lohan é ruiva natural."
             },
             {
                "text": "Julia Roberts",
                "audio": "10928_3",
                "truth": false,
-               "tweet": "Julia Roberts is a natural redhead."
+               "tweet": "Julia Roberts é ruiva natural."
             },
             {
                "text": "Lucille Ball",
                "audio": "10928_4",
                "truth": false,
-               "tweet": "Lucille Ball is a natural redhead."
+               "tweet": "Lucille Ball é ruiva natural."
             },
             {
                "text": "Amy Adams",
                "audio": "10928_5",
                "truth": false,
-               "tweet": "Amy Adams is a natural redhead."
+               "tweet": "Amy Adams é ruiva natural."
             },
             {
                "text": "Malcolm X",
                "audio": "10928_6",
                "truth": false,
-               "tweet": "Malcolm X is a natural redhead."
+               "tweet": "Malcolm X é ruivo natural."
             }
          ]
       },
       {
          "id": 10876,
-         "text": "Internet Dating",
+         "text": "Webnamoro",
          "category": "Internet Dating",
          "audio": "10876_cat",
          "subject": "Technology",
          "statements": [
             {
-               "response": "For lovers who love themselves.",
-               "text": "FindYourFaceMate matches up couples who look the same as one another.",
+               "response": "Para quem ama a si mesmo.",
+               "text": "FindYourFaceMate juntam pessoas que parecem exatamente uma com a outra.",
                "audio": "10876_0",
                "truth": true
             },
             {
-               "response": "Slogan: \u201cCity folks just don\u2019t get it!\u201d",
-               "text": "The Farmers Only dating website also welcomes interested non-farmers.",
+               "response": "Slogan: \u201cO povo da cidade não entende!\u201d",
+               "text": "O site de namoro Só Fazendeiros também aceita quem não é fazendeiro.",
                "audio": "10876_1",
                "truth": true
             },
             {
                "response": "It\u2019s free!",
-               "text": "STDmatch makes love connections between people who share the same STD.",
+               "text": "DSTmatch conecta pessoas que têm as mesmas DSTs.",
                "audio": "10876_2",
                "truth": true
             },
             {
-               "text": "J Date was originally a dating site exclusively for people whose name starts with J.",
+               "text": "J Date era originalmente um site de namoro só para pessoas com nomes que começassem com a letra J.",
                "audio": "10876_3",
                "truth": false
             },
             {
-               "text": "The most popular TV show listed on eHarmony is <i>Golden Girls<\/i>.",
+               "text": "O programa de TV mais popular no site de namoro eHarmony é <i>Supergatas<\/i>.",
                "audio": "10876_4",
                "truth": false
             },
             {
-               "text": "R&B group Boyz II Men sued a dating web site of the same name in 1999.",
+               "text": "O grupo musical Boyz II Men processou um site de namoro com mesmo nome em 1999.",
                "audio": "10876_5",
                "truth": false
             },
             {
-               "text": "PsychicMatch requires absolutely no information.",
+               "text": "PsychicMatch não requer nenhuma informação pessoal.",
                "audio": "10876_6",
                "truth": false
             }
@@ -104,25 +104,25 @@
       },
       {
          "id": 10869,
-         "text": "Real Pro Baseball Players",
+         "text": "Jogadores Profissionais Reais de Beisebol",
          "category": "Real Pro Baseball Players",
          "audio": "10869_cat",
          "subject": "Real",
          "statements": [
             {
-               "response": "Dick Cox played for the Brooklyn Robins in the 1920s.",
+               "response": "Dick Cox jogou no Brooklyn Robins nos anos 1920.",
                "text": "Dick Cox",
                "audio": "10869_0",
                "truth": true
             },
             {
-               "response": "Rusty played for a number of teams in the \u201880s.",
+               "response": "Rusty jogou em vários times nos anos 80.",
                "text": "Rusty Kuntz",
                "audio": "10869_1",
                "truth": true
             },
             {
-               "response": "Butts played for the Washington Senators in the 1890s.",
+               "response": "Butts jogou no Washington Senators nos anos 1890.",
                "text": "Butts Wagner",
                "audio": "10869_2",
                "truth": true
@@ -151,45 +151,45 @@
       },
       {
          "id": 10819,
-         "text": "Soda",
+         "text": "Refrigerante",
          "category": "Soda",
          "audio": "10819_cat",
          "subject": "Food",
          "statements": [
             {
-               "response": "7-Up originally included lithium as an ingredient.",
-               "text": "7-Up used to be named Bib-Label Lithiated Lemon-Lime Soda.",
+               "response": "7-Up originalmente incluía lítio nos ingredientes.",
+               "text": "7-Up se chamava Soda de Limão Litiada.",
                "audio": "10819_0",
                "truth": true
             },
             {
-               "response": "Pepsi\u2019s inventor was Caleb Bradham.",
-               "text": "Pepsi used to be named Brad\u2019s Drink.",
+               "response": "O inventor da Pepsi foi Caleb Bradham.",
+               "text": "Pepsi se chamava Brad\u2019s Drink.",
                "audio": "10819_1",
                "truth": true
             },
             {
-               "text": "Dr. Pepper used to be named Coke Zero.",
+               "text": "Dr. Pepper se chamava Coca Zero.",
                "audio": "10819_2",
                "truth": false
             },
             {
-               "text": "Hawaiian Punch used to be named Koloko-Huka-Naka Slam.",
+               "text": "Hawaiian Punch se chamava Koloko-Huka-Naka Slam.",
                "audio": "10819_3",
                "truth": false
             },
             {
-               "text": "Royal Crown used to be named Queen Elizabeth Select.",
+               "text": "Royal Crown se chamava Seleção da Rainha Elizabeth.",
                "audio": "10819_4",
                "truth": false
             },
             {
-               "text": "A&W used to be named Animals & Women Root Beer.",
+               "text": "Fanta se chamava Santa.",
                "audio": "10819_5",
                "truth": false
             },
             {
-               "text": "Mr. Pibb used to be named Prof. Pibb.",
+               "text": "Mr. Pibb se chamava Prof. Pibb.",
                "audio": "10819_6",
                "truth": false
             }
@@ -197,207 +197,207 @@
       },
       {
          "id": 10788,
-         "text": "Real U.S. Towns",
+         "text": "Cidades Reais dos EUA",
          "category": "Real U.S. Towns",
          "audio": "10788_cat",
          "subject": "Places",
          "statements": [
             {
-               "response": "Boring Population: About 12,000",
+               "response": "População de Boring: Cerca de 12.000",
                "text": "Boring, Oregon",
                "audio": "10788_0",
                "truth": true,
-               "tweet": "Boring, Oregon is a real U.S. town."
+               "tweet": "Boring, Oregon é uma cidade real dos EUA."
             },
             {
-               "response": "Nimrod is named after the character from the Bible.",
+               "response": "Nimrod teve seu nome baseado em um personagem da Bíblia.",
                "text": "Nimrod, Minnesota",
                "audio": "10788_1",
                "truth": true,
-               "tweet": "Nimrod, Minnesotta is a real U.S. town."
+               "tweet": "Nimrod, Minnesotta é uma cidade real dos EUA."
             },
             {
-               "response": "It\u2019s fairly small. Ahem.",
+               "response": "É até pequena. Risos.",
                "text": "New Erection, Virginia",
                "audio": "10788_2",
                "truth": true,
-               "tweet": "New Erection, Virginia is a real U.S. town."
+               "tweet": "New Erection, Virginia é uma cidade real dos EUA."
             },
             {
                "text": "Buttzville, Texas",
                "audio": "10788_3",
                "truth": false,
-               "tweet": "Buttzville, Texas is a real U.S. town."
+               "tweet": "Buttzville, Texas é uma cidade real dos EUA."
             },
             {
                "text": "Big Taint, Ohio",
                "audio": "10788_4",
                "truth": false,
-               "tweet": "Big Taint, Ohio is a real U.S. town."
+               "tweet": "Big Taint, Ohio é uma cidade real dos EUA."
             },
             {
                "text": "Taco Bell, Arizona",
                "audio": "10788_5",
                "truth": false,
-               "tweet": "Taco Bell, Arizona is a real U.S. town."
+               "tweet": "Taco Bell, Arizona é uma cidade real dos EUA."
             },
             {
                "text": "Puppy Party, Iowa",
                "audio": "10788_6",
                "truth": false,
-               "tweet": "Puppy Party, Iowa is a real U.S. town."
+               "tweet": "Puppy Party, Iowa é uma cidade real dos EUA."
             }
          ]
       },
       {
          "id": 10785,
-         "text": "Kentucky Derby Winners",
+         "text": "Vencedores de corridas de cavalo de Kentucky",
          "category": "Kentucky Derby Winners",
          "audio": "10785_cat",
          "subject": "Real",
          "statements": [
             {
-               "response": "Jet Pilot won the Kentucky Derby in 1947.",
-               "text": "Jet Pilot",
+               "response": "Piloto de Jato venceu o Turfe de Kentucky em 1947.",
+               "text": "Piloto de Jato",
                "audio": "10785_0",
                "truth": true,
-               "tweet": "A horse named Jet Pilot won the Kentucky Derby."
+               "tweet": "Um cavalo chamado Piloto de Jato venceu o Turfe de Kentucky."
             },
             {
-               "response": "Regret won the Kentucky Derby in 1915.",
-               "text": "Regret",
+               "response": "Arrependimento venceu o Turfe de Kentucky em 1915.",
+               "text": "Arrependimento",
                "audio": "10785_1",
                "truth": true,
-               "tweet": "A horse named Regret won the Kentucky Derby."
+               "tweet": "Um cavalo chamado Arrependimento venceu o Turfe de Kentucky."
             },
             {
-               "response": "Smarty Jones won the Kentucky Derby in 2004.",
-               "text": "Smarty Jones ",
+               "response": "Jones Esperto venceu o Turfe de Kentucky em 2004.",
+               "text": "Jones Esperto ",
                "audio": "10785_2",
                "truth": true,
-               "tweet": "A horse named Smarty Jones won the Kentucky Derby."
+               "tweet": "Um cavalo chamado Jones Esperto venceu o Turfe de Kentucky."
             },
             {
-               "text": "Not a Real Horse",
+               "text": "Cavalo de Mentira",
                "audio": "10785_3",
                "truth": false,
-               "tweet": "A horse named Not a Real Horse won the Kentucky Derby."
+               "tweet": "Um cavalo chamado Cavalo de Mentira venceu o Turfe de Kentucky."
             },
             {
-               "text": "Admiral Venture",
+               "text": "Empreendimento Almirante",
                "audio": "10785_4",
                "truth": false,
-               "tweet": "A horse named Admiral Venture won the Kentucky Derby."
+               "tweet": "Um cavalo chamado Empreendimento Almirante venceu o Turfe de Kentucky."
             },
             {
-               "text": "Sometimes a Winner",
+               "text": "Ganha Às Vezes",
                "audio": "10785_5",
                "truth": false,
-               "tweet": "A horse named Sometimes a Winner won the Kentucky Derby."
+               "tweet": "Um cavalo chamado Ganha Às Vezes venceu o Turfe de Kentucky."
             },
             {
-               "text": "Saxby Chambliss",
+               "text": "Pé de Pano",
                "audio": "10785_6",
                "truth": false,
-               "tweet": "A horse named Saxby Chambliss won the Kentucky Derby."
+               "tweet": "Um cavalo chamado Pé de Pano venceu o Turfe de Kentucky."
             }
          ]
       },
       {
          "id": 10780,
-         "text": "Real U.S. Court Cases",
+         "text": "Casos Reais de Tribunal nos EUA",
          "category": "Real U.S. Court Cases",
          "audio": "10780_cat",
          "subject": "Real",
          "statements": [
             {
-               "response": "We couldn\u2019t find out, though, if Ray L. Batman won or not.",
-               "text": "Batman v. Commissioner",
+               "response": "Não conseguimos descobrir se Ray L. Batman venceu ou não.",
+               "text": "Batman x Comissário",
                "audio": "10780_0",
                "truth": true,
-               "tweet": "Batman v. Commissioner was a real U.S. court case."
+               "tweet": "Batman x Comissário foi um caso real de tribunal nos EUA."
             },
             {
-               "response": "Weird, huh?",
-               "text": "United States v. 64,695 Pounds of Shark Fins",
+               "response": "Estranho, né?",
+               "text": "Estados Unidos x 29 Toneladas de Barbatanas de Tubarão",
                "audio": "10780_1",
                "truth": true,
-               "tweet": "United States v. 64,695 Pounds of Shark Fins was a real U.S. court case."
+               "tweet": "Estados Unidos x 29 Toneladas de Barbatanas de Tubarão foi um caso real de tribunal nos EUA."
             },
             {
-               "response": "Doesn\u2019t sound sexy at all.",
-               "text": "Easter Seals Society for Crippled Children v. Playboy Enterprises",
+               "response": "Não parece nem um pouco sexy.",
+               "text": "Instituição Easter Seals para Crianças com Deficiência x Playboy",
                "audio": "10780_2",
                "truth": true,
-               "tweet": "Easter Seals Society for Crippled Children v. Playboy Enterprises was a real U.S. court case."
+               "tweet": "Instituição Easter Seals para Crianças com Deficiência x Playboy foi um caso real de tribunal nos EUA."
             },
             {
-               "text": "Snobs v. Slobs",
+               "text": "Esnobes x Ex-nobres",
                "audio": "10780_3",
                "truth": false,
-               "tweet": "Snobs v. Slobs was a real U.S. court case."
+               "tweet": "Esnobes x Ex-nobres foi um caso real de tribunal nos EUA."
             },
             {
-               "text": "United States v. Bizzaro United States",
+               "text": "Estados Unidos x Estados Unidos Bizarro",
                "audio": "10780_4",
                "truth": false,
-               "tweet": "United States v. Bizzaro United States was a real U.S. court case."
+               "tweet": "Estados Unidos x Estados Unidos Bizarro foi um caso real de tribunal nos EUA."
             },
             {
-               "text": "Cat Fancy v. Dog Fancy",
+               "text": "Cães x Gatos",
                "audio": "10780_5",
                "truth": false,
-               "tweet": "Cat Fancy v. Dog Fancy was a real U.S. court case."
+               "tweet": "Cães x Gatos foi um caso real de tribunal nos EUA."
             },
             {
-               "text": "State of Indiana v. Giant Baby",
+               "text": "Estado de Indiana x Bebê Gigante",
                "audio": "10780_6",
                "truth": false,
-               "tweet": "State of Indiana v. Giant Baby was a real U.S. court case."
+               "tweet": "Estado de Indiana x Bebê Gigante foi um caso real de tribunal nos EUA."
             }
          ]
       },
       {
          "id": 10776,
-         "text": "Celebs with Weird Names",
+         "text": "Celebridades com Nomes Estranhos",
          "category": "Celebs with Weird Names",
          "audio": "10776_cat",
          "subject": "People",
          "statements": [
             {
                "response": "Madonna Louise Ciccone",
-               "text": "Madonna\u2019s birth name is really Madonna.",
+               "text": "O nome verdadeiro da Madonna é mesmo Madonna.",
                "audio": "10776_0",
                "truth": true
             },
             {
                "response": "Prince Rogers Nelson",
-               "text": "Prince\u2019s birth name is really Prince.",
+               "text": "O nome verdadeiro do Prince é mesmo Prince.",
                "audio": "10776_1",
                "truth": true
             },
             {
-               "text": "Queen Latifah\u2019s birth name is really Queen.",
+               "text": "O nome verdadeiro da Queen Latifah é mesmo Queen.",
                "audio": "10776_2",
                "truth": false
             },
             {
-               "text": "Whoopi Goldberg\u2019s birth name is really Whoopi.",
+               "text": "O nome verdadeiro da Whoopi Goldberg é mesmo Whoopi.",
                "audio": "10776_3",
                "truth": false
             },
             {
-               "text": "Slash\u2019s birth name is really Slash.",
+               "text": "O nome verdadeiro do Slash é mesmo Slash.",
                "audio": "10776_4",
                "truth": false
             },
             {
-               "text": "Lady Gaga\u2019s birth name is really Gaga.",
+               "text": "O nome verdadeiro da Lady Gaga é mesmo Gaga.",
                "audio": "10776_5",
                "truth": false
             },
             {
-               "text": "Bruno Mars\u2019 birth names are really Bruno and Mars.",
+               "text": "Os nomes verdadeiros do Bruno Mars são mesmo Bruno e Mars.",
                "audio": "10776_6",
                "truth": false
             }
@@ -405,46 +405,46 @@
       },
       {
          "id": 10773,
-         "text": "Irony",
+         "text": "Ironia",
          "category": "Irony",
          "audio": "10773_cat",
          "subject": "Easter Egg",
          "statements": [
             {
-               "response": "Humans have dander too.",
-               "text": "Some dogs are allergic to humans.",
+               "response": "Humanos também pegam raiva.",
+               "text": "Alguns cães são alérgicos a humanos.",
                "audio": "10773_0",
                "truth": true
             },
             {
-               "response": "80,000 buttons were recalled in 1974.",
-               "text": "\u2018Think Toy Safety\u2019 buttons were recalled because of lead paint and sharp edges.",
+               "response": "Foi feito recall de 80.000 botões em 1974.",
+               "text": "Houve recall de botões da\u2018Brinquedos Seguros\u2019 por causa da tinta de chumbo e cantos afiados.",
                "audio": "10773_1",
                "truth": true
             },
             {
-               "response": "The blood was infected with tuberculosis and malaria.",
-               "text": "The founder of the first blood bank died from a bad blood transfusion.",
+               "response": "O sangue estava infectado com tuberculose e malária.",
+               "text": "O fundador do primeiro banco de sangue morreu de uma transfusão ruim de sangue.",
                "audio": "10773_2",
                "truth": true
             },
             {
-               "text": "The most popular TV show in U.S. prisons is <i>Law & Order<\/i>.",
+               "text": "O programa de TV mais popular em prisões dos EUA é <i>Lei & Ordem<\/i>.",
                "audio": "10773_3",
                "truth": false
             },
             {
-               "text": "Irony, New Mexico used to be named Sincerity, New Mexico.",
+               "text": "Ironía, Novo México se chamava Sinceridad, Novo México.",
                "audio": "10773_4",
                "truth": false
             },
             {
-               "text": "The inventor of the smiley face suffered chronic depression.",
+               "text": "O inventor da carinha sorridente sofria de depressão crônica.",
                "audio": "10773_5",
                "truth": false
             },
             {
-               "text": "The highest rated <i>60 Minutes<\/i> episode was on the dangers of watching television.",
+               "text": "O episódio melhor avaliado de <i>60 Minutos<\/i> falava dos perigos de ver televisão.",
                "audio": "10773_6",
                "truth": false
             }
@@ -452,46 +452,46 @@
       },
       {
          "id": 10769,
-         "text": "Baseball Team Names",
+         "text": "Nomes de Times de Beisebol",
          "category": "Baseball Team Names",
          "audio": "10769_cat",
          "subject": "Sports",
          "statements": [
             {
-               "response": "They were also once known as the Pittsburgh Alleghenys.",
-               "text": "The Pittsburgh Pirates were formerly the Pittsburgh Innocents.",
+               "response": "Também foram conhecidos como Pittsburgh Alleghenys (moradores de Allegheny).",
+               "text": "Os Pittsburgh Pirates se chamavam Pittsburgh Innocents.",
                "audio": "10769_0",
                "truth": true
             },
             {
-               "response": "Both Chicago baseball franchises were once named the White Stockings.",
-               "text": "The Chicago Cubs were formerly the Chicago White Stockings.",
+               "response": "Ambas as franquias de beisebol em Chicago baseball foram conhecidas como White Stockings (meias brancas).",
+               "text": "Os Chicago Cubs se chamavam Chicago White Stockings (meias brancas).",
                "audio": "10769_1",
                "truth": true
             },
             {
-               "response": "They were also once the Cleveland Spiders.",
-               "text": "The Cleveland Indians were formerly the Cleveland Naps.",
+               "response": "They were also once the Cleveland Spiders (aranhas).",
+               "text": "Os Cleveland Indians se chamavam Cleveland Naps.",
                "audio": "10769_2",
                "truth": true
             },
             {
-               "text": "The New York Yankees were formerly the New York Rats.",
+               "text": "Os New York Yankees se chamavam New York Rats.",
                "audio": "10769_3",
                "truth": false
             },
             {
-               "text": "The Baltimore Orioles were formerly the Baltimore Vampires.",
+               "text": "Os Baltimore Orioles (a ave Corrupião-de-baltimore) se chamavam Baltimore Vampires.",
                "audio": "10769_4",
                "truth": false
             },
             {
-               "text": "The Minnesota Twins were formerly the Minnesota Only Children.",
+               "text": "Os Minnesota Twins (gêmeos) se chamavam Minnesota Only Children (filhos únicos).",
                "audio": "10769_5",
                "truth": false
             },
             {
-               "text": "The Saint Louis Cardinals were formerly the Saint Louis Scoundrels.",
+               "text": "Os Saint Louis Cardinals se chamavam Saint Louis Scoundrels.",
                "audio": "10769_6",
                "truth": false
             }
@@ -499,46 +499,46 @@
       },
       {
          "id": 11389,
-         "text": "Common Products",
+         "text": "Produtos comuns",
          "category": "Common Products",
          "audio": "11389_cat",
          "subject": "Products",
          "statements": [
             {
-               "response": "Which is fun for anal-retentive adults.",
-               "text": "Play-Doh was originally used as wallpaper cleaner. ",
+               "response": "Que é divertido para adultos anal-retentivos.",
+               "text": "A massinha Play-Doh era originalmente usada como limpador de papel de parede. ",
                "audio": "11389_0",
                "truth": true
             },
             {
-               "response": "Ouch.",
-               "text": "Lysol used to be sold as a douche. ",
+               "response": "Ai.",
+               "text": "Desinfetante era vendido como produto de banho. ",
                "audio": "11389_1",
                "truth": true
             },
             {
-               "response": "It also stopped them from squeaking.",
-               "text": "WD-40 was originally used to protect nuclear missiles. ",
+               "response": "E os fazia parar de ranger.",
+               "text": "Óleo Lubrificante WD-40 era usado para proteger mísseis nucleares. ",
                "audio": "11389_2",
                "truth": true
             },
             {
-               "text": "Root beer was originally sold as mouthwash. ",
+               "text": "Cerveja-de-raiz era vendida originalmente como enxaguante bucal. ",
                "audio": "11389_3",
                "truth": false
             },
             {
-               "text": "Bubble wrap used to be sold as bed sheets for babies. ",
+               "text": "Plástico bolha era vendido como lençóis para bebês. ",
                "audio": "11389_4",
                "truth": false
             },
             {
-               "text": "Ugg boots were originally part of the Australian Army\u2019s uniform. ",
+               "text": "Botas Ugg eram originalmente parte do uniforme do Exército Australiano. ",
                "audio": "11389_5",
                "truth": false
             },
             {
-               "text": "ShamWow towels were originally used exclusively by the adult film industry. ",
+               "text": "Toalhas ShamWow eram originalmente usadas apenas pela indústria de filmes adultos. ",
                "audio": "11389_6",
                "truth": false
             }
@@ -546,46 +546,46 @@
       },
       {
          "id": 11533,
-         "text": "April Fool\u2019s Jokes",
+         "text": "Piadas de Primeiro de Abril",
          "category": "April Fool\u2019s Jokes",
          "audio": "11533_cat",
          "subject": "Awesome",
          "statements": [
             {
-               "response": "It was called a \u201cPlenta.\u201d",
-               "text": "Starbucks claimed it was selling a 128 fluid ounce drink.",
+               "response": "Eram chamados de \u201cPlenta.\u201d",
+               "text": "Starbucks disse que venderia copos de 3,5 litros.",
                "audio": "11533_0",
                "truth": true
             },
             {
-               "response": "All of the condiments were rotated 180 degrees.",
-               "text": "Burger King claimed it was selling a left-handed Whopper.",
+               "response": "Todos os condimentos foram girados 180 graus.",
+               "text": "Burger King disse que venderia Whopper para canhotos.",
                "audio": "11533_1",
                "truth": true
             },
             {
-               "response": "His fake quote: \u201cI never did anything wrong, and I won\u2019t do it again.\u201d",
-               "text": "NPR claimed Richard Nixon was running for president, in 1992. ",
+               "response": "Sua fala falsa: \u201cNunca fiz nada de errado, e não farei de novo.\u201d",
+               "text": "A NPR disse que Richard Nixon iria correr à presidência, em 1992. ",
                "audio": "11533_2",
                "truth": true
             },
             {
-               "text": "Bed Bath & Beyond claimed it would just start selling Beyond items.",
+               "text": "Cama, Banho & Além disse que venderia produtos do Além.",
                "audio": "11533_3",
                "truth": false
             },
             {
-               "text": "Pringles claimed to open an addiction center for people who couldn\u2019t stop popping.",
+               "text": "Pringles disse que abriria um centro de reabilitação para viciados em batatinhas.",
                "audio": "11533_4",
                "truth": false
             },
             {
-               "text": "Marvel comics announced that Captain America was getting a sex change. ",
+               "text": "Marvel anunciou que Capitão América mudaria de sexo. ",
                "audio": "11533_5",
                "truth": false
             },
             {
-               "text": "Google claimed it had been bought by Ask Jeeves.",
+               "text": "Google disse ter sido comprada pelo Bing.",
                "audio": "11533_6",
                "truth": false
             }
@@ -593,45 +593,45 @@
       },
       {
          "id": 11332,
-         "text": "Look-Alikes",
+         "text": "Sósias",
          "category": "Look-Alikes",
          "audio": "11332_cat",
          "subject": "People",
          "statements": [
             {
-               "response": "He didn\u2019t do the \u201cbest\u201d Little Tramp.",
-               "text": "Charlie Chaplin lost a Charlie Chaplin look-alike contest.",
+               "response": "Ele não fez o melhor Carlitos.",
+               "text": "Charlie Chaplin perdeu uma competição de sósias de Charlie Chaplin.",
                "audio": "11332_0",
                "truth": true
             },
             {
-               "response": "She came in second.",
-               "text": "Dolly Parton lost a Dolly Parton look-alike contest.",
+               "response": "Ela ficou em segundo lugar.",
+               "text": "Dolly Parton perdeu uma competição de sósias de Dolly Parton.",
                "audio": "11332_1",
                "truth": true
             },
             {
-               "text": "Michael Jackson lost a Michael Jackson look-alike contest. ",
+               "text": "Michael Jackson perdeu uma competição de sósias de Michael Jackson. ",
                "audio": "11332_2",
                "truth": false
             },
             {
-               "text": "Jeff Goldblum lost a Jeff Goldblum look-alike contest. ",
+               "text": "Jeff Goldblum perdeu uma competição de sósias de Jeff Goldblum. ",
                "audio": "11332_3",
                "truth": false
             },
             {
-               "text": "Bill Pullman lost a Bill Paxton look-alike contest. ",
+               "text": "Johnny Depp perdeu uma competição de sósias de Jack Sparrow. ",
                "audio": "11332_4",
                "truth": false
             },
             {
-               "text": "Miley Cyrus lost a Hannah Montana look-alike contest. ",
+               "text": "Miley Cyrus perdeu uma competição de sósias de Hannah Montana. ",
                "audio": "11332_5",
                "truth": false
             },
             {
-               "text": "Marilyn Monroe lost a Marilyn Monroe look-alike contest.",
+               "text": "Marilyn Monroe perdeu uma competição de sósias de Marilyn Monroe.",
                "audio": "11332_6",
                "truth": false
             }
@@ -639,46 +639,46 @@
       },
       {
          "id": 11634,
-         "text": "Batman Villains",
+         "text": "Vilões do Batman",
          "category": "Batman Villains",
          "audio": "11634_cat",
          "subject": "Pop Culture",
          "statements": [
             {
-               "response": "He \u201ccalculates\u201d Batman\u2019s every move.",
-               "text": "The Calculator dresses like a giant pocket calculator.",
+               "response": "Ele calcula cada movimento do Batman.",
+               "text": "O Calculador se veste como uma calculadora gigante.",
                "audio": "11634_0",
                "truth": true
             },
             {
-               "response": "He later upgraded to hot sauce.",
-               "text": "Condiment King sprays deadly ketchup and mustard.",
+               "response": "Ele atualizou depois para molho picante.",
+               "text": "O Rei dos Condimentos atira ketchups e mostardas mortais.",
                "audio": "11634_1",
                "truth": true
             },
             {
-               "response": "Batman defeated him with special Bat-Kites.",
-               "text": "Kite Man attacks people with a barrage of kites.",
+               "response": "Batman o derrotou com Bat-Pipas especiais.",
+               "text": "O Homem Pipa ataca pessoas com uma artilharia de pipas.",
                "audio": "11634_2",
                "truth": true
             },
             {
-               "text": "Shoulder Devil hypnotizes Batman into committing crimes.",
+               "text": "O Demônio de Ombro hipnotiza Batman para cometer crimes.",
                "audio": "11634_3",
                "truth": false
             },
             {
-               "text": "Couch Face would swallow up victims in his crevices.",
+               "text": "O Cara de Sofá engole as vítimas em suas fendas.",
                "audio": "11634_4",
                "truth": false
             },
             {
-               "text": "Prof. Urine could transport himself anywhere there was a flushable toilet.",
+               "text": "Prof. Urina pode se teleportar para qualquer lugar com vaso sanitário.",
                "audio": "11634_5",
                "truth": false
             },
             {
-               "text": "Elbows Grease is an eight-armed auto mechanic.",
+               "text": "Graxa de Cotovelo é um mecânico de oito braços.",
                "audio": "11634_6",
                "truth": false
             }
@@ -686,41 +686,41 @@
       },
       {
          "id": 11531,
-         "text": "Words in the U.S. Constitution",
+         "text": "Palavras na Constituição Americana",
          "category": "Words in the U.S. Constitution",
          "audio": "11531_cat",
          "subject": "History",
          "statements": [
             {
-               "response": "It\u2019s also spelled correctly in a few other places.",
-               "text": "a misspelled \u201cPensylvania\u201d",
+               "response": "Está escrito certo em outras partes.",
+               "text": "\u201cPensylvania\u201d com só um N",
                "audio": "11531_0",
                "truth": true
             },
             {
-               "response": "It\u2019s the first amendment!",
-               "text": "\u201cfreedom of speech\u201d",
+               "response": "É a primeira emenda!",
+               "text": "\u201cliberdade de expressão\u201d",
                "audio": "11531_1",
                "truth": true
             },
             {
-               "response": "More specifically: \u201cthe erection of forts\u201d",
-               "text": "\u201cerection\u201d",
+               "response": "Especificamente: \u201a construção de fortes eretos\u201d",
+               "text": "\u201ceretos\u201d",
                "audio": "11531_2",
                "truth": true
             },
             {
-               "text": "\u201cdemocracy\u201d",
+               "text": "\u201cdemocracia\u201d",
                "audio": "11531_3",
                "truth": false
             },
             {
-               "text": "\u201cseparation of church and state\u201d",
+               "text": "\u201cseparação da igreja e estado\u201d",
                "audio": "11531_4",
                "truth": false
             },
             {
-               "text": "\u201clet\u2019s party\u201d",
+               "text": "\u201cfestejar\u201d",
                "audio": "11531_5",
                "truth": false
             },
@@ -733,46 +733,46 @@
       },
       {
          "id": 11207,
-         "text": "Cereal Mascots",
+         "text": "Mascotes de Cereal",
          "category": "Cereal Mascots",
          "audio": "11207_cat",
          "subject": "Food",
          "statements": [
             {
-               "response": "And the cereal was called CherriOats.",
-               "text": "Cheerio\u2019s mascot was originally a little girl named Cheeri O\u2019Leary.",
+               "response": "E o cereal se chamava CherriOats.",
+               "text": "A mascote do Cheerio\u2019s era originalmente uma garotinha chamada Cheeri O\u2019Leary.",
                "audio": "11207_0",
                "truth": true
             },
             {
-               "response": "Also Katy the Kangaroo and Elmo the Elephant.",
-               "text": "One of the first mascots for Kellogg\u2019s Frosted Flakes was Newt the Gnu. ",
+               "response": "E Katy, a Canguru e Elmo, o Elefante.",
+               "text": "Um dos primeiros mascotes do Kellogg\u2019s Frosted Flakes era Newt, o Gnu. ",
                "audio": "11207_1",
                "truth": true
             },
             {
-               "response": "For less than a year in the 70s.",
-               "text": "Lucky the Leprechaun was briefly replaced with Waldo the Wizard.",
+               "response": "Por menos de um ano nos anos 70.",
+               "text": "Lucky, o Leprechaun foi brevemente substituído por Waldo, o Bruxo.",
                "audio": "11207_2",
                "truth": true
             },
             {
-               "text": "Cocoa Puffs\u2019 original mascot was a blowfish named Sir Puffington.",
+               "text": "O mascote original do Cocoa Puffs\u2019 era um baiacu chamado Sir Puffington.",
                "audio": "11207_3",
                "truth": false
             },
             {
-               "text": "An old, wrinkled woman named Ester was the mascot for Raisin Bran from 1984 - 1989.",
+               "text": "Uma idosa enrugada chamada Ester era a mascote do Raisin Bran de 1984 a 1989.",
                "audio": "11207_4",
                "truth": false
             },
             {
-               "text": "Toucan Sam\u2019s best friend was a wallaby in a straitjacket named \u201cLoopy.\u201d",
+               "text": "O melhor amigo do Tucano Sam era um canguru em uma camisa de força chamado \u201cLoopy.\u201d",
                "audio": "11207_5",
                "truth": false
             },
             {
-               "text": "Snap, Crackle and Pop were originally called Blam, Kapow, and Bonkers.",
+               "text": "Snap, Crackle e Pop eram originalmente chamados Blam, Kapow, and Bonkers.",
                "audio": "11207_6",
                "truth": false
             }
@@ -780,27 +780,27 @@
       },
       {
          "id": 11628,
-         "text": "<i>The Baby-sitters Club<\/i> Books",
+         "text": "Os Livros <i>O Clube das Babás<\/i>",
          "category": "<i>The Baby-sitters Club<\/i> Books",
          "audio": "11628_cat",
          "subject": "Pop Culture",
          "statements": [
             {
-               "response": "Baby-Sitters Club #8",
+               "response": "O Clube das Babás #8",
                "text": "<i>Boy-Crazy Stacey<\/i>",
                "audio": "11628_0",
                "truth": true,
-               "tweet": "<i>Boy-Crazy Stacey<\/i> is a Baby-sitters book."
+               "tweet": "<i>Boy-Crazy Stacey<\/i> é um livro do Clube das Babás."
             },
             {
-               "response": "Baby-Sitters Club #59",
+               "response": "O Clube das Babás #59",
                "text": "<i>Mallory Hates Boys (and Gym)<\/i>",
                "audio": "11628_1",
                "truth": true,
-               "tweet": "<i>Mallory Hates Boys (and Gym)<\/i> is a Baby-sitters book."
+               "tweet": "<i>Mallory Hates Boys (and Gym)<\/i> é um livro do Clube das Babás."
             },
             {
-               "response": "Baby-Sitters Club #95",
+               "response": "O Clube das Babás #95",
                "text": "<i>Kristy + Bart = ?<\/i>",
                "audio": "11628_2",
                "truth": true
@@ -829,46 +829,46 @@
       },
       {
          "id": 11330,
-         "text": "Real Molecule Names",
+         "text": "Nomes Reais de Moléculas",
          "category": "Real Molecule Names",
          "audio": "11330_cat",
          "subject": "Math",
          "statements": [
             {
-               "response": "It can be extracted from mistletoe.",
-               "text": "Moronic Acid",
+               "response": "Pode ser extraído de visco.",
+               "text": "Ácido Morônico",
                "audio": "11330_0",
                "truth": true
             },
             {
-               "response": "It\u2019s a molecule containing arsenic.",
+               "response": "É uma molécula contendo arsênico.",
                "text": "Arsole",
                "audio": "11330_1",
                "truth": true
             },
             {
-               "response": "It\u2019s an anticoagulant obtained from vampire bat saliva.",
-               "text": "Draculin",
+               "response": "É um anticoagulante obtido da saliva de morcego-vampiro.",
+               "text": "Draculina",
                "audio": "11330_2",
                "truth": true
             },
             {
-               "text": "Tittigen",
+               "text": "Tetagena",
                "audio": "11330_3",
                "truth": false
             },
             {
-               "text": "Barfaho",
+               "text": "Vomitahol",
                "audio": "11330_4",
                "truth": false
             },
             {
-               "text": "Moistone",
+               "text": "Molherona",
                "audio": "11330_5",
                "truth": false
             },
             {
-               "text": "Streisandic Acid",
+               "text": "Ácido Streisand",
                "audio": "11330_6",
                "truth": false
             }
@@ -876,46 +876,46 @@
       },
       {
          "id": 11626,
-         "text": "Ben & Jerry\u2019s Flavors",
+         "text": "Sabores de Sorvetes Ben & Jerry\u2019s",
          "category": "Ben & Jerry\u2019s Flavors",
          "audio": "11626_cat",
          "subject": "Food",
          "statements": [
             {
-               "response": "Sold in Britain, it contains little chocolate peace signs.",
-               "text": "Fossil Fuel",
+               "response": "Vendido na Grã-Bretanha, contém pequenos sinais de paz de chocolate.",
+               "text": "Combustível Fóssil",
                "audio": "11626_0",
                "truth": true
             },
             {
-               "response": "A limited offer named after the SNL sketch.",
-               "text": "Schweddy Balls",
+               "response": "Oferta limitada após a esquete do Saturday Night Live.",
+               "text": "Bolas Schweddy",
                "audio": "11626_1",
                "truth": true
             },
             {
-               "response": "A sexy blend of caramel and chocolate.",
+               "response": "Uma mistura sensual de caramelo e chocolate.",
                "text": "Karamel Sutra",
                "audio": "11626_2",
                "truth": true
             },
             {
-               "text": "Neapolitan Complex ",
+               "text": "Complexo Napolitano ",
                "audio": "11626_3",
                "truth": false
             },
             {
-               "text": "Mud Butt",
+               "text": "Toiletone",
                "audio": "11626_4",
                "truth": false
             },
             {
-               "text": "Mint Romney ",
+               "text": "Menta Romney ",
                "audio": "11626_5",
                "truth": false
             },
             {
-               "text": "Don\u2019t Taste Me, Bro",
+               "text": "Não Me Prova, Mano",
                "audio": "11626_6",
                "truth": false
             }
@@ -923,45 +923,45 @@
       },
       {
          "id": 11383,
-         "text": "Musical Irony",
+         "text": "Ironia Musical",
          "category": "Musical Irony",
          "audio": "11383_cat",
          "subject": "Art",
          "statements": [
             {
-               "response": "By Brian Eno.",
-               "text": "The Windows 95 start-up theme was composed on a Mac.",
+               "response": "Por Brian Eno.",
+               "text": "O tema de ligar do Windows 95 foi feito em um Mac.",
                "audio": "11383_0",
                "truth": true
             },
             {
-               "response": "Also: \u201cA Holly Jolly Christmas\u201d and \u201cRockin\u2019 Around the Christmas Tree.\u201d",
-               "text": "\u201cRudolph the Red-Nosed Reindeer,\u201d was written by a Jewish composer. ",
+               "response": "E também: \u201cA Holly Jolly Christmas\u201d e \u201cRockin\u2019 Around the Christmas Tree.\u201d",
+               "text": "\u201cRudolph, a Rena de Nariz Vermelho,\u201d foi feita por um compositor judeu. ",
                "audio": "11383_1",
                "truth": true
             },
             {
-               "text": "Bruce Springsteen was born in Canada. ",
+               "text": "Bruce Springsteen nasceu no Canadá. ",
                "audio": "11383_2",
                "truth": false
             },
             {
-               "text": "Ray Parker Jr., writer of the <i>Ghostbusters<\/i> theme song, suffered from phasmophobia.",
+               "text": "Ray Parker Jr., criador do tema de <i>Caça-Fantasmas<\/i>, sofria de Espectrofobia.",
                "audio": "11383_3",
                "truth": false
             },
             {
-               "text": "Li\u2019l Jon recorded the song \u201cShots\u201d in a studio above an alcohol rehab clinic. ",
+               "text": "Li\u2019l Jon gravou a música \u201cShots\u201d (Doses) em um estúdio acima de uma clínica de reabilitação de alcoólatras. ",
                "audio": "11383_4",
                "truth": false
             },
             {
-               "text": "The composer of the <i>Wheel of Fortune<\/i> theme song was functionally illiterate. ",
+               "text": "O compositor do tema da <i>Roda da Fortuna<\/i> era analfabeto funcional. ",
                "audio": "11383_5",
                "truth": false
             },
             {
-               "text": "A Jehovah\u2019s Witness owns the copyright to the \u201cHappy Birthday\u201d song.",
+               "text": "Um Testemunho de Jeová possui os direitos do \u201cParabéns Pra Você\u201d.",
                "audio": "11383_6",
                "truth": false
             }
@@ -969,25 +969,25 @@
       },
       {
          "id": 11524,
-         "text": "Small Ohio Towns",
+         "text": "Pequenas Cidades de Ohio",
          "category": "Small Ohio Towns",
          "audio": "11524_cat",
          "subject": "Places",
          "statements": [
             {
-               "response": "Pronounced \u201cRoo-She.\u201d",
+               "response": "Se pronuncia \u201cRu-shi.\u201d",
                "text": "Russia, OH",
                "audio": "11524_0",
                "truth": true
             },
             {
-               "response": "It is very very small.",
+               "response": "É bem pequenininha.",
                "text": "Egypt, OH",
                "audio": "11524_1",
                "truth": true
             },
             {
-               "response": "There\u2019s also a Poland, New York.",
+               "response": "Também existe Poland, New York.",
                "text": "Poland, OH",
                "audio": "11524_2",
                "truth": true
@@ -1016,7 +1016,7 @@
       },
       {
          "id": 11522,
-         "text": "Frank Zappa Albums",
+         "text": "Álbums do Frank Zappa",
          "category": "Frank Zappa Albums",
          "audio": "11522_cat",
          "subject": "Pop Culture",
@@ -1025,19 +1025,19 @@
                "text": "<i>Uncle Meat<\/i>",
                "audio": "11522_0",
                "truth": true,
-               "tweet": "Uncle Meat is an album by Frank Zappa."
+               "tweet": "Uncle Meat é um álbum do Frank Zappa."
             },
             {
                "text": "<i>Burnt Weeny Sandwich<\/i>",
                "audio": "11522_1",
                "truth": true,
-               "tweet": "Burnt Weeny Sandwich is an album by Frank Zappa."
+               "tweet": "Burnt Weeny Sandwich é um álbum do Frank Zappa."
             },
             {
                "text": "<i>Weasels Ripped My Flesh<\/i>",
                "audio": "11522_2",
                "truth": true,
-               "tweet": "Bongo Fury is an album by Frank Zappa.\r\nOR\r\nWeasels Ripped My Flesh is an album by Frank Zappa."
+               "tweet": "Bongo Fury é um álbum do Frank Zappa.\r\nOR\r\nWeasels Ripped My Flesh é um álbum do Frank Zappa."
             },
             {
                "text": "<i>Butt Machine<\/i>",
@@ -1063,46 +1063,46 @@
       },
       {
          "id": 11590,
-         "text": "Real Hanna-Barbera Cartoons",
+         "text": "Desenhos Hanna-Barbera Reais",
          "category": "Real Hanna-Barbera Cartoons",
          "audio": "11590_cat",
          "subject": "Pop Culture",
          "statements": [
             {
-               "response": "Based on the TV movie <i>The Kid with the Broken Halo<\/i>.",
-               "text": "<i>The Gary Coleman Show<\/i>: Gary Coleman\u2019s an angel trying to earn his wings.",
+               "response": "Baseado no filme para televisão <i>The Kid with the Broken Halo - O Garoto da Auréola Quebrada<\/i>.",
+               "text": "<i>O Show de Gary Coleman<\/i>: Gary Coleman é um anjo tentando ganhar suas asas.",
                "audio": "11590_0",
                "truth": true
             },
             {
-               "response": "With a theme song by Menudo.",
-               "text": "<i>Rubik, the Amazing Cube<\/i>: A talking Rubik\u2019s cube versus an evil magician.",
+               "response": "Com uma música tema do Menudo.",
+               "text": "<i>Rubik, o Cubo Mágico<\/i>: Um cubo falante contra um mágico do mal.",
                "audio": "11590_1",
                "truth": true
             },
             {
-               "response": "It still made more sense than the movie.",
-               "text": "<i>Casper and the Angels<\/i>: Casper the Ghost fights crime in outer space.",
+               "response": "Fazia mais sentido que o filme.",
+               "text": "<i>Gasparzinho e Os Anjos do Espaço<\/i>: Gasparzinho luta contra o crime no espaço sideral.",
                "audio": "11590_2",
                "truth": true
             },
             {
-               "text": "<i>Don Knotts\u2019 Gladiators<\/i>: Don Knotts is the emperor of Rome.",
+               "text": "<i>Os Gladiadores de Don Knotts<\/i>: Don Knotts é o emperador de Roma.",
                "audio": "11590_3",
                "truth": false
             },
             {
-               "text": "<i>Scooter Toots<\/i>: Scooter Toots is a scooter by day, a jazz musician by night.",
+               "text": "<i>Scooter Toots<\/i>: Scooter Toots é uma scooter de dia, e artista de jazz à noite.",
                "audio": "11590_4",
                "truth": false
             },
             {
-               "text": "<i>Lava Cats<\/i>: A group of cats protect a village from a volcano.",
+               "text": "<i>Lava Cats<\/i>: Um grupo de gatos protegem uma vila de um vulcão.",
                "audio": "11590_5",
                "truth": false
             },
             {
-               "text": "<i>Scooby-Doo\u2019s Love Boat<\/i>: Scooby sets sail for love.",
+               "text": "<i>O Barco do Amor do Scooby-Doo<\/i>: Scooby zarpa em busca do amor.",
                "audio": "11590_6",
                "truth": false
             }
@@ -1110,46 +1110,46 @@
       },
       {
          "id": 11688,
-         "text": "Real Fake People",
+         "text": "Pessoas Fictícias de Verdade",
          "category": "Real Fake People",
          "audio": "11688_cat",
          "subject": "Real",
          "statements": [
             {
-               "response": "He worked there.",
-               "text": "A man named Ronald McDonald robbed a Wendy\u2019s. ",
+               "response": "Ele trabalhava lá.",
+               "text": "Um homem chamado Ronald McDonald roubou o restaurante Wendy\u2019s. ",
                "audio": "11688_0",
                "truth": true
             },
             {
-               "response": "After Don Draper stayed in a Howard Johnson hotel on <i>Mad Men<\/i>.",
-               "text": "Howard Johnson offered anyone named Don Draper a free night in one of their hotels.",
+               "response": "Depois, Don Draper ficou em um hotel Howard Johnson em <i>Mad Men<\/i>.",
+               "text": "Howard Johnson ofereceu a um homem chamado Don Draper uma noite grátis em um dos seus hoteis.",
                "audio": "11688_1",
                "truth": true
             },
             {
-               "response": "Several times.",
-               "text": "A man name Walter White was arrested in Alabama for making meth.",
+               "response": "Várias vezes.",
+               "text": "Um homem chamado Walter White foi preso no Alabama por cozinhar Metanfetamina.",
                "audio": "11688_2",
                "truth": true
             },
             {
-               "text": "A man named Holden Caulfield tried to kill Mark David Chapman.",
+               "text": "Um homem chamado Marty McFly foi fotografado em 1985 e em 1952 e tinha a mesma aparência.",
                "audio": "11688_3",
                "truth": false
             },
             {
-               "text": "The first men legally married in San Francisco were named Bert & Ernie. ",
+               "text": "Os primeiros homens casados legalmente em São Francisco se chamavam Bert & Ernie. ",
                "audio": "11688_4",
                "truth": false
             },
             {
-               "text": "Margaret Simpson won a Nobel Prize for her cure for jaundice.",
+               "text": "Margaret Simpson ganhou um Prêmio Nobel pela cura da anemia.",
                "audio": "11688_5",
                "truth": false
             },
             {
-               "text": "The oldest man in 1973 was named Peter Pan.",
+               "text": "O homem mais velho em 1973 se chamava Peter Pan.",
                "audio": "11688_6",
                "truth": false
             }
@@ -1157,46 +1157,46 @@
       },
       {
          "id": 11589,
-         "text": "<i>Saved By The Bell<\/i> Episodes",
+         "text": "Episódios de <i>Uma Galera do Barulho<\/i>",
          "category": "<i>Saved By The Bell<\/i> Episodes",
          "audio": "11589_cat",
          "subject": "Pop Culture",
          "statements": [
             {
-               "response": "Oil is found under the football field!",
-               "text": "The kids strike oil.",
+               "response": "Óleo é encontrado debaixo do campo de futebol!",
+               "text": "As crianças encontram óleo.",
                "audio": "11589_0",
                "truth": true
             },
             {
-               "response": "Turns out, they were being pranked by a TV show!",
-               "text": "The kids steal $5,000 to buy U2 tickets.",
+               "response": "Acontece que era uma pegadinha de um programa de TV!",
+               "text": "As crianças roubam US$5.000 para comprar ingressos do U2.",
                "audio": "11589_1",
                "truth": true
             },
             {
-               "response": "A murder mystery weekend produces a real murder...  or did it?!?",
-               "text": "The kids investigate a murder.",
+               "response": "Um fim de semana de mistérios produz um assassinato...  Será?!?",
+               "text": "As crianças investigam um assassinato.",
                "audio": "11589_2",
                "truth": true
             },
             {
-               "text": "The kids campaign for Bob Dole. ",
+               "text": "As crianças fazem campanha para o senador Bob Dole. ",
                "audio": "11589_3",
                "truth": false
             },
             {
-               "text": "The kids accidentally burn down the poor part of town.",
+               "text": "As crianças acidentalmente queimam a parte pobre da cidade.",
                "audio": "11589_4",
                "truth": false
             },
             {
-               "text": "The kids write a rap song about WWII. ",
+               "text": "As crianças fazem um rap sobre a 2ª Guerra Mundial. ",
                "audio": "11589_5",
                "truth": false
             },
             {
-               "text": "The kids invent a new kind of super glue.",
+               "text": "As crianças inventam um novo tipo de super cola.",
                "audio": "11589_6",
                "truth": false
             }
@@ -1204,25 +1204,25 @@
       },
       {
          "id": 11592,
-         "text": "Harlem Globetrotters",
+         "text": "O Time Harlem Globetrotters",
          "category": "Harlem Globetrotters",
          "audio": "11592_cat",
          "subject": "Sports",
          "statements": [
             {
-               "response": "Pope John Paul II was made an honorary Globetrotter.",
-               "text": "Pope John Paul II",
+               "response": "Papa João Paulo II foi membro honorário do Globetrotter.",
+               "text": "Papa João Paulo II",
                "audio": "11592_0",
                "truth": true
             },
             {
-               "response": "He also played in the NBA for 8 seasons.",
+               "response": "Ele jogou na NBA por 8 temporadas.",
                "text": "John \u201cHot Plate\u201d Williams",
                "audio": "11592_1",
                "truth": true
             },
             {
-               "response": "The 7-foot-all Mongolian was the first Asian Globetrotter.",
+               "response": "O Mongol de 2,1m foi o primeiro Globetrotter asiático.",
                "text": "Sharavjamts \u201cShark\u201d Tserenjanhor",
                "audio": "11592_2",
                "truth": true
@@ -1251,45 +1251,45 @@
       },
       {
          "id": 11662,
-         "text": "Making Money",
+         "text": "Produção de Dinheiro",
          "category": "Making Money",
          "audio": "11662_cat",
          "subject": "USA",
          "statements": [
             {
-               "response": "In 2011, it cost about 11.2 cents to make a 5 cent nickel.",
-               "text": "It costs over 11 cents to make a U.S. nickel.",
+               "response": "Em 2011, custava 11.2 centavos para fazer a moeda de 5 centavos.",
+               "text": "Custa 11 centavos para fazer a moeda de 5 centavos americana.",
                "audio": "11662_0",
                "truth": true
             },
             {
-               "response": "A $10 bill costs about 8.5 cents and a $100 bill costs 7.7 cents to print.",
-               "text": "It costs more to print a $10 bill than a $100 bill",
+               "response": "Para imprimir uma nota de US$10 custa 8.5 centavos e a de US$100 custa 7.7 centavos.",
+               "text": "É mais caro imprimir a nota de US$10 que a de $100",
                "audio": "11662_1",
                "truth": true
             },
             {
-               "text": "A penny costs exactly one cent to manufacture. ",
+               "text": "Uma moeda de 1 centavo custa exatamente 1 centavo para produzir. ",
                "audio": "11662_2",
                "truth": false
             },
             {
-               "text": "The U.S. Mint loses $1 trillion a year making new money. ",
+               "text": "A Casa da Moeda Americana perde US$1 trilhão por ano produzindo dinheiro. ",
                "audio": "11662_3",
                "truth": false
             },
             {
-               "text": "It costs less to make a silver dollar than to print a paper dollar. ",
+               "text": "Custa menos produzir a moeda de 50 centavos do que imprimir uma cédula. ",
                "audio": "11662_4",
                "truth": false
             },
             {
-               "text": "The U.S. Mint earns a dollar for every dime made.",
+               "text": "A Casa da Moeda Americana ganha 1 dólar por cada moeda de 10 centavos produzida.",
                "audio": "11662_5",
                "truth": false
             },
             {
-               "text": "Temporary currency printed on cotton was used to save money during the Civil War.",
+               "text": "Imprimiram temporariamente as notas em algodão para poupar dinheiro na Guerra Civil.",
                "audio": "11662_6",
                "truth": false
             }
@@ -1297,46 +1297,46 @@
       },
       {
          "id": 11198,
-         "text": "Fashion Designers",
+         "text": "Designers da Moda",
          "category": "Fashion Designers",
          "audio": "11198_cat",
          "subject": "Fashion",
          "statements": [
             {
-               "response": "For his clothing company, 1791.",
-               "text": "Glenn Beck created a line of blue jeans. ",
+               "response": "Para a sua empresa: 1791.",
+               "text": "Glenn Beck criou uma linha de jeans azuis. ",
                "audio": "11198_0",
                "truth": true
             },
             {
-               "response": "It\u2019s called Pantaloonies.",
-               "text": "Helena Bonham Carter runs a service that converts your pants into pantaloons. ",
+               "response": "É chamado Pantaloonies.",
+               "text": "Helena Bonham Carter é dona de um serviço que converte calças em pantalonas. ",
                "audio": "11198_1",
                "truth": true
             },
             {
-               "response": "Unfortunately, none of the shoes were co-designed by Rob Thomas.",
-               "text": "Carlos Santana sells a line of high heels. ",
+               "response": "Infelizmente, nenhum dos seus calçados foram co-desenvolvidos por Rob Thomas.",
+               "text": "Carlos Santana vende uma linha de saltos altos. ",
                "audio": "11198_2",
                "truth": true
             },
             {
-               "text": "Johnny Knoxville designed a line of men\u2019s thongs.",
+               "text": "Johnny Knoxville desenvolveu uma linha de tangas masculinas.",
                "audio": "11198_3",
                "truth": false
             },
             {
-               "text": "John Goodman sells a line of male girdles. ",
+               "text": "John Goodman vende uma linha de cintas masculinas. ",
                "audio": "11198_4",
                "truth": false
             },
             {
-               "text": "Sissy Spacek has her own line of toe rings. ",
+               "text": "Sissy Spacek tem sua própria linha de anéis de pé. ",
                "audio": "11198_5",
                "truth": false
             },
             {
-               "text": "Jason Alexander opened a handbag store in Toronto. ",
+               "text": "Jason Alexander abriu uma loja de bolsas em Toronto. ",
                "audio": "11198_6",
                "truth": false
             }
@@ -1350,19 +1350,19 @@
          "subject": "Math",
          "statements": [
             {
-               "response": "Obviously.",
-               "text": "When X is an integer that isn\u2019t zero, 1 / X³ is less than or equal to 1.",
+               "response": "Obviamente.",
+               "text": "Quando X é um inteiro que não é zero, 1 / X³ é menor que, ou igual a 1.",
                "audio": "11511_0",
                "truth": true
             },
             {
-               "response": "When multiplying exponents, just add them together.",
+               "response": "Quando multiplicar potências, basta apenas somar.",
                "text": "X² * X= X³",
                "audio": "11511_1",
                "truth": true
             },
             {
-               "response": "When dividing exponents, just subtract them.",
+               "response": "Quando dividir potências, basta apenas subtrair.",
                "text": "X³ / X² = X",
                "audio": "11511_2",
                "truth": true
@@ -1391,46 +1391,46 @@
       },
       {
          "id": 11385,
-         "text": "Mother\u2019s Day",
+         "text": "Dia das Mães",
          "category": "Mother\u2019s Day",
          "audio": "11385_cat",
          "subject": "Holidays",
          "statements": [
             {
-               "response": "She thought it became too commercial.",
-               "text": "The founder of Mother's Day in America also started a campaign to abolish it. ",
+               "response": "Ela achou que se tornou muito commercial.",
+               "text": "A criadora do Dia das Mães nos EUA também começou uma campanha para abolir a data. ",
                "audio": "11385_0",
                "truth": true
             },
             {
-               "response": "It\u2019s now a day to celebrate mothers.",
-               "text": "Mothering Sunday, in the UK, was a day servants were allowed to visit their families. ",
+               "response": "Agora é um dia para celebrar as mães.",
+               "text": "Mothering Sunday, no Reino Unido, era um dia em que criados podiam ir visitar suas famílias. ",
                "audio": "11385_1",
                "truth": true
             },
             {
-               "response": "They aren\u2019t released until they promise to make treats for the family.",
-               "text": "In Yugoslavia, children tie up their moms on Mother's Day.",
+               "response": "Elas não são soltas até prometerem fazer doces para a família.",
+               "text": "Na Iugoslávia, as crianças amarram suas mães no Dia das Mães.",
                "audio": "11385_2",
                "truth": true
             },
             {
-               "text": "Children fast from sunup to sundown on Mother's Day in Albania. ",
+               "text": "As crianças fazem jejum do nascer do sol ao pôr do sol no Dia das Mães na Albânia. ",
                "audio": "11385_3",
                "truth": false
             },
             {
-               "text": "Mother's Day is statistically the most common day for women to give birth in the U.S.",
+               "text": "O Dia das Mães é, estatisticamente, o dia com mais nascimentos nos EUA.",
                "audio": "11385_4",
                "truth": false
             },
             {
-               "text": "The mother of the Prime Minister runs Finland on Mother's Day.",
+               "text": "A mãe do Primeiro Ministro governa a Finlândia no Dia das Mães.",
                "audio": "11385_5",
                "truth": false
             },
             {
-               "text": "Mother's Day was first celebrated by three men raising a family together in San Francisco.",
+               "text": "O Dia das Mães foi comemorado primeiro por três homens criando uma família juntos em São Francisco.",
                "audio": "11385_6",
                "truth": false
             }
@@ -1438,13 +1438,13 @@
       },
       {
          "id": 11185,
-         "text": "# We\u2019re Thinking Of",
+         "text": "Número Em Que Estamos Pensando",
          "category": "# We\u2019re Thinking Of",
          "audio": "11185_cat",
          "subject": "Easter Egg",
          "statements": [
             {
-               "response": "That\u2019s the number we were thinking of.",
+               "response": "É o número em que estávamos pensando.",
                "text": "17",
                "audio": "11185_0",
                "truth": true
