@@ -1438,13 +1438,13 @@
       },
       {
          "id": 11185,
-         "text": "Número Em Que Estamos Pensando",
+         "text": "Número Que Estamos Pensando",
          "category": "# We\u2019re Thinking Of",
          "audio": "11185_cat",
          "subject": "Easter Egg",
          "statements": [
             {
-               "response": "É o número em que estávamos pensando.",
+               "response": "É o número que estávamos pensando.",
                "text": "17",
                "audio": "11185_0",
                "truth": true
@@ -1483,45 +1483,45 @@
       },
       {
          "id": 11341,
-         "text": "WWE\u2019s Kane",
+         "text": "Kane do WWE",
          "category": "WWE\u2019s Kane",
          "audio": "11341_cat",
          "subject": "People",
          "statements": [
             {
-               "response": "Called Christmas Creature.",
-               "text": "Early in his career, WWE\u2019s Kane wrestled as a Christmas tree.",
+               "response": "Chamou-se Criatura do Natal.",
+               "text": "No começo da carreira, Kane do WWE lutou como uma árvore de Natal.",
                "audio": "11341_0",
                "truth": true
             },
             {
                "response": "Dr. Isaac Yankem",
-               "text": "Early in his career, WWE\u2019s Kane wrestled as an evil dentist.",
+               "text": "No começo da carreira, Kane do WWE lutou como um dentista do mal.",
                "audio": "11341_1",
                "truth": true
             },
             {
-               "text": "Early in his career, WWE\u2019s Kane wrestled as Ronald Reagan.",
+               "text": "No começo da carreira, Kane do WWE lutou como Ronald Reagan.",
                "audio": "11341_2",
                "truth": false
             },
             {
-               "text": "Early in his career, WWE\u2019s Kane wrestled as a giant baby.",
+               "text": "No começo da carreira, Kane do WWE lutou como um bebê gigante.",
                "audio": "11341_3",
                "truth": false
             },
             {
-               "text": "Early in his career, WWE\u2019s Kane wrestled as a giant George Foreman grill.",
+               "text": "No começo da carreira, Kane do WWE lutou como uma grelha George Foreman gigante.",
                "audio": "11341_4",
                "truth": false
             },
             {
-               "text": "Early in his career, WWE\u2019s Kane wrestled as a woman.",
+               "text": "No começo da carreira, Kane do WWE lutou como uma mulher.",
                "audio": "11341_5",
                "truth": false
             },
             {
-               "text": "Early in his career, WWE\u2019s Kane wrestled in a tag team duo with \u201cHalf Nelson Mandela.\u201d",
+               "text": "No começo da carreira, Kane do WWE lutou como em dupla com o \u201cMeio Nelson Mandela.\u201d",
                "audio": "11341_6",
                "truth": false
             }
@@ -1529,44 +1529,44 @@
       },
       {
          "id": 11647,
-         "text": "Pluto",
+         "text": "Plutão",
          "category": "Pluto",
          "audio": "11647_cat",
          "subject": "Space",
          "statements": [
             {
-               "response": "After being demoted to a dwarf planet.",
-               "text": "In 2006, Pluto was renamed 134340.",
+               "response": "Depois de ser rebaixado a planeta anão.",
+               "text": "Em 2006, Plutão foi renomeado para 134340.",
                "audio": "11647_0",
                "truth": true
             },
             {
-               "text": "In 2006, Pluto was renamed 759432.",
+               "text": "Em 2006, Plutão foi renomeado para 759432.",
                "audio": "11647_1",
                "truth": false
             },
             {
-               "text": "In 2006, Pluto was renamed 429801.",
+               "text": "Em 2006, Plutão foi renomeado para 429801.",
                "audio": "11647_2",
                "truth": false
             },
             {
-               "text": "In 2006, Pluto was renamed 222432.",
+               "text": "Em 2006, Plutão foi renomeado para 222432.",
                "audio": "11647_3",
                "truth": false
             },
             {
-               "text": "In 2006, Pluto was renamed 099321.",
+               "text": "Em 2006, Plutão foi renomeado para 099321.",
                "audio": "11647_4",
                "truth": false
             },
             {
-               "text": "In 2006, Pluto was renamed 600110.",
+               "text": "Em 2006, Plutão foi renomeado para 600110.",
                "audio": "11647_5",
                "truth": false
             },
             {
-               "text": "In 2006, Pluto was renamed Earth 2.",
+               "text": "Em 2006, Plutão foi renomeado para Terra 2.",
                "audio": "11647_6",
                "truth": false
             }
@@ -1574,152 +1574,152 @@
       },
       {
          "id": 11062,
-         "text": "Nuts",
+         "text": "Nozes",
          "category": "Nuts",
          "audio": "11062_cat",
          "subject": "Food",
          "statements": [
             {
-               "response": "Chestnuts are actually nuts.",
+               "response": "As castanhas são realmente nozes.",
                "text": "chestnuts",
                "audio": "11062_0",
                "truth": true,
-               "tweet": "Chestnuts are nuts."
+               "tweet": "Castanhas são nozes."
             },
             {
-               "response": "Acorns are actually nuts.",
+               "response": "Avelãs são realmente nozes.",
                "text": "acorns",
                "audio": "11062_1",
                "truth": true,
-               "tweet": "Acorns are nuts."
+               "tweet": "Avelãs são nozes."
             },
             {
-               "text": "truck nuts",
+               "text": "As árvores somos nozes",
                "audio": "11062_2",
                "truth": false
             },
             {
-               "text": "peanuts",
+               "text": "amendoim",
                "audio": "11062_3",
                "truth": false,
-               "tweet": "Peanuts are nuts."
+               "tweet": "Amendoins são nozes."
             },
             {
-               "text": "almonds",
+               "text": "amêndoas",
                "audio": "11062_4",
                "truth": false,
-               "tweet": "Almonds are nuts."
+               "tweet": "Amêndoas são nozes."
             },
             {
-               "text": "pistachios",
+               "text": "pistache",
                "audio": "11062_5",
                "truth": false,
-               "tweet": "Cashews are nuts."
+               "tweet": "Cajus são nozes."
             },
             {
-               "text": "pine nuts",
+               "text": "pinhões",
                "audio": "11062_6",
                "truth": false,
-               "tweet": "Pine nuts are nuts."
+               "tweet": "pinhões são nozes."
             }
          ]
       },
       {
          "id": 11506,
-         "text": "Real Currency",
+         "text": "Moedas de verdade",
          "category": "Real Currency",
          "audio": "11506_cat",
          "subject": "Real",
          "statements": [
             {
-               "response": "The Guatemalan quetzal.",
+               "response": "O quetzal guatemalteco.",
                "text": "Q",
                "audio": "11506_0",
                "truth": true,
-               "tweet": "Q is a real currency symbol."
+               "tweet": "Q é um símbolo de moeda de verdade."
             },
             {
-               "response": "The Japanese yen.",
+               "response": "O iene japonês.",
                "text": "¥",
                "audio": "11506_1",
                "truth": true,
-               "tweet": "¥ is a real currency symbol."
+               "tweet": "¥ é um símbolo de moeda de verdade."
             },
             {
-               "response": "The European euro.",
+               "response": "O euro europeu.",
                "text": "\u20ac",
                "audio": "11506_2",
                "truth": true,
-               "tweet": "is a real currency symbol."
+               "tweet": "€ é um símbolo de moeda de verdade."
             },
             {
                "text": "Ë",
                "audio": "11506_3",
                "truth": false,
-               "tweet": "Ë is a real currency symbol."
+               "tweet": "Ë é um símbolo de moeda de verdade."
             },
             {
                "text": "¿",
                "audio": "11506_4",
                "truth": false,
-               "tweet": "¿ is a real currency symbol."
+               "tweet": "¿ é um símbolo de moeda de verdade."
             },
             {
                "text": "Ω",
                "audio": "11506_5",
                "truth": false,
-               "tweet": "§ is a real currency symbol."
+               "tweet": "§ é um símbolo de moeda de verdade."
             },
             {
                "text": "Ç",
                "audio": "11506_6",
                "truth": false,
-               "tweet": "Ç is a real currency symbol."
+               "tweet": "Ç é um símbolo de moeda de verdade."
             }
          ]
       },
       {
          "id": 11263,
-         "text": "College Mascots",
+         "text": "Mascotes de universidade",
          "category": "College Mascots",
          "audio": "11263_cat",
          "subject": "Sports",
          "statements": [
             {
-               "response": "The students chose it over Sea Lions.",
-               "text": "UC-Santa Cruz Banana Slugs",
+               "response": "Os alunos escolheram em vez de Leões Marinhos.",
+               "text": "Lesmas de Banana da UC-Santa Cruz",
                "audio": "11263_0",
                "truth": true
             },
             {
-               "response": "This mascot\u2019s the real dill.",
-               "text": "North Carolina School of the Arts Fighting Pickles",
+               "response": "Que pepino que eles se meteram.",
+               "text": "O Picles Lutador da Universidade de Artes da Carolina do Norte",
                "audio": "11263_1",
                "truth": true
             },
             {
-               "response": "The students yell \u201cGo Nads!\u201d at the games.",
-               "text": "Rhode Island School of Design Nads",
+               "response": "Os alunos gritam \u201cVão, Testículos!\u201d nos jogos.",
+               "text": "Testículos da Escola de Design de Rhode Island",
                "audio": "11263_2",
                "truth": true
             },
             {
-               "text": "Nebraska State Screaming Mermaids",
+               "text": "Sereias Escandalosas de Nebraska State",
                "audio": "11263_3",
                "truth": false
             },
             {
-               "text": "Beloit College Friendly Hobos",
+               "text": "Mendigos Amigávels da Faculdade Beloit",
                "audio": "11263_4",
                "truth": false
             },
             {
-               "text": "Sonoma State University Enablers",
+               "text": "Os Facilitadores da Universidade de Sonoma State",
                "audio": "11263_5",
                "truth": false
             },
             {
-               "text": "Appleton School of Technology Luddites",
+               "text": "Luditas do Instituto de Tecnologia de Appleton",
                "audio": "11263_6",
                "truth": false
             }
@@ -1727,45 +1727,45 @@
       },
       {
          "id": 11085,
-         "text": "Princesses",
+         "text": "Princesas",
          "category": "Princesses",
          "audio": "11085_cat",
          "subject": "Body",
          "statements": [
             {
-               "response": "It\u2019s like a hairball with a mullet.",
-               "text": "Rapunzel syndrome is a condition when ingested hair forms a tail in the intestine. ",
+               "response": "É como uma bola de pelo com mullet.",
+               "text": "A síndrome de Rapunzel é uma condição em que o cabelo ingerido forma uma cauda no intestino. ",
                "audio": "11085_0",
                "truth": true
             },
             {
-               "response": "People with Kleine\u2013Levin syndrome will sleep for 20 hours a day.",
-               "text": "A sleeping disorder known as Sleeping Beauty syndrome affects mostly teenage boys.",
+               "response": "Pessoas com a síndrome de Kleine\u2013Levin syndrome dormem 20 horas por dia.",
+               "text": "Um distúrbio do sono conhecido como síndrome da Bela Adormecida afeta principalmente meninos adolescentes.",
                "audio": "11085_1",
                "truth": true
             },
             {
-               "text": "Snow-whitosis is a disease transmitted by a species of fly larvae found in apples. ",
+               "text": "Branca-de-nevose é uma doença transmitida por uma espécie de larva de mosca encontrada em maçãs. ",
                "audio": "11085_2",
                "truth": false
             },
             {
-               "text": "Cinderella syndrome is a degenerative disease that causes hands and feet to shrink.",
+               "text": "A síndrome de Cinderela é uma doença degenerativa que faz com que as mãos e os pés encolham.",
                "audio": "11085_3",
                "truth": false
             },
             {
-               "text": "A type of gigantism that causes appendage growth is called the Thumbelina disorder.",
+               "text": "Um tipo de gigantismo que causa o crescimento do apêndice é chamado de distúrbio da Polegarzinha.",
                "audio": "11085_4",
                "truth": false
             },
             {
-               "text": "Vomiting from eating wild mushrooms has been nicknamed \u201cPrincess Peach disease\u201d in Japan.",
+               "text": "O vômito por comer cogumelos selvagens foi apelidado de \u201cDoença da Princesa Peach\u201d no Japão.",
                "audio": "11085_5",
                "truth": false
             },
             {
-               "text": "A strand of E. coli is named after Princess Diana. ",
+               "text": "Um filamento de E. coli tem o nome da Princesa Diana. ",
                "audio": "11085_6",
                "truth": false
             }
@@ -1773,46 +1773,46 @@
       },
       {
          "id": 11173,
-         "text": "Middle Names",
+         "text": "Nomes do meio",
          "category": "Middle Names",
          "audio": "11173_cat",
          "subject": "People",
          "statements": [
             {
                "response": "Fred McFeely Rogers",
-               "text": "Mr. Rogers\u2019 middle name was McFeely. ",
+               "text": "O nome do meio de Mr. Rogers era McFeely. ",
                "audio": "11173_0",
                "truth": true
             },
             {
-               "response": "Her last name is Roberts.",
-               "text": "Barbie\u2019s middle name is Millicent.",
+               "response": "O último nome é Roberts.",
+               "text": "O nome do meio da Barbie é Millicent.",
                "audio": "11173_1",
                "truth": true
             },
             {
-               "response": "He took the name from a horse on a British sitcom.",
-               "text": "Sir Elton John\u2019s middle name is Hercules. ",
+               "response": "Ele pegou o nome de um cavalo de uma comédia britânica.",
+               "text": "O nome do meio de Sir Elton John é Hercules.",
                "audio": "11173_2",
                "truth": true
             },
             {
-               "text": "Marge Simpson\u2019s middle name is Frankenstein.",
+               "text": "O nome do meio da Marge Simpson é Frankenstein.",
                "audio": "11173_3",
                "truth": false
             },
             {
-               "text": "Charlie Brown\u2019s middle name is Wemblingford. ",
+               "text": "O nome do meio de Charlie Brown é Wemblingford.",
                "audio": "11173_4",
                "truth": false
             },
             {
-               "text": "Winston Churchill\u2019s middle name was Adolf. ",
+               "text": "O nome do meio de Winston Churchill era Adolf.",
                "audio": "11173_5",
                "truth": false
             },
             {
-               "text": "Bill Cosby\u2019s middle names are Rudy, Vannessa, Theo, and Denise.",
+               "text": "Os nomes do meio de Bill Cosby eram Rudy, Vannessa, Theo, e Denise.",
                "audio": "11173_6",
                "truth": false
             }
@@ -1820,46 +1820,46 @@
       },
       {
          "id": 10764,
-         "text": "Former Band Names",
+         "text": "Primeiros nomes de bandas",
          "category": "Former Band Names",
          "audio": "10764_cat",
          "subject": "Pop Culture",
          "statements": [
             {
-               "response": "It\u2019s a shame they changed it.",
-               "text": "The Goo Goo Dolls were originally the Sex Maggots.",
+               "response": "É uma pena que mudaram.",
+               "text": "Goo Goo Dolls se chamavam Sex Maggots.",
                "audio": "10764_0",
                "truth": true
             },
             {
-               "response": "They also called themselves the Quarrymen and the Silver Beatles.",
-               "text": "The Beatles were originally Johnny and the Moondogs.",
+               "response": "Também se chamaram Quarrymen and the Silver Beatles.",
+               "text": "The Beatles eram Johnny and the Moondogs.",
                "audio": "10764_1",
                "truth": true
             },
             {
-               "response": "The Carl was Brian Wilson\u2019s younger brother, Carl.",
-               "text": "The Beach Boys were originally Carl and the Passions.",
+               "response": "Carl era o irmão mais novo de Brian Wilson, Carl.",
+               "text": "The Beach Boys eram Carl and the Passions.",
                "audio": "10764_2",
                "truth": true
             },
             {
-               "text": "Nirvana was originally Pee Pee Poo Poo.",
+               "text": "Nirvana era originalmente Pee Pee Poo Poo.",
                "audio": "10764_3",
                "truth": false
             },
             {
-               "text": "The Red Hot Chilli Peppers were originally Stink Party.",
+               "text": "The Red Hot Chilli Peppers eram originalmente Stink Party.",
                "audio": "10764_4",
                "truth": false
             },
             {
-               "text": "Radiohead was originally Grandma Sadness.",
+               "text": "Radiohead era originalmente Grandma Sadness.",
                "audio": "10764_5",
                "truth": false
             },
             {
-               "text": "The Four Seasons were originally the Three Seasons.",
+               "text": "The Four Seasons era originalmente Three Seasons.",
                "audio": "10764_6",
                "truth": false
             }
@@ -1867,49 +1867,49 @@
       },
       {
          "id": 11074,
-         "text": "Foods That Poison Dogs",
+         "text": "Comidas que envenenam cães",
          "category": "Foods That Poison Dogs",
          "audio": "11074_cat",
          "subject": "Animals",
          "statements": [
             {
-               "response": "Avocados contain Persin, which causes vomiting and diarrhea.",
+               "response": "Os abacates contêm Persin, que causa vômito e diarreia.",
                "text": "avocados",
                "audio": "11074_0",
                "truth": true,
-               "tweet": "Avocados are poisonous to dogs."
+               "tweet": "Abacates são venenosos para cães."
             },
             {
-               "response": "Grapes and raisins can cause kidney failure.",
+               "response": "Uvas e passas podem causar insuficiência renal.",
                "text": "raisins",
                "audio": "11074_1",
                "truth": true,
-               "tweet": "Raisins are poisonous to dogs."
+               "tweet": "Passas são venenosas para cães."
             },
             {
-               "response": "The sweetener, Xylitol, can cause seizures or liver failure.",
-               "text": "sugar-free gum",
+               "response": "O adoçante Xylitol pode causar convulsões ou insuficiência hepática.",
+               "text": "chiclete sem açúcar",
                "audio": "11074_2",
                "truth": false,
-               "tweet": "Sugar-free gum is poisonous to dogs."
+               "tweet": "chiclete sem açúcar é venenoso para cães."
             },
             {
-               "text": "watermelons",
+               "text": "melancias",
                "audio": "11074_3",
                "truth": false
             },
             {
-               "text": "blueberries ",
+               "text": "mirtilo",
                "audio": "11074_4",
                "truth": false
             },
             {
-               "text": "popcorn",
+               "text": "pipoca",
                "audio": "11074_5",
                "truth": false
             },
             {
-               "text": "cottage cheese",
+               "text": "queijo cottage",
                "audio": "11074_6",
                "truth": false
             }
@@ -1917,46 +1917,46 @@
       },
       {
          "id": 11178,
-         "text": "\u201cC\u201d Names",
+         "text": "Nomes com \u201cC\u201d",
          "category": "\u201cC\u201d Names",
          "audio": "11178_cat",
          "subject": "Words",
          "statements": [
             {
-               "response": "Sorry, Claudia.",
-               "text": "The name Claudia means \u201clame\u201d or \u201cdisabled.\u201d",
+               "response": "Foi mal, Claudia.",
+               "text": "O nome Claudia significa \u201cmanco\u201d or \u201cincapaz.\u201d",
                "audio": "11178_0",
                "truth": true
             },
             {
-               "response": "It\u2019s Scottish.",
-               "text": "The name Cameron means \u201ccrooked nose.\u201d",
+               "response": "É escocês.",
+               "text": "O nome Cameron significa \u201cnariz torto.\u201d",
                "audio": "11178_1",
                "truth": true
             },
             {
-               "response": "It\u2019s a popular name among cruel parents.",
-               "text": "The name Calvin means \u201cbald.\u201d",
+               "response": "É um nome popular entre pais malvados.",
+               "text": "O nome Calvin significa \u201ccalvo.\u201d",
                "audio": "11178_2",
                "truth": true
             },
             {
-               "text": "The name Chad means \u201cweird pants.\u201d",
+               "text": "O nome Chad significa \u201ccalça estranha.\u201d",
                "audio": "11178_3",
                "truth": false
             },
             {
-               "text": "The name Cathy means \u201cAck!\u201d",
+               "text": "O nome Cathy significa \u201cEca!\u201d",
                "audio": "11178_4",
                "truth": false
             },
             {
-               "text": "The name Carl means \u201cfat\u201d or \u201cheavy.\u201d",
+               "text": "O nome Carl significa \u201cgordo\u201d or \u201cpesado.\u201d",
                "audio": "11178_5",
                "truth": false
             },
             {
-               "text": "The name Chelsea means \u201cdifficult life.\u201d",
+               "text": "O nome Chelsea significa \u201cvida difícil.\u201d",
                "audio": "11178_6",
                "truth": false
             }
@@ -1964,7 +1964,7 @@
       },
       {
          "id": 11232,
-         "text": "<i>Snow White and the Seven Dwarfs<\/i>",
+         "text": "<i>Branca de Neve e os Sete Anões<\/i>",
          "category": "<i>Snow White and the Seven Dwarfs<\/i>",
          "audio": "11232_cat",
          "subject": "Pop Culture",
