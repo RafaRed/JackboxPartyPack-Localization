@@ -27,3 +27,5 @@ O objetivo inicial do projeto não é traduzir todo jogo, estarei começando pel
 ## The Jackbox Party Pack 7
  - Champ'd Up
     - [x] Frases da fase1
+  - Talking Points
+    - [ ] Títulos
