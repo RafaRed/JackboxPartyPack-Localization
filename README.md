@@ -10,9 +10,11 @@ O objetivo inicial do projeto não é traduzir todo jogo, estarei começando pel
 - [x] Tradução automática em pt-br por @monty-liam
 - [ ] Verificar arquivos que ainda não foram adicionados ao projeto para realização da tradução.
 - [ ] Entender qual a melhor forma de traduzir os arquivos que estão separados em diversas pastas.
+- [ ] Guia de instalação para as traduções no  readme.
 
 # O que estamos precisando:
 - [ ] Revisão e adaptação brasileira para arquivos traduzidos de forma automática.
+- [ ] Criação de questões brasileiras para os jogos Quiplash e Drawful 
 
 ## The Jackbox Party Pack 1
 
