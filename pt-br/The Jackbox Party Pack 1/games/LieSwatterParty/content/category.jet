@@ -1964,99 +1964,99 @@
       },
       {
          "id": 11232,
-         "text": "<i>Branca de Neve e os Sete Anões<\/i>",
-         "category": "<i>Snow White and the Seven Dwarfs<\/i>",
+         "text": "<i>Branca de Neve e os Sete Anões</i>",
+         "category": "<i>Branca de Neve e os Sete Anões</i>",
          "audio": "11232_cat",
-         "subject": "Pop Culture",
+         "subject": "Cultura pop",
          "statements": [
             {
-               "response": "Also: Graspy",
-               "text": "Dirty was a potential dwarf name for the movie.",
+               "response": "Também: Graspy",
+               "text": "Sujo era um nome de anão em potencial para o filme.",
                "audio": "11232_0",
                "truth": true,
-               "tweet": "Dirty was considered as a dwarf name for \u201cSnow White and the Seven Dwarfs.\u201d"
+               "tweet": "Sujo foi considerado um nome anão para \"Branca de Neve e os Sete Anões\"."
             },
             {
-               "response": "Also: Goopy",
-               "text": "Shifty was a potential dwarf name for the movie.",
+               "response": "Também: Goopy",
+               "text": "Shifty era um nome de anão em potencial para o filme.",
                "audio": "11232_1",
                "truth": true,
-               "tweet": "Shifty was considered as a dwarf name for \u201cSnow White and the Seven Dwarfs.\u201d"
+               "tweet": "Shifty foi considerado um nome anão para \"Branca de Neve e os Sete Anões\"."
             },
             {
-               "response": "Also: Chesty",
-               "text": "Awful was a potential dwarf name for the movie.",
+               "response": "Também: Peito",
+               "text": "Terrível era o nome de um anão em potencial para o filme.",
                "audio": "11232_2",
                "truth": true,
-               "tweet": "Awful was considered as a dwarf name for \u201cSnow White and the Seven Dwarfs.\u201d"
+               "tweet": "Terrível era considerado um nome anão para \"Branca de Neve e os Sete Anões\"."
             },
             {
-               "text": "Punchy was a potential dwarf name for the movie.",
+               "text": "Punchy era um nome de anão em potencial para o filme.",
                "audio": "11232_3",
                "truth": false,
-               "tweet": "Punchy was considered as a dwarf name for \u201cSnow White and the Seven Dwarfs.\u201d"
+               "tweet": "Punchy foi considerado um nome anão para \"Branca de Neve e os Sete Anões\"."
             },
             {
-               "text": "Grabby was a potential dwarf name for the movie.",
+               "text": "Grabby era um nome de anão em potencial para o filme.",
                "audio": "11232_4",
                "truth": false,
-               "tweet": "Grabby was considered as a dwarf name for \u201cSnow White and the Seven Dwarfs.\u201d"
+               "tweet": "Grabby foi considerado um nome anão para \"Branca de Neve e os Sete Anões\"."
             },
             {
-               "text": "Farty was a potential dwarf name for the movie.",
+               "text": "Farty era um nome de anão em potencial para o filme.",
                "audio": "11232_5",
                "truth": false,
-               "tweet": "Farty was considered as a dwarf name for \u201cSnow White and the Seven Dwarfs.\u201d"
+               "tweet": "Farty foi considerado um nome anão para \"Branca de Neve e os Sete Anões\"."
             },
             {
-               "text": "Professor was a potential dwarf name for the movie.",
+               "text": "Professor era um nome de anão em potencial para o filme.",
                "audio": "11232_6",
                "truth": false,
-               "tweet": "Professor was considered as a dwarf name for \u201cSnow White and the Seven Dwarfs.\u201d"
+               "tweet": "Professor foi considerado um nome anão para \"Branca de Neve e os Sete Anões\"."
             }
          ]
       },
       {
          "id": 11032,
-         "text": "Inventions",
-         "category": "Inventions",
+         "text": "Invenções",
+         "category": "Invenções",
          "audio": "11032_cat",
-         "subject": "Products",
+         "subject": "Produtos",
          "statements": [
             {
-               "response": "It was for horse drawn carriages.",
-               "text": "The traffic light was invented before the car.",
+               "response": "Era para carruagens puxadas por cavalos.",
+               "text": "O semáforo foi inventado antes do carro.",
                "audio": "11032_0",
                "truth": true
             },
             {
-               "response": "Early parachutes were intended for jumping out of buildings.",
-               "text": "The parachute was invented before the airplane.",
+               "response": "Os primeiros pára-quedas destinavam-se a saltar de edifícios.",
+               "text": "O paraquedas foi inventado antes do avião.",
                "audio": "11032_1",
                "truth": true
             },
             {
-               "text": "Smoke detectors were invented before fire.",
+               "text": "Os detectores de fumaça foram inventados antes do fogo.",
                "audio": "11032_2",
                "truth": false
             },
             {
-               "text": "The bottle cap was invented before soda pop. ",
+               "text": "A tampa da garrafa foi inventada antes do refrigerante. ",
                "audio": "11032_3",
                "truth": false
             },
             {
-               "text": "The electric guitar was invented before the acoustic guitar.",
+               "text": "A guitarra elétrica foi inventada antes do violão.",
                "audio": "11032_4",
                "truth": false
             },
             {
-               "text": "Jacques Cousteau was born before the submarine was invented.",
+               "text": "Jacques Cousteau nasceu antes do submarino ser inventado.",
                "audio": "11032_5",
                "truth": false
             },
             {
-               "text": "The toaster was invented before toast. ",
+               "text": "A torradeira foi inventada antes da torrada. ",
                "audio": "11032_6",
                "truth": false
             }
@@ -2064,46 +2064,46 @@
       },
       {
          "id": 11117,
-         "text": "International Names",
-         "category": "International Names",
+         "text": "Nomes Internacionais",
+         "category": "Nomes Internacionais",
          "audio": "11117_cat",
-         "subject": "Places",
+         "subject": "Locais",
          "statements": [
             {
-               "response": "Burger King was an already trademarked name.",
-               "text": "In Australia, Burger King is called Hungry Jack\u2019s. ",
+               "response": "Burger King já era um nome de marca registrada.",
+               "text": "Na Austrália, o Burger King é chamado de Hungry Jack's. ",
                "audio": "11117_0",
                "truth": true
             },
             {
-               "response": "Keeping the name short and sweet.",
-               "text": "In India, Wal-Mart is called BestPrice Modern Wholesale. ",
+               "response": "Manter o nome curto e doce.",
+               "text": "Na Índia, o Wal-Mart é denominado BestPrice Modern Wholesale. ",
                "audio": "11117_1",
                "truth": true
             },
             {
-               "response": "That\u2019s very German-sounding.",
-               "text": "In Germany, Mr. Clean is called Meister Proper. ",
+               "response": "Isso soa muito alemão.",
+               "text": "Na Alemanha, o Sr. Clean é chamado de Meister Proper. ",
                "audio": "11117_2",
                "truth": true
             },
             {
-               "text": "In Brazil, Target is called Bow e Quiver.",
+               "text": "No Brasil, o Target é denominado Bow e Quiver.",
                "audio": "11117_3",
                "truth": false
             },
             {
-               "text": "In Japan, Chuck E. Cheese is called House of Electronic Rat Pizza. ",
+               "text": "No Japão, Chuck E. Cheese é chamado House of Electronic Rat Pizza. ",
                "audio": "11117_4",
                "truth": false
             },
             {
-               "text": "In Sweden, <i>Friends<\/i> is called <i>Pod of Dependency<\/i>.",
+               "text": "Na Suécia, <i>amigos</i> é chamado de <i>cápsulas de dependência</i>.",
                "audio": "11117_5",
                "truth": false
             },
             {
-               "text": "In Italy, Mr. Bubble is called Tony Bathtub. ",
+               "text": "Na Itália, Mr. Bubble é chamado Tony Bathtub. ",
                "audio": "11117_6",
                "truth": false
             }
@@ -2114,42 +2114,42 @@
          "text": "Chuck Norris",
          "category": "Chuck Norris",
          "audio": "11461_cat",
-         "subject": "People",
+         "subject": "Pessoas",
          "statements": [
             {
-               "response": "He was born Carlos Ray Norris.",
-               "text": "Chuck Norris\u2019 real name is Carlos.",
+               "response": "Ele nasceu Carlos Ray Norris.",
+               "text": "O nome verdadeiro de Chuck Norris é Carlos.",
                "audio": "11461_0",
                "truth": true
             },
             {
-               "response": "He claims he could eat, \u201ca whole pound of them.\u201d",
-               "text": "Chuck Norris loves peanut clusters. ",
+               "response": "Ele afirma que poderia comer \"uma libra inteira deles\".",
+               "text": "Chuck Norris adora cachos de amendoim. ",
                "audio": "11461_1",
                "truth": true
             },
             {
-               "text": "Chuck Norris sells handmade Christmas ornaments. ",
+               "text": "Chuck Norris vende enfeites de Natal feitos à mão. ",
                "audio": "11461_2",
                "truth": false
             },
             {
-               "text": "Chuck Norris has three children. ",
+               "text": "Chuck Norris tem três filhos. ",
                "audio": "11461_3",
                "truth": false
             },
             {
-               "text": "Chuck Norris eats a peanut butter and jelly sandwich every day.",
+               "text": "Chuck Norris come um sanduíche de pasta de amendoim e geleia todos os dias.",
                "audio": "11461_4",
                "truth": false
             },
             {
-               "text": "Chuck Norris is a spokesman for birdwatching. ",
+               "text": "Chuck Norris é porta-voz da observação de pássaros. ",
                "audio": "11461_5",
                "truth": false
             },
             {
-               "text": "Chuck Norris\u2019 favorite color is light gray. ",
+               "text": "A cor favorita de Chuck Norris é cinza claro. ",
                "audio": "11461_6",
                "truth": false
             }
@@ -2157,46 +2157,46 @@
       },
       {
          "id": 10810,
-         "text": "Pee-Wee\u2019s Playhouse",
-         "category": "Pee-Wee\u2019s Playhouse",
+         "text": "Playhouse do Pee-Wee",
+         "category": "Playhouse do Pee-Wee",
          "audio": "10810_cat",
-         "subject": "Pop Culture",
+         "subject": "Cultura pop",
          "statements": [
             {
-               "response": "Scary.",
-               "text": "Rob Zombie was a production assistant.",
+               "response": "Apavorante.",
+               "text": "Rob Zombie era um assistente de produção.",
                "audio": "10810_0",
                "truth": true
             },
             {
-               "response": "While doing a Betty Boop impression.",
-               "text": "Cyndi Lauper sang the theme song.",
+               "response": "Enquanto fazia uma impressão de Betty Boop.",
+               "text": "Cyndi Lauper cantou a música tema.",
                "audio": "10810_1",
                "truth": true
             },
             {
-               "response": "His name was William Marshall.",
-               "text": "The actor who played \u201cBlacula\u201d in <i>Blacula<\/i> was the \u201cKing of Cartoons.\u201d",
+               "response": "Seu nome era William Marshall.",
+               "text": "O ator que interpretou “Blacula” em <i>Blacula</i> era o “Rei dos desenhos animados”.",
                "audio": "10810_2",
                "truth": true
             },
             {
-               "text": "Andy Dick was the head writer.",
+               "text": "Andy Dick foi o redator principal.",
                "audio": "10810_3",
                "truth": false
             },
             {
-               "text": "Kevin Smith was a security guard on set.",
+               "text": "Kevin Smith era um segurança no set.",
                "audio": "10810_4",
                "truth": false
             },
             {
-               "text": "Kevin Costner was a puppeteer.",
+               "text": "Kevin Costner era um titereiro.",
                "audio": "10810_5",
                "truth": false
             },
             {
-               "text": "Ben Affleck visited the set on a field trip.",
+               "text": "Ben Affleck visitou o set em uma viagem de campo.",
                "audio": "10810_6",
                "truth": false
             }
@@ -2207,42 +2207,42 @@
          "text": "Wikipedia",
          "category": "Wikipedia",
          "audio": "11355_cat",
-         "subject": "Technology",
+         "subject": "Tecnologia",
          "statements": [
             {
-               "response": "\u201cWorld War II\u201d was number 29. \u201cOne Direction\u201d was number 4.",
-               "text": "\u201cFacebook\u201d was the most-viewed English-language article on Wikipedia in 2012. ",
+               "response": "“Segunda Guerra Mundial” foi o número 29. “One Direction” foi o número 4.",
+               "text": "“Facebook” foi o artigo em inglês mais visto na Wikipedia em 2012. ",
                "audio": "11355_0",
                "truth": true
             },
             {
-               "response": "The second most-viewed article was about Italy.",
-               "text": "<i>Grey\u2019s Anatomy<\/i> was the most-viewed Italian-language article on Wikipedia in 2012. ",
+               "response": "O segundo artigo mais visto foi sobre a Itália.",
+               "text": "<i>Grey's Anatomy</i> foi o artigo em italiano mais visto na Wikipedia em 2012. ",
                "audio": "11355_1",
                "truth": true
             },
             {
-               "text": "\u201cList of <i>Frasier<\/i> Characters\u201d was the most viewed Wikipedia article in Montana in 2012.",
+               "text": "“Lista de <i>Frasier</i> ” foi o artigo da Wikipedia mais visto em Montana em 2012.",
                "audio": "11355_2",
                "truth": false
             },
             {
-               "text": "\u201cSpanish\u201d was the most-viewed Portuguese-language article on Wikipedia.",
+               "text": "“Espanhol” foi o artigo em português mais visto na Wikipedia.",
                "audio": "11355_3",
                "truth": false
             },
             {
-               "text": "<i>Mighty Ducks 2<\/i> was the most-viewed Icelandic-language article on Wikipedia.",
+               "text": "<i>Mighty Ducks 2</i> foi o artigo em língua islandesa mais visto na Wikipedia.",
                "audio": "11355_4",
                "truth": false
             },
             {
-               "text": "\u201cWikipedia\u201d was the most-viewed German-language article on Wikipedia in 2012.",
+               "text": "“Wikipedia” foi o artigo em alemão mais visto na Wikipedia em 2012.",
                "audio": "11355_5",
                "truth": false
             },
             {
-               "text": "\u201cList of Diaper Brands\u201d was the second most-viewed Japanese-language article on Wikipedia.",
+               "text": "“Lista de marcas de fraldas” foi o segundo artigo em japonês mais visto na Wikipedia.",
                "audio": "11355_6",
                "truth": false
             }
@@ -2250,46 +2250,46 @@
       },
       {
          "id": 11279,
-         "text": "Celebrity Authors",
-         "category": "Celebrity Authors",
+         "text": "Autores de celebridades",
+         "category": "Autores de celebridades",
          "audio": "11279_cat",
-         "subject": "People",
+         "subject": "Pessoas",
          "statements": [
             {
-               "response": "With Guy Fieri, Sammy Hagar, and Jerome Bettis.",
-               "text": "Smash Mouth wrote a cookbook.",
+               "response": "Com Guy Fieri, Sammy Hagar e Jerome Bettis.",
+               "text": "Smash Mouth escreveu um livro de receitas.",
                "audio": "11279_0",
                "truth": true
             },
             {
-               "response": "That\u2019s such a Samantha thing to do.",
-               "text": "Kim Cattrall wrote a book called <i>Satisfaction: The Art of the Female Orgasm<\/i>. ",
+               "response": "Isso é uma coisa muito Samantha de fazer.",
+               "text": "Kim Cattrall escreveu um livro chamado <i>Satisfaction: The Art of the Female Orgasm</i>. ",
                "audio": "11279_1",
                "truth": true
             },
             {
-               "response": "<i>Fallin\u2019 Up: My Story<\/i> was written by Taboo. You know, Taboo.",
-               "text": "One of the guys in the Black Eyed Peas that isn\u2019t Will.i.am wrote a memoir. ",
+               "response": "<i>Fallin 'Up: My Story</i> foi escrita por Taboo. Você sabe, Taboo.",
+               "text": "Um dos caras do Black Eyed Peas que não é Will.i.am escreveu um livro de memórias. ",
                "audio": "11279_2",
                "truth": true
             },
             {
-               "text": "Marilyn Manson wrote a children\u2019s book called \u201cThe Littlest Strawberry.\u201d",
+               "text": "Marilyn Manson escreveu um livro infantil chamado “The Littlest Strawberry”.",
                "audio": "11279_3",
                "truth": false
             },
             {
-               "text": "George Lopez wrote a book on how to deal with death.",
+               "text": "George Lopez escreveu um livro sobre como lidar com a morte.",
                "audio": "11279_4",
                "truth": false
             },
             {
-               "text": "Danny Devito and Rhea Perlman cowrote a comic book about Apartheid.",
+               "text": "Danny Devito e Rhea Perlman co-escreveram uma história em quadrinhos sobre o Apartheid.",
                "audio": "11279_5",
                "truth": false
             },
             {
-               "text": "Jillian Michaels wrote a murder mystery that promoted weight loss.",
+               "text": "Jillian Michaels escreveu um mistério de assassinato que promoveu a perda de peso.",
                "audio": "11279_6",
                "truth": false
             }
@@ -2300,43 +2300,43 @@
          "text": "The Little Rascals",
          "category": "The Little Rascals",
          "audio": "11027_cat",
-         "subject": "People",
+         "subject": "Pessoas",
          "statements": [
             {
-               "response": "He was delivering newspapers.",
-               "text": "The actor who played Froggy died in a scooter accident at 16. ",
+               "response": "Ele estava entregando jornais.",
+               "text": "O ator que interpretou Froggy morreu em um acidente de scooter aos 16 anos. ",
                "audio": "11027_0",
                "truth": true
             },
             {
-               "response": "He had a glandular disorder.",
-               "text": "The actor who played Chubby died after weight-loss surgery at 21. ",
+               "response": "Ele tinha um distúrbio glandular.",
+               "text": "O ator que interpretou Chubby morreu após uma cirurgia para perda de peso aos 21 anos. ",
                "audio": "11027_1",
                "truth": true
             },
             {
-               "response": "He was a hunting guide for the stars.",
-               "text": "The actor who played Alfalfa was killed during a fight over $50 at 32. ",
+               "response": "Ele era um guia de caça para as estrelas.",
+               "text": "O ator que interpretava Alfalfa foi morto durante uma luta de $ 50 aos 32. ",
                "audio": "11027_2",
                "truth": true
             },
             {
-               "text": "The actor who played Spanky died when his parachute failed on D-Day at 26.",
+               "text": "O ator que interpretou Spanky morreu quando seu pára-quedas falhou no Dia D aos 26 anos.",
                "audio": "11027_3",
                "truth": false
             },
             {
-               "text": "The actor who played Porky died while filming <i>Porky\u2019s<\/i> at age 78.",
+               "text": "O ator que interpretou Porky morreu durante as filmagens de <i>Porky</i> aos 78 anos.",
                "audio": "11027_4",
                "truth": false
             },
             {
-               "text": "The actor who played Buckwheat never died.",
+               "text": "O ator que interpretou Buckwheat nunca morreu.",
                "audio": "11027_5",
                "truth": false
             },
             {
-               "text": "The actress who played Darla fell off a cruise ship and died at age 19.",
+               "text": "A atriz que interpretou Darla caiu de um navio de cruzeiro e morreu aos 19 anos.",
                "audio": "11027_6",
                "truth": false
             }
@@ -2344,46 +2344,46 @@
       },
       {
          "id": 11103,
-         "text": "His and Hers ",
-         "category": "His and Hers ",
+         "text": "Dele e dela ",
+         "category": "Dele e dela ",
          "audio": "11103_cat",
-         "subject": "Products",
+         "subject": "Produtos",
          "statements": [
             {
-               "response": "They are \u201cbig, strong, and reliable enough for all your needs.\u201d",
-               "text": "Kleenex sells \u201cMansize\u201d tissues.",
+               "response": "Eles são “grandes, fortes e confiáveis o suficiente para todas as suas necessidades”.",
+               "text": "A Kleenex vende lenços “Mansize”.",
                "audio": "11103_0",
                "truth": true
             },
             {
-               "response": "The pens come in pink and purple.",
-               "text": "Bic sells pens specifically \u201cfor Her.\u201d",
+               "response": "As canetas vêm em rosa e roxo.",
+               "text": "A Bic vende canetas especificamente “para ela”.",
                "audio": "11103_1",
                "truth": true
             },
             {
-               "response": "They come in medium and hardcore power.",
-               "text": "Spanx\u2019s line of men\u2019s underwear is named Manx. ",
+               "response": "Eles vêm em potência média e hardcore.",
+               "text": "A linha de roupas íntimas masculinas da Spanx se chama Manx. ",
                "audio": "11103_2",
                "truth": true
             },
             {
-               "text": "There is a pink George Foreman grill called \u201cLady George\u2019s Grill.\u201d",
+               "text": "Há uma grelha George Foreman rosa chamada “Lady George's Grill”.",
                "audio": "11103_3",
                "truth": false
             },
             {
-               "text": "Kotex sells men\u2019s tampons. ",
+               "text": "A Kotex vende tampões masculinos. ",
                "audio": "11103_4",
                "truth": false
             },
             {
-               "text": "Hungry Man sells a Starving Gal meal.",
+               "text": "Hungry Man vende uma refeição Starving Gal.",
                "audio": "11103_5",
                "truth": false
             },
             {
-               "text": "Mr. Clean sells a \u201clady sponge.\u201d",
+               "text": "O Sr. Limpo vende uma \"esponja de senhora\".",
                "audio": "11103_6",
                "truth": false
             }
@@ -2391,41 +2391,41 @@
       },
       {
          "id": 11054,
-         "text": "Former Jell-O Flavors",
-         "category": "Former Jell-O Flavors",
+         "text": "Antigos sabores de gelatina",
+         "category": "Antigos sabores de gelatina",
          "audio": "11054_cat",
-         "subject": "Food",
+         "subject": "Comida",
          "statements": [
             {
-               "response": "\u201cFor Salads\u201d",
-               "text": "Celery",
+               "response": "“Para Saladas”",
+               "text": "Salsão",
                "audio": "11054_0",
                "truth": true
             },
             {
-               "response": "Also: Cola flavor",
-               "text": "Coffee",
+               "response": "Também: sabor de cola",
+               "text": "Café",
                "audio": "11054_1",
                "truth": true
             },
             {
-               "response": "Not just as pudding... as actual Jell-O.",
+               "response": "Não apenas pudim ... como gelatina de verdade.",
                "text": "Chocolate",
                "audio": "11054_2",
                "truth": true
             },
             {
-               "text": "Salmon",
+               "text": "Salmão",
                "audio": "11054_3",
                "truth": false
             },
             {
-               "text": "B.L.T.",
+               "text": "BLT",
                "audio": "11054_4",
                "truth": false
             },
             {
-               "text": "Cream Cheese and Chives",
+               "text": "Queijo Creme e Cebolinha",
                "audio": "11054_5",
                "truth": false
             },
@@ -2438,46 +2438,46 @@
       },
       {
          "id": 11351,
-         "text": "Sidekicks ",
-         "category": "Sidekicks ",
+         "text": "Ajudantes ",
+         "category": "Ajudantes ",
          "audio": "11351_cat",
-         "subject": "People",
+         "subject": "Pessoas",
          "statements": [
             {
-               "response": "Said The Demeaning Ranger.",
-               "text": "Tonto means \u201cstupid\u201d in Spanish. ",
+               "response": "Disse o aviltante Ranger.",
+               "text": "Tonto significa “estúpido” em espanhol. ",
                "audio": "11351_0",
                "truth": true
             },
             {
-               "response": "At least two--some scholars claim six.",
-               "text": "Dr. John Watson had multiple wives. ",
+               "response": "Pelo menos dois - alguns estudiosos afirmam que seis.",
+               "text": "Dr. John Watson tinha várias esposas. ",
                "audio": "11351_1",
                "truth": true
             },
             {
-               "response": "\u201cHiy-O 23!\u201d",
-               "text": "Ed McMahon started his career as a bingo announcer. ",
+               "response": "“Hiy-O 23!”",
+               "text": "Ed McMahon começou sua carreira como locutor de bingo. ",
                "audio": "11351_2",
                "truth": true
             },
             {
-               "text": "Samwise Gamgee\u2019s middle name is \u201cLarry.\u201d ",
+               "text": "O nome do meio de Samwise Gamgee é “Larry”. ",
                "audio": "11351_3",
                "truth": false
             },
             {
-               "text": "Chewbacca is a hermaphrodite. ",
+               "text": "Chewbacca é um hermafrodita. ",
                "audio": "11351_4",
                "truth": false
             },
             {
-               "text": "Joe Biden was a magician\u2019s assistant in college. ",
+               "text": "Joe Biden foi assistente de um mágico na faculdade. ",
                "audio": "11351_5",
                "truth": false
             },
             {
-               "text": "Andy Richter was Conan O\u2019Brien\u2019s manager at a Boston Market. ",
+               "text": "Andy Richter era o empresário de Conan O'Brien no Boston Market. ",
                "audio": "11351_6",
                "truth": false
             }
@@ -2485,46 +2485,46 @@
       },
       {
          "id": 11438,
-         "text": "<i>Goosebumps<\/i> Book Titles",
-         "category": "<i>Goosebumps<\/i> Book Titles",
+         "text": "<i>Goosebumps</i> títulos de livro",
+         "category": "<i>Goosebumps</i> títulos de livro",
          "audio": "11438_cat",
-         "subject": "Pop Culture",
+         "subject": "Cultura pop",
          "statements": [
             {
-               "response": "Aaah! Scary!",
-               "text": "<i>Piano Lessons Can Be Murder<\/i>",
+               "response": "Aaah! Apavorante!",
+               "text": "<i>aulas de piano podem ser assassinadas</i>",
                "audio": "11438_0",
                "truth": true
             },
             {
-               "response": "Ooo! Spooky!",
-               "text": "<i>Shop Till You Drop... Dead!<\/i>",
+               "response": "Ooo! Assustador!",
+               "text": "<i>Compre até cair ... Morto!</i>",
                "audio": "11438_1",
                "truth": true
             },
             {
-               "response": "Eeep! Terrifying!",
-               "text": "<i>Say Cheese and Die - Again!<\/i>",
+               "response": "Eeep! Aterrorizante!",
+               "text": "<i>Say Cheese and Die - Again!</i>",
                "audio": "11438_2",
                "truth": true
             },
             {
-               "text": "<i>Spelling Bee Afraid, Spelling Bee Very Afraid<\/i>",
+               "text": "<i>Concurso de Ortografia com Medo, Concurso de Ortografia Muito Medo</i>",
                "audio": "11438_3",
                "truth": false
             },
             {
-               "text": "<i>Headless Zombies Still Want Snacks<\/i>",
+               "text": "<i>zumbis sem cabeça ainda querem lanches</i>",
                "audio": "11438_4",
                "truth": false
             },
             {
-               "text": "<i>I\u2019m Grounded... Six Fee Under!<\/i>",
+               "text": "<i>I'm Grounded ... Six Fee Under!</i>",
                "audio": "11438_5",
                "truth": false
             },
             {
-               "text": "<i>The Devil\u2019s Text Message<\/i>",
+               "text": "<i>A Mensagem de Texto do Diabo</i>",
                "audio": "11438_6",
                "truth": false
             }
@@ -2532,45 +2532,45 @@
       },
       {
          "id": 10963,
-         "text": "Santa Claus",
-         "category": "Santa Claus",
+         "text": "Papai Noel",
+         "category": "Papai Noel",
          "audio": "10963_cat",
-         "subject": "Holidays",
+         "subject": "Feriados",
          "statements": [
             {
-               "response": "Also the sausage-grabber.",
-               "text": "Iceland has 13 Santas, including a window-peeper and a candle-stealer.",
+               "response": "Também o apanhador de salsichas.",
+               "text": "A Islândia tem 13 Papais Noéis, incluindo um observador de janelas e um ladrão de velas.",
                "audio": "10963_0",
                "truth": true
             },
             {
-               "response": "Also the patron saint of \u201cprotection from wolves.\u201d",
-               "text": "St. Nick is also the patron saint of sailors and prisoners.",
+               "response": "Também o santo padroeiro da \"proteção contra os lobos\".",
+               "text": "St. Nick é também o santo padroeiro dos marinheiros e prisioneiros.",
                "audio": "10963_1",
                "truth": true
             },
             {
-               "text": "The fear of Santa Claus is called hollyjollyphobia. ",
+               "text": "O medo do Papai Noel é chamado de hollyjollyphobia. ",
                "audio": "10963_2",
                "truth": false
             },
             {
-               "text": "In Irish folklore, Santa is the Easter Bunny\u2019s father. ",
+               "text": "No folclore irlandês, o Papai Noel é o pai do coelhinho da Páscoa. ",
                "audio": "10963_3",
                "truth": false
             },
             {
-               "text": "NORAD\u2019s tracking of Santa costs U.S. taxpayers $9.4 million each year. ",
+               "text": "O rastreamento do Papai Noel pelo NORAD custa aos contribuintes dos EUA $ 9,4 milhões a cada ano. ",
                "audio": "10963_4",
                "truth": false
             },
             {
-               "text": "A health group petitioned to make the Coke Santa thinner in their ads. ",
+               "text": "Um grupo de saúde fez uma petição para tornar a Coca Santa mais fina em seus anúncios. ",
                "audio": "10963_5",
                "truth": false
             },
             {
-               "text": "Lee Harvey Oswald worked as a mall Santa. ",
+               "text": "Lee Harvey Oswald trabalhava como Papai Noel de shopping. ",
                "audio": "10963_6",
                "truth": false
             }
@@ -2578,46 +2578,46 @@
       },
       {
          "id": 11261,
-         "text": "Baseball Injuries ",
-         "category": "Baseball Injuries ",
+         "text": "Lesões de beisebol ",
+         "category": "Lesões de beisebol ",
          "audio": "11261_cat",
-         "subject": "Sports",
+         "subject": "Esportes",
          "statements": [
             {
-               "response": "His back went out.",
-               "text": "Sammy Sosa injured himself while sneezing. ",
+               "response": "Suas costas doeram.",
+               "text": "Sammy Sosa se machucou ao espirrar. ",
                "audio": "11261_0",
                "truth": true
             },
             {
-               "response": "He had the balls to admit it.",
-               "text": "Ken Griffey, Jr. injured himself while adjusting his protective cup. ",
+               "response": "Ele teve a coragem de admitir.",
+               "text": "Ken Griffey, Jr. feriu-se enquanto ajustava seu copo de proteção. ",
                "audio": "11261_1",
                "truth": true
             },
             {
-               "response": "To be fair, \u201cCrossroads\u201d is a really hard song.",
-               "text": "Joel Zumaya injured himself while playing <i>Guitar Hero<\/i>.",
+               "response": "Para ser justo, “Crossroads” é uma música muito difícil.",
+               "text": "Joel Zumaya se machucou enquanto jogava <i>Guitar Hero</i>.",
                "audio": "11261_2",
                "truth": true
             },
             {
-               "text": "Bo Jackson injured himself playing mini golf. ",
+               "text": "Bo Jackson se machucou jogando minigolfe. ",
                "audio": "11261_3",
                "truth": false
             },
             {
-               "text": "Pete Rose injured himself while pretending to play the harp. ",
+               "text": "Pete Rose se machucou enquanto fingia tocar harpa. ",
                "audio": "11261_4",
                "truth": false
             },
             {
-               "text": "Cal Ripken, Jr. injured himself while putting the star on a Christmas tree.",
+               "text": "Cal Ripken Jr. se machucou ao colocar a estrela em uma árvore de Natal.",
                "audio": "11261_5",
                "truth": false
             },
             {
-               "text": "Derek Jeter injured himself while farting. ",
+               "text": "Derek Jeter se machucou enquanto peidava. ",
                "audio": "11261_6",
                "truth": false
             }
@@ -2625,46 +2625,46 @@
       },
       {
          "id": 11159,
-         "text": "Rats",
-         "category": "Rats",
+         "text": "Ratos",
+         "category": "Ratos",
          "audio": "11159_cat",
-         "subject": "Animals",
+         "subject": "Animais",
          "statements": [
             {
-               "response": "Gross!!!",
-               "text": "Rats eat their own poop!!!",
+               "response": "Bruto!!!",
+               "text": "Ratos comem seu próprio cocô !!!",
                "audio": "11159_0",
                "truth": true
             },
             {
-               "response": "That\u2019s why there are so many rats!!!",
-               "text": "Rats can mate up to 500 times in six hours!!!",
+               "response": "É por isso que existem tantos ratos !!!",
+               "text": "Os ratos podem acasalar até 500 vezes em seis horas !!!",
                "audio": "11159_1",
                "truth": true
             },
             {
-               "response": "That\u2019s it?!!!",
-               "text": "The FDA allows one rat hair per 100 grams of peanut butter!!!",
+               "response": "É isso?!!!",
+               "text": "O FDA permite um cabelo de rato por 100 gramas de manteiga de amendoim !!!",
                "audio": "11159_2",
                "truth": true
             },
             {
-               "text": "A rat orgasm can last nine days!!!",
+               "text": "Um orgasmo de rato pode durar nove dias !!!",
                "audio": "11159_3",
                "truth": false
             },
             {
-               "text": "Crispin Glover ate a rat on the set of <i>Willard<\/i>!!!",
+               "text": "Crispin Glover comeu um rato no set de <i>Willard</i>!!!",
                "audio": "11159_4",
                "truth": false
             },
             {
-               "text": "Lasagna is Italian for \u201crat\u2019s nest\u201d!!!",
+               "text": "Lasanha significa “ninho de rato” em italiano !!!",
                "audio": "11159_5",
                "truth": false
             },
             {
-               "text": "Rats can chew through diamonds!!!",
+               "text": "Ratos podem roer diamantes !!!",
                "audio": "11159_6",
                "truth": false
             }
@@ -2675,42 +2675,42 @@
          "text": "Buttholes",
          "category": "Buttholes",
          "audio": "10761_cat",
-         "subject": "Awesome",
+         "subject": "Impressionante",
          "statements": [
             {
-               "response": "Don\u2019t worry! It\u2019s fixable!",
-               "text": "1 in 5,000 human babies are born with a missing or misplaced butthole.",
+               "response": "Não se preocupe! É consertável!",
+               "text": "1 em cada 5.000 bebês humanos nasce com uma nádega perdida ou extraviada.",
                "audio": "10761_0",
                "truth": true
             },
             {
-               "response": "They must have terrible breath.",
-               "text": "Some turtles can breathe through their buttholes.",
+               "response": "Eles devem ter um hálito terrível.",
+               "text": "Algumas tartarugas podem respirar pelas nádegas.",
                "audio": "10761_1",
                "truth": true
             },
             {
-               "text": "Fidel Castro was born with three buttholes.",
+               "text": "Fidel Castro nasceu com três bundas.",
                "audio": "10761_2",
                "truth": false
             },
             {
-               "text": "Butte, Montana\u2019s oldest bar is The Butte Hole.",
+               "text": "Butte, o bar mais antigo de Montana é o The Butte Hole.",
                "audio": "10761_3",
                "truth": false
             },
             {
-               "text": "40% of emergency room visits in the U.S. are \u201cbutthole related.\u201d",
+               "text": "40% das visitas ao pronto-socorro nos EUA são “relacionadas ao buraco”.",
                "audio": "10761_4",
                "truth": false
             },
             {
-               "text": "Your nose, ears and butthole never stop growing.",
+               "text": "Seu nariz, orelhas e nádegas nunca param de crescer.",
                "audio": "10761_5",
                "truth": false
             },
             {
-               "text": "The Rolling Stones considered calling themselves The Buttholes.",
+               "text": "Os Rolling Stones consideraram se autodenominar The Buttholes.",
                "audio": "10761_6",
                "truth": false
             }
@@ -2718,46 +2718,46 @@
       },
       {
          "id": 11289,
-         "text": "Clue",
-         "category": "Clue",
+         "text": "Dica",
+         "category": "Dica",
          "audio": "11289_cat",
-         "subject": "Products",
+         "subject": "Produtos",
          "statements": [
             {
-               "response": "Also: poison",
-               "text": "Syringe was a weapon in the original Clue game.",
+               "response": "Também: veneno",
+               "text": "A seringa era uma arma no jogo Clue original.",
                "audio": "11289_0",
                "truth": true
             },
             {
-               "response": "Also: axe",
-               "text": "Bomb was a weapon in the original Clue game.",
+               "response": "Também: machado",
+               "text": "Bomba era uma arma no jogo Clue original.",
                "audio": "11289_1",
                "truth": true
             },
             {
-               "response": "An Irish walking stick.",
-               "text": "Shillelagh was a weapon in the original Clue game.",
+               "response": "Uma bengala irlandesa.",
+               "text": "Shillelagh era uma arma no jogo Clue original.",
                "audio": "11289_2",
                "truth": true
             },
             {
-               "text": "Sword was a weapon in the original Clue game.",
+               "text": "Espada era uma arma no jogo Clue original.",
                "audio": "11289_3",
                "truth": false
             },
             {
-               "text": "Pillow was a weapon in the original Clue game.",
+               "text": "Pillow era uma arma no jogo Clue original.",
                "audio": "11289_4",
                "truth": false
             },
             {
-               "text": "Shotgun was a weapon in the original Clue game.",
+               "text": "Shotgun era uma arma no jogo Clue original.",
                "audio": "11289_5",
                "truth": false
             },
             {
-               "text": "Voodoo Doll was a weapon in the original Clue game.",
+               "text": "Voodoo Doll era uma arma no jogo Clue original.",
                "audio": "11289_6",
                "truth": false
             }
@@ -2768,43 +2768,43 @@
          "text": "Casting",
          "category": "Casting",
          "audio": "11253_cat",
-         "subject": "Pop Culture",
+         "subject": "Cultura pop",
          "statements": [
             {
-               "response": "If only...",
-               "text": "Bill Murray was almost cast as Batman.",
+               "response": "Se apenas...",
+               "text": "Bill Murray foi quase escalado como Batman.",
                "audio": "11253_0",
                "truth": true
             },
             {
-               "response": "He missed out on about $450 million.",
-               "text": "Sean Connery was almost cast as Gandalf.",
+               "response": "Ele perdeu cerca de US $ 450 milhões.",
+               "text": "Sean Connery quase foi escalado como Gandalf.",
                "audio": "11253_1",
                "truth": true
             },
             {
-               "response": "He must have needed more lightsaber.",
-               "text": "Christopher Walken was almost cast as Han Solo.",
+               "response": "Ele deve ter precisado de mais sabre de luz.",
+               "text": "Christopher Walken quase foi escalado como Han Solo.",
                "audio": "11253_2",
                "truth": true
             },
             {
-               "text": "Lindsay Lohan was almost cast as Katniss.",
+               "text": "Lindsay Lohan quase foi escalada como Katniss.",
                "audio": "11253_3",
                "truth": false
             },
             {
-               "text": "French Stewart was almost cast as James Bond.",
+               "text": "French Stewart quase foi escalado como James Bond.",
                "audio": "11253_4",
                "truth": false
             },
             {
-               "text": "Julia Roberts was almost cast as Benjamin Button.",
+               "text": "Julia Roberts quase foi escalada como Benjamin Button.",
                "audio": "11253_5",
                "truth": false
             },
             {
-               "text": "Alec Baldwin was almost cast as Forrest Gump.",
+               "text": "Alec Baldwin quase foi escalado como Forrest Gump.",
                "audio": "11253_6",
                "truth": false
             }
@@ -2812,46 +2812,46 @@
       },
       {
          "id": 11064,
-         "text": "Death",
-         "category": "Death",
+         "text": "Morte",
+         "category": "Morte",
          "audio": "11064_cat",
-         "subject": "Events",
+         "subject": "Eventos",
          "statements": [
             {
-               "response": "A study found natural death is connected to circadian rhythm.",
-               "text": "You are more likely to die at 11 AM than any other time. ",
+               "response": "Um estudo descobriu que a morte natural está ligada ao ritmo circadiano.",
+               "text": "É mais provável que você morra às 11 da manhã do que em qualquer outro momento. ",
                "audio": "11064_0",
                "truth": true
             },
             {
-               "response": "Especially if you\u2019re over 60.",
-               "text": "You are more likely to die on your birthday than any other day.",
+               "response": "Especialmente se você tiver mais de 60 anos.",
+               "text": "É mais provável que você morra no dia do seu aniversário do que em qualquer outro dia.",
                "audio": "11064_1",
                "truth": true
             },
             {
-               "response": "January has the highest avg. deaths per day.",
-               "text": "You are more likely to die in January than any other month.",
+               "response": "Janeiro tem a maior média mortes por dia.",
+               "text": "É mais provável que você morra em janeiro do que em qualquer outro mês.",
                "audio": "11064_2",
                "truth": true
             },
             {
-               "text": "You are more likely to die at 63 than any other age.",
+               "text": "Você tem mais probabilidade de morrer aos 63 anos do que em qualquer outra idade.",
                "audio": "11064_3",
                "truth": false
             },
             {
-               "text": "You are more likely to die on Tuesday than any other day of the week.",
+               "text": "É mais provável que você morra na terça-feira do que em qualquer outro dia da semana.",
                "audio": "11064_4",
                "truth": false
             },
             {
-               "text": "You are more likely to die in Ohio than in any other state.",
+               "text": "É mais provável que você morra em Ohio do que em qualquer outro estado.",
                "audio": "11064_5",
                "truth": false
             },
             {
-               "text": "You are more likely to die watching <i>Pay it Forward<\/i> than any other movie.",
+               "text": "É mais provável que você morra assistindo <i>Pay it Forward</i> que qualquer outro filme.",
                "audio": "11064_6",
                "truth": false
             }
@@ -2859,46 +2859,46 @@
       },
       {
          "id": 11152,
-         "text": "Words of the World",
-         "category": "Words of the World",
+         "text": "Palavras do mundo",
+         "category": "Palavras do mundo",
          "audio": "11152_cat",
-         "subject": "Places",
+         "subject": "Locais",
          "statements": [
             {
-               "response": "Barf is the name of a cleaning product in Iran.",
-               "text": "\u201cBarf\u201d means \u201csnow\u201d in Iran. ",
+               "response": "Barf é o nome de um produto de limpeza no Irã.",
+               "text": "“Barf” significa “neve” no Irã. ",
                "audio": "11152_0",
                "truth": true
             },
             {
-               "response": "\u201cFull Fart\u201d means full speed ahead.",
-               "text": "\u201cFart\u201d means \u201cspeed\u201d in Sweden. ",
+               "response": "“Full Fart” significa velocidade total à frente.",
+               "text": "“Fart” significa “velocidade” na Suécia. ",
                "audio": "11152_1",
                "truth": true
             },
             {
-               "response": "Which could make introductions uncomfortable.",
-               "text": "\u201cGary\u201d means \u201cdiarrhea\u201d in Japan. ",
+               "response": "O que poderia tornar as apresentações desconfortáveis.",
+               "text": "“Gary” significa “diarreia” no Japão. ",
                "audio": "11152_2",
                "truth": true
             },
             {
-               "text": "\u201cSnot\u201d means \u201cgravy\u201d in Ireland.",
+               "text": "“Snot” significa “molho” na Irlanda.",
                "audio": "11152_3",
                "truth": false
             },
             {
-               "text": "\u201cPenis\u201d means \u201cVagina\u201d in Estonia.",
+               "text": "“Pênis” significa “Vagina” na Estônia.",
                "audio": "11152_4",
                "truth": false
             },
             {
-               "text": "\u201cScrotum\u201d means \u201cbicycle\u201d in Korea.",
+               "text": "“Scrotum” significa “bicicleta” na Coreia.",
                "audio": "11152_5",
                "truth": false
             },
             {
-               "text": "\u201cDingleberry\u201d means \u201celderly\u201d in Luxembourg.",
+               "text": "“Dingleberry” significa “idoso” em Luxemburgo.",
                "audio": "11152_6",
                "truth": false
             }
@@ -2906,46 +2906,46 @@
       },
       {
          "id": 10744,
-         "text": "Your Body",
-         "category": "Your Body",
+         "text": "Seu corpo",
+         "category": "Seu corpo",
          "audio": "10744_cat",
-         "subject": "Body",
+         "subject": "Corpo",
          "statements": [
             {
-               "response": "That\u2019s where your heart goes.",
-               "text": "Your left lung is smaller than your right lung.",
+               "response": "É para onde vai seu coração.",
+               "text": "Seu pulmão esquerdo é menor que o direito.",
                "audio": "10744_0",
                "truth": true
             },
             {
-               "response": "So don\u2019t lick any crime scenes.",
-               "text": "Your tongue print, like a finger print, is unique to you.",
+               "response": "Portanto, não lamba nenhuma cena de crime.",
+               "text": "A impressão da sua língua, como uma impressão digital, é exclusiva para você.",
                "audio": "10744_1",
                "truth": true
             },
             {
-               "response": "Some of your bones fuse together as you grow.",
-               "text": "You have fewer bones than you did as a baby.",
+               "response": "Alguns de seus ossos se fundem conforme você cresce.",
+               "text": "Você tem menos ossos do que quando era bebê.",
                "audio": "10744_2",
                "truth": true
             },
             {
-               "text": "Connected end-to-end, your blood vessels would be longer than the distance to the moon.",
+               "text": "Conectados de ponta a ponta, seus vasos sanguíneos seriam mais longos do que a distância até a lua.",
                "audio": "10744_3",
                "truth": false
             },
             {
-               "text": "You are dead.",
+               "text": "Você está morto.",
                "audio": "10744_4",
                "truth": false
             },
             {
-               "text": "Your ears can detect smells, but only a tiny fraction as effectively as your nose.",
+               "text": "Seus ouvidos podem detectar cheiros, mas apenas uma pequena fração tão eficazmente quanto seu nariz.",
                "audio": "10744_5",
                "truth": false
             },
             {
-               "text": "Your liver shrinks when you are frightened.",
+               "text": "Seu fígado encolhe quando você está com medo.",
                "audio": "10744_6",
                "truth": false
             }
@@ -2953,101 +2953,101 @@
       },
       {
          "id": 10743,
-         "text": "Black Eyed Peas Lyrics",
-         "category": "Black Eyed Peas Lyrics",
+         "text": "Letras do Black Eyed Peas",
+         "category": "Letras do Black Eyed Peas",
          "audio": "10743_cat",
-         "subject": "Pop Culture",
+         "subject": "Cultura pop",
          "statements": [
             {
-               "response": "From the song, \u201cSmells Like Funk.\u201d",
-               "text": "\u201cstinkin\u2019 like fat ladies $#!*&in\u2019 out logs\u201d",
+               "response": "Da música “Smells Like Funk”.",
+               "text": "“Fedendo como mulheres gordas $ #! * E entrando em troncos”",
                "audio": "10743_0",
                "truth": true,
-               "tweet": "\u201cstinkin\u2019 like fat ladies $#!*&in\u2019 out logs\u201d is a Black Eyed Peas lyric."
+               "tweet": "“Fedendo como mulheres gordas $ #! * & In 'out logs” é uma letra do Black Eyed Peas."
             },
             {
-               "response": "From the song, \u201cDisco Club.\u201d",
-               "text": "\u201crub it on your belly like an ultrasound\u201d",
+               "response": "Da música “Disco Club”.",
+               "text": "“Esfregue-o na barriga como um ultrassom”",
                "audio": "10743_1",
                "truth": true,
-               "tweet": "\u201crub it on your belly like an ultrasound\u201d is a Black Eyed Peas lyric."
+               "tweet": "“Esfregue na barriga como um ultrassom” é uma letra do Black Eyed Peas."
             },
             {
-               "response": "From the song, \u201cHands Up.\u201d",
-               "text": "\u201clet me %*@# up your ear til my sperm is up in your brain\u201d",
+               "response": "Da música “Hands Up”.",
+               "text": "“Deixe-me %*@# até sua orelha até meu esperma é para cima em seu cérebro”",
                "audio": "10743_2",
                "truth": true,
-               "tweet": "\u201clet me %*@# up your ear til my sperm is up in your brain\u201d is a Black Eyed Peas lyric."
+               "tweet": "“Deixe-me %*@# acima de sua orelha até meu esperma é para cima em seu cérebro” é um Black Eyed Peas lírica."
             },
             {
-               "text": "\u201cboom boom boomin\u2019 at summer camp\u201d",
+               "text": "“Boom boomin 'boomin' no acampamento de verão”",
                "audio": "10743_3",
                "truth": false,
-               "tweet": "\u201cboom boom boomin\u2019 at summer camp\u201d is a Black Eyed Peas lyric."
+               "tweet": "“Boom boom boomin 'no acampamento de verão” é uma letra do Black Eyed Peas."
             },
             {
-               "text": "\u201csexual sex in a sexy sex car\u201d",
+               "text": "“Sexo sexual em um carro de sexo sexy”",
                "audio": "10743_4",
                "truth": false,
-               "tweet": "\u201csexual sex in a sexy sex car\u201d is a Black Eyed Peas lyric."
+               "tweet": "“Sexo sexual em um carro sexy” é uma letra do Black Eyed Peas."
             },
             {
-               "response": "But if the Peas want to use it, be our guest.",
-               "text": "\u201cbutt butt butt butt butt butt butt butt butt butt butt butt\u201d",
+               "response": "Mas se os Peas quiserem usar, fique à vontade.",
+               "text": "\"Bunda bunda bunda bunda bunda bunda bunda bunda bunda bunda\"",
                "audio": "10743_5",
                "truth": false,
-               "tweet": "\u201cbutt butt butt butt butt butt butt butt butt butt butt butt\u201d is a Black Eyed Peas lyric."
+               "tweet": "“Bunda bunda bunda bunda bunda bunda bunda bunda bunda bunda bunda bunda” é uma letra do Black Eyed Peas."
             },
             {
-               "text": "\u201c@$%#es be playin\u2019 Space Invaders on my %#*@\u201d",
+               "text": "“@ $%#es joguem Space Invaders no meu %#*@”",
                "audio": "10743_6",
                "truth": false,
-               "tweet": "\u201c@$%#es be playin\u2019 Space Invaders on my %#*@\u201d is a Black Eyed Peas lyric."
+               "tweet": "“@ $%#es estar tocando Space Invaders no meu %#*@” é uma letra do Black Eyed Peas."
             }
          ]
       },
       {
          "id": 10986,
-         "text": "Friday the 13th ",
-         "category": "Friday the 13th ",
+         "text": "Sexta feira 13 ",
+         "category": "Sexta feira 13 ",
          "audio": "10986_cat",
-         "subject": "Events",
+         "subject": "Eventos",
          "statements": [
             {
-               "response": "People are less likely to spend money or fly on that day.",
-               "text": "U.S. businesses lose $800 million every Friday the 13th.",
+               "response": "As pessoas têm menos probabilidade de gastar dinheiro ou voar naquele dia.",
+               "text": "Empresas americanas perdem US $ 800 milhões toda sexta-feira, dia 13.",
                "audio": "10986_0",
                "truth": true
             },
             {
-               "response": "June 13, 1986",
-               "text": "The Olsen Twins were born on Friday the 13th.",
+               "response": "13 de junho de 1986",
+               "text": "As Olsen Twins nasceram na sexta-feira, dia 13.",
                "audio": "10986_1",
                "truth": true
             },
             {
-               "response": "<i>Friday the 13th<\/i> came out on May 9, 1980.",
-               "text": "The original <i>Friday the 13th<\/i> movie was released on Friday the 9th. ",
+               "response": "<i>Sexta-feira, 13,</i> saiu em 9 de maio de 1980.",
+               "text": "O <i>Friday the 13th</i> foi lançado na sexta-feira, dia 9. ",
                "audio": "10986_2",
                "truth": true
             },
             {
-               "text": "Calendars in Newfoundland do not include Friday the 13th.",
+               "text": "Os calendários em Newfoundland não incluem sexta-feira, 13.",
                "audio": "10986_3",
                "truth": false
             },
             {
-               "text": "The McRib sandwich is always released on Friday the 13th. ",
+               "text": "O sanduíche McRib é lançado sempre na sexta-feira, dia 13. ",
                "audio": "10986_4",
                "truth": false
             },
             {
-               "text": "Every presidential assassination happened on Friday the 13th. ",
+               "text": "Todos os assassinatos presidenciais aconteceram na sexta-feira, dia 13. ",
                "audio": "10986_5",
                "truth": false
             },
             {
-               "text": "Due to leap year, Friday the 13th sometimes lands on a Saturday.",
+               "text": "Devido ao ano bissexto, sexta-feira 13 às vezes cai em um sábado.",
                "audio": "10986_6",
                "truth": false
             }
@@ -3058,42 +3058,42 @@
          "text": "666",
          "category": "666",
          "audio": "11241_cat",
-         "subject": "Awesome",
+         "subject": "Impressionante",
          "statements": [
             {
-               "response": "1 to 36 add up to 666.",
-               "text": "If you add up all the numbers on a roulette wheel, you get 666. ",
+               "response": "1 a 36 somam 666.",
+               "text": "Se você somar todos os números em uma roda de roleta, você obtém 666. ",
                "audio": "11241_0",
                "truth": true
             },
             {
-               "response": "His wife, Nancy, got it changed to 668.",
-               "text": "Ronald Reagan\u2019s street address, after he was president, was 666.",
+               "response": "Sua esposa, Nancy, mudou para 668.",
+               "text": "O endereço de Ronald Reagan, depois que ele foi presidente, era 666.",
                "audio": "11241_1",
                "truth": true
             },
             {
-               "text": "666 people died on the Hindenburg.",
+               "text": "666 pessoas morreram no Hindenburg.",
                "audio": "11241_2",
                "truth": false
             },
             {
-               "text": "Brett Favre broke his toe throwing his 666th touchdown.",
+               "text": "Brett Favre quebrou o dedo do pé jogando seu 666º touchdown.",
                "audio": "11241_3",
                "truth": false
             },
             {
-               "text": "The Dirt Devil originally cost $66.60.",
+               "text": "O Dirt Devil custava originalmente $ 66,60.",
                "audio": "11241_4",
                "truth": false
             },
             {
-               "text": "You can spell DEVIL on your calculator by multiplying 666 times 666.",
+               "text": "Você pode soletrar DIABO na calculadora multiplicando 666 por 666.",
                "audio": "11241_5",
                "truth": false
             },
             {
-               "text": "The town of Hell, Michigan is 666 ft. above sea level.",
+               "text": "A cidade de Hell, Michigan, fica a 666 pés acima do nível do mar.",
                "audio": "11241_6",
                "truth": false
             }
@@ -3101,46 +3101,46 @@
       },
       {
          "id": 10989,
-         "text": "The Labors of Hercules",
-         "category": "The Labors of Hercules",
+         "text": "Os Trabalhos de Hércules",
+         "category": "Os Trabalhos de Hércules",
          "audio": "10989_cat",
-         "subject": "Art",
+         "subject": "Arte",
          "statements": [
             {
-               "response": "From the Queen of the Amazons.",
-               "text": "Stealing a belt. ",
+               "response": "Da Rainha das Amazonas.",
+               "text": "Roubando um cinto. ",
                "audio": "10989_0",
                "truth": true
             },
             {
-               "response": "Hercules diverted two rivers to clean the dung from King Augeas\u2019 stables.",
-               "text": "Cleaning the poop out of a stable.",
+               "response": "Hércules desviou dois rios para limpar o esterco dos estábulos do rei Augeas.",
+               "text": "Limpando o cocô de um estábulo.",
                "audio": "10989_1",
                "truth": true
             },
             {
-               "response": "Fancy golden apples.",
-               "text": "Getting apples.",
+               "response": "Maçãs douradas chiques.",
+               "text": "Pegando maçãs.",
                "audio": "10989_2",
                "truth": true
             },
             {
-               "text": "Babysitting.",
+               "text": "Babá.",
                "audio": "10989_3",
                "truth": false
             },
             {
-               "text": "Making a sandwich.",
+               "text": "Fazendo um sanduíche.",
                "audio": "10989_4",
                "truth": false
             },
             {
-               "text": "Wrestling the Minotaur.",
+               "text": "Lutando contra o Minotauro.",
                "audio": "10989_5",
                "truth": false
             },
             {
-               "text": "Spending a day as a woman.",
+               "text": "Passar um dia como mulher.",
                "audio": "10989_6",
                "truth": false
             }
@@ -3148,154 +3148,154 @@
       },
       {
          "id": 10741,
-         "text": "Real Disney Cartoons",
-         "category": "Real Disney Cartoons",
+         "text": "Desenhos animados reais da Disney",
+         "category": "Desenhos animados reais da Disney",
          "audio": "10741_cat",
-         "subject": "Pop Culture",
+         "subject": "Cultura pop",
          "statements": [
             {
-               "response": "It\u2019s called \u201cThe Winged Scourge.\u201d",
-               "text": "The 7 Dwarves fight malaria.",
+               "response": "É chamado de “O Flagelo Alado”.",
+               "text": "Os 7 anões lutam contra a malária.",
                "audio": "10741_0",
                "truth": true,
-               "tweet": "\u201cThe Story of Menstruation\u201d is a real Disney cartoon."
+               "tweet": "“The Story of Menstruation” é um verdadeiro desenho animado da Disney."
             },
             {
-               "response": "He\u2019s not successful.",
-               "text": "Goofy tries to quit smoking.",
+               "response": "Ele não teve sucesso.",
+               "text": "Pateta tenta parar de fumar.",
                "audio": "10741_1",
                "truth": true,
-               "tweet": "Disney did a cartoon where Goofy tries to quit smoking."
+               "tweet": "Disney fez um desenho onde Pateta tenta parar de fumar."
             },
             {
-               "response": "It\u2019s called \u201cDer Fuehrer\u2019s Face.\u201d",
-               "text": "Donald Duck has a nightmare that he\u2019s a Nazi.",
+               "response": "É chamado de “Rosto de Der Führer”.",
+               "text": "O Pato Donald tem o pesadelo de ser nazista.",
                "audio": "10741_2",
                "truth": true,
-               "tweet": "There\u2019s a real Disney cartoon where Donald Duck has a nightmare that he\u2019s a nazi."
+               "tweet": "Há um desenho animado real da Disney em que o Pato Donald tem o pesadelo de ser nazi."
             },
             {
-               "text": "Pluto gets rabies.",
+               "text": "Plutão fica com raiva.",
                "audio": "10741_3",
                "truth": false,
-               "tweet": "There\u2019s a real Disney cartoon where Pluto gets rabies"
+               "tweet": "Há um desenho animado real da Disney em que Plutão fica com raiva"
             },
             {
-               "text": "Minnie Mouse files for divorce.",
+               "text": "Minnie Mouse pede o divórcio.",
                "audio": "10741_4",
                "truth": false,
-               "tweet": "\u201cWhy Your Parents Are Getting a Divorce\u201d is a real Disney cartoon."
+               "tweet": "“Por que seus pais estão se divorciando” é um verdadeiro desenho animado da Disney."
             },
             {
-               "text": "Chip and Dale become beatniks.",
+               "text": "Chip e Dale tornam-se beatniks.",
                "audio": "10741_5",
                "truth": false,
-               "tweet": "There\u2019s a real Disney cartoon where Chip and Dale become beatniks."
+               "tweet": "Há um verdadeiro desenho animado da Disney em que Chip e Dale se tornam beatniks."
             },
             {
-               "text": "Mickey Mouse is arrested for not paying taxes.",
+               "text": "Mickey Mouse é preso por não pagar impostos.",
                "audio": "10741_6",
                "truth": false,
-               "tweet": "There\u2019s a real Disney cartoon where Mickey Mouse is arrested for not paying taxes."
+               "tweet": "Há um verdadeiro desenho animado da Disney em que Mickey Mouse é preso por não pagar impostos."
             }
          ]
       },
       {
          "id": 11099,
-         "text": "Oscar Winners",
-         "category": "Oscar Winners",
+         "text": "Vencedores do Oscar",
+         "category": "Vencedores do Oscar",
          "audio": "11099_cat",
-         "subject": "Pop Culture",
+         "subject": "Cultura pop",
          "statements": [
             {
-               "response": "But it only won for Best Original Screenplay.",
-               "text": "<i>Citizen Kane<\/i>",
+               "response": "Mas só venceu como Melhor Roteiro Original.",
+               "text": "<i>Citizen Kane</i>",
                "audio": "11099_0",
                "truth": true,
-               "tweet": "<i>Citizen Kane<\/i> won at least one Oscar."
+               "tweet": "<i>Cidadão Kane</i> ganhou pelo menos um Oscar."
             },
             {
-               "response": "Best Makeup",
-               "text": "<i>Mrs. Doubtfire<\/i>",
+               "response": "Melhor maquiagem",
+               "text": "<i>Sra. Doubtfire</i>",
                "audio": "11099_1",
                "truth": true,
-               "tweet": "<i>Mrs. Doubtfire<\/i> won at least one Oscar."
+               "tweet": "<i>Sra. Doubtfire</i> ganhou pelo menos um Oscar."
             },
             {
-               "response": "Best Makeup",
-               "text": "<i>Harry and the Hendersons<\/i>",
+               "response": "Melhor maquiagem",
+               "text": "<i>Harry e os Hendersons</i>",
                "audio": "11099_2",
                "truth": true,
-               "tweet": "<i>Harry and the Hendersons<\/i> won at least one Oscar."
+               "tweet": "<i>Harry e os Hendersons</i> ganhou pelo menos um Oscar."
             },
             {
-               "text": "<i>The Shining<\/i>",
+               "text": "<i>The Shining</i>",
                "audio": "11099_3",
                "truth": false,
-               "tweet": "<\/i>The Shining<\/i> won at least one Oscar."
+               "tweet": "</i>The Shining</i> ganhou pelo menos um Oscar."
             },
             {
-               "text": "<i>Taxi Driver<\/i>",
+               "text": "<i>Taxista</i>",
                "audio": "11099_4",
                "truth": false,
-               "tweet": "<i>Taxi Driver<\/i> won at least one Oscar."
+               "tweet": "<i>taxista</i> ganhou pelo menos um Oscar."
             },
             {
-               "text": "<i>Norbit<\/i>",
+               "text": "<i>Norbit</i>",
                "audio": "11099_5",
                "truth": false,
-               "tweet": "<i>Norbit<\/i> won at least one Oscar."
+               "tweet": "<i>Norbit</i> ganhou pelo menos um Oscar."
             },
             {
-               "text": "<i>Star Wars: Ep. I - The Phantom Menace<\/i>",
+               "text": "<i>Star Wars: Ep. I - A Ameaça Fantasma</i>",
                "audio": "11099_6",
                "truth": false,
-               "tweet": "<i>Star Wars: Ep. I - The Phantom Menace<\/i> won at least one Oscar."
+               "tweet": "<i>Star Wars: Ep. I - The Phantom Menace</i> ganhou pelo menos um Oscar."
             }
          ]
       },
       {
          "id": 10974,
-         "text": "Coincidences",
-         "category": "Coincidences",
+         "text": "Coincidências",
+         "category": "Coincidências",
          "audio": "10974_cat",
-         "subject": "Easter Egg",
+         "subject": "ovos de pascoa",
          "statements": [
             {
-               "response": "He pulled him out of the way of a train.",
-               "text": "John Wilkes Booth\u2019s brother saved the life of Abraham Lincoln\u2019s son.",
+               "response": "Ele o puxou para fora do caminho de um trem.",
+               "text": "O irmão de John Wilkes Booth salvou a vida do filho de Abraham Lincoln.",
                "audio": "10974_0",
                "truth": true
             },
             {
-               "response": "He kept that information from NASA.",
-               "text": "Buzz Aldrin\u2019s mother\u2019s maiden name was Moon.",
+               "response": "Ele escondeu essa informação da NASA.",
+               "text": "O nome de solteira da mãe de Buzz Aldrin era Moon.",
                "audio": "10974_1",
                "truth": true
             },
             {
-               "response": "John Adams, Thomas Jefferson, and James Monroe.",
-               "text": "Three of the first five U.S. presidents died on the 4th of July.",
+               "response": "John Adams, Thomas Jefferson e James Monroe.",
+               "text": "Três dos primeiros cinco presidentes dos EUA morreram no dia 4 de julho.",
                "audio": "10974_2",
                "truth": true
             },
             {
-               "text": "The most tornadoes in recorded history occurred the year <i>The Wizard of Oz<\/i> came out.",
+               "text": "O maior número de tornados registrados na história ocorreu no ano <i>O Mágico de Oz</i> foi lançado.",
                "audio": "10974_3",
                "truth": false
             },
             {
-               "text": "Thomas Jefferson and Napoleon were stabbed by the same man.",
+               "text": "Thomas Jefferson e Napoleon foram esfaqueados pelo mesmo homem.",
                "audio": "10974_4",
                "truth": false
             },
             {
-               "text": "David Letterman and Jay Leno had the same first grade teacher.",
+               "text": "David Letterman e Jay Leno tiveram o mesmo professor da primeira série.",
                "audio": "10974_5",
                "truth": false
             },
             {
-               "text": "David Blaine found David Copperfield\u2019s wallet on a park bench.",
+               "text": "David Blaine encontrou a carteira de David Copperfield em um banco de parque.",
                "audio": "10974_6",
                "truth": false
             }
@@ -3303,49 +3303,49 @@
       },
       {
          "id": 10972,
-         "text": "Real Theme Parks",
-         "category": "Real Theme Parks",
+         "text": "Parques temáticos reais",
+         "category": "Parques temáticos reais",
          "audio": "10972_cat",
-         "subject": "Places",
+         "subject": "Locais",
          "statements": [
             {
-               "response": "Located in England, of course.",
-               "text": "Dickens World (with cabbage smells, soot and pickpockets)",
+               "response": "Localizada na Inglaterra, é claro.",
+               "text": "Dickens World (com cheiros de repolho, fuligem e batedores de carteira)",
                "audio": "10972_0",
                "truth": true,
-               "tweet": "Dickens World is a real theme park."
+               "tweet": "Dickens World é um verdadeiro parque temático."
             },
             {
-               "response": "A popular South Korean destination.",
-               "text": "Love Land (with phallic artwork and sex-themed, hands-on exhibits)",
+               "response": "Um destino sul-coreano popular.",
+               "text": "Love Land (com obras de arte fálicas e exposições interativas sobre sexo)",
                "audio": "10972_1",
                "truth": true,
-               "tweet": "Love Land is a real theme park."
+               "tweet": "Love Land é um verdadeiro parque temático."
             },
             {
-               "response": "Coming soon to France!",
-               "text": "Napoleonland (with guillotine re-enactments and a ski run dotted with artificial corpses)",
+               "response": "Em breve na França!",
+               "text": "Napoleonland (com encenações de guilhotina e uma pista de esqui pontilhada de cadáveres artificiais)",
                "audio": "10972_2",
                "truth": true,
-               "tweet": "Napoleonland is a real theme park."
+               "tweet": "Napoleonland é um verdadeiro parque temático."
             },
             {
-               "text": "Poop Land (with the Colon Cave Adventure and the Poop Log Ride)",
+               "text": "Poop Land (com Colon Cave Adventure e Poop Log Ride)",
                "audio": "10972_3",
                "truth": false
             },
             {
-               "text": "Sad Mountain (with animatronic goats and souvenir tissues)",
+               "text": "Sad Mountain (com cabras animatrônicas e lenços de lembrança)",
                "audio": "10972_4",
                "truth": false
             },
             {
-               "text": "Beatles Lands (with Yellow Submarine rides and simulated acid trips)",
+               "text": "Terras dos Beatles (com passeios no submarino amarelo e viagens de ácido simuladas)",
                "audio": "10972_5",
                "truth": false
             },
             {
-               "text": "Global Warming Land (with the Al Gore\u2019s Greenhouse and Carbon Dioxide Coaster)",
+               "text": "Terra em aquecimento global (com a estufa de Al Gore e a montanha-russa de dióxido de carbono)",
                "audio": "10972_6",
                "truth": false
             }
@@ -3356,43 +3356,43 @@
          "text": "Kanye West Tweets",
          "category": "Kanye West Tweets",
          "audio": "10714_cat",
-         "subject": "People",
+         "subject": "Pessoas",
          "statements": [
             {
-               "response": "He tweeted this hard truth on Aug. 1, 2010.",
-               "text": "\u201cFur pillows are hard to actually sleep on.\u201d ",
+               "response": "Ele tweetou essa dura verdade em 1º de agosto de 2010.",
+               "text": "“Travesseiros de pele são difíceis de dormir.” ",
                "audio": "10714_0",
                "truth": true
             },
             {
-               "response": "He tweeted this on Sept. 9, 2010.",
-               "text": "\u201cMan\u2026 whatever happened to my antique fish tank.\u201d",
+               "response": "Ele tweetou em 9 de setembro de 2010.",
+               "text": "\"Homem… tudo o que aconteceu ao meu aquário antigo.\"",
                "audio": "10714_1",
                "truth": true
             },
             {
-               "response": "He tweeted that on Sept. 18, 2010 after making an awesome in-bike store decision.",
-               "text": "\u201cI make awesome decisions in bike stores!!!\u201d",
+               "response": "Ele twittou isso em 18 de setembro de 2010 depois de tomar uma decisão incrível sobre a loja de bicicletas.",
+               "text": "“Eu tomo decisões incríveis em lojas de bicicletas !!!”",
                "audio": "10714_2",
                "truth": true
             },
             {
-               "text": "\u201cI know all the words to my songs too!\u201d",
+               "text": "“Eu também sei todas as letras das minhas músicas!”",
                "audio": "10714_3",
                "truth": false
             },
             {
-               "text": "\u201cSuede boxers are super fresh till you go on stage lol #hotoutside\u201d",
+               "text": "“Boxers de camurça são super frescos até você subir no palco lol #hotoutside”",
                "audio": "10714_4",
                "truth": false
             },
             {
-               "text": "\u201cCan\u2019t go to the bathroom with this marble minotaur lookin at me lol\u201d",
+               "text": "“Não posso ir ao banheiro com esse minotauro de mármore olhando para mim rs”",
                "audio": "10714_5",
                "truth": false
             },
             {
-               "text": "\u201cSoon as I\u2019m off this jet\u2026 imma rent <i>We Bought a Zoo<\/i> on Redbox!!!\u201d",
+               "text": "“Assim que eu sair deste jato… imma rent <i>Compramos um Zoo</i> na Redbox !!!”",
                "audio": "10714_6",
                "truth": false
             }
@@ -3400,45 +3400,45 @@
       },
       {
          "id": 11095,
-         "text": "St. Patrick\u2019s Day",
-         "category": "St. Patrick\u2019s Day",
+         "text": "Dia de São Patricio",
+         "category": "Dia de São Patricio",
          "audio": "11095_cat",
-         "subject": "Holidays",
+         "subject": "Feriados",
          "statements": [
             {
-               "response": "Green became popular after it was used in the 1798 Irish Rebellion.",
-               "text": "Blue was originally the color of St. Patrick\u2019s Day.",
+               "response": "O verde tornou-se popular depois de ter sido usado na Rebelião Irlandesa de 1798.",
+               "text": "Azul era originalmente a cor do Dia de São Patrício.",
                "audio": "11095_0",
                "truth": true
             },
             {
-               "response": "He was born in England and brought to Ireland as a slave.",
-               "text": "St. Patrick wasn\u2019t Irish.",
+               "response": "Ele nasceu na Inglaterra e foi trazido para a Irlanda como escravo.",
+               "text": "St. Patrick não era irlandês.",
                "audio": "11095_1",
                "truth": true
             },
             {
-               "text": "Corona is the top selling beer on St. Patrick\u2019s Day in the U.S.",
+               "text": "Corona é a cerveja mais vendida no Dia de São Patrício nos EUA",
                "audio": "11095_2",
                "truth": false
             },
             {
-               "text": "St. Patrick\u2019s Day is celebrated in February in Ireland. ",
+               "text": "O Dia de São Patrício é comemorado em fevereiro na Irlanda. ",
                "audio": "11095_3",
                "truth": false
             },
             {
-               "text": "Corned beef is served on St. Patrick\u2019s Day to scare away ghost cows. ",
+               "text": "Carne enlatada é servida no dia de São Patrício para assustar as vacas fantasmas. ",
                "audio": "11095_4",
                "truth": false
             },
             {
-               "text": "Per Irish tradition, a baby born on St. Patrick\u2019s Day must drink Guinness. ",
+               "text": "Pela tradição irlandesa, um bebê nascido no dia de São Patrício deve beber Guinness. ",
                "audio": "11095_5",
                "truth": false
             },
             {
-               "text": "St. Patrick\u2019s Day was originally celebrated by fasting.",
+               "text": "O Dia de São Patrício era originalmente comemorado com jejum.",
                "audio": "11095_6",
                "truth": false
             }
@@ -3446,46 +3446,46 @@
       },
       {
          "id": 10964,
-         "text": "Thanksgiving",
-         "category": "Thanksgiving",
+         "text": "Ação de graças",
+         "category": "Ação de graças",
          "audio": "10964_cat",
-         "subject": "Holidays",
+         "subject": "Feriados",
          "statements": [
             {
-               "response": "Written by a Sunday school teacher.",
-               "text": "\u201cJingle Bells\u201d was originally written as a Thanksgiving song.",
+               "response": "Escrito por um professor de escola dominical.",
+               "text": "“Jingle Bells” foi escrita originalmente como uma música de Ação de Graças.",
                "audio": "10964_0",
                "truth": true
             },
             {
-               "response": "Over 20 turkeys have been pardoned.",
-               "text": "The U.S. President pardons a turkey every Thanksgiving.",
+               "response": "Mais de 20 perus foram perdoados.",
+               "text": "O presidente dos EUA perdoa um peru a cada Ação de Graças.",
                "audio": "10964_1",
                "truth": true
             },
             {
-               "response": "In 1863.",
-               "text": "Thanksgiving didn\u2019t become an official holiday until Abraham Lincoln decreed it.",
+               "response": "Em 1863.",
+               "text": "O Dia de Ação de Graças não se tornou um feriado oficial até que Abraham Lincoln o decretou.",
                "audio": "10964_2",
                "truth": true
             },
             {
-               "text": "Thanksgiving lands on a Tuesday every 14 years. ",
+               "text": "O Dia de Ação de Graças chega em uma terça-feira a cada 14 anos. ",
                "audio": "10964_3",
                "truth": false
             },
             {
-               "text": "The Macy\u2019s Thanksgiving Day Parade had a giant inflatable Donald Trump in 2007.",
+               "text": "A Parada do Dia de Ação de Graças da Macy's teve um Donald Trump inflável gigante em 2007.",
                "audio": "10964_4",
                "truth": false
             },
             {
-               "text": "<i>Pornucopia 7: Still Giving Thanks<\/i> is the highest grossing Thanksgiving-themed porn. ",
+               "text": "<i>Pornucopia 7: Still Giving Thanks</i> é o filme pornô com tema de Ação de Graças de maior bilheteria. ",
                "audio": "10964_5",
                "truth": false
             },
             {
-               "text": "Andre the Giant has the record for biggest hand-drawn Thanksgiving turkey. ",
+               "text": "Andre the Giant tem o recorde de maior peru desenhado à mão no Dia de Ação de Graças. ",
                "audio": "10964_6",
                "truth": false
             }
@@ -3496,42 +3496,42 @@
          "text": "Reality TV",
          "category": "Reality TV",
          "audio": "10961_cat",
-         "subject": "Pop Culture",
+         "subject": "Cultura pop",
          "statements": [
             {
-               "response": "It lasted one episode.",
-               "text": "To win <i>Who\u2019s Your Daddy<\/i>, an adoptee had to pick her birth dad from a room full of men.",
+               "response": "Durou um episódio.",
+               "text": "Para ganhar <i>Who's Your Daddy</i>, uma adotada teve que escolher seu pai biológico em uma sala cheia de homens.",
                "audio": "10961_0",
                "truth": true
             },
             {
-               "response": "It was canceled after one episode.",
-               "text": "On <i>The Will<\/i>, 10 people competed to become sole beneficiary of a millionaire\u2019s will.",
+               "response": "Foi cancelado após um episódio.",
+               "text": "Em <i>The Will</i>, 10 pessoas competiram para se tornarem as únicas beneficiárias do testamento de um milionário.",
                "audio": "10961_1",
                "truth": true
             },
             {
-               "text": "On <i>Love Behind Bars<\/i>, three men competed for the heart of a convicted felon.",
+               "text": "Em <i>Love Behind Bars</i>, três homens competiram pelo coração de um criminoso condenado.",
                "audio": "10961_2",
                "truth": false
             },
             {
-               "text": "On <i>Rock Camp<\/i>, kids lived in the wilderness while competing for a record contract.",
+               "text": "No <i>Rock Camp</i>, as crianças viviam no deserto enquanto competiam por um contrato de gravação.",
                "audio": "10961_3",
                "truth": false
             },
             {
-               "text": "On <i>Hammer Time<\/i>, the losing contestant had to tear down their dream home.",
+               "text": "Em <i>Hammer Time</i>, o competidor perdedor teve que derrubar sua casa de sonho.",
                "audio": "10961_4",
                "truth": false
             },
             {
-               "text": "On <i>Saddled With Debt<\/i>, people crippled with debt raced horses for money.",
+               "text": "Em <i>Saddled With Debt</i>, pessoas aleijadas por dívidas corriam a cavalo por dinheiro.",
                "audio": "10961_5",
                "truth": false
             },
             {
-               "text": "In <i>Cougar Season<\/i>, young men had to pick up older women at bars.",
+               "text": "Em <i>Cougar Temporada</i>, os jovens tinham de pegar as mulheres mais velhas em bares.",
                "audio": "10961_6",
                "truth": false
             }
@@ -3539,46 +3539,46 @@
       },
       {
          "id": 10706,
-         "text": "Christmas",
-         "category": "Christmas",
+         "text": "Natal",
+         "category": "Natal",
          "audio": "10706_cat",
-         "subject": "Holidays",
+         "subject": "Feriados",
          "statements": [
             {
-               "response": "It was banned until 1660.",
-               "text": "British Parliament banned Christmas in 1647.",
+               "response": "Foi banido até 1660.",
+               "text": "O Parlamento britânico proibiu o Natal em 1647.",
                "audio": "10706_0",
                "truth": true
             },
             {
-               "response": "After two astronauts reported a UFO that looked like Santa\u2019s sleigh in 1965.",
-               "text": "\u201cJingle Bells\u201d was the first song sung in outer space. ",
+               "response": "Depois que dois astronautas relataram um OVNI que parecia o trenó do Papai Noel em 1965.",
+               "text": "“Jingle Bells” foi a primeira música cantada no espaço sideral. ",
                "audio": "10706_1",
                "truth": true
             },
             {
-               "response": "He banned them for environmental reasons.",
-               "text": "Teddy Roosevelt banned Christmas trees in the White House.",
+               "response": "Ele os proibiu por razões ambientais.",
+               "text": "Teddy Roosevelt proibiu as árvores de Natal na Casa Branca.",
                "audio": "10706_2",
                "truth": true
             },
             {
-               "text": "George W. Bush was a department store Santa in his twenties. ",
+               "text": "George W. Bush era um Papai Noel de uma loja de departamentos na casa dos vinte anos. ",
                "audio": "10706_3",
                "truth": false
             },
             {
-               "text": "Kim Kardashian wrote a line of Christmas cards for Hallmark.",
+               "text": "Kim Kardashian escreveu uma linha de cartões de Natal para a Hallmark.",
                "audio": "10706_4",
                "truth": false
             },
             {
-               "text": "It\u2019s tradition in Poland for kids to sleep in shoes so the Christmas troll can\u2019t eat their toes.",
+               "text": "É tradição na Polônia que as crianças durmam com sapatos, para que o trasgo do Natal não coma seus dedos.",
                "audio": "10706_5",
                "truth": false
             },
             {
-               "text": "There was no Christmas before 1974.",
+               "text": "Não houve Natal antes de 1974.",
                "audio": "10706_6",
                "truth": false
             }
@@ -3586,46 +3586,46 @@
       },
       {
          "id": 10688,
-         "text": "Square Roots",
-         "category": "Square Roots",
+         "text": "Raízes quadradas",
+         "category": "Raízes quadradas",
          "audio": "10688_cat",
-         "subject": "Math",
+         "subject": "Matemática",
          "statements": [
             {
-               "response": "It\u2019s true. You can check on a calculator.",
-               "text": "The square root of 7,569 is 87.",
+               "response": "É verdade. Você pode verificar em uma calculadora.",
+               "text": "A raiz quadrada de 7.569 é 87.",
                "audio": "10688_0",
                "truth": true
             },
             {
-               "response": "Spooky.",
-               "text": "The square root of 443,556 is 666.",
+               "response": "Assustador.",
+               "text": "A raiz quadrada de 443.556 é 666.",
                "audio": "10688_1",
                "truth": true
             },
             {
-               "text": "The square root of 813 is dog.",
+               "text": "A raiz quadrada de 813 é cachorro.",
                "audio": "10688_2",
                "truth": false
             },
             {
-               "text": "The square root of 555 is 24.",
+               "text": "A raiz quadrada de 555 é 24.",
                "audio": "10688_3",
                "truth": false
             },
             {
-               "text": "The square root of 1,800 is 911.",
+               "text": "A raiz quadrada de 1.800 é 911.",
                "audio": "10688_4",
                "truth": false
             },
             {
-               "text": "The square root of 999,009 is 999.",
+               "text": "A raiz quadrada de 999.009 é 999.",
                "audio": "10688_5",
                "truth": false
             },
             {
-               "response": "Zero is the square root of zero. Duh.",
-               "text": "There is no square root of zero.",
+               "response": "Zero é a raiz quadrada de zero. Duh.",
+               "text": "Não há raiz quadrada de zero.",
                "audio": "10688_6",
                "truth": false
             }
@@ -3633,31 +3633,31 @@
       },
       {
          "id": 10947,
-         "text": "Real Airport Codes",
-         "category": "Real Airport Codes",
+         "text": "Códigos de aeroportos reais",
+         "category": "Códigos de aeroportos reais",
          "audio": "10947_cat",
          "subject": "Real",
          "statements": [
             {
-               "response": "It\u2019s the airport of Perm, Russia.",
-               "text": "PEE",
+               "response": "É o aeroporto de Perm, Rússia.",
+               "text": "URINA",
                "audio": "10947_0",
                "truth": true
             },
             {
-               "response": "Naturally, it\u2019s located in Germany.",
-               "text": "SEX",
+               "response": "Naturalmente, está localizado na Alemanha.",
+               "text": "SEXO",
                "audio": "10947_1",
                "truth": true
             },
             {
-               "response": "This is the code for Cumana, Venezuela.",
-               "text": "CUM",
+               "response": "Este é o código de Cumana, Venezuela.",
+               "text": "PORRA",
                "audio": "10947_2",
                "truth": true
             },
             {
-               "text": "ASS",
+               "text": "BUNDA",
                "audio": "10947_3",
                "truth": false
             },
@@ -3680,46 +3680,46 @@
       },
       {
          "id": 10687,
-         "text": "Blondes",
-         "category": "Blondes",
+         "text": "Loiras",
+         "category": "Loiras",
          "audio": "10687_cat",
-         "subject": "Body",
+         "subject": "Corpo",
          "statements": [
             {
-               "response": "Blondes are more likely to suffer macular degeneration.",
-               "text": "Blondes have more later-in-life blindness.",
+               "response": "As loiras têm maior probabilidade de sofrer degeneração macular.",
+               "text": "As loiras têm mais cegueira na idade avançada.",
                "audio": "10687_0",
                "truth": true
             },
             {
-               "response": "Red heads too.",
-               "text": "Blondes have more mosquito bites. ",
+               "response": "Cabeças vermelhas também.",
+               "text": "Loiras têm mais picadas de mosquito. ",
                "audio": "10687_1",
                "truth": true
             },
             {
-               "response": "They have thinner hair so there\u2019s room for more of it.",
-               "text": "Blondes have more hair. ",
+               "response": "Eles têm cabelos mais finos, então há espaço para mais.",
+               "text": "Loiras têm mais cabelo. ",
                "audio": "10687_2",
                "truth": true
             },
             {
-               "text": "Blondes have more fungus problems.",
+               "text": "As loiras têm mais problemas com fungos.",
                "audio": "10687_3",
                "truth": false
             },
             {
-               "text": "Blondes have more diarrhea.",
+               "text": "As loiras têm mais diarreia.",
                "audio": "10687_4",
                "truth": false
             },
             {
-               "text": "Blondes have more car accidents.",
+               "text": "Loiras têm mais acidentes de carro.",
                "audio": "10687_5",
                "truth": false
             },
             {
-               "text": "Blondes have more nightmares.",
+               "text": "Loiras têm mais pesadelos.",
                "audio": "10687_6",
                "truth": false
             }
@@ -3727,45 +3727,45 @@
       },
       {
          "id": 10845,
-         "text": "World Leaders",
-         "category": "World Leaders",
+         "text": "Líderes mundiais",
+         "category": "Líderes mundiais",
          "audio": "10845_cat",
-         "subject": "People",
+         "subject": "Pessoas",
          "statements": [
             {
-               "response": "\u201cZabibah and the King\u201d",
-               "text": "Saddam Hussein published a romance novel.",
+               "response": "“Zabibah e o Rei”",
+               "text": "Saddam Hussein publicou um romance.",
                "audio": "10845_0",
                "truth": true
             },
             {
-               "response": "He did commercials for Pizza Hut\u2019s The Edge Pizza.",
-               "text": "Mikhail Gorbachev was briefly a spokesperson for Pizza Hut.",
+               "response": "Ele fez comerciais para The Edge Pizza, da Pizza Hut.",
+               "text": "Mikhail Gorbachev foi brevemente um porta-voz da Pizza Hut.",
                "audio": "10845_1",
                "truth": true
             },
             {
-               "text": "Prince Charles speaks Klingon.",
+               "text": "O Príncipe Charles fala Klingon.",
                "audio": "10845_2",
                "truth": false
             },
             {
-               "text": "Yasser Arafat wrote a fan letter to the voice of SpongeBob SquarePants.",
+               "text": "Yasser Arafat escreveu uma carta de fã para a voz de Bob Esponja.",
                "audio": "10845_3",
                "truth": false
             },
             {
-               "text": "Winston Churchill wore a hat in the shower.",
+               "text": "Winston Churchill usava chapéu no chuveiro.",
                "audio": "10845_4",
                "truth": false
             },
             {
-               "text": "Tony Blair got his hair braided on a trip to the Caribbean.",
+               "text": "Tony Blair fez uma trança no cabelo em uma viagem ao Caribe.",
                "audio": "10845_5",
                "truth": false
             },
             {
-               "text": "Fidel Castro lost 60 pounds after joining Weight Watchers.",
+               "text": "Fidel Castro perdeu 30 quilos depois de ingressar na Weight Watchers.",
                "audio": "10845_6",
                "truth": false
             }
@@ -3773,101 +3773,101 @@
       },
       {
          "id": 10684,
-         "text": "Former Olympic Events",
-         "category": "Former Olympic Events",
+         "text": "Antigos eventos olímpicos",
+         "category": "Antigos eventos olímpicos",
          "audio": "10684_cat",
          "subject": "Real",
          "statements": [
             {
-               "response": "Tug-of-War was an Olympic event from 1900 to 1920.",
-               "text": "Tug-of-war",
+               "response": "Cabo de guerra foi um evento olímpico de 1900 a 1920.",
+               "text": "Cabo-de-guerra",
                "audio": "10684_0",
                "truth": true,
-               "tweet": "Tug-of-war was a former Olympic event."
+               "tweet": "Cabo de guerra foi um antigo evento olímpico."
             },
             {
-               "response": "Painting, Sculpture and Architecture were also Olympic events.",
-               "text": "Poetry",
+               "response": "Pintura, Escultura e Arquitetura também foram eventos olímpicos.",
+               "text": "Poesia",
                "audio": "10684_1",
                "truth": true,
-               "tweet": "Poetry was a former Olympic event."
+               "tweet": "A poesia era um antigo evento olímpico."
             },
             {
-               "response": "300 birds were killed during the 1900 Olympics.",
-               "text": "Shooting Live Pigeons",
+               "response": "300 pássaros foram mortos durante as Olimpíadas de 1900.",
+               "text": "Atirando em pombos vivos",
                "audio": "10684_2",
                "truth": true,
-               "tweet": "Shooting live pigeons was a former Olympic event."
+               "tweet": "Atirar em pombos vivos era um antigo evento olímpico."
             },
             {
-               "response": "But wouldn\u2019t that be awesome?!",
-               "text": "Jet Skiing",
+               "response": "Mas isso não seria incrível ?!",
+               "text": "Andar de jet ski",
                "audio": "10684_3",
                "truth": false,
-               "tweet": "Jetski was a former Olympic event."
+               "tweet": "Jetski foi um ex-evento olímpico."
             },
             {
                "text": "Scrabble",
                "audio": "10684_4",
                "truth": false,
-               "tweet": "Scrabble was a former Olympic event."
+               "tweet": "Scrabble era um antigo evento olímpico."
             },
             {
-               "text": "Jump rope",
+               "text": "Pular corda",
                "audio": "10684_5",
                "truth": false,
-               "tweet": "Jump rope was a former Olympic event."
+               "tweet": "Pular corda era um antigo evento olímpico."
             },
             {
-               "text": "Murder",
+               "text": "Assassinato",
                "audio": "10684_6",
                "truth": false,
-               "tweet": "Murder was a former Olympic event."
+               "tweet": "O assassinato foi um antigo evento olímpico."
             }
          ]
       },
       {
          "id": 11005,
-         "text": "Movie Heroes",
-         "category": "Movie Heroes",
+         "text": "Heróis do cinema",
+         "category": "Heróis do cinema",
          "audio": "11005_cat",
-         "subject": "Pop Culture",
+         "subject": "Cultura pop",
          "statements": [
             {
-               "response": "George Lucas changed the name a few times.",
-               "text": "Luke Skywalker was originally Luke Starkiller.",
+               "response": "George Lucas mudou o nome algumas vezes.",
+               "text": "Luke Skywalker era originalmente Luke Starkiller.",
                "audio": "11005_0",
                "truth": true
             },
             {
-               "response": "Steven Spielberg suggested the name change.",
-               "text": "Indiana Jones was originally Indiana Smith.",
+               "response": "Steven Spielberg sugeriu a mudança de nome.",
+               "text": "Indiana Jones era originalmente Indiana Smith.",
                "audio": "11005_1",
                "truth": true
             },
             {
-               "response": "Just doesn\u2019t sound as epic.",
-               "text": "Buzz Lightyear was originally Lunar Larry.",
+               "response": "Simplesmente não soa tão épico.",
+               "text": "Buzz Lightyear era originalmente Lunar Larry.",
                "audio": "11005_2",
                "truth": true
             },
             {
-               "text": "Dirty Harry was originally Johnny Fist.",
+               "text": "Dirty Harry era originalmente Johnny Fist.",
                "audio": "11005_3",
                "truth": false
             },
             {
-               "text": "Edward Scissorhands was originally Lenny Bladefingers.",
+               "text": "Edward Mãos de Tesoura era originalmente Lenny Bladefingers.",
                "audio": "11005_4",
                "truth": false
             },
             {
-               "text": "The Transformers were originally Machine Men.",
+               "text": "Os Transformers eram originalmente Homens-Máquina.",
                "audio": "11005_5",
                "truth": false
             },
             {
-               "text": "The Ghostbusters were originally the Ghoul Grabbers.",
+               "text": "Os Ghostbusters eram originalmente os Ghoul Grabbers.",
                "audio": "11005_6",
                "truth": false
             }
@@ -3875,45 +3875,45 @@
       },
       {
          "id": 10999,
-         "text": "Minerals",
-         "category": "Minerals",
+         "text": "Minerais",
+         "category": "Minerais",
          "audio": "10999_cat",
-         "subject": "Resources",
+         "subject": "Recursos",
          "statements": [
             {
-               "response": "It was discovered in Cummington, Massachusetts.",
-               "text": "There is a mineral named cummingtonite.",
+               "response": "Foi descoberto em Cummington, Massachusetts.",
+               "text": "Existe um mineral chamado cummingtonita.",
                "audio": "10999_0",
                "truth": true
             },
             {
-               "response": "It\u2019s found in the Fuka region of Japan.",
-               "text": "There is a mineral named fukalite.",
+               "response": "É encontrado na região de Fuka, no Japão.",
+               "text": "Existe um mineral denominado fucalita.",
                "audio": "10999_1",
                "truth": true
             },
             {
-               "text": "There is a mineral named millerlite.",
+               "text": "Existe um mineral denominado millerlite.",
                "audio": "10999_2",
                "truth": false
             },
             {
-               "text": "There is a mineral named hangtite.",
+               "text": "Existe um mineral chamado hangtite.",
                "audio": "10999_3",
                "truth": false
             },
             {
-               "text": "There is a mineral named vomitite. ",
+               "text": "Existe um mineral chamado vomitita. ",
                "audio": "10999_4",
                "truth": false
             },
             {
-               "text": "There is a mineral named nitebrite. ",
+               "text": "Existe um mineral chamado nitebrite. ",
                "audio": "10999_5",
                "truth": false
             },
             {
-               "text": "There is a mineral named fartifimite.",
+               "text": "Existe um mineral denominado fartifimite.",
                "audio": "10999_6",
                "truth": false
             }
@@ -3921,46 +3921,46 @@
       },
       {
          "id": 10977,
-         "text": "\u201cWeird Al\u201d Yankovic songs",
-         "category": "\u201cWeird Al\u201d Yankovic songs",
+         "text": "Músicas de “Weird Al” Yankovic",
+         "category": "Músicas de “Weird Al” Yankovic",
          "audio": "10977_cat",
-         "subject": "Pop Culture",
+         "subject": "Cultura pop",
          "statements": [
             {
-               "response": "A parody of Cyndi Lauper\u2019s \u201cGirls Just Want to Have Fun.\u201d",
-               "text": "\u201cGirls Just Want to Have Lunch\u201d",
+               "response": "Uma paródia de \"Girls Just Want to Have Fun\", de Cyndi Lauper.",
+               "text": "“As meninas só querem almoçar”",
                "audio": "10977_0",
                "truth": true
             },
             {
-               "response": "From the 1988 hit album <i>Even Worse<\/i>.",
-               "text": "\u201cI Think I\u2019m a Clone Now\u201d",
+               "response": "Do álbum de sucesso de 1988 <i>Even Worse</i>.",
+               "text": "“Acho que sou um clone agora”",
                "audio": "10977_1",
                "truth": true
             },
             {
-               "response": "It was released on Weird Al\u2019s self-titled debut album.",
-               "text": "\u201cAnother One Rides the Bus\u201d",
+               "response": "Foi lançado no álbum de estreia auto-intitulado de Weird Al.",
+               "text": "“Outro anda de ônibus”",
                "audio": "10977_2",
                "truth": true
             },
             {
-               "text": "\u201cPoke Her Face(book)\u201d",
+               "text": "“Poke Her Face (livro)”",
                "audio": "10977_3",
                "truth": false
             },
             {
-               "text": "\u201cAll the Pringles Ladies\u201d ",
+               "text": "“Todas as Senhoras Pringles” ",
                "audio": "10977_4",
                "truth": false
             },
             {
-               "text": "\u201cI Will Always Love Stew\u201d",
+               "text": "“Eu Sempre Amarei Ensopado”",
                "audio": "10977_5",
                "truth": false
             },
             {
-               "text": "\u201cPets Get It On\u201d",
+               "text": "“Pets Get It On”",
                "audio": "10977_6",
                "truth": false
             }
@@ -3968,46 +3968,46 @@
       },
       {
          "id": 10931,
-         "text": "Donald Trump Tweets",
-         "category": "Donald Trump Tweets",
+         "text": "Tweets de Donald Trump",
+         "category": "Tweets de Donald Trump",
          "audio": "10931_cat",
-         "subject": "People",
+         "subject": "Pessoas",
          "statements": [
             {
-               "response": "It got 1,101 retweets.",
-               "text": "\u201cEveryone knows I am right that Robert Pattinson should dump Kristen Stewart.\u201d",
+               "response": "Recebeu 1.101 retuítes.",
+               "text": "“Todo mundo sabe que estou certo que Robert Pattinson deveria terminar com Kristen Stewart.”",
                "audio": "10931_0",
                "truth": true
             },
             {
-               "response": "He added \u201c(Just watch!).\u201d",
-               "text": "\u201c@katyperry is no bargain but I don\u2019t like John Mayer-he dates and tells-be careful Katy.\u201d",
+               "response": "Ele acrescentou “(Apenas observe!).”",
+               "text": "“@Katyperry não é uma pechincha, mas não gosto de John Mayer - ele namora e conta - tenha cuidado, Katy.”",
                "audio": "10931_1",
                "truth": true
             },
             {
-               "response": "He tweeted it a day late.",
-               "text": "\u201cCongratulations to Michelle and Barack Obama on their 20th anniversary.\u201d",
+               "response": "Ele tweetou com um dia de atraso.",
+               "text": "“Parabéns a Michelle e Barack Obama em seu 20º aniversário.”",
                "audio": "10931_2",
                "truth": true
             },
             {
-               "text": "\u201cMy dear friend Victoria Beckham should \u201dfire\u201c David. She can do better.\u201d",
+               "text": "“Minha querida amiga Victoria Beckham deveria” despedir “David. Ela pode fazer melhor. ”",
                "audio": "10931_3",
                "truth": false
             },
             {
-               "text": "\u201c@KimKardashian and @KanyeWest are the greatest couple in America.\u201d",
+               "text": "“@KimKardashian e @KanyeWest são o melhor casal da América.”",
                "audio": "10931_4",
                "truth": false
             },
             {
-               "text": "\u201c@IvankaTrump\u2019s husband is a chump! Give him the boot, honey!\u201d ",
+               "text": "“O marido de @ IvankaTrump é um idiota! Dê a ele a chuteira, querida! ” ",
                "audio": "10931_5",
                "truth": false
             },
             {
-               "text": "\u201cJustin Bieber and Selena Gomez are finished? No!!!\u201d  ",
+               "text": "“Justin Bieber e Selena Gomez terminaram? Não!!!\"  ",
                "audio": "10931_6",
                "truth": false
             }
@@ -4015,46 +4015,46 @@
       },
       {
          "id": 10925,
-         "text": "Shaq Rap Lyrics",
-         "category": "Shaq Rap Lyrics",
+         "text": "Letras Shaq Rap",
+         "category": "Letras Shaq Rap",
          "audio": "10925_cat",
-         "subject": "Pop Culture",
+         "subject": "Cultura pop",
          "statements": [
             {
-               "response": "From the classic song \u201cWhat\u2019s Up Doc (Can We Rock).\u201d",
-               "text": "\u201cForget Tony Danza, I\u2019m the boss.\u201d",
+               "response": "Da música clássica “What's Up Doc (Can We Rock)”.",
+               "text": "“Esqueça Tony Danza, eu sou o chefe.”",
                "audio": "10925_0",
                "truth": true
             },
             {
-               "response": "From 1993\u2019s \u201c(I Know I Got) Skillz.\u201d",
-               "text": "\u201cKnick-knack Shaq-attack, give a dog a bone.\u201d",
+               "response": "De 1993, “(I Know I Got) Skillz.”",
+               "text": "\"Knick-knack Shaq-attack, dê um osso a um cachorro.\"",
                "audio": "10925_1",
                "truth": true
             },
             {
-               "response": "That\u2019s a line from \u201cMy Style, My Steelo\u201d featuring Redman.",
-               "text": "\u201cYo I Gets Busy, packs more Speed than K. Reeves. \u201d",
+               "response": "Essa é uma frase de “My Style, My Steelo” com Redman.",
+               "text": "“Yo eu fico ocupado, embala mais velocidade do que K. Reeves. ”",
                "audio": "10925_2",
                "truth": true
             },
             {
-               "text": "\u201cMy man Kobe is my BFF.\u201d",
+               "text": "\"Meu homem, Kobe, é meu melhor amigo.\"",
                "audio": "10925_3",
                "truth": false
             },
             {
-               "text": "\u201cI rhyme so wild they call me Ace Ventura.\u201d",
+               "text": "“Eu rimo tão selvagem que me chamam de Ace Ventura.”",
                "audio": "10925_4",
                "truth": false
             },
             {
-               "text": "\u201cI\u2019m the devil with the razzmatazz. 360 slam dunk just like Taz.\u201d",
+               "text": "“Eu sou o diabo com o razzmatazz. Slam dunk 360 assim como o Taz. ”",
                "audio": "10925_5",
                "truth": false
             },
             {
-               "text": "\u201cSuper-Shaq-a-fragilistic-expi-Shaq-a-doe-Shaq.\u201d",
+               "text": "“Super-Shaq-a-fragilistic-expi-Shaq-a-doe-Shaq.”",
                "audio": "10925_6",
                "truth": false
             }
@@ -4062,45 +4062,45 @@
       },
       {
          "id": 10920,
-         "text": "Secret Service Code Names",
-         "category": "Secret Service Code Names",
+         "text": "Nomes de código de serviço secreto",
+         "category": "Nomes de código de serviço secreto",
          "audio": "10920_cat",
-         "subject": "USA",
+         "subject": "EUA",
          "statements": [
             {
-               "response": "Ouch.",
-               "text": "Ted Kennedy\u2019s Secret Service code name was Sunburn.",
+               "response": "Ai.",
+               "text": "O codinome do serviço secreto de Ted Kennedy era Sunburn.",
                "audio": "10920_0",
                "truth": true
             },
             {
-               "response": "Kind of embarrassing.",
-               "text": "Prince Charles\u2019 Secret Service code names is Unicorn.",
+               "response": "Meio constrangedor.",
+               "text": "Os codinomes do Serviço Secreto do Príncipe Charles são Unicórnio.",
                "audio": "10920_1",
                "truth": true
             },
             {
-               "text": "Ronald Reagan\u2019s Secret Service code name was Bonzo.",
+               "text": "O codinome do serviço secreto de Ronald Reagan era Bonzo.",
                "audio": "10920_2",
                "truth": false
             },
             {
-               "text": "Hillary Clinton\u2019s Secret Service code name is Rawhide.",
+               "text": "O codinome do serviço secreto de Hillary Clinton é Rawhide.",
                "audio": "10920_3",
                "truth": false
             },
             {
-               "text": "Donald Trump\u2019s Secret Service code name is Zeus.",
+               "text": "O codinome do serviço secreto de Donald Trump é Zeus.",
                "audio": "10920_4",
                "truth": false
             },
             {
-               "text": "Dan Quayle\u2019s Secret Service code name is Potatoe.",
+               "text": "O codinome do serviço secreto de Dan Quayle é Potatoe.",
                "audio": "10920_5",
                "truth": false
             },
             {
-               "text": "Dick Cheney\u2019s Secret Service code name is Unkillable.",
+               "text": "O codinome do Serviço Secreto de Dick Cheney é Imortal.",
                "audio": "10920_6",
                "truth": false
             }
@@ -4108,45 +4108,45 @@
       },
       {
          "id": 10892,
-         "text": "Lenin Statues",
-         "category": "Lenin Statues",
+         "text": "Estátuas de Lenin",
+         "category": "Estátuas de Lenin",
          "audio": "10892_cat",
-         "subject": "History",
+         "subject": "História",
          "statements": [
             {
-               "response": "The spot is known as Antarctica\u2019s Pole of Inaccessiblity.",
-               "text": "There\u2019s a bust of Lenin in the geographical center of Antarctica.",
+               "response": "O local é conhecido como Pólo de Inacessibilidade da Antártica.",
+               "text": "Há um busto de Lenin no centro geográfico da Antártica.",
                "audio": "10892_0",
                "truth": true
             },
             {
-               "response": "It was beheaded due to customer complaints.",
-               "text": "There is a headless Lenin statue in Las Vegas\u2019 Mandalay Bay casino.",
+               "response": "Foi decapitado devido a reclamações de clientes.",
+               "text": "Há uma estátua de Lenin sem cabeça no cassino Mandalay Bay de Las Vegas.",
                "audio": "10892_1",
                "truth": true
             },
             {
-               "text": "Sputnik had a Lenin figurine on board.",
+               "text": "O Sputnik tinha uma estatueta de Lenin a bordo.",
                "audio": "10892_2",
                "truth": false
             },
             {
-               "text": "R. Kelly has a fountain of Uncle Sam peeing on Lenin.",
+               "text": "R. Kelly tem uma fonte do Tio Sam fazendo xixi em Lenin.",
                "audio": "10892_3",
                "truth": false
             },
             {
-               "text": "Madonna simulated sex with a Lenin statue at a concert in West Berlin. ",
+               "text": "Madonna simulou sexo com uma estátua de Lenin em um show em Berlim Ocidental. ",
                "audio": "10892_4",
                "truth": false
             },
             {
-               "text": "There\u2019s a Lenin statue at the base of the Chinese side of Mt. Everest. ",
+               "text": "Há uma estátua de Lenin na base do lado chinês do Monte. Everest. ",
                "audio": "10892_5",
                "truth": false
             },
             {
-               "text": "At St. Basil\u2019s cathedral in Moscow, there\u2019s a statue of Lenin holding baby Jesus. ",
+               "text": "Na catedral de São Basílio em Moscou, há uma estátua de Lenin segurando o menino Jesus. ",
                "audio": "10892_6",
                "truth": false
             }
@@ -4154,46 +4154,46 @@
       },
       {
          "id": 10887,
-         "text": "Hollywood Tough Guys",
-         "category": "Hollywood Tough Guys",
+         "text": "Caras durões de Hollywood",
+         "category": "Caras durões de Hollywood",
          "audio": "10887_cat",
-         "subject": "People",
+         "subject": "Pessoas",
          "statements": [
             {
-               "response": "He entered again in 1953 but did not place.",
-               "text": "Sean Connery took third place in a Mr. Universe pageant.",
+               "response": "Ele entrou novamente em 1953, mas não conseguiu.",
+               "text": "Sean Connery ficou em terceiro lugar no concurso Mr. Universe.",
                "audio": "10887_0",
                "truth": true
             },
             {
-               "response": "With the album <i>Rawhide\u2019s Cline Eastwood Sings Cowboy Favorites<\/i>.",
-               "text": "Clint Eastwood tried to cross over from western film star to bubblegum pop singer.",
+               "response": "Com o álbum <i>Rawhide's Cline Eastwood Sings Cowboy Favorites</i>.",
+               "text": "Clint Eastwood tentou passar de estrela de filmes de faroeste a cantor pop chiclete.",
                "audio": "10887_1",
                "truth": true
             },
             {
-               "response": "He also sported a toupee.",
-               "text": "John Wayne wore shoe lifts and had cosmetic eye surgery.",
+               "response": "Ele também usava uma peruca.",
+               "text": "John Wayne usava sapatilhas e fez uma cirurgia estética nos olhos.",
                "audio": "10887_2",
                "truth": true
             },
             {
-               "text": "Humphrey Bogart\u2019s original name was \u2018Alistair Lovey.\u2019",
+               "text": "O nome original de Humphrey Bogart era 'Alistair Lovey'.",
                "audio": "10887_3",
                "truth": false
             },
             {
-               "text": "Before becoming an actor, Steve McQueen attended nursing school.",
+               "text": "Antes de se tornar ator, Steve McQueen frequentou a escola de enfermagem.",
                "audio": "10887_4",
                "truth": false
             },
             {
-               "text": "Charlton Heston was a member of a barbershop quartet, The Delightful Warblers.",
+               "text": "Charlton Heston era membro de um quarteto de barbearia, The Delightful Warblers.",
                "audio": "10887_5",
                "truth": false
             },
             {
-               "text": "Spencer Tracy and Katharine Hepburn once dressed as each other for the Oscars.",
+               "text": "Spencer Tracy e Katharine Hepburn já se vestiram como uma para o Oscar.",
                "audio": "10887_6",
                "truth": false
             }
@@ -4201,46 +4201,46 @@
       },
       {
          "id": 10885,
-         "text": "Real Superman Storylines",
-         "category": "Real Superman Storylines",
+         "text": "Enredos reais do Superman",
+         "category": "Enredos reais do Superman",
          "audio": "10885_cat",
-         "subject": "Pop Culture",
+         "subject": "Cultura pop",
          "statements": [
             {
-               "response": "She learned important lessons.",
-               "text": "Superman turns Lois Lane black for a day.",
+               "response": "Ela aprendeu lições importantes.",
+               "text": "Superman deixa Lois Lane preta por um dia.",
                "audio": "10885_0",
                "truth": true
             },
             {
-               "response": "It happened in \u201cSuperman/Batman Annual #1.\u201d",
-               "text": "Bruce Wayne and Clark Kent have to share a bed due to a cruise ship booking error.",
+               "response": "Aconteceu em “Superman / Batman Annual # 1.”",
+               "text": "Bruce Wayne e Clark Kent têm que compartilhar uma cama devido a um erro na reserva do navio de cruzeiro.",
                "audio": "10885_1",
                "truth": true
             },
             {
-               "response": "His mind is taken over by a villain named Sleez.",
-               "text": "Superman is tricked into starring in a porno. ",
+               "response": "Sua mente é dominada por um vilão chamado Sleez.",
+               "text": "Superman é enganado para estrelar um filme pornô. ",
                "audio": "10885_2",
                "truth": true
             },
             {
-               "text": "Superman gets pregnant.",
+               "text": "Superman engravida.",
                "audio": "10885_3",
                "truth": false
             },
             {
-               "text": "Superman walks out of the <i>Green Lantern<\/i> movie.",
+               "text": "Superman sai do filme <i>Green Lantern</i>",
                "audio": "10885_4",
                "truth": false
             },
             {
-               "text": "Superman gets amnesia and opens a pet shop.",
+               "text": "Superman fica com amnésia e abre uma loja de animais.",
                "audio": "10885_5",
                "truth": false
             },
             {
-               "text": "Run-D.M.C. teaches Superman how to freestyle rap.",
+               "text": "Run-DMC ensina Superman a fazer rap no estilo livre.",
                "audio": "10885_6",
                "truth": false
             }
@@ -4251,42 +4251,42 @@
          "text": "American Girl Dolls",
          "category": "American Girl Dolls",
          "audio": "10875_cat",
-         "subject": "Pop Culture",
+         "subject": "Cultura pop",
          "statements": [
             {
-               "response": "Her deadbeat dad walked out on the family and they were evicted.",
-               "text": "Gwen is the homeless American Girl Doll.",
+               "response": "Seu pai caloteiro abandonou a família e eles foram despejados.",
+               "text": "Gwen é a boneca garota americana sem-teto.",
                "audio": "10875_0",
                "truth": true
             },
             {
-               "response": "Spa Deluxe packages start at $12.",
-               "text": "American Girl stores offer manicures, facials and pampering for dolls.",
+               "response": "Os pacotes Spa Deluxe começam em $ 12.",
+               "text": "As lojas American Girl oferecem manicure, tratamentos faciais e mimos para bonecas.",
                "audio": "10875_1",
                "truth": true
             },
             {
-               "text": "Stephanie is the first transgender American Girl Doll.",
+               "text": "Stephanie é a primeira boneca transgênero American Girl.",
                "audio": "10875_2",
                "truth": false
             },
             {
-               "text": "Elizabeth Taylor donated her hair to be used on the Elizabeth Taylor American Girl Doll.",
+               "text": "Elizabeth Taylor doou seu cabelo para ser usado na boneca Elizabeth Taylor American Girl.",
                "audio": "10875_3",
                "truth": false
             },
             {
-               "text": "Samantha was named the hottest American Girl Doll by Maxim in 2005.",
+               "text": "Samantha foi eleita a American Girl Doll mais quente pela Maxim em 2005.",
                "audio": "10875_4",
                "truth": false
             },
             {
-               "text": "A church in Memphis will baptize your American Girl Doll.",
+               "text": "Uma igreja em Memphis vai batizar sua American Girl Doll.",
                "audio": "10875_5",
                "truth": false
             },
             {
-               "text": "Men that collect American Girl dolls are known as \u201cCreepsies.\u201d",
+               "text": "Homens que colecionam bonecas American Girl são conhecidos como “Creepsies”.",
                "audio": "10875_6",
                "truth": false
             }
@@ -4294,45 +4294,45 @@
       },
       {
          "id": 10865,
-         "text": "Plurals",
-         "category": "Plurals",
+         "text": "Plurais",
+         "category": "Plurais",
          "audio": "10865_cat",
-         "subject": "Easter Egg",
+         "subject": "ovos de pascoa",
          "statements": [
             {
-               "response": "Not much else to say about that.",
-               "text": "The plural of \u201ccul-de-sac\u201d is \u201cculs-de-sac.\u201d",
+               "response": "Não há muito mais a dizer sobre isso.",
+               "text": "O plural de \"cul-de-sac\" é \"culs-de-sac\".",
                "audio": "10865_0",
                "truth": true
             },
             {
-               "response": "Toyota announced the official Prius pluralization in 2011.",
-               "text": "The plural of \u201cPrius\u201d is \u201cPrii.\u201d",
+               "response": "A Toyota anunciou a pluralização oficial do Prius em 2011.",
+               "text": "O plural de \"Prius\" é \"Prii.\"",
                "audio": "10865_1",
                "truth": true
             },
             {
-               "text": "The plural of \u201cmongoose\u201d is \u201cmongeese.\u201d",
+               "text": "O plural de \"mangusto\" é \"mongeês\".",
                "audio": "10865_2",
                "truth": false
             },
             {
-               "text": "The plural of \u201cFoot Locker\u201d is \u201cFoot Lockerz.\u201d",
+               "text": "O plural de \"Foot Locker\" é \"Foot Lockerz\".",
                "audio": "10865_3",
                "truth": false
             },
             {
-               "text": "The plural of \u201ccharcoal\u201d is \u201ccharred coals.\u201d",
+               "text": "O plural de \"carvão\" é \"carvão carbonizado\".",
                "audio": "10865_4",
                "truth": false
             },
             {
-               "text": "The plural of \u201csamurai\u201d is \u201csamuraisis.\u201d",
+               "text": "O plural de “samurai” é “samuraisis”.",
                "audio": "10865_5",
                "truth": false
             },
             {
-               "text": "The plural of \u201cplural\u201d is \u201cplural.\u201d",
+               "text": "O plural de \"plural\" é \"plural\".",
                "audio": "10865_6",
                "truth": false
             }
@@ -4340,45 +4340,45 @@
       },
       {
          "id": 10863,
-         "text": "Real Barbies",
-         "category": "Real Barbies",
+         "text": "Barbies de verdade",
+         "category": "Barbies de verdade",
          "audio": "10863_cat",
-         "subject": "Pop Culture",
+         "subject": "Cultura pop",
          "statements": [
             {
-               "response": "She comes with a dog that poops biscuits.",
-               "text": "Poop and Scoop Barbie",
+               "response": "Ela vem com um cachorro que faz cocô de biscoitos.",
+               "text": "Barbie Poop and Scoop",
                "audio": "10863_0",
                "truth": true
             },
             {
-               "response": "She\u2019s a total GILF.",
-               "text": "Grandma Barbie",
+               "response": "Ela é um GILF total.",
+               "text": "Vovó barbie",
                "audio": "10863_1",
                "truth": true
             },
             {
-               "text": "Comptroller Barbie ",
+               "text": "Barbie controladora ",
                "audio": "10863_2",
                "truth": false
             },
             {
-               "text": "Chimney Sweep Barbie",
+               "text": "Barbie limpa-chaminés",
                "audio": "10863_3",
                "truth": false
             },
             {
-               "text": "Nip and Tuck Barbie",
+               "text": "Barbie Nip and Tuck",
                "audio": "10863_4",
                "truth": false
             },
             {
-               "text": "Walgreens Manager Barbie ",
+               "text": "Barbie gerente da Walgreens ",
                "audio": "10863_5",
                "truth": false
             },
             {
-               "text": "Dialysis Barbie",
+               "text": "Barbie para diálise",
                "audio": "10863_6",
                "truth": false
             }
@@ -4386,45 +4386,45 @@
       },
       {
          "id": 10828,
-         "text": "Songwriters",
-         "category": "Songwriters",
+         "text": "Compositores",
+         "category": "Compositores",
          "audio": "10828_cat",
-         "subject": "Pop Culture",
+         "subject": "Cultura pop",
          "statements": [
             {
-               "response": "Silverstein also drew cartoons for Playboy.",
-               "text": "Shel Silverstein wrote the Johnny Cash hit \u2018A Boy Named Sue.\u2019",
+               "response": "Silverstein também desenhou desenhos animados para a Playboy.",
+               "text": "Shel Silverstein escreveu o hit de Johnny Cash \"A Boy Named Sue\".",
                "audio": "10828_0",
                "truth": true
             },
             {
-               "response": "He wrote it specifically for them.",
-               "text": "Prince wrote the Bangles\u2019 hit \u2018Manic Monday.\u2019",
+               "response": "Ele escreveu especificamente para eles.",
+               "text": "Prince escreveu o hit dos Bangles, Manic Monday.",
                "audio": "10828_1",
                "truth": true
             },
             {
-               "text": "Adam Sandler wrote the theme song to <i>King Of Queens<\/i>.",
+               "text": "Adam Sandler escreveu a música tema de <i>King Of Queens</i>.",
                "audio": "10828_2",
                "truth": false
             },
             {
-               "text": "Bob Dylan co-wrote \u201cRomeo and Juliet\u201d with Taylor Swift.",
+               "text": "Bob Dylan co-escreveu “Romeu e Julieta” com Taylor Swift.",
                "audio": "10828_3",
                "truth": false
             },
             {
-               "text": "The lyrics of \u201cSmells Like Teen Spirit\u201d were taken from the back of a Cocoa Puffs box.",
+               "text": "A letra de “Smells Like Teen Spirit” foi tirada da parte de trás de uma caixa de Cocoa Puffs.",
                "audio": "10828_4",
                "truth": false
             },
             {
-               "text": "Mick Jagger wrote the Maroon Five hit \u201cMoves Like Jagger.\u201d",
+               "text": "Mick Jagger escreveu o hit do Maroon Five \"Moves Like Jagger\".",
                "audio": "10828_5",
                "truth": false
             },
             {
-               "text": "Salman Rushdie wrote the Cat Steven\u2019s hit \u201cPeace Train.\u201d",
+               "text": "Salman Rushdie escreveu o hit de Cat Steven \"Peace Train\".",
                "audio": "10828_6",
                "truth": false
             }
@@ -4432,46 +4432,46 @@
       },
       {
          "id": 10694,
-         "text": "Prolific Inventors",
-         "category": "Prolific Inventors",
+         "text": "Inventores prolíficos",
+         "category": "Inventores prolíficos",
          "audio": "10694_cat",
-         "subject": "History",
+         "subject": "História",
          "statements": [
             {
-               "response": "William Mitchell also had patents related to Cool Whip and Jell-O.",
-               "text": "The inventor of Tang also invented Pop Rocks.",
+               "response": "William Mitchell também tinha patentes relacionadas a Cool Whip e Jell-O.",
+               "text": "O inventor de Tang também inventou Pop Rocks.",
                "audio": "10694_0",
                "truth": true
             },
             {
-               "response": "William Martsen helped develop the polygraph test and the owner of the lasso of truth.",
-               "text": "The inventor of the lie detector also created Wonder Woman. ",
+               "response": "William Martsen ajudou a desenvolver o teste do polígrafo e o dono do laço da verdade.",
+               "text": "O inventor do detector de mentiras também criou a Mulher Maravilha. ",
                "audio": "10694_1",
                "truth": true
             },
             {
-               "response": "Both were very popular.",
-               "text": "The inventor of aspirin also invented heroin.",
+               "response": "Ambos eram muito populares.",
+               "text": "O inventor da aspirina também inventou a heroína.",
                "audio": "10694_2",
                "truth": true
             },
             {
-               "text": "The inventor of the zipper also invented the latex condom.",
+               "text": "O inventor do zíper também inventou a camisinha de látex.",
                "audio": "10694_3",
                "truth": false
             },
             {
-               "text": "The inventor of the windshield wiper also invented the mouse trap.",
+               "text": "O inventor do limpador de pára-brisa também inventou a ratoeira.",
                "audio": "10694_4",
                "truth": false
             },
             {
-               "text": "The inventor of Wite-Out also invented erasable pens. ",
+               "text": "O inventor do Wite-Out também inventou canetas apagáveis. ",
                "audio": "10694_5",
                "truth": false
             },
             {
-               "text": "The inventor of pasteurization also invented the dog leash. ",
+               "text": "O inventor da pasteurização também inventou a coleira de cachorro. ",
                "audio": "10694_6",
                "truth": false
             }
@@ -4479,45 +4479,45 @@
       },
       {
          "id": 10823,
-         "text": "Old Ladies",
-         "category": "Old Ladies",
+         "text": "Senhoras",
+         "category": "Senhoras",
          "audio": "10823_cat",
-         "subject": "People",
+         "subject": "Pessoas",
          "statements": [
             {
-               "response": "She was supposedly a great shot.",
-               "text": "Sex guru Dr. Ruth was a sniper trained by the Israeli military.",
+               "response": "Ela era supostamente uma ótima atiradora.",
+               "text": "O guru do sexo Dr. Ruth era um atirador treinado pelos militares israelenses.",
                "audio": "10823_0",
                "truth": true
             },
             {
-               "response": "Delicious!",
-               "text": "TV chef Julia Child was a World War II-era spy.",
+               "response": "Delicioso!",
+               "text": "A chef da TV Julia Child era uma espiã da Segunda Guerra Mundial.",
                "audio": "10823_1",
                "truth": true
             },
             {
-               "text": "Eleanor Roosevelt is buried under the Statue of Liberty. ",
+               "text": "Eleanor Roosevelt está enterrada sob a Estátua da Liberdade. ",
                "audio": "10823_2",
                "truth": false
             },
             {
-               "text": "The actress from the \u201cWhere\u2019s the Beef\u201d commercial was a Titanic survivor. ",
+               "text": "A atriz do comercial “Where's the Beef” era uma sobrevivente do Titanic. ",
                "audio": "10823_3",
                "truth": false
             },
             {
-               "text": "Katharine Hepburn had a line of clothing called \u201cLady Slacks.\u201d",
+               "text": "Katharine Hepburn tinha uma linha de roupas chamada “Lady Slacks”.",
                "audio": "10823_4",
                "truth": false
             },
             {
-               "text": "Helen Mirren appeared nude in <i>Playboy<\/i> at the age of 74.",
+               "text": "Helen Mirren apareceu nua em <i>Playboy</i> aos 74 anos.",
                "audio": "10823_5",
                "truth": false
             },
             {
-               "text": "Cloris Leachman\u2019s birth name was Clitoris Wallace. ",
+               "text": "O nome de nascimento de Cloris Leachman era Clitoris Wallace. ",
                "audio": "10823_6",
                "truth": false
             }
@@ -4528,43 +4528,43 @@
          "text": "Dr. Seuss Books",
          "category": "Dr. Seuss Books",
          "audio": "10811_cat",
-         "subject": "Pop Culture",
+         "subject": "Cultura pop",
          "statements": [
             {
-               "response": "One of his first books, from 1949, it\u2019s a little old tale about a boy and his slime.",
-               "text": "<i>Bartholomew and the Oobleck<\/i>",
+               "response": "Um de seus primeiros livros, de 1949, é um pequeno conto antigo sobre um menino e seu lodo.",
+               "text": "<i>Bartolomeu e o Oobleck</i>",
                "audio": "10811_0",
                "truth": true
             },
             {
-               "response": "His last book, and though he tried, he couldn\u2019t finish before he died.",
-               "text": "<i>Hooray For Diffendoofer Day!<\/i>",
+               "response": "Seu último livro, e embora tentasse, não conseguiu terminar antes de morrer.",
+               "text": "<i>Hooray For Diffendoofer Day!</i>",
                "audio": "10811_1",
                "truth": true
             },
             {
-               "response": "A \u201874 classic many kids dug, about creatures in bottles and under a rug.",
-               "text": "<i>There\u2019s A Wocket In My Pocket!<\/i>",
+               "response": "Um clássico de 1974 que muitas crianças cavaram, sobre criaturas em garrafas e debaixo de um tapete.",
+               "text": "<i>Há um Wocket no meu bolso!</i>",
                "audio": "10811_2",
                "truth": true
             },
             {
-               "text": "<i>Billy Boofaloof, Where Have You Gone?<\/i>",
+               "text": "<i>Billy Boofaloof, para onde você foi?</i>",
                "audio": "10811_3",
                "truth": false
             },
             {
-               "text": "<i>A Four Feefle Friday For Me!<\/i>",
+               "text": "<i>A Four Feefle Friday For Me!</i>",
                "audio": "10811_4",
                "truth": false
             },
             {
-               "text": "<i>It\u2019s Puberty, Peter Piffle!<\/i>",
+               "text": "<i>É puberdade, Peter Piffle!</i>",
                "audio": "10811_5",
                "truth": false
             },
             {
-               "text": "<i>The Great Gilfer\u2019s Goofy Gala<\/i>",
+               "text": "<i>Gala do Pateta do Grande Gilfer</i>",
                "audio": "10811_6",
                "truth": false
             }
@@ -4572,46 +4572,46 @@
       },
       {
          "id": 10742,
-         "text": "Names of Salvador Dali Paintings",
-         "category": "Names of Salvador Dali Paintings",
+         "text": "Nomes das pinturas de Salvador Dali",
+         "category": "Nomes das pinturas de Salvador Dali",
          "audio": "10742_cat",
-         "subject": "Art",
+         "subject": "Arte",
          "statements": [
             {
-               "response": "It\u2019s a pretty literal description.",
-               "text": "Debris of an Automobile Giving Birth to a Blind Horse Biting a Telephone",
+               "response": "É uma descrição bastante literal.",
+               "text": "Restos de um automóvel dando à luz um cavalo cego mordendo um telefone",
                "audio": "10742_0",
                "truth": true
             },
             {
-               "response": "It shows a half lion-half human with Shirely Temple\u2019s face lying on a pile of bones.",
-               "text": "Shirley Temple, The Youngest, Most Sacred Monster of the Cinema in Her Time",
+               "response": "Ele mostra um meio leão meio humano com o rosto de Shirely Temple deitado sobre uma pilha de ossos.",
+               "text": "Shirley Temple, o monstro mais jovem e sagrado do cinema de sua época",
                "audio": "10742_1",
                "truth": true
             },
             {
-               "response": "It features a floating head, a giant locust, other insane things...",
-               "text": "The Great Masturbator ",
+               "response": "Possui uma cabeça flutuante, um gafanhoto gigante, outras coisas insanas ...",
+               "text": "O grande masturbador ",
                "audio": "10742_2",
                "truth": true
             },
             {
-               "text": "Melting Clocks on Cliffs",
+               "text": "Derretendo relógios em penhascos",
                "audio": "10742_3",
                "truth": false
             },
             {
-               "text": "Pablo Picasso\u2019s Breast Served on a Plate without the Plate",
+               "text": "Peito de Pablo Picasso servido em um prato sem o prato",
                "audio": "10742_4",
                "truth": false
             },
             {
-               "text": "The Eternal Home of St. Peter Lit by Neon Giraffes",
+               "text": "A casa eterna de São Pedro iluminada por girafas neon",
                "audio": "10742_5",
                "truth": false
             },
             {
-               "text": "Self Portrait of the Nude Crusader, Humphrey Bogart. ",
+               "text": "Autorretrato do Cruzado Nude, Humphrey Bogart. ",
                "audio": "10742_6",
                "truth": false
             }
@@ -4622,43 +4622,43 @@
          "text": "Fidel Castro ",
          "category": "Fidel Castro ",
          "audio": "11298_cat",
-         "subject": "History",
+         "subject": "História",
          "statements": [
             {
-               "response": "Placed where he was known to dive.",
-               "text": "The CIA plotted to kill Castro with a booby-trapped seashell.",
+               "response": "Colocado onde ele costumava mergulhar.",
+               "text": "A CIA planejou matar Fidel com uma concha com armadilha.",
                "audio": "11298_0",
                "truth": true
             },
             {
-               "response": "By putting thalium salts in his shoes.",
-               "text": "The CIA plotted to make Castro\u2019s beard fall off. ",
+               "response": "Colocando sais de tálio em seus sapatos.",
+               "text": "A CIA planejou fazer a barba de Castro cair. ",
                "audio": "11298_1",
                "truth": true
             },
             {
-               "response": "Makes sense.",
-               "text": "The CIA tried to kill Castro with an exploding cigar.",
+               "response": "Faz sentido.",
+               "text": "A CIA tentou matar Castro com um charuto explodindo.",
                "audio": "11298_2",
                "truth": true
             },
             {
-               "text": "The CIA hired a cat burglar to rearrange all of Castro\u2019s office furniture. ",
+               "text": "A CIA contratou um ladrão de gatos para reorganizar toda a mobília do escritório de Castro. ",
                "audio": "11298_3",
                "truth": false
             },
             {
-               "text": "The CIA plotted to kill Castro with assassin monkeys. ",
+               "text": "A CIA planejou matar Castro com macacos assassinos. ",
                "audio": "11298_4",
                "truth": false
             },
             {
-               "text": "The CIA tried to make Castro lactose-intolerant. ",
+               "text": "A CIA tentou tornar Castro intolerante à lactose. ",
                "audio": "11298_5",
                "truth": false
             },
             {
-               "text": "The CIA plotted to make Castro forget how to speak Spanish.",
+               "text": "A CIA conspirou para fazer Castro esquecer como fala espanhol.",
                "audio": "11298_6",
                "truth": false
             }
@@ -4666,47 +4666,47 @@
       },
       {
          "id": 11958,
-         "text": "Hollywood Walk of Fame",
-         "category": "Hollywood Walk of Fame",
+         "text": "Calçada da Fama de Hollywood",
+         "category": "Calçada da Fama de Hollywood",
          "audio": "11958_cat",
-         "subject": "Pop Culture",
+         "subject": "Cultura pop",
          "statements": [
             {
-               "response": "One for each star category.",
-               "text": "Gene Autry has five stars on the Hollywood Walk of Fame.",
+               "response": "Um para cada categoria de estrelas.",
+               "text": "Gene Autry tem cinco estrelas na Calçada da Fama de Hollywood.",
                "audio": "11958_0",
                "truth": true
             },
             {
-               "response": "In the Kodak Theatre.",
-               "text": "Muhammad Ali\u2019s star is on a wall because he didn\u2019t want to be stepped on. ",
+               "response": "No teatro Kodak.",
+               "text": "A estrela de Muhammad Ali está na parede porque ele não queria ser pisoteado. ",
                "audio": "11958_1",
                "truth": true,
-               "tweet": "Muhammad Ali\u2019s Walk of Fame star is on a wall because he didn\u2019t want to be stepped on."
+               "tweet": "A estrela da Calçada da Fama de Muhammad Ali está na parede porque ele não queria ser pisoteado."
             },
             {
-               "response": "For the Hollywood Station.",
-               "text": "The LAPD has a star on the Hollywood Walk of Fame.",
+               "response": "Para a estação de Hollywood.",
+               "text": "O LAPD tem uma estrela na Calçada da Fama de Hollywood.",
                "audio": "11958_2",
                "truth": true
             },
             {
-               "text": "Clark Gable\u2019s star on the Walk of Fame originally read \u201cClark Gobble.\u201d",
+               "text": "A estrela de Clark Gable na Calçada da Fama originalmente lia-se \"Clark Gobble\".",
                "audio": "11958_3",
                "truth": false
             },
             {
-               "text": "The entire Hollywood Walk of Fame was duplicated in Mobile, Alabama. ",
+               "text": "Toda a Calçada da Fama de Hollywood foi duplicada em Mobile, Alabama. ",
                "audio": "11958_4",
                "truth": false
             },
             {
-               "text": "John Carpenter changed his star on the Hollywood Walk of Fame into a pentagram.",
+               "text": "John Carpenter transformou sua estrela na Calçada da Fama de Hollywood em um pentagrama.",
                "audio": "11958_5",
                "truth": false
             },
             {
-               "text": "Keyboard Cat has a star on the Hollywood Walk of Fame.",
+               "text": "Keyboard Cat tem uma estrela na Calçada da Fama de Hollywood.",
                "audio": "11958_6",
                "truth": false
             }
@@ -4714,31 +4714,31 @@
       },
       {
          "id": 11914,
-         "text": "Blues Musicians",
-         "category": "Blues Musicians",
+         "text": "Músicos de blues",
+         "category": "Músicos de blues",
          "audio": "11914_cat",
-         "subject": "History",
+         "subject": "História",
          "statements": [
             {
-               "response": "He was very influential in popularizing blues.",
+               "response": "Ele foi muito influente na popularização do blues.",
                "text": "Blind Lemon Jefferson",
                "audio": "11914_0",
                "truth": true
             },
             {
-               "response": "He played with a bottleneck slide.",
-               "text": "Blind Willie Johnson",
+               "response": "Ele brincou com um slide de gargalo.",
+               "text": "Cego Willie Johnson",
                "audio": "11914_1",
                "truth": true
             },
             {
-               "response": "He also played ragtime music.",
+               "response": "Ele também tocava música ragtime.",
                "text": "Blind Boy Fuller",
                "audio": "11914_2",
                "truth": true
             },
             {
-               "text": "Blind Snake O\u2019Harrigan",
+               "text": "Blind Snake O'Harrigan",
                "audio": "11914_3",
                "truth": false
             },
@@ -4761,46 +4761,46 @@
       },
       {
          "id": 11881,
-         "text": "Collaborations",
-         "category": "Collaborations",
+         "text": "Colaborações",
+         "category": "Colaborações",
          "audio": "11881_cat",
-         "subject": "People",
+         "subject": "Pessoas",
          "statements": [
             {
-               "response": "<i>Ghost Brothers of Darkland County<\/i>",
-               "text": "Stephen King and John Mellencamp wrote a musical together. ",
+               "response": "<i>Irmãos Fantasmas do Condado de Darkland</i>",
+               "text": "Stephen King e John Mellencamp escreveram um musical juntos. ",
                "audio": "11881_0",
                "truth": true
             },
             {
-               "response": "It was called \u201cDestino.\u201d",
-               "text": "Salvador Dali made an animated short with Walt Disney. ",
+               "response": "Chamava-se “Destino”.",
+               "text": "Salvador Dali fez um curta de animação com Walt Disney. ",
                "audio": "11881_1",
                "truth": true
             },
             {
-               "response": "A cover of a Mozart song.",
-               "text": "Jack White produced an Insane Clown Posse song.",
+               "response": "Uma versão de uma música de Mozart.",
+               "text": "Jack White produziu uma música Insane Clown Posse.",
                "audio": "11881_2",
                "truth": true
             },
             {
-               "text": "Keith Olberman and Bill O\u2019Reilly wrote a poem together.",
+               "text": "Keith Olberman e Bill O'Reilly escreveram um poema juntos.",
                "audio": "11881_3",
                "truth": false
             },
             {
-               "text": "Deion Sanders and R.L. Stine wrote and produced a TV movie.",
+               "text": "Deion Sanders e RL Stine escreveram e produziram um filme para a TV.",
                "audio": "11881_4",
                "truth": false
             },
             {
-               "text": "Gallagher once did a Vagina Monologue with Gloria Allred.",
+               "text": "Gallagher uma vez fez um Monólogo da Vagina com Gloria Allred.",
                "audio": "11881_5",
                "truth": false
             },
             {
-               "text": "Mark McGrath fought Sugar Ray Leonard for charity.",
+               "text": "Mark McGrath lutou contra Sugar Ray Leonard por caridade.",
                "audio": "11881_6",
                "truth": false
             }
@@ -4808,46 +4808,46 @@
       },
       {
          "id": 11854,
-         "text": "Technical Terms",
-         "category": "Technical Terms",
+         "text": "Termos técnicos",
+         "category": "Termos técnicos",
          "audio": "11854_cat",
-         "subject": "Words",
+         "subject": "Palavras",
          "statements": [
             {
-               "response": "Zarfs used to be ornamental decorations for handless cups.",
-               "text": "The cardboard sleeve around cups of coffee is a \u201czarf.\u201d",
+               "response": "Zarfs costumava ser decorações ornamentais para copos sem mão.",
+               "text": "A manga de papelão que envolve as xícaras de café é um \"zarf\".",
                "audio": "11854_0",
                "truth": true
             },
             {
-               "response": "From the latin word for needle.",
-               "text": "The plastic tips on shoelaces are called \u201caglets.\u201d ",
+               "response": "Da palavra latina para agulha.",
+               "text": "As pontas de plástico dos atacadores são chamadas de \"aglets\". ",
                "audio": "11854_1",
                "truth": true
             },
             {
-               "response": "Stop staring at these tittles.",
-               "text": "The dot over an i is called a \u201ctittle.\u201d",
+               "response": "Pare de olhar para esses títulos.",
+               "text": "O ponto sobre um i é chamado de \"til\".",
                "audio": "11854_2",
                "truth": true
             },
             {
-               "text": "The clip on a Sharpie is called a \u201cgrap.\u201d",
+               "text": "O clipe em um Sharpie é chamado de “grap”.",
                "audio": "11854_3",
                "truth": false
             },
             {
-               "text": "The floating ball in a toilet is called a \u201ccrap melon.\u201d",
+               "text": "A bola flutuante em um banheiro é chamada de \"melão de merda\".",
                "audio": "11854_4",
                "truth": false
             },
             {
-               "text": "The plastic around a dry-cleaned shirt is called a \u201ccondomly.\u201d",
+               "text": "O plástico em torno de uma camisa lavada a seco é chamado de \"preservativo\".",
                "audio": "11854_5",
                "truth": false
             },
             {
-               "text": "The plastic holder in a pizza box is called a \u201cjamble.\u201d",
+               "text": "O suporte de plástico em uma caixa de pizza é chamado de \"jamble\".",
                "audio": "11854_6",
                "truth": false
             }
@@ -4855,46 +4855,46 @@
       },
       {
          "id": 11842,
-         "text": "Pop Tart Flavors",
-         "category": "Pop Tart Flavors",
+         "text": "Sabores de torta pop",
+         "category": "Sabores de torta pop",
          "audio": "11842_cat",
-         "subject": "Food",
+         "subject": "Comida",
          "statements": [
             {
-               "response": "Perfect in the summer.",
-               "text": "Watermelon",
+               "response": "Perfeito no verão.",
+               "text": "Melancia",
                "audio": "11842_0",
                "truth": true
             },
             {
-               "response": "Goes great with syrup.",
-               "text": "French Toast",
+               "response": "Vai muito bem com xarope.",
+               "text": "Torrada francesa",
                "audio": "11842_1",
                "truth": true
             },
             {
-               "response": "It\u2019s breakfast and dessert all in one!",
-               "text": "Frosted Ice Cream Sandwich",
+               "response": "É café da manhã e sobremesa em um!",
+               "text": "Sanduíche de sorvete fosco",
                "audio": "11842_2",
                "truth": true
             },
             {
-               "text": "Vanilla Dippin\u2019 Dots",
+               "text": "Vanilla Dippin 'Dots",
                "audio": "11842_3",
                "truth": false
             },
             {
-               "text": "Biscuits and Gravy",
+               "text": "Biscoitos e molho",
                "audio": "11842_4",
                "truth": false
             },
             {
-               "text": "Cotton Candy",
+               "text": "Algodão doce",
                "audio": "11842_5",
                "truth": false
             },
             {
-               "text": "Wedding Cake",
+               "text": "Bolo de casamento",
                "audio": "11842_6",
                "truth": false
             }
@@ -4902,46 +4902,46 @@
       },
       {
          "id": 11786,
-         "text": "Grammy Winning Songs",
-         "category": "Grammy Winning Songs",
+         "text": "Músicas vencedoras do Grammy",
+         "category": "Músicas vencedoras do Grammy",
          "audio": "11786_cat",
          "subject": "Real",
          "statements": [
             {
-               "response": "Best Rap Solo Performance, 1992",
-               "text": "Sir Mix-A-Lot\u2019s \u201cBaby Got Back\u201d",
+               "response": "Melhor Performance Solo de Rap, 1992",
+               "text": "\"Baby Got Back\" de Sir Mix-A-Lot",
                "audio": "11786_0",
                "truth": true
             },
             {
-               "response": "Best Dance Recording, 2000",
-               "text": "Baha Men\u2019s \u201cWho Let the Dogs Out\u201d",
+               "response": "Melhor Gravação de Dança, 2000",
+               "text": "Baha Men's \"Who Let the Dogs Out\"",
                "audio": "11786_1",
                "truth": true
             },
             {
-               "response": "It won two Grammys in 1985.",
-               "text": "<i>Miami Vice<\/i> Theme",
+               "response": "Ganhou dois Grammys em 1985.",
+               "text": "<i>Miami Vice</i> Tema",
                "audio": "11786_2",
                "truth": true
             },
             {
-               "text": "Rebecca Black\u2019s \u201cFriday\u201d",
+               "text": "“Sexta” de Rebecca Black",
                "audio": "11786_3",
                "truth": false
             },
             {
-               "text": "Hanson\u2019s \u201cMMMBop\u201d",
+               "text": "“MMMBop” de Hanson",
                "audio": "11786_4",
                "truth": false
             },
             {
-               "text": "Chumbawamba\u2019s \u201cTubthumping\u201d ",
+               "text": "“Tubthumping” do Chumbawamba ",
                "audio": "11786_5",
                "truth": false
             },
             {
-               "text": "Dogs barking \u201cJingle Bells\u201d ",
+               "text": "Cachorros latindo \"Jingle Bells\" ",
                "audio": "11786_6",
                "truth": false
             }
@@ -4949,47 +4949,47 @@
       },
       {
          "id": 11638,
-         "text": "Real Sitcoms",
-         "category": "Real Sitcoms",
+         "text": "Sitcoms reais",
+         "category": "Sitcoms reais",
          "audio": "11638_cat",
-         "subject": "Pop Culture",
+         "subject": "Cultura pop",
          "statements": [
             {
-               "response": "It was cancelled after one episode.",
-               "text": "<i>Heil Honey, I\u2019m Home!<\/i> was about Hitler and Eva Braun and their Jewish neighbors.",
+               "response": "Foi cancelado após um episódio.",
+               "text": "<i>Heil, querida, estou em casa!</i> era sobre Hitler e Eva Braun e seus vizinhos judeus.",
                "audio": "11638_0",
                "truth": true
             },
             {
-               "response": "They all lived on a farm together.",
-               "text": "<i>Woops!<\/i> was about the 6 last people on Earth after a nuclear war.",
+               "response": "Todos eles viviam em uma fazenda juntos.",
+               "text": "<i>Woops!</i> era cerca de 6 últimas pessoas na Terra após uma guerra nuclear.",
                "audio": "11638_1",
                "truth": true
             },
             {
-               "response": "Detective Holmes was given an android partner because his human ones kept dying.",
-               "text": "<i>Holmes & Yo-Yo<\/i> was about a detective and his android partner.",
+               "response": "O detetive Holmes recebeu um parceiro andróide porque os humanos continuavam morrendo.",
+               "text": "<i>Holmes & Yo-Yo</i> era sobre um detetive e seu parceiro andróide.",
                "audio": "11638_2",
                "truth": true
             },
             {
-               "response": "John Lithgow played Pitty McPatpat.",
-               "text": "<i>Homeboys in Outer Space<\/i> was about astronauts in a \u201cSpace Hoopty.\u201d",
+               "response": "John Lithgow interpretou Pitty McPatpat.",
+               "text": "<i>Homeboys in Outer Space</i> era sobre astronautas em um \"Space Hoopty\".",
                "audio": "11638_3",
                "truth": true
             },
             {
-               "text": "<i>Who\u2019s the Bassist?<\/i> was a spinoff of <i>Who\u2019s the Boss?<\/i> where Tony joins a band.",
+               "text": "<i>Quem é o baixista?</i> foi um desdobramento de <i>Who's the Boss?</i> onde Tony se junta a uma banda.",
                "audio": "11638_4",
                "truth": false
             },
             {
-               "text": "<i>What Beer Is It!?<\/i> was about a time traveling alcoholic.",
+               "text": "<i>Que cerveja é essa !?</i> era um alcoólatra que viajava no tempo.",
                "audio": "11638_5",
                "truth": false
             },
             {
-               "text": "<i>Forefathers<\/i> was about the founding fathers of America raising an orphaned baby.",
+               "text": "<i>Forefathers</i> era sobre os fundadores da América criando um bebê órfão.",
                "audio": "11638_6",
                "truth": false
             }
@@ -4997,46 +4997,46 @@
       },
       {
          "id": 12251,
-         "text": "British Children\u2019s TV Shows",
-         "category": "British Children\u2019s TV Shows",
+         "text": "Programas de TV infantis britânicos",
+         "category": "Programas de TV infantis britânicos",
          "audio": "12251_cat",
-         "subject": "Pop Culture",
+         "subject": "Cultura pop",
          "statements": [
             {
-               "response": "A shortlived but beloved \u201870s show about a cat.",
-               "text": "<i>Bagpuss<\/i>",
+               "response": "Um programa dos anos 70 de vida curta, mas amado, sobre um gato.",
+               "text": "<i>Bagpuss</i>",
                "audio": "12251_0",
                "truth": true
             },
             {
-               "response": "About a fleet of tugboats.",
-               "text": "<i>TUGS<\/i>",
+               "response": "Sobre uma frota de rebocadores.",
+               "text": "<i>TUGS</i>",
                "audio": "12251_1",
                "truth": true
             },
             {
-               "response": "Grandpa has a magic shrinking cap.",
-               "text": "<i>Grandpa in My Pocket<\/i>",
+               "response": "O vovô tem um boné encolhível mágico.",
+               "text": "<i>vovô no meu bolso</i>",
                "audio": "12251_2",
                "truth": true
             },
             {
-               "text": "<i>Old Fussy Britches<\/i>",
+               "text": "<i>Old Fussy Britches</i>",
                "audio": "12251_3",
                "truth": false
             },
             {
-               "text": "<i>His Balls<\/i>",
+               "text": "<i>suas bolas</i>",
                "audio": "12251_4",
                "truth": false
             },
             {
-               "text": "<i>The Royal Wee<\/i>",
+               "text": "<i>The Royal Wee</i>",
                "audio": "12251_5",
                "truth": false
             },
             {
-               "text": "<i>Musty Fanny<\/i>",
+               "text": "<i>Musty Fanny</i>",
                "audio": "12251_6",
                "truth": false
             }
@@ -5044,20 +5044,20 @@
       },
       {
          "id": 12248,
-         "text": "<i>Scooby Doo<\/i> Guest Stars",
-         "category": "<i>Scooby Doo<\/i> Guest Stars",
+         "text": "<i>Scooby Doo</i> estrelas convidadas",
+         "category": "<i>Scooby Doo</i> estrelas convidadas",
          "audio": "12248_cat",
-         "subject": "Pop Culture",
+         "subject": "Cultura pop",
          "statements": [
             {
-               "response": "He was dating Shaggy\u2019s ex-girlfriend.",
-               "text": "\u2019N Sync\u2019s J.C. Chasez",
+               "response": "Ele estava namorando a ex-namorada de Salsicha.",
+               "text": "JC Chasez de 'N Sync",
                "audio": "12248_0",
                "truth": true
             },
             {
-               "response": "On a 2003 episode of <i>What\u2019s New, Scooby-Doo?<\/i>",
-               "text": "KISS ",
+               "response": "Em um episódio de 2003 de <i>What's New, Scooby-Doo?</i>",
+               "text": "BEIJO ",
                "audio": "12248_1",
                "truth": true
             },
@@ -5073,7 +5073,7 @@
                "truth": false
             },
             {
-               "text": "Mister Rogers",
+               "text": "Senhor Rogers",
                "audio": "12248_4",
                "truth": false
             },
@@ -5083,7 +5083,7 @@
                "truth": false
             },
             {
-               "text": "The Dukes of Hazard",
+               "text": "Os duques de perigo",
                "audio": "12248_6",
                "truth": false
             }
@@ -5091,47 +5091,47 @@
       },
       {
          "id": 12240,
-         "text": "More",
-         "category": "More",
+         "text": "Mais",
+         "category": "Mais",
          "audio": "12240_cat",
-         "subject": "Math",
+         "subject": "Matemática",
          "statements": [
             {
-               "response": "The U.N. estimates six billion people have mobile phones and 4.5 billion have toilets.",
-               "text": "More people have cell phones than toilets. ",
+               "response": "A ONU estima que seis bilhões de pessoas têm telefones celulares e 4,5 bilhões têm banheiros.",
+               "text": "Mais pessoas têm telefones celulares do que banheiros. ",
                "audio": "12240_0",
                "truth": true
             },
             {
-               "response": "There are also more sheep than people.",
-               "text": "There are more cows than people in New Zealand. ",
+               "response": "Também há mais ovelhas do que pessoas.",
+               "text": "Existem mais vacas do que pessoas na Nova Zelândia. ",
                "audio": "12240_1",
                "truth": true
             },
             {
-               "response": "There are less than 2,000 tigers living in India.",
-               "text": "There are more tigers in Texas than in the wilds of India. ",
+               "response": "Existem menos de 2.000 tigres que vivem na Índia.",
+               "text": "Existem mais tigres no Texas do que nas selvas da Índia. ",
                "audio": "12240_2",
                "truth": true
             },
             {
-               "response": "A few more, anyway.",
-               "text": "There are more lies in this game than truths.",
+               "response": "Mais alguns, de qualquer maneira.",
+               "text": "Existem mais mentiras neste jogo do que verdades.",
                "audio": "12240_3",
                "truth": true
             },
             {
-               "text": "There are more Mondays each year than Fridays.",
+               "text": "Cada ano há mais segundas-feiras do que sextas-feiras.",
                "audio": "12240_4",
                "truth": false
             },
             {
-               "text": "There are more people currently alive than all the people who have ever died.",
+               "text": "Existem mais pessoas vivas atualmente do que todas as pessoas que já morreram.",
                "audio": "12240_5",
                "truth": false
             },
             {
-               "text": "There are more penguins at the North Pole than the South Pole.",
+               "text": "Existem mais pinguins no Pólo Norte do que no Pólo Sul.",
                "audio": "12240_6",
                "truth": false
             }
@@ -5139,46 +5139,46 @@
       },
       {
          "id": 12069,
-         "text": "The Emmys",
-         "category": "The Emmys",
+         "text": "O Emmy",
+         "category": "O Emmy",
          "audio": "12069_cat",
-         "subject": "Pop Culture",
+         "subject": "Cultura pop",
          "statements": [
             {
-               "response": "For \u201cSports Broadcasting.\u201d",
-               "text": "ESPN\u2019s yellow \u201c1st-and-Ten\u201d line won an Emmy in 1998.",
+               "response": "Para “Sports Broadcasting.”",
+               "text": "A linha amarela “1st-and-Ten” da ESPN ganhou um Emmy em 1998.",
                "audio": "12069_0",
                "truth": true
             },
             {
-               "response": "For \u201cPeripheral Development and Technological Impact of Video Game Controllers.\u201d",
-               "text": "The PS3 DUALSHOCK controller won an Emmy in 2007.",
+               "response": "Para “Desenvolvimento periférico e impacto tecnológico de controladores de videogame”.",
+               "text": "O controlador PS3 DUALSHOCK ganhou um Emmy em 2007.",
                "audio": "12069_1",
                "truth": true
             },
             {
-               "response": "For \u201cEngineering.\u201d",
-               "text": "The TV test pattern color bars won an Emmy in 2001.",
+               "response": "Para “Engenharia”.",
+               "text": "As barras de cores do padrão de teste de TV ganharam um Emmy em 2001.",
                "audio": "12069_2",
                "truth": true
             },
             {
-               "text": "The Parental Guide notification won an Emmy in 2004.",
+               "text": "A notificação do Guia dos pais ganhou um Emmy em 2004.",
                "audio": "12069_3",
                "truth": false
             },
             {
-               "text": "MSNBC\u2019s Morning Joe coffee stain logo won an Emmy in 2009.",
+               "text": "O logotipo da mancha de café Morning Joe da MSNBC ganhou um Emmy em 2009.",
                "audio": "12069_4",
                "truth": false
             },
             {
-               "text": "Rabbit ear antennas won an Emmy in 1955.",
+               "text": "As antenas de orelha de coelho ganharam um Emmy em 1955.",
                "audio": "12069_5",
                "truth": false
             },
             {
-               "text": "The Fox NFL robots won an Emmy in 2003.",
+               "text": "Os robôs da Fox NFL ganharam um Emmy em 2003.",
                "audio": "12069_6",
                "truth": false
             }
@@ -5186,46 +5186,46 @@
       },
       {
          "id": 12052,
-         "text": "<i>The Bradys<\/i> (1990)",
-         "category": "<i>The Bradys<\/i> (1990)",
+         "text": "<i>The Bradys</i> (1990)",
+         "category": "<i>The Bradys</i> (1990)",
          "audio": "12052_cat",
-         "subject": "Pop Culture",
+         "subject": "Cultura pop",
          "statements": [
             {
-               "response": "The dramedy had a laugh track.",
-               "text": "Bobby is paralyzed in a race car accident.",
+               "response": "A comédia teve uma faixa risada.",
+               "text": "Bobby fica paralisado em um acidente de corrida.",
                "audio": "12052_0",
                "truth": true
             },
             {
-               "response": "She has a public meltdown.",
-               "text": "Marcia battles with alcoholism. ",
+               "response": "Ela tem um colapso público.",
+               "text": "Márcia luta contra o alcoolismo. ",
                "audio": "12052_1",
                "truth": true
             },
             {
-               "response": "He loses the race.",
-               "text": "Mike is blackmailed in a city council election.",
+               "response": "Ele perde a corrida.",
+               "text": "Mike é chantageado em uma eleição para o conselho municipal.",
                "audio": "12052_2",
                "truth": true
             },
             {
-               "text": "Peter accidentally gets high on ecstasy.",
+               "text": "Peter acidentalmente fica chapado de êxtase.",
                "audio": "12052_3",
                "truth": false
             },
             {
-               "text": "Carol gets trapped in a mine for three weeks.",
+               "text": "Carol fica presa em uma mina por três semanas.",
                "audio": "12052_4",
                "truth": false
             },
             {
-               "text": "Cindy slaps an old lady to the ground.",
+               "text": "Cindy joga uma senhora idosa no chão.",
                "audio": "12052_5",
                "truth": false
             },
             {
-               "text": "Jan is a victim of an arsonist.",
+               "text": "Jan é vítima de um incendiário.",
                "audio": "12052_6",
                "truth": false
             }
@@ -5236,43 +5236,43 @@
          "text": "Hugo Chávez",
          "category": "Hugo Chávez",
          "audio": "11977_cat",
-         "subject": "People",
+         "subject": "Pessoas",
          "statements": [
             {
-               "response": "For unspecified \u201chealth concerns.\u201d",
-               "text": "Hugo Chávez banned Coke Zero from Venezuela. ",
+               "response": "Para \"questões de saúde\" não especificadas.",
+               "text": "Hugo Chávez baniu a Coca Zero da Venezuela. ",
                "audio": "11977_0",
                "truth": true
             },
             {
-               "response": "He called it a \u201cgame of terror\u201d created by the U.S.",
-               "text": "Hugo Chávez called to have Halloween banned in 2005. ",
+               "response": "Ele o chamou de \"jogo de terror\" criado pelos EUA",
+               "text": "Hugo Chávez pediu a proibição do Halloween em 2005. ",
                "audio": "11977_1",
                "truth": true
             },
             {
-               "response": "To help conserve water.",
-               "text": "Hugo Chávez asked Venezuelans to stop singing in the shower.",
+               "response": "Para ajudar a economizar água.",
+               "text": "Hugo Chávez pediu aos venezuelanos que parassem de cantar no chuveiro.",
                "audio": "11977_2",
                "truth": true
             },
             {
-               "text": "Hugo Chávez tried to outlaw bacon in Venezuela.",
+               "text": "Hugo Chávez tentou banir o bacon na Venezuela.",
                "audio": "11977_3",
                "truth": false
             },
             {
-               "text": "Hugo Chávez outlawed sudoku puzzles in 2008.",
+               "text": "Hugo Chávez proibiu os quebra-cabeças do sudoku em 2008.",
                "audio": "11977_4",
                "truth": false
             },
             {
-               "text": "Hugo Chávez urged citizens to not participate in choreographed flash mobs.",
+               "text": "Hugo Chávez exortou os cidadãos a não participarem de flash mobs coreografados.",
                "audio": "11977_5",
                "truth": false
             },
             {
-               "text": "Hugo Chávez outlawed the Martin Scorsese film <i>Hugo<\/i>.",
+               "text": "Hugo Chávez proibiu o filme de Martin Scorsese <i>Hugo</i>.",
                "audio": "11977_6",
                "truth": false
             }
@@ -5280,46 +5280,46 @@
       },
       {
          "id": 11617,
-         "text": "International Space",
-         "category": "International Space",
+         "text": "Espaço Internacional",
+         "category": "Espaço Internacional",
          "audio": "11617_cat",
-         "subject": "Animals",
+         "subject": "Animais",
          "statements": [
             {
-               "response": "The rocket also carried a mouse and some worms.",
-               "text": "Iran launched two turtles into space in 2010.",
+               "response": "O foguete também carregava um mouse e alguns vermes.",
+               "text": "O Irã lançou duas tartarugas ao espaço em 2010.",
                "audio": "11617_0",
                "truth": true
             },
             {
-               "response": "It\u2019s been launching satellites since 2003.",
-               "text": "Nigeria has a space program.",
+               "response": "Tem lançado satélites desde 2003.",
+               "text": "A Nigéria tem um programa espacial.",
                "audio": "11617_1",
                "truth": true
             },
             {
-               "response": "There have been British-born astronauts, but the UK has never funded manned space flight.",
-               "text": "England has never sent a human into space.",
+               "response": "Já existiram astronautas nascidos na Grã-Bretanha, mas o Reino Unido nunca financiou voos espaciais tripulados.",
+               "text": "A Inglaterra nunca enviou um humano ao espaço.",
                "audio": "11617_2",
                "truth": true
             },
             {
-               "text": "Australia has the world\u2019s oldest space program.",
+               "text": "A Austrália tem o programa espacial mais antigo do mundo.",
                "audio": "11617_3",
                "truth": false
             },
             {
-               "text": "Canada\u2019s space program spent $95 dollars total in 2012.",
+               "text": "O programa espacial do Canadá gastou US $ 95 no total em 2012.",
                "audio": "11617_4",
                "truth": false
             },
             {
-               "text": "Bjork is a scientific advisor to the Icelandic space program.",
+               "text": "Bjork é consultor científico do programa espacial islandês.",
                "audio": "11617_5",
                "truth": false
             },
             {
-               "text": "Portugal claimed ownership of Venus in 1699.",
+               "text": "Portugal reivindicou a propriedade de Vênus em 1699.",
                "audio": "11617_6",
                "truth": false
             }
@@ -5327,45 +5327,45 @@
       },
       {
          "id": 11535,
-         "text": "Presidential Firsts",
-         "category": "Presidential Firsts",
+         "text": "Primeiros presidenciais",
+         "category": "Primeiros presidenciais",
          "audio": "11535_cat",
-         "subject": "USA",
+         "subject": "EUA",
          "statements": [
             {
-               "response": "Prior to this, everyone had been born in the British colonies.",
-               "text": "Martin Van Buren was the first President born in the U.S.",
+               "response": "Antes disso, todos haviam nascido nas colônias britânicas.",
+               "text": "Martin Van Buren foi o primeiro presidente nascido nos Estados Unidos",
                "audio": "11535_0",
                "truth": true
             },
             {
-               "response": "Thus the \u201cwimp\u201d factor.",
-               "text": "Jimmy Carter was the first U.S. President born in a hospital.",
+               "response": "Daí o fator “covarde”.",
+               "text": "Jimmy Carter foi o primeiro presidente dos Estados Unidos nascido em um hospital.",
                "audio": "11535_1",
                "truth": true
             },
             {
-               "text": "FDR was the first U.S. President to have a driver\u2019s license.",
+               "text": "FDR foi o primeiro presidente dos Estados Unidos a ter carteira de motorista.",
                "audio": "11535_2",
                "truth": false
             },
             {
-               "text": "Abe Lincoln was the first U.S. President to give a radio speech.",
+               "text": "Abe Lincoln foi o primeiro presidente dos Estados Unidos a fazer um discurso no rádio.",
                "audio": "11535_3",
                "truth": false
             },
             {
-               "text": "Chester A. Arthur was the first U.S. President to father a son.",
+               "text": "Chester A. Arthur foi o primeiro presidente dos Estados Unidos a ter um filho.",
                "audio": "11535_4",
                "truth": false
             },
             {
-               "text": "Richard Nixon was the first U.S. President to lie.",
+               "text": "Richard Nixon foi o primeiro presidente dos Estados Unidos a mentir.",
                "audio": "11535_5",
                "truth": false
             },
             {
-               "text": "Andrew Jackson was the first U.S. President to die of natural causes.",
+               "text": "Andrew Jackson foi o primeiro presidente dos Estados Unidos a morrer de causas naturais.",
                "audio": "11535_6",
                "truth": false
             }
@@ -5373,46 +5373,46 @@
       },
       {
          "id": 10990,
-         "text": "Baseball Superstitions",
-         "category": "Baseball Superstitions",
+         "text": "Superstições de beisebol",
+         "category": "Superstições de beisebol",
          "audio": "10990_cat",
-         "subject": "Sports",
+         "subject": "Esportes",
          "statements": [
             {
-               "response": "Luckily, Gatorade was only a few decades away.",
-               "text": "The 1894 Baltimore Orioles chugged turkey gravy before each game.",
+               "response": "Felizmente, Gatorade estava apenas a algumas décadas de distância.",
+               "text": "O 1894 Baltimore Orioles bebia molho de peru antes de cada jogo.",
                "audio": "10990_0",
                "truth": true
             },
             {
-               "response": "He would share it with his teammates too.",
-               "text": "Yankees first baseman Jason Giambi broke out of slumps by wearing a golden thong.",
+               "response": "Ele iria compartilhar com seus companheiros de equipe também.",
+               "text": "O homem da primeira base dos Yankees, Jason Giambi, saiu da crise vestindo uma tanga dourada.",
                "audio": "10990_1",
                "truth": true
             },
             {
-               "response": "He believed it made his skin tougher.",
-               "text": "Expos outfielder Moises Alou frequently urinated on his own hands.",
+               "response": "Ele acreditava que isso tornava sua pele mais dura.",
+               "text": "O outfielder do Expos, Moises Alou, costumava urinar nas próprias mãos.",
                "audio": "10990_2",
                "truth": true
             },
             {
-               "text": "The 1992 Detroit Tigers did trust falls before every game.",
+               "text": "Os Detroit Tigers de 1992 confiavam nas quedas antes de cada jogo.",
                "audio": "10990_3",
                "truth": false
             },
             {
-               "text": "Rangers pitcher Nolan Ryan rubbed the head of an infant before each game.",
+               "text": "O arremessador do Rangers, Nolan Ryan, esfregava a cabeça de uma criança antes de cada jogo.",
                "audio": "10990_4",
                "truth": false
             },
             {
-               "text": "Mariners pitcher Randy Johnson played chess in the bullpen every game he sat out.",
+               "text": "O arremessador dos Mariners, Randy Johnson, jogava xadrez no bullpen em todas as partidas em que estava fora.",
                "audio": "10990_5",
                "truth": false
             },
             {
-               "text": "Dodgers manager Tommy Lasorda opened spring training by running the bases naked.",
+               "text": "O empresário dos Dodgers, Tommy Lasorda, abriu o treinamento de primavera correndo pelado pelas bases.",
                "audio": "10990_6",
                "truth": false
             }
