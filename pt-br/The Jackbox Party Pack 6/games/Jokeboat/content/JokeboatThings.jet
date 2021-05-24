@@ -1,740 +1,740 @@
 {
     "content": [
         {
-            "id": 1, 
-            "topic": "albums"
-        }, 
+            "id": 1,
+            "topic": "álbuns"
+        },
         {
-            "id": 2, 
-            "topic": "backpacks"
-        }, 
+            "id": 2,
+            "topic": "mochilas"
+        },
         {
-            "id": 3, 
-            "topic": "bees"
-        }, 
+            "id": 3,
+            "topic": "abelhas"
+        },
         {
-            "id": 4, 
-            "topic": "bicycles"
-        }, 
+            "id": 4,
+            "topic": "bicicletas"
+        },
         {
-            "id": 5, 
-            "topic": "billionaires"
-        }, 
+            "id": 5,
+            "topic": "bilionários"
+        },
         {
-            "id": 6, 
-            "topic": "clowns"
-        }, 
+            "id": 6,
+            "topic": "palhaços"
+        },
         {
-            "id": 7, 
-            "topic": "blizzards"
-        }, 
+            "id": 7,
+            "topic": "nevascas"
+        },
         {
-            "id": 8, 
-            "topic": "board games"
-        }, 
+            "id": 8,
+            "topic": "jogos de tabuleiro"
+        },
         {
-            "id": 9, 
-            "topic": "toothbrushes"
-        }, 
+            "id": 9,
+            "topic": "escovas de dente"
+        },
         {
-            "id": 10, 
-            "topic": "hotel rooms"
-        }, 
+            "id": 10,
+            "topic": "Quartos de hotel"
+        },
         {
-            "id": 11, 
-            "topic": "breakups"
-        }, 
+            "id": 11,
+            "topic": "separações"
+        },
         {
-            "id": 12, 
-            "topic": "road trips"
-        }, 
+            "id": 12,
+            "topic": "viagens de carro"
+        },
         {
-            "id": 13, 
-            "topic": "bumper cars"
-        }, 
+            "id": 13,
+            "topic": "carros de choque"
+        },
         {
-            "id": 14, 
-            "topic": "concerts"
-        }, 
+            "id": 14,
+            "topic": "concertos"
+        },
         {
-            "id": 15, 
-            "topic": "cargo pants"
-        }, 
+            "id": 15,
+            "topic": "calças cargo"
+        },
         {
-            "id": 16, 
-            "topic": "chicken nuggets"
-        }, 
+            "id": 16,
+            "topic": "Nuggets de frango"
+        },
         {
-            "id": 17, 
-            "topic": "chopsticks"
-        }, 
+            "id": 17,
+            "topic": "pauzinhos"
+        },
         {
-            "id": 18, 
-            "topic": "comics"
-        }, 
+            "id": 18,
+            "topic": "histórias em quadrinhos"
+        },
         {
-            "id": 19, 
-            "topic": "coworkers"
-        }, 
+            "id": 19,
+            "topic": "colegas de trabalho"
+        },
         {
-            "id": 20, 
-            "topic": "movies"
-        }, 
+            "id": 20,
+            "topic": "filmes"
+        },
         {
-            "id": 21, 
-            "topic": "cupcakes"
-        }, 
+            "id": 21,
+            "topic": "bolos de copo"
+        },
         {
-            "id": 22, 
-            "topic": "dentists"
-        }, 
+            "id": 22,
+            "topic": "Dentistas"
+        },
         {
-            "id": 23, 
-            "topic": "diamond rings"
-        }, 
+            "id": 23,
+            "topic": "anéis de diamante"
+        },
         {
-            "id": 24, 
-            "topic": "diapers"
-        }, 
+            "id": 24,
+            "topic": "fraldas"
+        },
         {
-            "id": 25, 
-            "topic": "video games"
-        }, 
+            "id": 25,
+            "topic": "jogos de vídeo"
+        },
         {
-            "id": 26, 
-            "topic": "dress shoes"
-        }, 
+            "id": 26,
+            "topic": "sapatos sociais"
+        },
         {
-            "id": 27, 
-            "topic": "dolls"
-        }, 
+            "id": 27,
+            "topic": "bonecos"
+        },
         {
-            "id": 28, 
-            "topic": "doppelg\u00e4ngers"
-        }, 
+            "id": 28,
+            "topic": "doppelgängers"
+        },
         {
-            "id": 29, 
-            "topic": "frat guys"
-        }, 
+            "id": 29,
+            "topic": "rapazes da fraternidade"
+        },
         {
-            "id": 30, 
-            "topic": "dragons"
-        }, 
+            "id": 30,
+            "topic": "dragões"
+        },
         {
-            "id": 31, 
-            "topic": "dreams"
-        }, 
+            "id": 31,
+            "topic": "sonhos"
+        },
         {
-            "id": 32, 
-            "topic": "gardens"
-        }, 
+            "id": 32,
+            "topic": "jardins"
+        },
         {
-            "id": 33, 
-            "topic": "eggs"
-        }, 
+            "id": 33,
+            "topic": "ovos"
+        },
         {
-            "id": 34, 
-            "topic": "books"
-        }, 
+            "id": 34,
+            "topic": "livros"
+        },
         {
-            "id": 35, 
-            "topic": "fireworks"
-        }, 
+            "id": 35,
+            "topic": "fogos de artifício"
+        },
         {
-            "id": 36, 
-            "topic": "baths"
-        }, 
+            "id": 36,
+            "topic": "banhos"
+        },
         {
-            "id": 37, 
-            "topic": "grocery lists"
-        }, 
+            "id": 37,
+            "topic": "listas de compras"
+        },
         {
-            "id": 38, 
-            "topic": "doctors"
-        }, 
+            "id": 38,
+            "topic": "doutores"
+        },
         {
-            "id": 39, 
-            "topic": "massages"
-        }, 
+            "id": 39,
+            "topic": "massagens"
+        },
         {
-            "id": 40, 
-            "topic": "group texts"
-        }, 
+            "id": 40,
+            "topic": "textos de grupo"
+        },
         {
-            "id": 41, 
-            "topic": "online followers"
-        }, 
+            "id": 41,
+            "topic": "seguidores online"
+        },
         {
-            "id": 42, 
-            "topic": "hot takes"
-        }, 
+            "id": 42,
+            "topic": "tomadas quentes"
+        },
         {
-            "id": 43, 
-            "topic": "hummingbirds"
-        }, 
+            "id": 43,
+            "topic": "beija-flores"
+        },
         {
-            "id": 44, 
-            "topic": "jalape\u00f1os"
-        }, 
+            "id": 44,
+            "topic": "Jalapenos"
+        },
         {
-            "id": 45, 
-            "topic": "khakis"
-        }, 
+            "id": 45,
+            "topic": "cáqui"
+        },
         {
-            "id": 46, 
-            "topic": "bodybuilders"
-        }, 
+            "id": 46,
+            "topic": "fisiculturistas"
+        },
         {
-            "id": 47, 
-            "topic": "YouTube celebrities"
-        }, 
+            "id": 47,
+            "topic": "Celebridades do YouTube"
+        },
         {
-            "id": 48, 
-            "topic": "teachers"
-        }, 
+            "id": 48,
+            "topic": "professores"
+        },
         {
-            "id": 49, 
-            "topic": "socks"
-        }, 
+            "id": 49,
+            "topic": "meias"
+        },
         {
-            "id": 50, 
-            "topic": "toys"
-        }, 
+            "id": 50,
+            "topic": "brinquedos"
+        },
         {
-            "id": 51, 
-            "topic": "subscriptions"
-        }, 
+            "id": 51,
+            "topic": "assinaturas"
+        },
         {
-            "id": 52, 
-            "topic": "magnets"
-        }, 
+            "id": 52,
+            "topic": "ímãs"
+        },
         {
-            "id": 53, 
-            "topic": "marching bands"
-        }, 
+            "id": 53,
+            "topic": "bandas marciais"
+        },
         {
-            "id": 54, 
+            "id": 54,
             "topic": "marshmallows"
-        }, 
+        },
         {
-            "id": 55, 
-            "topic": "martial arts"
-        }, 
+            "id": 55,
+            "topic": "Artes marciais"
+        },
         {
-            "id": 56, 
-            "topic": "matches"
-        }, 
+            "id": 56,
+            "topic": "fósforos"
+        },
         {
-            "id": 57, 
-            "topic": "mattresses"
-        }, 
+            "id": 57,
+            "topic": "colchões"
+        },
         {
-            "id": 58, 
-            "topic": "restaurants"
-        }, 
+            "id": 58,
+            "topic": "restaurantes"
+        },
         {
-            "id": 59, 
+            "id": 59,
             "topic": "memes"
-        }, 
+        },
         {
-            "id": 60, 
-            "topic": "Mondays"
-        }, 
+            "id": 60,
+            "topic": "segundas"
+        },
         {
-            "id": 61, 
-            "topic": "musicals"
-        }, 
+            "id": 61,
+            "topic": "musicais"
+        },
         {
-            "id": 62, 
-            "topic": "cookies"
-        }, 
+            "id": 62,
+            "topic": "biscoitos"
+        },
         {
-            "id": 63, 
-            "topic": "parking lots"
-        }, 
+            "id": 63,
+            "topic": "estacionamentos"
+        },
         {
-            "id": 64, 
-            "topic": "passwords"
-        }, 
+            "id": 64,
+            "topic": "senhas"
+        },
         {
-            "id": 65, 
-            "topic": "pillows"
-        }, 
+            "id": 65,
+            "topic": "travesseiros"
+        },
         {
-            "id": 66, 
-            "topic": "school supplies"
-        }, 
+            "id": 66,
+            "topic": "material escolar"
+        },
         {
-            "id": 67, 
-            "topic": "plastic bags"
-        }, 
+            "id": 67,
+            "topic": "sacos de plástico"
+        },
         {
-            "id": 68, 
+            "id": 68,
             "topic": "podcasts"
-        }, 
+        },
         {
-            "id": 69, 
-            "topic": "potato chips"
-        }, 
+            "id": 69,
+            "topic": "batata frita"
+        },
         {
-            "id": 70, 
-            "topic": "puddles"
-        }, 
+            "id": 70,
+            "topic": "poças"
+        },
         {
-            "id": 71, 
-            "topic": "rainbows"
-        }, 
+            "id": 71,
+            "topic": "arco-íris"
+        },
         {
-            "id": 72, 
-            "topic": "rap songs"
-        }, 
+            "id": 72,
+            "topic": "canções de rap"
+        },
         {
-            "id": 73, 
-            "topic": "reboots"
-        }, 
+            "id": 73,
+            "topic": "reinicia"
+        },
         {
-            "id": 74, 
-            "topic": "receipts"
-        }, 
+            "id": 74,
+            "topic": "recibos"
+        },
         {
-            "id": 75, 
-            "topic": "riddles"
-        }, 
+            "id": 75,
+            "topic": "charadas"
+        },
         {
-            "id": 76, 
-            "topic": "haters"
-        }, 
+            "id": 76,
+            "topic": "odiadores"
+        },
         {
-            "id": 77, 
-            "topic": "robots"
-        }, 
+            "id": 77,
+            "topic": "robôs"
+        },
         {
-            "id": 78, 
-            "topic": "roller coasters"
-        }, 
+            "id": 78,
+            "topic": "montanhas-russas"
+        },
         {
-            "id": 79, 
-            "topic": "romantic comedies"
-        }, 
+            "id": 79,
+            "topic": "comédias românticas"
+        },
         {
-            "id": 80, 
-            "topic": "cruises"
-        }, 
+            "id": 80,
+            "topic": "cruzeiros"
+        },
         {
-            "id": 81, 
+            "id": 81,
             "topic": "Scientologists"
-        }, 
+        },
         {
-            "id": 82, 
-            "topic": "scooters"
-        }, 
+            "id": 82,
+            "topic": "patinetes"
+        },
         {
-            "id": 83, 
-            "topic": "skeletons"
-        }, 
+            "id": 83,
+            "topic": "esqueletos"
+        },
         {
-            "id": 84, 
-            "topic": "landlords"
-        }, 
+            "id": 84,
+            "topic": "senhores da terra"
+        },
         {
-            "id": 85, 
-            "topic": "popsicles"
-        }, 
+            "id": 85,
+            "topic": "picolés"
+        },
         {
-            "id": 86, 
-            "topic": "soap operas"
-        }, 
+            "id": 86,
+            "topic": "novelas"
+        },
         {
-            "id": 87, 
-            "topic": "wallets"
-        }, 
+            "id": 87,
+            "topic": "carteiras"
+        },
         {
-            "id": 88, 
+            "id": 88,
             "topic": "smartphones"
-        }, 
+        },
         {
-            "id": 89, 
-            "topic": "vacations"
-        }, 
+            "id": 89,
+            "topic": "Férias"
+        },
         {
-            "id": 90, 
-            "topic": "sunglasses"
-        }, 
+            "id": 90,
+            "topic": "oculos escuros"
+        },
         {
-            "id": 91, 
-            "topic": "teachers"
-        }, 
+            "id": 91,
+            "topic": "professores"
+        },
         {
-            "id": 92, 
-            "topic": "rainy days"
-        }, 
+            "id": 92,
+            "topic": "dias chuvosos"
+        },
         {
-            "id": 93, 
-            "topic": "toilets"
-        }, 
+            "id": 93,
+            "topic": "banheiros"
+        },
         {
-            "id": 94, 
-            "topic": "dumpsters"
-        }, 
+            "id": 94,
+            "topic": "lixeiras"
+        },
         {
-            "id": 95, 
-            "topic": "tornadoes"
-        }, 
+            "id": 95,
+            "topic": "tornados"
+        },
         {
-            "id": 96, 
-            "topic": "trampolines"
-        }, 
+            "id": 96,
+            "topic": "trampolins"
+        },
         {
-            "id": 97, 
-            "topic": "typos"
-        }, 
+            "id": 97,
+            "topic": "erros de digitação"
+        },
         {
-            "id": 98, 
-            "topic": "vampires"
-        }, 
+            "id": 98,
+            "topic": "Vampiros"
+        },
         {
-            "id": 99, 
-            "topic": "kittens"
-        }, 
+            "id": 99,
+            "topic": "gatinhos"
+        },
         {
-            "id": 100, 
-            "topic": "cults"
-        }, 
+            "id": 100,
+            "topic": "cultos"
+        },
         {
-            "id": 101, 
-            "topic": "yoga instructors"
-        }, 
+            "id": 101,
+            "topic": "instrutores de ioga"
+        },
         {
-            "id": 102, 
-            "topic": "zombies"
-        }, 
+            "id": 102,
+            "topic": "zumbis"
+        },
         {
-            "id": 103, 
-            "topic": "loaded nachos"
-        }, 
+            "id": 103,
+            "topic": "Nachos carregados"
+        },
         {
-            "id": 104, 
-            "topic": "puzzles"
-        }, 
+            "id": 104,
+            "topic": "quebra-cabeças"
+        },
         {
-            "id": 105, 
-            "topic": "rubber bands"
-        }, 
+            "id": 105,
+            "topic": "elásticos"
+        },
         {
-            "id": 106, 
-            "topic": "wireless headphones"
-        }, 
+            "id": 106,
+            "topic": "fone de ouvido sem fio"
+        },
         {
-            "id": 107, 
-            "topic": "studio apartments"
-        }, 
+            "id": 107,
+            "topic": "apartamentos estúdio"
+        },
         {
-            "id": 108, 
-            "topic": "executives"
-        }, 
+            "id": 108,
+            "topic": "executivos"
+        },
         {
-            "id": 109, 
-            "topic": "contact lenses"
-        }, 
+            "id": 109,
+            "topic": "lentes de contato"
+        },
         {
-            "id": 110, 
-            "topic": "winter coats"
-        }, 
+            "id": 110,
+            "topic": "casacos de inverno"
+        },
         {
-            "id": 111, 
-            "topic": "suspenders"
-        }, 
+            "id": 111,
+            "topic": "suspensórios"
+        },
         {
-            "id": 112, 
-            "topic": "bankruptcies"
-        }, 
+            "id": 112,
+            "topic": "falências"
+        },
         {
-            "id": 113, 
-            "topic": "charities"
-        }, 
+            "id": 113,
+            "topic": "instituições de caridade"
+        },
         {
-            "id": 114, 
-            "topic": "colonoscopies"
-        }, 
+            "id": 114,
+            "topic": "colonoscopias"
+        },
         {
-            "id": 115, 
-            "topic": "voting rights"
-        }, 
+            "id": 115,
+            "topic": "Direito a voto"
+        },
         {
-            "id": 116, 
-            "topic": "uncles"
-        }, 
+            "id": 116,
+            "topic": "tios"
+        },
         {
-            "id": 117, 
-            "topic": "tech companies"
-        }, 
+            "id": 117,
+            "topic": "empresas de tecnologia"
+        },
         {
-            "id": 118, 
-            "topic": "cosmetic surgeries"
-        }, 
+            "id": 118,
+            "topic": "cirurgias cosméticas"
+        },
         {
-            "id": 119, 
-            "topic": "leftovers"
-        }, 
+            "id": 119,
+            "topic": "sobras"
+        },
         {
-            "id": 120, 
-            "topic": "capitalists"
-        }, 
+            "id": 120,
+            "topic": "capitalistas"
+        },
         {
-            "id": 121, 
-            "topic": "anarchists"
-        }, 
+            "id": 121,
+            "topic": "anarquistas"
+        },
         {
-            "id": 122, 
-            "topic": "children"
-        }, 
+            "id": 122,
+            "topic": "crianças"
+        },
         {
-            "id": 123, 
-            "topic": "marriages"
-        }, 
+            "id": 123,
+            "topic": "casamentos"
+        },
         {
-            "id": 124, 
-            "topic": "weddings"
-        }, 
+            "id": 124,
+            "topic": "casamentos"
+        },
         {
-            "id": 125, 
-            "topic": "corporate ladders"
-        }, 
+            "id": 125,
+            "topic": "escadas corporativas"
+        },
         {
-            "id": 126, 
-            "topic": "time travelers"
-        }, 
+            "id": 126,
+            "topic": "viajantes do tempo"
+        },
         {
-            "id": 127, 
-            "topic": "ride shares"
-        }, 
+            "id": 127,
+            "topic": "passeios compartilhados"
+        },
         {
-            "id": 128, 
-            "topic": "streaming services"
-        }, 
+            "id": 128,
+            "topic": "serviços de streaming"
+        },
         {
-            "id": 129, 
-            "topic": "politicians"
-        }, 
+            "id": 129,
+            "topic": "políticos"
+        },
         {
-            "id": 130, 
-            "topic": "organized religions"
-        }, 
+            "id": 130,
+            "topic": "religiões organizadas"
+        },
         {
-            "id": 131, 
-            "topic": "professional wrestlers"
-        }, 
+            "id": 131,
+            "topic": "lutadores profissionais"
+        },
         {
-            "id": 132, 
+            "id": 132,
             "topic": "reality shows"
-        }, 
+        },
         {
-            "id": 133, 
-            "topic": "democracies"
-        }, 
+            "id": 133,
+            "topic": "democracias"
+        },
         {
-            "id": 134, 
-            "topic": "parents"
-        }, 
+            "id": 134,
+            "topic": "pais"
+        },
         {
-            "id": 135, 
+            "id": 135,
             "topic": "hashtags"
-        }, 
+        },
         {
-            "id": 136, 
-            "topic": "telemarketers"
-        }, 
+            "id": 136,
+            "topic": "telemarketing"
+        },
         {
-            "id": 137, 
-            "topic": "lawyers"
-        }, 
+            "id": 137,
+            "topic": "advogados"
+        },
         {
-            "id": 138, 
-            "topic": "friendships"
-        }, 
+            "id": 138,
+            "topic": "amizades"
+        },
         {
-            "id": 139, 
-            "topic": "first class seats"
-        }, 
+            "id": 139,
+            "topic": "assentos de primeira classe"
+        },
         {
-            "id": 140, 
-            "topic": "public apologies"
-        }, 
+            "id": 140,
+            "topic": "desculpas públicas"
+        },
         {
-            "id": 141, 
-            "topic": "fantasies"
-        }, 
+            "id": 141,
+            "topic": "fantasias"
+        },
         {
-            "id": 142, 
-            "topic": "fears"
-        }, 
+            "id": 142,
+            "topic": "medos"
+        },
         {
-            "id": 143, 
-            "topic": "menus"
-        }, 
+            "id": 143,
+            "topic": "cardápios"
+        },
         {
-            "id": 144, 
-            "topic": "pledge drives"
-        }, 
+            "id": 144,
+            "topic": "penhoras"
+        },
         {
-            "id": 145, 
-            "topic": "gyms"
-        }, 
+            "id": 145,
+            "topic": "ginásios"
+        },
         {
-            "id": 146, 
-            "topic": "conspiracy theorists"
-        }, 
+            "id": 146,
+            "topic": "teóricos da conspiração"
+        },
         {
-            "id": 147, 
-            "topic": "influencers"
-        }, 
+            "id": 147,
+            "topic": "influenciadores"
+        },
         {
-            "id": 148, 
-            "topic": "hurricanes"
-        }, 
+            "id": 148,
+            "topic": "furacões"
+        },
         {
-            "id": 149, 
-            "topic": "flat earthers"
-        }, 
+            "id": 149,
+            "topic": "fones de ouvido achatados"
+        },
         {
-            "id": 150, 
-            "topic": "commas"
-        }, 
+            "id": 150,
+            "topic": "vírgulas"
+        },
         {
-            "id": 151, 
-            "topic": "avocados"
-        }, 
+            "id": 151,
+            "topic": "abacates"
+        },
         {
-            "id": 152, 
-            "topic": "office parties"
-        }, 
+            "id": 152,
+            "topic": "festas de escritório"
+        },
         {
-            "id": 153, 
-            "topic": "fad diets"
-        }, 
+            "id": 153,
+            "topic": "dietas da moda"
+        },
         {
-            "id": 154, 
-            "topic": "grandparents"
-        }, 
+            "id": 154,
+            "topic": "avós"
+        },
         {
-            "id": 155, 
+            "id": 155,
             "topic": "freelancers"
-        }, 
+        },
         {
-            "id": 156, 
-            "topic": "bosses"
-        }, 
+            "id": 156,
+            "topic": "patrões"
+        },
         {
-            "id": 157, 
-            "topic": "sequels"
-        }, 
+            "id": 157,
+            "topic": "sequelas"
+        },
         {
-            "id": 158, 
-            "topic": "taxi drivers"
-        }, 
+            "id": 158,
+            "topic": "motoristas de taxi"
+        },
         {
-            "id": 159, 
-            "topic": "cars"
-        }, 
+            "id": 159,
+            "topic": "carros"
+        },
         {
-            "id": 160, 
-            "topic": "Sundays"
-        }, 
+            "id": 160,
+            "topic": "Domingos"
+        },
         {
-            "id": 161, 
-            "topic": "viral videos"
-        }, 
+            "id": 161,
+            "topic": "vídeos virais"
+        },
         {
-            "id": 162, 
-            "topic": "bed sheets"
-        }, 
+            "id": 162,
+            "topic": "lençóis de cama"
+        },
         {
-            "id": 163, 
-            "topic": "dictators"
-        }, 
+            "id": 163,
+            "topic": "ditadores"
+        },
         {
-            "id": 164, 
-            "topic": "butts"
-        }, 
+            "id": 164,
+            "topic": "bundas"
+        },
         {
-            "id": 165, 
-            "topic": "jean shorts"
-        }, 
+            "id": 165,
+            "topic": "shorts jeans"
+        },
         {
-            "id": 166, 
-            "topic": "dad bods"
-        }, 
+            "id": 166,
+            "topic": "papai bods"
+        },
         {
-            "id": 167, 
-            "topic": "teens"
-        }, 
+            "id": 167,
+            "topic": "adolescentes"
+        },
         {
-            "id": 168, 
-            "topic": "planets"
-        }, 
+            "id": 168,
+            "topic": "planetas"
+        },
         {
-            "id": 169, 
-            "topic": "think pieces"
-        }, 
+            "id": 169,
+            "topic": "pense em pedaços"
+        },
         {
-            "id": 170, 
-            "topic": "dogs"
-        }, 
+            "id": 170,
+            "topic": "cachorros"
+        },
         {
-            "id": 171, 
-            "topic": "cats"
-        }, 
+            "id": 171,
+            "topic": "gatos"
+        },
         {
-            "id": 172, 
-            "topic": "Friday nights"
-        }, 
+            "id": 172,
+            "topic": "noites de sexta-feira"
+        },
         {
-            "id": 173, 
-            "topic": "convention centers"
-        }, 
+            "id": 173,
+            "topic": "centros de convenções"
+        },
         {
-            "id": 174, 
-            "topic": "snacks"
-        }, 
+            "id": 174,
+            "topic": "lanches"
+        },
         {
-            "id": 175, 
+            "id": 175,
             "topic": "trolls"
-        }, 
+        },
         {
-            "id": 176, 
+            "id": 176,
             "topic": "apps"
-        }, 
+        },
         {
-            "id": 177, 
-            "topic": "workouts"
-        }, 
+            "id": 177,
+            "topic": "treinos"
+        },
         {
-            "id": 178, 
-            "topic": "theme parks"
-        }, 
+            "id": 178,
+            "topic": "parques temáticos"
+        },
         {
-            "id": 179, 
-            "topic": "push notifications"
-        }, 
+            "id": 179,
+            "topic": "notificações via push"
+        },
         {
-            "id": 180, 
-            "topic": "public busses"
-        }, 
+            "id": 180,
+            "topic": "ônibus públicos"
+        },
         {
-            "id": 181, 
-            "topic": "job interviews"
-        }, 
+            "id": 181,
+            "topic": "entrevista de emprego"
+        },
         {
-            "id": 182, 
-            "topic": "sporting events"
-        }, 
+            "id": 182,
+            "topic": "eventos esportivos"
+        },
         {
-            "id": 183, 
-            "topic": "bathrooms"
-        }, 
+            "id": 183,
+            "topic": "banheiros"
+        },
         {
-            "id": 184, 
-            "topic": "public officials"
+            "id": 184,
+            "topic": "funcionários públicos"
         }
     ]
 }

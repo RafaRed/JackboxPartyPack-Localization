@@ -1,404 +1,404 @@
 {
     "content": [
         {
-            "id": 1, 
+            "id": 1,
             "topic": "Abraham Lincoln"
-        }, 
+        },
         {
-            "id": 2, 
+            "id": 2,
             "topic": "Al Capone"
-        }, 
+        },
         {
-            "id": 3, 
+            "id": 3,
             "topic": "Alfred Hitchcock"
-        }, 
+        },
         {
-            "id": 4, 
+            "id": 4,
             "topic": "Amelia Earhart"
-        }, 
+        },
         {
-            "id": 5, 
+            "id": 5,
             "topic": "Andy Warhol"
-        }, 
+        },
         {
-            "id": 6, 
+            "id": 6,
             "topic": "Winston Churchill"
-        }, 
+        },
         {
-            "id": 7, 
+            "id": 7,
             "topic": "Barbie"
-        }, 
+        },
         {
-            "id": 8, 
-            "topic": "Batman"
-        }, 
+            "id": 8,
+            "topic": "homem Morcego"
+        },
         {
-            "id": 9, 
+            "id": 9,
             "topic": "Wolverine"
-        }, 
+        },
         {
-            "id": 10, 
-            "topic": "Captain Hook"
-        }, 
+            "id": 10,
+            "topic": "Capitão Gancho"
+        },
         {
-            "id": 11, 
+            "id": 11,
             "topic": "Charles Darwin"
-        }, 
+        },
         {
-            "id": 12, 
-            "topic": "Mr. Rogers"
-        }, 
+            "id": 12,
+            "topic": "Sr. Rogers"
+        },
         {
-            "id": 13, 
-            "topic": "Colonel Sanders"
-        }, 
+            "id": 13,
+            "topic": "Coronel Sanders"
+        },
         {
-            "id": 14, 
+            "id": 14,
             "topic": "Darth Vader"
-        }, 
+        },
         {
-            "id": 15, 
-            "topic": "Dora the Explorer"
-        }, 
+            "id": 15,
+            "topic": "Dora a Aventureira"
+        },
         {
-            "id": 16, 
-            "topic": "Dracula"
-        }, 
+            "id": 16,
+            "topic": "Drácula"
+        },
         {
-            "id": 17, 
+            "id": 17,
             "topic": "Gollum"
-        }, 
+        },
         {
-            "id": 18, 
+            "id": 18,
             "topic": "Freddy Krueger"
-        }, 
+        },
         {
-            "id": 19, 
+            "id": 19,
             "topic": "Frida Kahlo"
-        }, 
+        },
         {
-            "id": 20, 
+            "id": 20,
             "topic": "Gandalf"
-        }, 
+        },
         {
-            "id": 21, 
-            "topic": "Napoleon"
-        }, 
+            "id": 21,
+            "topic": "Napoleão"
+        },
         {
-            "id": 22, 
+            "id": 22,
             "topic": "Godzilla"
-        }, 
+        },
         {
-            "id": 23, 
-            "topic": "Goofy"
-        }, 
+            "id": 23,
+            "topic": "Pateta"
+        },
         {
-            "id": 24, 
+            "id": 24,
             "topic": "Guy Fieri"
-        }, 
+        },
         {
-            "id": 25, 
+            "id": 25,
             "topic": "Harry Potter"
-        }, 
+        },
         {
-            "id": 26, 
+            "id": 26,
             "topic": "Homer Simpson"
-        }, 
+        },
         {
-            "id": 27, 
+            "id": 27,
             "topic": "James Bond"
-        }, 
+        },
         {
-            "id": 28, 
-            "topic": "Joan of Arc"
-        }, 
+            "id": 28,
+            "topic": "Joana D'Arc"
+        },
         {
-            "id": 29, 
+            "id": 29,
             "topic": "Katniss Everdeen"
-        }, 
+        },
         {
-            "id": 30, 
+            "id": 30,
             "topic": "Spock"
-        }, 
+        },
         {
-            "id": 31, 
-            "topic": "Mr. Clean"
-        }, 
+            "id": 31,
+            "topic": "Sr. Limpo"
+        },
         {
-            "id": 32, 
+            "id": 32,
             "topic": "Mary Poppins"
-        }, 
+        },
         {
-            "id": 33, 
+            "id": 33,
             "topic": "Lord Voldemort"
-        }, 
+        },
         {
-            "id": 34, 
+            "id": 34,
             "topic": "Gonzo"
-        }, 
+        },
         {
-            "id": 35, 
-            "topic": "The Joker"
-        }, 
+            "id": 35,
+            "topic": "O piadista"
+        },
         {
-            "id": 36, 
+            "id": 36,
             "topic": "Dr. Seuss"
-        }, 
+        },
         {
-            "id": 37, 
+            "id": 37,
             "topic": "Mozart"
-        }, 
+        },
         {
-            "id": 38, 
-            "topic": "Hercules"
-        }, 
+            "id": 38,
+            "topic": "Hércules"
+        },
         {
-            "id": 39, 
+            "id": 39,
             "topic": "Nancy Drew"
-        }, 
+        },
         {
-            "id": 40, 
+            "id": 40,
             "topic": "Paul Bunyan"
-        }, 
+        },
         {
-            "id": 41, 
-            "topic": "Paddington Bear"
-        }, 
+            "id": 41,
+            "topic": "Urso Paddington"
+        },
         {
-            "id": 42, 
+            "id": 42,
             "topic": "Pikachu"
-        }, 
+        },
         {
-            "id": 43, 
-            "topic": "Santa Claus"
-        }, 
+            "id": 43,
+            "topic": "Papai Noel"
+        },
         {
-            "id": 44, 
+            "id": 44,
             "topic": "Medusa"
-        }, 
+        },
         {
-            "id": 45, 
-            "topic": "Christopher Columbus"
-        }, 
+            "id": 45,
+            "topic": "Cristóvão Colombo"
+        },
         {
-            "id": 46, 
+            "id": 46,
             "topic": "Shakespeare"
-        }, 
+        },
         {
-            "id": 47, 
-            "topic": "Babar the Elephant"
-        }, 
+            "id": 47,
+            "topic": "Babar, o Elefante"
+        },
         {
-            "id": 48, 
+            "id": 48,
             "topic": "Sherlock Holmes"
-        }, 
+        },
         {
-            "id": 49, 
+            "id": 49,
             "topic": "Shrek"
-        }, 
+        },
         {
-            "id": 50, 
+            "id": 50,
             "topic": "Sigmund Freud"
-        }, 
+        },
         {
-            "id": 51, 
-            "topic": "Slenderman"
-        }, 
+            "id": 51,
+            "topic": "Homem magro"
+        },
         {
-            "id": 52, 
+            "id": 52,
             "topic": "Frankenstein"
-        }, 
+        },
         {
-            "id": 53, 
+            "id": 53,
             "topic": "Oliver Twist"
-        }, 
+        },
         {
-            "id": 54, 
-            "topic": "your mom"
-        }, 
+            "id": 54,
+            "topic": "sua mãe"
+        },
         {
-            "id": 55, 
-            "topic": "The President"
-        }, 
+            "id": 55,
+            "topic": "O presidente"
+        },
         {
-            "id": 56, 
-            "topic": "The Grinch"
-        }, 
+            "id": 56,
+            "topic": "O Grinch"
+        },
         {
-            "id": 57, 
-            "topic": "The Hulk"
-        }, 
+            "id": 57,
+            "topic": "O Hulk"
+        },
         {
-            "id": 58, 
-            "topic": "The Little Mermaid"
-        }, 
+            "id": 58,
+            "topic": "A pequena Sereia"
+        },
         {
-            "id": 59, 
-            "topic": "The Pope"
-        }, 
+            "id": 59,
+            "topic": "O Papa"
+        },
         {
-            "id": 60, 
-            "topic": "The Queen"
-        }, 
+            "id": 60,
+            "topic": "A rainha"
+        },
         {
-            "id": 61, 
-            "topic": "The Devil"
-        }, 
+            "id": 61,
+            "topic": "O diabo"
+        },
         {
-            "id": 62, 
+            "id": 62,
             "topic": "The Red M&M"
-        }, 
+        },
         {
-            "id": 63, 
+            "id": 63,
             "topic": "Chester Cheetah"
-        }, 
+        },
         {
-            "id": 64, 
+            "id": 64,
             "topic": "Vincent Van Gogh"
-        }, 
+        },
         {
-            "id": 65, 
+            "id": 65,
             "topic": "Popeye"
-        }, 
+        },
         {
-            "id": 66, 
-            "topic": "Winnie the Pooh"
-        }, 
+            "id": 66,
+            "topic": "ursinho Pooh"
+        },
         {
-            "id": 67, 
-            "topic": "Wonder Woman"
-        }, 
+            "id": 67,
+            "topic": "Mulher maravilha"
+        },
         {
-            "id": 68, 
+            "id": 68,
             "topic": "Yoda"
-        }, 
+        },
         {
-            "id": 69, 
-            "topic": "your father"
-        }, 
+            "id": 69,
+            "topic": "seu pai"
+        },
         {
-            "id": 70, 
+            "id": 70,
             "topic": "Flat Stanley"
-        }, 
+        },
         {
-            "id": 71, 
-            "topic": "Rich Uncle Pennybags"
-        }, 
+            "id": 71,
+            "topic": "Tio Rico Pennybags"
+        },
         {
-            "id": 72, 
-            "topic": "The Rock"
-        }, 
+            "id": 72,
+            "topic": "A rocha"
+        },
         {
-            "id": 73, 
+            "id": 73,
             "topic": "Albert Einstein"
-        }, 
+        },
         {
-            "id": 74, 
+            "id": 74,
             "topic": "Mario"
-        }, 
+        },
         {
-            "id": 75, 
+            "id": 75,
             "topic": "Picasso"
-        }, 
+        },
         {
-            "id": 76, 
+            "id": 76,
             "topic": "Charlie Brown"
-        }, 
+        },
         {
-            "id": 77, 
-            "topic": "Cinderella"
-        }, 
+            "id": 77,
+            "topic": "Cinderela"
+        },
         {
-            "id": 78, 
-            "topic": "Aladdin"
-        }, 
+            "id": 78,
+            "topic": "Aladim"
+        },
         {
-            "id": 79, 
+            "id": 79,
             "topic": "Gordon Ramsay"
-        }, 
+        },
         {
-            "id": 80, 
+            "id": 80,
             "topic": "Jon Snow"
-        }, 
+        },
         {
-            "id": 81, 
-            "topic": "The Babadook"
-        }, 
+            "id": 81,
+            "topic": "O babadook"
+        },
         {
-            "id": 82, 
+            "id": 82,
             "topic": "Boo Radley"
-        }, 
+        },
         {
-            "id": 83, 
+            "id": 83,
             "topic": "Willy Wonka"
-        }, 
+        },
         {
-            "id": 84, 
+            "id": 84,
             "topic": "Walter White"
-        }, 
+        },
         {
-            "id": 85, 
+            "id": 85,
             "topic": "Don Draper"
-        }, 
+        },
         {
-            "id": 86, 
+            "id": 86,
             "topic": "Peter Pan"
-        }, 
+        },
         {
-            "id": 87, 
+            "id": 87,
             "topic": "Thor"
-        }, 
+        },
         {
-            "id": 88, 
-            "topic": "The Tin Man"
-        }, 
+            "id": 88,
+            "topic": "O homem de lata"
+        },
         {
-            "id": 89, 
+            "id": 89,
             "topic": "Cleopatra"
-        }, 
+        },
         {
-            "id": 90, 
-            "topic": "Mr. Peanut"
-        }, 
+            "id": 90,
+            "topic": "Senhor amendoim"
+        },
         {
-            "id": 91, 
-            "topic": "Julius Caesar"
-        }, 
+            "id": 91,
+            "topic": "Júlio César"
+        },
         {
-            "id": 92, 
-            "topic": "The Kool-Aid Man"
-        }, 
+            "id": 92,
+            "topic": "O Homem Kool-Aid"
+        },
         {
-            "id": 93, 
+            "id": 93,
             "topic": "Jack Sparrow"
-        }, 
+        },
         {
-            "id": 94, 
-            "topic": "The Tooth Fairy"
-        }, 
+            "id": 94,
+            "topic": "A fada dos Dentes"
+        },
         {
-            "id": 95, 
-            "topic": "Bigfoot"
-        }, 
+            "id": 95,
+            "topic": "Pé Grande"
+        },
         {
-            "id": 96, 
+            "id": 96,
             "topic": "Karl Marx"
-        }, 
+        },
         {
-            "id": 97, 
+            "id": 97,
             "topic": "Leonardo da Vinci"
-        }, 
+        },
         {
-            "id": 98, 
-            "topic": "Mother Teresa"
-        }, 
+            "id": 98,
+            "topic": "Mãe Teresa"
+        },
         {
-            "id": 99, 
+            "id": 99,
             "topic": "Robin Hood"
-        }, 
+        },
         {
-            "id": 100, 
-            "topic": "The Invisible Man"
+            "id": 100,
+            "topic": "O homem invisível"
         }
     ]
 }

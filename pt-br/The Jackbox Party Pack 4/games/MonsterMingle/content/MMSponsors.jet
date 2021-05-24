@@ -1,38 +1,140 @@
 {
-    "content":[
-        {"id":1, "sponsor":"Adult Fiend Finder"},
-        {"id":2, "sponsor":"OKCthulhu"},
-        {"id":3, "sponsor":"EeeeeeHarmony"},
-        {"id":4, "sponsor":"Ghastly Madison"},
-        {"id":5, "sponsor":"Single Monsters in Your Area"},
-        {"id":6, "sponsor":"Mingle Berries"},
-        {"id":7, "sponsor":"Monstr"},
-        {"id":8, "sponsor":"Date All Monsters"},
-        {"id":9, "sponsor":"Meet Your Creature"},
-        {"id":10, "sponsor":"For Monsters Only"},
-        {"id":11, "sponsor":"Coffee Meets Bae Ghoul"},
-        {"id":12, "sponsor":"Beast Friends"},
-        {"id":13, "sponsor":"Boo-ey Call"},
-        {"id":14, "sponsor":"Booty and the Beasts"},
-        {"id":15, "sponsor":"Creature Connect"},
-        {"id":16, "sponsor":"Monster 2 Monster"},
-        {"id":17, "sponsor":"Nookie Monsters"},
-        {"id":18, "sponsor":"Sinister Suitors"},
-        {"id":19, "sponsor":"Creep Meet"},
-        {"id":20, "sponsor":"Date Night on Monster Island"},
-        {"id":21, "sponsor":"Boooooosk"},
-        {"id":22, "sponsor":"MonstrosiTease"},
-        {"id":23, "sponsor":"Monster Mates"},
-        {"id":24, "sponsor":"Date My Mummy"},
-        {"id":25, "sponsor":"EeeeeeHarmony"},
-        {"id":26, "sponsor":"It’s Just Hunch"},
-        {"id":27, "sponsor":"Gross Encounters"},
-        {"id":28, "sponsor":"Fang Finder"},
-        {"id":29, "sponsor":"Mist Connections"},
-        {"id":30, "sponsor":"Scumble"},
-        {"id":31, "sponsor":"Torch Meets Pitchfork"},
-        {"id":32, "sponsor":"CraigsCrypts"},
-        {"id":33, "sponsor":"ScareBnB"},
-        {"id":34, "sponsor":"Find Your Soulless Mate"}
+    "content": [
+        {
+            "id": 1,
+            "sponsor": "Localizador de Demônios Adultos"
+        },
+        {
+            "id": 2,
+            "sponsor": "OKCthulhu"
+        },
+        {
+            "id": 3,
+            "sponsor": "EeeeeeHarmony"
+        },
+        {
+            "id": 4,
+            "sponsor": "Ghastly Madison"
+        },
+        {
+            "id": 5,
+            "sponsor": "Monstros solteiros na sua área"
+        },
+        {
+            "id": 6,
+            "sponsor": "Misture Berries"
+        },
+        {
+            "id": 7,
+            "sponsor": "Monstr"
+        },
+        {
+            "id": 8,
+            "sponsor": "Encontro com todos os monstros"
+        },
+        {
+            "id": 9,
+            "sponsor": "Conheça sua criatura"
+        },
+        {
+            "id": 10,
+            "sponsor": "Somente para monstros"
+        },
+        {
+            "id": 11,
+            "sponsor": "Café encontra Bae Ghoul"
+        },
+        {
+            "id": 12,
+            "sponsor": "Amigos bestas"
+        },
+        {
+            "id": 13,
+            "sponsor": "Boo-ey Call"
+        },
+        {
+            "id": 14,
+            "sponsor": "Booty e as feras"
+        },
+        {
+            "id": 15,
+            "sponsor": "Creature Connect"
+        },
+        {
+            "id": 16,
+            "sponsor": "Monstro 2 Monstro"
+        },
+        {
+            "id": 17,
+            "sponsor": "Monstros Nookie"
+        },
+        {
+            "id": 18,
+            "sponsor": "Pretendentes sinistros"
+        },
+        {
+            "id": 19,
+            "sponsor": "Creep Meet"
+        },
+        {
+            "id": 20,
+            "sponsor": "Encontro à noite na Ilha dos Monstros"
+        },
+        {
+            "id": 21,
+            "sponsor": "Boooooosk"
+        },
+        {
+            "id": 22,
+            "sponsor": "MonstrosiTease"
+        },
+        {
+            "id": 23,
+            "sponsor": "Monstros Companheiros"
+        },
+        {
+            "id": 24,
+            "sponsor": "Namorar minha mamãe"
+        },
+        {
+            "id": 25,
+            "sponsor": "EeeeeeHarmony"
+        },
+        {
+            "id": 26,
+            "sponsor": "É apenas palpite"
+        },
+        {
+            "id": 27,
+            "sponsor": "Encontros brutos"
+        },
+        {
+            "id": 28,
+            "sponsor": "Fang Finder"
+        },
+        {
+            "id": 29,
+            "sponsor": "Conexões de névoa"
+        },
+        {
+            "id": 30,
+            "sponsor": "Scumble"
+        },
+        {
+            "id": 31,
+            "sponsor": "Tocha Encontra Forquilha"
+        },
+        {
+            "id": 32,
+            "sponsor": "CraigsCrypts"
+        },
+        {
+            "id": 33,
+            "sponsor": "ScareBnB"
+        },
+        {
+            "id": 34,
+            "sponsor": "Encontre seu companheiro desalmado"
+        }
     ]
 }

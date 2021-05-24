@@ -1,372 +1,372 @@
 {
     "content": [
         {
-            "id": 1, 
-            "topic": "action figure"
-        }, 
+            "id": 1,
+            "topic": "figura de ação"
+        },
         {
-            "id": 2, 
-            "topic": "air freshener"
-        }, 
+            "id": 2,
+            "topic": "purificador de ar"
+        },
         {
-            "id": 3, 
-            "topic": "alarm clock"
-        }, 
+            "id": 3,
+            "topic": "despertador"
+        },
         {
-            "id": 4, 
-            "topic": "welcome mat"
-        }, 
+            "id": 4,
+            "topic": "Bem vindo mat"
+        },
         {
-            "id": 5, 
-            "topic": "belt"
-        }, 
+            "id": 5,
+            "topic": "cinto"
+        },
         {
-            "id": 6, 
+            "id": 6,
             "topic": "bikini"
-        }, 
+        },
         {
-            "id": 7, 
-            "topic": "athletic cup"
-        }, 
+            "id": 7,
+            "topic": "copa atlética"
+        },
         {
-            "id": 8, 
-            "topic": "boomerang"
-        }, 
+            "id": 8,
+            "topic": "bumerangue"
+        },
         {
-            "id": 9, 
-            "topic": "blank canvas"
-        }, 
+            "id": 9,
+            "topic": "tela branca"
+        },
         {
-            "id": 10, 
-            "topic": "blow dryer"
-        }, 
+            "id": 10,
+            "topic": "secador de cabelo"
+        },
         {
-            "id": 11, 
-            "topic": "oboe"
-        }, 
+            "id": 11,
+            "topic": "oboé"
+        },
         {
-            "id": 12, 
-            "topic": "bookshelf"
-        }, 
+            "id": 12,
+            "topic": "estante de livros"
+        },
         {
-            "id": 13, 
-            "topic": "cactus"
-        }, 
+            "id": 13,
+            "topic": "cacto"
+        },
         {
-            "id": 14, 
-            "topic": "catapult"
-        }, 
+            "id": 14,
+            "topic": "catapulta"
+        },
         {
-            "id": 15, 
-            "topic": "laser pointer"
-        }, 
+            "id": 15,
+            "topic": "ponteiro laser"
+        },
         {
-            "id": 16, 
-            "topic": "succulent"
-        }, 
+            "id": 16,
+            "topic": "suculento"
+        },
         {
-            "id": 17, 
-            "topic": "romper"
-        }, 
+            "id": 17,
+            "topic": "brincalhão"
+        },
         {
-            "id": 18, 
-            "topic": "crib"
-        }, 
+            "id": 18,
+            "topic": "berço"
+        },
         {
-            "id": 19, 
-            "topic": "calendar"
-        }, 
+            "id": 19,
+            "topic": "calendário"
+        },
         {
-            "id": 20, 
-            "topic": "deck of cards"
-        }, 
+            "id": 20,
+            "topic": "baralho de cartas"
+        },
         {
-            "id": 21, 
-            "topic": "bidet"
-        }, 
+            "id": 21,
+            "topic": "bidê"
+        },
         {
-            "id": 22, 
-            "topic": "dream journal"
-        }, 
+            "id": 22,
+            "topic": "diário de sonho"
+        },
         {
-            "id": 23, 
-            "topic": "drum kit"
-        }, 
+            "id": 23,
+            "topic": "kit de bateria"
+        },
         {
-            "id": 24, 
-            "topic": "dry erase board"
-        }, 
+            "id": 24,
+            "topic": "quadro branco"
+        },
         {
-            "id": 25, 
-            "topic": "duct tape"
-        }, 
+            "id": 25,
+            "topic": "fita adesiva"
+        },
         {
-            "id": 26, 
+            "id": 26,
             "topic": "didgeridoo"
-        }, 
+        },
         {
-            "id": 27, 
-            "topic": "fanny pack"
-        }, 
+            "id": 27,
+            "topic": "pochete"
+        },
         {
-            "id": 28, 
+            "id": 28,
             "topic": "fedora"
-        }, 
+        },
         {
-            "id": 29, 
-            "topic": "body pillow"
-        }, 
+            "id": 29,
+            "topic": "travesseiro de corpo"
+        },
         {
-            "id": 30, 
-            "topic": "flash drive"
-        }, 
+            "id": 30,
+            "topic": "Flash drive"
+        },
         {
-            "id": 31, 
+            "id": 31,
             "topic": "flip phone"
-        }, 
+        },
         {
-            "id": 32, 
-            "topic": "floppy disc"
-        }, 
+            "id": 32,
+            "topic": "Disquete"
+        },
         {
-            "id": 33, 
-            "topic": "full-length mirror"
-        }, 
+            "id": 33,
+            "topic": "Espelho de corpo inteiro"
+        },
         {
-            "id": 34, 
-            "topic": "guillotine"
-        }, 
+            "id": 34,
+            "topic": "guilhotina"
+        },
         {
-            "id": 35, 
-            "topic": "hammer"
-        }, 
+            "id": 35,
+            "topic": "martelo"
+        },
         {
-            "id": 36, 
-            "topic": "pajamas"
-        }, 
+            "id": 36,
+            "topic": "pijamas"
+        },
         {
-            "id": 37, 
-            "topic": "hoverboard"
-        }, 
+            "id": 37,
+            "topic": "prancha"
+        },
         {
-            "id": 38, 
-            "topic": "hula hoop"
-        }, 
+            "id": 38,
+            "topic": "bambolê"
+        },
         {
-            "id": 39, 
+            "id": 39,
             "topic": "jacuzzi"
-        }, 
+        },
         {
-            "id": 40, 
-            "topic": "jetpack"
-        }, 
+            "id": 40,
+            "topic": "mochila a jato"
+        },
         {
-            "id": 41, 
-            "topic": "jump rope"
-        }, 
+            "id": 41,
+            "topic": "pular corda"
+        },
         {
-            "id": 42, 
-            "topic": "kayak"
-        }, 
+            "id": 42,
+            "topic": "caiaque"
+        },
         {
-            "id": 43, 
-            "topic": "lasso"
-        }, 
+            "id": 43,
+            "topic": "laço"
+        },
         {
-            "id": 44, 
-            "topic": "magic wand"
-        }, 
+            "id": 44,
+            "topic": "varinha mágica"
+        },
         {
-            "id": 45, 
-            "topic": "electric scooter"
-        }, 
+            "id": 45,
+            "topic": "scooter eletrica"
+        },
         {
-            "id": 46, 
-            "topic": "microwave"
-        }, 
+            "id": 46,
+            "topic": "microondas"
+        },
         {
-            "id": 47, 
-            "topic": "motorcycle"
-        }, 
+            "id": 47,
+            "topic": "motocicleta"
+        },
         {
-            "id": 48, 
-            "topic": "thesaurus"
-        }, 
+            "id": 48,
+            "topic": "enciclopédia"
+        },
         {
-            "id": 49, 
-            "topic": "polo shirt"
-        }, 
+            "id": 49,
+            "topic": "camisa polo"
+        },
         {
-            "id": 50, 
-            "topic": "turtleneck sweater"
-        }, 
+            "id": 50,
+            "topic": "suéter de gola alta"
+        },
         {
-            "id": 51, 
-            "topic": "karaoke machine"
-        }, 
+            "id": 51,
+            "topic": "máquina de karaokê"
+        },
         {
-            "id": 52, 
-            "topic": "puzzle"
-        }, 
+            "id": 52,
+            "topic": "quebra-cabeça"
+        },
         {
-            "id": 53, 
-            "topic": "revolving door"
-        }, 
+            "id": 53,
+            "topic": "porta giratória"
+        },
         {
-            "id": 54, 
-            "topic": "massage chair"
-        }, 
+            "id": 54,
+            "topic": "cadeira de massagem"
+        },
         {
-            "id": 55, 
-            "topic": "rotary phone"
-        }, 
+            "id": 55,
+            "topic": "telefone rotativo"
+        },
         {
-            "id": 56, 
-            "topic": "selfie stick"
-        }, 
+            "id": 56,
+            "topic": "bastão de selfie"
+        },
         {
-            "id": 57, 
+            "id": 57,
             "topic": "smoothie"
-        }, 
+        },
         {
-            "id": 58, 
-            "topic": "snowman"
-        }, 
+            "id": 58,
+            "topic": "boneco de neve"
+        },
         {
-            "id": 59, 
-            "topic": "spare tire"
-        }, 
+            "id": 59,
+            "topic": "pneu reserva"
+        },
         {
-            "id": 60, 
-            "topic": "spatula"
-        }, 
+            "id": 60,
+            "topic": "espátula"
+        },
         {
-            "id": 61, 
-            "topic": "talisman"
-        }, 
+            "id": 61,
+            "topic": "talismã"
+        },
         {
-            "id": 62, 
-            "topic": "tank top"
-        }, 
+            "id": 62,
+            "topic": "regata"
+        },
         {
-            "id": 63, 
-            "topic": "tea bag"
-        }, 
+            "id": 63,
+            "topic": "chá em saquinho"
+        },
         {
-            "id": 64, 
-            "topic": "throw pillow"
-        }, 
+            "id": 64,
+            "topic": "almofada"
+        },
         {
-            "id": 65, 
-            "topic": "toilet paper"
-        }, 
+            "id": 65,
+            "topic": "papel higiênico"
+        },
         {
-            "id": 66, 
-            "topic": "toilet plunger"
-        }, 
+            "id": 66,
+            "topic": "desentupidor de vaso sanitário"
+        },
         {
-            "id": 67, 
-            "topic": "treadmill"
-        }, 
+            "id": 67,
+            "topic": "esteira"
+        },
         {
-            "id": 68, 
-            "topic": "urn"
-        }, 
+            "id": 68,
+            "topic": "urna"
+        },
         {
-            "id": 69, 
-            "topic": "memory foam pillow"
-        }, 
+            "id": 69,
+            "topic": "travesseiro de espuma viscoelástica"
+        },
         {
-            "id": 70, 
-            "topic": "calendar"
-        }, 
+            "id": 70,
+            "topic": "calendário"
+        },
         {
-            "id": 71, 
-            "topic": "weighted blanket"
-        }, 
+            "id": 71,
+            "topic": "cobertor pesado"
+        },
         {
-            "id": 72, 
-            "topic": "welcome mat"
-        }, 
+            "id": 72,
+            "topic": "Bem vindo mat"
+        },
         {
-            "id": 73, 
-            "topic": "yo-yo"
-        }, 
+            "id": 73,
+            "topic": "iô-iô"
+        },
         {
-            "id": 74, 
-            "topic": "Himalyan salt lamp"
-        }, 
+            "id": 74,
+            "topic": "Lâmpada de sal de Himalyan"
+        },
         {
-            "id": 75, 
-            "topic": "dish sponge"
-        }, 
+            "id": 75,
+            "topic": "esponja de prato"
+        },
         {
-            "id": 76, 
-            "topic": "slow cooker"
-        }, 
+            "id": 76,
+            "topic": "fogão lento"
+        },
         {
-            "id": 77, 
-            "topic": "toaster oven"
-        }, 
+            "id": 77,
+            "topic": "torradeira"
+        },
         {
-            "id": 78, 
-            "topic": "eye shadow"
-        }, 
+            "id": 78,
+            "topic": "sombra"
+        },
         {
-            "id": 79, 
-            "topic": "smart speaker"
-        }, 
+            "id": 79,
+            "topic": "alto-falante inteligente"
+        },
         {
-            "id": 80, 
-            "topic": "leather jacket"
-        }, 
+            "id": 80,
+            "topic": "jaqueta de couro"
+        },
         {
-            "id": 81, 
-            "topic": "plastic bag"
-        }, 
+            "id": 81,
+            "topic": "saco de plástico"
+        },
         {
-            "id": 82, 
-            "topic": "pool noodle"
-        }, 
+            "id": 82,
+            "topic": "macarrão de piscina"
+        },
         {
-            "id": 83, 
+            "id": 83,
             "topic": "spork"
-        }, 
+        },
         {
-            "id": 84, 
-            "topic": "baby doll"
-        }, 
+            "id": 84,
+            "topic": "Baby doll"
+        },
         {
-            "id": 85, 
-            "topic": "sticky note"
-        }, 
+            "id": 85,
+            "topic": "notas adesivas"
+        },
         {
-            "id": 86, 
-            "topic": "chewing gum"
-        }, 
+            "id": 86,
+            "topic": "goma de mascar"
+        },
         {
-            "id": 87, 
-            "topic": "credit card"
-        }, 
+            "id": 87,
+            "topic": "Cartão de crédito"
+        },
         {
-            "id": 88, 
-            "topic": "tricycle"
-        }, 
+            "id": 88,
+            "topic": "triciclo"
+        },
         {
-            "id": 89, 
-            "topic": "trash can"
-        }, 
+            "id": 89,
+            "topic": "cesto de lixo"
+        },
         {
-            "id": 90, 
-            "topic": "flashlight"
-        }, 
+            "id": 90,
+            "topic": "lanterna"
+        },
         {
-            "id": 91, 
-            "topic": "feather boa"
-        }, 
+            "id": 91,
+            "topic": "boá de penas"
+        },
         {
-            "id": 92, 
-            "topic": "robot vacuum"
+            "id": 92,
+            "topic": "aspirador de robô"
         }
     ]
 }

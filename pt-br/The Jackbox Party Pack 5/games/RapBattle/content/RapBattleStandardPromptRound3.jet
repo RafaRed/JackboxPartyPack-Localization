@@ -1,1 +1,4391 @@
-{"episodeid":1357,"content":[{"a":{"examples":["Dad","sister","cousin"],"text":"I ain\u2019t afraid, just bring it, <BLANK>.","type":"noun - a family member"},"gene":["nephew","It\u2019s an offer you can\u2019t ref. use."],"x":false,"id":50588},{"a":{"examples":["answer back","respond","clarify"],"text":"Back yourself up and watch me <BLANK>.","type":"verb - synonym for 'retort'"},"gene":["retort","If I laugh, I hope I don\u2019t snort."],"x":false,"id":50589},{"a":{"examples":["help","trade","swing"],"text":"I ain\u2019t sure what you\u2019re trying to <BLANK>.","type":"verb"},"gene":["relate","But I\u2019d still join you for a lunch date."],"x":false,"id":50590},{"a":{"examples":["told","seated","melted"],"text":"Go and tell your mama that you got <BLANK>.","type":"verb ending w/ -ed"},"gene":["smelled","I prefer Corey Haim to Corey Feld. man."],"x":true,"id":50591},{"a":{"examples":["out","upon","into"],"text":"You attack me, you get messed <BLANK>.","type":"preposition"},"gene":["through","Wish I could be adopted by Felonius Gru."],"x":false,"id":50592},{"a":{"examples":["minute","second","year"],"text":"Hold up now, just wait a <BLANK>.","type":"noun - unit of time"},"gene":["millennia","You thought nothing rhymes with that, dinya?"],"x":false,"id":50593},{"a":{"examples":["turtle","pancake","truck"],"text":"It\u2019s such a shame that you rhyme like a <BLANK>.","type":"singular noun"},"gene":["yeti","Maybe practice more and come back when you\u2019re ready?"],"x":false,"id":52750},{"a":{"examples":["guy","ham","soda"],"text":"I got you a hat that says \u2018World\u2019s Worst <BLANK>.\u2019","type":"singular noun"},"gene":["freeway","But I\u2019ll take you cause I have the car today."],"x":false,"id":52990},{"a":{"examples":["hail storm","downpour","tsunami"],"text":"You look like you got caught in a <BLANK>.","type":"singular noun - weather event"},"gene":["existential crisis","You should read Sartre. His books are priceless."],"x":false,"id":52785},{"a":{"examples":["Jell-O","bamboo","cement"],"text":"You don\u2019t have flow it\u2019s more like <BLANK>.","type":"noun - a thick substance"},"gene":["satin bedding","If you\u2019re looking it\u2019s a nice gift for weddings."],"x":false,"id":52790},{"a":{"examples":["shed","county","town"],"text":"Hey, kid, get out of my <BLANK>.","type":"common noun - a place"},"gene":["closet","If you need a pee break, we can pause it."],"x":true,"id":50594},{"a":{"examples":["trash","debris","junk"],"text":"Your rhymes are like a patchwork of <BLANK>.","type":"noun - synonym for 'garbage'"},"gene":["rubbish","If I eat too much red meat then I feel sluggish."],"x":false,"id":53003},{"a":{"examples":["cheater","skunk","dishonest guy"],"text":"I\u2019ve got to be honest you\u2019re a huge <BLANK>.","type":"noun - synonym for 'liar'"},"gene":["weasel","I\u2019m a humble clerk just peddling diesel."],"x":false,"id":53001},{"a":{"examples":["New Orleans","Nevada","Nambia"],"text":"I\u2019m taking you down like a train to <BLANK>.","type":"proper noun - a place south of you"},"gene":["Clarksville","Meet me at the station."],"x":false,"id":52941},{"a":{"examples":["slither","bite","suck"],"text":"You could write a book called \u2018How To <BLANK>.\u2019","type":"verb - what a snake does"},"gene":["Lie","I\u2019ll write a book called \u2018Ask a Nice Guy!\u2019"],"x":false,"id":53002},{"a":{"examples":["spaghetti","mud","plaster"],"text":"Your words are a mess like you wrote with <BLANK>.","type":"noun - a messy substance"},"gene":["shredded cheese","And it\u2019s making me hungry. You\u2019re such a tease."],"x":false,"id":52600},{"a":{"examples":["burgers","Pop-Tarts","rice"],"text":"Your rhymes are tasteless like overcooked <BLANK>.","type":"plural noun - foods"},"gene":["Popsicles","I\u2019ll accept a hug if you promise not to tickle."],"x":false,"id":53075},{"a":{"examples":["spoiled","broken","outdated"],"text":"Your brand is expired. You\u2019re way too <BLANK>.","type":"negative adjective"},"gene":["eggy","My third favorite aunt is Peggy."],"x":false,"id":53074},{"a":{"examples":["fist","knee","feet"],"text":"I won\u2019t give you the finger I\u2019ll give you the <BLANK>.","type":"noun - body part"},"gene":["buttocks","That\u2019s a word that nearly rhymes with \u2018deluxe.\u2019"],"x":true,"id":52594},{"a":{"examples":["hair dryer","bed","taco"],"text":"I need you like a fish needs a <BLANK>.","type":"singular noun"},"gene":["potato chip","Take them away from me! They go to my hips!"],"x":false,"id":52602},{"a":{"examples":["C 3 P O","Darth Vader","Jar Jar Binks"],"text":"In the Star Wars universe you\u2019d be <BLANK>.","type":"proper noun - Star Wars character"},"gene":["a Wookie","I put money down on that, with my bookie."],"x":false,"id":52597},{"a":{"examples":["knee","torso","armpit"],"text":"Feel that pain? That\u2019s me kicking your <BLANK>.","type":"noun - body part"},"gene":["glands","I\u2019m being careful none of them actually lands."],"x":false,"id":52992},{"a":{"examples":["insolent","bratty","foolish"],"text":"Last night in bed your mom told me u were <BLANK>.","type":"negative adjective"},"gene":["a high school debater","If I knew she was your mom, I would not date her."],"x":true,"id":52795},{"a":{"examples":["butler","valet","toilet flusher"],"text":"You might make a good personal <BLANK>.","type":"noun - a service job"},"gene":["executive assistant","A hard job to find. Gotta be persistent."],"x":false,"id":52598},{"a":{"examples":["birthday party","wedding","graduation"],"text":"Where do you think you are? A <BLANK>?","type":"singular noun - an event"},"gene":["cotillion","Lots of words rhyme with that. I got a million."],"x":false,"id":52991},{"a":{"examples":["saltine","doorknob","rock"],"text":"Did anyone tell you that you\u2019re a <BLANK>?","type":"singular noun - bland or boring thing"},"gene":["dryer sheet","You smell kinda good and stick to my feet."],"x":false,"id":52601},{"a":{"examples":["puppy","flower","twig"],"text":"Your game is weak. It couldn\u2019t hurt a <BLANK>.","type":"singular noun - small living thing"},"gene":["tick","Is there one on me? I feel kinda sick."],"x":false,"id":52994},{"a":{"examples":["smooshed","asked","smacked"],"text":"Step aside \u2018cause you\u2019re gonna get <BLANK>.","type":"verb ending in -ed"},"gene":["distilled","Or not. Everyone has got free will."],"x":false,"id":52989},{"a":{"examples":["sideways","upside down","90 degrees"],"text":"My angle is to turn you <BLANK>.","type":"adverb"},"gene":["inside out","There\u2019s literally no way you could survive that."],"x":false,"id":52794},{"a":{"examples":["erectile dysfunction pills","weight loss diets","credit cards"],"text":"Your rhymes are like ads for <BLANK>.","type":"plural noun - lame product"},"gene":["Christmas ornaments","I play tennis but I don\u2019t enter tournaments."],"x":true,"id":52913},{"a":{"examples":["kitten","sponge","bunny"],"text":"I\u2019m not afraid of you. You\u2019re like a <BLANK>.","type":"singular noun - a harmless thing"},"gene":["cloud","Just promise me you won\u2019t get too loud."],"x":false,"id":52988},{"a":{"examples":["bowl","lime","bag of chips"],"text":"Your head is as empty, as a <BLANK>.","type":"singular noun - last thing you purchased"},"gene":["crate of radishes","My heart is full as a sack full of cabbages."],"x":false,"id":52942},{"a":{"examples":["two","three","four"],"text":"I\u2019m one in a million. You\u2019re one in <BLANK>.","type":"a small number"},"gene":["a handful","Like finding an Action Comics number 1 in a landfill."],"x":false,"id":52878},{"a":{"examples":["grandma","uncle","cousin"],"text":"Step off before I hook up with your <BLANK>.","type":"common noun - family member"},"gene":["elderly aunt Jan","I love her wig and year-round Florida tan."],"x":true,"id":52943},{"a":{"examples":["harmed","busted","bruised"],"text":"You might want to slow down before you get <BLANK>.","type":"adjective - synonym for 'hurt'"},"gene":["manhandled","Speaking of which I gotta get better sandals."],"x":false,"id":52599},{"a":{"examples":["takes home","notices","loves"],"text":"You\u2019re like a shelter puppy that nobody <BLANK>.","type":"verb ending w/ -s"},"gene":["gives snacks to","I find Enya\u2019s music, easy to relax to."],"x":false,"id":52910},{"a":{"examples":["dude","customer","client"],"text":"You\u2019re messin\u2019 with the wrong <BLANK>.","type":"common noun - a person"},"gene":["guy","Just kidding! I wouldn\u2019t hurt a fly!"],"x":false,"id":50597},{"a":{"examples":["Taco Bell","Chipotle","Chick-Fil-a"],"text":"You get less hype than the grand opening of a <BLANK>.","type":"proper noun - fast food chain"},"gene":["Olive Garden","You don\u2019t like flowers? I beg your pardon?"],"x":false,"id":52912},{"a":{"examples":["chuckle","snort","giggle"],"text":"All of your rhymes make me want to <BLANK>.","type":"verb - synonym for 'laugh'"},"gene":["teehee","If you need more practice, I\u2019m usually free."],"x":false,"id":52650},{"a":{"examples":["poster","mural","deer head"],"text":"I\u2019m taking you down like an ugly <BLANK>.","type":"singular noun - a decoration"},"gene":["painting of a clown","Tomorrow\u2019s my first trip to Chinatown!"],"x":false,"id":51092},{"a":{"examples":["cave","cage","foxhole"],"text":"My punchline\u2019s comin\u2019. Better hide in a <BLANK>.","type":"singular common noun - safe place"},"gene":["synagogue","At some state fairs, you can win a dog."],"x":false,"id":52792},{"a":{"examples":["jump","choke","text"],"text":"Your flow is jammed better give it a <BLANK>.","type":"verb - single syllable"},"gene":["poke","I always laugh in groups when I don\u2019t get the joke."],"x":false,"id":52431},{"a":{"examples":["sick","afraid","freaked"],"text":"I\u2019m cooking up bars that\u2019ll make you <BLANK>.","type":"negative adjective"},"gene":["shvitz","Followed by your need to move your bowels."],"x":true,"id":52791},{"a":{"examples":["gutter","manhole","dark alley"],"text":"I\u2019d usually expect to find you in a <BLANK>.","type":"noun - an awful place"},"gene":["cold December","You prefer the cold to the heat, as I remember."],"x":false,"id":52596},{"a":{"examples":["trash","stones","Gobstoppers"],"text":"It\u2019s hard not to choke when your rhymes are <BLANK>.","type":"noun - something hard to swallow"},"gene":["very thick pie","I mean, do I even need to explain why?"],"x":false,"id":52793},{"a":{"examples":["hole","nostril","aperture"],"text":"Listen now, and shut your <BLANK>.","type":"common noun -  an opening or orifice"},"gene":["vent","Can\u2019t believe the direction you guys went."],"x":true,"id":50599},{"a":{"examples":["fawn","porcupine","frog"],"text":"You\u2019re a beastly bear I\u2019m an elegant <BLANK>.","type":"singular noun - animal"},"gene":["rat","And I ride on your head like a little bear hat."],"x":false,"id":52877},{"a":{"examples":["canvas","loser","comic relief"],"text":"In professional wrestling you\u2019d be the <BLANK>.","type":"noun - something that gets pounded in wrestling"},"gene":["Ric Flair","He was the Nature Boy, in case you care."],"x":false,"id":52786},{"a":{"examples":["suburban","stained","so yesterday"],"text":"Your wordplay is wack your threads are <BLANK>.","type":"negative adjective"},"gene":["periwinkle","Excuse me while I take a rap battle tinkle."],"x":false,"id":52789},{"a":{"examples":["cookie","house","trophy"],"text":"That\u2019s how you do?  Let me get you a <BLANK>.","type":"singular noun - an object"},"gene":["futon","I\u2019m saying it was bad and u have to lie down."],"x":false,"id":52441},{"a":{"examples":["dusk","3 a.m.","dinner time"],"text":"You\u2019re as useful as solar panels at <BLANK>.","type":"noun - dark time of day"},"gene":["Lowe\u2019s Hardware","It stands to reason, I\u2019d find you there."],"x":false,"id":52787},{"a":{"examples":["dust","dirt","mold"],"text":"You have an empty trophy case collectin\u2019 <BLANK>.","type":"noun - term for 'dirt'"},"gene":["string","I still say braces are a cool form of bling."],"x":false,"id":52703},{"a":{"examples":["mow","sweep","scrub"],"text":"Are you finished yet? I gotta go <BLANK>.","type":"verb"},"gene":["starch","I gotta say it was an unseasonably cold March."],"x":false,"id":52751},{"a":{"examples":["watch","motorcycle","vase"],"text":"Your face is so ugly you broke my <BLANK>.","type":"noun - breakable thing"},"gene":["heart","Why fall in love when we\u2019ll just fall apart?"],"x":false,"id":52705},{"a":{"examples":["shoplifting","arson","tax fraud"],"text":"You say you kill verses but you just commit <BLANK>.","type":"singular noun - a crime"},"gene":["voter fraud","The key to a green yard is using good sod."],"x":false,"id":52704},{"a":{"examples":["stinky","noxious","repulsive"],"text":"It\u2019s hard to breathe cause your raps are <BLANK>.","type":"adjective - synonym for 'nasty'"},"gene":["heinous","But I\u2019ll change my mind if you become famous."],"x":false,"id":52755},{"a":{"examples":["Waste Management","Orkin","State Farm"],"text":"Forget Ghostbusters for you I\u2019d call <BLANK>.","type":"proper noun - a business"},"gene":["robot repair","All I\u2019m saying is, I care."],"x":false,"id":52479},{"a":{"examples":["euros","kroner","glass beads"],"text":"I\u2019m gonna school you tuition\u2019s one billion <BLANK>.","type":"plural noun - a type of currency"},"gene":["yen","Class starts right now, grab a notebook and pen."],"x":false,"id":52549},{"a":{"examples":["glass of water","cheeseburger","two-pound weight"],"text":"You can\u2019t be trusted to carry a <BLANK>.","type":"singular noun"},"gene":["hors d\u2019ouevre tray","I\u2019m sure catering\u2019s, not your thing anyway."],"x":false,"id":52477},{"a":{"examples":["QVC","\u2019Baywatch\u2019","\u2019Gone with the Wind\u2019"],"text":"You\u2019re, more boring than <BLANK>.","type":"movie/TV show/network"},"gene":["\u2019Tinker Tailor Soldier Spy\u2019","Honestly, I wanted to like it. I tried."],"x":false,"id":52511},{"a":{"examples":["bank","school","car wash"],"text":"Just put on your coat and run to the <BLANK>.","type":"singular noun - location"},"gene":["Gap","And while you are there, will you get me a new cap?"],"x":false,"id":52752},{"a":{"examples":["cruel","old","sinister"],"text":"I heard what you said about me! You are <BLANK>!","type":"negative adjective"},"gene":["gorgeous","Let\u2019s go on a promenade, you me and my corgis."],"x":false,"id":52547},{"a":{"examples":["glacial","listless","chill"],"text":"Dang your last rhyme was pathetic and <BLANK>.","type":"adjective - synonym for 'slow'"},"gene":["lethargic","What were you, frozen in the Arctic? haha"],"x":false,"id":52509},{"a":{"examples":["creamed","stomped","jumped"],"text":"Step to me and you\u2019re gonna get <BLANK>.","type":"verb ending w/ -ed"},"gene":["spoiled","I\u2019ll give you a massage with my feet all oiled."],"x":true,"id":52499},{"a":{"examples":["cool","blue","refreshing"],"text":"I miss the days, when you were <BLANK>.","type":"adjective - describe a pool"},"gene":["Olympic-sized","Now you\u2019re so tiny, it\u2019s uncivilized.\u2019"],"x":false,"id":52510},{"a":{"examples":["candy dish","pancake","yo-yo"],"text":"I\u2019m hunting for trophies but you\u2019re just a <BLANK>.","type":"singular noun - small object"},"gene":["shrimp","When I make patterned skirts, I always screw up the crimp."],"x":false,"id":52702},{"a":{"examples":["Drake","Phil Collins","Insane Clown Posse"],"text":"Listen to you? I\u2019d rather listen to <BLANK>.","type":"proper noun - a bad musician/singer"},"gene":["Creed","I love Creed and I\u2019ve been meaning to dive back in!"],"x":false,"id":52513},{"a":{"examples":["courage","generosity","beauty"],"text":"Take a deep breath I\u2019m \u2018bout to wreck your <BLANK>.","type":"abstract noun"},"gene":["education","Let me begin with this insane Marx quotation."],"x":false,"id":52500},{"a":{"examples":["cute","kind","generous"],"text":"Forget about it I\u2019m through bein\u2019 <BLANK>.","type":"positive adjective"},"gene":["doughy","My favorite character on \u2018Friends\u2019 was Joey."],"x":false,"id":50600},{"a":{"examples":["soup","noodles","breadsticks"],"text":"You came for me now I\u2019m comin\u2019 for your <BLANK>","type":"noun - thing found in a pantry"},"gene":["cereal","I\u2019ll lick it off the floor, the dirt\u2019s immaterial."],"x":false,"id":52498},{"a":{"examples":["ladder","flotation device","swimsuit"],"text":"In the human gene pool you\u2019re the <BLANK>.","type":"common noun - thing found in a pool"},"gene":["shark","You\u2019re the reason I don\u2019t swim in the dark."],"x":false,"id":52481},{"a":{"examples":["stale","drab","vapid"],"text":"I\u2019m falling asleep. Your verses are <BLANK>.","type":"adjective - synonym for 'boring'"},"gene":["plebeian","So I close my eyes and dream of the Caribbean."],"x":false,"id":52442},{"a":{"examples":["pencil","horse","drapes"],"text":"Your mama\u2019s so dumb she says \u2018rap\u2019 rhymes with <BLANK>.","type":"a word that doesn't rhyme with rap"},"gene":["trap","Oh dang. I just fell into one."],"x":true,"id":52480},{"a":{"examples":["snakes","maggots","garbage"],"text":"Staring at your face is like staring at <BLANK>.","type":"plural noun - ugly things"},"gene":["dangers","My fifth favorite baseball team is the Texas Rangers."],"x":false,"id":52483},{"a":{"examples":["Sprite","water","milkshake"],"text":"If you were dying of thirst I wouldn\u2019t give you a <BLANK>.","type":"singular noun - beverage"},"gene":["whiskey","Under the circumstances, it would be risky."],"x":true,"id":52478},{"a":{"examples":["jerks","thieves","monsters"],"text":"I can\u2019t hear what you say I\u2019m deaf to <BLANK>.","type":"plural noun - terrible things"},"gene":["puns","I never skip the bakery so I\u2019ve got big buns."],"x":true,"id":51861},{"a":{"examples":["bike","car","sailboat"],"text":"Trying to keep up? Let me get you a <BLANK>.","type":"singular noun - vehicle"},"gene":["tractor trailer","I\u2019m over here browsing my local grocery mailer."],"x":false,"id":52443},{"a":{"examples":["doctor","nurse","surgeon"],"text":"You fail so bad they had to call a <BLANK>.","type":"common noun - medical professional"},"gene":["specialist","Just so you know, I document every diss."],"x":false,"id":52439},{"a":{"examples":["around","down","over"],"text":"Nobody\u2019s, gonna, push me <BLANK>.","type":"preposition"},"gene":["through","Unless it\u2019s a haunted house. Then please do!"],"x":false,"id":50601},{"a":{"examples":["noodles","wet hair","tortillas"],"text":"Your rhymes are limp as a bucket of <BLANK>.","type":"plural noun - floppy things"},"gene":["mixed greens","Did you notice I\u2019m wearing my high school jeans?"],"x":true,"id":52214},{"a":{"examples":["lunch","necklace","birdhouse"],"text":"Your raps are dying time to dig your own <BLANK>.","type":"noun - thing you make"},"gene":["baby","When I do CrossFit, I blast \u2018Call Me Maybe.\u2019"],"x":false,"id":52424},{"a":{"examples":["house","car","toes"],"text":"You hurt my feelings I\u2019ll crush your <BLANK>.","type":"noun - a possession"},"gene":["grape","That\u2019s what happens when Gene. Goes. Ape."],"x":false,"id":52400},{"a":{"examples":["brave","cool","tough"],"text":"Come get some if you think you\u2019re <BLANK>.","type":"positive adjective"},"gene":["special","It seems I always fold under pressure."],"x":false,"id":52693},{"a":{"examples":["shoes","pets","homework"],"text":"You call me a failure but I\u2019ve seen your <BLANK>.","type":"plural common noun"},"gene":["debt","Trying investing in pork it\u2019s always a safe bet."],"x":false,"id":52080},{"a":{"examples":["north","sideways","up"],"text":"If I saw you online I would swipe <BLANK>.","type":"noun - a direction"},"gene":["slant","That means u be my mentor I\u2019ll be your aunt."],"x":true,"id":52397},{"a":{"examples":["intern","C O O","supervisor"],"text":"You\u2019re not the boss of me not even my <BLANK>.","type":"noun - official job title"},"gene":["H R Director","She works hard. That\u2019s why I respect her."],"x":false,"id":50602},{"a":{"examples":["grits","pancakes","bacon"],"text":"That\u2019s what you have to say? Well kiss my <BLANK>.","type":"plural noun - breakfast food"},"gene":["parfaits","Which I only treat myself to on birthdays."],"x":true,"id":52217},{"a":{"examples":["silently","fast","monstrously"],"text":"You run your mouth I choose my words <BLANK>.","type":"adverb"},"gene":["randomly","I don\u2019t use my name to answer surveys candidly."],"x":false,"id":51917},{"a":{"examples":["teaching","rolling","caressing"],"text":"You\u2019re down for the count so better stop <BLANK>.","type":"verb - ending in -ing"},"gene":["toiling","I\u2019m not whistling at you, my tea is just boiling."],"x":false,"id":52079},{"a":{"examples":["fork","dish rag","pan"],"text":"I heard what you said, that\u2019s the last <BLANK>.","type":"noun - kitchen utensil"},"gene":["roll of foil","Help me wrap my sandwich or it\u2019ll spoil."],"x":false,"id":52129},{"a":{"examples":["\u2019JAG\u2019","\u2019Kevin Can Wait\u2019","\u2019Two and a Half Men\u2019"],"text":"You\u2019re lamer than a season of <BLANK>.","type":"proper noun - bad TV show"},"gene":["\u2019Murphy Brown\u2019","Actually I like that show. Miles is such a clown!"],"x":false,"id":50604},{"a":{"examples":["socks","shoes","pajamas"],"text":"You try to match wits but can only match <BLANK>.","type":"plural noun - paired things"},"gene":["knitting needles","My apartment buzzes cuz it\u2019s full of beetles."],"x":false,"id":52216},{"a":{"examples":["heart","lungs","foot"],"text":"Clack clack clack! go my heels on your <BLANK>.","type":"noun - a body part"},"gene":["thigh","Did I stab you I\u2019m sorry, shoot, are you okay?"],"x":false,"id":51900},{"a":{"examples":["crazy","weird","intense"],"text":"On your knees, before I get <BLANK>.","type":"negative adjective"},"gene":["nuts","I\u2019m good at this rapping! I\u2019m owning your butts!"],"x":true,"id":52392},{"a":{"examples":["explode","jump kick","break"],"text":"Try and hold me down I\u2019ll still <BLANK>.","type":"verb"},"gene":["judo throw","I binge on Swedish Fish when I\u2019m feeling low."],"x":false,"id":51920},{"a":{"examples":["cold","itchy","buggy"],"text":"Dropping the mic cuz your hands are too <BLANK>.","type":"negative adjective"},"gene":["gloved","I lost a pair of mittens I just loved."],"x":false,"id":52082},{"a":{"examples":["buzzing","squawking","crunching"],"text":"You don\u2019t talk the talk. All I hear is <BLANK>.","type":"noun - synonym for 'talking'"},"gene":["screeching","\u2019Don\u2019t talk to strangers\u2019 is a rule worth teaching."],"x":false,"id":52021},{"a":{"examples":["despair","pain","agony"],"text":"I\u2019m gonna put your sorry ass in a cone of <BLANK>.","type":"noun - unpleasant mental state"},"gene":["ice cream","Hope you like Ben and Jerry\u2019s Americone Dream."],"x":true,"id":52151},{"a":{"examples":["aardvarks","ponies","bats"],"text":"What\u2019s wrong with you? Were you raised by <BLANK>?","type":"plural noun- type of animal"},"gene":["armadillos","I\u2019ve taken up a hobby, embroidering pillows!"],"x":false,"id":52390},{"a":{"examples":["gross","weak","loud"],"text":"I wanted a challenge but you\u2019re way too <BLANK>.","type":"negative adjective"},"gene":["funky","I really hate these jeans. Do I look chunky?"],"x":false,"id":51918},{"a":{"examples":["vests","dogs","grandpas"],"text":"The things I despise more than you are <BLANK>.","type":"plural noun"},"gene":["caves","There\u2019s nothing to do in caves."],"x":false,"id":52127},{"a":{"examples":["building","boating","crowing"],"text":"I\u2019ve taken your worst and I\u2019m still <BLANK>.","type":"verb - ending in -ing"},"gene":["crying","They say words don\u2019t hurt, but they were lying."],"x":false,"id":51919},{"a":{"examples":["skill","rhythm","style"],"text":"This ain\u2019t for people who got no <BLANK>.","type":"noun - synonym for 'ability'"},"gene":["hops","My dad doesn\u2019t like it when I call him \u2018Pops.\u2019"],"x":false,"id":50605},{"a":{"examples":["cheap","dorky","odorous"],"text":"I\u2019d call you trash but garbage ain\u2019t that <BLANK>.","type":"negative adjective"},"gene":["pale","I try to eat healthy but I can\u2019t stand kale."],"x":false,"id":51951},{"a":{"examples":["chipmunk","rhino","bobcat"],"text":"I\u2019ve heard better sounds coming out of a <BLANK>.","type":"singular noun - animal"},"gene":["goldfish","Pineapple on pizza, is totally delish!"],"x":false,"id":51443},{"a":{"examples":["doctor","barista","traffic cop"],"text":"Did you mess up? Should I call the <BLANK>?","type":"noun - a profession"},"gene":["cable guy","They\u2019ve got good rates when you bundle with WiFi."],"x":false,"id":52383},{"a":{"examples":["burned","served","wrecked"],"text":"What day is it? It\u2019s the day you get <BLANK>.","type":"verb - ending w/ -ed"},"gene":["tickled","I like kimchi. It\u2019s cabbage that\u2019s pickled!"],"x":false,"id":52388},{"a":{"examples":["pony","chicken","goose"],"text":"You\u2019re not so hot. You\u2019re a regular <BLANK>.","type":"common noun - a farm animal"},"gene":["bull","I sometimes push on a door when it says \u2018pull.\u2019"],"x":false,"id":52382},{"a":{"examples":["mountains","swamp","Arctic"],"text":"Why don\u2019t you leave? Go back to the <BLANK>.","type":"noun - a remote location"},"gene":["Ohio","Now that was a burn. Oh me-o-my-o."],"x":false,"id":52389},{"a":{"examples":["water","Diet Sprite","coffee"],"text":"Am I making you sweat? Do you need a <BLANK>?","type":"singular noun - beverage"},"gene":["Code Red","Oh you\u2019re okay? Guess it was just in my head."],"x":false,"id":51727},{"a":{"examples":["cute","smelly","unexpected"],"text":"That\u2019s all you got? That was pretty <BLANK>.","type":"adjective - describe a baby"},"gene":["colicky","I cried and cried all the way to Dollar Tree."],"x":false,"id":51808},{"a":{"examples":["record","shoe","wig"],"text":"You\u2019re boring me like a worn out <BLANK>.","type":"noun - something old"},"gene":["yo-yo","Overhunting, wiped out the dodo."],"x":false,"id":52359},{"a":{"examples":["sewer","gas station","Denny\u2019s"],"text":"You can\u2019t catch me I slip through the <BLANK>.","type":"noun - a location"},"gene":["swamp","Gators be crunchin\u2019 on me like chomp chomp chomp."],"x":false,"id":51837},{"a":{"examples":["flop","dud","turkey"],"text":"I can\u2019t stop winning you\u2019re a total <BLANK>.","type":"noun - word for 'loser'"},"gene":["fiasco","I own the D V D of \u2018Donnie Brasco.\u2019"],"x":false,"id":51575},{"a":{"examples":["seven","a dozen","two million"],"text":"I\u2019ve got your number and you\u2019re less than <BLANK>.","type":"noun - a number"},"gene":["46","When I eat a hot dog, I call it a pig remix."],"x":false,"id":51637},{"a":{"examples":["mean","scared","afraid"],"text":"Quit looking at me with that face so <BLANK>.","type":"negative adjective"},"gene":["cute","This game is so fun! A regular hoot!"],"x":false,"id":52301},{"a":{"examples":["paranoid","scared","worthless"],"text":"I\u2019m messin\u2019 you up makin\u2019 you feel <BLANK>.","type":"adjective - a state of mind"},"gene":["chagrined","I call farting \u2018tooting\u2019 or \u2018breaking wind\u2019."],"x":false,"id":52358},{"a":{"examples":["trash","pennies","receipts"],"text":"I\u2019m sorry to hear all you brought is <BLANK>.","type":"plural noun - worthless things"},"gene":["dryer lint","I can offer you gum. It\u2019s peppermint."],"x":false,"id":51729},{"a":{"examples":["Toothpaste","Cheeseburger","Socks"],"text":"My nickname for you is Lil\u2019 <BLANK>.","type":"noun - last thing you bought"},"gene":["Peaches","Nothing makes me cry like the end of \u2018Beaches.\u2019"],"x":false,"id":51568},{"a":{"examples":["uncle","niece","cousin"],"text":"I will have my cake and eat it with your <BLANK>.","type":"common noun - a relative"},"gene":["father","If he hates vanilla, I won\u2019t bother."],"x":false,"id":52287},{"a":{"examples":["beetle","pinkie","fart"],"text":"Your brain\u2019s so small it\u2019s the size of a <BLANK>.","type":"singular noun - small thing"},"gene":["kumquat","In order to see it, gotta crouch in a dumb squat."],"x":false,"id":52267},{"a":{"examples":["the best","that great","a legend"],"text":"You\u2019re so wrong to think you\u2019re <BLANK>.","type":"positive adjective"},"gene":["Tom Hanks","He said hi to me once. I just answered \u2018thanks.\u2019"],"x":false,"id":52268},{"a":{"examples":["fall","trip","crash"],"text":"You can\u2019t hang with me, you\u2019ll <BLANK>.","type":"verb - thing you do accidentally"},"gene":["explode","Just like Todd even if he\u2019s on Easy Mode."],"x":false,"id":52261},{"a":{"examples":["much","quickly","often"],"text":"Damn, kid, you talk too <BLANK>.","type":"adverb"},"gene":["discreetly","Springsteen\u2019s band, comes from Street E."],"x":true,"id":52262},{"a":{"examples":["femur","knees","feet"],"text":"Careful not to trip over your own <BLANK>.","type":"noun - body part"},"gene":["trapezius","Be sure your shoes r tied, that\u2019s easiest."],"x":false,"id":52263},{"a":{"examples":["painful","pathetic","drab"],"text":"We could be tight if your skills weren\u2019t so <BLANK>.","type":"negative adjective"},"gene":["unpleasant","Socks for Christmas is not a fun present."],"x":false,"id":52286},{"a":{"examples":["stinking","failing","messing up"],"text":"You ain\u2019t no Superman. Your power is <BLANK>.","type":"verb ending in -ing"},"gene":["friending","And isn\u2019t that all that matters in the end-ing?"],"x":false,"id":52299},{"a":{"examples":["in the room","beside me","in bed"],"text":"The train\u2019s left the station and you\u2019re <BLANK>.","type":"prepositional phrase - where is your opponent?"},"gene":["on the platform","What\u2019s worse, a dog or a cat storm?"],"x":false,"id":52284},{"a":{"examples":["scream","fight","explode"],"text":"When I hear your voice I want to <BLANK>.","type":"verb- an aggressive action"},"gene":["look","I think you\u2019d be perfect for an audiobook."],"x":false,"id":52309},{"a":{"examples":["banana","blueberry","cottage cheese"],"text":"Quick question: Are you legit or a <BLANK>?","type":"singular noun - soft food item"},"gene":["turkey slice","Something I enjoy, served with rice."],"x":false,"id":52273},{"a":{"examples":["jerk","crybaby","rat"],"text":"Understand this, you\u2019re nothing but a <BLANK>.","type":"singular noun - something annoying"},"gene":["hero","How do you say that word, gyro or geero?"],"x":false,"id":52304},{"a":{"examples":["buzz off","take a hike","go blank yourself"],"text":"Put up, or shut up, or <BLANK>.","type":"verb/noun phrase - suggest a lewd act"},"gene":["far away","My tuna breath, may keep you at bay."],"x":true,"id":52277},{"a":{"examples":["coy","simple","basic"],"text":"I won\u2019t say you\u2019re the worst. That\u2019s too <BLANK>.","type":"negative adjective"},"gene":["common","Like a college kid, eating ramen."],"x":false,"id":52282},{"a":{"examples":["The Wizard","a flying monkey","Dorothy"],"text":"You\u2019re the Cowardly Lion, I\u2019m <BLANK>.","type":"a Wizard of Oz character"},"gene":["a Munchkin","My reach is small but I\u2019ll get a punch in."],"x":false,"id":52292},{"a":{"examples":["tired","shaky","flimsy"],"text":"My verse is legend, yours is <BLANK>.","type":"adjective - low quality"},"gene":["limp","When I was young, kids called me \u2018shrimp.\u2019"],"x":false,"id":52285},{"a":{"examples":["intrigued","amazed","curious"],"text":"You want my autograph? Cuz you look <BLANK>.","type":"positive adjective"},"gene":["delighted","I need my glasses as I am nearsighted."],"x":false,"id":52276},{"a":{"examples":["clown","dentist","janitor"],"text":"You look like you were dressed by a <BLANK>.","type":"noun - an occupation"},"gene":["preacher","Which I think is neat. Can you be my teacher?"],"x":false,"id":52313},{"a":{"examples":["sad","angry","pathetic"],"text":"I\u2019ve got no use for people so <BLANK>.","type":"adjective - emotional state"},"gene":["mean","But I\u2019ll give you a hug. Doesn\u2019t that sound keen?"],"x":false,"id":52295},{"a":{"examples":["old trash","bad breath","B O"],"text":"I knew you were coming because I smelled <BLANK>.","type":"noun - something that smells"},"gene":["peppermints","F Y I, I think you smell like peppermints."],"x":false,"id":52298},{"a":{"examples":["puke","spit","scream"],"text":"One look at you and I want to <BLANK>.","type":"verb - negative action"},"gene":["get lunch","I\u2019ll have a B L T and a Hawaiian Punch."],"x":false,"id":52296},{"a":{"examples":["spit","water","toothpaste"],"text":"I\u2019m here spittin\u2019 bars you\u2019re spittin\u2019 <BLANK>.","type":"noun - something you'd spit out"},"gene":["poems","You\u2019ve got quite a talent. Props to you Holmes."],"x":false,"id":52312},{"a":{"examples":["baby","brat","jerk"],"text":"Your voice is annoying like a whiny <BLANK>.","type":"singular noun - something annoying"},"gene":["bird","Of course I\u2019m kidding. Don\u2019t be absurd!"],"x":false,"id":52303},{"a":{"examples":["butter","down","silk"],"text":"Look at you you\u2019re softer than <BLANK>.","type":"noun - soft material"},"gene":["a kitten","When it comes to cats you know I be smitten."],"x":false,"id":52314},{"a":{"examples":["lean","pale","massive"],"text":"You hurt my eyes your face is so <BLANK>.","type":"negative adjective"},"gene":["glowing","I rip so many verses that I took up sewing."],"x":false,"id":51640},{"a":{"examples":["Tom Cruise","Oprah","Kermit"],"text":"I hear you talking, you sound like <BLANK>.","type":"proper noun - a celebrity"},"gene":["Donald Duck","I want to get a soda. Can I borrow a buck?"],"x":false,"id":52307},{"a":{"examples":["puddles","ice","banana peels"],"text":"You\u2019re slippin\u2019 and slidin\u2019 as if standin\u2019 on <BLANK>.","type":"plural noun - slippery stuff"},"gene":["soaps","I\u2019m stuffing your rhymes into prepaid envelopes."],"x":false,"id":51715},{"a":{"examples":["boring","unnecessary","old"],"text":"Nobody likes you, your rhymes are <BLANK>.","type":"negative adjective"},"gene":["goofy","And your hair\u2019s, a little too foofy."],"x":false,"id":52246},{"a":{"examples":["sick","irritated","ill"],"text":"I make people dance. You make people <BLANK>.","type":"negative adjective"},"gene":["giddy","You call them raps. I call them diddies."],"x":false,"id":52324},{"a":{"examples":["get mad","hate you","clinch my fists"],"text":"I can\u2019t listen to you it makes me <BLANK>.","type":"verb - negative action"},"gene":["get weepy","I cry when I eat. Is that creepy?"],"x":false,"id":52319},{"a":{"examples":["sexual organ","brain","neck"],"text":"I\u2019ll keep this short like your <BLANK>.","type":"noun - a body part"},"gene":["left kidney","It dwarfs the right one, r u kiddin\u2019 me?"],"x":true,"id":52258},{"a":{"examples":["mama","bedroom","basement"],"text":"Go on now run back to your <BLANK>.","type":"common noun - a person or place"},"gene":["loving family","Take the express you\u2019ll get there wham bammily."],"x":false,"id":52321},{"a":{"examples":["trees","sun","airplane"],"text":"Just get out of here take a look at the <BLANK>.","type":"noun - something outdoors"},"gene":["crowd","I need fresh air when Mom gets too loud."],"x":false,"id":51697},{"a":{"examples":["blanket","toothbrush","white noise machine"],"text":"Your rhymes got me sleepy, need my <BLANK>.","type":"noun - bedtime thing"},"gene":["pajamas with feet","Then maybe warm milk, as an extra treat."],"x":false,"id":51725},{"a":{"examples":["marbles","guppies","socks"],"text":"You spit rhymes like your mouth\u2019s full of <BLANK>.","type":"plural noun - small things"},"gene":["confetti","Can we open a window? I\u2019m getting sweaty."],"x":false,"id":51726},{"a":{"examples":["Maine","Mom\u2019s basement","Canada"],"text":"I grew up in the streets. You were raised in <BLANK>.","type":"proper noun - a place"},"gene":["Kansas City","I\u2019ve never been to K C. Such a pity!"],"x":false,"id":52323},{"a":{"examples":["head","ego","smell"],"text":"Don\u2019t come at me with that big ol\u2019 <BLANK>.","type":"noun - personal attribute"},"gene":["smile","It makes me happy. It\u2019s been awhile."],"x":false,"id":50606},{"a":{"examples":["Red Buttons","Ghandi","Moe Howard"],"text":"Your rhymes aren\u2019t alive they\u2019re dead as <BLANK>.","type":"proper noun - a dead person"},"gene":["John Candy","That movie \u2018Uncle Buck\u2019 really was dandy!"],"x":false,"id":52362},{"a":{"examples":["beefy","saucy","spicy"],"text":"Look at you now thinking you\u2019re all <BLANK>.","type":"adjective - describe your last meal"},"gene":["gluten-free","Which is more popular at restaurants I see."],"x":false,"id":51569},{"a":{"examples":["sucking","failing","running"],"text":"You need to realize you\u2019re only good at <BLANK>.","type":"verb ending w/ -ing"},"gene":["smiling","But also friendship. And bathroom tiling."],"x":true,"id":50607},{"a":{"examples":["bassett hound","piggy","unicorn"],"text":"You know what they say: Payback\u2019s a <BLANK>.","type":"singular noun - silly animal"},"gene":["tapeworm","Ewww. Just saying that word makes me squirm."],"x":true,"id":51604},{"a":{"examples":["implode","sink","shrivel"],"text":"As I open my mouth your heart will <BLANK>.","type":"verb"},"gene":["keep beating","After today, you think we\u2019ll keep meeting?"],"x":false,"id":51618},{"a":{"examples":["stupid","crazy","nuts"],"text":"You stepping to me? You must be <BLANK>.","type":"negative adjective"},"gene":["really neat","I\u2019ve got one extra toe on both of my feet!"],"x":false,"id":50608},{"a":{"examples":["yapping","failing","choking"],"text":"You done over there? Or you gonna keep <BLANK>?","type":"verb ending w/ -ing"},"gene":["winning","We wore the same shirt! Hashtag twinning!"],"x":false,"id":50609},{"a":{"examples":["dirt","grannies","dinosaurs"],"text":"I\u2019m fresh and new you\u2019re as old as <BLANK>.","type":"plural noun - old things"},"gene":["\u2019Star Trek\u2019","We should watch those when you have a sec."],"x":false,"id":51600},{"a":{"examples":["carrots","ham","lemons"],"text":"I\u2019m sweet as honey. You\u2019re sour as <BLANK>.","type":"plural noun - food"},"gene":["grapes","All my favorite movies have giant apes"],"x":false,"id":51566},{"a":{"examples":["teeth","beady eyes","cheek"],"text":"Frankly I\u2019m disgusted by the sight of your <BLANK>.","type":"noun - facial feature"},"gene":["pierced eyebrow","Isn\u2019t that look dated? I mean, why now?"],"x":false,"id":51381},{"a":{"examples":["hurt","petty","washed out"],"text":"Stop by the hospital \u2018cause your rhymes are <BLANK>.","type":"negative adjective"},"gene":["leaking","Let\u2019s play hide-and-seek but remember no peeking."],"x":false,"id":51558},{"a":{"examples":["mom","skills","game"],"text":"Rumor has it you attacked my <BLANK>.","type":"noun - something sacred"},"gene":["good name","I like the name Gene. My dad\u2019s is the same."],"x":false,"id":51617},{"a":{"examples":["talented","awesome","something"],"text":"That the best you got? Thought you were <BLANK>.","type":"positive adjective"},"gene":["a neat guy","Want to go to lunch and split a meat pie?"],"x":false,"id":50610},{"a":{"examples":["beans","cereal","peanuts"],"text":"I\u2019m the cream of the crop you\u2019re a pot of <BLANK>.","type":"plural noun - food"},"gene":["Twix","I really get chilly when watching Netflix."],"x":false,"id":51498},{"a":{"examples":["cry","shiver","pass out"],"text":"This game ain\u2019t over until I see you <BLANK>.","type":"verb - negative action"},"gene":["complain","Why eat bananas when you can have a plantain?"],"x":false,"id":51493},{"a":{"examples":["Cher","Rush Limbaugh","Einstein"],"text":"Here\u2019s the difference between u and <BLANK>.","type":"proper noun - a person"},"gene":["Todd","Todd\u2019s my friend. You\u2019re just kinda odd."],"x":false,"id":51484},{"a":{"examples":["dad","mommy","master"],"text":"Like Vader said to Luke I am your <BLANK>.","type":"noun - authority figure"},"gene":["best bud","Like Eighties horror? Look into \u2018CHUD.\u2019"],"x":false,"id":51379},{"a":{"examples":["whale","tiger","ant"],"text":"You think you can come for me you little <BLANK>?","type":"singular noun - animal"},"gene":["goat","I\u2019m going to milk you, goat! And make some yogurt."],"x":false,"id":51447},{"a":{"examples":["hammer","fist","conclusion"],"text":"I feel bad for you cuz here comes my <BLANK>.","type":"singular noun"},"gene":["alpaca","Looks like a llama but is from South Amaca."],"x":false,"id":51502},{"a":{"examples":["blacksmith","waiter","rancher"],"text":"Why don\u2019t you go back to being a <BLANK>?","type":"singular noun - an occupation"},"gene":["priest","And officiate funerals, for the deceased."],"x":false,"id":51478},{"a":{"examples":["sorry","embarrassed","blasted"],"text":"Get out of my face or you\u2019ll be <BLANK>.","type":"negative adjective"},"gene":["upset","I bought a chinchilla to keep as a pet."],"x":false,"id":50611},{"a":{"examples":["cheese","turds","flowers"],"text":"Is that you? I got a whiff of <BLANK>.","type":"noun - smelly thing"},"gene":["ointment","Hurry up and gimme some, I\u2019m late for my appointment."],"x":false,"id":51455},{"a":{"examples":["socks","watch","blouse"],"text":"I think you\u2019re wearing your mama\u2019s <BLANK>.","type":"noun - article of clothing"},"gene":["clam diggers","If you\u2019re itchy, u might have the chiggers."],"x":true,"id":51476},{"a":{"examples":["happy","sad","eager"],"text":"If you think you\u2019ll win you\u2019re straight-up <BLANK>.","type":"adjective - describe your mood"},"gene":["peachy","Best kept secret in fruit? The lychee!"],"x":false,"id":51472},{"a":{"examples":["perplexed","puzzled","flustered"],"text":"Did you not understand me? You look <BLANK>.","type":"negative adjective"},"gene":["out to lunch","Broccoli and bananas, come by the bunch."],"x":false,"id":51343},{"a":{"examples":["puppy","dad","hamster"],"text":"I\u2019m not afraid of you. You remind me of a <BLANK>.","type":"common noun - something not scary"},"gene":["Gary","Gary\u2019s someone I know. Not at all scary."],"x":false,"id":50612},{"a":{"examples":["ass","face","gut"],"text":"Mess with me you\u2019ll get my foot in your <BLANK>.","type":"noun - a body part"},"gene":["polyp","Don\u2019t laugh. My kicks pack a wallop."],"x":true,"id":51488},{"a":{"examples":["lint","speck","kitten"],"text":"I\u2019m slayin\u2019 these verses you don\u2019t leave a <BLANK>.","type":"singular noun - small thing"},"gene":["Skittle","I hate when someone calls a violin a \u2018fiddle.\u2019"],"x":false,"id":51327},{"a":{"examples":["eyeball","ankle","finger"],"text":"I\u2019m big time; you just got a big <BLANK>.","type":"singular noun - body part"},"gene":["foot","So really, we should call you Sasquatch."],"x":false,"id":51475},{"a":{"examples":["wrong","dumb","ugly"],"text":"You should apologize for bein\u2019 so <BLANK>.","type":"negative adjective"},"gene":["loony","I wish deserts weren\u2019t quite so dune-y."],"x":false,"id":51490},{"a":{"examples":["clown","meme","joke"],"text":"You make me laugh. You\u2019re just like a <BLANK>.","type":"common noun - something not scary"},"gene":["kitty cat","Hahahaha. I can\u2019t stop picturing that!"],"x":false,"id":50613},{"a":{"examples":["oil","glue","fabric"],"text":"You look like you just drank some <BLANK>.","type":"noun - a substance"},"gene":["grout","Like Todd\u2019s cousin Ed at that cookout."],"x":false,"id":51471},{"a":{"examples":["store","bank","Arby\u2019s"],"text":"I\u2019m goin\u2019 national you\u2019re going to the <BLANK>.","type":"noun - place of business"},"gene":["dog pound","That\u2019s where I got my dog So Very Brown."],"x":false,"id":51482},{"a":{"examples":["awfully","terribly","lazily"],"text":"You should be ashamed. You rhyme so <BLANK>.","type":"negative adverb"},"gene":["neatly","My vegetarian sister gave up meat-ly."],"x":false,"id":50614},{"a":{"examples":["fool","Merryl Streep","clown"],"text":"Is this how you play? Acting like a <BLANK>?","type":"noun - a person"},"gene":["Pope","I wash my body with shampoo when I\u2019m outta soap."],"x":false,"id":50615},{"a":{"examples":["laugh","sneeze","collapse"],"text":"You think you\u2019re bad? Don\u2019t make me <BLANK>.","type":"verb"},"gene":["describe","That last skit on \u2018Saturday Night Live.\u2019"],"x":false,"id":51466},{"a":{"examples":["tickled","pushed","punished"],"text":"Take a step back before you get <BLANK>.","type":"verb ending w/ -ed"},"gene":["bit","If that sounds mean I don\u2019t give a, gosh darn."],"x":false,"id":51469},{"a":{"examples":["nurse","mechanic","manager"],"text":"You\u2019re struttin\u2019 around like you\u2019re the <BLANK>.","type":"noun - a job title"},"gene":["captain","A reunion with Tennille? It\u2019s gotta happen."],"x":false,"id":51470},{"a":{"examples":["plumber","doctor","technician"],"text":"Did I break you yet? Should we call a <BLANK>?","type":"noun - an occupation"},"gene":["welder","My dog messed with a skunk. You should smell \u2018er."],"x":false,"id":51143},{"a":{"examples":["appendectomy","root canal","E E G"],"text":"U look like u came from a botched <BLANK>.","type":"noun - a medical procedure"},"gene":["foot scraping","Ask Gramma \u2018bout hers, there\u2019s no escaping."],"x":true,"id":51468},{"a":{"examples":["impervious","too tough","immovable"],"text":"You can\u2019t psyche me out, I\u2019m <BLANK>.","type":"positive adjective"},"gene":["resistant","And my bowling scores are fairly consistent."],"x":false,"id":51246},{"a":{"examples":["brain","imagination","psyche"],"text":"I\u2019m renting space, inside your <BLANK>.","type":"noun - synonym for 'mind'"},"gene":["superego","But I\u2019d rather rent, a Winnebago."],"x":false,"id":51249},{"a":{"examples":["concrete","ice","rocks"],"text":"I can\u2019t listen to you. Your head\u2019s hard as <BLANK>.","type":"plural noun - hard substance"},"gene":["math problems","But I like math! I\u2019m sure we can solve \u2018em!"],"x":false,"id":50616},{"a":{"examples":["cow","snake","lion"],"text":"You\u2019re as smooth as a three-legged <BLANK>.","type":"singular noun - an animal"},"gene":["muskox","Could u train one to use a litter box?"],"x":false,"id":51465},{"a":{"examples":["picnic","day off","Thanksgiving"],"text":"I\u2019m done bein\u2019 nice this ain\u2019t no <BLANK>.","type":"noun - holiday or special day"},"gene":["sick day","I think I used up all of mine anyway."],"x":false,"id":50617},{"a":{"examples":["cliff","disaster","defeat"],"text":"You\u2019re right on the edge, of a <BLANK>.","type":"common noun - dangerous spot"},"gene":["curb","Don\u2019t trip or fall, or some other verb."],"x":false,"id":51248},{"a":{"examples":["damage","pain","poison"],"text":"It\u2019s my time, to inflict the <BLANK>.","type":"common noun - negative concept"},"gene":["sorrow","Unless you\u2019re busy. I can do it tomorrow."],"x":false,"id":50618},{"a":{"examples":["point","logic","conclusion"],"text":"I ain\u2019t being cruel you\u2019re missing the <BLANK>.","type":"common noun - related to arguing"},"gene":["premise","And your front teeth. Go to the dentist."],"x":false,"id":50619},{"a":{"examples":["bad rapper","ridiculous waste","crazy fool"],"text":"It\u2019s funny you think I\u2019m a <BLANK>.","type":"singular noun"},"gene":["quick wit","Drinkin\u2019 my juice, your rhyme made me spit it."],"x":true,"id":50620},{"a":{"examples":["stupendous","amazing","thrilling"],"text":"It\u2019s funny that you think you\u2019re <BLANK>.","type":"adjective - synonym for 'great'"},"gene":["wowzers","When I play Mario Kart I choose Bowser."],"x":false,"id":50621},{"a":{"examples":["cockeyed","slow & simple","covered in poo"],"text":"It ain\u2019t me, that\u2019s <BLANK>.","type":"negative adjective"},"gene":["honey baked","My Grampa thinks the moon landing was faked."],"x":true,"id":50622},{"a":{"examples":["contentment","joy","mirth"],"text":"I will have satisfaction I will have <BLANK>.","type":"noun - positive state of mind"},"gene":["introspection","My car just passed emissions inspection!"],"x":false,"id":50603},{"a":{"examples":["cow","dope","insect"],"text":"You gonna stand here and say I\u2019m a <BLANK>.","type":"singular noun"},"gene":["wee lad","Let\u2019s hear your Scottish accent. Mine\u2019s not bad."],"x":false,"id":50623},{"a":{"examples":["cement","snot","bricks"],"text":"You can\u2019t shake me, I\u2019m made of <BLANK>.","type":"noun - a substance"},"gene":["snow","I\u2019m an igloo, that\u2019s why I\u2019m made of snow"],"x":false,"id":51172},{"a":{"examples":["little","zero","nothin\u2019"],"text":"You want respect? You give me <BLANK>.","type":"noun or adjective - a low quantity"},"gene":["bupkis","Know who I saw once in Vegas? Dick Butkis!"],"x":false,"id":50624},{"a":{"examples":["stupid","inconsiderate","ugly"],"text":"You\u2019re the one who\u2019s definitely <BLANK>.","type":"negative adjective"},"gene":["double parked","I guess the street is not well marked."],"x":false,"id":50625},{"a":{"examples":["bested","stopped","shoved"],"text":"Haven\u2019t you heard? I can\u2019t be <BLANK>.","type":"verb ending w/ -ed"},"gene":["graded","Like homework, not like cheese."],"x":false,"id":50683},{"a":{"examples":["cheese","hot dogs","leeks"],"text":"You smell like a bunch of rotting <BLANK>.","type":"plural noun - food item"},"gene":["eggplant","Refrigerate them. Or maybe you can\u2019t."],"x":true,"id":50690},{"a":{"examples":["fungus","wood","dogs"],"text":"I\u2019ve seen better faces on <BLANK>.","type":"plural common noun"},"gene":["clocks","What. I said \u2018clocks.\u2019"],"x":true,"id":50691},{"a":{"examples":["shirt","pants","shoes"],"text":"How sad you look in your little <BLANK>.","type":"noun - article of clothing"},"gene":["hat","Oh are you a Shriner? I apologize for that."],"x":false,"id":50693},{"a":{"examples":["fret","cry","worry"],"text":"I\u2019m in your head. You\u2019re starting to <BLANK>.","type":"verb"},"gene":["shiver","I buried the evidence down by the river."],"x":false,"id":50694},{"a":{"examples":["Urkel","Daredevil","Sheldon"],"text":"There\u2019s no hope for you. You\u2019re such a <BLANK>.","type":"proper noun - TV character"},"gene":["Miranda","Let\u2019s watch \u2018Sex and the City\u2019 on the veranda!"],"x":false,"id":50695},{"a":{"examples":["Pokemon","yo-yos","Play-Doh"],"text":"Money\u2019s on my mind. Your\u2019s is on <BLANK>.","type":"plural noun - toys"},"gene":["\u2019My Little Pony\u2019","That show should win an Emmy and a Tony!"],"x":false,"id":50696},{"a":{"examples":["beets","farts","tuna"],"text":"Your breath is stinky did you just eat <BLANK>.","type":"plural noun - food"},"gene":["mutton","I always have trouble with my shirt\u2019s top button."],"x":false,"id":50697},{"a":{"examples":["dodo","mule","dog"],"text":"Your rhymes are bad \u2018cause you\u2019re dumb as a <BLANK>.","type":"singular common noun - a dumb thing"},"gene":["kitten","Cats are so cute, especially in mittens!"],"x":false,"id":50698},{"a":{"examples":["angry","ashamed","irate"],"text":"When I embarrass you does it make you feel <BLANK>?","type":"negative adjective"},"gene":["better","Let\u2019s encourage each other. I like your sweater!"],"x":false,"id":50699},{"a":{"examples":["trash","rotten eggs","skunks"],"text":"Pluggin\u2019 my nose cuz you smell like <BLANK>.","type":"plural noun - smelly things"},"gene":["perfume","Those Fantastic Four movies ruined Dr. Doom."],"x":false,"id":50701},{"a":{"examples":["cat","goat","whale"],"text":"When you rhyme you sound like a dying <BLANK>.","type":"common noun - an animal"},"gene":["snake","My apologies if that was a hot take."],"x":false,"id":50702},{"a":{"examples":["house","place","sewer"],"text":"You seem to be lost. Now go back to the <BLANK>.","type":"common noun - a place"},"gene":["porch","Chris Evans is Cap, but was the Human Torch."],"x":false,"id":50705},{"a":{"examples":["quickly","fast","now"],"text":"If you\u2019re gonna throw down do it <BLANK>.","type":"adverb of time"},"gene":["soonish","I found \u2018Guardians of the Galaxy\u2019 too cartoonish."],"x":false,"id":50706},{"a":{"examples":["hut","dumpster","hold"],"text":"Get outta my crib go back to your <BLANK>.","type":"common noun - awful place"},"gene":["box","Remember in fall, we set back the clocks."],"x":false,"id":50707},{"a":{"examples":["knee","leg","arm"],"text":"You ain\u2019t Busta Rhymes more like Busta <BLANK>.","type":"noun - a body part"},"gene":["pancreas","There\u2019s no cure for a cold quite like hot tea is."],"x":false,"id":50816},{"a":{"examples":["tractor","train","small horse"],"text":"You\u2019re riding my coattails like I\u2019m a <BLANK>.","type":"noun - mode of transportation"},"gene":["18-wheeler","Get the heck off my coattails. Dang you! Get off please."],"x":false,"id":52550},{"a":{"examples":["chemistry","study hall","theater"],"text":"You\u2019re lookin\u2019 stunned you can\u2019t grasp the <BLANK>.","type":"noun - school subject"},"gene":["advanced lit","No elevators! Take the stairs to stay fit!"],"x":false,"id":50684},{"a":{"examples":["king","queen","duchess"],"text":"I rule the school they call me the <BLANK>.","type":"noun - a royal title"},"gene":["dauphin","Which is not a title one hears very often."],"x":false,"id":50741},{"a":{"examples":["hurt","electrocute","forget"],"text":"Add fuel to the fire and you\u2019ll start to <BLANK>.","type":"verb - negative action"},"gene":["faint","I use candles to set the mood when I paint."],"x":false,"id":50797},{"a":{"examples":["reporter","librarian","chef"],"text":"I\u2019m a master musician you\u2019re a small-time <BLANK>.","type":"noun - an occupation"},"gene":["gym teacher","At the beach I love reading tales of Jack Reacher."],"x":false,"id":50799},{"a":{"examples":["over","under","down"],"text":"Sorry, but for you, it\u2019s game <BLANK>.","type":"preposition"},"gene":["underneath","Really? Some jerk stole our Christmas wreath."],"x":false,"id":51497},{"a":{"examples":["itch","think","go"],"text":"I speak the truth, don\u2019t you <BLANK>?","type":"verb"},"gene":["believe","Captain America\u2019s real name is Steve."],"x":false,"id":50929},{"a":{"examples":["sir","ma\u2019am","your honor"],"text":"I\u2019m talkin\u2019 now, so listen up <BLANK>.","type":"noun - title of respect"},"gene":["mister","Wearing flip flops will give you blisters."],"x":false,"id":50930},{"a":{"examples":["lovely","sweet","quiet"],"text":"It\u2019s like this: I\u2019m through bein\u2019 <BLANK>.","type":"adjective - describe your mom"},"gene":["overbearing","She\u2019s such a--hi Mom! Love what you\u2019re wearing!"],"x":false,"id":50934},{"a":{"examples":["voice","style","ass"],"text":"Suckas everywhere imitatin\u2019 my <BLANK>.","type":"noun - attractive attribute"},"gene":["groove","But I ate so much dinner it\u2019s hard to move."],"x":true,"id":50940},{"a":{"examples":["played","busted","reamed"],"text":"Don\u2019t talk back \u2018less you wanna get <BLANK>.","type":"verb ending w/ -ed"},"gene":["nasty","And you best avoid angioplasty."],"x":false,"id":50802},{"a":{"examples":["jackass","moron","binjpipe"],"text":"Who do you think you are, <BLANK>?","type":"insulting nickname"},"gene":["pea brain","I bet that hurt like a knee sprain."],"x":true,"id":50807},{"a":{"examples":["Bill Gates","Donald Trump","Madonna"],"text":"I hear you talkin\u2019 like you\u2019re <BLANK>.","type":"proper noun - a famous person"},"gene":["Celine Dion","I think she sang \u2018My Life Will Go On.\u2019"],"x":false,"id":51500},{"a":{"examples":["game","style","cred"],"text":"Frankly I\u2019m bored. You got no <BLANK>.","type":"common noun - positive quality"},"gene":["ammo","But get me on the chin I\u2019m out cold. Blammo!"],"x":false,"id":50808},{"a":{"examples":["head","nose","foot"],"text":"What\u2019s that? You got a frog in your <BLANK>?","type":"singular noun - body part"},"gene":["earlobe","You look like you stole a hotel robe."],"x":false,"id":51876},{"a":{"examples":["shins","ankles","navel"],"text":"You talkin to me? Or to my <BLANK>?","type":"noun - lower half body part"},"gene":["kneecap","When I watch long movies, I need a recap."],"x":true,"id":50809},{"a":{"examples":["muted","covered","stuffed"],"text":"Talk to the hand cuz my ears are <BLANK>.","type":"verb ending w/ -ed"},"gene":["plugged","They drank some wax and really chugged."],"x":false,"id":50811},{"a":{"examples":["mouse","canary","bunny"],"text":"I\u2019m making you cry like a little <BLANK>.","type":"noun - a tiny animal"},"gene":["Pikachu","I think that name sounds like sneezing don\u2019t you?"],"x":false,"id":50830},{"a":{"examples":["Pac-Man","Mortal Kombat","Super Mario"],"text":"Your game is ancient, like <BLANK>.","type":"Classic video game"},"gene":["N B A Jam","Boom Shaka-Laka is what they\u2019d say when I\u2019d slam."],"x":false,"id":50831},{"a":{"examples":["snoozing","boating","fishing"],"text":"I was out hustling while you were <BLANK>.","type":"verb ending w/ -ing"},"gene":["relaxing","In the Nineteen-Eighties, everyone was a-faxing."],"x":false,"id":50839},{"a":{"examples":["messy","frozen","windy"],"text":"It must hurt, to be that <BLANK>.","type":"adjective"},"gene":["swift","Speaking of, Taylor Swift is awesome."],"x":false,"id":51206},{"a":{"examples":["stupid","sloppy","dismal"],"text":"Never have I ever met someone so <BLANK>.","type":"negative adjective"},"gene":["persnickety","My skeletal structure is somewhat rickety."],"x":false,"id":50844},{"a":{"examples":["lucky","cool","humble"],"text":"You think you\u2019re special you think you\u2019re <BLANK>.","type":"positive adjective"},"gene":["optimistic","Julia Roberts makes her pizza super mystic."],"x":false,"id":50846},{"a":{"examples":["flip","damn","farq"],"text":"Whatever you do I don\u2019t give a <BLANK>.","type":"curse word"},"gene":["poo","I gotta keep it clean, Mom\u2019s in the room."],"x":true,"id":51214},{"a":{"examples":["snoring","jumping","drinking"],"text":"Go ahead and dig a grave you\u2019re done <BLANK>.","type":"verb ending w/ -ing"},"gene":["sewing","Hey! Waitaminute! Is that my car they\u2019re towing!"],"x":false,"id":50879},{"a":{"examples":["in","to","up"],"text":"You want some o\u2019 this? Well step on <BLANK>.","type":"preposition"},"gene":["around","Hope my retainer\u2019s in the Lost and Found."],"x":false,"id":51200},{"a":{"examples":["crash","moo","bang"],"text":"You\u2019ll go down in one hit: <BLANK>!","type":"onomatopoeia"},"gene":["kaboom","Like Mom\u2019s swimsuit top, on the log flume."],"x":true,"id":51213},{"a":{"examples":["wee","tiny","short"],"text":"I don\u2019t sweat the small stuff and you\u2019re very <BLANK>.","type":"adjective - term for 'small'"},"gene":["teensy","I think the plural of \u2018blintz\u2019 is, \u2018bleensy.\u2019"],"x":false,"id":51044},{"a":{"examples":["money","dogs","revenge"],"text":"Why are you so obsessed, with <BLANK>?","type":"noun"},"gene":["bears","Wait, I like bears too. All types of bears."],"x":false,"id":51054},{"a":{"examples":["Elle","Vogue","G Q"],"text":"Struttin\u2019 like you\u2019re on the cover of <BLANK>.","type":"proper noun - a magazine"},"gene":["Glamour","You were selling, an expensive hammer."],"x":false,"id":51055}]}
+{
+    "episodeid": 1357,
+    "content": [
+        {
+            "a": {
+                "examples": [
+                    "Pai",
+                    "irmã",
+                    "prima"
+                ],
+                "text": "Eu não estou com medo, apenas traga, <BLANK>.",
+                "type": "substantivo - um membro da família"
+            },
+            "gene": [
+                "sobrinho",
+                "É uma oferta que você não pode consultar. usar."
+            ],
+            "x": false,
+            "id": 50588
+        },
+        {
+            "a": {
+                "examples": [
+                    "responda",
+                    "responder",
+                    "esclarecer"
+                ],
+                "text": "Apoie-se e observe-me <BLANK>.",
+                "type": "verbo - sinônimo para 'retorta'"
+            },
+            "gene": [
+                "retorta",
+                "Se eu rir, espero não bufar."
+            ],
+            "x": false,
+            "id": 50589
+        },
+        {
+            "a": {
+                "examples": [
+                    "ajuda",
+                    "troca",
+                    "balanço"
+                ],
+                "text": "Não tenho certeza do que você está tentando <BLANK>.",
+                "type": "verbo"
+            },
+            "gene": [
+                "relacionar",
+                "Mas eu ainda me juntaria a você para um almoço."
+            ],
+            "x": false,
+            "id": 50590
+        },
+        {
+            "a": {
+                "examples": [
+                    "contado",
+                    "sentado",
+                    "derretido"
+                ],
+                "text": "Vá e diga a sua mãe que você tem <BLANK>.",
+                "type": "terminação verbal com -ed"
+            },
+            "gene": [
+                "cheirava",
+                "Eu prefiro Corey Haim a Corey Feld. homem."
+            ],
+            "x": true,
+            "id": 50591
+        },
+        {
+            "a": {
+                "examples": [
+                    "Fora",
+                    "sobre",
+                    "para dentro"
+                ],
+                "text": "Você me ataca, você fica confuso <BLANK>.",
+                "type": "preposição"
+            },
+            "gene": [
+                "Através dos",
+                "Gostaria de ser adotado por Felonius Gru."
+            ],
+            "x": false,
+            "id": 50592
+        },
+        {
+            "a": {
+                "examples": [
+                    "minuto",
+                    "segundo",
+                    "ano"
+                ],
+                "text": "Espere um pouco, espere um <BLANK>.",
+                "type": "substantivo - unidade de tempo"
+            },
+            "gene": [
+                "milênios",
+                "Você achou que nada rima com isso, dinya?"
+            ],
+            "x": false,
+            "id": 50593
+        },
+        {
+            "a": {
+                "examples": [
+                    "tartaruga",
+                    "panqueca",
+                    "caminhão"
+                ],
+                "text": "É uma pena que você rima como um <BLANK>.",
+                "type": "pronome singular"
+            },
+            "gene": [
+                "Yeti",
+                "Talvez pratique mais e volte quando estiver pronto?"
+            ],
+            "x": false,
+            "id": 52750
+        },
+        {
+            "a": {
+                "examples": [
+                    "cara",
+                    "presunto",
+                    "refrigerante"
+                ],
+                "text": "Eu tenho você um chapéu que diz 'pior do mundo <BLANK>.'",
+                "type": "pronome singular"
+            },
+            "gene": [
+                "auto-estrada",
+                "Mas eu vou te levar porque eu tenho o carro hoje."
+            ],
+            "x": false,
+            "id": 52990
+        },
+        {
+            "a": {
+                "examples": [
+                    "chuva de granizo",
+                    "aguaceiro",
+                    "tsunami"
+                ],
+                "text": "Parece que você foi pego em um <BLANK>.",
+                "type": "substantivo singular - evento meteorológico"
+            },
+            "gene": [
+                "crise existencial",
+                "Você deveria ler Sartre. Seus livros não têm preço."
+            ],
+            "x": false,
+            "id": 52785
+        },
+        {
+            "a": {
+                "examples": [
+                    "Gelatina",
+                    "bambu",
+                    "cimento"
+                ],
+                "text": "Você não tem fluxo, é mais como <BLANK>.",
+                "type": "substantivo - uma substância espessa"
+            },
+            "gene": [
+                "roupa de cama de cetim",
+                "Se você está procurando é um belo presente para casamentos."
+            ],
+            "x": false,
+            "id": 52790
+        },
+        {
+            "a": {
+                "examples": [
+                    "cabana",
+                    "condado",
+                    "Cidade"
+                ],
+                "text": "Ei, garoto, saia do meu <BLANK>.",
+                "type": "substantivo comum - um lugar"
+            },
+            "gene": [
+                "armário",
+                "Se precisar de uma pausa para fazer xixi, podemos pausar."
+            ],
+            "x": true,
+            "id": 50594
+        },
+        {
+            "a": {
+                "examples": [
+                    "lixo",
+                    "destroços",
+                    "lixo"
+                ],
+                "text": "Suas rimas são como uma colcha de retalhos de <BLANK>.",
+                "type": "substantivo - sinônimo de 'lixo'"
+            },
+            "gene": [
+                "bobagem",
+                "Se eu comer muita carne vermelha, fico preguiçoso."
+            ],
+            "x": false,
+            "id": 53003
+        },
+        {
+            "a": {
+                "examples": [
+                    "trapaceiro",
+                    "Skunk",
+                    "cara desonesto"
+                ],
+                "text": "Tenho que ser honesto, você é um grande <BLANK>.",
+                "type": "substantivo - sinônimo de 'mentiroso'"
+            },
+            "gene": [
+                "doninha",
+                "Sou um humilde balconista apenas vendendo diesel."
+            ],
+            "x": false,
+            "id": 53001
+        },
+        {
+            "a": {
+                "examples": [
+                    "Nova Orleans",
+                    "Nevada",
+                    "Nambia"
+                ],
+                "text": "Estou levando você para baixo como um trem para <BLANK>.",
+                "type": "nome próprio - um lugar ao sul de você"
+            },
+            "gene": [
+                "Clarksville",
+                "Encontre-me na estação."
+            ],
+            "x": false,
+            "id": 52941
+        },
+        {
+            "a": {
+                "examples": [
+                    "deslizar",
+                    "morder",
+                    "chupar"
+                ],
+                "text": "Você poderia escrever um livro chamado 'How To <BLANK>'.",
+                "type": "verbo - o que uma cobra faz"
+            },
+            "gene": [
+                "Mentira",
+                "Vou escrever um livro chamado 'Pergunte a um cara legal!'"
+            ],
+            "x": false,
+            "id": 53002
+        },
+        {
+            "a": {
+                "examples": [
+                    "espaguete",
+                    "lama",
+                    "gesso"
+                ],
+                "text": "Suas palavras são uma bagunça, como você escreveu com <BLANK>.",
+                "type": "substantivo - uma substância confusa"
+            },
+            "gene": [
+                "queijo ralado",
+                "E está me deixando com fome. Você é uma provocadora."
+            ],
+            "x": false,
+            "id": 52600
+        },
+        {
+            "a": {
+                "examples": [
+                    "hambúrgueres",
+                    "Pop-Tarts",
+                    "arroz"
+                ],
+                "text": "Suas rimas são sem gosto como <BLANK>cozido demais.",
+                "type": "substantivo plural - alimentos"
+            },
+            "gene": [
+                "picolés",
+                "Aceito um abraço se você prometer não fazer cócegas."
+            ],
+            "x": false,
+            "id": 53075
+        },
+        {
+            "a": {
+                "examples": [
+                    "estragado",
+                    "quebrado",
+                    "desatualizado"
+                ],
+                "text": "Sua marca expirou. Você é muito <BLANK>.",
+                "type": "adjetivo negativo"
+            },
+            "gene": [
+                "ovo",
+                "Minha terceira tia favorita é Peggy."
+            ],
+            "x": false,
+            "id": 53074
+        },
+        {
+            "a": {
+                "examples": [
+                    "punho",
+                    "joelho",
+                    "pés"
+                ],
+                "text": "Eu não vou te mostrar o dedo Eu te darei o <BLANK>.",
+                "type": "substantivo - parte do corpo"
+            },
+            "gene": [
+                "nádegas",
+                "Essa é uma palavra que quase rima com 'deluxe'."
+            ],
+            "x": true,
+            "id": 52594
+        },
+        {
+            "a": {
+                "examples": [
+                    "secador de cabelo",
+                    "cama",
+                    "taco"
+                ],
+                "text": "Eu preciso de você como um peixe precisa de um <BLANK>.",
+                "type": "pronome singular"
+            },
+            "gene": [
+                "batata frita",
+                "Tire-os de mim! Eles vão para meus quadris!"
+            ],
+            "x": false,
+            "id": 52602
+        },
+        {
+            "a": {
+                "examples": [
+                    "C 3 PO",
+                    "Darth Vader",
+                    "Jar Jar Binks"
+                ],
+                "text": "No universo Star Wars você seria <BLANK>.",
+                "type": "nome próprio - personagem Star Wars"
+            },
+            "gene": [
+                "um wookie",
+                "Eu apostei nisso, com meu bookmaker."
+            ],
+            "x": false,
+            "id": 52597
+        },
+        {
+            "a": {
+                "examples": [
+                    "joelho",
+                    "tronco",
+                    "axila"
+                ],
+                "text": "Sente essa dor? Sou eu chutando seu <BLANK>.",
+                "type": "substantivo - parte do corpo"
+            },
+            "gene": [
+                "glândulas",
+                "Estou tomando cuidado para que nenhum deles realmente pouse."
+            ],
+            "x": false,
+            "id": 52992
+        },
+        {
+            "a": {
+                "examples": [
+                    "insolente",
+                    "malcriado",
+                    "Insensato"
+                ],
+                "text": "Ontem à noite, na cama, sua mãe me disse que você tinha <BLANK>.",
+                "type": "adjetivo negativo"
+            },
+            "gene": [
+                "um debatedor do ensino médio",
+                "Se eu soubesse que ela era sua mãe, não sairia com ela."
+            ],
+            "x": true,
+            "id": 52795
+        },
+        {
+            "a": {
+                "examples": [
+                    "mordomo",
+                    "manobrista",
+                    "autoclismo"
+                ],
+                "text": "Você pode dar um bom <BLANK>pessoal.",
+                "type": "substantivo - um trabalho de serviço"
+            },
+            "gene": [
+                "assistente executivo",
+                "Um trabalho difícil de encontrar. Tem que ser persistente."
+            ],
+            "x": false,
+            "id": 52598
+        },
+        {
+            "a": {
+                "examples": [
+                    "festa de aniversário",
+                    "Casamento",
+                    "graduação"
+                ],
+                "text": "onde você acha que está? A <BLANK>?",
+                "type": "substantivo singular - um evento"
+            },
+            "gene": [
+                "cotilhão",
+                "Muitas palavras rimam com isso. Eu tenho um milhão."
+            ],
+            "x": false,
+            "id": 52991
+        },
+        {
+            "a": {
+                "examples": [
+                    "Saltine",
+                    "maçaneta",
+                    "pedra"
+                ],
+                "text": "Alguém te disse que você é um <BLANK>?",
+                "type": "substantivo singular - coisa insípida ou chata"
+            },
+            "gene": [
+                "folha de secador",
+                "Você cheira bem e fica nos meus pés."
+            ],
+            "x": false,
+            "id": 52601
+        },
+        {
+            "a": {
+                "examples": [
+                    "cachorro",
+                    "Flor",
+                    "galho"
+                ],
+                "text": "Seu jogo é fraco. Não poderia machucar um <BLANK>.",
+                "type": "substantivo singular - pequena coisa viva"
+            },
+            "gene": [
+                "marcação",
+                "Existe um em mim? Eu me sinto meio doente."
+            ],
+            "x": false,
+            "id": 52994
+        },
+        {
+            "a": {
+                "examples": [
+                    "amassado",
+                    "Perguntou",
+                    "bateu"
+                ],
+                "text": "Afaste-se porque você obterá <BLANK>.",
+                "type": "verbo terminando em -ed"
+            },
+            "gene": [
+                "destilado",
+                "Ou não. Todo mundo tem livre arbítrio."
+            ],
+            "x": false,
+            "id": 52989
+        },
+        {
+            "a": {
+                "examples": [
+                    "lateralmente",
+                    "de cabeça para baixo",
+                    "90 graus"
+                ],
+                "text": "Meu ângulo é transformá-lo em <BLANK>.",
+                "type": "advérbio"
+            },
+            "gene": [
+                "De dentro para fora",
+                "Literalmente, não há como você sobreviver a isso."
+            ],
+            "x": false,
+            "id": 52794
+        },
+        {
+            "a": {
+                "examples": [
+                    "comprimidos para disfunção erétil",
+                    "dietas para emagrecer",
+                    "cartões de crédito"
+                ],
+                "text": "Suas rimas são como anúncios para <BLANK>.",
+                "type": "substantivo plural - produto coxo"
+            },
+            "gene": [
+                "enfeites de Natal",
+                "Eu jogo tênis, mas não entro em torneios."
+            ],
+            "x": true,
+            "id": 52913
+        },
+        {
+            "a": {
+                "examples": [
+                    "gatinho",
+                    "esponja",
+                    "coelhinho"
+                ],
+                "text": "Eu não tenho medo de você. Você é como um <BLANK>.",
+                "type": "substantivo singular - uma coisa inofensiva"
+            },
+            "gene": [
+                "nuvem",
+                "Apenas me prometa que você não vai falar muito alto."
+            ],
+            "x": false,
+            "id": 52988
+        },
+        {
+            "a": {
+                "examples": [
+                    "tigela",
+                    "Lima",
+                    "saco de batatas fritas"
+                ],
+                "text": "Sua cabeça está tão vazia quanto um <BLANK>.",
+                "type": "substantivo singular - última coisa que você comprou"
+            },
+            "gene": [
+                "caixa de rabanetes",
+                "Meu coração está cheio como um saco cheio de repolhos."
+            ],
+            "x": false,
+            "id": 52942
+        },
+        {
+            "a": {
+                "examples": [
+                    "dois",
+                    "três",
+                    "quatro"
+                ],
+                "text": "Eu sou um em um milhão. Você é um em <BLANK>.",
+                "type": "Um pequeno número"
+            },
+            "gene": [
+                "uma mão-cheia",
+                "Como encontrar um Action Comics número 1 em um aterro sanitário."
+            ],
+            "x": false,
+            "id": 52878
+        },
+        {
+            "a": {
+                "examples": [
+                    "avó",
+                    "tio",
+                    "prima"
+                ],
+                "text": "Saia antes que eu entre em contato com o seu <BLANK>.",
+                "type": "substantivo comum - membro da família"
+            },
+            "gene": [
+                "tia Jan idosa",
+                "Eu amo sua peruca e seu bronzeado da Flórida o ano todo."
+            ],
+            "x": true,
+            "id": 52943
+        },
+        {
+            "a": {
+                "examples": [
+                    "prejudicado",
+                    "pego",
+                    "machucado"
+                ],
+                "text": "Você pode desacelerar antes de chegar a <BLANK>.",
+                "type": "adjetivo - sinônimo de 'machucar'"
+            },
+            "gene": [
+                "maltratado",
+                "Falando nisso, preciso comprar sandálias melhores."
+            ],
+            "x": false,
+            "id": 52599
+        },
+        {
+            "a": {
+                "examples": [
+                    "leva para casa",
+                    "avisos",
+                    "O amor é"
+                ],
+                "text": "Você é como um cachorrinho de abrigo que ninguém <BLANK>.",
+                "type": "terminação verbal w / -s"
+            },
+            "gene": [
+                "dá lanches para",
+                "Acho a música da Enya fácil de relaxar."
+            ],
+            "x": false,
+            "id": 52910
+        },
+        {
+            "a": {
+                "examples": [
+                    "cara",
+                    "cliente",
+                    "cliente"
+                ],
+                "text": "Você está mexendo com o <BLANK>errado.",
+                "type": "substantivo comum - uma pessoa"
+            },
+            "gene": [
+                "cara",
+                "Estou brincando! Eu não machucaria uma mosca!"
+            ],
+            "x": false,
+            "id": 50597
+        },
+        {
+            "a": {
+                "examples": [
+                    "taco Bell",
+                    "Chipotle",
+                    "Chick-Fil-a"
+                ],
+                "text": "Você ganha menos exagero do que a grande inauguração de um <BLANK>.",
+                "type": "nome próprio - rede de fast food"
+            },
+            "gene": [
+                "Olive Garden",
+                "Você não gosta de flores? Eu imploro seu perdão?"
+            ],
+            "x": false,
+            "id": 52912
+        },
+        {
+            "a": {
+                "examples": [
+                    "risada",
+                    "bufar",
+                    "risadinha"
+                ],
+                "text": "Todas as suas rimas me fazem querer <BLANK>.",
+                "type": "verbo - sinônimo para 'rir'"
+            },
+            "gene": [
+                "teehee",
+                "Se precisar de mais prática, geralmente estou livre."
+            ],
+            "x": false,
+            "id": 52650
+        },
+        {
+            "a": {
+                "examples": [
+                    "poster",
+                    "mural",
+                    "cabeça de veado"
+                ],
+                "text": "Estou derrubando você como um <BLANK>feio.",
+                "type": "substantivo singular - uma decoração"
+            },
+            "gene": [
+                "pintura de um palhaço",
+                "Amanhã é minha primeira viagem a Chinatown!"
+            ],
+            "x": false,
+            "id": 51092
+        },
+        {
+            "a": {
+                "examples": [
+                    "caverna",
+                    "cela",
+                    "trincheira"
+                ],
+                "text": "Minha piada está chegando. Melhor se esconder em um <BLANK>.",
+                "type": "substantivo comum singular - lugar seguro"
+            },
+            "gene": [
+                "sinagoga",
+                "Em algumas feiras estaduais, você pode ganhar um cachorro."
+            ],
+            "x": false,
+            "id": 52792
+        },
+        {
+            "a": {
+                "examples": [
+                    "pular",
+                    "estrangular",
+                    "texto"
+                ],
+                "text": "Seu fluxo está travado, é melhor dar um <BLANK>.",
+                "type": "verbo - sílaba"
+            },
+            "gene": [
+                "cutucar",
+                "Sempre rio em grupos quando não entendo a piada."
+            ],
+            "x": false,
+            "id": 52431
+        },
+        {
+            "a": {
+                "examples": [
+                    "doente",
+                    "com medo",
+                    "assustado"
+                ],
+                "text": "Estou preparando barras que farão você <BLANK>.",
+                "type": "adjetivo negativo"
+            },
+            "gene": [
+                "Shvitz",
+                "Seguido de sua necessidade de evacuar."
+            ],
+            "x": true,
+            "id": 52791
+        },
+        {
+            "a": {
+                "examples": [
+                    "calha",
+                    "bueiro",
+                    "Beco escuro"
+                ],
+                "text": "Eu normalmente esperaria encontrar você em um <BLANK>.",
+                "type": "substantivo - um lugar horrível"
+            },
+            "gene": [
+                "frio de dezembro",
+                "Você prefere o frio ao calor, pelo que me lembro."
+            ],
+            "x": false,
+            "id": 52596
+        },
+        {
+            "a": {
+                "examples": [
+                    "lixo",
+                    "pedras",
+                    "Gobstoppers"
+                ],
+                "text": "É difícil não engasgar quando suas rimas são <BLANK>.",
+                "type": "substantivo - algo difícil de engolir"
+            },
+            "gene": [
+                "torta muito grossa",
+                "Quer dizer, eu preciso explicar por quê?"
+            ],
+            "x": false,
+            "id": 52793
+        },
+        {
+            "a": {
+                "examples": [
+                    "buraco",
+                    "narina",
+                    "abertura"
+                ],
+                "text": "Ouça agora e feche o seu <BLANK>.",
+                "type": "substantivo comum - uma abertura ou orifício"
+            },
+            "gene": [
+                "respirar",
+                "Não posso acreditar na direção que vocês foram."
+            ],
+            "x": true,
+            "id": 50599
+        },
+        {
+            "a": {
+                "examples": [
+                    "fulvo",
+                    "porco-espinho",
+                    "rã"
+                ],
+                "text": "Você é um urso bestial Eu sou um <BLANK>elegante.",
+                "type": "substantivo singular - animal"
+            },
+            "gene": [
+                "rato",
+                "E eu monto em sua cabeça como um chapeuzinho de urso."
+            ],
+            "x": false,
+            "id": 52877
+        },
+        {
+            "a": {
+                "examples": [
+                    "tela de pintura",
+                    "fracassado",
+                    "alívio cômico"
+                ],
+                "text": "Na luta livre profissional você seria o <BLANK>.",
+                "type": "substantivo - algo que é golpeado na luta livre"
+            },
+            "gene": [
+                "Ric Flair",
+                "Ele era o Menino da Natureza, caso você se importe."
+            ],
+            "x": false,
+            "id": 52786
+        },
+        {
+            "a": {
+                "examples": [
+                    "suburbano",
+                    "manchado",
+                    "então ontem"
+                ],
+                "text": "Seu jogo de palavras é maluco, seus tópicos são <BLANK>.",
+                "type": "adjetivo negativo"
+            },
+            "gene": [
+                "pervinca",
+                "Com licença, enquanto faço um toque de batalha de rap"
+            ],
+            "x": false,
+            "id": 52789
+        },
+        {
+            "a": {
+                "examples": [
+                    "biscoito",
+                    "lar",
+                    "troféu"
+                ],
+                "text": "É assim que você faz? Deixe-me dar um <BLANK>você.",
+                "type": "substantivo singular - um objeto"
+            },
+            "gene": [
+                "futon",
+                "Estou dizendo que foi ruim e você tem que se deitar."
+            ],
+            "x": false,
+            "id": 52441
+        },
+        {
+            "a": {
+                "examples": [
+                    "Crepúsculo",
+                    "3 horas da manhã",
+                    "hora do jantar"
+                ],
+                "text": "Você é tão útil quanto os painéis solares a <BLANK>.",
+                "type": "substantivo - hora escura do dia"
+            },
+            "gene": [
+                "Hardware Lowe",
+                "É lógico, eu encontraria você lá."
+            ],
+            "x": false,
+            "id": 52787
+        },
+        {
+            "a": {
+                "examples": [
+                    "pó",
+                    "sujeira",
+                    "mofo"
+                ],
+                "text": "Você tem uma caixa de troféus vazia com <BLANK>.",
+                "type": "substantivo - termo para 'sujeira'"
+            },
+            "gene": [
+                "fragmento",
+                "Eu ainda digo que o aparelho é uma forma legal de brilhar."
+            ],
+            "x": false,
+            "id": 52703
+        },
+        {
+            "a": {
+                "examples": [
+                    "Cortar",
+                    "varrer",
+                    "esfregar"
+                ],
+                "text": "Você já terminou? Eu tenho que ir <BLANK>.",
+                "type": "verbo"
+            },
+            "gene": [
+                "amido",
+                "Devo dizer que foi um março excepcionalmente frio."
+            ],
+            "x": false,
+            "id": 52751
+        },
+        {
+            "a": {
+                "examples": [
+                    "ver",
+                    "motocicleta",
+                    "vaso"
+                ],
+                "text": "Seu rosto é tão feio que você quebrou meu <BLANK>.",
+                "type": "substantivo - coisa quebrável"
+            },
+            "gene": [
+                "coração",
+                "Por que se apaixonar quando vamos apenas nos separar?"
+            ],
+            "x": false,
+            "id": 52705
+        },
+        {
+            "a": {
+                "examples": [
+                    "furto",
+                    "incêndio culposo",
+                    "fraude fiscal"
+                ],
+                "text": "Você diz que mata versos, mas apenas comete <BLANK>.",
+                "type": "substantivo singular - um crime"
+            },
+            "gene": [
+                "fraude eleitoral",
+                "A chave para um jardim verde é usar grama boa."
+            ],
+            "x": false,
+            "id": 52704
+        },
+        {
+            "a": {
+                "examples": [
+                    "fedido",
+                    "nocivo",
+                    "repulsivo"
+                ],
+                "text": "É difícil respirar porque seus raps são <BLANK>.",
+                "type": "adjetivo - sinônimo de 'desagradável'"
+            },
+            "gene": [
+                "hediondo",
+                "Mas vou mudar de ideia se você ficar famoso."
+            ],
+            "x": false,
+            "id": 52755
+        },
+        {
+            "a": {
+                "examples": [
+                    "Gestão de resíduos",
+                    "Orkin",
+                    "Fazenda Estadual"
+                ],
+                "text": "Esqueça Ghostbusters para você, eu chamaria de <BLANK>.",
+                "type": "nome próprio - um negócio"
+            },
+            "gene": [
+                "conserto de robô",
+                "Tudo o que estou dizendo é que me importo."
+            ],
+            "x": false,
+            "id": 52479
+        },
+        {
+            "a": {
+                "examples": [
+                    "euros",
+                    "coroa",
+                    "contas de vidro"
+                ],
+                "text": "Vou educar sua mensalidade é de um bilhão <BLANK>.",
+                "type": "substantivo plural - um tipo de moeda"
+            },
+            "gene": [
+                "iene",
+                "A aula começa agora, pegue um caderno e uma caneta."
+            ],
+            "x": false,
+            "id": 52549
+        },
+        {
+            "a": {
+                "examples": [
+                    "copo de água",
+                    "X-Burger",
+                    "peso de um quilo"
+                ],
+                "text": "Não se pode confiar em você para carregar um <BLANK>.",
+                "type": "pronome singular"
+            },
+            "gene": [
+                "bandeja de aperitivos",
+                "Tenho certeza de que catering é, não é sua praia de qualquer maneira."
+            ],
+            "x": false,
+            "id": 52477
+        },
+        {
+            "a": {
+                "examples": [
+                    "QVC",
+                    "'Baywatch'",
+                    "'E o Vento Levou'"
+                ],
+                "text": "Você é mais chato do que <BLANK>.",
+                "type": "filme / programa de TV / rede"
+            },
+            "gene": [
+                "'Tinker Tailor Soldier Spy'",
+                "Honestamente, eu queria gostar. Tentei."
+            ],
+            "x": false,
+            "id": 52511
+        },
+        {
+            "a": {
+                "examples": [
+                    "Banco",
+                    "escola",
+                    "lava-jato"
+                ],
+                "text": "Basta colocar o casaco e correr para <BLANK>.",
+                "type": "substantivo singular - localização"
+            },
+            "gene": [
+                "Lacuna",
+                "E enquanto você está aí, você vai me dar um novo boné?"
+            ],
+            "x": false,
+            "id": 52752
+        },
+        {
+            "a": {
+                "examples": [
+                    "cruel",
+                    "velho",
+                    "sinistro"
+                ],
+                "text": "Eu ouvi o que você disse sobre mim! Você é <BLANK>!",
+                "type": "adjetivo negativo"
+            },
+            "gene": [
+                "linda",
+                "Vamos passear, você eu e meus corgis."
+            ],
+            "x": false,
+            "id": 52547
+        },
+        {
+            "a": {
+                "examples": [
+                    "glacial",
+                    "apático",
+                    "frio"
+                ],
+                "text": "Caramba, sua última rima foi patética e <BLANK>.",
+                "type": "adjetivo - sinônimo de 'lento'"
+            },
+            "gene": [
+                "letárgico",
+                "O que você estava, congelado no Ártico? haha"
+            ],
+            "x": false,
+            "id": 52509
+        },
+        {
+            "a": {
+                "examples": [
+                    "creme",
+                    "pisoteado",
+                    "saltou"
+                ],
+                "text": "Venha até mim e você obterá <BLANK>.",
+                "type": "terminação verbal com -ed"
+            },
+            "gene": [
+                "estragado",
+                "Vou te dar uma massagem com os pés todo oleados."
+            ],
+            "x": true,
+            "id": 52499
+        },
+        {
+            "a": {
+                "examples": [
+                    "frio",
+                    "azul",
+                    "refrescante"
+                ],
+                "text": "Sinto falta dos dias, quando você tinha <BLANK>.",
+                "type": "adjetivo - descreve uma piscina"
+            },
+            "gene": [
+                "Tamanho olímpico",
+                "Agora você é tão pequenininho que não é civilizado."
+            ],
+            "x": false,
+            "id": 52510
+        },
+        {
+            "a": {
+                "examples": [
+                    "prato de doce",
+                    "panqueca",
+                    "iô-iô"
+                ],
+                "text": "Estou caçando troféus, mas você é apenas um <BLANK>.",
+                "type": "substantivo singular - objeto pequeno"
+            },
+            "gene": [
+                "camarão",
+                "Quando eu faço saias estampadas, sempre estrago a prega."
+            ],
+            "x": false,
+            "id": 52702
+        },
+        {
+            "a": {
+                "examples": [
+                    "Drake",
+                    "Phil Collins",
+                    "Um grupo de palhacos malucos"
+                ],
+                "text": "Ouvir você? Prefiro ouvir <BLANK>.",
+                "type": "substantivo próprio - um mau músico / cantor"
+            },
+            "gene": [
+                "Crença",
+                "Eu amo o Creed e estou querendo voltar atrás!"
+            ],
+            "x": false,
+            "id": 52513
+        },
+        {
+            "a": {
+                "examples": [
+                    "coragem",
+                    "generosidade",
+                    "beleza"
+                ],
+                "text": "Respire fundo, estou prestes a destruir o seu <BLANK>.",
+                "type": "substantivo abstrato"
+            },
+            "gene": [
+                "Educação",
+                "Deixe-me começar com esta citação insana de Marx."
+            ],
+            "x": false,
+            "id": 52500
+        },
+        {
+            "a": {
+                "examples": [
+                    "bonitinho",
+                    "Gentil",
+                    "generoso"
+                ],
+                "text": "Esqueça isso, eu cansei de ser <BLANK>.",
+                "type": "adjetivo positivo"
+            },
+            "gene": [
+                "pastoso",
+                "Meu personagem favorito em 'Friends' era Joey."
+            ],
+            "x": false,
+            "id": 50600
+        },
+        {
+            "a": {
+                "examples": [
+                    "sopa",
+                    "Macarrão",
+                    "baguetes"
+                ],
+                "text": "Você veio para mim agora eu estou indo para o seu <BLANK>",
+                "type": "substantivo - coisa encontrada em uma despensa"
+            },
+            "gene": [
+                "cereal",
+                "Vou lamber do chão, a sujeira é imaterial."
+            ],
+            "x": false,
+            "id": 52498
+        },
+        {
+            "a": {
+                "examples": [
+                    "escada",
+                    "dispositivo de flutuação",
+                    "roupa de banho"
+                ],
+                "text": "No pool genético humano você é o <BLANK>.",
+                "type": "substantivo comum - coisa encontrada em uma piscina"
+            },
+            "gene": [
+                "Tubarão",
+                "Você é a razão de eu não nadar no escuro."
+            ],
+            "x": false,
+            "id": 52481
+        },
+        {
+            "a": {
+                "examples": [
+                    "velho",
+                    "monótono",
+                    "enfadonho"
+                ],
+                "text": "Estou a adormecer. Seus versos são <BLANK>.",
+                "type": "adjetivo - sinônimo de 'chato'"
+            },
+            "gene": [
+                "plebeu",
+                "Então, fecho meus olhos e sonho com o Caribe."
+            ],
+            "x": false,
+            "id": 52442
+        },
+        {
+            "a": {
+                "examples": [
+                    "lápis",
+                    "cavalo",
+                    "cortinas"
+                ],
+                "text": "Sua mãe é tão burra que diz \"rap\" que rima com <BLANK>.",
+                "type": "uma palavra que não rima com rap"
+            },
+            "gene": [
+                "armadilha",
+                "Oh, droga. Eu apenas caí em um."
+            ],
+            "x": true,
+            "id": 52480
+        },
+        {
+            "a": {
+                "examples": [
+                    "cobras",
+                    "vermes",
+                    "lixo"
+                ],
+                "text": "Encarar seu rosto é como olhar para <BLANK>.",
+                "type": "substantivo plural - coisas feias"
+            },
+            "gene": [
+                "perigos",
+                "Meu quinto time de beisebol favorito é o Texas Rangers."
+            ],
+            "x": false,
+            "id": 52483
+        },
+        {
+            "a": {
+                "examples": [
+                    "Sprite",
+                    "agua",
+                    "milkshake"
+                ],
+                "text": "Se você estivesse morrendo de sede, eu não lhe daria um <BLANK>.",
+                "type": "substantivo singular - bebida"
+            },
+            "gene": [
+                "uísque",
+                "Nessas circunstâncias, seria arriscado."
+            ],
+            "x": true,
+            "id": 52478
+        },
+        {
+            "a": {
+                "examples": [
+                    "idiotas",
+                    "ladrões",
+                    "monstros"
+                ],
+                "text": "Não consigo ouvir o que você diz. Sou surdo para <BLANK>.",
+                "type": "substantivo plural - coisas terríveis"
+            },
+            "gene": [
+                "trocadilhos",
+                "Eu nunca pulo a padaria, então tenho pães grandes."
+            ],
+            "x": true,
+            "id": 51861
+        },
+        {
+            "a": {
+                "examples": [
+                    "bicicleta",
+                    "carro",
+                    "barco a vela"
+                ],
+                "text": "Tentando acompanhar? Deixe-me dar um <BLANK>você.",
+                "type": "substantivo singular - veículo"
+            },
+            "gene": [
+                "reboque de trator",
+                "Estou aqui navegando na minha mala direta do supermercado local."
+            ],
+            "x": false,
+            "id": 52443
+        },
+        {
+            "a": {
+                "examples": [
+                    "médico",
+                    "enfermeira",
+                    "cirurgião"
+                ],
+                "text": "Você falhou tanto que eles tiveram que chamar um <BLANK>.",
+                "type": "substantivo comum - profissional médico"
+            },
+            "gene": [
+                "especialista",
+                "Só para você saber, eu documento cada diss."
+            ],
+            "x": false,
+            "id": 52439
+        },
+        {
+            "a": {
+                "examples": [
+                    "em volta",
+                    "baixa",
+                    "sobre"
+                ],
+                "text": "Ninguém vai me empurrar <BLANK>.",
+                "type": "preposição"
+            },
+            "gene": [
+                "Através dos",
+                "A menos que seja uma casa mal-assombrada. Então, por favor, faça!"
+            ],
+            "x": false,
+            "id": 50601
+        },
+        {
+            "a": {
+                "examples": [
+                    "Macarrão",
+                    "cabelo molhado",
+                    "Tortas"
+                ],
+                "text": "Suas rimas são moles como um balde de <BLANK>.",
+                "type": "substantivo plural - coisas flexíveis"
+            },
+            "gene": [
+                "verdes mistos",
+                "Você notou que estou usando meu jeans do colégio?"
+            ],
+            "x": true,
+            "id": 52214
+        },
+        {
+            "a": {
+                "examples": [
+                    "almoço",
+                    "colar",
+                    "Casa de passarinho"
+                ],
+                "text": "Seus raps estão morrendo de vontade de cavar o seu próprio <BLANK>.",
+                "type": "substantivo - coisa que você faz"
+            },
+            "gene": [
+                "bebê",
+                "Quando eu faço CrossFit, eu bato 'Call Me Maybe'."
+            ],
+            "x": false,
+            "id": 52424
+        },
+        {
+            "a": {
+                "examples": [
+                    "lar",
+                    "carro",
+                    "dedos dos pés"
+                ],
+                "text": "Você feriu meus sentimentos, vou esmagar seu <BLANK>.",
+                "type": "substantivo - uma possessão"
+            },
+            "gene": [
+                "uva",
+                "Isso é o que acontece quando Gene. Vai. Macaco."
+            ],
+            "x": false,
+            "id": 52400
+        },
+        {
+            "a": {
+                "examples": [
+                    "corajoso",
+                    "frio",
+                    "resistente"
+                ],
+                "text": "Venha pegar um se você acha que tem <BLANK>.",
+                "type": "adjetivo positivo"
+            },
+            "gene": [
+                "especial",
+                "Parece que sempre desisto sob pressão."
+            ],
+            "x": false,
+            "id": 52693
+        },
+        {
+            "a": {
+                "examples": [
+                    "sapatos",
+                    "animais de estimação",
+                    "trabalho de casa"
+                ],
+                "text": "Você me chama de fracasso, mas eu vi o seu <BLANK>.",
+                "type": "substantivo comum plural"
+            },
+            "gene": [
+                "dívida",
+                "Tentar investir em carne suína é sempre uma aposta segura."
+            ],
+            "x": false,
+            "id": 52080
+        },
+        {
+            "a": {
+                "examples": [
+                    "norte",
+                    "lateralmente",
+                    "pra cima"
+                ],
+                "text": "Se eu te visse online, deslizaria <BLANK>.",
+                "type": "substantivo - uma direção"
+            },
+            "gene": [
+                "inclinação",
+                "Isso significa que você será meu mentor e serei sua tia."
+            ],
+            "x": true,
+            "id": 52397
+        },
+        {
+            "a": {
+                "examples": [
+                    "estagiário",
+                    "COO",
+                    "Supervisor"
+                ],
+                "text": "Você não é o chefe de mim, nem mesmo o meu <BLANK>.",
+                "type": "substantivo - cargo oficial"
+            },
+            "gene": [
+                "Diretor de Recursos Humanos",
+                "Ela trabalha duro. É por isso que a respeito."
+            ],
+            "x": false,
+            "id": 50602
+        },
+        {
+            "a": {
+                "examples": [
+                    "grãos",
+                    "panquecas",
+                    "bacon"
+                ],
+                "text": "É isso que você tem a dizer? Bem, beije meu <BLANK>.",
+                "type": "substantivo plural - comida de café da manhã"
+            },
+            "gene": [
+                "parfaits",
+                "O que eu só faço nos aniversários."
+            ],
+            "x": true,
+            "id": 52217
+        },
+        {
+            "a": {
+                "examples": [
+                    "silenciosamente",
+                    "Rápido",
+                    "monstruosamente"
+                ],
+                "text": "Você executa sua boca Eu escolho minhas palavras <BLANK>.",
+                "type": "advérbio"
+            },
+            "gene": [
+                "aleatoriamente",
+                "Não uso meu nome para responder a pesquisas com franqueza."
+            ],
+            "x": false,
+            "id": 51917
+        },
+        {
+            "a": {
+                "examples": [
+                    "ensino",
+                    "rolando",
+                    "fazendo carinho"
+                ],
+                "text": "Você está em baixa para a contagem, então é melhor parar <BLANK>.",
+                "type": "verbo - terminando em -ing"
+            },
+            "gene": [
+                "labutando",
+                "Não estou assobiando para você, meu chá está apenas fervendo."
+            ],
+            "x": false,
+            "id": 52079
+        },
+        {
+            "a": {
+                "examples": [
+                    "garfo",
+                    "pano de prato",
+                    "frigideira"
+                ],
+                "text": "Eu ouvi o que você disse, esse é o último <BLANK>.",
+                "type": "substantivo - utensílio de cozinha"
+            },
+            "gene": [
+                "rolo de papel alumínio",
+                "Ajude-me a embrulhar meu sanduíche ou ele estragará."
+            ],
+            "x": false,
+            "id": 52129
+        },
+        {
+            "a": {
+                "examples": [
+                    "'ENTALHE'",
+                    "'Kevin pode esperar'",
+                    "'Dois homens e Meio'"
+                ],
+                "text": "Você é mais fraco do que uma temporada de <BLANK>.",
+                "type": "substantivo próprio - programa de TV ruim"
+            },
+            "gene": [
+                "'Murphy Brown'",
+                "Na verdade eu gosto desse show. Miles é um palhaço!"
+            ],
+            "x": false,
+            "id": 50604
+        },
+        {
+            "a": {
+                "examples": [
+                    "meias",
+                    "sapatos",
+                    "pijamas"
+                ],
+                "text": "Você tenta igualar o juízo, mas só consegue acertar <BLANK>.",
+                "type": "substantivo plural - coisas emparelhadas"
+            },
+            "gene": [
+                "agulhas de tricô",
+                "Meu apartamento vibra porque está cheio de besouros."
+            ],
+            "x": false,
+            "id": 52216
+        },
+        {
+            "a": {
+                "examples": [
+                    "coração",
+                    "pulmões",
+                    "pé"
+                ],
+                "text": "Clack clack clack! vá meus saltos em seu <BLANK>.",
+                "type": "substantivo - uma parte do corpo"
+            },
+            "gene": [
+                "coxa",
+                "Eu te esfaqueei, desculpe, atirar, você está bem?"
+            ],
+            "x": false,
+            "id": 51900
+        },
+        {
+            "a": {
+                "examples": [
+                    "louco",
+                    "estranhas",
+                    "intenso"
+                ],
+                "text": "De joelhos, antes que eu ganhe <BLANK>.",
+                "type": "adjetivo negativo"
+            },
+            "gene": [
+                "nozes",
+                "Eu sou bom nesse rap! Eu estou possuindo suas bundas!"
+            ],
+            "x": true,
+            "id": 52392
+        },
+        {
+            "a": {
+                "examples": [
+                    "explodir",
+                    "pular chute",
+                    "pausa"
+                ],
+                "text": "Tente me segurar e ainda vou <BLANK>.",
+                "type": "verbo"
+            },
+            "gene": [
+                "arremesso de judô",
+                "Eu me empanturro com Swedish Fish quando estou me sentindo mal."
+            ],
+            "x": false,
+            "id": 51920
+        },
+        {
+            "a": {
+                "examples": [
+                    "resfriado",
+                    "sarnento",
+                    "buggy"
+                ],
+                "text": "Largando o microfone porque suas mãos também estão <BLANK>.",
+                "type": "adjetivo negativo"
+            },
+            "gene": [
+                "com luva",
+                "Perdi um par de luvas que adorei."
+            ],
+            "x": false,
+            "id": 52082
+        },
+        {
+            "a": {
+                "examples": [
+                    "zumbido",
+                    "gritando",
+                    "trituração"
+                ],
+                "text": "Você não fala por falar. Tudo o que ouço é <BLANK>.",
+                "type": "substantivo - sinônimo para 'falar'"
+            },
+            "gene": [
+                "estridente",
+                "'Não fale com estranhos' é uma regra que vale a pena ensinar."
+            ],
+            "x": false,
+            "id": 52021
+        },
+        {
+            "a": {
+                "examples": [
+                    "desespero",
+                    "dor",
+                    "agonia"
+                ],
+                "text": "Vou colocar sua bunda em um cone de <BLANK>.",
+                "type": "substantivo - estado mental desagradável"
+            },
+            "gene": [
+                "sorvete",
+                "Espero que goste do Sonho de Americone de Ben e Jerry."
+            ],
+            "x": true,
+            "id": 52151
+        },
+        {
+            "a": {
+                "examples": [
+                    "aardvarks",
+                    "pôneis",
+                    "morcegos"
+                ],
+                "text": "O que você tem? Você foi aumentado por <BLANK>?",
+                "type": "plural substantivo - tipo de animal"
+            },
+            "gene": [
+                "tatus",
+                "Eu comecei um hobby, bordar travesseiros!"
+            ],
+            "x": false,
+            "id": 52390
+        },
+        {
+            "a": {
+                "examples": [
+                    "Bruto",
+                    "fraco",
+                    "alto"
+                ],
+                "text": "Eu queria um desafio, mas você também é <BLANK>.",
+                "type": "adjetivo negativo"
+            },
+            "gene": [
+                "funky",
+                "Eu realmente odeio esses jeans. Eu pareço corpulento?"
+            ],
+            "x": false,
+            "id": 51918
+        },
+        {
+            "a": {
+                "examples": [
+                    "coletes",
+                    "cachorros",
+                    "vovôs"
+                ],
+                "text": "As coisas que eu desprezo mais do que você são <BLANK>.",
+                "type": "substantivo plural"
+            },
+            "gene": [
+                "cavernas",
+                "Não há nada para fazer nas cavernas."
+            ],
+            "x": false,
+            "id": 52127
+        },
+        {
+            "a": {
+                "examples": [
+                    "prédio",
+                    "passeios de barco",
+                    "cantando"
+                ],
+                "text": "Peguei o seu pior e ainda estou <BLANK>.",
+                "type": "verbo - terminando em -ing"
+            },
+            "gene": [
+                "choro",
+                "Eles dizem que palavras não machucam, mas eles estavam mentindo."
+            ],
+            "x": false,
+            "id": 51919
+        },
+        {
+            "a": {
+                "examples": [
+                    "habilidade",
+                    "ritmo",
+                    "estilo"
+                ],
+                "text": "Isso não é para pessoas que não receberam <BLANK>.",
+                "type": "substantivo - sinônimo de 'habilidade'"
+            },
+            "gene": [
+                "lúpulo",
+                "Meu pai não gosta quando eu o chamo de 'papai'."
+            ],
+            "x": false,
+            "id": 50605
+        },
+        {
+            "a": {
+                "examples": [
+                    "barato",
+                    "idiota",
+                    "odoroso"
+                ],
+                "text": "Eu te chamaria de lixo, mas lixo não é esse <BLANK>.",
+                "type": "adjetivo negativo"
+            },
+            "gene": [
+                "pálido",
+                "Tento me alimentar de forma saudável, mas não suporto couve."
+            ],
+            "x": false,
+            "id": 51951
+        },
+        {
+            "a": {
+                "examples": [
+                    "Esquilo",
+                    "rinoceronte",
+                    "lince"
+                ],
+                "text": "Já ouvi sons melhores saindo de <BLANK>.",
+                "type": "substantivo singular - animal"
+            },
+            "gene": [
+                "peixinho dourado",
+                "Abacaxi na pizza, é totalmente delicioso!"
+            ],
+            "x": false,
+            "id": 51443
+        },
+        {
+            "a": {
+                "examples": [
+                    "médico",
+                    "barista",
+                    "guarda de trânsito"
+                ],
+                "text": "Você errou? Devo chamar o <BLANK>?",
+                "type": "substantivo - uma profissão"
+            },
+            "gene": [
+                "cara da cabo",
+                "Eles têm boas taxas quando você faz pacote com Wi-Fi."
+            ],
+            "x": false,
+            "id": 52383
+        },
+        {
+            "a": {
+                "examples": [
+                    "queimado",
+                    "servido",
+                    "naufragado"
+                ],
+                "text": "Que dia é hoje? É o dia em que você recebe <BLANK>.",
+                "type": "verbo - terminando com -ed"
+            },
+            "gene": [
+                "fez cócegas",
+                "Eu gosto de kimchi. É repolho em conserva!"
+            ],
+            "x": false,
+            "id": 52388
+        },
+        {
+            "a": {
+                "examples": [
+                    "pónei",
+                    "frango",
+                    "Ganso"
+                ],
+                "text": "Você não é tão quente. Você é um <BLANK>normal.",
+                "type": "substantivo comum - um animal de fazenda"
+            },
+            "gene": [
+                "touro",
+                "Às vezes, empurro uma porta quando diz 'puxar'."
+            ],
+            "x": false,
+            "id": 52382
+        },
+        {
+            "a": {
+                "examples": [
+                    "montanhas",
+                    "pântano",
+                    "ártico"
+                ],
+                "text": "Por que você não vai embora? Volte para o <BLANK>.",
+                "type": "substantivo - um local remoto"
+            },
+            "gene": [
+                "Ohio",
+                "Isso sim foi uma queimadura. Oh me-o-my-o."
+            ],
+            "x": false,
+            "id": 52389
+        },
+        {
+            "a": {
+                "examples": [
+                    "agua",
+                    "Sprite Dieta",
+                    "café"
+                ],
+                "text": "Estou fazendo você suar? Você precisa de um <BLANK>?",
+                "type": "substantivo singular - bebida"
+            },
+            "gene": [
+                "Código vermelho",
+                "Oh você está bem? Acho que foi só na minha cabeça."
+            ],
+            "x": false,
+            "id": 51727
+        },
+        {
+            "a": {
+                "examples": [
+                    "bonitinho",
+                    "malcheiroso",
+                    "inesperado"
+                ],
+                "text": "Isso é tudo que você tem? Isso foi muito <BLANK>.",
+                "type": "adjetivo - descrever um bebê"
+            },
+            "gene": [
+                "com cólicas",
+                "Eu chorei e chorei todo o caminho até Dollar Tree."
+            ],
+            "x": false,
+            "id": 51808
+        },
+        {
+            "a": {
+                "examples": [
+                    "registro",
+                    "sapato",
+                    "peruca"
+                ],
+                "text": "Você está me entediando como um <BLANK>desgastado.",
+                "type": "substantivo - algo antigo"
+            },
+            "gene": [
+                "iô-iô",
+                "Overhunting, acabou com o dodô."
+            ],
+            "x": false,
+            "id": 52359
+        },
+        {
+            "a": {
+                "examples": [
+                    "esgoto",
+                    "posto de gasolina",
+                    "Denny's"
+                ],
+                "text": "Você não pode me pegar Eu escorrego no <BLANK>.",
+                "type": "substantivo - uma localização"
+            },
+            "gene": [
+                "pântano",
+                "Jacarés me esmagam como chomp chomp chomp."
+            ],
+            "x": false,
+            "id": 51837
+        },
+        {
+            "a": {
+                "examples": [
+                    "flop",
+                    "insucesso",
+                    "Peru"
+                ],
+                "text": "Não consigo parar de ganhar, você é um total <BLANK>.",
+                "type": "substantivo - palavra para 'perdedor'"
+            },
+            "gene": [
+                "fiasco",
+                "Eu possuo o DVD de 'Donnie Brasco'."
+            ],
+            "x": false,
+            "id": 51575
+        },
+        {
+            "a": {
+                "examples": [
+                    "Sete",
+                    "uma dúzia",
+                    "dois milhões"
+                ],
+                "text": "Eu tenho seu número e você é menor que <BLANK>.",
+                "type": "substantivo - um número"
+            },
+            "gene": [
+                "46",
+                "Quando como um cachorro-quente, eu chamo de remix de porco."
+            ],
+            "x": false,
+            "id": 51637
+        },
+        {
+            "a": {
+                "examples": [
+                    "mau",
+                    "assustada",
+                    "com medo"
+                ],
+                "text": "Pare de olhar para mim com aquela cara então <BLANK>.",
+                "type": "adjetivo negativo"
+            },
+            "gene": [
+                "bonitinho",
+                "Este jogo é tão divertido! Uma piada regular!"
+            ],
+            "x": false,
+            "id": 52301
+        },
+        {
+            "a": {
+                "examples": [
+                    "paranóico",
+                    "assustada",
+                    "inútil"
+                ],
+                "text": "Eu estou bagunçando você fazendo você se sentir <BLANK>.",
+                "type": "adjetivo - um estado de espírito"
+            },
+            "gene": [
+                "desgostoso",
+                "Eu chamo de peido 'tooting' ou 'vento fraco'."
+            ],
+            "x": false,
+            "id": 52358
+        },
+        {
+            "a": {
+                "examples": [
+                    "lixo",
+                    "centavos",
+                    "recibos"
+                ],
+                "text": "Lamento saber que você trouxe apenas <BLANK>.",
+                "type": "substantivo plural - coisas sem valor"
+            },
+            "gene": [
+                "secar fiapos",
+                "Eu posso te oferecer chiclete. É hortelã-pimenta."
+            ],
+            "x": false,
+            "id": 51729
+        },
+        {
+            "a": {
+                "examples": [
+                    "Pasta de dentes",
+                    "Hamburguer de queijo",
+                    "Meias"
+                ],
+                "text": "Meu apelido para você é Lil ' <BLANK>.",
+                "type": "substantivo - última coisa que você comprou"
+            },
+            "gene": [
+                "Pêssegos",
+                "Nada me faz chorar como o fim de 'Praias'."
+            ],
+            "x": false,
+            "id": 51568
+        },
+        {
+            "a": {
+                "examples": [
+                    "tio",
+                    "sobrinha",
+                    "prima"
+                ],
+                "text": "Eu terei meu bolo e comerei com seu <BLANK>.",
+                "type": "substantivo comum - um parente"
+            },
+            "gene": [
+                "pai",
+                "Se ele odeia baunilha, não vou incomodar."
+            ],
+            "x": false,
+            "id": 52287
+        },
+        {
+            "a": {
+                "examples": [
+                    "besouro",
+                    "dedo mindinho",
+                    "peidar"
+                ],
+                "text": "Seu cérebro é tão pequeno que tem o tamanho de um <BLANK>.",
+                "type": "substantivo singular - coisinha"
+            },
+            "gene": [
+                "Kumquat",
+                "Para ver, é preciso agachar-se em um agachamento idiota."
+            ],
+            "x": false,
+            "id": 52267
+        },
+        {
+            "a": {
+                "examples": [
+                    "ao melhor",
+                    "tão bom",
+                    "Uma lenda"
+                ],
+                "text": "Você está tão errado em pensar que você é <BLANK>.",
+                "type": "adjetivo positivo"
+            },
+            "gene": [
+                "Tom Hanks",
+                "Ele disse oi para mim uma vez. Eu apenas respondi 'obrigado'."
+            ],
+            "x": false,
+            "id": 52268
+        },
+        {
+            "a": {
+                "examples": [
+                    "outono",
+                    "viagem",
+                    "batida"
+                ],
+                "text": "Você não pode ficar comigo, você vai <BLANK>.",
+                "type": "verbo - coisa que você faz acidentalmente"
+            },
+            "gene": [
+                "explodir",
+                "Assim como Todd, mesmo se ele estiver no Modo Fácil."
+            ],
+            "x": false,
+            "id": 52261
+        },
+        {
+            "a": {
+                "examples": [
+                    "Muito de",
+                    "rapidamente",
+                    "muitas vezes"
+                ],
+                "text": "Droga, garoto, você fala também <BLANK>.",
+                "type": "advérbio"
+            },
+            "gene": [
+                "Discretamente",
+                "A banda de Springsteen vem da Street E."
+            ],
+            "x": true,
+            "id": 52262
+        },
+        {
+            "a": {
+                "examples": [
+                    "fêmur",
+                    "joelhos",
+                    "pés"
+                ],
+                "text": "Cuidado para não tropeçar no seu próprio <BLANK>.",
+                "type": "substantivo - parte do corpo"
+            },
+            "gene": [
+                "trapézio",
+                "Certifique-se de que seus sapatos estão amarrados, é mais fácil."
+            ],
+            "x": false,
+            "id": 52263
+        },
+        {
+            "a": {
+                "examples": [
+                    "doloroso",
+                    "patético",
+                    "monótono"
+                ],
+                "text": "Poderíamos estar juntos se suas habilidades não fossem tão <BLANK>.",
+                "type": "adjetivo negativo"
+            },
+            "gene": [
+                "desagradável",
+                "Meias de Natal não é um presente divertido."
+            ],
+            "x": false,
+            "id": 52286
+        },
+        {
+            "a": {
+                "examples": [
+                    "fedorento",
+                    "falhando",
+                    "estragando tudo"
+                ],
+                "text": "Você não é nenhum Superman. Seu poder é <BLANK>.",
+                "type": "verbo terminando em -ing"
+            },
+            "gene": [
+                "amizade",
+                "E não é isso que importa no final?"
+            ],
+            "x": false,
+            "id": 52299
+        },
+        {
+            "a": {
+                "examples": [
+                    "no quarto",
+                    "ao meu lado",
+                    "na cama"
+                ],
+                "text": "O trem saiu da estação e você está <BLANK>.",
+                "type": "frase preposicional - onde está seu oponente?"
+            },
+            "gene": [
+                "na plataforma",
+                "O que é pior, uma tempestade de cães ou gatos?"
+            ],
+            "x": false,
+            "id": 52284
+        },
+        {
+            "a": {
+                "examples": [
+                    "gritar",
+                    "lutar",
+                    "explodir"
+                ],
+                "text": "Quando ouço sua voz, quero <BLANK>.",
+                "type": "verbo - uma ação agressiva"
+            },
+            "gene": [
+                "Veja",
+                "Acho que você seria perfeito para um audiolivro."
+            ],
+            "x": false,
+            "id": 52309
+        },
+        {
+            "a": {
+                "examples": [
+                    "banana",
+                    "mirtilo",
+                    "queijo tipo cottage"
+                ],
+                "text": "Pergunta rápida: você é legítimo ou um <BLANK>?",
+                "type": "substantivo singular - alimento macio"
+            },
+            "gene": [
+                "fatia de peru",
+                "Algo que gosto, servido com arroz."
+            ],
+            "x": false,
+            "id": 52273
+        },
+        {
+            "a": {
+                "examples": [
+                    "empurrão",
+                    "Chora bebê",
+                    "rato"
+                ],
+                "text": "Entenda isso, você não é nada além de <BLANK>.",
+                "type": "substantivo singular - algo irritante"
+            },
+            "gene": [
+                "herói",
+                "Como se diz essa palavra, giroscópio ou geero?"
+            ],
+            "x": false,
+            "id": 52304
+        },
+        {
+            "a": {
+                "examples": [
+                    "zumbir fora",
+                    "dar uma caminhada",
+                    "vá em branco"
+                ],
+                "text": "Coloque a boca ou cale a boca ou <BLANK>.",
+                "type": "frase verbal / substantivo - sugere um ato obsceno"
+            },
+            "gene": [
+                "Longe",
+                "Meu hálito de atum pode mantê-lo afastado."
+            ],
+            "x": true,
+            "id": 52277
+        },
+        {
+            "a": {
+                "examples": [
+                    "recatado",
+                    "simples",
+                    "básico"
+                ],
+                "text": "Não vou dizer que você é o pior. Isso é muito <BLANK>.",
+                "type": "adjetivo negativo"
+            },
+            "gene": [
+                "comum",
+                "Como um universitário comendo ramen."
+            ],
+            "x": false,
+            "id": 52282
+        },
+        {
+            "a": {
+                "examples": [
+                    "O bruxo",
+                    "um macaco voador",
+                    "Dorothy"
+                ],
+                "text": "Você é o Leão Covarde, eu sou <BLANK>.",
+                "type": "um personagem mágico de oz"
+            },
+            "gene": [
+                "um Munchkin",
+                "Meu alcance é pequeno, mas vou dar um soco."
+            ],
+            "x": false,
+            "id": 52292
+        },
+        {
+            "a": {
+                "examples": [
+                    "cansado",
+                    "trêmulo",
+                    "frágil"
+                ],
+                "text": "Meu verso é lenda, o seu é <BLANK>.",
+                "type": "adjetivo - baixa qualidade"
+            },
+            "gene": [
+                "mancar",
+                "Quando eu era jovem, as crianças me chamavam de 'camarão'."
+            ],
+            "x": false,
+            "id": 52285
+        },
+        {
+            "a": {
+                "examples": [
+                    "intrigado",
+                    "pasmo",
+                    "curioso"
+                ],
+                "text": "Você quer meu autógrafo? Porque você parece <BLANK>.",
+                "type": "adjetivo positivo"
+            },
+            "gene": [
+                "encantado",
+                "Preciso dos meus óculos porque sou míope."
+            ],
+            "x": false,
+            "id": 52276
+        },
+        {
+            "a": {
+                "examples": [
+                    "palhaço",
+                    "dentista",
+                    "zelador"
+                ],
+                "text": "Parece que você estava vestido por um <BLANK>.",
+                "type": "substantivo - uma ocupação"
+            },
+            "gene": [
+                "pregador",
+                "O que eu acho legal. Você pode ser meu professor?"
+            ],
+            "x": false,
+            "id": 52313
+        },
+        {
+            "a": {
+                "examples": [
+                    "triste",
+                    "nervoso",
+                    "patético"
+                ],
+                "text": "Eu não tenho uso para as pessoas, então <BLANK>.",
+                "type": "adjetivo - estado emocional"
+            },
+            "gene": [
+                "mau",
+                "Mas vou te dar um abraço. Isso não parece bom?"
+            ],
+            "x": false,
+            "id": 52295
+        },
+        {
+            "a": {
+                "examples": [
+                    "lixo velho",
+                    "mal hálito",
+                    "BO"
+                ],
+                "text": "Eu sabia que você estava vindo porque cheirei <BLANK>.",
+                "type": "substantivo - algo que cheira"
+            },
+            "gene": [
+                "balas de hortelã",
+                "Para sua informação, acho que você cheira a hortelã."
+            ],
+            "x": false,
+            "id": 52298
+        },
+        {
+            "a": {
+                "examples": [
+                    "vomitar",
+                    "cuspir",
+                    "gritar"
+                ],
+                "text": "Um olhar para você e eu quero <BLANK>.",
+                "type": "verbo - ação negativa"
+            },
+            "gene": [
+                "Almoçar",
+                "Vou querer um BLT e um Punch havaiano."
+            ],
+            "x": false,
+            "id": 52296
+        },
+        {
+            "a": {
+                "examples": [
+                    "cuspir",
+                    "agua",
+                    "pasta de dentes"
+                ],
+                "text": "Eu estou aqui cuspindo barras, você está cuspindo <BLANK>.",
+                "type": "substantivo - algo que você cuspiu"
+            },
+            "gene": [
+                "poemas",
+                "Você tem um grande talento. Suportes para você Holmes."
+            ],
+            "x": false,
+            "id": 52312
+        },
+        {
+            "a": {
+                "examples": [
+                    "bebê",
+                    "pirralho",
+                    "empurrão"
+                ],
+                "text": "Sua voz é irritante como um <BLANK>chorão.",
+                "type": "substantivo singular - algo irritante"
+            },
+            "gene": [
+                "pássaro",
+                "Claro que estou brincando. Não seja absurdo!"
+            ],
+            "x": false,
+            "id": 52303
+        },
+        {
+            "a": {
+                "examples": [
+                    "manteiga",
+                    "baixa",
+                    "seda"
+                ],
+                "text": "Olhe para você, você é mais suave do que <BLANK>.",
+                "type": "substantivo - material macio"
+            },
+            "gene": [
+                "um gatinho",
+                "Quando se trata de gatos, você sabe que estou apaixonado."
+            ],
+            "x": false,
+            "id": 52314
+        },
+        {
+            "a": {
+                "examples": [
+                    "magro",
+                    "pálido",
+                    "maciço"
+                ],
+                "text": "Você machuca meus olhos, seu rosto é tão <BLANK>.",
+                "type": "adjetivo negativo"
+            },
+            "gene": [
+                "brilhando",
+                "Rasgo tantos versos que comecei a costurar."
+            ],
+            "x": false,
+            "id": 51640
+        },
+        {
+            "a": {
+                "examples": [
+                    "Tom Cruise",
+                    "Oprah",
+                    "Sapo"
+                ],
+                "text": "Eu ouço você falando, você soa como <BLANK>.",
+                "type": "nome próprio - uma celebridade"
+            },
+            "gene": [
+                "Pato Donald",
+                "Eu quero um refrigerante. Posso pegar um dólar emprestado?"
+            ],
+            "x": false,
+            "id": 52307
+        },
+        {
+            "a": {
+                "examples": [
+                    "poças",
+                    "gelo",
+                    "cascas de banana"
+                ],
+                "text": "Você está escorregando e escorregando como se estivesse no <BLANK>.",
+                "type": "substantivo plural - coisa escorregadia"
+            },
+            "gene": [
+                "sabonetes",
+                "Estou colocando suas rimas em envelopes pré-pagos."
+            ],
+            "x": false,
+            "id": 51715
+        },
+        {
+            "a": {
+                "examples": [
+                    "entediante",
+                    "desnecessário",
+                    "velho"
+                ],
+                "text": "Ninguém gosta de você, suas rimas são <BLANK>.",
+                "type": "adjetivo negativo"
+            },
+            "gene": [
+                "pateta",
+                "E seu cabelo está um pouco bagunçado."
+            ],
+            "x": false,
+            "id": 52246
+        },
+        {
+            "a": {
+                "examples": [
+                    "doente",
+                    "irritado",
+                    "doente"
+                ],
+                "text": "Eu faço as pessoas dançarem. Você torna as pessoas <BLANK>.",
+                "type": "adjetivo negativo"
+            },
+            "gene": [
+                "vertiginoso",
+                "Você os chama de raps. Eu os chamo de diddies."
+            ],
+            "x": false,
+            "id": 52324
+        },
+        {
+            "a": {
+                "examples": [
+                    "ficar bravo",
+                    "odeio você",
+                    "cerrar meus punhos"
+                ],
+                "text": "Eu não posso ouvir você, isso me faz <BLANK>.",
+                "type": "verbo - ação negativa"
+            },
+            "gene": [
+                "ficar choroso",
+                "Eu choro quando como. Isso é assustador?"
+            ],
+            "x": false,
+            "id": 52319
+        },
+        {
+            "a": {
+                "examples": [
+                    "órgão sexual",
+                    "cérebro",
+                    "pescoço"
+                ],
+                "text": "Vou manter isso curto como o seu <BLANK>.",
+                "type": "substantivo - uma parte do corpo"
+            },
+            "gene": [
+                "rim esquerdo",
+                "Isso supera o certo, você está brincando comigo?"
+            ],
+            "x": true,
+            "id": 52258
+        },
+        {
+            "a": {
+                "examples": [
+                    "mamãe",
+                    "quarto",
+                    "porão"
+                ],
+                "text": "Vá em frente agora corra de volta para seu <BLANK>.",
+                "type": "substantivo comum - uma pessoa ou lugar"
+            },
+            "gene": [
+                "familia amorosa",
+                "Pegue o expresso e você chegará lá wham bammily."
+            ],
+            "x": false,
+            "id": 52321
+        },
+        {
+            "a": {
+                "examples": [
+                    "arvores",
+                    "sol",
+                    "avião"
+                ],
+                "text": "Apenas saia daqui e dê uma olhada no <BLANK>.",
+                "type": "substantivo - algo ao ar livre"
+            },
+            "gene": [
+                "multidão",
+                "Preciso de ar fresco quando mamãe fica muito barulhenta."
+            ],
+            "x": false,
+            "id": 51697
+        },
+        {
+            "a": {
+                "examples": [
+                    "cobertor",
+                    "escova de dente",
+                    "máquina de ruído branco"
+                ],
+                "text": "Suas rimas me deixaram com sono, preciso do meu <BLANK>.",
+                "type": "substantivo - coisa da hora de dormir"
+            },
+            "gene": [
+                "pijama com pés",
+                "Depois, talvez leite morno, como um deleite extra."
+            ],
+            "x": false,
+            "id": 51725
+        },
+        {
+            "a": {
+                "examples": [
+                    "mármores",
+                    "guppies",
+                    "meias"
+                ],
+                "text": "Você cuspiu rimas como se sua boca estivesse cheia de <BLANK>.",
+                "type": "substantivo plural - pequenas coisas"
+            },
+            "gene": [
+                "confete",
+                "Podemos abrir uma janela? Estou ficando suado."
+            ],
+            "x": false,
+            "id": 51726
+        },
+        {
+            "a": {
+                "examples": [
+                    "Maine",
+                    "Porão da mamãe",
+                    "Canadá"
+                ],
+                "text": "Eu cresci nas ruas. Você foi criado em <BLANK>.",
+                "type": "substantivo próprio - um lugar"
+            },
+            "gene": [
+                "Cidade de Kansas",
+                "Nunca estive em K C. É uma pena!"
+            ],
+            "x": false,
+            "id": 52323
+        },
+        {
+            "a": {
+                "examples": [
+                    "cabeça",
+                    "ego",
+                    "cheiro"
+                ],
+                "text": "Não venha para mim com aquele grande e velho <BLANK>.",
+                "type": "substantivo - atributo pessoal"
+            },
+            "gene": [
+                "sorriso",
+                "Isto me faz feliz. Faz algum tempo."
+            ],
+            "x": false,
+            "id": 50606
+        },
+        {
+            "a": {
+                "examples": [
+                    "Botões Vermelhos",
+                    "Ghandi",
+                    "Moe Howard"
+                ],
+                "text": "Suas rimas não estão vivas, estão mortas como <BLANK>.",
+                "type": "nome próprio - uma pessoa morta"
+            },
+            "gene": [
+                "John Candy",
+                "Aquele filme 'Tio Buck' foi realmente lindo!"
+            ],
+            "x": false,
+            "id": 52362
+        },
+        {
+            "a": {
+                "examples": [
+                    "musculoso",
+                    "picante",
+                    "picante"
+                ],
+                "text": "Olhe para você agora pensando que você é todo <BLANK>.",
+                "type": "adjetivo - descreva sua última refeição"
+            },
+            "gene": [
+                "livre de glúten",
+                "O que é mais popular nos restaurantes que vejo."
+            ],
+            "x": false,
+            "id": 51569
+        },
+        {
+            "a": {
+                "examples": [
+                    "sucção",
+                    "falhando",
+                    "corrida"
+                ],
+                "text": "Você precisa perceber que só é bom em <BLANK>.",
+                "type": "terminação verbal com -ing"
+            },
+            "gene": [
+                "sorridente",
+                "Mas também amizade. E ladrilhos do banheiro."
+            ],
+            "x": true,
+            "id": 50607
+        },
+        {
+            "a": {
+                "examples": [
+                    "cão bassett",
+                    "porquinho",
+                    "unicórnio"
+                ],
+                "text": "Você sabe o que dizem: o retorno é <BLANK>.",
+                "type": "substantivo singular - animal bobo"
+            },
+            "gene": [
+                "tênia",
+                "Ewww. Apenas dizer essa palavra me faz contorcer."
+            ],
+            "x": true,
+            "id": 51604
+        },
+        {
+            "a": {
+                "examples": [
+                    "implodir",
+                    "afundar",
+                    "murchar"
+                ],
+                "text": "Quando eu abro minha boca, seu coração vai <BLANK>.",
+                "type": "verbo"
+            },
+            "gene": [
+                "continue batendo",
+                "Depois de hoje, você acha que continuaremos nos encontrando?"
+            ],
+            "x": false,
+            "id": 51618
+        },
+        {
+            "a": {
+                "examples": [
+                    "estúpido",
+                    "louco",
+                    "nozes"
+                ],
+                "text": "Você está pisando em mim? Você deve ser <BLANK>.",
+                "type": "adjetivo negativo"
+            },
+            "gene": [
+                "realmente legal",
+                "Tenho um dedo do pé extra em ambos os pés!"
+            ],
+            "x": false,
+            "id": 50608
+        },
+        {
+            "a": {
+                "examples": [
+                    "latindo",
+                    "falhando",
+                    "asfixia"
+                ],
+                "text": "Você terminou aí? Ou você vai ficar com <BLANK>?",
+                "type": "terminação verbal com -ing"
+            },
+            "gene": [
+                "ganhando",
+                "Usávamos a mesma camisa! Geminação de hashtags!"
+            ],
+            "x": false,
+            "id": 50609
+        },
+        {
+            "a": {
+                "examples": [
+                    "sujeira",
+                    "avós",
+                    "dinossauros"
+                ],
+                "text": "Estou fresco e novo, você está tão velho quanto <BLANK>.",
+                "type": "substantivo plural - coisas velhas"
+            },
+            "gene": [
+                "'Jornada nas Estrelas'",
+                "Devemos vigiá-los quando você tiver um segundo."
+            ],
+            "x": false,
+            "id": 51600
+        },
+        {
+            "a": {
+                "examples": [
+                    "cenouras",
+                    "presunto",
+                    "limões"
+                ],
+                "text": "Eu sou doce como o mel. Você está azedo como <BLANK>.",
+                "type": "substantivo plural - comida"
+            },
+            "gene": [
+                "uvas",
+                "Todos os meus filmes favoritos têm macacos gigantes"
+            ],
+            "x": false,
+            "id": 51566
+        },
+        {
+            "a": {
+                "examples": [
+                    "dentes",
+                    "Olhos lustrosos",
+                    "bochecha"
+                ],
+                "text": "Francamente, estou enojado com a visão do seu <BLANK>.",
+                "type": "substantivo - característica facial"
+            },
+            "gene": [
+                "sobrancelha com piercing",
+                "Não parece antiquado? Quero dizer, por que agora?"
+            ],
+            "x": false,
+            "id": 51381
+        },
+        {
+            "a": {
+                "examples": [
+                    "machucar",
+                    "pequeno",
+                    "lavado"
+                ],
+                "text": "Dê uma passada no hospital porque suas rimas são <BLANK>.",
+                "type": "adjetivo negativo"
+            },
+            "gene": [
+                "vazando",
+                "Vamos brincar de esconde-esconde, mas lembre-se de não espreitar."
+            ],
+            "x": false,
+            "id": 51558
+        },
+        {
+            "a": {
+                "examples": [
+                    "mamãe",
+                    "Habilidades",
+                    "jogos"
+                ],
+                "text": "Há rumores de que você atacou meu <BLANK>.",
+                "type": "substantivo - algo sagrado"
+            },
+            "gene": [
+                "bom nome",
+                "Gosto do nome Gene. O do meu pai é o mesmo."
+            ],
+            "x": false,
+            "id": 51617
+        },
+        {
+            "a": {
+                "examples": [
+                    "talentoso",
+                    "impressionante",
+                    "alguma coisa"
+                ],
+                "text": "É o melhor que você tem? Pensei que você tivesse <BLANK>.",
+                "type": "adjetivo positivo"
+            },
+            "gene": [
+                "um cara legal",
+                "Quer ir almoçar e dividir uma torta de carne?"
+            ],
+            "x": false,
+            "id": 50610
+        },
+        {
+            "a": {
+                "examples": [
+                    "feijões",
+                    "cereal",
+                    "amendoim"
+                ],
+                "text": "Eu sou a nata da cultura, você é um pote de <BLANK>.",
+                "type": "substantivo plural - comida"
+            },
+            "gene": [
+                "Twix",
+                "Eu realmente fico com frio quando assisto o Netflix."
+            ],
+            "x": false,
+            "id": 51498
+        },
+        {
+            "a": {
+                "examples": [
+                    "chore",
+                    "arrepio",
+                    "desmaiar"
+                ],
+                "text": "Este jogo não acaba até que eu te veja <BLANK>.",
+                "type": "verbo - ação negativa"
+            },
+            "gene": [
+                "reclamar",
+                "Por que comer bananas quando você pode comer uma banana?"
+            ],
+            "x": false,
+            "id": 51493
+        },
+        {
+            "a": {
+                "examples": [
+                    "Cher",
+                    "Rush Limbaugh",
+                    "Einstein"
+                ],
+                "text": "Aqui está a diferença entre u e <BLANK>.",
+                "type": "nome próprio - uma pessoa"
+            },
+            "gene": [
+                "Todd",
+                "Todd é meu amigo. Você é meio estranho."
+            ],
+            "x": false,
+            "id": 51484
+        },
+        {
+            "a": {
+                "examples": [
+                    "Papai",
+                    "mamãe",
+                    "mestre"
+                ],
+                "text": "Como Vader disse a Luke, eu sou seu <BLANK>.",
+                "type": "substantivo - figura de autoridade"
+            },
+            "gene": [
+                "melhor amigo",
+                "Como o terror dos anos oitenta? Procure em 'CHUD'."
+            ],
+            "x": false,
+            "id": 51379
+        },
+        {
+            "a": {
+                "examples": [
+                    "baleia",
+                    "tigre",
+                    "formiga"
+                ],
+                "text": "Você acha que pode vir para mim seu pequeno <BLANK>?",
+                "type": "substantivo singular - animal"
+            },
+            "gene": [
+                "bode",
+                "Vou ordenhar você, cabra! E faça um pouco de iogurte."
+            ],
+            "x": false,
+            "id": 51447
+        },
+        {
+            "a": {
+                "examples": [
+                    "martelo",
+                    "punho",
+                    "conclusão"
+                ],
+                "text": "Eu me sinto mal por você porque aí vem meu <BLANK>.",
+                "type": "pronome singular"
+            },
+            "gene": [
+                "alpaca",
+                "Parece uma lhama, mas é do sul da Amaca."
+            ],
+            "x": false,
+            "id": 51502
+        },
+        {
+            "a": {
+                "examples": [
+                    "ferreiro",
+                    "garçom",
+                    "rancheiro"
+                ],
+                "text": "Por que você não volta a ser um <BLANK>?",
+                "type": "substantivo singular - uma ocupação"
+            },
+            "gene": [
+                "padre",
+                "E oficiar funerais, para os falecidos."
+            ],
+            "x": false,
+            "id": 51478
+        },
+        {
+            "a": {
+                "examples": [
+                    "Desculpe",
+                    "envergonhado",
+                    "jateada"
+                ],
+                "text": "Saia da minha frente ou você será <BLANK>.",
+                "type": "adjetivo negativo"
+            },
+            "gene": [
+                "chateado",
+                "Comprei uma chinchila para manter como animal de estimação."
+            ],
+            "x": false,
+            "id": 50611
+        },
+        {
+            "a": {
+                "examples": [
+                    "queijo",
+                    "bosta",
+                    "flores"
+                ],
+                "text": "Isso é você? Eu tenho um cheiro de <BLANK>.",
+                "type": "substantivo - coisa fedorenta"
+            },
+            "gene": [
+                "pomada",
+                "Apresse-se e me dê um pouco, estou atrasado para o meu compromisso."
+            ],
+            "x": false,
+            "id": 51455
+        },
+        {
+            "a": {
+                "examples": [
+                    "meias",
+                    "ver",
+                    "blusa"
+                ],
+                "text": "Acho que você está usando o <BLANK>da sua mãe.",
+                "type": "substantivo - artigo de roupa"
+            },
+            "gene": [
+                "cavadores de moluscos",
+                "Se você estiver coçando, você pode ter larvas."
+            ],
+            "x": true,
+            "id": 51476
+        },
+        {
+            "a": {
+                "examples": [
+                    "feliz",
+                    "triste",
+                    "ansioso"
+                ],
+                "text": "Se você acha que vai ganhar, você tem <BLANK>.",
+                "type": "adjetivo - descreva seu humor"
+            },
+            "gene": [
+                "pêssego",
+                "O segredo mais bem guardado nas frutas? A lichia!"
+            ],
+            "x": false,
+            "id": 51472
+        },
+        {
+            "a": {
+                "examples": [
+                    "perplexo",
+                    "intrigado",
+                    "confuso"
+                ],
+                "text": "Você não me entendeu? Você parece <BLANK>.",
+                "type": "adjetivo negativo"
+            },
+            "gene": [
+                "sair para almoçar",
+                "Brócolis e banana vêm em cacho."
+            ],
+            "x": false,
+            "id": 51343
+        },
+        {
+            "a": {
+                "examples": [
+                    "cachorro",
+                    "Papai",
+                    "hamster"
+                ],
+                "text": "Eu não tenho medo de você. Você me lembra um <BLANK>.",
+                "type": "substantivo comum - algo não assustador"
+            },
+            "gene": [
+                "Gary",
+                "Gary é alguém que conheço. Nem um pouco assustador."
+            ],
+            "x": false,
+            "id": 50612
+        },
+        {
+            "a": {
+                "examples": [
+                    "bunda",
+                    "Rosto",
+                    "intestino"
+                ],
+                "text": "Suje comigo você vai colocar meu pé no seu <BLANK>.",
+                "type": "substantivo - uma parte do corpo"
+            },
+            "gene": [
+                "pólipo",
+                "Não ria. Meus chutes são fortes."
+            ],
+            "x": true,
+            "id": 51488
+        },
+        {
+            "a": {
+                "examples": [
+                    "fiapo",
+                    "cisco",
+                    "gatinho"
+                ],
+                "text": "Estou matando esses versos, você não deixa um <BLANK>.",
+                "type": "substantivo singular - coisinha"
+            },
+            "gene": [
+                "Skittle",
+                "Odeio quando alguém chama um violino de 'violino'."
+            ],
+            "x": false,
+            "id": 51327
+        },
+        {
+            "a": {
+                "examples": [
+                    "globo ocular",
+                    "tornozelo",
+                    "dedo"
+                ],
+                "text": "Eu sou um grande momento; você acabou de obter um grande <BLANK>.",
+                "type": "substantivo singular - parte do corpo"
+            },
+            "gene": [
+                "pé",
+                "Então, realmente, devemos chamá-lo de Sasquatch."
+            ],
+            "x": false,
+            "id": 51475
+        },
+        {
+            "a": {
+                "examples": [
+                    "errado",
+                    "idiota",
+                    "feio"
+                ],
+                "text": "Você deveria se desculpar por ser tão <BLANK>.",
+                "type": "adjetivo negativo"
+            },
+            "gene": [
+                "maluco",
+                "Eu gostaria que os desertos não fossem tão dunas."
+            ],
+            "x": false,
+            "id": 51490
+        },
+        {
+            "a": {
+                "examples": [
+                    "palhaço",
+                    "meme",
+                    "Piada"
+                ],
+                "text": "Você me faz rir. Você é como um <BLANK>.",
+                "type": "substantivo comum - algo não assustador"
+            },
+            "gene": [
+                "gatinho",
+                "Hahahaha. Eu não consigo parar de imaginar isso!"
+            ],
+            "x": false,
+            "id": 50613
+        },
+        {
+            "a": {
+                "examples": [
+                    "óleo",
+                    "Cola",
+                    "tecido"
+                ],
+                "text": "Parece que você acabou de beber <BLANK>.",
+                "type": "substantivo - uma substância"
+            },
+            "gene": [
+                "argamassa",
+                "Como o primo de Todd, Ed, naquele churrasco."
+            ],
+            "x": false,
+            "id": 51471
+        },
+        {
+            "a": {
+                "examples": [
+                    "loja",
+                    "Banco",
+                    "Arby's"
+                ],
+                "text": "Eu estou indo para o nacional, você está indo para o <BLANK>.",
+                "type": "substantivo - local de negócios"
+            },
+            "gene": [
+                "canil",
+                "Foi aí que comprei meu cachorro So Very Brown."
+            ],
+            "x": false,
+            "id": 51482
+        },
+        {
+            "a": {
+                "examples": [
+                    "muito",
+                    "terrivelmente",
+                    "preguiçosamente"
+                ],
+                "text": "Você deveria ter vergonha. Você rima tão <BLANK>.",
+                "type": "advérbio negativo"
+            },
+            "gene": [
+                "ordenadamente",
+                "Minha irmã vegetariana desistiu carnuda."
+            ],
+            "x": false,
+            "id": 50614
+        },
+        {
+            "a": {
+                "examples": [
+                    "idiota",
+                    "Merryl Streep",
+                    "palhaço"
+                ],
+                "text": "É assim que você joga? Agindo como um <BLANK>?",
+                "type": "substantivo - uma pessoa"
+            },
+            "gene": [
+                "Papa",
+                "Eu lavo meu corpo com shampoo quando estou sem sabão."
+            ],
+            "x": false,
+            "id": 50615
+        },
+        {
+            "a": {
+                "examples": [
+                    "rir",
+                    "espirrar",
+                    "colapso"
+                ],
+                "text": "Você acha que você é ruim? Não me faça <BLANK>.",
+                "type": "verbo"
+            },
+            "gene": [
+                "descrever",
+                "Aquela última esquete no 'Saturday Night Live'."
+            ],
+            "x": false,
+            "id": 51466
+        },
+        {
+            "a": {
+                "examples": [
+                    "fez cócegas",
+                    "empurrado",
+                    "punido"
+                ],
+                "text": "Dê um passo para trás antes de chegar a <BLANK>.",
+                "type": "terminação verbal com -ed"
+            },
+            "gene": [
+                "pedaço",
+                "Se isso parece significar que eu não dou a mínima, puta merda."
+            ],
+            "x": false,
+            "id": 51469
+        },
+        {
+            "a": {
+                "examples": [
+                    "enfermeira",
+                    "mecânico",
+                    "Gerente"
+                ],
+                "text": "Você está andando por aí como se fosse o <BLANK>.",
+                "type": "substantivo - um cargo"
+            },
+            "gene": [
+                "capitão",
+                "Uma reunião com Tennille? Isso tem que acontecer."
+            ],
+            "x": false,
+            "id": 51470
+        },
+        {
+            "a": {
+                "examples": [
+                    "encanador",
+                    "médico",
+                    "técnico"
+                ],
+                "text": "Eu já te quebrei? Devemos chamar um <BLANK>?",
+                "type": "substantivo - uma ocupação"
+            },
+            "gene": [
+                "soldador",
+                "Meu cachorro mexeu com um gambá. Você deve sentir o cheiro dela."
+            ],
+            "x": false,
+            "id": 51143
+        },
+        {
+            "a": {
+                "examples": [
+                    "apendicectomia",
+                    "canal radicular",
+                    "EEG"
+                ],
+                "text": "Parece que você veio de um <BLANK>malfeito.",
+                "type": "substantivo - um procedimento médico"
+            },
+            "gene": [
+                "raspagem de pé",
+                "Pergunte à vovó sobre o dela, não há como escapar."
+            ],
+            "x": true,
+            "id": 51468
+        },
+        {
+            "a": {
+                "examples": [
+                    "impermeável",
+                    "muito difícil",
+                    "imóvel"
+                ],
+                "text": "Você não pode me deixar maluco, eu sou <BLANK>.",
+                "type": "adjetivo positivo"
+            },
+            "gene": [
+                "resistente",
+                "E minhas pontuações no boliche são bastante consistentes."
+            ],
+            "x": false,
+            "id": 51246
+        },
+        {
+            "a": {
+                "examples": [
+                    "cérebro",
+                    "imaginação",
+                    "psique"
+                ],
+                "text": "Estou alugando um espaço, dentro do seu <BLANK>.",
+                "type": "substantivo - sinônimo para 'mente'"
+            },
+            "gene": [
+                "superego",
+                "Mas prefiro alugar um Winnebago."
+            ],
+            "x": false,
+            "id": 51249
+        },
+        {
+            "a": {
+                "examples": [
+                    "concreto",
+                    "gelo",
+                    "pedras"
+                ],
+                "text": "Eu não posso te ouvir. Sua cabeça está dura como <BLANK>.",
+                "type": "substantivo plural - substância dura"
+            },
+            "gene": [
+                "problemas de matemática",
+                "Mas eu gosto de matemática! Tenho certeza que podemos resolvê-los!"
+            ],
+            "x": false,
+            "id": 50616
+        },
+        {
+            "a": {
+                "examples": [
+                    "vaca",
+                    "cobra",
+                    "leão"
+                ],
+                "text": "Você é tão bom quanto um <BLANK>três pernas.",
+                "type": "substantivo singular - um animal"
+            },
+            "gene": [
+                "boi almiscarado",
+                "Você poderia treinar um para usar uma caixa sanitária?"
+            ],
+            "x": false,
+            "id": 51465
+        },
+        {
+            "a": {
+                "examples": [
+                    "piquenique",
+                    "dia de folga",
+                    "Ação de graças"
+                ],
+                "text": "Parei de ser legal, isso não é nenhum <BLANK>.",
+                "type": "substantivo - feriado ou dia especial"
+            },
+            "gene": [
+                "dia ruim",
+                "Acho que usei todo o meu de qualquer maneira."
+            ],
+            "x": false,
+            "id": 50617
+        },
+        {
+            "a": {
+                "examples": [
+                    "penhasco",
+                    "desastre",
+                    "derrota"
+                ],
+                "text": "Você está bem no limite, de um <BLANK>.",
+                "type": "substantivo comum - local perigoso"
+            },
+            "gene": [
+                "meio-fio",
+                "Não tropece nem caia, ou algum outro verbo."
+            ],
+            "x": false,
+            "id": 51248
+        },
+        {
+            "a": {
+                "examples": [
+                    "dano",
+                    "dor",
+                    "Poção"
+                ],
+                "text": "É a minha vez de infligir o <BLANK>.",
+                "type": "substantivo comum - conceito negativo"
+            },
+            "gene": [
+                "tristeza",
+                "A menos que você esteja ocupado. Eu posso fazer isso amanhã."
+            ],
+            "x": false,
+            "id": 50618
+        },
+        {
+            "a": {
+                "examples": [
+                    "apontar",
+                    "lógica",
+                    "conclusão"
+                ],
+                "text": "Eu não estou sendo cruel, você está perdendo o <BLANK>.",
+                "type": "substantivo comum - relacionado a argumentar"
+            },
+            "gene": [
+                "premissa",
+                "E seus dentes da frente. Vá ao dentista."
+            ],
+            "x": false,
+            "id": 50619
+        },
+        {
+            "a": {
+                "examples": [
+                    "rapper ruim",
+                    "desperdício ridículo",
+                    "tolo louco"
+                ],
+                "text": "É engraçado você achar que sou <BLANK>.",
+                "type": "pronome singular"
+            },
+            "gene": [
+                "raciocínio rápido",
+                "Bebendo meu suco, sua rima me fez cuspir."
+            ],
+            "x": true,
+            "id": 50620
+        },
+        {
+            "a": {
+                "examples": [
+                    "estupendo",
+                    "incrível",
+                    "emocionante"
+                ],
+                "text": "É engraçado que você pense que é <BLANK>.",
+                "type": "adjetivo - sinônimo de 'ótimo'"
+            },
+            "gene": [
+                "wowzers",
+                "Quando jogo Mario Kart, escolho o Bowser."
+            ],
+            "x": false,
+            "id": 50621
+        },
+        {
+            "a": {
+                "examples": [
+                    "torto",
+                    "lento e simples",
+                    "coberto de cocô"
+                ],
+                "text": "Não sou eu, é <BLANK>.",
+                "type": "adjetivo negativo"
+            },
+            "gene": [
+                "mel cozido",
+                "Meu avô acha que o pouso na lua foi fingido."
+            ],
+            "x": true,
+            "id": 50622
+        },
+        {
+            "a": {
+                "examples": [
+                    "contentamento",
+                    "alegria",
+                    "alegria"
+                ],
+                "text": "Terei satisfação terei <BLANK>.",
+                "type": "substantivo - estado de espírito positivo"
+            },
+            "gene": [
+                "introspecção",
+                "Meu carro acabou de passar na inspeção de emissões!"
+            ],
+            "x": false,
+            "id": 50603
+        },
+        {
+            "a": {
+                "examples": [
+                    "vaca",
+                    "narcótico",
+                    "inseto"
+                ],
+                "text": "Você vai ficar aqui e dizer que sou um <BLANK>.",
+                "type": "pronome singular"
+            },
+            "gene": [
+                "pequenino rapaz",
+                "Vamos ouvir seu sotaque escocês. O meu não é ruim."
+            ],
+            "x": false,
+            "id": 50623
+        },
+        {
+            "a": {
+                "examples": [
+                    "cimento",
+                    "meleca",
+                    "tijolos"
+                ],
+                "text": "Você não pode me abalar, eu sou feito de <BLANK>.",
+                "type": "substantivo - uma substância"
+            },
+            "gene": [
+                "neve",
+                "Eu sou um iglu, é por isso que sou feito de neve"
+            ],
+            "x": false,
+            "id": 51172
+        },
+        {
+            "a": {
+                "examples": [
+                    "pouco",
+                    "zero",
+                    "nada'"
+                ],
+                "text": "Você quer respeito? Você me dá <BLANK>.",
+                "type": "substantivo ou adjetivo - uma quantidade baixa"
+            },
+            "gene": [
+                "bupkis",
+                "Sabe quem eu vi uma vez em Vegas? Dick Butkis!"
+            ],
+            "x": false,
+            "id": 50624
+        },
+        {
+            "a": {
+                "examples": [
+                    "estúpido",
+                    "inconsiderado",
+                    "feio"
+                ],
+                "text": "Você é aquele que definitivamente é <BLANK>.",
+                "type": "adjetivo negativo"
+            },
+            "gene": [
+                "estacionado duplo",
+                "Acho que a rua não está bem sinalizada."
+            ],
+            "x": false,
+            "id": 50625
+        },
+        {
+            "a": {
+                "examples": [
+                    "superou",
+                    "parou",
+                    "empurrado"
+                ],
+                "text": "Você não ouviu? Eu não posso ser <BLANK>.",
+                "type": "terminação verbal com -ed"
+            },
+            "gene": [
+                "avaliado",
+                "Como lição de casa, não como queijo."
+            ],
+            "x": false,
+            "id": 50683
+        },
+        {
+            "a": {
+                "examples": [
+                    "queijo",
+                    "cachorros quentes",
+                    "alho-poró"
+                ],
+                "text": "Você cheira como um bando de apodrecimento <BLANK>.",
+                "type": "substantivo plural - item alimentar"
+            },
+            "gene": [
+                "Berinjela",
+                "Refrigere-os. Ou talvez você não possa."
+            ],
+            "x": true,
+            "id": 50690
+        },
+        {
+            "a": {
+                "examples": [
+                    "fungo",
+                    "Madeira",
+                    "cachorros"
+                ],
+                "text": "Já vi rostos melhores em <BLANK>.",
+                "type": "substantivo comum plural"
+            },
+            "gene": [
+                "relógios",
+                "O que. Eu disse 'relógios'."
+            ],
+            "x": true,
+            "id": 50691
+        },
+        {
+            "a": {
+                "examples": [
+                    "camisa",
+                    "calça",
+                    "sapatos"
+                ],
+                "text": "Como você parece triste em seu pequeno <BLANK>.",
+                "type": "substantivo - artigo de roupa"
+            },
+            "gene": [
+                "chapéu",
+                "Oh você é um Shriner? Me desculpe por isso."
+            ],
+            "x": false,
+            "id": 50693
+        },
+        {
+            "a": {
+                "examples": [
+                    "inquietação",
+                    "chore",
+                    "preocupação"
+                ],
+                "text": "Estou na sua cabeça. Você está começando a <BLANK>.",
+                "type": "verbo"
+            },
+            "gene": [
+                "arrepio",
+                "Enterrei as evidências perto do rio."
+            ],
+            "x": false,
+            "id": 50694
+        },
+        {
+            "a": {
+                "examples": [
+                    "Urkel",
+                    "Temerário",
+                    "Sheldon"
+                ],
+                "text": "Não há esperança para você. Você é um <BLANK>.",
+                "type": "nome próprio - personagem de TV"
+            },
+            "gene": [
+                "Miranda",
+                "Vamos assistir 'Sex and the City' na varanda!"
+            ],
+            "x": false,
+            "id": 50695
+        },
+        {
+            "a": {
+                "examples": [
+                    "Pokémon",
+                    "ioiôs",
+                    "Play-Doh"
+                ],
+                "text": "O dinheiro está em minha mente. O seu está em <BLANK>.",
+                "type": "substantivo plural - brinquedos"
+            },
+            "gene": [
+                "'Meu pequeno Pônei'",
+                "Esse show deve ganhar um Emmy e um Tony!"
+            ],
+            "x": false,
+            "id": 50696
+        },
+        {
+            "a": {
+                "examples": [
+                    "beterraba",
+                    "peidos",
+                    "atum"
+                ],
+                "text": "Seu hálito está fedendo você acabou de comer <BLANK>.",
+                "type": "substantivo plural - comida"
+            },
+            "gene": [
+                "Carneiro",
+                "Sempre tenho problemas com o botão de cima da minha camisa."
+            ],
+            "x": false,
+            "id": 50697
+        },
+        {
+            "a": {
+                "examples": [
+                    "dodo",
+                    "mula",
+                    "cão"
+                ],
+                "text": "Suas rimas são ruins porque você é burro como um <BLANK>.",
+                "type": "substantivo comum singular - uma coisa estúpida"
+            },
+            "gene": [
+                "gatinho",
+                "Gatos são tão fofos, especialmente em luvas!"
+            ],
+            "x": false,
+            "id": 50698
+        },
+        {
+            "a": {
+                "examples": [
+                    "nervoso",
+                    "envergonhada",
+                    "irado"
+                ],
+                "text": "Quando te envergonho, isso te faz sentir <BLANK>?",
+                "type": "adjetivo negativo"
+            },
+            "gene": [
+                "melhorar",
+                "Vamos encorajar uns aos outros. Eu gosto do seu suéter!"
+            ],
+            "x": false,
+            "id": 50699
+        },
+        {
+            "a": {
+                "examples": [
+                    "lixo",
+                    "ovos podres",
+                    "gambás"
+                ],
+                "text": "Tampando meu nariz porque você cheira como <BLANK>.",
+                "type": "substantivo plural - coisas fedorentas"
+            },
+            "gene": [
+                "perfume",
+                "Aqueles filmes do Quarteto Fantástico arruinaram o Dr. Doom."
+            ],
+            "x": false,
+            "id": 50701
+        },
+        {
+            "a": {
+                "examples": [
+                    "gato",
+                    "bode",
+                    "baleia"
+                ],
+                "text": "Quando você rima, parece um <BLANK>moribundo.",
+                "type": "substantivo comum - um animal"
+            },
+            "gene": [
+                "cobra",
+                "Minhas desculpas se essa foi uma tomada quente."
+            ],
+            "x": false,
+            "id": 50702
+        },
+        {
+            "a": {
+                "examples": [
+                    "lar",
+                    "Lugar, colocar",
+                    "esgoto"
+                ],
+                "text": "Você parece estar perdido. Agora volte ao <BLANK>.",
+                "type": "substantivo comum - um lugar"
+            },
+            "gene": [
+                "alpendre",
+                "Chris Evans é o capitão, mas era o Tocha Humana."
+            ],
+            "x": false,
+            "id": 50705
+        },
+        {
+            "a": {
+                "examples": [
+                    "rapidamente",
+                    "Rápido",
+                    "agora"
+                ],
+                "text": "Se você vai jogar, faça <BLANK>.",
+                "type": "advérbio de tempo"
+            },
+            "gene": [
+                "logo",
+                "Achei 'Guardiões da Galáxia' muito caricatural."
+            ],
+            "x": false,
+            "id": 50706
+        },
+        {
+            "a": {
+                "examples": [
+                    "cabana",
+                    "deposito de lixo",
+                    "segure"
+                ],
+                "text": "Saia do meu berço e volte para o seu <BLANK>.",
+                "type": "substantivo comum - lugar horrível"
+            },
+            "gene": [
+                "caixa",
+                "Lembre-se de que, no outono, atrasamos os relógios."
+            ],
+            "x": false,
+            "id": 50707
+        },
+        {
+            "a": {
+                "examples": [
+                    "joelho",
+                    "perna",
+                    "braço"
+                ],
+                "text": "Você não é o Busta Rhymes mais parecido com o Busta <BLANK>.",
+                "type": "substantivo - uma parte do corpo"
+            },
+            "gene": [
+                "pâncreas",
+                "Não há cura para um resfriado como o chá quente."
+            ],
+            "x": false,
+            "id": 50816
+        },
+        {
+            "a": {
+                "examples": [
+                    "trator",
+                    "Comboio",
+                    "Pequeno cavalo"
+                ],
+                "text": "Você está andando na minha cola como se eu fosse um <BLANK>.",
+                "type": "substantivo - meio de transporte"
+            },
+            "gene": [
+                "18 rodas",
+                "Dê o fora do meu casaco. Dang você! Saia, por favor."
+            ],
+            "x": false,
+            "id": 52550
+        },
+        {
+            "a": {
+                "examples": [
+                    "química",
+                    "sala de estudos",
+                    "Teatro"
+                ],
+                "text": "Você parece atordoado por não conseguir entender o <BLANK>.",
+                "type": "substantivo - matéria escolar"
+            },
+            "gene": [
+                "iluminado avançado",
+                "Sem elevadores! Suba as escadas para se manter em forma!"
+            ],
+            "x": false,
+            "id": 50684
+        },
+        {
+            "a": {
+                "examples": [
+                    "Rei",
+                    "rainha",
+                    "duquesa"
+                ],
+                "text": "Eu mando a escola eles me chamam de <BLANK>.",
+                "type": "substantivo - um título real"
+            },
+            "gene": [
+                "delfim",
+                "Que não é um título que se ouve com frequência."
+            ],
+            "x": false,
+            "id": 50741
+        },
+        {
+            "a": {
+                "examples": [
+                    "machucar",
+                    "eletrocutar",
+                    "esqueço"
+                ],
+                "text": "Adicione combustível ao fogo e você começará a <BLANK>.",
+                "type": "verbo - ação negativa"
+            },
+            "gene": [
+                "desmaiar",
+                "Eu uso velas para definir o clima quando pinto."
+            ],
+            "x": false,
+            "id": 50797
+        },
+        {
+            "a": {
+                "examples": [
+                    "repórter",
+                    "bibliotecário",
+                    "chefe de cozinha"
+                ],
+                "text": "Eu sou um músico mestre, você é um pequeno <BLANK>.",
+                "type": "substantivo - uma ocupação"
+            },
+            "gene": [
+                "professor de ginástica",
+                "Na praia, adoro ler contos de Jack Reacher."
+            ],
+            "x": false,
+            "id": 50799
+        },
+        {
+            "a": {
+                "examples": [
+                    "sobre",
+                    "sob",
+                    "baixa"
+                ],
+                "text": "Desculpe, mas para você, é o jogo <BLANK>.",
+                "type": "preposição"
+            },
+            "gene": [
+                "por baixo",
+                "Sério? Algum idiota roubou nossa guirlanda de Natal."
+            ],
+            "x": false,
+            "id": 51497
+        },
+        {
+            "a": {
+                "examples": [
+                    "coceira",
+                    "pensar",
+                    "vai"
+                ],
+                "text": "Eu falo a verdade, não é <BLANK>?",
+                "type": "verbo"
+            },
+            "gene": [
+                "acreditam",
+                "O nome verdadeiro do Capitão América é Steve."
+            ],
+            "x": false,
+            "id": 50929
+        },
+        {
+            "a": {
+                "examples": [
+                    "senhor",
+                    "senhora",
+                    "sua honra"
+                ],
+                "text": "Estou falando agora, então ouça <BLANK>.",
+                "type": "substantivo - título de respeito"
+            },
+            "gene": [
+                "senhor",
+                "Usar chinelos pode causar bolhas."
+            ],
+            "x": false,
+            "id": 50930
+        },
+        {
+            "a": {
+                "examples": [
+                    "amável",
+                    "doce",
+                    "quieto"
+                ],
+                "text": "É assim: Eu cansei de ser <BLANK>.",
+                "type": "adjetivo - descreva sua mãe"
+            },
+            "gene": [
+                "arrogante",
+                "Ela é tão - oi mãe! Amei o que você está vestindo!"
+            ],
+            "x": false,
+            "id": 50934
+        },
+        {
+            "a": {
+                "examples": [
+                    "voz",
+                    "estilo",
+                    "bunda"
+                ],
+                "text": "Suckas em todos os lugares imitando meu <BLANK>.",
+                "type": "substantivo - atributo atraente"
+            },
+            "gene": [
+                "sulco",
+                "Mas jantei tanto que é difícil me mover."
+            ],
+            "x": true,
+            "id": 50940
+        },
+        {
+            "a": {
+                "examples": [
+                    "reproduziu",
+                    "pego",
+                    "fresado"
+                ],
+                "text": "Não responda a menos que você queira obter <BLANK>.",
+                "type": "terminação verbal com -ed"
+            },
+            "gene": [
+                "desagradável",
+                "E é melhor evitar a angioplastia."
+            ],
+            "x": false,
+            "id": 50802
+        },
+        {
+            "a": {
+                "examples": [
+                    "burro",
+                    "idiota",
+                    "binjpipe"
+                ],
+                "text": "Quem você pensa que é, <BLANK>?",
+                "type": "apelido insultuoso"
+            },
+            "gene": [
+                "cérebro de ervilha",
+                "Aposto que doeu como uma entorse no joelho."
+            ],
+            "x": true,
+            "id": 50807
+        },
+        {
+            "a": {
+                "examples": [
+                    "Bill Gates",
+                    "Donald Trump",
+                    "Madonna"
+                ],
+                "text": "Eu ouço você falando como se fosse <BLANK>.",
+                "type": "nome próprio - uma pessoa famosa"
+            },
+            "gene": [
+                "Celine Dion",
+                "Acho que ela cantou 'My Life Will Go On.'"
+            ],
+            "x": false,
+            "id": 51500
+        },
+        {
+            "a": {
+                "examples": [
+                    "jogos",
+                    "estilo",
+                    "cred"
+                ],
+                "text": "Francamente, estou entediado. Você não tem <BLANK>.",
+                "type": "substantivo comum - qualidade positiva"
+            },
+            "gene": [
+                "munição",
+                "Mas me pegue no queixo, estou desmaiado. Blammo!"
+            ],
+            "x": false,
+            "id": 50808
+        },
+        {
+            "a": {
+                "examples": [
+                    "cabeça",
+                    "nariz",
+                    "pé"
+                ],
+                "text": "O que é isso? Você tem um sapo no seu <BLANK>?",
+                "type": "substantivo singular - parte do corpo"
+            },
+            "gene": [
+                "lóbulo da orelha",
+                "Parece que você roubou um roupão de hotel."
+            ],
+            "x": false,
+            "id": 51876
+        },
+        {
+            "a": {
+                "examples": [
+                    "canelas",
+                    "tornozelos",
+                    "umbigo"
+                ],
+                "text": "Você falando comigo? Ou para o meu <BLANK>?",
+                "type": "substantivo - parte inferior da metade do corpo"
+            },
+            "gene": [
+                "rótula",
+                "Quando assisto a filmes longos, preciso recapitular."
+            ],
+            "x": true,
+            "id": 50809
+        },
+        {
+            "a": {
+                "examples": [
+                    "mudo",
+                    "abordado",
+                    "recheado"
+                ],
+                "text": "Fale com a mão porque meus ouvidos estão <BLANK>.",
+                "type": "terminação verbal com -ed"
+            },
+            "gene": [
+                "plugado",
+                "Eles beberam um pouco de cera e realmente beberam."
+            ],
+            "x": false,
+            "id": 50811
+        },
+        {
+            "a": {
+                "examples": [
+                    "mouse",
+                    "canário",
+                    "coelhinho"
+                ],
+                "text": "Estou fazendo você chorar como um pequeno <BLANK>.",
+                "type": "substantivo - um animal minúsculo"
+            },
+            "gene": [
+                "Pikachu",
+                "Acho que esse nome soa como espirros, não é?"
+            ],
+            "x": false,
+            "id": 50830
+        },
+        {
+            "a": {
+                "examples": [
+                    "Pac-Man",
+                    "Combate mortal",
+                    "Super mario"
+                ],
+                "text": "Seu jogo é antigo, tipo <BLANK>.",
+                "type": "Videogame clássico"
+            },
+            "gene": [
+                "NBA Jam",
+                "Boom Shaka-Laka é o que eles diriam quando eu batesse."
+            ],
+            "x": false,
+            "id": 50831
+        },
+        {
+            "a": {
+                "examples": [
+                    "cochilando",
+                    "passeios de barco",
+                    "pescaria"
+                ],
+                "text": "Eu estava trabalhando enquanto você tinha <BLANK>.",
+                "type": "terminação verbal com -ing"
+            },
+            "gene": [
+                "relaxante",
+                "Nos anos 1980, todo mundo estava enviando fax."
+            ],
+            "x": false,
+            "id": 50839
+        },
+        {
+            "a": {
+                "examples": [
+                    "bagunçado",
+                    "congeladas",
+                    "ventoso"
+                ],
+                "text": "Deve doer ser aquele <BLANK>.",
+                "type": "adjetivo"
+            },
+            "gene": [
+                "rápido",
+                "Falando nisso, Taylor Swift é incrível."
+            ],
+            "x": false,
+            "id": 51206
+        },
+        {
+            "a": {
+                "examples": [
+                    "estúpido",
+                    "desleixado",
+                    "lúgubre"
+                ],
+                "text": "Nunca conheci alguém tão <BLANK>.",
+                "type": "adjetivo negativo"
+            },
+            "gene": [
+                "persnickety",
+                "Minha estrutura esquelética é um tanto frágil."
+            ],
+            "x": false,
+            "id": 50844
+        },
+        {
+            "a": {
+                "examples": [
+                    "afortunado",
+                    "frio",
+                    "humilde"
+                ],
+                "text": "Você se acha especial, você acha que é <BLANK>.",
+                "type": "adjetivo positivo"
+            },
+            "gene": [
+                "otimista",
+                "Julia Roberts torna sua pizza supermística."
+            ],
+            "x": false,
+            "id": 50846
+        },
+        {
+            "a": {
+                "examples": [
+                    "giro",
+                    "droga",
+                    "farq"
+                ],
+                "text": "Faça o que fizer, eu não dou um <BLANK>.",
+                "type": "palavrão"
+            },
+            "gene": [
+                "cocô",
+                "Tenho que mantê-lo limpo, mamãe está no quarto."
+            ],
+            "x": true,
+            "id": 51214
+        },
+        {
+            "a": {
+                "examples": [
+                    "ronco",
+                    "pulando",
+                    "bebendo"
+                ],
+                "text": "Vá em frente e cave uma cova, você terminou <BLANK>.",
+                "type": "terminação verbal com -ing"
+            },
+            "gene": [
+                "de costura",
+                "Ei! Espere um minuto! É o meu carro que eles estão rebocando!"
+            ],
+            "x": false,
+            "id": 50879
+        },
+        {
+            "a": {
+                "examples": [
+                    "dentro",
+                    "para",
+                    "pra cima"
+                ],
+                "text": "Você quer um pouco disso? Bem, pise em <BLANK>.",
+                "type": "preposição"
+            },
+            "gene": [
+                "em volta",
+                "Espero que meu retentor esteja nos achados e perdidos."
+            ],
+            "x": false,
+            "id": 51200
+        },
+        {
+            "a": {
+                "examples": [
+                    "batida",
+                    "muu",
+                    "estrondo"
+                ],
+                "text": "Você vai cair com um golpe: <BLANK>!",
+                "type": "onomatopéia"
+            },
+            "gene": [
+                "kaboom",
+                "Como a blusa do maiô da mamãe, na calha de madeira."
+            ],
+            "x": true,
+            "id": 51213
+        },
+        {
+            "a": {
+                "examples": [
+                    "pequenino",
+                    "pequeno",
+                    "baixo"
+                ],
+                "text": "Eu não me preocupo com as pequenas coisas e você é muito <BLANK>.",
+                "type": "adjetivo - termo para 'pequeno'"
+            },
+            "gene": [
+                "pequenininho",
+                "Acho que o plural de 'blintz' é 'bleensy'."
+            ],
+            "x": false,
+            "id": 51044
+        },
+        {
+            "a": {
+                "examples": [
+                    "dinheiro",
+                    "cachorros",
+                    "vingança"
+                ],
+                "text": "Por que você está tão obcecado por <BLANK>?",
+                "type": "substantivo"
+            },
+            "gene": [
+                "ursos",
+                "Espere, eu também gosto de ursos. Todos os tipos de ursos."
+            ],
+            "x": false,
+            "id": 51054
+        },
+        {
+            "a": {
+                "examples": [
+                    "Elle",
+                    "Voga",
+                    "GQ"
+                ],
+                "text": "Struttin 'como se você estivesse na capa de <BLANK>.",
+                "type": "nome próprio - uma revista"
+            },
+            "gene": [
+                "Glamour",
+                "Você estava vendendo, um martelo caro."
+            ],
+            "x": false,
+            "id": 51055
+        }
+    ]
+}

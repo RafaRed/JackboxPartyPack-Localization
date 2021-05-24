@@ -1,12 +1,44 @@
 {
-    "payload":[
-        { "id": "BLUE",    "light":"#305FBA", "dark":"#19397A" },
-        { "id": "YELLOW",  "light":"#FFC200", "dark":"#7F6109" },
-        { "id": "GREEN",   "light":"#6AAB3E", "dark":"#427126" },
-        { "id": "PURPLE",  "light":"#9373C4", "dark":"#563688" },
-        { "id": "GRAY",    "light":"#8C8C8C", "dark":"#5D5D5D" },
-        { "id": "MAGENTA", "light":"#B3449A", "dark":"#572042" },
-        { "id": "TEAL",    "light":"#3F9DAB", "dark":"#19397A" },
-        { "id": "ORANGE",  "light":"#CF7A29", "dark":"#7E4612" }
+    "payload": [
+        {
+            "id": "AZUL",
+            "light": "# 305FBA",
+            "dark": "# 19397A"
+        },
+        {
+            "id": "AMARELO",
+            "light": "# FFC200",
+            "dark": "# 7F6109"
+        },
+        {
+            "id": "VERDE",
+            "light": "# 6AAB3E",
+            "dark": "# 427126"
+        },
+        {
+            "id": "ROXO",
+            "light": "# 9373C4",
+            "dark": "# 563688"
+        },
+        {
+            "id": "CINZENTO",
+            "light": "# 8C8C8C",
+            "dark": "# 5D5D5D"
+        },
+        {
+            "id": "MAGENTA",
+            "light": "# B3449A",
+            "dark": "# 572042"
+        },
+        {
+            "id": "CERCETA",
+            "light": "# 3F9DAB",
+            "dark": "# 19397A"
+        },
+        {
+            "id": "LARANJA",
+            "light": "# CF7A29",
+            "dark": "# 7E4612"
+        }
     ]
 }

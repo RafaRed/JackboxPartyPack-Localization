@@ -1,272 +1,272 @@
 {
     "content": [
         {
-            "id": 1, 
+            "id": 1,
             "topic": "Instagram"
-        }, 
+        },
         {
-            "id": 2, 
+            "id": 2,
             "topic": "Warby Parker"
-        }, 
+        },
         {
-            "id": 3, 
+            "id": 3,
             "topic": "Home Depot"
-        }, 
+        },
         {
-            "id": 4, 
+            "id": 4,
             "topic": "Barbie"
-        }, 
+        },
         {
-            "id": 5, 
-            "topic": "Arby\u2019s"
-        }, 
+            "id": 5,
+            "topic": "Arby's"
+        },
         {
-            "id": 6, 
+            "id": 6,
             "topic": "LinkedIn"
-        }, 
+        },
         {
-            "id": 7, 
+            "id": 7,
             "topic": "Blockbuster"
-        }, 
+        },
         {
-            "id": 8, 
-            "topic": "Jackbox Games"
-        }, 
+            "id": 8,
+            "topic": "Jogos Jackbox"
+        },
         {
-            "id": 9, 
+            "id": 9,
             "topic": "Goldman Sachs"
-        }, 
+        },
         {
-            "id": 10, 
+            "id": 10,
             "topic": "Burger King"
-        }, 
+        },
         {
-            "id": 11, 
+            "id": 11,
             "topic": "BuzzFeed"
-        }, 
+        },
         {
-            "id": 12, 
-            "topic": "Coca-Cola"
-        }, 
+            "id": 12,
+            "topic": "Coca Cola"
+        },
         {
-            "id": 13, 
+            "id": 13,
             "topic": "Costco"
-        }, 
+        },
         {
-            "id": 14, 
+            "id": 14,
             "topic": "Craigslist"
-        }, 
+        },
         {
-            "id": 15, 
+            "id": 15,
             "topic": "Crayola"
-        }, 
+        },
         {
-            "id": 16, 
-            "topic": "Dominos"
-        }, 
+            "id": 16,
+            "topic": "Dominó"
+        },
         {
-            "id": 17, 
+            "id": 17,
             "topic": "Doritos"
-        }, 
+        },
         {
-            "id": 18, 
+            "id": 18,
             "topic": "Doc Martens"
-        }, 
+        },
         {
-            "id": 19, 
+            "id": 19,
             "topic": "Clorox"
-        }, 
+        },
         {
-            "id": 20, 
+            "id": 20,
             "topic": "FedEx"
-        }, 
+        },
         {
-            "id": 21, 
+            "id": 21,
             "topic": "FIFA"
-        }, 
+        },
         {
-            "id": 22, 
+            "id": 22,
             "topic": "Fitbit"
-        }, 
+        },
         {
-            "id": 23, 
+            "id": 23,
             "topic": "Adobe"
-        }, 
+        },
         {
-            "id": 24, 
+            "id": 24,
             "topic": "Gucci"
-        }, 
+        },
         {
-            "id": 25, 
+            "id": 25,
             "topic": "HBO"
-        }, 
+        },
         {
-            "id": 26, 
+            "id": 26,
             "topic": "Airbnb"
-        }, 
+        },
         {
-            "id": 27, 
+            "id": 27,
             "topic": "Pampers"
-        }, 
+        },
         {
-            "id": 28, 
+            "id": 28,
             "topic": "IKEA"
-        }, 
+        },
         {
-            "id": 29, 
+            "id": 29,
             "topic": "Febreze"
-        }, 
+        },
         {
-            "id": 30, 
+            "id": 30,
             "topic": "KFC"
-        }, 
+        },
         {
-            "id": 31, 
-            "topic": "Kleenex"
-        }, 
+            "id": 31,
+            "topic": "lenços de papel"
+        },
         {
-            "id": 32, 
-            "topic": "Levi\u2019s"
-        }, 
+            "id": 32,
+            "topic": "Levi's"
+        },
         {
-            "id": 33, 
+            "id": 33,
             "topic": "Crocs"
-        }, 
+        },
         {
-            "id": 34, 
-            "topic": "McDonald\u2019s"
-        }, 
+            "id": 34,
+            "topic": "McDonald's"
+        },
         {
-            "id": 35, 
+            "id": 35,
             "topic": "Microsoft"
-        }, 
+        },
         {
-            "id": 36, 
-            "topic": "Monster Energy"
-        }, 
+            "id": 36,
+            "topic": "Energia de monstro"
+        },
         {
-            "id": 37, 
-            "topic": "Mountain Dew"
-        }, 
+            "id": 37,
+            "topic": "orvalho da montanha"
+        },
         {
-            "id": 38, 
+            "id": 38,
             "topic": "NASA"
-        }, 
+        },
         {
-            "id": 39, 
+            "id": 39,
             "topic": "Netflix"
-        }, 
+        },
         {
-            "id": 40, 
+            "id": 40,
             "topic": "Nike"
-        }, 
+        },
         {
-            "id": 41, 
+            "id": 41,
             "topic": "Nintendo"
-        }, 
+        },
         {
-            "id": 42, 
+            "id": 42,
             "topic": "PayPal"
-        }, 
+        },
         {
-            "id": 43, 
+            "id": 43,
             "topic": "Pepsi"
-        }, 
+        },
         {
-            "id": 44, 
+            "id": 44,
             "topic": "Pixar"
-        }, 
+        },
         {
-            "id": 45, 
+            "id": 45,
             "topic": "Red Bull"
-        }, 
+        },
         {
-            "id": 46, 
+            "id": 46,
             "topic": "Lululemon"
-        }, 
+        },
         {
-            "id": 47, 
+            "id": 47,
             "topic": "Snapchat"
-        }, 
+        },
         {
-            "id": 48, 
-            "topic": "Old Spice"
-        }, 
+            "id": 48,
+            "topic": "tempero velho"
+        },
         {
-            "id": 49, 
+            "id": 49,
             "topic": "Spotify"
-        }, 
+        },
         {
-            "id": 50, 
+            "id": 50,
             "topic": "Starbucks"
-        }, 
+        },
         {
-            "id": 51, 
-            "topic": "Subway"
-        }, 
+            "id": 51,
+            "topic": "Metrô"
+        },
         {
-            "id": 52, 
+            "id": 52,
             "topic": "Tesla"
-        }, 
+        },
         {
-            "id": 53, 
+            "id": 53,
             "topic": "Tinder"
-        }, 
+        },
         {
-            "id": 54, 
+            "id": 54,
             "topic": "Toyota"
-        }, 
+        },
         {
-            "id": 55, 
+            "id": 55,
             "topic": "Twitter"
-        }, 
+        },
         {
-            "id": 56, 
+            "id": 56,
             "topic": "Uber"
-        }, 
+        },
         {
-            "id": 57, 
+            "id": 57,
             "topic": "eBay"
-        }, 
+        },
         {
-            "id": 58, 
+            "id": 58,
             "topic": "Venmo"
-        }, 
+        },
         {
-            "id": 59, 
-            "topic": "Victoria\u2019s Secret"
-        }, 
+            "id": 59,
+            "topic": "Victoria's Secret"
+        },
         {
-            "id": 60, 
-            "topic": "Visa"
-        }, 
+            "id": 60,
+            "topic": "Visto"
+        },
         {
-            "id": 61, 
-            "topic": "Blue Apron"
-        }, 
+            "id": 61,
+            "topic": "Avental azul"
+        },
         {
-            "id": 62, 
-            "topic": "Whole Foods"
-        }, 
+            "id": 62,
+            "topic": "Toda a comida"
+        },
         {
-            "id": 63, 
+            "id": 63,
             "topic": "Yoplait"
-        }, 
+        },
         {
-            "id": 64, 
+            "id": 64,
             "topic": "YouTube"
-        }, 
+        },
         {
-            "id": 65, 
+            "id": 65,
             "topic": "Lyft"
-        }, 
+        },
         {
-            "id": 66, 
+            "id": 66,
             "topic": "Charmin"
-        }, 
+        },
         {
-            "id": 67, 
-            "topic": "Tide"
+            "id": 67,
+            "topic": "Maré"
         }
     ]
 }

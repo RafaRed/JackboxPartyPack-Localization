@@ -1,55 +1,121 @@
 {
-
-    "payload":[
-
-        { "id": "MISC", "iconFrame":"Miscellaneous", "joinAudioKey":"JOIN_MISC" },
-
-        { "id": "CLEANING", "iconFrame":"Cleaning", "joinAudioKey":"JOIN_CLEANING" }, 
-
-        { "id": "FIXING", "iconFrame":"Fixing", "joinAudioKey":"JOIN_FIXING" }, 
-
-        { "id": "COOKING", "iconFrame":"Cooking", "joinAudioKey":"JOIN_COOKING" }, 
-
-        { "id": "CLOTHES", "iconFrame":"Clothes", "joinAudioKey":"JOIN_CLOTHES" }, 
-
-        { "id": "KITCHEN", "iconFrame":"Kitchen", "joinAudioKey":"JOIN_KITCHEN" }, 
-
-        { "id": "BATHROOM", "iconFrame":"Bathroom", "joinAudioKey":"JOIN_BATHROOM" }, 
-
-        { "id": "RECREATION", "iconFrame":"Recreation", "joinAudioKey":"JOIN_RECREATION" }, 
-
-        { "id": "BEDROOM", "iconFrame":"Bedroom", "joinAudioKey":"JOIN_BEDROOM" }, 
-
-        { "id": "GUESTS", "iconFrame":"Guests", "joinAudioKey":"JOIN_GUESTS" }, 
-
-        { "id": "YARD_WORK", "iconFrame":"Yard Work", "joinAudioKey":"JOIN_YARDWORK" }, 
-
-        { "id": "PLAYING", "iconFrame":"Playing Outside", "joinAudioKey":"JOIN_PLAYING_OUTSIDE" }, 
-
-        { "id": "PAPERWORK", "iconFrame":"Paperwork", "joinAudioKey":"JOIN_PAPERWORK" }, 
-
-        { "id": "DECORATING", "iconFrame":"Decorating", "joinAudioKey":"JOIN_DECORATING" }, 
-
-        { "id": "TALKING", "iconFrame":"Talking", "joinAudioKey":"JOIN_TALKING" }, 
-
-        { "id": "ERRAND", "iconFrame":"Errand", "joinAudioKey":"JOIN_ERRAND" }, 
-
-        { "id": "FAMILY_TASK", "iconFrame":"Family Moment", "joinAudioKey":"JOIN_FAMILY_TASK" },
-
-        { "id": "FAMILY_MOMENT", "iconFrame":"Family Moment", "joinAudioKey":"JOIN_FAMILY_MOMENT" }, 
-
-        { "id": "SEARCH_FIND", "iconFrame":"Search/Find", "joinAudioKey":"JOIN_SEARCH_FIND" },
-
-        { "id": "CANCELER", "iconFrame":"Canceler", "joinAudioKey":"JOIN_CANCELER" },
-
-        { "id": "SELFISH", "iconFrame":"Selfish", "joinAudioKey":"JOIN_SELFISH" },
-
-        { "id": "STORY", "iconFrame":"Story", "joinAudioKey":"JOIN_MISC" },
-
-        { "id": "AUDIENCE", "iconFrame":"Audience", "joinAudioKey":"JOIN_AUDIENCE" }
-
+    "payload": [
+        {
+            "id": "MISC",
+            "iconFrame": "Diversos",
+            "joinAudioKey": "JOIN_MISC"
+        },
+        {
+            "id": "LIMPEZA",
+            "iconFrame": "Limpeza",
+            "joinAudioKey": "JOIN_CLEANING"
+        },
+        {
+            "id": "FIXANDO",
+            "iconFrame": "Consertando",
+            "joinAudioKey": "JOIN_FIXING"
+        },
+        {
+            "id": "COZINHANDO",
+            "iconFrame": "Cozinhando",
+            "joinAudioKey": "JOIN_COOKING"
+        },
+        {
+            "id": "ROUPAS",
+            "iconFrame": "Roupas",
+            "joinAudioKey": "JOIN_CLOTHES"
+        },
+        {
+            "id": "COZINHA",
+            "iconFrame": "Cozinha",
+            "joinAudioKey": "JOIN_KITCHEN"
+        },
+        {
+            "id": "BANHEIRO",
+            "iconFrame": "Banheiro",
+            "joinAudioKey": "JOIN_BATHROOM"
+        },
+        {
+            "id": "LAZER",
+            "iconFrame": "Lazer",
+            "joinAudioKey": "JOIN_RECREATION"
+        },
+        {
+            "id": "QUARTO",
+            "iconFrame": "Quarto",
+            "joinAudioKey": "JOIN_BEDROOM"
+        },
+        {
+            "id": "CONVIDADOS",
+            "iconFrame": "Convidados",
+            "joinAudioKey": "JOIN_GUESTS"
+        },
+        {
+            "id": "JARDINAGEM",
+            "iconFrame": "Jardinagem",
+            "joinAudioKey": "JOIN_YARDWORK"
+        },
+        {
+            "id": "JOGANDO",
+            "iconFrame": "Brincando fora",
+            "joinAudioKey": "JOIN_PLAYING_OUTSIDE"
+        },
+        {
+            "id": "PAPELADA",
+            "iconFrame": "Papelada",
+            "joinAudioKey": "JOIN_PAPERWORK"
+        },
+        {
+            "id": "DECORANDO",
+            "iconFrame": "Decoração",
+            "joinAudioKey": "JOIN_DECORATING"
+        },
+        {
+            "id": "FALANDO",
+            "iconFrame": "Falando",
+            "joinAudioKey": "JOIN_TALKING"
+        },
+        {
+            "id": "INCUMBÊNCIA",
+            "iconFrame": "Incumbência",
+            "joinAudioKey": "JOIN_ERRAND"
+        },
+        {
+            "id": "FAMILY_TASK",
+            "iconFrame": "Momento em Família",
+            "joinAudioKey": "JOIN_FAMILY_TASK"
+        },
+        {
+            "id": "FAMILY_MOMENT",
+            "iconFrame": "Momento em Família",
+            "joinAudioKey": "JOIN_FAMILY_MOMENT"
+        },
+        {
+            "id": "SEARCH_FIND",
+            "iconFrame": "Pesquisar / Encontrar",
+            "joinAudioKey": "JOIN_SEARCH_FIND"
+        },
+        {
+            "id": "CANCELADOR",
+            "iconFrame": "Cancelador",
+            "joinAudioKey": "JOIN_CANCELER"
+        },
+        {
+            "id": "EGOÍSTA",
+            "iconFrame": "Egoísta",
+            "joinAudioKey": "JOIN_SELFISH"
+        },
+        {
+            "id": "HISTÓRIA",
+            "iconFrame": "História",
+            "joinAudioKey": "JOIN_MISC"
+        },
+        {
+            "id": "PÚBLICO",
+            "iconFrame": "Público",
+            "joinAudioKey": "JOIN_AUDIENCE"
+        }
     ]
-
 }
 
 

@@ -1,1 +1,5471 @@
-{"episodeid":1234,"content":[{"x":false,"name":"deodorant/spray paint spray","short":"deodorant/spray paint spray","id":22199,"categories":["household"]},{"x":false,"name":"compressed air release","short":"compressed air release","id":22222,"categories":["tools"]},{"x":false,"name":"buzzing alarm bell","short":"buzzing alarm bell","id":22241,"categories":["alarm","vehicle"]},{"x":false,"name":"car/burglar alarm","short":"car/burglar alarm","id":22242,"categories":["alarm"]},{"x":false,"name":"analog alarm clock ring","short":"analog alarm clock ring","id":22248,"categories":["household"]},{"x":false,"name":"dolphin chatter","short":"dolphin chatter","id":22250,"categories":["Animal"]},{"x":false,"name":"ripping fabric","short":"ripping fabric","id":22851,"categories":["cartoon"]},{"x":false,"name":"slide whistle down","short":"slide whistle down","id":23004,"categories":["cartoon"]},{"x":false,"name":"dog lapping up food","short":"dog lapping up food","id":25719,"categories":["Animal"]},{"x":false,"name":"jaunty accordion","short":"jaunty accordion","id":22197,"categories":["Music"]},{"x":false,"name":"paper bag open","short":"paper bag open","id":23507,"categories":["household"]},{"x":false,"name":"terrified scream (male)","short":"terrified scream","id":25720,"categories":["voice"]},{"x":false,"name":"obnoxious belch","short":"obnoxious belch","id":25708,"categories":["bodily functions"]},{"x":false,"name":"big rubber ball bouncing","short":"big rubber ball bouncing","id":25718,"categories":["sports"]},{"x":false,"name":"wacky kazoo melody","short":"wacky kazoo melody","id":25670,"categories":["Music"]},{"x":false,"name":"fart (slow & steady)","short":"fart (slow & steady)","id":25743,"categories":["bodily functions"]},{"x":false,"name":"toilet plunger plunging","short":"toilet plunger plunging","id":25721,"categories":["liquid"]},{"x":false,"name":"electric shaver","short":"electric shaver","id":23508,"categories":["household"]},{"x":false,"name":"toilet troubles","short":"toilet troubles","id":25744,"categories":["bodily functions"]},{"x":false,"name":"weird goat baa","short":"weird goat baa","id":23863,"categories":["Animal"]},{"x":false,"name":"“tada!” (male)","short":"“tada!”","id":24026,"categories":["voice"]},{"x":false,"name":"“this is delicious” (male)","short":"“this is delicious”","id":24027,"categories":["voice"]},{"x":false,"name":"“who wants hot dogs” (male)","short":"“who wants hot dogs”","id":24028,"categories":["voice"]},{"x":false,"name":"“wow” (male)","short":"“wow”","id":24029,"categories":["voice"]},{"x":false,"name":"“you’re fired” (male)","short":"“you’re fired”","id":24030,"categories":["voice"]},{"x":false,"name":"lion roar","short":"lion roar","id":23506,"categories":["Animal"]},{"x":false,"name":"lawnmower start/stop","short":"lawnmower start/stop","id":23505,"categories":["electronic/machine"]},{"x":false,"name":"insect buzz","short":"insect buzz","id":23504,"categories":["Animal"]},{"x":false,"name":"underwater scream","short":"underwater scream","id":23503,"categories":["voice"]},{"x":false,"name":"“bring it on” (male)","short":"“bring it on”","id":23502,"categories":["voice"]},{"x":false,"name":"clearing throat (male)","short":"clearing throat","id":25690,"categories":["human"]},{"x":false,"name":"church bells","short":"church bells","id":25689,"categories":["alarm"]},{"x":false,"name":"“awww” (male)","short":"“awww”","id":23501,"categories":["voice"]},{"x":false,"name":"crowd screaming","short":"crowd screaming","id":25692,"categories":["crowd"]},{"x":false,"name":"“100” (male)","short":"“100”","id":23500,"categories":["voice"]},{"x":false,"name":"Kids saying “awww?”","short":"Kids saying “awww?”","id":25688,"categories":["crowd"]},{"x":false,"name":"blowing horn badly","short":"blowing horn badly","id":25687,"categories":["Music"]},{"x":false,"name":"squeak toy","short":"squeak toy","id":25694,"categories":["household"]},{"x":false,"name":"“2020” (female)","short":"“2020”","id":23498,"categories":["voice"]},{"x":false,"name":"battle cry (male)","short":"battle cry","id":25693,"categories":["voice"]},{"x":false,"name":"bad piano playing","short":"bad piano playing","id":25686,"categories":["Music"]},{"x":false,"name":"helicopter","short":"helicopter","id":23496,"categories":["vehicle"]},{"x":false,"name":"hand saw","short":"hand saw","id":23493,"categories":["household"]},{"x":false,"name":"guitar ending riff","short":"guitar ending riff","id":23492,"categories":["Music"]},{"x":false,"name":"rimshot","short":"rimshot","id":23491,"categories":["Music"]},{"x":false,"name":"computer keyboard typing","short":"computer keyboard typing","id":23489,"categories":["household"]},{"x":false,"name":"digital clock alarm","short":"digital alarm clock","id":22247,"categories":["household"]},{"x":false,"name":"bouncing basketball","short":"bouncing basketball","id":23487,"categories":["sports"]},{"x":false,"name":"police whistle","short":"police whistle","id":23003,"categories":["alarm"]},{"x":false,"name":"kooky whistle with marimba/honk","short":"kooky whistle with marimba/honk","id":23000,"categories":["Music","cartoon"]},{"x":false,"name":"car alarm shutoff","short":"car alarm shutoff","id":22243,"categories":["alarm","vehicle"]},{"x":false,"name":"whistle “Hey you!”","short":"whistle “Hey you!”","id":22999,"categories":["cartoon"]},{"x":false,"name":"wolf howling","short":"wolf howling","id":23023,"categories":["Animal"]},{"x":false,"name":"wolf whistle","short":"wolf whistle","id":23025,"categories":["cartoon"]},{"x":false,"name":"wood crunch/bone break","short":"wood crunch/bone break","id":23026,"categories":["violence"]},{"x":false,"name":"wood door being kicked in","short":"wood door being kicked in","id":23028,"categories":["violence"]},{"x":false,"name":"sawing wood with handsaw","short":"sawing wood with handsaw","id":23029,"categories":["tools"]},{"x":false,"name":"xylophone gliss down","short":"xylophone gliss down","id":23031,"categories":["Music","cartoon"]},{"x":false,"name":"xylophone gliss up","short":"xylophone gliss up","id":23032,"categories":["Music","cartoon"]},{"x":false,"name":"zipper zip up","short":"zipper zip up","id":23034,"categories":["household"]},{"x":false,"name":"small zipper zipping up","short":"small zipper zipping up","id":23035,"categories":["household"]},{"x":false,"name":"cartoon spring boing","short":"cartoon spring boing","id":23046,"categories":["cartoon"]},{"x":false,"name":"glass smash","short":"glass smash","id":23084,"categories":["violence"]},{"x":false,"name":"toy horn","short":"toy horn","id":23115,"categories":["cartoon"]},{"x":false,"name":"slide whistle down crazy","short":"slide whistle down crazy","id":23006,"categories":["cartoon"]},{"x":false,"name":"slide whistle up/down","short":"slide whistle up/down","id":23007,"categories":["cartoon"]},{"x":false,"name":"slide whistle up wobbly","short":"slide whistle up wobbly","id":23008,"categories":["cartoon"]},{"x":false,"name":"steam whistle","short":"steam whistle","id":23010,"categories":["vehicle"]},{"x":false,"name":"tugboat whistle","short":"tugboat whistle","id":23013,"categories":["vehicle"]},{"x":false,"name":"sexy whistle","short":"sexy whistle","id":23014,"categories":["cartoon"]},{"x":false,"name":"whistling for dog","short":"whistling for dog","id":23015,"categories":["cartoon"]},{"x":false,"name":"whizzer whistle","short":"whizzer whistle","id":23016,"categories":["cartoon"]},{"x":false,"name":"wind chimes","short":"wind chimes","id":23018,"categories":["Music"]},{"x":false,"name":"spooky wind","short":"spooky wind","id":23021,"categories":["weather"]},{"x":false,"name":"whistle “Over here!”","short":"whistle “Over here!”","id":22997,"categories":["cartoon"]},{"x":false,"name":"whistle “cuckoo”","short":"whistle “cuckoo”","id":22996,"categories":["cartoon"]},{"x":false,"name":"boat whistle","short":"boat whistle","id":22995,"categories":["alarm","vehicle"]},{"x":false,"name":"whip crack","short":"whip crack","id":22992,"categories":["violence"]},{"x":false,"name":"wet cheek flappy","short":"wet cheek flappy","id":22990,"categories":["bodily functions"]},{"x":false,"name":"cloth rip","short":"cloth rip","id":22850,"categories":["cartoon"]},{"x":false,"name":"vacuum suction","short":"vacuum suction","id":22963,"categories":["electronic/machine"]},{"x":false,"name":"velcro rip","short":"velcro rip","id":22964,"categories":["household"]},{"x":true,"name":"vibrating “massager”","short":"vibrating “massager”","id":22965,"categories":["sexual"]},{"x":false,"name":"video game music","short":"video game music","id":22967,"categories":["Music"]},{"x":false,"name":"violin string pluck up","short":"violin string pluck up","id":22968,"categories":["Music"]},{"x":false,"name":"“ouch” (male)","short":"“ouch”","id":22969,"categories":["voice"]},{"x":false,"name":"bike hand pump","short":"bike hand pump","id":22301,"categories":["household"]},{"x":false,"name":"walkie talkie talk","short":"walkie talkie talk","id":22970,"categories":["electronic/machine"]},{"x":false,"name":"sleigh bells","short":"sleigh bells","id":22296,"categories":["Music"]},{"x":false,"name":"walking with suction cup feet","short":"walking with suction cup feet","id":22972,"categories":["cartoon"]},{"x":false,"name":"boxing bell ding","short":"boxing bell ding","id":22290,"categories":["alarm","sports"]},{"x":false,"name":"water drip in sewer","short":"water drip in sewer","id":22978,"categories":["liquid"]},{"x":false,"name":"aluminum can crumple","short":"aluminum can crumple","id":22284,"categories":["household"]},{"x":false,"name":"water trickle fountain","short":"water trickle fountain","id":22982,"categories":["liquid"]},{"x":false,"name":"recess bell","short":"recess bell","id":22295,"categories":["alarm"]},{"x":false,"name":"underwater ambience","short":"underwater ambience","id":22984,"categories":["liquid"]},{"x":false,"name":"waves against shore","short":"waves against shore","id":22985,"categories":["liquid"]},{"x":false,"name":"weed whacker","short":"weed whacker","id":22988,"categories":["tools"]},{"x":false,"name":"water bubbling down drain","short":"water bubbling down drain","id":22974,"categories":["liquid"]},{"x":false,"name":"sonar beeps","short":"sonar beeps","id":22896,"categories":["electronic/machine"]},{"x":false,"name":"spit into a spitoon","short":"spit into a spitoon","id":22897,"categories":["bodily functions"]},{"x":false,"name":"twirling object","short":"twirling object","id":22956,"categories":["cartoon"]},{"x":false,"name":"turkey gobble","short":"turkey gobble","id":22955,"categories":["Animal"]},{"x":false,"name":"the royal trumpets","short":"the royal trumpets","id":22954,"categories":["Music"]},{"x":false,"name":"sad trumpet","short":"sad trumpet","id":22953,"categories":["Music"]},{"x":false,"name":"truck ignition start","short":"truck ignition start","id":22952,"categories":["vehicle"]},{"x":false,"name":"train crossing bell","short":"train crossing bell","id":22945,"categories":["vehicle"]},{"x":false,"name":"typewriter typing","short":"typewriter typing","id":22957,"categories":["household"]},{"x":false,"name":"manual typewriter","short":"manual typewriter","id":22958,"categories":["household"]},{"x":false,"name":"slow manual typing","short":"slow manual typing","id":22959,"categories":["household"]},{"x":false,"name":"condor caw laugh","short":"condor caw laugh","id":22311,"categories":["Animal"]},{"x":false,"name":"underwater bubbles","short":"underwater bubbles","id":22960,"categories":["liquid"]},{"x":false,"name":"big pottery breaking","short":"big pottery breaking","id":22329,"categories":["violence"]},{"x":false,"name":"vacuum start/stop","short":"vacuum start/stop","id":22961,"categories":["electronic/machine"]},{"x":false,"name":"table saw","short":"table saw","id":22944,"categories":["tools"]},{"x":false,"name":"hammering a nail","short":"hammering a nail","id":22943,"categories":["tools"]},{"x":false,"name":"toilet flush","short":"toilet flush","id":22942,"categories":["liquid"]},{"x":false,"name":"spitting three times","short":"spitting three times","id":22898,"categories":["bodily functions"]},{"x":false,"name":"truck backing up","short":"truck backing up","id":22949,"categories":["vehicle"]},{"x":false,"name":"big rig horn","short":"big rig horn","id":22950,"categories":["vehicle"]},{"x":false,"name":"spit take","short":"spit take","id":22899,"categories":["bodily functions"]},{"x":false,"name":"stop watch ticking","short":"stop watch ticking","id":22929,"categories":["household"]},{"x":false,"name":"sucking something up","short":"sucking something up","id":22930,"categories":["human"]},{"x":false,"name":"swimming","short":"swimming","id":22931,"categories":["liquid"]},{"x":false,"name":"sword fight clinks","short":"sword fight clinks","id":22932,"categories":["violence"]},{"x":false,"name":"synthesizer blat","short":"synthesizer blat","id":22933,"categories":["Music"]},{"x":false,"name":"audio tape rewind","short":"audio tape rewind","id":22934,"categories":["electronic/machine"]},{"x":false,"name":"telegraph","short":"telegraph","id":22935,"categories":["electronic/machine"]},{"x":false,"name":"antique telephone ring","short":"antique telephone ring","id":22936,"categories":["household"]},{"x":false,"name":"rock splash in water","short":"rock splash in water","id":22919,"categories":["liquid"]},{"x":false,"name":"wet splat","short":"wet splat","id":22920,"categories":["liquid"]},{"x":false,"name":"football hit with grunt","short":"football hit with grunt","id":22921,"categories":["sports"]},{"x":false,"name":"referee whistle","short":"referee whistle","id":22922,"categories":["sports"]},{"x":false,"name":"paint spray gun","short":"paint spray gun","id":22924,"categories":["liquid"]},{"x":false,"name":"squeaky hinge","short":"squeaky hinge","id":22925,"categories":["household"]},{"x":false,"name":"squirrel chatter","short":"squirrel chatter","id":22926,"categories":["Animal"]},{"x":false,"name":"rim shot","short":"rim shot","id":22849,"categories":["Music"]},{"x":false,"name":"lightning and thunder strike","short":"lightning and thunder strike","id":25664,"categories":["weather"]},{"x":false,"name":"train whistle","short":"train whistle","id":25663,"categories":["vehicle"]},{"x":false,"name":"“All hail the king!” (male)","short":"“All hail the king!”","id":25662,"categories":["voice"]},{"x":false,"name":"orchestral stab","short":"orchestral stab","id":25661,"categories":["Music"]},{"x":false,"name":"hockey air horn","short":"hockey air horn","id":25660,"categories":["sports"]},{"x":false,"name":"rocket fly by","short":"rocket fly by","id":22853,"categories":["vehicle"]},{"x":false,"name":"sipping liquid","short":"sipping liquid","id":22878,"categories":["liquid"]},{"x":false,"name":"slide whistle down","short":"slide whistle down","id":22885,"categories":["cartoon"]},{"x":false,"name":"slide whistle up","short":"slide whistle up","id":22886,"categories":["cartoon"]},{"x":false,"name":"slide whistle up crazy","short":"slide whistle up crazy","id":22887,"categories":["cartoon"]},{"x":false,"name":"slurping drink","short":"slurping drink","id":22888,"categories":["liquid"]},{"x":false,"name":"police siren drive by","short":"police siren drive by","id":22879,"categories":["alarm","vehicle"]},{"x":false,"name":"British police siren","short":"British police siren","id":22880,"categories":["alarm","vehicle"]},{"x":false,"name":"short police siren","short":"short police siren","id":22881,"categories":["alarm","vehicle"]},{"x":false,"name":"human sniffing","short":"human sniffing","id":22890,"categories":["voice"]},{"x":false,"name":"human snoring","short":"human snoring","id":22891,"categories":["voice"]},{"x":false,"name":"socket wrench","short":"socket wrench","id":22892,"categories":["tools"]},{"x":false,"name":"soda can open","short":"soda can open","id":22893,"categories":["household"]},{"x":false,"name":"low police siren","short":"low police siren","id":22882,"categories":["alarm","vehicle"]},{"x":false,"name":"rock thrown into water","short":"rock thrown into water","id":22854,"categories":["liquid"]},{"x":false,"name":"rooster crowing","short":"rooster crowing","id":22855,"categories":["Animal"]},{"x":false,"name":"rubber snap","short":"rubber snap","id":22856,"categories":["cartoon"]},{"x":false,"name":"rubber stretching","short":"rubber stretching","id":22857,"categories":["cartoon"]},{"x":false,"name":"shovel digging up dirt","short":"shovel digging up dirt","id":22876,"categories":["tools"]},{"x":false,"name":"shaving cream spray","short":"shaving cream spray","id":22875,"categories":["household"]},{"x":false,"name":"quick scratching","short":"quick scratching","id":22864,"categories":["human"]},{"x":false,"name":"falling scream (male)","short":"falling scream","id":22865,"categories":["voice"]},{"x":false,"name":"horror scream (female)","short":"horror scream","id":22866,"categories":["voice"]},{"x":false,"name":"scared scream (female)","short":"scared scream","id":22867,"categories":["voice"]},{"x":false,"name":"terrified scream (male)","short":"terrified scream","id":22868,"categories":["voice"]},{"x":false,"name":"pained scream (male)","short":"pained scream","id":22869,"categories":["voice"]},{"x":false,"name":"scuba diver breathing","short":"scuba diver breathing","id":22870,"categories":["liquid"]},{"x":false,"name":"sea lion barks","short":"sea lion barks","id":22871,"categories":["Animal"]},{"x":false,"name":"rubbing sandpaper","short":"rubbing sandpaper","id":22858,"categories":["tools"]},{"x":false,"name":"sci-fi computer","short":"sci-fi computer","id":22859,"categories":["sci-fi"]},{"x":false,"name":"laser battle","short":"laser battle","id":22860,"categories":["sci-fi","violence"]},{"x":false,"name":"sci-fi laser shots","short":"sci-fi laser shots","id":22861,"categories":["sci-fi"]},{"x":false,"name":"scissors","short":"scissors","id":22862,"categories":["household"]},{"x":false,"name":"record album scratch","short":"record album scratch","id":22848,"categories":["Music"]},{"x":false,"name":"quick ratchet sound","short":"quick ratchet sound","id":22847,"categories":["tools"]},{"x":false,"name":"ratchet clicks","short":"ratchet clicks","id":22846,"categories":["tools"]},{"x":false,"name":"steady rain","short":"steady rain","id":22845,"categories":["weather"]},{"x":false,"name":"radio tuning","short":"radio tuning","id":22844,"categories":["electronic/machine"]},{"x":false,"name":"“regular or decaf” (male)","short":"“regular or decaf”","id":22735,"categories":["voice"]},{"x":false,"name":"rotary phone dial","short":"rotary phone dial","id":22828,"categories":["household"]},{"x":false,"name":"pig grunting","short":"pig grunting","id":22829,"categories":["Animal"]},{"x":false,"name":"pig squeal","short":"pig squeal","id":22830,"categories":["Animal"]},{"x":false,"name":"agitated pig squeals","short":"agitated pig squeals","id":22831,"categories":["Animal"]},{"x":false,"name":"pile of maggots","short":"pile of maggots","id":22832,"categories":["Animal"]},{"x":false,"name":"pinball machine","short":"pinball machine","id":22833,"categories":["electronic/machine"]},{"x":false,"name":"puking into toilet","short":"puking into toilet","id":22838,"categories":["bodily functions"]},{"x":false,"name":"squeaky pulley","short":"squeaky pulley","id":22839,"categories":["cartoon"]},{"x":false,"name":"quick punch","short":"quick punch","id":22840,"categories":["violence"]},{"x":false,"name":"solid punch","short":"solid punch","id":22841,"categories":["violence"]},{"x":false,"name":"punch with “oof”","short":"punch with “oof”","id":22842,"categories":["violence"]},{"x":false,"name":"long police siren","short":"long police siren","id":22834,"categories":["alarm","vehicle"]},{"x":true,"name":"porn music","short":"porn music","id":22835,"categories":["Music","sexual"]},{"x":false,"name":"prairie dog squeaks","short":"prairie dog squeaks","id":22836,"categories":["Animal"]},{"x":false,"name":"printer dot matrix","short":"printer dot matrix","id":22837,"categories":["electronic/machine"]},{"x":false,"name":"metal gate squeak","short":"metal gate squeak","id":22797,"categories":["violence"]},{"x":false,"name":"sad trombone","short":"sad trombone","id":22809,"categories":["Music"]},{"x":false,"name":"Charlie Brown parents sound","short":"Charlie Brown parents sound","id":22810,"categories":["Music"]},{"x":false,"name":"sports organ “charge”","short":"sports organ “charge”","id":22811,"categories":["Music","sports"]},{"x":false,"name":"music box","short":"music box","id":22812,"categories":["Music"]},{"x":false,"name":"mustard squirt","short":"mustard squirt","id":22813,"categories":["liquid"]},{"x":false,"name":"owl","short":"owl","id":22814,"categories":["Animal"]},{"x":false,"name":"cell phone vibrating","short":"cell phone vibrating","id":22823,"categories":["household"]},{"x":false,"name":"cell phone ringing","short":"cell phone ringing","id":22824,"categories":["household"]},{"x":false,"name":"dialing a phone","short":"dialing a phone","id":22825,"categories":["household"]},{"x":false,"name":"ripping paper","short":"ripping paper","id":22815,"categories":["household"]},{"x":false,"name":"air release","short":"air release","id":22816,"categories":["tools"]},{"x":false,"name":"“hello” (parrot)","short":"“hello” (parrot)","id":22817,"categories":["Animal"]},{"x":false,"name":"parrot squawks","short":"parrot squawks","id":22818,"categories":["Animal"]},{"x":false,"name":"party crowd ambience","short":"party crowd ambience","id":22819,"categories":["crowd"]},{"x":false,"name":"party horns","short":"party horns","id":22820,"categories":["alarm"]},{"x":false,"name":"phone busy signal","short":"phone busy signal","id":22821,"categories":["household"]},{"x":true,"name":"military battle","short":"military battle","id":22798,"categories":["violence"]},{"x":false,"name":"modem dial connecting","short":"modem dial connecting","id":22799,"categories":["electronic/machine"]},{"x":false,"name":"monster growl","short":"monster growl","id":22800,"categories":["Animal"]},{"x":false,"name":"monster scream","short":"monster scream","id":22801,"categories":["Animal"]},{"x":false,"name":"morse code","short":"morse code","id":22802,"categories":["electronic/machine"]},{"x":false,"name":"out of tune violin","short":"out of tune violin","id":25669,"categories":["Music"]},{"x":false,"name":"dramatic music stab","short":"dramatic music stab","id":22803,"categories":["Music"]},{"x":false,"name":"harmonica zip up","short":"harmonica zip up","id":22804,"categories":["Music"]},{"x":false,"name":"group of screaming fans (female)","short":"group of screaming fans","id":25668,"categories":["crowd"]},{"x":false,"name":"haunted organ music","short":"haunted organ music","id":22805,"categories":["Music"]},{"x":false,"name":"cute baby laugh","short":"cute baby laugh","id":25666,"categories":["voice"]},{"x":false,"name":"impressive belch","short":"impressive belch","id":25667,"categories":["bodily functions"]},{"x":false,"name":"kazoo bummer","short":"kazoo bummer","id":22807,"categories":["cartoon"]},{"x":false,"name":"jet fly by","short":"jet fly by","id":22768,"categories":["vehicle"]},{"x":false,"name":"jetpack fly by","short":"jetpack fly by","id":22769,"categories":["vehicle"]},{"x":false,"name":"quick metal hammering","short":"quick metal hammering","id":22794,"categories":["violence"]},{"x":false,"name":"metal impact/drop","short":"metal impact/drop","id":22793,"categories":["violence"]},{"x":false,"name":"metal detector blips","short":"metal detector blips","id":22792,"categories":["electronic/machine"]},{"x":false,"name":"metal debris crash","short":"metal debris crash","id":22791,"categories":["violence"]},{"x":false,"name":"hubcap spinning","short":"hubcap spinning","id":22790,"categories":["vehicle"]},{"x":false,"name":"drop wrench","short":"drop wrench","id":22789,"categories":["tools"]},{"x":false,"name":"marching soldiers","short":"marching soldiers","id":22788,"categories":["human"]},{"x":false,"name":"echoed marching","short":"echoed marching","id":22787,"categories":["human"]},{"x":false,"name":"marbles spilling","short":"marbles spilling","id":22786,"categories":["household"]},{"x":false,"name":"“hello” (male)","short":"“hello”","id":22785,"categories":["voice"]},{"x":false,"name":"liquid suction","short":"liquid suction","id":22784,"categories":["liquid"]},{"x":false,"name":"pouring liquid","short":"pouring liquid","id":22783,"categories":["liquid"]},{"x":false,"name":"bubbling liquid","short":"bubbling liquid","id":22782,"categories":["liquid"]},{"x":false,"name":"turkey baster gloop","short":"turkey baster gloop","id":22781,"categories":["liquid"]},{"x":false,"name":"kazoo “ta da”","short":"kazoo “ta da”","id":22770,"categories":["cartoon"]},{"x":false,"name":"kiddie horn","short":"kiddie horn","id":22771,"categories":["cartoon"]},{"x":false,"name":"kids playing","short":"kids playing","id":22772,"categories":["crowd"]},{"x":false,"name":"little lamb “baa”","short":"little lamb “baa”","id":22773,"categories":["Animal"]},{"x":false,"name":"lamb bleats","short":"lamb bleats","id":22774,"categories":["Animal"]},{"x":false,"name":"laughing kids","short":"laughing kids","id":22775,"categories":["crowd"]},{"x":false,"name":"creepy laughing toy","short":"creepy laughing toy","id":22776,"categories":["cartoon"]},{"x":false,"name":"laughtrack","short":"laughtrack","id":22777,"categories":["crowd"]},{"x":false,"name":"laughtrack with claps","short":"laughtrack with claps","id":22778,"categories":["crowd"]},{"x":false,"name":"“5-4-3-2-1” countdown (male)","short":"“5-4-3-2-1” countdown","id":22779,"categories":["voice"]},{"x":false,"name":"liquid pouring with ice","short":"liquid pouring with ice","id":22780,"categories":["liquid"]},{"x":false,"name":"jackhammer","short":"jackhammer","id":22766,"categories":["tools"]},{"x":false,"name":"scared scream (male)","short":"scared scream","id":22736,"categories":["voice"]},{"x":false,"name":"impact wrench","short":"impact wrench","id":22764,"categories":["tools"]},{"x":false,"name":"wood impact","short":"wood impact","id":22763,"categories":["violence"]},{"x":false,"name":"metal bar impact","short":"metal bar impact","id":22762,"categories":["violence"]},{"x":false,"name":"object dropped in metal bin","short":"object dropped in metal bin","id":22761,"categories":["violence"]},{"x":false,"name":"“stop” (male)","short":"“stop”","id":22737,"categories":["voice"]},{"x":false,"name":"“try again” (male)","short":"“try again”","id":22738,"categories":["voice"]},{"x":false,"name":"“turn it up” (male)","short":"“turn it up”","id":22739,"categories":["voice"]},{"x":true,"name":"male urinating into toilet (a lot)","short":"male urinating into toilet (a lot)","id":22740,"categories":["bodily functions"]},{"x":false,"name":"hydraulic lift","short":"hydraulic lift","id":22754,"categories":["tools"]},{"x":false,"name":"short hydraulic lift","short":"short hydraulic lift","id":22755,"categories":["tools"]},{"x":false,"name":"robot motor","short":"robot motor","id":22756,"categories":["tools"]},{"x":false,"name":"ice cubes drop in glass","short":"ice cubes drop in glass","id":22757,"categories":["household"]},{"x":false,"name":"ice cubes drop into glass/sip","short":"ice cubes drop into glass/sip","id":22758,"categories":["household"]},{"x":false,"name":"“welcome” (male)","short":"“welcome”","id":22741,"categories":["voice"]},{"x":false,"name":"“yep” (male)","short":"“yep”","id":22742,"categories":["voice"]},{"x":false,"name":"human panting","short":"human panting","id":22743,"categories":["voice"]},{"x":false,"name":"scream (female)","short":"scream","id":22744,"categories":["voice"]},{"x":false,"name":"grunt (male)","short":"grunt","id":22751,"categories":["voice"]},{"x":false,"name":"tortured scream (female)","short":"tortured scream","id":22745,"categories":["voice"]},{"x":false,"name":"sneeze (male)","short":"sneeze","id":22746,"categories":["bodily functions"]},{"x":false,"name":"“this may take a while” (male)","short":"“this may take a while”","id":22748,"categories":["voice"]},{"x":false,"name":"gasp (female)","short":"gasp","id":22750,"categories":["voice"]},{"x":false,"name":"short slide whistle up","short":"short slide whistle up","id":22407,"categories":["cartoon"]},{"x":false,"name":"clearing throat (male)","short":"clearing throat","id":22720,"categories":["voice"]},{"x":false,"name":"“good answer” (male)","short":"“good answer”","id":22721,"categories":["voice"]},{"x":false,"name":"“good job” (male)","short":"“good job”","id":22722,"categories":["voice"]},{"x":false,"name":"“Hello, is anybody there?” (male)","short":"“Hello, is anybody there?”","id":22723,"categories":["voice"]},{"x":false,"name":"“hi” (male)","short":"“hi”","id":22724,"categories":["voice"]},{"x":false,"name":"“made in the USA” (male)","short":"“made in the USA”","id":22725,"categories":["voice"]},{"x":false,"name":"“nap time” (male)","short":"“nap time”","id":22726,"categories":["voice"]},{"x":false,"name":"“no parking” (male/Spanish)","short":"“no parking” (Spanish)","id":22727,"categories":["voice"]},{"x":false,"name":"“nope” (male)","short":"“nope”","id":22729,"categories":["voice"]},{"x":false,"name":"“now loading” (male)","short":"“now loading”","id":22730,"categories":["voice"]},{"x":false,"name":"“Oops!” (male)","short":"“Oops!”","id":22731,"categories":["voice"]},{"x":true,"name":"male urinating into toilet","short":"male urinating into toilet","id":22732,"categories":["bodily functions"]},{"x":true,"name":"male urinating outside","short":"male urinating outside","id":22733,"categories":["bodily functions"]},{"x":false,"name":"“press here” (male)","short":"“press here”","id":22734,"categories":["voice"]},{"x":false,"name":"sneeze (female)","short":"sneeze","id":22706,"categories":["bodily functions"]},{"x":false,"name":"“softer” (female)","short":"“softer”","id":22707,"categories":["voice"]},{"x":false,"name":"“stop” (female)","short":"“stop”","id":22708,"categories":["voice"]},{"x":false,"name":"“First, stop the bleeding.” (female)","short":"“First, stop the bleeding.”","id":22709,"categories":["voice"]},{"x":false,"name":"“This may take a while.” (female)","short":"“This may take a while.”","id":22710,"categories":["voice"]},{"x":false,"name":"“uh uh” (female)","short":"“uh uh”","id":22711,"categories":["voice"]},{"x":false,"name":"“welcome” (female)","short":"“welcome”","id":22712,"categories":["voice"]},{"x":false,"name":"“Wrong. Try again.” (female)","short":"“Wrong. Try again.”","id":22713,"categories":["voice"]},{"x":false,"name":"“yes” (female)","short":"“yes”","id":22714,"categories":["voice"]},{"x":false,"name":"gulps","short":"gulps","id":22715,"categories":["voice"]},{"x":false,"name":"crazy laugh","short":"crazy laugh","id":22716,"categories":["voice"]},{"x":false,"name":"laugh (female)","short":"laugh","id":22717,"categories":["voice"]},{"x":false,"name":"“1920” (male)","short":"“1920”","id":22718,"categories":["voice"]},{"x":false,"name":"“back by popular demand” (male)","short":"“back by popular demand”","id":22719,"categories":["voice"]},{"x":false,"name":"“good girl” (female)","short":"“good girl”","id":22692,"categories":["voice"]},{"x":false,"name":"“help” (female)","short":"“help”","id":22693,"categories":["voice"]},{"x":false,"name":"“hi” (female)","short":"“hi”","id":22694,"categories":["voice"]},{"x":false,"name":"“howdy” (female)","short":"“howdy”","id":22695,"categories":["voice"]},{"x":false,"name":"laugh (female)","short":"laugh","id":22696,"categories":["voice"]},{"x":false,"name":"“no” (female)","short":"“no”","id":22697,"categories":["voice"]},{"x":false,"name":"“The white zone...” (female)","short":"“The white zone...”","id":22698,"categories":["voice"]},{"x":false,"name":"“not good” (female)","short":"“not good”","id":22699,"categories":["voice"]},{"x":false,"name":"“Not there, you idiot!” (female)","short":"“Not there, you idiot!”","id":22700,"categories":["voice"]},{"x":false,"name":"“Oops!” (female)","short":"“Oops!”","id":22701,"categories":["voice"]},{"x":true,"name":"sexual moaning (female)","short":"sexual moaning","id":22702,"categories":["sexual","voice"]},{"x":true,"name":"orgasm (female)","short":"orgasm","id":22703,"categories":["sexual","voice"]},{"x":false,"name":"“please wait” (female)","short":"“please wait”","id":22704,"categories":["voice"]},{"x":false,"name":"“press here” (female)","short":"“press here”","id":22705,"categories":["voice"]},{"x":false,"name":"cough (male)","short":"cough","id":22682,"categories":["bodily functions"]},{"x":false,"name":"eating with lip smacking","short":"eating with lip smacking","id":22683,"categories":["voice"]},{"x":false,"name":"“1980” (female)","short":"“1980”","id":22684,"categories":["voice"]},{"x":false,"name":"“aww” (female)","short":"“aww”","id":22685,"categories":["voice"]},{"x":false,"name":"“breathe deeply” (female)","short":"“breathe deeply”","id":22686,"categories":["voice"]},{"x":false,"name":"“bye bye” (female)","short":"“bye bye”","id":22688,"categories":["voice"]},{"x":false,"name":"“good answer” (female)","short":"“good answer”","id":22690,"categories":["voice"]},{"x":false,"name":"“good boy” (female)","short":"“good boy”","id":22691,"categories":["voice"]},{"x":true,"name":"squishy wetness","short":"squishy wetness","id":22615,"categories":["violence"]},{"x":true,"name":"slicing off limb","short":"slicing off limb","id":22614,"categories":["violence"]},{"x":false,"name":"ahooga horn","short":"ahooga horn","id":22646,"categories":["cartoon"]},{"x":false,"name":"vintage ahooga horn","short":"vintage ahooga horn","id":22647,"categories":["cartoon"]},{"x":false,"name":"air horn","short":"air horn","id":22648,"categories":["alarm"]},{"x":false,"name":"car horn (2 honks)","short":"car horn (2 honks)","id":22664,"categories":["alarm","vehicle"]},{"x":false,"name":"party horn","short":"party horn","id":22666,"categories":["alarm"]},{"x":false,"name":"group of party horns","short":"group of party horns","id":22667,"categories":["alarm","crowd"]},{"x":false,"name":"crowd of zombies/ghosts","short":"crowd of zombies/ghosts","id":22673,"categories":["voice"]},{"x":false,"name":"horse whinny","short":"horse whinny","id":22674,"categories":["Animal"]},{"x":false,"name":"horse gallop (fake)","short":"horse gallop (fake)","id":22675,"categories":["Animal"]},{"x":false,"name":"angry horse","short":"angry horse","id":22676,"categories":["Animal"]},{"x":false,"name":"bubbling hot tub","short":"bubbling hot tub","id":22677,"categories":["liquid"]},{"x":false,"name":"heavy breathing","short":"heavy breathing","id":22679,"categories":["voice"]},{"x":false,"name":"ship horn","short":"ship horn","id":22668,"categories":["alarm","vehicle"]},{"x":false,"name":"car horn honks","short":"car horn honks","id":22669,"categories":["alarm","vehicle"]},{"x":false,"name":"car horn with doppler effect","short":"car horn with doppler effect","id":22670,"categories":["alarm","vehicle"]},{"x":false,"name":"clown horn honks","short":"clown horn honks","id":22671,"categories":["cartoon"]},{"x":true,"name":"shotgun blast","short":"shotgun blast","id":22636,"categories":["violence"]},{"x":true,"name":"shotgun cock","short":"shotgun cock","id":22637,"categories":["violence"]},{"x":true,"name":"gunshot with silencer","short":"gunshot with silencer","id":22638,"categories":["violence"]},{"x":false,"name":"harp gliss/dreaming","short":"harp gliss/dreaming","id":22639,"categories":["Music"]},{"x":false,"name":"harp gliss up","short":"harp gliss up","id":22640,"categories":["Music"]},{"x":false,"name":"fast heartbeat","short":"fast heartbeat","id":22641,"categories":["bodily functions"]},{"x":false,"name":"normal heartbeat","short":"normal heartbeat","id":22644,"categories":["bodily functions"]},{"x":true,"name":"slice off head","short":"slice off head","id":22613,"categories":["violence"]},{"x":false,"name":"liquid squirt","short":"liquid squirt","id":22612,"categories":["violence"]},{"x":true,"name":"wet manipulation","short":"wet manipulation","id":22611,"categories":["violence"]},{"x":true,"name":"hail of bullets","short":"hail of bullets","id":22624,"categories":["violence"]},{"x":true,"name":"handgun firing multiple shots","short":"handgun firing multiple shots","id":22625,"categories":["violence"]},{"x":true,"name":"handgun out of bullets","short":"handgun out of bullets","id":22626,"categories":["violence"]},{"x":true,"name":"machine gun fire","short":"machine gun fire","id":22627,"categories":["violence"]},{"x":false,"name":"gong","short":"gong","id":22610,"categories":["Music"]},{"x":true,"name":"multiple gun shots","short":"multiple gun shots","id":22622,"categories":["violence"]},{"x":true,"name":"cannon blast","short":"cannon blast","id":22620,"categories":["violence"]},{"x":true,"name":"gun cock and shoot","short":"gun cock and shoot","id":22619,"categories":["violence"]},{"x":false,"name":"groundhog chatter","short":"groundhog chatter","id":22618,"categories":["Animal"]},{"x":false,"name":"evacuating bowels","short":"evacuating bowels","id":22617,"categories":["bodily functions"]},{"x":false,"name":"gramophone music","short":"gramophone music","id":22616,"categories":["Music"]},{"x":false,"name":"sports buzzer","short":"sports buzzer","id":22597,"categories":["sports"]},{"x":false,"name":"gargling liquid","short":"gargling liquid","id":22598,"categories":["voice"]},{"x":false,"name":"gasp (female)","short":"gasp","id":22599,"categories":["voice"]},{"x":false,"name":"giggle (female)","short":"giggle","id":22600,"categories":["voice"]},{"x":false,"name":"smashing a lot of glass","short":"smashing a lot of glass","id":22601,"categories":["violence"]},{"x":false,"name":"glass shatter","short":"glass shatter","id":22605,"categories":["violence"]},{"x":false,"name":"goat baa","short":"goat baa","id":22606,"categories":["Animal"]},{"x":false,"name":"golf ball hit","short":"golf ball hit","id":22607,"categories":["sports"]},{"x":false,"name":"golf ball in cup","short":"golf ball in cup","id":22608,"categories":["sports"]},{"x":false,"name":"golf ball in water","short":"golf ball in water","id":22609,"categories":["sports"]},{"x":false,"name":"fart-stravaganza","short":"fart-stravaganza","id":22573,"categories":["bodily functions"]},{"x":false,"name":"squeaker fart","short":"squeaker fart","id":22572,"categories":["bodily functions"]},{"x":false,"name":"short airy fart","short":"short airy fart","id":22571,"categories":["bodily functions"]},{"x":false,"name":"fireworks finale","short":"fireworks finale","id":22583,"categories":["explosion"]},{"x":false,"name":"frying meat","short":"frying meat","id":22595,"categories":["household"]},{"x":false,"name":"frog croaks","short":"frog croaks","id":22594,"categories":["Animal"]},{"x":false,"name":"footsteps on wood","short":"footsteps on wood","id":22593,"categories":["human"]},{"x":false,"name":"fish flopping","short":"fish flopping","id":22585,"categories":["Animal","liquid"]},{"x":false,"name":"fishing reel unspooling","short":"fishing reel unspooling","id":22586,"categories":["household"]},{"x":false,"name":"foghorn","short":"foghorn","id":22587,"categories":["alarm"]},{"x":false,"name":"bottle rocket","short":"bottle rocket","id":22582,"categories":["explosion"]},{"x":false,"name":"fire crackling","short":"fire crackling","id":22581,"categories":["violence"]},{"x":false,"name":"firecrackers","short":"firecrackers","id":22580,"categories":["explosion"]},{"x":false,"name":"footsteps on concrete","short":"footsteps on concrete","id":22588,"categories":["human"]},{"x":false,"name":"messy fart","short":"messy fart","id":22574,"categories":["bodily functions"]},{"x":false,"name":"fart in the tub","short":"fart in the tub","id":22575,"categories":["bodily functions"]},{"x":false,"name":"short, pinched fart","short":"short, pinched fart","id":22570,"categories":["bodily functions"]},{"x":false,"name":"hot, muffled pants fart","short":"hot, muffled pants fart","id":25671,"categories":["bodily functions"]},{"x":false,"name":"short, toilet bowl fart","short":"short, toilet bowl fart","id":22569,"categories":["bodily functions"]},{"x":false,"name":"hacking cough","short":"hacking cough","id":25672,"categories":["bodily functions"]},{"x":false,"name":"forced fart","short":"forced fart","id":22568,"categories":["bodily functions"]},{"x":false,"name":"short pinched fart","short":"short pinched fart","id":22567,"categories":["bodily functions"]},{"x":false,"name":"“hello” (female)","short":"“hello”","id":22577,"categories":["voice"]},{"x":false,"name":"very long, wet fart","short":"very long, wet fart","id":22566,"categories":["bodily functions"]},{"x":false,"name":"small crowd crying","short":"small crowd crying","id":22492,"categories":["crowd"]},{"x":false,"name":"cartoon slide down with honk","short":"cartoon slide down with honk","id":22406,"categories":["cartoon"]},{"x":false,"name":"electric chair","short":"electric chair","id":22541,"categories":["electronic/machine"]},{"x":false,"name":"electric buzz","short":"electric buzz","id":22542,"categories":["electronic/machine"]},{"x":false,"name":"digital melody","short":"digital melody","id":22543,"categories":["Music"]},{"x":false,"name":"elephant trumpeting","short":"elephant trumpet","id":22544,"categories":["Animal"]},{"x":false,"name":"large explosion","short":"large explosion","id":22545,"categories":["explosion"]},{"x":false,"name":"big explosion with glass","short":"big explosion with glass","id":22546,"categories":["explosion"]},{"x":false,"name":"quick explosion","short":"quick explosion","id":22552,"categories":["explosion"]},{"x":true,"name":"grenade explosion","short":"grenade explode","id":22547,"categories":["explosion","violence"]},{"x":false,"name":"chainsaw rev","short":"chainsaw rev","id":22450,"categories":["tools","violence"]},{"x":false,"name":"eating potato chips","short":"eating potato chips","id":22538,"categories":["human"]},{"x":false,"name":"very large explosion","short":"very large explosion","id":22550,"categories":["explosion"]},{"x":false,"name":"crowd applause and cheers","short":"crowd applause and cheers","id":22489,"categories":["crowd"]},{"x":false,"name":"crowd booing","short":"crowd booing","id":22490,"categories":["crowd"]},{"x":false,"name":"duck call - single","short":"duck call - single","id":22532,"categories":["Animal"]},{"x":false,"name":"weird duck call","short":"weird duck call","id":22533,"categories":["Animal"]},{"x":false,"name":"low duck call","short":"low duck call","id":22534,"categories":["Animal"]},{"x":false,"name":"duck quack - single","short":"duck quack - single","id":22535,"categories":["Animal"]},{"x":false,"name":"real duck quack","short":"real duck quack","id":22536,"categories":["Animal"]},{"x":false,"name":"chimp laugh and screech","short":"chimp laugh and screech","id":22453,"categories":["Animal"]},{"x":false,"name":"creaky door","short":"creaky door","id":22520,"categories":["household"]},{"x":false,"name":"knock on wooden door","short":"knock on wooden door","id":22521,"categories":["household"]},{"x":false,"name":"small crowd shouting “hooray”","short":"small crowd shouting “hooray”","id":22494,"categories":["crowd"]},{"x":false,"name":"big dog bark","short":"big dog bark","id":22511,"categories":["Animal"]},{"x":false,"name":"drumroll with hit","short":"drumroll with hit","id":22530,"categories":["Music"]},{"x":false,"name":"dentist drill","short":"dentist drill","id":22527,"categories":["electronic/machine"]},{"x":false,"name":"droid speaking","short":"droid speaking","id":22528,"categories":["sci-fi"]},{"x":false,"name":"donkey braying","short":"donkey braying","id":22517,"categories":["Animal"]},{"x":false,"name":"doorbell","short":"doorbell","id":22518,"categories":["household"]},{"x":false,"name":"stadium crowd “aww”","short":"stadium crowd “aww”","id":22495,"categories":["crowd"]},{"x":false,"name":"audience laughing","short":"audience laughing","id":22496,"categories":["crowd"]},{"x":false,"name":"dog whine","short":"dog whine","id":22510,"categories":["Animal"]},{"x":false,"name":"crowd saying “ohhhh”","short":"crowd saying “ohhhh”","id":22497,"categories":["crowd"]},{"x":false,"name":"crowd saying “Surprise!”","short":"crowd saying “Surprise!”","id":22498,"categories":["crowd"]},{"x":false,"name":"newborn baby crying","short":"newborn baby crying","id":22499,"categories":["voice"]},{"x":false,"name":"crying toddler","short":"crying toddler","id":22500,"categories":["voice"]},{"x":false,"name":"cuckoo cuckoo cuckoo","short":"cuckoo cuckoo cuckoo","id":22501,"categories":["alarm"]},{"x":false,"name":"dentist suction tool","short":"dentist suction tool","id":22502,"categories":["electronic/machine"]},{"x":false,"name":"dinosaur growl","short":"dinosaur growl","id":22503,"categories":["Animal"]},{"x":false,"name":"big dog bark and snarl","short":"big dog bark and snarl","id":22504,"categories":["Animal"]},{"x":false,"name":"tiny dog bark","short":"tiny dog bark","id":22505,"categories":["Animal"]},{"x":false,"name":"big dog vicious bark","short":"big dog vicious bark","id":22506,"categories":["Animal"]},{"x":false,"name":"menacing dog growl","short":"menacing dog growl","id":22507,"categories":["Animal"]},{"x":false,"name":"long dog growl","short":"long dog growl","id":22508,"categories":["Animal"]},{"x":false,"name":"chimp screeches","short":"chimp screeches","id":22454,"categories":["Animal"]},{"x":false,"name":"chimp freaking out","short":"chimp freaking out","id":22455,"categories":["Animal"]},{"x":false,"name":"coins spilling onto table","short":"coins spilling onto table","id":22463,"categories":["household"]},{"x":false,"name":"crow caws","short":"crow caws","id":22482,"categories":["Animal"]},{"x":false,"name":"kids cheering “yay”","short":"kids cheering “yay”","id":22483,"categories":["crowd"]},{"x":false,"name":"crowd saying “5, 4, 3, 2...”","short":"crowd saying “5, 4, 3, 2...”","id":22485,"categories":["crowd"]},{"x":false,"name":"angry crowd","short":"angry crowd","id":22486,"categories":["crowd"]},{"x":false,"name":"cop radio talk","short":"cop radio talk","id":22464,"categories":["electronic/machine"]},{"x":false,"name":"cork pop","short":"cork pop","id":22465,"categories":["cartoon"]},{"x":false,"name":"crowd gasping","short":"crowd gasping","id":22493,"categories":["crowd"]},{"x":false,"name":"cow moo","short":"cow moo","id":22466,"categories":["Animal"]},{"x":false,"name":"slow cow moo","short":"slow cow moo","id":22467,"categories":["Animal"]},{"x":false,"name":"cowbell clanging","short":"cowbell clanging","id":22468,"categories":["Animal"]},{"x":false,"name":"metal junk crash","short":"metal junk crash","id":22476,"categories":["violence"]},{"x":false,"name":"chimp laughing","short":"chimp laughing","id":22456,"categories":["Animal"]},{"x":false,"name":"cow moo and squeal","short":"cow moo and squeal","id":22471,"categories":["Animal"]},{"x":false,"name":"coyote howl","short":"coyote howl","id":22472,"categories":["Animal"]},{"x":false,"name":"car skid and crash","short":"car skid and crash","id":22473,"categories":["vehicle"]},{"x":false,"name":"closet junk crash","short":"closet junk crash","id":22474,"categories":["violence"]},{"x":false,"name":"chipmunk chattering","short":"chipmunk chattering","id":22457,"categories":["Animal"]},{"x":false,"name":"person choking","short":"person choking","id":22458,"categories":["human"]},{"x":false,"name":"clock ticking","short":"clock ticking","id":22459,"categories":["household"]},{"x":false,"name":"cartoon skedaddle","short":"cartoon skedaddle","id":22405,"categories":["cartoon"]},{"x":false,"name":"cartoon wacky machine","short":"cartoon wacky machine","id":22434,"categories":["cartoon"]},{"x":false,"name":"goofy clown laugh","short":"goofy clown laugh","id":22461,"categories":["voice"]},{"x":false,"name":"tape rewind","short":"tape rewind","id":22403,"categories":["cartoon"]},{"x":false,"name":"cartoon head bonks","short":"cartoon head bonks","id":22402,"categories":["cartoon"]},{"x":false,"name":"cartoon wobbly twang","short":"cartoon wobbly twang","id":22423,"categories":["cartoon"]},{"x":false,"name":"quick car crash","short":"quick car crash","id":22424,"categories":["vehicle"]},{"x":false,"name":"water drip","short":"water drip","id":22435,"categories":["cartoon","liquid"]},{"x":false,"name":"cell phone texting","short":"cell phone texting","id":22448,"categories":["household"]},{"x":false,"name":"scat singing (old man)","short":"scat singing (old man)","id":25713,"categories":["Music","voice"]},{"x":false,"name":"cat meows","short":"cat meows","id":22447,"categories":["Animal"]},{"x":false,"name":"fart (suprisingly wet)","short":"fart (suprisingly wet)","id":25712,"categories":["bodily functions"]},{"x":false,"name":"angry cat","short":"angry cat","id":22446,"categories":["Animal"]},{"x":false,"name":"cash register ding","short":"cash register ding","id":22445,"categories":["electronic/machine"]},{"x":false,"name":"cartoon wind storm","short":"cartoon wind storm","id":22436,"categories":["cartoon","weather"]},{"x":false,"name":"cartoon magic and explosion","short":"cartoon magic and explosion","id":22437,"categories":["cartoon"]},{"x":false,"name":"cartoon wooden boing","short":"cartoon wooden boing","id":22438,"categories":["cartoon"]},{"x":false,"name":"slide whistle down","short":"slide whistle down","id":22439,"categories":["cartoon"]},{"x":false,"name":"cartoon wooden twang","short":"cartoon wooden twang","id":22440,"categories":["cartoon"]},{"x":false,"name":"cartoon woodpecker","short":"cartoon woodpecker","id":22441,"categories":["Animal","cartoon"]},{"x":false,"name":"cartoon high-pitched gibberish","short":"cartoon high-pitched gibberish","id":22442,"categories":["cartoon","voice"]},{"x":false,"name":"cartoon swipe","short":"cartoon swipe","id":22443,"categories":["cartoon"]},{"x":false,"name":"cartoon doink","short":"cartoon doink","id":22373,"categories":["cartoon"]},{"x":false,"name":"dreaming harp","short":"dreaming harp","id":22375,"categories":["Music","cartoon"]},{"x":false,"name":"dream bells","short":"dream bells","id":22377,"categories":["Music","cartoon"]},{"x":false,"name":"ducks quacking","short":"ducks quacking","id":22537,"categories":["Animal"]},{"x":false,"name":"drumroll with cymbal hit","short":"drumroll with cymbal hit","id":22531,"categories":["Music"]},{"x":false,"name":"retro computer blips","short":"retro computer blips","id":22529,"categories":["sci-fi"]},{"x":false,"name":"cowbell clanging fast","short":"cowbell clanging fast","id":22469,"categories":["Animal"]},{"x":false,"name":"cartoon gulping liquid","short":"cartoon gulping liquid","id":22378,"categories":["cartoon","liquid"]},{"x":false,"name":"royal brass fanfare","short":"royal brass fanfare","id":22564,"categories":["Music"]},{"x":false,"name":"squeaky door opening","short":"squeaky door opening","id":22525,"categories":["household"]},{"x":false,"name":"pounding on door","short":"pounding on door","id":22523,"categories":["household"]},{"x":false,"name":"song bird chirps","short":"song bird chirps","id":22412,"categories":["Animal","cartoon"]},{"x":false,"name":"cartoon space car fly by","short":"cartoon space car fly by","id":22413,"categories":["cartoon","vehicle"]},{"x":false,"name":"messy, wet splat","short":"messy, wet splat","id":22414,"categories":["cartoon","liquid"]},{"x":false,"name":"cartoon squawk","short":"cartoon squawk","id":22415,"categories":["Animal","cartoon"]},{"x":false,"name":"cartoon squeaky rubbing","short":"cartoon squeaky rubbing","id":22416,"categories":["cartoon"]},{"x":false,"name":"rubber stretching and snap","short":"rubber stretching and snap","id":22417,"categories":["cartoon"]},{"x":false,"name":"cartoon “thunk”","short":"cartoon “thunk”","id":22418,"categories":["cartoon"]},{"x":false,"name":"cartoon throw","short":"cartoon throw","id":22419,"categories":["cartoon"]},{"x":false,"name":"cartoon fall down a well","short":"cartoon fall down a well","id":22380,"categories":["cartoon"]},{"x":false,"name":"cartoon gibberish voice","short":"cartoon gibberish voice","id":22382,"categories":["cartoon","voice"]},{"x":false,"name":"cartoon raspberry","short":"cartoon raspberry","id":22399,"categories":["bodily functions","cartoon"]},{"x":false,"name":"open creaky door","short":"open creaky door","id":22398,"categories":["cartoon"]},{"x":false,"name":"monster growl","short":"monster growl","id":22397,"categories":["Animal","cartoon"]},{"x":false,"name":"metal hit with twang","short":"metal hit with twang","id":22396,"categories":["cartoon"]},{"x":false,"name":"cartoon magical flourish","short":"cartoon magical flourish","id":22395,"categories":["cartoon"]},{"x":false,"name":"telephone ring through phone","short":"telephone ring through phone","id":22941,"categories":["household"]},{"x":false,"name":"slip and fall into water","short":"slip and fall into water","id":22409,"categories":["cartoon","liquid"]},{"x":false,"name":"sneeze (cartoon male)","short":"sneeze (cartoon)","id":22410,"categories":["bodily functions"]},{"x":false,"name":"person loudly snoring","short":"person loudly snoring","id":22411,"categories":["cartoon","voice"]},{"x":false,"name":"cartoon magic “Appear!”","short":"cartoon magic “Appear!”","id":22394,"categories":["cartoon"]},{"x":false,"name":"cartoon magical burst","short":"cartoon magical burst","id":22393,"categories":["cartoon"]},{"x":false,"name":"cartoon flip upside down","short":"cartoon flip upside down","id":22383,"categories":["cartoon"]},{"x":false,"name":"heart monitor","short":"heart monitor","id":22645,"categories":["electronic/machine"]},{"x":false,"name":"cartoon guitar slide","short":"cartoon guitar slide","id":22384,"categories":["Music","cartoon"]},{"x":false,"name":"grappling gun","short":"grappling gun","id":22623,"categories":["violence"]},{"x":false,"name":"cartoon hiccups","short":"cartoon hiccups","id":22385,"categories":["cartoon"]},{"x":false,"name":"grizzly bear roar","short":"grizzly bear roar","id":25716,"categories":["Animal"]},{"x":false,"name":"turntable “scratchin’”","short":"turntable “scratchin’”","id":25717,"categories":["Music"]},{"x":false,"name":"cartoon hop","short":"cartoon hop","id":22386,"categories":["cartoon"]},{"x":false,"name":"cartoon kiss","short":"cartoon kiss","id":22387,"categories":["cartoon","human"]},{"x":false,"name":"large stone scrape","short":"large stone scrape","id":22927,"categories":["tools"]},{"x":false,"name":"shaking can with marble in it","short":"shaking can with marble in it","id":22874,"categories":["cartoon"]},{"x":false,"name":"long cartoon kiss","short":"long cartoon kiss","id":22388,"categories":["cartoon","human"]},{"x":false,"name":"cartoon evil laugh","short":"cartoon evil laugh","id":22389,"categories":["cartoon","voice"]},{"x":false,"name":"heavy panting","short":"heavy panting","id":22681,"categories":["voice"]},{"x":false,"name":"cartoon insane laughter","short":"cartoon insane laughter","id":22390,"categories":["cartoon","voice"]},{"x":false,"name":"smattering of applause","short":"smattering of applause","id":22252,"categories":["crowd"]},{"x":false,"name":"audience laugh/clap","short":"audience laugh/clap","id":22255,"categories":["crowd"]},{"x":false,"name":"audience booing","short":"audience booing","id":22257,"categories":["crowd"]},{"x":false,"name":"cartoon anvil hit","short":"cartoon anvil hit","id":22359,"categories":["cartoon"]},{"x":false,"name":"cartoon boing","short":"cartoon boing","id":22360,"categories":["cartoon"]},{"x":false,"name":"cartoon twang","short":"cartoon twang","id":22361,"categories":["cartoon"]},{"x":false,"name":"cartoon boing/wobble","short":"cartoon boing/wobble","id":22364,"categories":["cartoon"]},{"x":false,"name":"cartoon heavy bonk","short":"cartoon heavy bonk","id":22365,"categories":["cartoon"]},{"x":false,"name":"angry voice on phone","short":"angry voice on phone","id":22366,"categories":["cartoon","voice"]},{"x":false,"name":"cartoon bouncing","short":"cartoon bouncing","id":22367,"categories":["cartoon"]},{"x":false,"name":"cartoon knife throw with twang","short":"cartoon knife throw with twang","id":22422,"categories":["cartoon"]},{"x":false,"name":"horse race bugle","short":"horse race bugle","id":22336,"categories":["Music"]},{"x":false,"name":"cartoon raspberry long","short":"cartoon raspberry long","id":22401,"categories":["bodily functions","cartoon"]},{"x":false,"name":"cartoon bow and arrow","short":"cartoon bow and arrow","id":22368,"categories":["cartoon"]},{"x":false,"name":"cartoon chattering teeth","short":"cartoon chattering teeth","id":22369,"categories":["cartoon"]},{"x":false,"name":"cartoon chomp","short":"cartoon chomp","id":22370,"categories":["cartoon"]},{"x":false,"name":"cartoon crazy laughter","short":"cartoon crazy laughter","id":22391,"categories":["cartoon","voice"]},{"x":false,"name":"many little dogs barking","short":"many little dogs barking","id":22514,"categories":["Animal"]},{"x":false,"name":"retro cartoon computer","short":"retro cartoon computer","id":22371,"categories":["cartoon","electronic/machine"]},{"x":false,"name":"crickets chirping","short":"crickets chirping","id":22480,"categories":["Animal"]},{"x":false,"name":"retro crazy computer","short":"retro crazy computer","id":22372,"categories":["cartoon","electronic/machine"]},{"x":true,"name":"bullet ricochet","short":"bullet ricochet","id":22339,"categories":["violence"]},{"x":false,"name":"traffic jam horn honking","short":"traffic jam horn honking","id":22258,"categories":["vehicle"]},{"x":false,"name":"car skidding","short":"car skidding","id":22262,"categories":["vehicle"]},{"x":false,"name":"“wake up” bugle","short":"“wake up” bugle","id":22338,"categories":["Music"]},{"x":false,"name":"boxing speed bag punches","short":"boxing speed bag punches","id":22325,"categories":["sports"]},{"x":false,"name":"bugle “Charge!”","short":"bugle “Charge!”","id":22333,"categories":["Music"]},{"x":false,"name":"car speeding by","short":"car speeding by","id":22263,"categories":["vehicle"]},{"x":false,"name":"toilet bowl fart (double pincher)","short":"toilet bowl fart (double pincher)","id":25706,"categories":["bodily functions"]},{"x":false,"name":"bubbling goop","short":"bubbling goop","id":22332,"categories":["liquid"]},{"x":false,"name":"brushing teeth and spit","short":"brushing teeth and spit","id":22331,"categories":["bodily functions"]},{"x":false,"name":"“You’re not listening to me!” (female)","short":"“You’re not listening to me!”","id":25701,"categories":["voice"]},{"x":false,"name":"falcon call","short":"falcon call","id":22312,"categories":["Animal"]},{"x":false,"name":"“Hello? Is anybody there?” (female)","short":"“Hello? Is anybody there?”","id":25710,"categories":["voice"]},{"x":false,"name":"“What are you waiting for?!” (male)","short":"“What are you waiting for?!”","id":25711,"categories":["voice"]},{"x":false,"name":"“Here kitty, kitty.” (male)","short":"“Here kitty, kitty.”","id":25702,"categories":["voice"]},{"x":false,"name":"scary ghost","short":"scary ghost","id":25714,"categories":["voice"]},{"x":false,"name":"small pottery breaking","short":"small pottery breaking","id":22328,"categories":["violence"]},{"x":false,"name":"cartoon-y fall into bucket","short":"cartoon-y fall into bucket","id":25715,"categories":["cartoon"]},{"x":false,"name":"bowling pins strike","short":"bowling pins strike","id":22324,"categories":["sports"]},{"x":false,"name":"car that won’t start","short":"car that won’t start","id":22266,"categories":["vehicle"]},{"x":false,"name":"sickly off-key bagpipes","short":"sickly off-key bagpipes","id":22271,"categories":["Music"]},{"x":false,"name":"racecar passing by","short":"racecar passing by","id":22351,"categories":["sports","vehicle"]},{"x":false,"name":"cartoon metal head bonk","short":"cartoon metal head bonk","id":22321,"categories":["cartoon"]},{"x":false,"name":"car speed, skid, and crash","short":"car speed, skid, and crash","id":22350,"categories":["vehicle"]},{"x":false,"name":"game show buzzer “wrong”","short":"game show buzzer “wrong”","id":22345,"categories":["alarm"]},{"x":false,"name":"hawk scream","short":"hawk scream","id":22306,"categories":["Animal"]},{"x":false,"name":"bicycle bell","short":"bicycle bell","id":22287,"categories":["alarm","household"]},{"x":false,"name":"crying baby","short":"crying baby","id":22267,"categories":["voice"]},{"x":false,"name":"door buzzer","short":"door buzzer","id":22343,"categories":["alarm"]},{"x":false,"name":"whistling bomb drop explosion","short":"whistling bomb drop explosion","id":22317,"categories":["explosion","violence"]},{"x":false,"name":"bird call","short":"bird call","id":22307,"categories":["Animal"]},{"x":false,"name":"boing (cartoon)","short":"boing (cartoon)","id":22316,"categories":["cartoon"]},{"x":false,"name":"boingy bounces","short":"boingy bounces","id":22315,"categories":["cartoon"]},{"x":false,"name":"canary chirps","short":"canary chirps","id":22304,"categories":["Animal","cartoon"]},{"x":false,"name":"slow motion bionic jump","short":"slow motion bionic jump","id":22302,"categories":["cartoon"]},{"x":false,"name":"balloon stretch/pop","short":"balloon stretch/pop","id":22272,"categories":["cartoon"]},{"x":false,"name":"blades scraping together","short":"blades scraping together","id":22313,"categories":["violence"]},{"x":false,"name":"short belch","short":"short belch","id":22286,"categories":["bodily functions"]},{"x":false,"name":"balloon deflate","short":"balloon deflate","id":22276,"categories":["cartoon"]},{"x":false,"name":"glockenspiel gliss up","short":"glockenspiel gliss up","id":22298,"categories":["Music"]},{"x":false,"name":"long wet belch","short":"long wet belch","id":22285,"categories":["bodily functions"]},{"x":false,"name":"banjo song ending","short":"banjo song ending","id":22280,"categories":["Music"]},{"x":false,"name":"squeaky bed","short":"squeaky bed","id":22283,"categories":["household","sexual"]}]}
+{
+   "episodeid": 1234,
+   "content": [
+      {
+         "x": false,
+         "name": "desodorante / spray de tinta spray",
+         "short": "desodorante / spray de tinta spray",
+         "id": 22199,
+         "categories": [
+            "doméstico"
+         ]
+      },
+      {
+         "x": false,
+         "name": "liberação de ar comprimido",
+         "short": "liberação de ar comprimido",
+         "id": 22222,
+         "categories": [
+            "Ferramentas"
+         ]
+      },
+      {
+         "x": false,
+         "name": "zumbindo campainha de alarme",
+         "short": "zumbindo campainha de alarme",
+         "id": 22241,
+         "categories": [
+            "alarme",
+            "veículo"
+         ]
+      },
+      {
+         "x": false,
+         "name": "carro / alarme anti-roubo",
+         "short": "carro / alarme anti-roubo",
+         "id": 22242,
+         "categories": [
+            "alarme"
+         ]
+      },
+      {
+         "x": false,
+         "name": "anel despertador analógico",
+         "short": "anel despertador analógico",
+         "id": 22248,
+         "categories": [
+            "doméstico"
+         ]
+      },
+      {
+         "x": false,
+         "name": "conversa de golfinhos",
+         "short": "conversa de golfinhos",
+         "id": 22250,
+         "categories": [
+            "Animal"
+         ]
+      },
+      {
+         "x": false,
+         "name": "tecido rasgado",
+         "short": "tecido rasgado",
+         "id": 22851,
+         "categories": [
+            "desenho animado"
+         ]
+      },
+      {
+         "x": false,
+         "name": "deslize apito para baixo",
+         "short": "deslize apito para baixo",
+         "id": 23004,
+         "categories": [
+            "desenho animado"
+         ]
+      },
+      {
+         "x": false,
+         "name": "cachorro lambendo comida",
+         "short": "cachorro lambendo comida",
+         "id": 25719,
+         "categories": [
+            "Animal"
+         ]
+      },
+      {
+         "x": false,
+         "name": "acordeão alegre",
+         "short": "acordeão alegre",
+         "id": 22197,
+         "categories": [
+            "Música"
+         ]
+      },
+      {
+         "x": false,
+         "name": "saco de papel aberto",
+         "short": "saco de papel aberto",
+         "id": 23507,
+         "categories": [
+            "doméstico"
+         ]
+      },
+      {
+         "x": false,
+         "name": "grito apavorado (masculino)",
+         "short": "grito apavorado",
+         "id": 25720,
+         "categories": [
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "arroto desagradável",
+         "short": "arroto desagradável",
+         "id": 25708,
+         "categories": [
+            "funções corporais"
+         ]
+      },
+      {
+         "x": false,
+         "name": "grande bola de borracha quicando",
+         "short": "grande bola de borracha quicando",
+         "id": 25718,
+         "categories": [
+            "Esportes"
+         ]
+      },
+      {
+         "x": false,
+         "name": "melodia kazoo maluca",
+         "short": "melodia kazoo maluca",
+         "id": 25670,
+         "categories": [
+            "Música"
+         ]
+      },
+      {
+         "x": false,
+         "name": "peido (lento e constante)",
+         "short": "peido (lento e constante)",
+         "id": 25743,
+         "categories": [
+            "funções corporais"
+         ]
+      },
+      {
+         "x": false,
+         "name": "mergulhando o êmbolo do banheiro",
+         "short": "mergulhando o êmbolo do banheiro",
+         "id": 25721,
+         "categories": [
+            "líquido"
+         ]
+      },
+      {
+         "x": false,
+         "name": "Barbeador elétrico",
+         "short": "Barbeador elétrico",
+         "id": 23508,
+         "categories": [
+            "doméstico"
+         ]
+      },
+      {
+         "x": false,
+         "name": "problemas de banheiro",
+         "short": "problemas de banheiro",
+         "id": 25744,
+         "categories": [
+            "funções corporais"
+         ]
+      },
+      {
+         "x": false,
+         "name": "estranho cabra baa",
+         "short": "estranho cabra baa",
+         "id": 23863,
+         "categories": [
+            "Animal"
+         ]
+      },
+      {
+         "x": false,
+         "name": "“Tada!” (macho)",
+         "short": "“Tada!”",
+         "id": 24026,
+         "categories": [
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "“Isso é delicioso” (masculino)",
+         "short": "“Isso é delicioso”",
+         "id": 24027,
+         "categories": [
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "“Quem quer cachorro-quente” (masculino)",
+         "short": "“Quem quer cachorro-quente”",
+         "id": 24028,
+         "categories": [
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "“Uau” (masculino)",
+         "short": "\"Uau\"",
+         "id": 24029,
+         "categories": [
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "“Você está despedido” (masculino)",
+         "short": "\"você está demitido\"",
+         "id": 24030,
+         "categories": [
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "rugido de leão",
+         "short": "rugido de leão",
+         "id": 23506,
+         "categories": [
+            "Animal"
+         ]
+      },
+      {
+         "x": false,
+         "name": "iniciar / parar cortador de grama",
+         "short": "iniciar / parar cortador de grama",
+         "id": 23505,
+         "categories": [
+            "eletrônico / máquina"
+         ]
+      },
+      {
+         "x": false,
+         "name": "zumbido de inseto",
+         "short": "zumbido de inseto",
+         "id": 23504,
+         "categories": [
+            "Animal"
+         ]
+      },
+      {
+         "x": false,
+         "name": "grito subaquático",
+         "short": "grito subaquático",
+         "id": 23503,
+         "categories": [
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "“Trazê-lo” (masculino)",
+         "short": "\"pode vir\"",
+         "id": 23502,
+         "categories": [
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "limpando a garganta (masculino)",
+         "short": "limpando a garganta",
+         "id": 25690,
+         "categories": [
+            "humano"
+         ]
+      },
+      {
+         "x": false,
+         "name": "Sinos de igreja",
+         "short": "Sinos de igreja",
+         "id": 25689,
+         "categories": [
+            "alarme"
+         ]
+      },
+      {
+         "x": false,
+         "name": "“Awww” (masculino)",
+         "short": "“Awww”",
+         "id": 23501,
+         "categories": [
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "multidão gritando",
+         "short": "multidão gritando",
+         "id": 25692,
+         "categories": [
+            "multidão"
+         ]
+      },
+      {
+         "x": false,
+         "name": "“100” (masculino)",
+         "short": "“100”",
+         "id": 23500,
+         "categories": [
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "Crianças dizendo \"awww?\"",
+         "short": "Crianças dizendo \"awww?\"",
+         "id": 25688,
+         "categories": [
+            "multidão"
+         ]
+      },
+      {
+         "x": false,
+         "name": "soprando forte",
+         "short": "soprando forte",
+         "id": 25687,
+         "categories": [
+            "Música"
+         ]
+      },
+      {
+         "x": false,
+         "name": "brinquedo de guincho",
+         "short": "brinquedo de guincho",
+         "id": 25694,
+         "categories": [
+            "doméstico"
+         ]
+      },
+      {
+         "x": false,
+         "name": "“2020” (feminino)",
+         "short": "“2020”",
+         "id": 23498,
+         "categories": [
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "grito de batalha (masculino)",
+         "short": "grito de guerra",
+         "id": 25693,
+         "categories": [
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "tocar piano mal",
+         "short": "tocar piano mal",
+         "id": 25686,
+         "categories": [
+            "Música"
+         ]
+      },
+      {
+         "x": false,
+         "name": "helicóptero",
+         "short": "helicóptero",
+         "id": 23496,
+         "categories": [
+            "veículo"
+         ]
+      },
+      {
+         "x": false,
+         "name": "serra de mão",
+         "short": "serra de mão",
+         "id": 23493,
+         "categories": [
+            "doméstico"
+         ]
+      },
+      {
+         "x": false,
+         "name": "riff de final de guitarra",
+         "short": "riff de final de guitarra",
+         "id": 23492,
+         "categories": [
+            "Música"
+         ]
+      },
+      {
+         "x": false,
+         "name": "rimshot",
+         "short": "rimshot",
+         "id": 23491,
+         "categories": [
+            "Música"
+         ]
+      },
+      {
+         "x": false,
+         "name": "digitação no teclado do computador",
+         "short": "digitação no teclado do computador",
+         "id": 23489,
+         "categories": [
+            "doméstico"
+         ]
+      },
+      {
+         "x": false,
+         "name": "despertador digital",
+         "short": "despertador digital",
+         "id": 22247,
+         "categories": [
+            "doméstico"
+         ]
+      },
+      {
+         "x": false,
+         "name": "quicando basquete",
+         "short": "quicando basquete",
+         "id": 23487,
+         "categories": [
+            "Esportes"
+         ]
+      },
+      {
+         "x": false,
+         "name": "apito policial",
+         "short": "apito policial",
+         "id": 23003,
+         "categories": [
+            "alarme"
+         ]
+      },
+      {
+         "x": false,
+         "name": "apito excêntrico com marimba / buzina",
+         "short": "apito excêntrico com marimba / buzina",
+         "id": 23000,
+         "categories": [
+            "Música",
+            "desenho animado"
+         ]
+      },
+      {
+         "x": false,
+         "name": "alarme de carro desligado",
+         "short": "alarme de carro desligado",
+         "id": 22243,
+         "categories": [
+            "alarme",
+            "veículo"
+         ]
+      },
+      {
+         "x": false,
+         "name": "assobiar “Ei você!”",
+         "short": "assobiar “Ei você!”",
+         "id": 22999,
+         "categories": [
+            "desenho animado"
+         ]
+      },
+      {
+         "x": false,
+         "name": "lobo uivando",
+         "short": "lobo uivando",
+         "id": 23023,
+         "categories": [
+            "Animal"
+         ]
+      },
+      {
+         "x": false,
+         "name": "Apito de lobo",
+         "short": "Apito de lobo",
+         "id": 23025,
+         "categories": [
+            "desenho animado"
+         ]
+      },
+      {
+         "x": false,
+         "name": "trituração de madeira / quebra óssea",
+         "short": "trituração de madeira / quebra óssea",
+         "id": 23026,
+         "categories": [
+            "violência"
+         ]
+      },
+      {
+         "x": false,
+         "name": "porta de madeira sendo chutada",
+         "short": "porta de madeira sendo chutada",
+         "id": 23028,
+         "categories": [
+            "violência"
+         ]
+      },
+      {
+         "x": false,
+         "name": "serrar madeira com serrote",
+         "short": "serrar madeira com serrote",
+         "id": 23029,
+         "categories": [
+            "Ferramentas"
+         ]
+      },
+      {
+         "x": false,
+         "name": "xilofone brilhando",
+         "short": "xilofone brilhando",
+         "id": 23031,
+         "categories": [
+            "Música",
+            "desenho animado"
+         ]
+      },
+      {
+         "x": false,
+         "name": "xilofone brilhando",
+         "short": "xilofone brilhando",
+         "id": 23032,
+         "categories": [
+            "Música",
+            "desenho animado"
+         ]
+      },
+      {
+         "x": false,
+         "name": "zíper zíper para cima",
+         "short": "zíper zíper para cima",
+         "id": 23034,
+         "categories": [
+            "doméstico"
+         ]
+      },
+      {
+         "x": false,
+         "name": "zíper pequeno fechando",
+         "short": "zíper pequeno fechando",
+         "id": 23035,
+         "categories": [
+            "doméstico"
+         ]
+      },
+      {
+         "x": false,
+         "name": "cartoon spring boing",
+         "short": "cartoon spring boing",
+         "id": 23046,
+         "categories": [
+            "desenho animado"
+         ]
+      },
+      {
+         "x": false,
+         "name": "quebra de vidro",
+         "short": "quebra de vidro",
+         "id": 23084,
+         "categories": [
+            "violência"
+         ]
+      },
+      {
+         "x": false,
+         "name": "chifre de brinquedo",
+         "short": "chifre de brinquedo",
+         "id": 23115,
+         "categories": [
+            "desenho animado"
+         ]
+      },
+      {
+         "x": false,
+         "name": "deslize apito para baixo louco",
+         "short": "deslize apito para baixo louco",
+         "id": 23006,
+         "categories": [
+            "desenho animado"
+         ]
+      },
+      {
+         "x": false,
+         "name": "deslize o apito para cima / para baixo",
+         "short": "deslize o apito para cima / para baixo",
+         "id": 23007,
+         "categories": [
+            "desenho animado"
+         ]
+      },
+      {
+         "x": false,
+         "name": "deslize apito para cima vacilante",
+         "short": "deslize apito para cima vacilante",
+         "id": 23008,
+         "categories": [
+            "desenho animado"
+         ]
+      },
+      {
+         "x": false,
+         "name": "apito de vapor",
+         "short": "apito de vapor",
+         "id": 23010,
+         "categories": [
+            "veículo"
+         ]
+      },
+      {
+         "x": false,
+         "name": "apito de rebocador",
+         "short": "apito de rebocador",
+         "id": 23013,
+         "categories": [
+            "veículo"
+         ]
+      },
+      {
+         "x": false,
+         "name": "apito sexy",
+         "short": "apito sexy",
+         "id": 23014,
+         "categories": [
+            "desenho animado"
+         ]
+      },
+      {
+         "x": false,
+         "name": "assobiando para cachorro",
+         "short": "assobiando para cachorro",
+         "id": 23015,
+         "categories": [
+            "desenho animado"
+         ]
+      },
+      {
+         "x": false,
+         "name": "assobio",
+         "short": "assobio",
+         "id": 23016,
+         "categories": [
+            "desenho animado"
+         ]
+      },
+      {
+         "x": false,
+         "name": "espanta espíritos",
+         "short": "espanta espíritos",
+         "id": 23018,
+         "categories": [
+            "Música"
+         ]
+      },
+      {
+         "x": false,
+         "name": "vento assustador",
+         "short": "vento assustador",
+         "id": 23021,
+         "categories": [
+            "clima"
+         ]
+      },
+      {
+         "x": false,
+         "name": "assobiar “Aqui!”",
+         "short": "assobiar “Aqui!”",
+         "id": 22997,
+         "categories": [
+            "desenho animado"
+         ]
+      },
+      {
+         "x": false,
+         "name": "assobiar “cuco”",
+         "short": "assobiar “cuco”",
+         "id": 22996,
+         "categories": [
+            "desenho animado"
+         ]
+      },
+      {
+         "x": false,
+         "name": "apito de barco",
+         "short": "apito de barco",
+         "id": 22995,
+         "categories": [
+            "alarme",
+            "veículo"
+         ]
+      },
+      {
+         "x": false,
+         "name": "estalo de chicote",
+         "short": "estalo de chicote",
+         "id": 22992,
+         "categories": [
+            "violência"
+         ]
+      },
+      {
+         "x": false,
+         "name": "abano de bochecha molhada",
+         "short": "abano de bochecha molhada",
+         "id": 22990,
+         "categories": [
+            "funções corporais"
+         ]
+      },
+      {
+         "x": false,
+         "name": "rasgo de pano",
+         "short": "rasgo de pano",
+         "id": 22850,
+         "categories": [
+            "desenho animado"
+         ]
+      },
+      {
+         "x": false,
+         "name": "sucção a vácuo",
+         "short": "sucção a vácuo",
+         "id": 22963,
+         "categories": [
+            "eletrônico / máquina"
+         ]
+      },
+      {
+         "x": false,
+         "name": "rasgo de velcro",
+         "short": "rasgo de velcro",
+         "id": 22964,
+         "categories": [
+            "doméstico"
+         ]
+      },
+      {
+         "x": true,
+         "name": "vibrador “massageador”",
+         "short": "vibrador “massageador”",
+         "id": 22965,
+         "categories": [
+            "sexual"
+         ]
+      },
+      {
+         "x": false,
+         "name": "música de videogame",
+         "short": "música de videogame",
+         "id": 22967,
+         "categories": [
+            "Música"
+         ]
+      },
+      {
+         "x": false,
+         "name": "corda de violino arrancada",
+         "short": "corda de violino arrancada",
+         "id": 22968,
+         "categories": [
+            "Música"
+         ]
+      },
+      {
+         "x": false,
+         "name": "“Ai” (masculino)",
+         "short": "“Ai”",
+         "id": 22969,
+         "categories": [
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "bomba manual de bicicleta",
+         "short": "bomba manual de bicicleta",
+         "id": 22301,
+         "categories": [
+            "doméstico"
+         ]
+      },
+      {
+         "x": false,
+         "name": "walkie talkie talk",
+         "short": "walkie talkie talk",
+         "id": 22970,
+         "categories": [
+            "eletrônico / máquina"
+         ]
+      },
+      {
+         "x": false,
+         "name": "Sinos de trenó",
+         "short": "Sinos de trenó",
+         "id": 22296,
+         "categories": [
+            "Música"
+         ]
+      },
+      {
+         "x": false,
+         "name": "andando com pés de ventosa",
+         "short": "andando com pés de ventosa",
+         "id": 22972,
+         "categories": [
+            "desenho animado"
+         ]
+      },
+      {
+         "x": false,
+         "name": "sino de boxe ding",
+         "short": "sino de boxe ding",
+         "id": 22290,
+         "categories": [
+            "alarme",
+            "Esportes"
+         ]
+      },
+      {
+         "x": false,
+         "name": "gotejamento de água no esgoto",
+         "short": "gotejamento de água no esgoto",
+         "id": 22978,
+         "categories": [
+            "líquido"
+         ]
+      },
+      {
+         "x": false,
+         "name": "alumínio pode amassar",
+         "short": "alumínio pode amassar",
+         "id": 22284,
+         "categories": [
+            "doméstico"
+         ]
+      },
+      {
+         "x": false,
+         "name": "fonte de gotejamento de água",
+         "short": "fonte de gotejamento de água",
+         "id": 22982,
+         "categories": [
+            "líquido"
+         ]
+      },
+      {
+         "x": false,
+         "name": "sino de recesso",
+         "short": "sino de recesso",
+         "id": 22295,
+         "categories": [
+            "alarme"
+         ]
+      },
+      {
+         "x": false,
+         "name": "ambiente subaquático",
+         "short": "ambiente subaquático",
+         "id": 22984,
+         "categories": [
+            "líquido"
+         ]
+      },
+      {
+         "x": false,
+         "name": "ondas contra a costa",
+         "short": "ondas contra a costa",
+         "id": 22985,
+         "categories": [
+            "líquido"
+         ]
+      },
+      {
+         "x": false,
+         "name": "whacker de erva daninha",
+         "short": "whacker de erva daninha",
+         "id": 22988,
+         "categories": [
+            "Ferramentas"
+         ]
+      },
+      {
+         "x": false,
+         "name": "água borbulhando pelo ralo",
+         "short": "água borbulhando pelo ralo",
+         "id": 22974,
+         "categories": [
+            "líquido"
+         ]
+      },
+      {
+         "x": false,
+         "name": "sonar buzina",
+         "short": "sonar buzina",
+         "id": 22896,
+         "categories": [
+            "eletrônico / máquina"
+         ]
+      },
+      {
+         "x": false,
+         "name": "cuspir em uma espinha",
+         "short": "cuspir em uma espinha",
+         "id": 22897,
+         "categories": [
+            "funções corporais"
+         ]
+      },
+      {
+         "x": false,
+         "name": "objeto girando",
+         "short": "objeto girando",
+         "id": 22956,
+         "categories": [
+            "desenho animado"
+         ]
+      },
+      {
+         "x": false,
+         "name": "peru engolir",
+         "short": "peru engolir",
+         "id": 22955,
+         "categories": [
+            "Animal"
+         ]
+      },
+      {
+         "x": false,
+         "name": "as trombetas reais",
+         "short": "as trombetas reais",
+         "id": 22954,
+         "categories": [
+            "Música"
+         ]
+      },
+      {
+         "x": false,
+         "name": "trombeta triste",
+         "short": "trombeta triste",
+         "id": 22953,
+         "categories": [
+            "Música"
+         ]
+      },
+      {
+         "x": false,
+         "name": "partida de ignição do caminhão",
+         "short": "partida de ignição do caminhão",
+         "id": 22952,
+         "categories": [
+            "veículo"
+         ]
+      },
+      {
+         "x": false,
+         "name": "sino de travessia de trem",
+         "short": "sino de travessia de trem",
+         "id": 22945,
+         "categories": [
+            "veículo"
+         ]
+      },
+      {
+         "x": false,
+         "name": "digitação em máquina de escrever",
+         "short": "digitação em máquina de escrever",
+         "id": 22957,
+         "categories": [
+            "doméstico"
+         ]
+      },
+      {
+         "x": false,
+         "name": "máquina de escrever manual",
+         "short": "máquina de escrever manual",
+         "id": 22958,
+         "categories": [
+            "doméstico"
+         ]
+      },
+      {
+         "x": false,
+         "name": "digitação manual lenta",
+         "short": "digitação manual lenta",
+         "id": 22959,
+         "categories": [
+            "doméstico"
+         ]
+      },
+      {
+         "x": false,
+         "name": "condor crocitar risada",
+         "short": "condor crocitar risada",
+         "id": 22311,
+         "categories": [
+            "Animal"
+         ]
+      },
+      {
+         "x": false,
+         "name": "bolhas subaquáticas",
+         "short": "bolhas subaquáticas",
+         "id": 22960,
+         "categories": [
+            "líquido"
+         ]
+      },
+      {
+         "x": false,
+         "name": "grande quebra de cerâmica",
+         "short": "grande quebra de cerâmica",
+         "id": 22329,
+         "categories": [
+            "violência"
+         ]
+      },
+      {
+         "x": false,
+         "name": "vácuo iniciar / parar",
+         "short": "vácuo iniciar / parar",
+         "id": 22961,
+         "categories": [
+            "eletrônico / máquina"
+         ]
+      },
+      {
+         "x": false,
+         "name": "Serra de mesa",
+         "short": "Serra de mesa",
+         "id": 22944,
+         "categories": [
+            "Ferramentas"
+         ]
+      },
+      {
+         "x": false,
+         "name": "martelando um prego",
+         "short": "martelando um prego",
+         "id": 22943,
+         "categories": [
+            "Ferramentas"
+         ]
+      },
+      {
+         "x": false,
+         "name": "descarga",
+         "short": "descarga",
+         "id": 22942,
+         "categories": [
+            "líquido"
+         ]
+      },
+      {
+         "x": false,
+         "name": "cuspindo três vezes",
+         "short": "cuspindo três vezes",
+         "id": 22898,
+         "categories": [
+            "funções corporais"
+         ]
+      },
+      {
+         "x": false,
+         "name": "caminhão dando ré",
+         "short": "caminhão dando ré",
+         "id": 22949,
+         "categories": [
+            "veículo"
+         ]
+      },
+      {
+         "x": false,
+         "name": "grande chifre de plataforma",
+         "short": "grande buzina",
+         "id": 22950,
+         "categories": [
+            "veículo"
+         ]
+      },
+      {
+         "x": false,
+         "name": "cuspir pegue",
+         "short": "cuspir pegue",
+         "id": 22899,
+         "categories": [
+            "funções corporais"
+         ]
+      },
+      {
+         "x": false,
+         "name": "parar o tique-taque do relógio",
+         "short": "parar o tique-taque do relógio",
+         "id": 22929,
+         "categories": [
+            "doméstico"
+         ]
+      },
+      {
+         "x": false,
+         "name": "sugando algo",
+         "short": "sugando algo",
+         "id": 22930,
+         "categories": [
+            "humano"
+         ]
+      },
+      {
+         "x": false,
+         "name": "natação",
+         "short": "natação",
+         "id": 22931,
+         "categories": [
+            "líquido"
+         ]
+      },
+      {
+         "x": false,
+         "name": "tinidos de luta de espadas",
+         "short": "tinidos de luta de espadas",
+         "id": 22932,
+         "categories": [
+            "violência"
+         ]
+      },
+      {
+         "x": false,
+         "name": "sintetizador blat",
+         "short": "sintetizador blat",
+         "id": 22933,
+         "categories": [
+            "Música"
+         ]
+      },
+      {
+         "x": false,
+         "name": "rebobinar fita de áudio",
+         "short": "rebobinar fita de áudio",
+         "id": 22934,
+         "categories": [
+            "eletrônico / máquina"
+         ]
+      },
+      {
+         "x": false,
+         "name": "telégrafo",
+         "short": "telégrafo",
+         "id": 22935,
+         "categories": [
+            "eletrônico / máquina"
+         ]
+      },
+      {
+         "x": false,
+         "name": "toque de telefone antigo",
+         "short": "toque de telefone antigo",
+         "id": 22936,
+         "categories": [
+            "doméstico"
+         ]
+      },
+      {
+         "x": false,
+         "name": "respingo de rocha na água",
+         "short": "respingo de rocha na água",
+         "id": 22919,
+         "categories": [
+            "líquido"
+         ]
+      },
+      {
+         "x": false,
+         "name": "respingo molhado",
+         "short": "respingo molhado",
+         "id": 22920,
+         "categories": [
+            "líquido"
+         ]
+      },
+      {
+         "x": false,
+         "name": "rebatida de futebol com grunhido",
+         "short": "rebatida de futebol com grunhido",
+         "id": 22921,
+         "categories": [
+            "Esportes"
+         ]
+      },
+      {
+         "x": false,
+         "name": "apito do árbitro",
+         "short": "apito do árbitro",
+         "id": 22922,
+         "categories": [
+            "Esportes"
+         ]
+      },
+      {
+         "x": false,
+         "name": "pistola de pintura",
+         "short": "pistola de pintura",
+         "id": 22924,
+         "categories": [
+            "líquido"
+         ]
+      },
+      {
+         "x": false,
+         "name": "dobradiça estridente",
+         "short": "dobradiça estridente",
+         "id": 22925,
+         "categories": [
+            "doméstico"
+         ]
+      },
+      {
+         "x": false,
+         "name": "conversa de esquilo",
+         "short": "conversa de esquilo",
+         "id": 22926,
+         "categories": [
+            "Animal"
+         ]
+      },
+      {
+         "x": false,
+         "name": "tiro de borda",
+         "short": "tiro de borda",
+         "id": 22849,
+         "categories": [
+            "Música"
+         ]
+      },
+      {
+         "x": false,
+         "name": "relâmpago e trovão",
+         "short": "relâmpago e trovão",
+         "id": 25664,
+         "categories": [
+            "clima"
+         ]
+      },
+      {
+         "x": false,
+         "name": "apito de trem",
+         "short": "apito de trem",
+         "id": 25663,
+         "categories": [
+            "veículo"
+         ]
+      },
+      {
+         "x": false,
+         "name": "\"Todos saudam o rei!\" (macho)",
+         "short": "\"Todos saudam o rei!\"",
+         "id": 25662,
+         "categories": [
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "facada orquestral",
+         "short": "facada orquestral",
+         "id": 25661,
+         "categories": [
+            "Música"
+         ]
+      },
+      {
+         "x": false,
+         "name": "buzina de hóquei",
+         "short": "buzina de hóquei",
+         "id": 25660,
+         "categories": [
+            "Esportes"
+         ]
+      },
+      {
+         "x": false,
+         "name": "foguete voar por",
+         "short": "foguete voar por",
+         "id": 22853,
+         "categories": [
+            "veículo"
+         ]
+      },
+      {
+         "x": false,
+         "name": "bebericando líquido",
+         "short": "bebericando líquido",
+         "id": 22878,
+         "categories": [
+            "líquido"
+         ]
+      },
+      {
+         "x": false,
+         "name": "deslize apito para baixo",
+         "short": "deslize apito para baixo",
+         "id": 22885,
+         "categories": [
+            "desenho animado"
+         ]
+      },
+      {
+         "x": false,
+         "name": "deslize apito para cima",
+         "short": "deslize apito para cima",
+         "id": 22886,
+         "categories": [
+            "desenho animado"
+         ]
+      },
+      {
+         "x": false,
+         "name": "deslize apito até louco",
+         "short": "deslize apito até louco",
+         "id": 22887,
+         "categories": [
+            "desenho animado"
+         ]
+      },
+      {
+         "x": false,
+         "name": "sorvendo bebida",
+         "short": "sorvendo bebida",
+         "id": 22888,
+         "categories": [
+            "líquido"
+         ]
+      },
+      {
+         "x": false,
+         "name": "sirene da polícia passando por",
+         "short": "sirene da polícia passando por",
+         "id": 22879,
+         "categories": [
+            "alarme",
+            "veículo"
+         ]
+      },
+      {
+         "x": false,
+         "name": "Sirene da polícia britânica",
+         "short": "Sirene da polícia britânica",
+         "id": 22880,
+         "categories": [
+            "alarme",
+            "veículo"
+         ]
+      },
+      {
+         "x": false,
+         "name": "sirene de polícia curta",
+         "short": "sirene de polícia curta",
+         "id": 22881,
+         "categories": [
+            "alarme",
+            "veículo"
+         ]
+      },
+      {
+         "x": false,
+         "name": "cheirar humano",
+         "short": "cheirar humano",
+         "id": 22890,
+         "categories": [
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "ronco humano",
+         "short": "ronco humano",
+         "id": 22891,
+         "categories": [
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "chave soquete",
+         "short": "chave soquete",
+         "id": 22892,
+         "categories": [
+            "Ferramentas"
+         ]
+      },
+      {
+         "x": false,
+         "name": "refrigerante pode abrir",
+         "short": "refrigerante pode abrir",
+         "id": 22893,
+         "categories": [
+            "doméstico"
+         ]
+      },
+      {
+         "x": false,
+         "name": "sirene de polícia baixa",
+         "short": "sirene de polícia baixa",
+         "id": 22882,
+         "categories": [
+            "alarme",
+            "veículo"
+         ]
+      },
+      {
+         "x": false,
+         "name": "pedra jogada na água",
+         "short": "pedra jogada na água",
+         "id": 22854,
+         "categories": [
+            "líquido"
+         ]
+      },
+      {
+         "x": false,
+         "name": "galo cantando",
+         "short": "galo cantando",
+         "id": 22855,
+         "categories": [
+            "Animal"
+         ]
+      },
+      {
+         "x": false,
+         "name": "pressão de borracha",
+         "short": "pressão de borracha",
+         "id": 22856,
+         "categories": [
+            "desenho animado"
+         ]
+      },
+      {
+         "x": false,
+         "name": "alongamento de borracha",
+         "short": "alongamento de borracha",
+         "id": 22857,
+         "categories": [
+            "desenho animado"
+         ]
+      },
+      {
+         "x": false,
+         "name": "pá escavando sujeira",
+         "short": "pá escavando sujeira",
+         "id": 22876,
+         "categories": [
+            "Ferramentas"
+         ]
+      },
+      {
+         "x": false,
+         "name": "spray de creme de barbear",
+         "short": "spray de creme de barbear",
+         "id": 22875,
+         "categories": [
+            "doméstico"
+         ]
+      },
+      {
+         "x": false,
+         "name": "arranhão rápido",
+         "short": "arranhão rápido",
+         "id": 22864,
+         "categories": [
+            "humano"
+         ]
+      },
+      {
+         "x": false,
+         "name": "grito de queda (masculino)",
+         "short": "grito de queda",
+         "id": 22865,
+         "categories": [
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "grito de terror (feminino)",
+         "short": "grito de terror",
+         "id": 22866,
+         "categories": [
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "grito de medo (feminino)",
+         "short": "grito de medo",
+         "id": 22867,
+         "categories": [
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "grito apavorado (masculino)",
+         "short": "grito apavorado",
+         "id": 22868,
+         "categories": [
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "grito de dor (masculino)",
+         "short": "grito de dor",
+         "id": 22869,
+         "categories": [
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "mergulhador respirando",
+         "short": "mergulhador respirando",
+         "id": 22870,
+         "categories": [
+            "líquido"
+         ]
+      },
+      {
+         "x": false,
+         "name": "leões marinhos latem",
+         "short": "leões marinhos latem",
+         "id": 22871,
+         "categories": [
+            "Animal"
+         ]
+      },
+      {
+         "x": false,
+         "name": "lixa de esfregar",
+         "short": "lixa de esfregar",
+         "id": 22858,
+         "categories": [
+            "Ferramentas"
+         ]
+      },
+      {
+         "x": false,
+         "name": "computador sci-fi",
+         "short": "computador sci-fi",
+         "id": 22859,
+         "categories": [
+            "ficção científica"
+         ]
+      },
+      {
+         "x": false,
+         "name": "batalha de laser",
+         "short": "batalha de laser",
+         "id": 22860,
+         "categories": [
+            "ficção científica",
+            "violência"
+         ]
+      },
+      {
+         "x": false,
+         "name": "sci-fi laser shots",
+         "short": "sci-fi laser shots",
+         "id": 22861,
+         "categories": [
+            "ficção científica"
+         ]
+      },
+      {
+         "x": false,
+         "name": "tesoura",
+         "short": "tesoura",
+         "id": 22862,
+         "categories": [
+            "doméstico"
+         ]
+      },
+      {
+         "x": false,
+         "name": "gravar rascunho do álbum",
+         "short": "gravar rascunho do álbum",
+         "id": 22848,
+         "categories": [
+            "Música"
+         ]
+      },
+      {
+         "x": false,
+         "name": "rápido som de catraca",
+         "short": "rápido som de catraca",
+         "id": 22847,
+         "categories": [
+            "Ferramentas"
+         ]
+      },
+      {
+         "x": false,
+         "name": "cliques de catraca",
+         "short": "cliques de catraca",
+         "id": 22846,
+         "categories": [
+            "Ferramentas"
+         ]
+      },
+      {
+         "x": false,
+         "name": "chuva constante",
+         "short": "chuva constante",
+         "id": 22845,
+         "categories": [
+            "clima"
+         ]
+      },
+      {
+         "x": false,
+         "name": "sintonização de rádio",
+         "short": "sintonização de rádio",
+         "id": 22844,
+         "categories": [
+            "eletrônico / máquina"
+         ]
+      },
+      {
+         "x": false,
+         "name": "“Regular ou descafeinado” (masculino)",
+         "short": "“Regular ou descafeinado”",
+         "id": 22735,
+         "categories": [
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "discagem rotativa do telefone",
+         "short": "discagem rotativa do telefone",
+         "id": 22828,
+         "categories": [
+            "doméstico"
+         ]
+      },
+      {
+         "x": false,
+         "name": "grunhindo de porco",
+         "short": "grunhindo de porco",
+         "id": 22829,
+         "categories": [
+            "Animal"
+         ]
+      },
+      {
+         "x": false,
+         "name": "guincho de porco",
+         "short": "guincho de porco",
+         "id": 22830,
+         "categories": [
+            "Animal"
+         ]
+      },
+      {
+         "x": false,
+         "name": "guinchos agitados de porco",
+         "short": "guinchos agitados de porco",
+         "id": 22831,
+         "categories": [
+            "Animal"
+         ]
+      },
+      {
+         "x": false,
+         "name": "pilha de vermes",
+         "short": "pilha de vermes",
+         "id": 22832,
+         "categories": [
+            "Animal"
+         ]
+      },
+      {
+         "x": false,
+         "name": "maquina de pinball",
+         "short": "maquina de pinball",
+         "id": 22833,
+         "categories": [
+            "eletrônico / máquina"
+         ]
+      },
+      {
+         "x": false,
+         "name": "vomitando no banheiro",
+         "short": "vomitando no banheiro",
+         "id": 22838,
+         "categories": [
+            "funções corporais"
+         ]
+      },
+      {
+         "x": false,
+         "name": "polia que range",
+         "short": "polia que range",
+         "id": 22839,
+         "categories": [
+            "desenho animado"
+         ]
+      },
+      {
+         "x": false,
+         "name": "soco rápido",
+         "short": "soco rápido",
+         "id": 22840,
+         "categories": [
+            "violência"
+         ]
+      },
+      {
+         "x": false,
+         "name": "soco sólido",
+         "short": "soco sólido",
+         "id": 22841,
+         "categories": [
+            "violência"
+         ]
+      },
+      {
+         "x": false,
+         "name": "soco com “oof”",
+         "short": "soco com “oof”",
+         "id": 22842,
+         "categories": [
+            "violência"
+         ]
+      },
+      {
+         "x": false,
+         "name": "longa sirene da polícia",
+         "short": "longa sirene da polícia",
+         "id": 22834,
+         "categories": [
+            "alarme",
+            "veículo"
+         ]
+      },
+      {
+         "x": true,
+         "name": "musica pornográfica",
+         "short": "musica pornográfica",
+         "id": 22835,
+         "categories": [
+            "Música",
+            "sexual"
+         ]
+      },
+      {
+         "x": false,
+         "name": "guinchos de cão da pradaria",
+         "short": "guinchos de cão da pradaria",
+         "id": 22836,
+         "categories": [
+            "Animal"
+         ]
+      },
+      {
+         "x": false,
+         "name": "impressora matricial",
+         "short": "impressora matricial",
+         "id": 22837,
+         "categories": [
+            "eletrônico / máquina"
+         ]
+      },
+      {
+         "x": false,
+         "name": "rangido do portão de metal",
+         "short": "rangido do portão de metal",
+         "id": 22797,
+         "categories": [
+            "violência"
+         ]
+      },
+      {
+         "x": false,
+         "name": "trombone triste",
+         "short": "trombone triste",
+         "id": 22809,
+         "categories": [
+            "Música"
+         ]
+      },
+      {
+         "x": false,
+         "name": "Sons de pais de Charlie Brown",
+         "short": "Sons de pais de Charlie Brown",
+         "id": 22810,
+         "categories": [
+            "Música"
+         ]
+      },
+      {
+         "x": false,
+         "name": "órgão esportivo “carga”",
+         "short": "órgão esportivo “carga”",
+         "id": 22811,
+         "categories": [
+            "Música",
+            "Esportes"
+         ]
+      },
+      {
+         "x": false,
+         "name": "caixa de música",
+         "short": "caixa de música",
+         "id": 22812,
+         "categories": [
+            "Música"
+         ]
+      },
+      {
+         "x": false,
+         "name": "esguicho de mostarda",
+         "short": "esguicho de mostarda",
+         "id": 22813,
+         "categories": [
+            "líquido"
+         ]
+      },
+      {
+         "x": false,
+         "name": "Coruja",
+         "short": "Coruja",
+         "id": 22814,
+         "categories": [
+            "Animal"
+         ]
+      },
+      {
+         "x": false,
+         "name": "celular vibrando",
+         "short": "celular vibrando",
+         "id": 22823,
+         "categories": [
+            "doméstico"
+         ]
+      },
+      {
+         "x": false,
+         "name": "celular tocando",
+         "short": "celular tocando",
+         "id": 22824,
+         "categories": [
+            "doméstico"
+         ]
+      },
+      {
+         "x": false,
+         "name": "discando um telefone",
+         "short": "discando um telefone",
+         "id": 22825,
+         "categories": [
+            "doméstico"
+         ]
+      },
+      {
+         "x": false,
+         "name": "rasgando papel",
+         "short": "rasgando papel",
+         "id": 22815,
+         "categories": [
+            "doméstico"
+         ]
+      },
+      {
+         "x": false,
+         "name": "Liberação de ar",
+         "short": "Liberação de ar",
+         "id": 22816,
+         "categories": [
+            "Ferramentas"
+         ]
+      },
+      {
+         "x": false,
+         "name": "“Olá” (papagaio)",
+         "short": "“Olá” (papagaio)",
+         "id": 22817,
+         "categories": [
+            "Animal"
+         ]
+      },
+      {
+         "x": false,
+         "name": "grasnidos de papagaio",
+         "short": "grasnidos de papagaio",
+         "id": 22818,
+         "categories": [
+            "Animal"
+         ]
+      },
+      {
+         "x": false,
+         "name": "ambiente de multidão de festa",
+         "short": "ambiente de multidão de festa",
+         "id": 22819,
+         "categories": [
+            "multidão"
+         ]
+      },
+      {
+         "x": false,
+         "name": "buzinas de festa",
+         "short": "buzinas de festa",
+         "id": 22820,
+         "categories": [
+            "alarme"
+         ]
+      },
+      {
+         "x": false,
+         "name": "sinal de telefone ocupado",
+         "short": "sinal de telefone ocupado",
+         "id": 22821,
+         "categories": [
+            "doméstico"
+         ]
+      },
+      {
+         "x": true,
+         "name": "batalha militar",
+         "short": "batalha militar",
+         "id": 22798,
+         "categories": [
+            "violência"
+         ]
+      },
+      {
+         "x": false,
+         "name": "conexão de discagem de modem",
+         "short": "conexão de discagem de modem",
+         "id": 22799,
+         "categories": [
+            "eletrônico / máquina"
+         ]
+      },
+      {
+         "x": false,
+         "name": "rosnado de monstro",
+         "short": "rosnado de monstro",
+         "id": 22800,
+         "categories": [
+            "Animal"
+         ]
+      },
+      {
+         "x": false,
+         "name": "grito de monstro",
+         "short": "grito de monstro",
+         "id": 22801,
+         "categories": [
+            "Animal"
+         ]
+      },
+      {
+         "x": false,
+         "name": "Código Morse",
+         "short": "Código Morse",
+         "id": 22802,
+         "categories": [
+            "eletrônico / máquina"
+         ]
+      },
+      {
+         "x": false,
+         "name": "violino desafinado",
+         "short": "violino desafinado",
+         "id": 25669,
+         "categories": [
+            "Música"
+         ]
+      },
+      {
+         "x": false,
+         "name": "facada de música dramática",
+         "short": "facada de música dramática",
+         "id": 22803,
+         "categories": [
+            "Música"
+         ]
+      },
+      {
+         "x": false,
+         "name": "gaita zip",
+         "short": "gaita zip",
+         "id": 22804,
+         "categories": [
+            "Música"
+         ]
+      },
+      {
+         "x": false,
+         "name": "grupo de fãs gritando (feminino)",
+         "short": "grupo de fãs gritando",
+         "id": 25668,
+         "categories": [
+            "multidão"
+         ]
+      },
+      {
+         "x": false,
+         "name": "música de órgão assombrada",
+         "short": "música de órgão assombrada",
+         "id": 22805,
+         "categories": [
+            "Música"
+         ]
+      },
+      {
+         "x": false,
+         "name": "risada de bebê fofa",
+         "short": "risada de bebê fofa",
+         "id": 25666,
+         "categories": [
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "arroto impressionante",
+         "short": "arroto impressionante",
+         "id": 25667,
+         "categories": [
+            "funções corporais"
+         ]
+      },
+      {
+         "x": false,
+         "name": "kazoo que chatice",
+         "short": "kazoo que chatice",
+         "id": 22807,
+         "categories": [
+            "desenho animado"
+         ]
+      },
+      {
+         "x": false,
+         "name": "jato voar por",
+         "short": "jato voar por",
+         "id": 22768,
+         "categories": [
+            "veículo"
+         ]
+      },
+      {
+         "x": false,
+         "name": "jetpack voar por",
+         "short": "jetpack voar por",
+         "id": 22769,
+         "categories": [
+            "veículo"
+         ]
+      },
+      {
+         "x": false,
+         "name": "martelamento rápido de metal",
+         "short": "martelamento rápido de metal",
+         "id": 22794,
+         "categories": [
+            "violência"
+         ]
+      },
+      {
+         "x": false,
+         "name": "impacto / queda de metal",
+         "short": "impacto / queda de metal",
+         "id": 22793,
+         "categories": [
+            "violência"
+         ]
+      },
+      {
+         "x": false,
+         "name": "detectores de metal",
+         "short": "detectores de metal",
+         "id": 22792,
+         "categories": [
+            "eletrônico / máquina"
+         ]
+      },
+      {
+         "x": false,
+         "name": "queda de destroços de metal",
+         "short": "queda de destroços de metal",
+         "id": 22791,
+         "categories": [
+            "violência"
+         ]
+      },
+      {
+         "x": false,
+         "name": "girando calota",
+         "short": "girando calota",
+         "id": 22790,
+         "categories": [
+            "veículo"
+         ]
+      },
+      {
+         "x": false,
+         "name": "chave de soltar",
+         "short": "chave de soltar",
+         "id": 22789,
+         "categories": [
+            "Ferramentas"
+         ]
+      },
+      {
+         "x": false,
+         "name": "soldados marchando",
+         "short": "soldados marchando",
+         "id": 22788,
+         "categories": [
+            "humano"
+         ]
+      },
+      {
+         "x": false,
+         "name": "marcha ecoada",
+         "short": "marcha ecoada",
+         "id": 22787,
+         "categories": [
+            "humano"
+         ]
+      },
+      {
+         "x": false,
+         "name": "mármores derramando",
+         "short": "mármores derramando",
+         "id": 22786,
+         "categories": [
+            "doméstico"
+         ]
+      },
+      {
+         "x": false,
+         "name": "“Olá” (masculino)",
+         "short": "\"Olá\"",
+         "id": 22785,
+         "categories": [
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "sucção de líquido",
+         "short": "sucção de líquido",
+         "id": 22784,
+         "categories": [
+            "líquido"
+         ]
+      },
+      {
+         "x": false,
+         "name": "derramando líquido",
+         "short": "derramando líquido",
+         "id": 22783,
+         "categories": [
+            "líquido"
+         ]
+      },
+      {
+         "x": false,
+         "name": "líquido borbulhante",
+         "short": "líquido borbulhante",
+         "id": 22782,
+         "categories": [
+            "líquido"
+         ]
+      },
+      {
+         "x": false,
+         "name": "turkey baster gloop",
+         "short": "turkey baster gloop",
+         "id": 22781,
+         "categories": [
+            "líquido"
+         ]
+      },
+      {
+         "x": false,
+         "name": "kazoo “ta da”",
+         "short": "kazoo “ta da”",
+         "id": 22770,
+         "categories": [
+            "desenho animado"
+         ]
+      },
+      {
+         "x": false,
+         "name": "chifre infantil",
+         "short": "chifre infantil",
+         "id": 22771,
+         "categories": [
+            "desenho animado"
+         ]
+      },
+      {
+         "x": false,
+         "name": "crianças brincando",
+         "short": "crianças brincando",
+         "id": 22772,
+         "categories": [
+            "multidão"
+         ]
+      },
+      {
+         "x": false,
+         "name": "cordeirinho “baa”",
+         "short": "cordeirinho “baa”",
+         "id": 22773,
+         "categories": [
+            "Animal"
+         ]
+      },
+      {
+         "x": false,
+         "name": "balidos de cordeiro",
+         "short": "balidos de cordeiro",
+         "id": 22774,
+         "categories": [
+            "Animal"
+         ]
+      },
+      {
+         "x": false,
+         "name": "crianças rindo",
+         "short": "crianças rindo",
+         "id": 22775,
+         "categories": [
+            "multidão"
+         ]
+      },
+      {
+         "x": false,
+         "name": "brinquedo assustador para rir",
+         "short": "brinquedo assustador para rir",
+         "id": 22776,
+         "categories": [
+            "desenho animado"
+         ]
+      },
+      {
+         "x": false,
+         "name": "trilha do riso",
+         "short": "trilha do riso",
+         "id": 22777,
+         "categories": [
+            "multidão"
+         ]
+      },
+      {
+         "x": false,
+         "name": "trilha sonora com palmas",
+         "short": "trilha sonora com palmas",
+         "id": 22778,
+         "categories": [
+            "multidão"
+         ]
+      },
+      {
+         "x": false,
+         "name": "Contagem regressiva “5-4-3-2-1” (masculino)",
+         "short": "Contagem regressiva “5-4-3-2-1”",
+         "id": 22779,
+         "categories": [
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "líquido derramando gelo",
+         "short": "líquido derramando gelo",
+         "id": 22780,
+         "categories": [
+            "líquido"
+         ]
+      },
+      {
+         "x": false,
+         "name": "britadeira",
+         "short": "britadeira",
+         "id": 22766,
+         "categories": [
+            "Ferramentas"
+         ]
+      },
+      {
+         "x": false,
+         "name": "grito de medo (masculino)",
+         "short": "grito de medo",
+         "id": 22736,
+         "categories": [
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "chave de impacto",
+         "short": "chave de impacto",
+         "id": 22764,
+         "categories": [
+            "Ferramentas"
+         ]
+      },
+      {
+         "x": false,
+         "name": "impacto de madeira",
+         "short": "impacto de madeira",
+         "id": 22763,
+         "categories": [
+            "violência"
+         ]
+      },
+      {
+         "x": false,
+         "name": "impacto da barra de metal",
+         "short": "impacto da barra de metal",
+         "id": 22762,
+         "categories": [
+            "violência"
+         ]
+      },
+      {
+         "x": false,
+         "name": "objeto caiu na lata de metal",
+         "short": "objeto caiu na lata de metal",
+         "id": 22761,
+         "categories": [
+            "violência"
+         ]
+      },
+      {
+         "x": false,
+         "name": "“Pare” (masculino)",
+         "short": "\"Pare\"",
+         "id": 22737,
+         "categories": [
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "“Tente novamente” (masculino)",
+         "short": "\"tente novamente\"",
+         "id": 22738,
+         "categories": [
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "“Aumentar” (masculino)",
+         "short": "“Aumentar”",
+         "id": 22739,
+         "categories": [
+            "voz"
+         ]
+      },
+      {
+         "x": true,
+         "name": "homem urinando no banheiro (muito)",
+         "short": "homem urinando no banheiro (muito)",
+         "id": 22740,
+         "categories": [
+            "funções corporais"
+         ]
+      },
+      {
+         "x": false,
+         "name": "Levantamento hidráulico",
+         "short": "Levantamento hidráulico",
+         "id": 22754,
+         "categories": [
+            "Ferramentas"
+         ]
+      },
+      {
+         "x": false,
+         "name": "levantamento hidráulico curto",
+         "short": "levantamento hidráulico curto",
+         "id": 22755,
+         "categories": [
+            "Ferramentas"
+         ]
+      },
+      {
+         "x": false,
+         "name": "motor de robô",
+         "short": "motor de robô",
+         "id": 22756,
+         "categories": [
+            "Ferramentas"
+         ]
+      },
+      {
+         "x": false,
+         "name": "cubos de gelo caem no copo",
+         "short": "cubos de gelo caem no copo",
+         "id": 22757,
+         "categories": [
+            "doméstico"
+         ]
+      },
+      {
+         "x": false,
+         "name": "cubos de gelo caem no copo / gole",
+         "short": "cubos de gelo caem no copo / gole",
+         "id": 22758,
+         "categories": [
+            "doméstico"
+         ]
+      },
+      {
+         "x": false,
+         "name": "“Bem-vindo” (masculino)",
+         "short": "\"receber\"",
+         "id": 22741,
+         "categories": [
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "“Sim” (masculino)",
+         "short": "\"Sim\"",
+         "id": 22742,
+         "categories": [
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "respiração ofegante humana",
+         "short": "respiração ofegante humana",
+         "id": 22743,
+         "categories": [
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "grito (feminino)",
+         "short": "gritar",
+         "id": 22744,
+         "categories": [
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "grunhido (masculino)",
+         "short": "grunhido",
+         "id": 22751,
+         "categories": [
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "grito torturado (feminino)",
+         "short": "grito torturado",
+         "id": 22745,
+         "categories": [
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "espirro (masculino)",
+         "short": "espirrar",
+         "id": 22746,
+         "categories": [
+            "funções corporais"
+         ]
+      },
+      {
+         "x": false,
+         "name": "“Isso pode demorar um pouco” (masculino)",
+         "short": "\"Isso pode demorar um pouco\"",
+         "id": 22748,
+         "categories": [
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "suspiro (feminino)",
+         "short": "suspiro",
+         "id": 22750,
+         "categories": [
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "slide curto apito para cima",
+         "short": "slide curto apito para cima",
+         "id": 22407,
+         "categories": [
+            "desenho animado"
+         ]
+      },
+      {
+         "x": false,
+         "name": "limpando a garganta (masculino)",
+         "short": "limpando a garganta",
+         "id": 22720,
+         "categories": [
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "“Boa resposta” (masculino)",
+         "short": "\"boa resposta\"",
+         "id": 22721,
+         "categories": [
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "“Bom trabalho” (masculino)",
+         "short": "\"bom trabalho\"",
+         "id": 22722,
+         "categories": [
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "\"Olá, está alguém aí?\" (macho)",
+         "short": "\"Olá, está alguém aí?\"",
+         "id": 22723,
+         "categories": [
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "“Oi” (masculino)",
+         "short": "\"Oi\"",
+         "id": 22724,
+         "categories": [
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "“Feito nos EUA” (masculino)",
+         "short": "\"feito nos Estados Unidos\"",
+         "id": 22725,
+         "categories": [
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "“Hora do cochilo” (masculino)",
+         "short": "\"hora da soneca\"",
+         "id": 22726,
+         "categories": [
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "“Proibido estacionar” (masculino / espanhol)",
+         "short": "“Sem estacionamento” (espanhol)",
+         "id": 22727,
+         "categories": [
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "“Não” (masculino)",
+         "short": "\"não\"",
+         "id": 22729,
+         "categories": [
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "“Agora carregando” (masculino)",
+         "short": "“Agora carregando”",
+         "id": 22730,
+         "categories": [
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "“Ops!” (macho)",
+         "short": "“Ops!”",
+         "id": 22731,
+         "categories": [
+            "voz"
+         ]
+      },
+      {
+         "x": true,
+         "name": "homem urinando no banheiro",
+         "short": "homem urinando no banheiro",
+         "id": 22732,
+         "categories": [
+            "funções corporais"
+         ]
+      },
+      {
+         "x": true,
+         "name": "homem urinando lá fora",
+         "short": "homem urinando lá fora",
+         "id": 22733,
+         "categories": [
+            "funções corporais"
+         ]
+      },
+      {
+         "x": false,
+         "name": "“Pressione aqui” (masculino)",
+         "short": "\"aperte aqui\"",
+         "id": 22734,
+         "categories": [
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "espirro (feminino)",
+         "short": "espirrar",
+         "id": 22706,
+         "categories": [
+            "funções corporais"
+         ]
+      },
+      {
+         "x": false,
+         "name": "“Mais suave” (feminino)",
+         "short": "“Mais suave”",
+         "id": 22707,
+         "categories": [
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "“Pare” (feminino)",
+         "short": "\"Pare\"",
+         "id": 22708,
+         "categories": [
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "\"Primeiro, pare o sangramento.\" (fêmea)",
+         "short": "\"Primeiro, pare o sangramento.\"",
+         "id": 22709,
+         "categories": [
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "\"Isso pode demorar um pouco.\" (fêmea)",
+         "short": "\"Isso pode demorar um pouco.\"",
+         "id": 22710,
+         "categories": [
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "“Uh uh” (feminino)",
+         "short": "“Uh uh”",
+         "id": 22711,
+         "categories": [
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "“Bem-vindo” (feminino)",
+         "short": "\"receber\"",
+         "id": 22712,
+         "categories": [
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "\"Errado. Tente novamente.\" (fêmea)",
+         "short": "\"Errado. Tente novamente.\"",
+         "id": 22713,
+         "categories": [
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "“Sim” (feminino)",
+         "short": "\"sim\"",
+         "id": 22714,
+         "categories": [
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "goles",
+         "short": "goles",
+         "id": 22715,
+         "categories": [
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "risada louca",
+         "short": "risada louca",
+         "id": 22716,
+         "categories": [
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "rir (feminino)",
+         "short": "rir",
+         "id": 22717,
+         "categories": [
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "“1920” (masculino)",
+         "short": "“1920”",
+         "id": 22718,
+         "categories": [
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "“De volta por demanda popular” (masculino)",
+         "short": "“De volta por demanda popular”",
+         "id": 22719,
+         "categories": [
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "“Boa menina” (feminino)",
+         "short": "“Boa menina”",
+         "id": 22692,
+         "categories": [
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "“Ajuda” (feminino)",
+         "short": "\"ajuda\"",
+         "id": 22693,
+         "categories": [
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "“Oi” (feminino)",
+         "short": "\"Oi\"",
+         "id": 22694,
+         "categories": [
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "“Olá” (feminino)",
+         "short": "\"Olá\"",
+         "id": 22695,
+         "categories": [
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "rir (feminino)",
+         "short": "rir",
+         "id": 22696,
+         "categories": [
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "“Não” (feminino)",
+         "short": "\"não\"",
+         "id": 22697,
+         "categories": [
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "“A zona branca ...” (feminino)",
+         "short": "“A zona branca ...”",
+         "id": 22698,
+         "categories": [
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "“Não é bom” (feminino)",
+         "short": "\"não é bom\"",
+         "id": 22699,
+         "categories": [
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "\"Não está aí, seu idiota!\" (fêmea)",
+         "short": "\"Não está aí, seu idiota!\"",
+         "id": 22700,
+         "categories": [
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "“Ops!” (fêmea)",
+         "short": "“Ops!”",
+         "id": 22701,
+         "categories": [
+            "voz"
+         ]
+      },
+      {
+         "x": true,
+         "name": "gemido sexual (feminino)",
+         "short": "gemido sexual",
+         "id": 22702,
+         "categories": [
+            "sexual",
+            "voz"
+         ]
+      },
+      {
+         "x": true,
+         "name": "orgasmo (feminino)",
+         "short": "orgasmo",
+         "id": 22703,
+         "categories": [
+            "sexual",
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "“Por favor, aguarde” (feminino)",
+         "short": "\"por favor, aguarde\"",
+         "id": 22704,
+         "categories": [
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "“Pressione aqui” (feminino)",
+         "short": "\"aperte aqui\"",
+         "id": 22705,
+         "categories": [
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "tosse (masculina)",
+         "short": "tosse",
+         "id": 22682,
+         "categories": [
+            "funções corporais"
+         ]
+      },
+      {
+         "x": false,
+         "name": "comer com estalar os lábios",
+         "short": "comer com estalar os lábios",
+         "id": 22683,
+         "categories": [
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "“1980” (feminino)",
+         "short": "“1980”",
+         "id": 22684,
+         "categories": [
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "“Aww” (feminino)",
+         "short": "“Aww”",
+         "id": 22685,
+         "categories": [
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "“Respire profundamente” (feminino)",
+         "short": "\"respire fundo\"",
+         "id": 22686,
+         "categories": [
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "“Tchau tchau” (feminino)",
+         "short": "\"tchau tchau\"",
+         "id": 22688,
+         "categories": [
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "“Boa resposta” (feminino)",
+         "short": "\"boa resposta\"",
+         "id": 22690,
+         "categories": [
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "“Bom menino” (feminino)",
+         "short": "“Bom menino”",
+         "id": 22691,
+         "categories": [
+            "voz"
+         ]
+      },
+      {
+         "x": true,
+         "name": "umidade pegajosa",
+         "short": "umidade pegajosa",
+         "id": 22615,
+         "categories": [
+            "violência"
+         ]
+      },
+      {
+         "x": true,
+         "name": "cortando um membro",
+         "short": "cortando um membro",
+         "id": 22614,
+         "categories": [
+            "violência"
+         ]
+      },
+      {
+         "x": false,
+         "name": "chifre de ahooga",
+         "short": "chifre de ahooga",
+         "id": 22646,
+         "categories": [
+            "desenho animado"
+         ]
+      },
+      {
+         "x": false,
+         "name": "chifre ahooga vintage",
+         "short": "chifre ahooga vintage",
+         "id": 22647,
+         "categories": [
+            "desenho animado"
+         ]
+      },
+      {
+         "x": false,
+         "name": "buzina de ar",
+         "short": "buzina de ar",
+         "id": 22648,
+         "categories": [
+            "alarme"
+         ]
+      },
+      {
+         "x": false,
+         "name": "buzina de carro (2 buzinas)",
+         "short": "buzina de carro (2 buzinas)",
+         "id": 22664,
+         "categories": [
+            "alarme",
+            "veículo"
+         ]
+      },
+      {
+         "x": false,
+         "name": "buzina de festa",
+         "short": "buzina de festa",
+         "id": 22666,
+         "categories": [
+            "alarme"
+         ]
+      },
+      {
+         "x": false,
+         "name": "grupo de chifres de festa",
+         "short": "grupo de chifres de festa",
+         "id": 22667,
+         "categories": [
+            "alarme",
+            "multidão"
+         ]
+      },
+      {
+         "x": false,
+         "name": "multidão de zumbis / fantasmas",
+         "short": "multidão de zumbis / fantasmas",
+         "id": 22673,
+         "categories": [
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "relincho de cavalo",
+         "short": "relincho de cavalo",
+         "id": 22674,
+         "categories": [
+            "Animal"
+         ]
+      },
+      {
+         "x": false,
+         "name": "cavalo galope (falso)",
+         "short": "cavalo galope (falso)",
+         "id": 22675,
+         "categories": [
+            "Animal"
+         ]
+      },
+      {
+         "x": false,
+         "name": "cavalo zangado",
+         "short": "cavalo zangado",
+         "id": 22676,
+         "categories": [
+            "Animal"
+         ]
+      },
+      {
+         "x": false,
+         "name": "banheira de hidromassagem borbulhante",
+         "short": "banheira de hidromassagem borbulhante",
+         "id": 22677,
+         "categories": [
+            "líquido"
+         ]
+      },
+      {
+         "x": false,
+         "name": "Respiração pesada",
+         "short": "Respiração pesada",
+         "id": 22679,
+         "categories": [
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "buzina de navio",
+         "short": "buzina de navio",
+         "id": 22668,
+         "categories": [
+            "alarme",
+            "veículo"
+         ]
+      },
+      {
+         "x": false,
+         "name": "buzina de carro buzina",
+         "short": "buzina de carro buzina",
+         "id": 22669,
+         "categories": [
+            "alarme",
+            "veículo"
+         ]
+      },
+      {
+         "x": false,
+         "name": "buzina de carro com efeito doppler",
+         "short": "buzina de carro com efeito doppler",
+         "id": 22670,
+         "categories": [
+            "alarme",
+            "veículo"
+         ]
+      },
+      {
+         "x": false,
+         "name": "buzina de palhaço",
+         "short": "buzina de palhaço",
+         "id": 22671,
+         "categories": [
+            "desenho animado"
+         ]
+      },
+      {
+         "x": true,
+         "name": "tiro de espingarda",
+         "short": "tiro de espingarda",
+         "id": 22636,
+         "categories": [
+            "violência"
+         ]
+      },
+      {
+         "x": true,
+         "name": "pau de espingarda",
+         "short": "pau de espingarda",
+         "id": 22637,
+         "categories": [
+            "violência"
+         ]
+      },
+      {
+         "x": true,
+         "name": "tiro com silenciador",
+         "short": "tiro com silenciador",
+         "id": 22638,
+         "categories": [
+            "violência"
+         ]
+      },
+      {
+         "x": false,
+         "name": "harpa gliss / dreaming",
+         "short": "harpa gliss / dreaming",
+         "id": 22639,
+         "categories": [
+            "Música"
+         ]
+      },
+      {
+         "x": false,
+         "name": "harpa gliss up",
+         "short": "harpa gliss up",
+         "id": 22640,
+         "categories": [
+            "Música"
+         ]
+      },
+      {
+         "x": false,
+         "name": "batimento cardíaco rápido",
+         "short": "batimento cardíaco rápido",
+         "id": 22641,
+         "categories": [
+            "funções corporais"
+         ]
+      },
+      {
+         "x": false,
+         "name": "batimento cardíaco normal",
+         "short": "batimento cardíaco normal",
+         "id": 22644,
+         "categories": [
+            "funções corporais"
+         ]
+      },
+      {
+         "x": true,
+         "name": "cortar a cabeça",
+         "short": "cortar a cabeça",
+         "id": 22613,
+         "categories": [
+            "violência"
+         ]
+      },
+      {
+         "x": false,
+         "name": "esguicho líquido",
+         "short": "esguicho líquido",
+         "id": 22612,
+         "categories": [
+            "violência"
+         ]
+      },
+      {
+         "x": true,
+         "name": "manipulação molhada",
+         "short": "manipulação molhada",
+         "id": 22611,
+         "categories": [
+            "violência"
+         ]
+      },
+      {
+         "x": true,
+         "name": "granizo de balas",
+         "short": "granizo de balas",
+         "id": 22624,
+         "categories": [
+            "violência"
+         ]
+      },
+      {
+         "x": true,
+         "name": "pistola disparando vários tiros",
+         "short": "pistola disparando vários tiros",
+         "id": 22625,
+         "categories": [
+            "violência"
+         ]
+      },
+      {
+         "x": true,
+         "name": "arma sem balas",
+         "short": "arma sem balas",
+         "id": 22626,
+         "categories": [
+            "violência"
+         ]
+      },
+      {
+         "x": true,
+         "name": "metralhadora",
+         "short": "metralhadora",
+         "id": 22627,
+         "categories": [
+            "violência"
+         ]
+      },
+      {
+         "x": false,
+         "name": "gongo",
+         "short": "gongo",
+         "id": 22610,
+         "categories": [
+            "Música"
+         ]
+      },
+      {
+         "x": true,
+         "name": "vários tiros de arma",
+         "short": "vários tiros de arma",
+         "id": 22622,
+         "categories": [
+            "violência"
+         ]
+      },
+      {
+         "x": true,
+         "name": "explosão de canhão",
+         "short": "explosão de canhão",
+         "id": 22620,
+         "categories": [
+            "violência"
+         ]
+      },
+      {
+         "x": true,
+         "name": "arma pau e atirar",
+         "short": "arma pau e atirar",
+         "id": 22619,
+         "categories": [
+            "violência"
+         ]
+      },
+      {
+         "x": false,
+         "name": "tagarelice da marmota",
+         "short": "tagarelice da marmota",
+         "id": 22618,
+         "categories": [
+            "Animal"
+         ]
+      },
+      {
+         "x": false,
+         "name": "evacuando intestinos",
+         "short": "evacuando intestinos",
+         "id": 22617,
+         "categories": [
+            "funções corporais"
+         ]
+      },
+      {
+         "x": false,
+         "name": "música de gramofone",
+         "short": "música de gramofone",
+         "id": 22616,
+         "categories": [
+            "Música"
+         ]
+      },
+      {
+         "x": false,
+         "name": "campainha esportiva",
+         "short": "campainha esportiva",
+         "id": 22597,
+         "categories": [
+            "Esportes"
+         ]
+      },
+      {
+         "x": false,
+         "name": "líquido para gargarejo",
+         "short": "líquido para gargarejo",
+         "id": 22598,
+         "categories": [
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "suspiro (feminino)",
+         "short": "suspiro",
+         "id": 22599,
+         "categories": [
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "risada (feminina)",
+         "short": "risadinha",
+         "id": 22600,
+         "categories": [
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "quebrando muito vidro",
+         "short": "quebrando muito vidro",
+         "id": 22601,
+         "categories": [
+            "violência"
+         ]
+      },
+      {
+         "x": false,
+         "name": "estilhaçar de vidro",
+         "short": "estilhaçar de vidro",
+         "id": 22605,
+         "categories": [
+            "violência"
+         ]
+      },
+      {
+         "x": false,
+         "name": "cabra baa",
+         "short": "cabra baa",
+         "id": 22606,
+         "categories": [
+            "Animal"
+         ]
+      },
+      {
+         "x": false,
+         "name": "rebatida de bola de golfe",
+         "short": "rebatida de bola de golfe",
+         "id": 22607,
+         "categories": [
+            "Esportes"
+         ]
+      },
+      {
+         "x": false,
+         "name": "bola de golfe na taça",
+         "short": "bola de golfe na taça",
+         "id": 22608,
+         "categories": [
+            "Esportes"
+         ]
+      },
+      {
+         "x": false,
+         "name": "bola de golfe na água",
+         "short": "bola de golfe na água",
+         "id": 22609,
+         "categories": [
+            "Esportes"
+         ]
+      },
+      {
+         "x": false,
+         "name": "peido-stravaganza",
+         "short": "peido-stravaganza",
+         "id": 22573,
+         "categories": [
+            "funções corporais"
+         ]
+      },
+      {
+         "x": false,
+         "name": "squeaker peido",
+         "short": "squeaker peido",
+         "id": 22572,
+         "categories": [
+            "funções corporais"
+         ]
+      },
+      {
+         "x": false,
+         "name": "peido curto e arejado",
+         "short": "peido curto e arejado",
+         "id": 22571,
+         "categories": [
+            "funções corporais"
+         ]
+      },
+      {
+         "x": false,
+         "name": "final de fogos de artifício",
+         "short": "final de fogos de artifício",
+         "id": 22583,
+         "categories": [
+            "explosão"
+         ]
+      },
+      {
+         "x": false,
+         "name": "fritar carne",
+         "short": "fritar carne",
+         "id": 22595,
+         "categories": [
+            "doméstico"
+         ]
+      },
+      {
+         "x": false,
+         "name": "sapo coaxe",
+         "short": "sapo coaxe",
+         "id": 22594,
+         "categories": [
+            "Animal"
+         ]
+      },
+      {
+         "x": false,
+         "name": "passos na madeira",
+         "short": "passos na madeira",
+         "id": 22593,
+         "categories": [
+            "humano"
+         ]
+      },
+      {
+         "x": false,
+         "name": "peixes batendo",
+         "short": "peixes batendo",
+         "id": 22585,
+         "categories": [
+            "Animal",
+            "líquido"
+         ]
+      },
+      {
+         "x": false,
+         "name": "carretel de pesca desenrolando",
+         "short": "carretel de pesca desenrolando",
+         "id": 22586,
+         "categories": [
+            "doméstico"
+         ]
+      },
+      {
+         "x": false,
+         "name": "foghorn",
+         "short": "foghorn",
+         "id": 22587,
+         "categories": [
+            "alarme"
+         ]
+      },
+      {
+         "x": false,
+         "name": "Foguete de garrafa",
+         "short": "Foguete de garrafa",
+         "id": 22582,
+         "categories": [
+            "explosão"
+         ]
+      },
+      {
+         "x": false,
+         "name": "crepitação do fogo",
+         "short": "crepitação de fogo",
+         "id": 22581,
+         "categories": [
+            "violência"
+         ]
+      },
+      {
+         "x": false,
+         "name": "fogos de artifício",
+         "short": "fogos de artifício",
+         "id": 22580,
+         "categories": [
+            "explosão"
+         ]
+      },
+      {
+         "x": false,
+         "name": "passos no concreto",
+         "short": "passos no concreto",
+         "id": 22588,
+         "categories": [
+            "humano"
+         ]
+      },
+      {
+         "x": false,
+         "name": "peido bagunçado",
+         "short": "peido bagunçado",
+         "id": 22574,
+         "categories": [
+            "funções corporais"
+         ]
+      },
+      {
+         "x": false,
+         "name": "peido na banheira",
+         "short": "peido na banheira",
+         "id": 22575,
+         "categories": [
+            "funções corporais"
+         ]
+      },
+      {
+         "x": false,
+         "name": "peido curto e comprimido",
+         "short": "peido curto e comprimido",
+         "id": 22570,
+         "categories": [
+            "funções corporais"
+         ]
+      },
+      {
+         "x": false,
+         "name": "calça quente e abafada peido",
+         "short": "calça quente e abafada peido",
+         "id": 25671,
+         "categories": [
+            "funções corporais"
+         ]
+      },
+      {
+         "x": false,
+         "name": "curto, peido de vaso sanitário",
+         "short": "curto, peido de vaso sanitário",
+         "id": 22569,
+         "categories": [
+            "funções corporais"
+         ]
+      },
+      {
+         "x": false,
+         "name": "tosse seca",
+         "short": "tosse seca",
+         "id": 25672,
+         "categories": [
+            "funções corporais"
+         ]
+      },
+      {
+         "x": false,
+         "name": "peido forçado",
+         "short": "peido forçado",
+         "id": 22568,
+         "categories": [
+            "funções corporais"
+         ]
+      },
+      {
+         "x": false,
+         "name": "peido curto comprimido",
+         "short": "peido curto comprimido",
+         "id": 22567,
+         "categories": [
+            "funções corporais"
+         ]
+      },
+      {
+         "x": false,
+         "name": "“Olá” (feminino)",
+         "short": "\"Olá\"",
+         "id": 22577,
+         "categories": [
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "muito comprido peido molhado",
+         "short": "muito comprido peido molhado",
+         "id": 22566,
+         "categories": [
+            "funções corporais"
+         ]
+      },
+      {
+         "x": false,
+         "name": "pequena multidão chorando",
+         "short": "pequena multidão chorando",
+         "id": 22492,
+         "categories": [
+            "multidão"
+         ]
+      },
+      {
+         "x": false,
+         "name": "desenho animado desliza para baixo com buzina",
+         "short": "desenho animado desliza para baixo com buzina",
+         "id": 22406,
+         "categories": [
+            "desenho animado"
+         ]
+      },
+      {
+         "x": false,
+         "name": "cadeira elétrica",
+         "short": "cadeira elétrica",
+         "id": 22541,
+         "categories": [
+            "eletrônico / máquina"
+         ]
+      },
+      {
+         "x": false,
+         "name": "zumbido elétrico",
+         "short": "zumbido elétrico",
+         "id": 22542,
+         "categories": [
+            "eletrônico / máquina"
+         ]
+      },
+      {
+         "x": false,
+         "name": "melodia digital",
+         "short": "melodia digital",
+         "id": 22543,
+         "categories": [
+            "Música"
+         ]
+      },
+      {
+         "x": false,
+         "name": "elefante trombeteando",
+         "short": "trombeta de elefante",
+         "id": 22544,
+         "categories": [
+            "Animal"
+         ]
+      },
+      {
+         "x": false,
+         "name": "grande explosão",
+         "short": "grande explosão",
+         "id": 22545,
+         "categories": [
+            "explosão"
+         ]
+      },
+      {
+         "x": false,
+         "name": "grande explosão com vidro",
+         "short": "grande explosão com vidro",
+         "id": 22546,
+         "categories": [
+            "explosão"
+         ]
+      },
+      {
+         "x": false,
+         "name": "explosão rápida",
+         "short": "explosão rápida",
+         "id": 22552,
+         "categories": [
+            "explosão"
+         ]
+      },
+      {
+         "x": true,
+         "name": "explosão de granada",
+         "short": "granada explodir",
+         "id": 22547,
+         "categories": [
+            "explosão",
+            "violência"
+         ]
+      },
+      {
+         "x": false,
+         "name": "motosserra rev",
+         "short": "motosserra rev",
+         "id": 22450,
+         "categories": [
+            "Ferramentas",
+            "violência"
+         ]
+      },
+      {
+         "x": false,
+         "name": "comendo batata frita",
+         "short": "comendo batata frita",
+         "id": 22538,
+         "categories": [
+            "humano"
+         ]
+      },
+      {
+         "x": false,
+         "name": "explosão muito grande",
+         "short": "explosão muito grande",
+         "id": 22550,
+         "categories": [
+            "explosão"
+         ]
+      },
+      {
+         "x": false,
+         "name": "aplausos e vivas da multidão",
+         "short": "aplausos e vivas da multidão",
+         "id": 22489,
+         "categories": [
+            "multidão"
+         ]
+      },
+      {
+         "x": false,
+         "name": "multidão vaiando",
+         "short": "multidão vaiando",
+         "id": 22490,
+         "categories": [
+            "multidão"
+         ]
+      },
+      {
+         "x": false,
+         "name": "chamada de pato - solteiro",
+         "short": "chamada de pato - solteiro",
+         "id": 22532,
+         "categories": [
+            "Animal"
+         ]
+      },
+      {
+         "x": false,
+         "name": "chamada de pato estranha",
+         "short": "chamada de pato estranha",
+         "id": 22533,
+         "categories": [
+            "Animal"
+         ]
+      },
+      {
+         "x": false,
+         "name": "baixo chamado",
+         "short": "baixo chamado",
+         "id": 22534,
+         "categories": [
+            "Animal"
+         ]
+      },
+      {
+         "x": false,
+         "name": "pato quack - solteiro",
+         "short": "pato quack - solteiro",
+         "id": 22535,
+         "categories": [
+            "Animal"
+         ]
+      },
+      {
+         "x": false,
+         "name": "verdadeiro pato quack",
+         "short": "verdadeiro pato quack",
+         "id": 22536,
+         "categories": [
+            "Animal"
+         ]
+      },
+      {
+         "x": false,
+         "name": "chimp rir e gritar",
+         "short": "chimp rir e gritar",
+         "id": 22453,
+         "categories": [
+            "Animal"
+         ]
+      },
+      {
+         "x": false,
+         "name": "porta que range",
+         "short": "porta que range",
+         "id": 22520,
+         "categories": [
+            "doméstico"
+         ]
+      },
+      {
+         "x": false,
+         "name": "bater na porta de madeira",
+         "short": "bater na porta de madeira",
+         "id": 22521,
+         "categories": [
+            "doméstico"
+         ]
+      },
+      {
+         "x": false,
+         "name": "pequena multidão gritando \"hooray\"",
+         "short": "pequena multidão gritando \"hooray\"",
+         "id": 22494,
+         "categories": [
+            "multidão"
+         ]
+      },
+      {
+         "x": false,
+         "name": "latido de cachorro grande",
+         "short": "latido de cachorro grande",
+         "id": 22511,
+         "categories": [
+            "Animal"
+         ]
+      },
+      {
+         "x": false,
+         "name": "drumroll com hit",
+         "short": "drumroll com hit",
+         "id": 22530,
+         "categories": [
+            "Música"
+         ]
+      },
+      {
+         "x": false,
+         "name": "broca de dentista",
+         "short": "broca de dentista",
+         "id": 22527,
+         "categories": [
+            "eletrônico / máquina"
+         ]
+      },
+      {
+         "x": false,
+         "name": "andróide falando",
+         "short": "andróide falando",
+         "id": 22528,
+         "categories": [
+            "ficção científica"
+         ]
+      },
+      {
+         "x": false,
+         "name": "zurro de burro",
+         "short": "zurro de burro",
+         "id": 22517,
+         "categories": [
+            "Animal"
+         ]
+      },
+      {
+         "x": false,
+         "name": "campainha",
+         "short": "campainha",
+         "id": 22518,
+         "categories": [
+            "doméstico"
+         ]
+      },
+      {
+         "x": false,
+         "name": "multidão do estádio “aww”",
+         "short": "multidão do estádio “aww”",
+         "id": 22495,
+         "categories": [
+            "multidão"
+         ]
+      },
+      {
+         "x": false,
+         "name": "audiência rindo",
+         "short": "audiência rindo",
+         "id": 22496,
+         "categories": [
+            "multidão"
+         ]
+      },
+      {
+         "x": false,
+         "name": "cachorro choramingar",
+         "short": "cachorro choramingar",
+         "id": 22510,
+         "categories": [
+            "Animal"
+         ]
+      },
+      {
+         "x": false,
+         "name": "multidão dizendo “ohhhh”",
+         "short": "multidão dizendo “ohhhh”",
+         "id": 22497,
+         "categories": [
+            "multidão"
+         ]
+      },
+      {
+         "x": false,
+         "name": "multidão dizendo \"Surpresa!\"",
+         "short": "multidão dizendo \"Surpresa!\"",
+         "id": 22498,
+         "categories": [
+            "multidão"
+         ]
+      },
+      {
+         "x": false,
+         "name": "bebê recém-nascido chorando",
+         "short": "bebê recém-nascido chorando",
+         "id": 22499,
+         "categories": [
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "criança chorando",
+         "short": "criança chorando",
+         "id": 22500,
+         "categories": [
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "cuco cuco cuco",
+         "short": "cuco cuco cuco",
+         "id": 22501,
+         "categories": [
+            "alarme"
+         ]
+      },
+      {
+         "x": false,
+         "name": "ferramenta de sucção dentista",
+         "short": "ferramenta de sucção dentista",
+         "id": 22502,
+         "categories": [
+            "eletrônico / máquina"
+         ]
+      },
+      {
+         "x": false,
+         "name": "rosnado de dinossauro",
+         "short": "rosnado de dinossauro",
+         "id": 22503,
+         "categories": [
+            "Animal"
+         ]
+      },
+      {
+         "x": false,
+         "name": "cachorro grande latindo e rosnando",
+         "short": "cachorro grande latindo e rosnando",
+         "id": 22504,
+         "categories": [
+            "Animal"
+         ]
+      },
+      {
+         "x": false,
+         "name": "latido de cachorro minúsculo",
+         "short": "latido de cachorro minúsculo",
+         "id": 22505,
+         "categories": [
+            "Animal"
+         ]
+      },
+      {
+         "x": false,
+         "name": "latido vicioso de cachorro grande",
+         "short": "latido vicioso de cachorro grande",
+         "id": 22506,
+         "categories": [
+            "Animal"
+         ]
+      },
+      {
+         "x": false,
+         "name": "rosnado de cachorro ameaçador",
+         "short": "rosnado de cachorro ameaçador",
+         "id": 22507,
+         "categories": [
+            "Animal"
+         ]
+      },
+      {
+         "x": false,
+         "name": "rosnado de cachorro comprido",
+         "short": "rosnado de cachorro comprido",
+         "id": 22508,
+         "categories": [
+            "Animal"
+         ]
+      },
+      {
+         "x": false,
+         "name": "gritos de chimpanzé",
+         "short": "gritos de chimpanzé",
+         "id": 22454,
+         "categories": [
+            "Animal"
+         ]
+      },
+      {
+         "x": false,
+         "name": "chimpanzé enlouquecendo",
+         "short": "chimpanzé enlouquecendo",
+         "id": 22455,
+         "categories": [
+            "Animal"
+         ]
+      },
+      {
+         "x": false,
+         "name": "moedas derramando na mesa",
+         "short": "moedas derramando na mesa",
+         "id": 22463,
+         "categories": [
+            "doméstico"
+         ]
+      },
+      {
+         "x": false,
+         "name": "grasnido de corvo",
+         "short": "grasnido de corvo",
+         "id": 22482,
+         "categories": [
+            "Animal"
+         ]
+      },
+      {
+         "x": false,
+         "name": "crianças torcendo por “yay”",
+         "short": "crianças torcendo por “yay”",
+         "id": 22483,
+         "categories": [
+            "multidão"
+         ]
+      },
+      {
+         "x": false,
+         "name": "multidão dizendo “5, 4, 3, 2 ...”",
+         "short": "multidão dizendo “5, 4, 3, 2 ...”",
+         "id": 22485,
+         "categories": [
+            "multidão"
+         ]
+      },
+      {
+         "x": false,
+         "name": "multidão furiosa",
+         "short": "multidão furiosa",
+         "id": 22486,
+         "categories": [
+            "multidão"
+         ]
+      },
+      {
+         "x": false,
+         "name": "conversa de rádio policial",
+         "short": "conversa de rádio policial",
+         "id": 22464,
+         "categories": [
+            "eletrônico / máquina"
+         ]
+      },
+      {
+         "x": false,
+         "name": "cork pop",
+         "short": "cork pop",
+         "id": 22465,
+         "categories": [
+            "desenho animado"
+         ]
+      },
+      {
+         "x": false,
+         "name": "multidão ofegante",
+         "short": "multidão ofegante",
+         "id": 22493,
+         "categories": [
+            "multidão"
+         ]
+      },
+      {
+         "x": false,
+         "name": "vaca mugido",
+         "short": "vaca mugido",
+         "id": 22466,
+         "categories": [
+            "Animal"
+         ]
+      },
+      {
+         "x": false,
+         "name": "vaca lenta mugido",
+         "short": "vaca lenta mugido",
+         "id": 22467,
+         "categories": [
+            "Animal"
+         ]
+      },
+      {
+         "x": false,
+         "name": "sino de vaca retinindo",
+         "short": "sino de vaca retinindo",
+         "id": 22468,
+         "categories": [
+            "Animal"
+         ]
+      },
+      {
+         "x": false,
+         "name": "acidente de sucata de metal",
+         "short": "acidente de sucata de metal",
+         "id": 22476,
+         "categories": [
+            "violência"
+         ]
+      },
+      {
+         "x": false,
+         "name": "chimpanzé rindo",
+         "short": "chimpanzé rindo",
+         "id": 22456,
+         "categories": [
+            "Animal"
+         ]
+      },
+      {
+         "x": false,
+         "name": "vaca mugido e guincho",
+         "short": "vaca mugido e guincho",
+         "id": 22471,
+         "categories": [
+            "Animal"
+         ]
+      },
+      {
+         "x": false,
+         "name": "uivo de coiote",
+         "short": "uivo de coiote",
+         "id": 22472,
+         "categories": [
+            "Animal"
+         ]
+      },
+      {
+         "x": false,
+         "name": "derrapagem e acidente de carro",
+         "short": "derrapagem e acidente de carro",
+         "id": 22473,
+         "categories": [
+            "veículo"
+         ]
+      },
+      {
+         "x": false,
+         "name": "quebra de lixo do armário",
+         "short": "quebra de lixo do armário",
+         "id": 22474,
+         "categories": [
+            "violência"
+         ]
+      },
+      {
+         "x": false,
+         "name": "esquilo tagarelando",
+         "short": "esquilo tagarelando",
+         "id": 22457,
+         "categories": [
+            "Animal"
+         ]
+      },
+      {
+         "x": false,
+         "name": "pessoa sufocando",
+         "short": "pessoa sufocando",
+         "id": 22458,
+         "categories": [
+            "humano"
+         ]
+      },
+      {
+         "x": false,
+         "name": "relógio tiquetaqueando",
+         "short": "relógio tiquetaqueando",
+         "id": 22459,
+         "categories": [
+            "doméstico"
+         ]
+      },
+      {
+         "x": false,
+         "name": "cartoon skedaddle",
+         "short": "cartoon skedaddle",
+         "id": 22405,
+         "categories": [
+            "desenho animado"
+         ]
+      },
+      {
+         "x": false,
+         "name": "máquina maluca de desenho animado",
+         "short": "máquina maluca de desenho animado",
+         "id": 22434,
+         "categories": [
+            "desenho animado"
+         ]
+      },
+      {
+         "x": false,
+         "name": "risada de palhaço pateta",
+         "short": "risada de palhaço pateta",
+         "id": 22461,
+         "categories": [
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "rebobinar fita",
+         "short": "rebobinar fita",
+         "id": 22403,
+         "categories": [
+            "desenho animado"
+         ]
+      },
+      {
+         "x": false,
+         "name": "desenho animado bate na cabeça",
+         "short": "desenho animado bate na cabeça",
+         "id": 22402,
+         "categories": [
+            "desenho animado"
+         ]
+      },
+      {
+         "x": false,
+         "name": "sotaque trêmulo de desenho animado",
+         "short": "sotaque trêmulo de desenho animado",
+         "id": 22423,
+         "categories": [
+            "desenho animado"
+         ]
+      },
+      {
+         "x": false,
+         "name": "acidente de carro rápido",
+         "short": "acidente de carro rápido",
+         "id": 22424,
+         "categories": [
+            "veículo"
+         ]
+      },
+      {
+         "x": false,
+         "name": "gotejamento de água",
+         "short": "gotejamento de água",
+         "id": 22435,
+         "categories": [
+            "desenho animado",
+            "líquido"
+         ]
+      },
+      {
+         "x": false,
+         "name": "mensagens de texto de telefone celular",
+         "short": "mensagens de texto de telefone celular",
+         "id": 22448,
+         "categories": [
+            "doméstico"
+         ]
+      },
+      {
+         "x": false,
+         "name": "cantando scat (velho)",
+         "short": "cantando scat (velho)",
+         "id": 25713,
+         "categories": [
+            "Música",
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "gato mia",
+         "short": "gato mia",
+         "id": 22447,
+         "categories": [
+            "Animal"
+         ]
+      },
+      {
+         "x": false,
+         "name": "peido (surpreendentemente molhado)",
+         "short": "peido (surpreendentemente molhado)",
+         "id": 25712,
+         "categories": [
+            "funções corporais"
+         ]
+      },
+      {
+         "x": false,
+         "name": "gato bravo",
+         "short": "gato bravo",
+         "id": 22446,
+         "categories": [
+            "Animal"
+         ]
+      },
+      {
+         "x": false,
+         "name": "caixa registradora ding",
+         "short": "caixa registradora ding",
+         "id": 22445,
+         "categories": [
+            "eletrônico / máquina"
+         ]
+      },
+      {
+         "x": false,
+         "name": "tempestade de vento dos desenhos animados",
+         "short": "tempestade de vento dos desenhos animados",
+         "id": 22436,
+         "categories": [
+            "desenho animado",
+            "clima"
+         ]
+      },
+      {
+         "x": false,
+         "name": "magia dos desenhos animados e explosão",
+         "short": "magia dos desenhos animados e explosão",
+         "id": 22437,
+         "categories": [
+            "desenho animado"
+         ]
+      },
+      {
+         "x": false,
+         "name": "cartoon boing de madeira",
+         "short": "cartoon boing de madeira",
+         "id": 22438,
+         "categories": [
+            "desenho animado"
+         ]
+      },
+      {
+         "x": false,
+         "name": "deslize apito para baixo",
+         "short": "deslize apito para baixo",
+         "id": 22439,
+         "categories": [
+            "desenho animado"
+         ]
+      },
+      {
+         "x": false,
+         "name": "desenho animado twang de madeira",
+         "short": "desenho animado sotaque de madeira",
+         "id": 22440,
+         "categories": [
+            "desenho animado"
+         ]
+      },
+      {
+         "x": false,
+         "name": "pica-pau de desenho animado",
+         "short": "pica-pau de desenho animado",
+         "id": 22441,
+         "categories": [
+            "Animal",
+            "desenho animado"
+         ]
+      },
+      {
+         "x": false,
+         "name": "jargão alto de desenho animado",
+         "short": "jargão alto de desenho animado",
+         "id": 22442,
+         "categories": [
+            "desenho animado",
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "desenho animado",
+         "short": "desenho animado",
+         "id": 22443,
+         "categories": [
+            "desenho animado"
+         ]
+      },
+      {
+         "x": false,
+         "name": "cartoon doink",
+         "short": "cartoon doink",
+         "id": 22373,
+         "categories": [
+            "desenho animado"
+         ]
+      },
+      {
+         "x": false,
+         "name": "harpa sonhadora",
+         "short": "harpa sonhadora",
+         "id": 22375,
+         "categories": [
+            "Música",
+            "desenho animado"
+         ]
+      },
+      {
+         "x": false,
+         "name": "sinos dos sonhos",
+         "short": "sinos dos sonhos",
+         "id": 22377,
+         "categories": [
+            "Música",
+            "desenho animado"
+         ]
+      },
+      {
+         "x": false,
+         "name": "patos grasnando",
+         "short": "patos grasnando",
+         "id": 22537,
+         "categories": [
+            "Animal"
+         ]
+      },
+      {
+         "x": false,
+         "name": "rolo de tambor com toque de prato",
+         "short": "rolo de tambor com toque de prato",
+         "id": 22531,
+         "categories": [
+            "Música"
+         ]
+      },
+      {
+         "x": false,
+         "name": "blips de computador retro",
+         "short": "blips de computador retro",
+         "id": 22529,
+         "categories": [
+            "ficção científica"
+         ]
+      },
+      {
+         "x": false,
+         "name": "sino de vaca tocando rápido",
+         "short": "sino de vaca tocando rápido",
+         "id": 22469,
+         "categories": [
+            "Animal"
+         ]
+      },
+      {
+         "x": false,
+         "name": "desenho animado engolindo líquido",
+         "short": "desenho animado engolindo líquido",
+         "id": 22378,
+         "categories": [
+            "desenho animado",
+            "líquido"
+         ]
+      },
+      {
+         "x": false,
+         "name": "fanfarra de bronze real",
+         "short": "fanfarra de bronze real",
+         "id": 22564,
+         "categories": [
+            "Música"
+         ]
+      },
+      {
+         "x": false,
+         "name": "porta rangendo abrindo",
+         "short": "porta rangendo abrindo",
+         "id": 22525,
+         "categories": [
+            "doméstico"
+         ]
+      },
+      {
+         "x": false,
+         "name": "batendo na porta",
+         "short": "batendo na porta",
+         "id": 22523,
+         "categories": [
+            "doméstico"
+         ]
+      },
+      {
+         "x": false,
+         "name": "gorjeio de pássaros canoros",
+         "short": "gorjeio de pássaros canoros",
+         "id": 22412,
+         "categories": [
+            "Animal",
+            "desenho animado"
+         ]
+      },
+      {
+         "x": false,
+         "name": "carro espacial dos desenhos animados sobrevoando",
+         "short": "carro espacial dos desenhos animados sobrevoando",
+         "id": 22413,
+         "categories": [
+            "desenho animado",
+            "veículo"
+         ]
+      },
+      {
+         "x": false,
+         "name": "borrão sujo e úmido",
+         "short": "borrão sujo e úmido",
+         "id": 22414,
+         "categories": [
+            "desenho animado",
+            "líquido"
+         ]
+      },
+      {
+         "x": false,
+         "name": "grito de desenho animado",
+         "short": "grito de desenho animado",
+         "id": 22415,
+         "categories": [
+            "Animal",
+            "desenho animado"
+         ]
+      },
+      {
+         "x": false,
+         "name": "fricção estridente de desenho animado",
+         "short": "fricção estridente de desenho animado",
+         "id": 22416,
+         "categories": [
+            "desenho animado"
+         ]
+      },
+      {
+         "x": false,
+         "name": "alongamento de borracha e encaixe",
+         "short": "alongamento de borracha e encaixe",
+         "id": 22417,
+         "categories": [
+            "desenho animado"
+         ]
+      },
+      {
+         "x": false,
+         "name": "cartoon “thunk”",
+         "short": "cartoon “thunk”",
+         "id": 22418,
+         "categories": [
+            "desenho animado"
+         ]
+      },
+      {
+         "x": false,
+         "name": "arremesso de desenho animado",
+         "short": "arremesso de desenho animado",
+         "id": 22419,
+         "categories": [
+            "desenho animado"
+         ]
+      },
+      {
+         "x": false,
+         "name": "desenho animado cair em um poço",
+         "short": "desenho animado cair em um poço",
+         "id": 22380,
+         "categories": [
+            "desenho animado"
+         ]
+      },
+      {
+         "x": false,
+         "name": "voz sem sentido de desenho animado",
+         "short": "voz sem sentido de desenho animado",
+         "id": 22382,
+         "categories": [
+            "desenho animado",
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "framboesa desenho animado",
+         "short": "framboesa desenho animado",
+         "id": 22399,
+         "categories": [
+            "funções corporais",
+            "desenho animado"
+         ]
+      },
+      {
+         "x": false,
+         "name": "porta aberta que range",
+         "short": "porta aberta que range",
+         "id": 22398,
+         "categories": [
+            "desenho animado"
+         ]
+      },
+      {
+         "x": false,
+         "name": "rosnado de monstro",
+         "short": "rosnado de monstro",
+         "id": 22397,
+         "categories": [
+            "Animal",
+            "desenho animado"
+         ]
+      },
+      {
+         "x": false,
+         "name": "metal batido com som estridente",
+         "short": "metal batido com som estridente",
+         "id": 22396,
+         "categories": [
+            "desenho animado"
+         ]
+      },
+      {
+         "x": false,
+         "name": "desenho animado mágico florescer",
+         "short": "desenho animado mágico florescer",
+         "id": 22395,
+         "categories": [
+            "desenho animado"
+         ]
+      },
+      {
+         "x": false,
+         "name": "toque de telefone através do telefone",
+         "short": "toque de telefone através do telefone",
+         "id": 22941,
+         "categories": [
+            "doméstico"
+         ]
+      },
+      {
+         "x": false,
+         "name": "escorregar e cair na água",
+         "short": "escorregar e cair na água",
+         "id": 22409,
+         "categories": [
+            "desenho animado",
+            "líquido"
+         ]
+      },
+      {
+         "x": false,
+         "name": "espirro (desenho animado masculino)",
+         "short": "espirro (desenho animado)",
+         "id": 22410,
+         "categories": [
+            "funções corporais"
+         ]
+      },
+      {
+         "x": false,
+         "name": "pessoa roncando alto",
+         "short": "pessoa roncando alto",
+         "id": 22411,
+         "categories": [
+            "desenho animado",
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "mágica dos desenhos animados “Aparece!”",
+         "short": "mágica dos desenhos animados “Aparece!”",
+         "id": 22394,
+         "categories": [
+            "desenho animado"
+         ]
+      },
+      {
+         "x": false,
+         "name": "explosão mágica de desenho animado",
+         "short": "explosão mágica de desenho animado",
+         "id": 22393,
+         "categories": [
+            "desenho animado"
+         ]
+      },
+      {
+         "x": false,
+         "name": "cartoon virar de cabeça para baixo",
+         "short": "cartoon virar de cabeça para baixo",
+         "id": 22383,
+         "categories": [
+            "desenho animado"
+         ]
+      },
+      {
+         "x": false,
+         "name": "Monitor cardíaco",
+         "short": "Monitor cardíaco",
+         "id": 22645,
+         "categories": [
+            "eletrônico / máquina"
+         ]
+      },
+      {
+         "x": false,
+         "name": "slide de guitarra de desenho animado",
+         "short": "slide de guitarra de desenho animado",
+         "id": 22384,
+         "categories": [
+            "Música",
+            "desenho animado"
+         ]
+      },
+      {
+         "x": false,
+         "name": "arma de luta",
+         "short": "arma de luta",
+         "id": 22623,
+         "categories": [
+            "violência"
+         ]
+      },
+      {
+         "x": false,
+         "name": "soluços de desenho animado",
+         "short": "soluços de desenho animado",
+         "id": 22385,
+         "categories": [
+            "desenho animado"
+         ]
+      },
+      {
+         "x": false,
+         "name": "rugido do urso pardo",
+         "short": "rugido do urso pardo",
+         "id": 25716,
+         "categories": [
+            "Animal"
+         ]
+      },
+      {
+         "x": false,
+         "name": "toca-discos “arranhando”",
+         "short": "toca-discos “arranhando”",
+         "id": 25717,
+         "categories": [
+            "Música"
+         ]
+      },
+      {
+         "x": false,
+         "name": "salto de desenho animado",
+         "short": "salto de desenho animado",
+         "id": 22386,
+         "categories": [
+            "desenho animado"
+         ]
+      },
+      {
+         "x": false,
+         "name": "beijo de desenho animado",
+         "short": "beijo de desenho animado",
+         "id": 22387,
+         "categories": [
+            "desenho animado",
+            "humano"
+         ]
+      },
+      {
+         "x": false,
+         "name": "grande raspagem de pedra",
+         "short": "grande raspagem de pedra",
+         "id": 22927,
+         "categories": [
+            "Ferramentas"
+         ]
+      },
+      {
+         "x": false,
+         "name": "sacudindo a lata com mármore dentro",
+         "short": "sacudindo a lata com mármore dentro",
+         "id": 22874,
+         "categories": [
+            "desenho animado"
+         ]
+      },
+      {
+         "x": false,
+         "name": "beijo longo de desenho animado",
+         "short": "beijo longo de desenho animado",
+         "id": 22388,
+         "categories": [
+            "desenho animado",
+            "humano"
+         ]
+      },
+      {
+         "x": false,
+         "name": "risada malvada dos desenhos animados",
+         "short": "risada maligna dos desenhos animados",
+         "id": 22389,
+         "categories": [
+            "desenho animado",
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "respiração ofegante",
+         "short": "respiração ofegante",
+         "id": 22681,
+         "categories": [
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "risada insana de desenho animado",
+         "short": "risada insana de desenho animado",
+         "id": 22390,
+         "categories": [
+            "desenho animado",
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "alguns aplausos",
+         "short": "alguns aplausos",
+         "id": 22252,
+         "categories": [
+            "multidão"
+         ]
+      },
+      {
+         "x": false,
+         "name": "platéia rir / bater palmas",
+         "short": "platéia rir / bater palmas",
+         "id": 22255,
+         "categories": [
+            "multidão"
+         ]
+      },
+      {
+         "x": false,
+         "name": "vaias da audiência",
+         "short": "vaias da audiência",
+         "id": 22257,
+         "categories": [
+            "multidão"
+         ]
+      },
+      {
+         "x": false,
+         "name": "batida de bigorna de desenho animado",
+         "short": "batida de bigorna de desenho animado",
+         "id": 22359,
+         "categories": [
+            "desenho animado"
+         ]
+      },
+      {
+         "x": false,
+         "name": "cartoon boing",
+         "short": "cartoon boing",
+         "id": 22360,
+         "categories": [
+            "desenho animado"
+         ]
+      },
+      {
+         "x": false,
+         "name": "sotaque de desenho animado",
+         "short": "sotaque de desenho animado",
+         "id": 22361,
+         "categories": [
+            "desenho animado"
+         ]
+      },
+      {
+         "x": false,
+         "name": "desenho animado boing / wobble",
+         "short": "desenho animado boing / wobble",
+         "id": 22364,
+         "categories": [
+            "desenho animado"
+         ]
+      },
+      {
+         "x": false,
+         "name": "desenho pesado bonk",
+         "short": "desenho pesado bonk",
+         "id": 22365,
+         "categories": [
+            "desenho animado"
+         ]
+      },
+      {
+         "x": false,
+         "name": "voz zangada no telefone",
+         "short": "voz zangada no telefone",
+         "id": 22366,
+         "categories": [
+            "desenho animado",
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "cartoon saltando",
+         "short": "cartoon saltando",
+         "id": 22367,
+         "categories": [
+            "desenho animado"
+         ]
+      },
+      {
+         "x": false,
+         "name": "desenho de faca com chiado",
+         "short": "desenho de faca com chiado",
+         "id": 22422,
+         "categories": [
+            "desenho animado"
+         ]
+      },
+      {
+         "x": false,
+         "name": "clarim de corrida de cavalos",
+         "short": "clarim de corrida de cavalos",
+         "id": 22336,
+         "categories": [
+            "Música"
+         ]
+      },
+      {
+         "x": false,
+         "name": "desenho de framboesa longo",
+         "short": "desenho de framboesa longo",
+         "id": 22401,
+         "categories": [
+            "funções corporais",
+            "desenho animado"
+         ]
+      },
+      {
+         "x": false,
+         "name": "arco e flecha de desenho animado",
+         "short": "arco e flecha de desenho animado",
+         "id": 22368,
+         "categories": [
+            "desenho animado"
+         ]
+      },
+      {
+         "x": false,
+         "name": "desenho animado batendo os dentes",
+         "short": "desenho animado batendo os dentes",
+         "id": 22369,
+         "categories": [
+            "desenho animado"
+         ]
+      },
+      {
+         "x": false,
+         "name": "cartoon chomp",
+         "short": "cartoon chomp",
+         "id": 22370,
+         "categories": [
+            "desenho animado"
+         ]
+      },
+      {
+         "x": false,
+         "name": "riso louco de desenho animado",
+         "short": "riso louco de desenho animado",
+         "id": 22391,
+         "categories": [
+            "desenho animado",
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "muitos cachorrinhos latindo",
+         "short": "muitos cachorrinhos latindo",
+         "id": 22514,
+         "categories": [
+            "Animal"
+         ]
+      },
+      {
+         "x": false,
+         "name": "computador retro dos desenhos animados",
+         "short": "computador retro dos desenhos animados",
+         "id": 22371,
+         "categories": [
+            "desenho animado",
+            "eletrônico / máquina"
+         ]
+      },
+      {
+         "x": false,
+         "name": "grilos cantando",
+         "short": "grilos cantando",
+         "id": 22480,
+         "categories": [
+            "Animal"
+         ]
+      },
+      {
+         "x": false,
+         "name": "computador retro louco",
+         "short": "computador retro louco",
+         "id": 22372,
+         "categories": [
+            "desenho animado",
+            "eletrônico / máquina"
+         ]
+      },
+      {
+         "x": true,
+         "name": "bala ricocheteia",
+         "short": "bala ricocheteia",
+         "id": 22339,
+         "categories": [
+            "violência"
+         ]
+      },
+      {
+         "x": false,
+         "name": "buzina de engarrafamento",
+         "short": "buzina de engarrafamento",
+         "id": 22258,
+         "categories": [
+            "veículo"
+         ]
+      },
+      {
+         "x": false,
+         "name": "derrapagem do carro",
+         "short": "derrapagem do carro",
+         "id": 22262,
+         "categories": [
+            "veículo"
+         ]
+      },
+      {
+         "x": false,
+         "name": "Clarim de “acordar”",
+         "short": "Clarim de “acordar”",
+         "id": 22338,
+         "categories": [
+            "Música"
+         ]
+      },
+      {
+         "x": false,
+         "name": "socos de boxe speed bag",
+         "short": "socos de boxe speed bag",
+         "id": 22325,
+         "categories": [
+            "Esportes"
+         ]
+      },
+      {
+         "x": false,
+         "name": "clarim “Charge!”",
+         "short": "clarim “Charge!”",
+         "id": 22333,
+         "categories": [
+            "Música"
+         ]
+      },
+      {
+         "x": false,
+         "name": "carro em alta velocidade por",
+         "short": "carro em alta velocidade por",
+         "id": 22263,
+         "categories": [
+            "veículo"
+         ]
+      },
+      {
+         "x": false,
+         "name": "peido do vaso sanitário (pincher duplo)",
+         "short": "peido do vaso sanitário (pincher duplo)",
+         "id": 25706,
+         "categories": [
+            "funções corporais"
+         ]
+      },
+      {
+         "x": false,
+         "name": "gosma borbulhante",
+         "short": "gosma borbulhante",
+         "id": 22332,
+         "categories": [
+            "líquido"
+         ]
+      },
+      {
+         "x": false,
+         "name": "escovar os dentes e cuspir",
+         "short": "escovar os dentes e cuspir",
+         "id": 22331,
+         "categories": [
+            "funções corporais"
+         ]
+      },
+      {
+         "x": false,
+         "name": "\"Você não está me ouvindo!\" (fêmea)",
+         "short": "\"Você não está me ouvindo!\"",
+         "id": 25701,
+         "categories": [
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "chamada de falcão",
+         "short": "chamada de falcão",
+         "id": 22312,
+         "categories": [
+            "Animal"
+         ]
+      },
+      {
+         "x": false,
+         "name": "\"Olá? Tem alguém aí?\" (fêmea)",
+         "short": "\"Olá? Tem alguém aí?\"",
+         "id": 25710,
+         "categories": [
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "\"O que você está esperando?!\" (macho)",
+         "short": "\"O que você está esperando?!\"",
+         "id": 25711,
+         "categories": [
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "\"Aqui, gatinho, gatinho.\" (macho)",
+         "short": "\"Aqui, gatinho, gatinho.\"",
+         "id": 25702,
+         "categories": [
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "fantasma assustador",
+         "short": "fantasma assustador",
+         "id": 25714,
+         "categories": [
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "pequena quebra de cerâmica",
+         "short": "pequena quebra de cerâmica",
+         "id": 22328,
+         "categories": [
+            "violência"
+         ]
+      },
+      {
+         "x": false,
+         "name": "desenho animado cair no balde",
+         "short": "desenho animado cair no balde",
+         "id": 25715,
+         "categories": [
+            "desenho animado"
+         ]
+      },
+      {
+         "x": false,
+         "name": "ataque de pinos de boliche",
+         "short": "ataque de pinos de boliche",
+         "id": 22324,
+         "categories": [
+            "Esportes"
+         ]
+      },
+      {
+         "x": false,
+         "name": "carro que não pega",
+         "short": "carro que não pega",
+         "id": 22266,
+         "categories": [
+            "veículo"
+         ]
+      },
+      {
+         "x": false,
+         "name": "gaita de foles fora do tom",
+         "short": "gaita de foles fora do tom",
+         "id": 22271,
+         "categories": [
+            "Música"
+         ]
+      },
+      {
+         "x": false,
+         "name": "carro de corrida passando",
+         "short": "carro de corrida passando",
+         "id": 22351,
+         "categories": [
+            "Esportes",
+            "veículo"
+         ]
+      },
+      {
+         "x": false,
+         "name": "desenho animado batida na cabeça de metal",
+         "short": "desenho animado batida na cabeça de metal",
+         "id": 22321,
+         "categories": [
+            "desenho animado"
+         ]
+      },
+      {
+         "x": false,
+         "name": "velocidade, derrapagem e colisão do carro",
+         "short": "velocidade, derrapagem e colisão do carro",
+         "id": 22350,
+         "categories": [
+            "veículo"
+         ]
+      },
+      {
+         "x": false,
+         "name": "campainha do game show \"errada\"",
+         "short": "campainha do game show \"errada\"",
+         "id": 22345,
+         "categories": [
+            "alarme"
+         ]
+      },
+      {
+         "x": false,
+         "name": "grito de falcão",
+         "short": "grito de falcão",
+         "id": 22306,
+         "categories": [
+            "Animal"
+         ]
+      },
+      {
+         "x": false,
+         "name": "sino de bicicleta",
+         "short": "sino de bicicleta",
+         "id": 22287,
+         "categories": [
+            "alarme",
+            "doméstico"
+         ]
+      },
+      {
+         "x": false,
+         "name": "bebê chorão",
+         "short": "bebê chorão",
+         "id": 22267,
+         "categories": [
+            "voz"
+         ]
+      },
+      {
+         "x": false,
+         "name": "campainha da porta",
+         "short": "campainha da porta",
+         "id": 22343,
+         "categories": [
+            "alarme"
+         ]
+      },
+      {
+         "x": false,
+         "name": "assobiando explosão de queda de bomba",
+         "short": "assobiando explosão de queda de bomba",
+         "id": 22317,
+         "categories": [
+            "explosão",
+            "violência"
+         ]
+      },
+      {
+         "x": false,
+         "name": "canto de pássaro",
+         "short": "canto de pássaro",
+         "id": 22307,
+         "categories": [
+            "Animal"
+         ]
+      },
+      {
+         "x": false,
+         "name": "boing (desenho animado)",
+         "short": "boing (desenho animado)",
+         "id": 22316,
+         "categories": [
+            "desenho animado"
+         ]
+      },
+      {
+         "x": false,
+         "name": "boingy bounces",
+         "short": "boingy bounces",
+         "id": 22315,
+         "categories": [
+            "desenho animado"
+         ]
+      },
+      {
+         "x": false,
+         "name": "gorjeios de canário",
+         "short": "gorjeios de canário",
+         "id": 22304,
+         "categories": [
+            "Animal",
+            "desenho animado"
+         ]
+      },
+      {
+         "x": false,
+         "name": "salto biônico em câmera lenta",
+         "short": "salto biônico em câmera lenta",
+         "id": 22302,
+         "categories": [
+            "desenho animado"
+         ]
+      },
+      {
+         "x": false,
+         "name": "balão esticado / pop",
+         "short": "balão esticado / pop",
+         "id": 22272,
+         "categories": [
+            "desenho animado"
+         ]
+      },
+      {
+         "x": false,
+         "name": "lâminas raspando juntas",
+         "short": "lâminas raspando juntas",
+         "id": 22313,
+         "categories": [
+            "violência"
+         ]
+      },
+      {
+         "x": false,
+         "name": "arroto curto",
+         "short": "arroto curto",
+         "id": 22286,
+         "categories": [
+            "funções corporais"
+         ]
+      },
+      {
+         "x": false,
+         "name": "balão esvaziar",
+         "short": "balão esvaziar",
+         "id": 22276,
+         "categories": [
+            "desenho animado"
+         ]
+      },
+      {
+         "x": false,
+         "name": "glockenspiel gliss up",
+         "short": "glockenspiel gliss up",
+         "id": 22298,
+         "categories": [
+            "Música"
+         ]
+      },
+      {
+         "x": false,
+         "name": "arroto longo molhado",
+         "short": "arroto longo molhado",
+         "id": 22285,
+         "categories": [
+            "funções corporais"
+         ]
+      },
+      {
+         "x": false,
+         "name": "música de banjo terminando",
+         "short": "música de banjo terminando",
+         "id": 22280,
+         "categories": [
+            "Música"
+         ]
+      },
+      {
+         "x": false,
+         "name": "cama que range",
+         "short": "cama que range",
+         "id": 22283,
+         "categories": [
+            "doméstico",
+            "sexual"
+         ]
+      }
+   ]
+}

@@ -1,26 +1,28 @@
 {
-    "content":[
+    "content": [
         {
-            "id":"Robot",
-            "frame":"Monster17",
-            "name":"Robot",
-            "role":"Bot",
-            
+            "id": "Robô",
+            "frame": "Monster17",
+            "name": "Robô",
+            "role": "Robô",
             "shortDescription": "",
-            "description":"ROBOT: Randomly dates 1 of the players that messages and tries to date it each night.</br>At end of game, if Robot is in last place, it fails to understand human emotions and destroys everyone. (Everyone loses)</br>Robot gains a heart for EVERY player that even tries to date it each night.</br>BUT… it also loses a heart at the end of each night.",
-            "selfDescription":"",
-            "powerpopup": {"single": "Asked out by one player.",
-                           "multiple": "Asked out by [Number] players.",
-                           "decay": "Robot loses 1 heart each night",
-                           "destroy": "Robot destroys everyone!"},
-            "epitaph": { "nobody": "Wasn't asked out, not even once.",
-                         "singular": "Asked out once.",
-                         "plural": "Asked out [Number] times.",
-                         "destroyer": "<br />And regrets destroying humanity.",
-                         "winner": "<br />And somehow won!",
-                         "loser": "<br />And didn’t come in last (thankfully)." },
-
-            "behaviorClass":"jackboxgames.monstermingle.monsterbehavior.Robot"
+            "description": "ROBÔ: Encontra aleatoriamente 1 dos jogadores que enviaram mensagens e tenta namorar todas as noites.</br>No final do jogo, se o Robô estiver em último lugar, ele não consegue entender as emoções humanas e destrói a todos. (Todos perdem)</br>Robô ganha um coração para CADA jogador que tentar namorar a cada noite.</br>MAS… também perde um coração no final de cada noite.",
+            "selfDescription": "",
+            "powerpopup": {
+                "single": "Questionado por um jogador.",
+                "multiple": "Questionado por [Number] jogadores.",
+                "decay": "O robô perde 1 coração a cada noite",
+                "destroy": "O robô destrói todos!"
+            },
+            "epitaph": {
+                "nobody": "Não foi convidado para sair, nem mesmo uma vez.",
+                "singular": "Perguntado uma vez.",
+                "plural": "Perguntado [Number] vezes.",
+                "destroyer": "<br />E lamenta destruir a humanidade.",
+                "winner": "<br />E de alguma forma venceu!",
+                "loser": "<br />E não entrou por último (felizmente)."
+            },
+            "behaviorClass": "jackboxgames.monstermingle.monsterbehavior.Robot"
         }
     ]
 }

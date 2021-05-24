@@ -1,5 +1,5 @@
 {
-    "content":[
+    "content": [
         {
             "id": "SS_TutorialChallenge000",
             "difficulty": 0,
@@ -21,612 +21,602 @@
         {
             "id": "SS_Challenge000",
             "difficulty": 1,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
         },
         {
             "id": "SS_Challenge001",
             "difficulty": 0,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
         },
         {
             "id": "SS_Challenge002",
             "difficulty": 0,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
         },
         {
             "id": "SS_Challenge003",
             "difficulty": 1,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
         },
         {
             "id": "SS_Challenge004",
             "difficulty": 1,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
         },
         {
             "id": "SS_Challenge005",
             "difficulty": 1,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
         },
         {
             "id": "SS_Challenge006",
             "difficulty": 1,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
         },
         {
             "id": "SS_Challenge007",
             "difficulty": 1,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
-        },        
-        
+        },
         {
             "id": "SS_Challenge008",
             "difficulty": 0,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
         },
         {
             "id": "SS_Challenge009",
             "difficulty": 0,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
         },
         {
             "id": "SS_Challenge010",
             "difficulty": 1,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
         },
         {
             "id": "SS_Challenge011",
             "difficulty": 0,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
         },
         {
             "id": "SS_Challenge012",
             "difficulty": 0,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
         },
         {
             "id": "SS_Challenge013",
             "difficulty": 0,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
         },
-        
         {
             "id": "SS_Challenge014",
             "difficulty": 1,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
-        },      
-        
+        },
         {
             "id": "SS_Challenge015",
             "difficulty": 0,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
-        },        
+        },
         {
             "id": "SS_Challenge016",
             "difficulty": 1,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
-        },        
+        },
         {
             "id": "SS_Challenge017",
             "difficulty": 1,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
-        },        
+        },
         {
             "id": "SS_Challenge018",
             "difficulty": 1,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
         },
         {
             "id": "SS_Challenge019",
             "difficulty": 1,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
         },
         {
             "id": "SS_Challenge020",
             "difficulty": 2,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
-        },        
-        
+        },
         {
             "id": "SS_Challenge021",
             "difficulty": 2,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
-        },  
+        },
         {
             "id": "SS_Challenge022",
             "difficulty": 2,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
         },
         {
             "id": "SS_Challenge023",
             "difficulty": 3,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
         },
-        
         {
             "id": "SS_Challenge024",
             "difficulty": 2,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
-        },        
+        },
         {
             "id": "SS_Challenge025",
             "difficulty": 4,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
         },
         {
             "id": "SS_Challenge026",
             "difficulty": 4,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
         },
         {
             "id": "SS_Challenge027",
             "difficulty": 4,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
         },
         {
             "id": "SS_Challenge028",
             "difficulty": 4,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
         },
         {
             "id": "SS_Challenge029",
             "difficulty": 4,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
         },
         {
             "id": "SS_Challenge030",
             "difficulty": 3,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
         },
         {
             "id": "SS_Challenge031",
             "difficulty": 3,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
         },
         {
             "id": "SS_Challenge032",
             "difficulty": 3,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
         },
         {
             "id": "SS_Challenge033",
             "difficulty": 3,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
         },
         {
             "id": "SS_Challenge034",
             "difficulty": 3,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
         },
         {
             "id": "SS_Challenge035",
             "difficulty": 3,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
         },
         {
             "id": "SS_Challenge036",
             "difficulty": 4,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
         },
         {
             "id": "SS_Challenge037",
             "difficulty": 3,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
-        },        
-        
+        },
         {
             "id": "SS_Challenge038",
             "difficulty": 4,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
         },
         {
             "id": "SS_Challenge039",
             "difficulty": 4,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
         },
         {
             "id": "SS_Challenge040",
             "difficulty": 3,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
         },
         {
             "id": "SS_Challenge041",
             "difficulty": 3,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
-        },        
+        },
         {
             "id": "SS_Challenge042",
             "difficulty": 4,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
         },
-        
         {
             "id": "SS_Challenge043",
             "difficulty": 3,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
-        },        
-        
+        },
         {
             "id": "SS_Challenge044",
             "difficulty": 4,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
         },
-        
         {
             "id": "SS_Challenge045",
             "difficulty": 3,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
         },
         {
             "id": "SS_Challenge046",
             "difficulty": 4,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
-        },        
-        
+        },
         {
             "id": "SS_Challenge047",
             "difficulty": 4,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
         },
         {
             "id": "SS_Challenge048",
             "difficulty": 4,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
         },
         {
             "id": "SS_Challenge049",
             "difficulty": 4,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
         },
         {
             "id": "SS_Challenge050",
             "difficulty": 1,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
         },
         {
             "id": "SS_Challenge051",
             "difficulty": 2,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
         },
         {
             "id": "SS_Challenge052",
             "difficulty": 1,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
         },
         {
             "id": "SS_Challenge053",
             "difficulty": 1,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
         },
         {
             "id": "SS_Challenge054",
             "difficulty": 3,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
         },
         {
             "id": "SS_Challenge055",
             "difficulty": 2,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
         },
         {
             "id": "SS_Challenge056",
             "difficulty": 3,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
         },
         {
             "id": "SS_Challenge057",
             "difficulty": 2,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
         },
         {
             "id": "SS_Challenge058",
             "difficulty": 2,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
         },
         {
             "id": "SS_Challenge059",
             "difficulty": 0,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
         },
         {
             "id": "SS_Challenge060",
             "difficulty": 1,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
         },
         {
             "id": "SS_Challenge061",
             "difficulty": 0,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
         },
         {
             "id": "SS_Challenge062",
             "difficulty": 1,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
         },
         {
             "id": "SS_Challenge063",
             "difficulty": 1,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
         },
         {
             "id": "SS_Challenge064",
             "difficulty": 0,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
         },
         {
             "id": "SS_Challenge065",
             "difficulty": 2,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
         },
         {
             "id": "SS_Challenge066",
             "difficulty": 2,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
         },
         {
             "id": "SS_Challenge067",
             "difficulty": 2,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
         },
         {
             "id": "SS_Challenge068",
             "difficulty": 2,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
         },
         {
             "id": "SS_Challenge069",
             "difficulty": 2,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
         },
         {
             "id": "SS_Challenge070",
             "difficulty": 2,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
         },
         {
             "id": "SS_Challenge071",
             "difficulty": 2,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
         },
         {
             "id": "SS_Challenge072",
             "difficulty": 2,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
         },
         {
             "id": "SS_Challenge073",
             "difficulty": 2,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
         },
         {
             "id": "SS_Challenge074",
             "difficulty": 2,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
         },
         {
             "id": "SS_Challenge075",
             "difficulty": 3,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
         },
         {
             "id": "SS_Challenge076",
             "difficulty": 3,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
         },
         {
             "id": "SS_Challenge077",
             "difficulty": 3,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
         },
         {
             "id": "SS_Challenge078",
             "difficulty": 3,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
         },
         {
             "id": "SS_Challenge079",
             "difficulty": 3,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
         },
         {
             "id": "SS_Challenge080",
             "difficulty": 3,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
         },
         {
             "id": "SS_Challenge081",
             "difficulty": 3,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
         },
         {
             "id": "SS_Challenge082",
             "difficulty": 3,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
         },
         {
             "id": "SS_Challenge083",
             "difficulty": 3,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
         },
         {
             "id": "SS_Challenge084",
             "difficulty": 3,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
         },
         {
             "id": "SS_Challenge085",
             "difficulty": 4,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
         },
         {
             "id": "SS_Challenge086",
             "difficulty": 4,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
         },
         {
             "id": "SS_Challenge087",
             "difficulty": 4,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
         },
         {
             "id": "SS_Challenge088",
             "difficulty": 4,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
         },
         {
             "id": "SS_Challenge089",
             "difficulty": 4,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
         },
         {
             "id": "SS_Challenge090",
             "difficulty": 4,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
         },
         {
             "id": "SS_Challenge091",
             "difficulty": 4,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
         },
         {
             "id": "SS_Challenge092",
             "difficulty": 4,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
         },
         {
             "id": "SS_Challenge093",
             "difficulty": 4,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
         },
         {
             "id": "SS_Challenge094",
             "difficulty": 4,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
         },
         {
             "id": "SS_Challenge095",
             "difficulty": 4,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
         },
         {
             "id": "SS_Challenge096",
             "difficulty": 4,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
         },
         {
             "id": "SS_Challenge097",
             "difficulty": 4,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
         },
         {
             "id": "SS_Challenge098",
             "difficulty": 4,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
         },
         {
             "id": "SS_Challenge099",
             "difficulty": 4,
-            "type": "wave",
+            "type": "aceno",
             "behaviorClass": "jackboxgames.slingshoot.model.challenge.WaveChallenge"
-        }        
+        }
     ]
 }

@@ -2,905 +2,1950 @@
     "payload": {
         "locations": [
             {
-                "id": "WO",
+                "id": "OS",
                 "connections": {
-                    "N" : { "to": "WM", "distance": 48.63 },
-                    "E" : { "to": "AK", "distance": 74.49 },
-                    "W" : { "to": "WN", "distance": 73.9 }
+                    "N": {
+                        "to": "WM",
+                        "distance": "48,63"
+                    },
+                    "E": {
+                        "to": "AK",
+                        "distance": "74,49"
+                    },
+                    "W": {
+                        "to": "WN",
+                        "distance": "73,9"
+                    }
                 }
-            }
-            , {
+            },
+            {
                 "id": "WN",
                 "connections": {
-                    "N" : { "to": "WL", "distance": 48.77 },
-                    "E" : { "to": "WO", "distance": 73.9 }
+                    "N": {
+                        "to": "WL",
+                        "distance": "48,77"
+                    },
+                    "E": {
+                        "to": "OS",
+                        "distance": "73,9"
+                    }
                 }
-            }
-            , {
+            },
+            {
                 "id": "WM",
                 "connections": {
-                    "S" : { "to": "WO", "distance": 48.63 },
-                    "N" : { "to": "WJ", "distance": 48.48 },
-                    "W" : { "to": "WL", "distance": 73.88 },
-                    "E" : { "to": "AJ", "distance": 74.5 }
+                    "S": {
+                        "to": "OS",
+                        "distance": "48,63"
+                    },
+                    "N": {
+                        "to": "WJ",
+                        "distance": "48,48"
+                    },
+                    "W": {
+                        "to": "WL",
+                        "distance": "73,88"
+                    },
+                    "E": {
+                        "to": "AJ",
+                        "distance": "74,5"
+                    }
                 }
-            }
-            , {
+            },
+            {
                 "id": "WL",
                 "connections": {
-                    "S" : { "to": "WN", "distance": 48.77 },
-                    "N" : { "to": "WI", "distance": 48.49 },
-                    "W" : { "to": "WK", "distance": 81.25 },
-                    "E" : { "to": "WM", "distance": 73.88 }
+                    "S": {
+                        "to": "WN",
+                        "distance": "48,77"
+                    },
+                    "N": {
+                        "to": "WI",
+                        "distance": "48,49"
+                    },
+                    "W": {
+                        "to": "WK",
+                        "distance": "81,25"
+                    },
+                    "E": {
+                        "to": "WM",
+                        "distance": "73,88"
+                    }
                 }
-            }
-            , {
+            },
+            {
                 "id": "WK",
                 "connections": {
-                    "N" : { "to": "WH", "distance": 49.12 },
-                    "E" : { "to": "WL", "distance": 81.25 }
+                    "N": {
+                        "to": "WH",
+                        "distance": "49,12"
+                    },
+                    "E": {
+                        "to": "WL",
+                        "distance": "81,25"
+                    }
                 }
-            }
-            , {
+            },
+            {
                 "id": "WH",
                 "connections": {
-                    "S" : { "to": "WK", "distance": 49.12 },
-                    "E" : { "to": "WI", "distance": 90.51 }
+                    "S": {
+                        "to": "WK",
+                        "distance": "49,12"
+                    },
+                    "E": {
+                        "to": "WI",
+                        "distance": "90,51"
+                    }
                 }
-            }
-            , {
+            },
+            {
                 "id": "WJ",
                 "connections": {
-                    "S" : { "to": "WM", "distance": 48.48 },
-                    "N" : { "to": "WG", "distance": 48.48 },
-                    "W" : { "to": "WI", "distance": 73.87 }
+                    "S": {
+                        "to": "WM",
+                        "distance": "48,48"
+                    },
+                    "N": {
+                        "to": "WG",
+                        "distance": "48,48"
+                    },
+                    "W": {
+                        "to": "WI",
+                        "distance": "73,87"
+                    }
                 }
-            }
-            , {
+            },
+            {
                 "id": "WI",
                 "connections": {
-                    "N" : { "to": "WF", "distance": 48.48 },
-                    "S" : { "to": "WL", "distance": 48.49 },
-                    "E" : { "to": "WJ", "distance": 73.87 },
-                    "W" : { "to": "WH", "distance": 90.51 }
+                    "N": {
+                        "to": "WF",
+                        "distance": "48,48"
+                    },
+                    "S": {
+                        "to": "WL",
+                        "distance": "48,49"
+                    },
+                    "E": {
+                        "to": "WJ",
+                        "distance": "73,87"
+                    },
+                    "W": {
+                        "to": "WH",
+                        "distance": "90,51"
+                    }
                 }
-            }
-            , {
+            },
+            {
                 "id": "WG",
                 "connections": {
-                    "S" : { "to": "WJ", "distance": 48.48 },
-                    "N" : { "to": "WE", "distance": 51.99 },
-                    "W" : { "to": "WF", "distance": 73.97 },
-                    "E" : { "to": "AH", "distance": 74.51 }
+                    "S": {
+                        "to": "WJ",
+                        "distance": "48,48"
+                    },
+                    "N": {
+                        "to": "NÓS",
+                        "distance": "51,99"
+                    },
+                    "W": {
+                        "to": "WF",
+                        "distance": "73,97"
+                    },
+                    "E": {
+                        "to": "AH",
+                        "distance": "74,51"
+                    }
                 }
-            }
-            , {
+            },
+            {
                 "id": "WF",
                 "connections": {
-                    "S" : { "to": "WI", "distance": 48.48 },
-                    "N" : { "to": "WD", "distance": 60.1 },
-                    "E" : { "to": "WG", "distance": 73.97 }
+                    "S": {
+                        "to": "WI",
+                        "distance": "48,48"
+                    },
+                    "N": {
+                        "to": "WD",
+                        "distance": "60,1"
+                    },
+                    "E": {
+                        "to": "WG",
+                        "distance": "73,97"
+                    }
                 }
-            }
-            , {
-                "id": "WE",
+            },
+            {
+                "id": "NÓS",
                 "connections": {
-                    "S" : { "to": "WG", "distance": 51.99 },
-                    "N" : { "to": "WB", "distance": 70.79 },
-                    "W" : { "to": "WD", "distance": 74.14 }
+                    "S": {
+                        "to": "WG",
+                        "distance": "51,99"
+                    },
+                    "N": {
+                        "to": "WB",
+                        "distance": "70,79"
+                    },
+                    "W": {
+                        "to": "WD",
+                        "distance": "74,14"
+                    }
                 }
-            }
-            , {
+            },
+            {
                 "id": "WD",
                 "connections": {
-                    "S" : { "to": "WF", "distance": 60.1 },
-                    "N" : { "to": "WA", "distance": 125.01 },
-                    "E" : { "to": "WE", "distance": 74.14 }
+                    "S": {
+                        "to": "WF",
+                        "distance": "60,1"
+                    },
+                    "N": {
+                        "to": "WA",
+                        "distance": "125,01"
+                    },
+                    "E": {
+                        "to": "NÓS",
+                        "distance": "74,14"
+                    }
                 }
-            }
-            , {
+            },
+            {
                 "id": "WB",
                 "connections": {
-                    "S" : { "to": "WE", "distance": 70.79 },
-                    "E" : { "to": "AF", "distance": 68.1 },
-                    "W" : { "to": "WA", "distance": 93.53 }
+                    "S": {
+                        "to": "NÓS",
+                        "distance": "70,79"
+                    },
+                    "E": {
+                        "to": "AF",
+                        "distance": "68,1"
+                    },
+                    "W": {
+                        "to": "WA",
+                        "distance": "93,53"
+                    }
                 }
-            }
-            , {
+            },
+            {
                 "id": "WA",
                 "connections": {
-                    "S" : { "to": "WD", "distance": 125.01 },
-                    "E" : { "to": "WB", "distance": 93.53 }
+                    "S": {
+                        "to": "WD",
+                        "distance": "125,01"
+                    },
+                    "E": {
+                        "to": "WB",
+                        "distance": "93,53"
+                    }
                 }
-            }
-            , {
+            },
+            {
                 "id": "EY",
                 "connections": {
-                    "N" : { "to": "EV", "distance": 47.17 },
-                    "E" : { "to": "BL", "distance": 68.71 },
-                    "W" : { "to": "EX", "distance": 61.76 }
+                    "N": {
+                        "to": "EV",
+                        "distance": "47,17"
+                    },
+                    "E": {
+                        "to": "BL",
+                        "distance": "68,71"
+                    },
+                    "W": {
+                        "to": "EX",
+                        "distance": "61,76"
+                    }
                 }
-            }
-            , {
+            },
+            {
                 "id": "EX",
                 "connections": {
-                    "W" : { "to": "EW", "distance": 73.32 },
-                    "N" : { "to": "EU", "distance": 48.11 },
-                    "E" : { "to": "EY", "distance": 61.76 }
+                    "W": {
+                        "to": "ai credo",
+                        "distance": "73,32"
+                    },
+                    "N": {
+                        "to": "eu",
+                        "distance": "48,11"
+                    },
+                    "E": {
+                        "to": "EY",
+                        "distance": "61,76"
+                    }
                 }
-            }
-            , {
-                "id": "EW",
+            },
+            {
+                "id": "ai credo",
                 "connections": {
-                    "E" : { "to": "EX", "distance": 73.32 },
-                    "N" : { "to": "ET", "distance": 48.34 }
+                    "E": {
+                        "to": "EX",
+                        "distance": "73,32"
+                    },
+                    "N": {
+                        "to": "ET",
+                        "distance": "48,34"
+                    }
                 }
-            }
-            , {
+            },
+            {
                 "id": "EV",
                 "connections": {
-                    "N" : { "to": "EQ", "distance": 47.01 },
-                    "S" : { "to": "EY", "distance": 47.17 },
-                    "W" : { "to": "EU", "distance": 68.45 }
+                    "N": {
+                        "to": "EQ",
+                        "distance": "47,01"
+                    },
+                    "S": {
+                        "to": "EY",
+                        "distance": "47,17"
+                    },
+                    "W": {
+                        "to": "eu",
+                        "distance": "68,45"
+                    }
                 }
-            }
-            , {
-                "id": "EU",
+            },
+            {
+                "id": "eu",
                 "connections": {
-                    "E" : { "to": "EV", "distance": 68.45 },
-                    "W" : { "to": "ET", "distance": 73.53 },
-                    "N" : { "to": "EP", "distance": 48.26 },
-                    "S" : { "to": "EX", "distance": 48.11 }
+                    "E": {
+                        "to": "EV",
+                        "distance": "68,45"
+                    },
+                    "W": {
+                        "to": "ET",
+                        "distance": "73,53"
+                    },
+                    "N": {
+                        "to": "EP",
+                        "distance": "48,26"
+                    },
+                    "S": {
+                        "to": "EX",
+                        "distance": "48,11"
+                    }
                 }
-            }
-            , {
+            },
+            {
                 "id": "ET",
                 "connections": {
-                    "E" : { "to": "EU", "distance": 73.53 },
-                    "W" : { "to": "ES", "distance": 74.92 },
-                    "S" : { "to": "EW", "distance": 48.34 },
-                    "N" : { "to": "EO", "distance": 48.33 }
+                    "E": {
+                        "to": "eu",
+                        "distance": "73,53"
+                    },
+                    "W": {
+                        "to": "ES",
+                        "distance": "74,92"
+                    },
+                    "S": {
+                        "to": "ai credo",
+                        "distance": "48,34"
+                    },
+                    "N": {
+                        "to": "EO",
+                        "distance": "48,33"
+                    }
                 }
-            }
-            , {
+            },
+            {
                 "id": "ES",
                 "connections": {
-                    "E" : { "to": "ET", "distance": 74.92 },
-                    "W" : { "to": "ER", "distance": 74.09 },
-                    "N" : { "to": "EN", "distance": 48.44 }
+                    "E": {
+                        "to": "ET",
+                        "distance": "74,92"
+                    },
+                    "W": {
+                        "to": "ER",
+                        "distance": "74,09"
+                    },
+                    "N": {
+                        "to": "EN",
+                        "distance": "48,44"
+                    }
                 }
-            }
-            , {
+            },
+            {
                 "id": "ER",
                 "connections": {
-                    "E" : { "to": "ES", "distance": 74.09 },
-                    "W" : { "to": "AL", "distance": 74.08 },
-                    "N" : { "to": "EM", "distance": 48.43 }
+                    "E": {
+                        "to": "ES",
+                        "distance": "74,09"
+                    },
+                    "W": {
+                        "to": "AL",
+                        "distance": "74,08"
+                    },
+                    "N": {
+                        "to": "EM",
+                        "distance": "48,43"
+                    }
                 }
-            }
-            , {
+            },
+            {
                 "id": "EQ",
                 "connections": {
-                    "N" : { "to": "EL", "distance": 48 },
-                    "S" : { "to": "EV", "distance": 47.01 },
-                    "E" : { "to": "BJ", "distance": 70.64 },
-                    "W" : { "to": "EP", "distance": 78.36 }
+                    "N": {
+                        "to": "EL",
+                        "distance": 48
+                    },
+                    "S": {
+                        "to": "EV",
+                        "distance": "47,01"
+                    },
+                    "E": {
+                        "to": "BJ",
+                        "distance": "70,64"
+                    },
+                    "W": {
+                        "to": "EP",
+                        "distance": "78,36"
+                    }
                 }
-            }
-            , {
+            },
+            {
                 "id": "EP",
                 "connections": {
-                    "E" : { "to": "EQ", "distance": 78.36 },
-                    "W" : { "to": "EO", "distance": 73.5 },
-                    "N" : { "to": "EK", "distance": 49.02 },
-                    "S" : { "to": "EU", "distance": 48.26 }
+                    "E": {
+                        "to": "EQ",
+                        "distance": "78,36"
+                    },
+                    "W": {
+                        "to": "EO",
+                        "distance": "73,5"
+                    },
+                    "N": {
+                        "to": "EK",
+                        "distance": "49,02"
+                    },
+                    "S": {
+                        "to": "eu",
+                        "distance": "48,26"
+                    }
                 }
-            }
-            , {
+            },
+            {
                 "id": "EO",
                 "connections": {
-                    "E" : { "to": "EP", "distance": 73.5 },
-                    "W" : { "to": "EN", "distance": 74.92 },
-                    "S" : { "to": "ET", "distance": 48.33 },
-                    "N" : { "to": "EJ", "distance": 48.26 }
+                    "E": {
+                        "to": "EP",
+                        "distance": "73,5"
+                    },
+                    "W": {
+                        "to": "EN",
+                        "distance": "74,92"
+                    },
+                    "S": {
+                        "to": "ET",
+                        "distance": "48,33"
+                    },
+                    "N": {
+                        "to": "EJ",
+                        "distance": "48,26"
+                    }
                 }
-            }
-            , {
+            },
+            {
                 "id": "EN",
                 "connections": {
-                    "E" : { "to": "EO", "distance": 74.92 },
-                    "W" : { "to": "EM", "distance": 73.79 },
-                    "S" : { "to": "ES", "distance": 48.44 }
+                    "E": {
+                        "to": "EO",
+                        "distance": "74,92"
+                    },
+                    "W": {
+                        "to": "EM",
+                        "distance": "73,79"
+                    },
+                    "S": {
+                        "to": "ES",
+                        "distance": "48,44"
+                    }
                 }
-            }
-            , {
+            },
+            {
                 "id": "EM",
                 "connections": {
-                    "E" : { "to": "EN", "distance": 73.79 },
-                    "W" : { "to": "AK", "distance": 74.18 },
-                    "S" : { "to": "ER", "distance": 48.43 }
+                    "E": {
+                        "to": "EN",
+                        "distance": "73,79"
+                    },
+                    "W": {
+                        "to": "AK",
+                        "distance": "74,18"
+                    },
+                    "S": {
+                        "to": "ER",
+                        "distance": "48,43"
+                    }
                 }
-            }
-            , {
+            },
+            {
                 "id": "EL",
                 "connections": {
-                    "S" : { "to": "EQ", "distance": 48 },
-                    "N" : { "to": "EI", "distance": 61 },
-                    "W" : { "to": "EK", "distance": 88.5 }
+                    "S": {
+                        "to": "EQ",
+                        "distance": 48
+                    },
+                    "N": {
+                        "to": "EI",
+                        "distance": 61
+                    },
+                    "W": {
+                        "to": "EK",
+                        "distance": "88,5"
+                    }
                 }
-            }
-            , {
+            },
+            {
                 "id": "EK",
                 "connections": {
-                    "W" : { "to": "EJ", "distance": 73.97 },
-                    "N" : { "to": "EG", "distance": 48.26 },
-                    "S" : { "to": "EP", "distance": 49.02 },
-                    "E" : { "to": "EL", "distance": 88.5 }
+                    "W": {
+                        "to": "EJ",
+                        "distance": "73,97"
+                    },
+                    "N": {
+                        "to": "POR EXEMPLO",
+                        "distance": "48,26"
+                    },
+                    "S": {
+                        "to": "EP",
+                        "distance": "49,02"
+                    },
+                    "E": {
+                        "to": "EL",
+                        "distance": "88,5"
+                    }
                 }
-            }
-            , {
+            },
+            {
                 "id": "EJ",
                 "connections": {
-                    "N" : { "to": "EF", "distance": 49.25 },
-                    "E" : { "to": "EK", "distance": 73.97 },
-                    "S" : { "to": "EO", "distance": 48.26 }
+                    "N": {
+                        "to": "EF",
+                        "distance": "49,25"
+                    },
+                    "E": {
+                        "to": "EK",
+                        "distance": "73,97"
+                    },
+                    "S": {
+                        "to": "EO",
+                        "distance": "48,26"
+                    }
                 }
-            }
-            , {
+            },
+            {
                 "id": "EI",
                 "connections": {
-                    "W" : { "to": "EH", "distance": 43.32 },
-                    "S" : { "to": "EL", "distance": 61 },
-                    "E" : { "to": "BH", "distance": 69.34 }
+                    "W": {
+                        "to": "EH",
+                        "distance": "43,32"
+                    },
+                    "S": {
+                        "to": "EL",
+                        "distance": 61
+                    },
+                    "E": {
+                        "to": "BH",
+                        "distance": "69,34"
+                    }
                 }
-            }
-            , {
+            },
+            {
                 "id": "EH",
                 "connections": {
-                    "E" : { "to": "EI", "distance": 43.32 },
-                    "N" : { "to": "EC", "distance": 127.42, "newDirection": "W" },
-                    "W" : { "to": "EG", "distance": 57.66 }
+                    "E": {
+                        "to": "EI",
+                        "distance": "43,32"
+                    },
+                    "N": {
+                        "to": "CE",
+                        "distance": "127,42",
+                        "newDirection": "C"
+                    },
+                    "W": {
+                        "to": "POR EXEMPLO",
+                        "distance": "57,66"
+                    }
                 }
-            }
-            , {
-                "id": "EG",
+            },
+            {
+                "id": "POR EXEMPLO",
                 "connections": {
-                    "E" : { "to": "EH", "distance": 57.66 },
-                    "W" : { "to": "EF", "distance": 74.12 },
-                    "N" : { "to": "EC", "distance": 77.83 },
-                    "S" : { "to": "EK", "distance": 48.26 }
+                    "E": {
+                        "to": "EH",
+                        "distance": "57,66"
+                    },
+                    "W": {
+                        "to": "EF",
+                        "distance": "74,12"
+                    },
+                    "N": {
+                        "to": "CE",
+                        "distance": "77,83"
+                    },
+                    "S": {
+                        "to": "EK",
+                        "distance": "48,26"
+                    }
                 }
-            }
-            , {
+            },
+            {
                 "id": "EF",
                 "connections": {
-                    "E" : { "to": "EG", "distance": 74.12 },
-                    "W" : { "to": "EE", "distance": 73.91 },
-                    "S" : { "to": "EJ", "distance": 49.25 },
-                    "N" : { "to": "EB", "distance": 83.26 }
+                    "E": {
+                        "to": "POR EXEMPLO",
+                        "distance": "74,12"
+                    },
+                    "W": {
+                        "to": "EE",
+                        "distance": "73,91"
+                    },
+                    "S": {
+                        "to": "EJ",
+                        "distance": "49,25"
+                    },
+                    "N": {
+                        "to": "EB",
+                        "distance": "83,26"
+                    }
                 }
-            }
-            , {
+            },
+            {
                 "id": "EE",
                 "connections": {
-                    "S" : { "to": "AJ", "distance": 186.55, "newDirection": "W" },
-                    "N" : { "to": "ED", "distance": 109.7, "newDirection": "W" },
-                    "E" : { "to": "EF", "distance": 73.91 }
+                    "S": {
+                        "to": "AJ",
+                        "distance": "186,55",
+                        "newDirection": "C"
+                    },
+                    "N": {
+                        "to": "ED",
+                        "distance": "109,7",
+                        "newDirection": "C"
+                    },
+                    "E": {
+                        "to": "EF",
+                        "distance": "73,91"
+                    }
                 }
-            }
-            , {
+            },
+            {
                 "id": "ED",
                 "connections": {
-                    "E" : { "to": "EE", "distance": 109.7, "newDirection": "S" },
-                    "W" : { "to": "AH", "distance": 74.19 },
-                    "N" : { "to": "EA", "distance": 89.9 }
+                    "E": {
+                        "to": "EE",
+                        "distance": "109,7",
+                        "newDirection": "S"
+                    },
+                    "W": {
+                        "to": "AH",
+                        "distance": "74,19"
+                    },
+                    "N": {
+                        "to": "EA",
+                        "distance": "89,9"
+                    }
                 }
-            }
-            , {
-                "id": "EC",
+            },
+            {
+                "id": "CE",
                 "connections": {
-                    "E" : { "to": "EH", "distance": 127.42, "newDirection": "S" },
-                    "W" : { "to": "EB", "distance": 74.26 },
-                    "S" : { "to": "EG", "distance": 77.83 }
+                    "E": {
+                        "to": "EH",
+                        "distance": "127,42",
+                        "newDirection": "S"
+                    },
+                    "W": {
+                        "to": "EB",
+                        "distance": "74,26"
+                    },
+                    "S": {
+                        "to": "POR EXEMPLO",
+                        "distance": "77,83"
+                    }
                 }
-            }
-            , {
+            },
+            {
                 "id": "EB",
                 "connections": {
-                    "E" : { "to": "EC", "distance": 74.26 },
-                    "W" : { "to": "EA", "distance": 159.37 },
-                    "S" : { "to": "EF", "distance": 83.26 }
+                    "E": {
+                        "to": "CE",
+                        "distance": "74,26"
+                    },
+                    "W": {
+                        "to": "EA",
+                        "distance": "159,37"
+                    },
+                    "S": {
+                        "to": "EF",
+                        "distance": "83,26"
+                    }
                 }
-            }
-            , {
+            },
+            {
                 "id": "EA",
                 "connections": {
-                    "E" : { "to": "EB", "distance": 159.37 },
-                    "W" : { "to": "AF", "distance": 75.32 },
-                    "N" : { "to": "AE", "distance": 183.01, "newDirection": "W" },
-                    "S" : { "to": "ED", "distance": 89.9 }
+                    "E": {
+                        "to": "EB",
+                        "distance": "159,37"
+                    },
+                    "W": {
+                        "to": "AF",
+                        "distance": "75,32"
+                    },
+                    "N": {
+                        "to": "AE",
+                        "distance": "183,01",
+                        "newDirection": "C"
+                    },
+                    "S": {
+                        "to": "ED",
+                        "distance": "89,9"
+                    }
                 }
-            }
-            , {
+            },
+            {
                 "id": "N3",
                 "connections": {
-                    "E" : { "to": "NZ", "distance": 124.17, "newDirection": "N" }
+                    "E": {
+                        "to": "NZ",
+                        "distance": "124,17",
+                        "newDirection": "N"
+                    }
                 }
-            }
-            , {
+            },
+            {
                 "id": "N2",
                 "connections": {
-                    "N" : { "to": "CA", "distance": 73.28 }
+                    "N": {
+                        "to": "CA",
+                        "distance": "73,28"
+                    }
                 }
-            }
-            , {
+            },
+            {
                 "id": "N1",
                 "connections": {
-                    "N" : { "to": "NV", "distance": 54.71 }
+                    "N": {
+                        "to": "NV",
+                        "distance": "54,71"
+                    }
                 }
-            }
-            , {
+            },
+            {
                 "id": "N0",
                 "connections": {
-                    "E" : { "to": "NW", "distance": 192.79, "newDirection": "N" },
-                    "S" : { "to": "CC", "distance": 90.43 },
-                    "N" : { "to": "NU", "distance": 82.53 },
-                    "W" : { "to": "NZ", "distance": 51.42 }
+                    "E": {
+                        "to": "NO",
+                        "distance": "192,79",
+                        "newDirection": "N"
+                    },
+                    "S": {
+                        "to": "CC",
+                        "distance": "90,43"
+                    },
+                    "N": {
+                        "to": "NU",
+                        "distance": "82,53"
+                    },
+                    "W": {
+                        "to": "NZ",
+                        "distance": "51,42"
+                    }
                 }
-            }
-            , {
+            },
+            {
                 "id": "NZ",
                 "connections": {
-                    "W" : { "to": "NY", "distance": 192.51 },
-                    "E" : { "to": "N0", "distance": 51.42 },
-                    "S" : { "to": "N3", "distance": 124.17, "newDirection": "E" },
-                    "N" : { "to": "NT", "distance": 79.47 }
+                    "W": {
+                        "to": "Nova Iorque",
+                        "distance": "192,51"
+                    },
+                    "E": {
+                        "to": "N0",
+                        "distance": "51,42"
+                    },
+                    "S": {
+                        "to": "N3",
+                        "distance": "124,17",
+                        "newDirection": "E"
+                    },
+                    "N": {
+                        "to": "NT",
+                        "distance": "79,47"
+                    }
                 }
-            }
-            , {
-                "id": "NY",
+            },
+            {
+                "id": "Nova Iorque",
                 "connections": {
-                    "N" : { "to": "NR", "distance": 73.37 },
-                    "S" : { "to": "CB", "distance": 42.02 },
-                    "E" : { "to": "NZ", "distance": 192.51 }
+                    "N": {
+                        "to": "NR",
+                        "distance": "73,37"
+                    },
+                    "S": {
+                        "to": "CB",
+                        "distance": "42,02"
+                    },
+                    "E": {
+                        "to": "NZ",
+                        "distance": "192,51"
+                    }
                 }
-            }
-            , {
+            },
+            {
                 "id": "NX",
                 "connections": {
-                    "N" : { "to": "NQ", "distance": 83.92 }
+                    "N": {
+                        "to": "NQ",
+                        "distance": "83,92"
+                    }
                 }
-            }
-            , {
-                "id": "NW",
-                "connections": {
-                    "N" : { "to": "NP", "distance": 156, "newDirection": "W" },
-                    "S" : { "to": "N0", "distance": 192.79, "newDirection": "W" },
-                    "W" : { "to": "NV", "distance": 56.77 }
-                }
-            }
-            , {
-                "id": "NV",
-                "connections": {
-                    "E" : { "to": "NW", "distance": 56.77 },
-                    "W" : { "to": "NU", "distance": 54.93 },
-                    "S" : { "to": "N1", "distance": 54.71, "newDirection": "N" }
-                }
-            }
-            , {
-                "id": "NU",
-                "connections": {
-                    "N" : { "to": "NP", "distance": 59.45 },
-                    "S" : { "to": "N0", "distance": 82.53 },
-                    "E" : { "to": "NV", "distance": 54.93 },
-                    "W" : { "to": "NT", "distance": 74.02 }
-                }
-            }
-            , {
-                "id": "NT",
-                "connections": {
-                    "S" : { "to": "NZ", "distance": 79.47 },
-                    "E" : { "to": "NU", "distance": 74.02 },
-                    "W" : { "to": "HOME", "distance": 92.12 }
-                }
-            }
-            , {
-                "id": "HOME",
-                "connections": {
-                    "E" : { "to": "NT", "distance": 92.12 },
-                    "W" : { "to": "NR", "distance": 77.16 }
-                }
-            }
-            , {
-                "id": "NR",
-                "connections": {
-                    "S" : { "to": "NY", "distance": 73.37 },
-                    "N" : { "to": "NG", "distance": 122 },
-                    "E" : { "to": "HOME", "distance": 77.16 }
-                }
-            }
-            , {
-                "id": "NQ",
-                "connections": {
-                    "N" : { "to": "NF", "distance": 125.76 },
-                    "E" : { "to": "AC", "distance": 101.74 },
-                    "W" : { "to": "BB", "distance": 70.34 },
-                    "S" : { "to": "NX", "distance": 83.92, "newDirection": "N" }
-                }
-            }
-            , {
-                "id": "NP",
-                "connections": {
-                    "S" : { "to": "NU", "distance": 59.45 },
-                    "E" : { "to": "NW", "distance": 156, "newDirection": "S" },
-                    "N" : { "to": "NJ", "distance": 77.63 },
-                    "W" : { "to": "NO", "distance": 41.48 }
-                }
-            }
-            , {
+            },
+            {
                 "id": "NO",
                 "connections": {
-                    "N" : { "to": "NE", "distance": 177.9, "newDirection": "W" },
-                    "E" : { "to": "NP", "distance": 41.48 },
-                    "W" : { "to": "NN", "distance": 82.42 }
+                    "N": {
+                        "to": "NP",
+                        "distance": 156,
+                        "newDirection": "C"
+                    },
+                    "S": {
+                        "to": "N0",
+                        "distance": "192,79",
+                        "newDirection": "C"
+                    },
+                    "W": {
+                        "to": "NV",
+                        "distance": "56,77"
+                    }
                 }
-            }
-            , {
+            },
+            {
+                "id": "NV",
+                "connections": {
+                    "E": {
+                        "to": "NO",
+                        "distance": "56,77"
+                    },
+                    "W": {
+                        "to": "NU",
+                        "distance": "54,93"
+                    },
+                    "S": {
+                        "to": "N1",
+                        "distance": "54,71",
+                        "newDirection": "N"
+                    }
+                }
+            },
+            {
+                "id": "NU",
+                "connections": {
+                    "N": {
+                        "to": "NP",
+                        "distance": "59,45"
+                    },
+                    "S": {
+                        "to": "N0",
+                        "distance": "82,53"
+                    },
+                    "E": {
+                        "to": "NV",
+                        "distance": "54,93"
+                    },
+                    "W": {
+                        "to": "NT",
+                        "distance": "74,02"
+                    }
+                }
+            },
+            {
+                "id": "NT",
+                "connections": {
+                    "S": {
+                        "to": "NZ",
+                        "distance": "79,47"
+                    },
+                    "E": {
+                        "to": "NU",
+                        "distance": "74,02"
+                    },
+                    "W": {
+                        "to": "CASA",
+                        "distance": "92,12"
+                    }
+                }
+            },
+            {
+                "id": "CASA",
+                "connections": {
+                    "E": {
+                        "to": "NT",
+                        "distance": "92,12"
+                    },
+                    "W": {
+                        "to": "NR",
+                        "distance": "77,16"
+                    }
+                }
+            },
+            {
+                "id": "NR",
+                "connections": {
+                    "S": {
+                        "to": "Nova Iorque",
+                        "distance": "73,37"
+                    },
+                    "N": {
+                        "to": "NG",
+                        "distance": 122
+                    },
+                    "E": {
+                        "to": "CASA",
+                        "distance": "77,16"
+                    }
+                }
+            },
+            {
+                "id": "NQ",
+                "connections": {
+                    "N": {
+                        "to": "NF",
+                        "distance": "125,76"
+                    },
+                    "E": {
+                        "to": "AC",
+                        "distance": "101,74"
+                    },
+                    "W": {
+                        "to": "BB",
+                        "distance": "70,34"
+                    },
+                    "S": {
+                        "to": "NX",
+                        "distance": "83,92",
+                        "newDirection": "N"
+                    }
+                }
+            },
+            {
+                "id": "NP",
+                "connections": {
+                    "S": {
+                        "to": "NU",
+                        "distance": "59,45"
+                    },
+                    "E": {
+                        "to": "NO",
+                        "distance": 156,
+                        "newDirection": "S"
+                    },
+                    "N": {
+                        "to": "NJ",
+                        "distance": "77,63"
+                    },
+                    "W": {
+                        "to": "NÃO",
+                        "distance": "41,48"
+                    }
+                }
+            },
+            {
+                "id": "NÃO",
+                "connections": {
+                    "N": {
+                        "to": "NE",
+                        "distance": "177,9",
+                        "newDirection": "C"
+                    },
+                    "E": {
+                        "to": "NP",
+                        "distance": "41,48"
+                    },
+                    "W": {
+                        "to": "NN",
+                        "distance": "82,42"
+                    }
+                }
+            },
+            {
                 "id": "NN",
                 "connections": {
-                    "E" : { "to": "NO", "distance": 82.42 },
-                    "W" : { "to": "NI", "distance": 80.52, "newDirection": "N" },
-                    "N" : { "to": "NE", "distance": 118.9 }
+                    "E": {
+                        "to": "NÃO",
+                        "distance": "82,42"
+                    },
+                    "W": {
+                        "to": "NI",
+                        "distance": "80,52",
+                        "newDirection": "N"
+                    },
+                    "N": {
+                        "to": "NE",
+                        "distance": "118,9"
+                    }
                 }
-            }
-            , {
+            },
+            {
                 "id": "NM",
                 "connections": {
-                    "N" : { "to": "NH", "distance": 67.27 }
+                    "N": {
+                        "to": "NH",
+                        "distance": "67,27"
+                    }
                 }
-            }
-            , {
+            },
+            {
                 "id": "NL",
                 "connections": {
-                    "N" : { "to": "NF", "distance": 101.33, "newDirection": "W" }
+                    "N": {
+                        "to": "NF",
+                        "distance": "101,33",
+                        "newDirection": "C"
+                    }
                 }
-            }
-            , {
+            },
+            {
                 "id": "NK",
                 "connections": {
-                    "N" : { "to": "NJ", "distance": 68.85, "newDirection": "W" }
+                    "N": {
+                        "to": "NJ",
+                        "distance": "68,85",
+                        "newDirection": "C"
+                    }
                 }
-            }
-            , {
+            },
+            {
                 "id": "NJ",
                 "connections": {
-                    "N" : { "to": "BF", "distance": 76.75 },
-                    "S" : { "to": "NP", "distance": 77.63 },
-                    "E" : { "to": "NK", "distance": 68.85, "newDirection": "N" }
+                    "N": {
+                        "to": "BF",
+                        "distance": "76,75"
+                    },
+                    "S": {
+                        "to": "NP",
+                        "distance": "77,63"
+                    },
+                    "E": {
+                        "to": "NK",
+                        "distance": "68,85",
+                        "newDirection": "N"
+                    }
                 }
-            }
-            , {
+            },
+            {
                 "id": "NI",
                 "connections": {
-                    "W" : { "to": "NH", "distance": 41.52 },
-                    "S" : { "to": "NN", "distance": 80.52, "newDirection": "E" },
-                    "N" : { "to": "BD", "distance": 117.45 }
+                    "W": {
+                        "to": "NH",
+                        "distance": "41,52"
+                    },
+                    "S": {
+                        "to": "NN",
+                        "distance": "80,52",
+                        "newDirection": "E"
+                    },
+                    "N": {
+                        "to": "BD",
+                        "distance": "117,45"
+                    }
                 }
-            }
-            , {
+            },
+            {
                 "id": "NH",
                 "connections": {
-                    "E" : { "to": "NI", "distance": 41.52 },
-                    "S" : { "to": "NM", "distance": 67.27, "newDirection": "N" },
-                    "W" : { "to": "NG", "distance": 37.35 }
+                    "E": {
+                        "to": "NI",
+                        "distance": "41,52"
+                    },
+                    "S": {
+                        "to": "NM",
+                        "distance": "67,27",
+                        "newDirection": "N"
+                    },
+                    "W": {
+                        "to": "NG",
+                        "distance": "37,35"
+                    }
                 }
-            }
-            , {
+            },
+            {
                 "id": "NG",
                 "connections": {
-                    "N" : { "to": "NC", "distance": 61.01 },
-                    "S" : { "to": "NR", "distance": 122 },
-                    "E" : { "to": "NH", "distance": 37.35 }
+                    "N": {
+                        "to": "NC",
+                        "distance": "61,01"
+                    },
+                    "S": {
+                        "to": "NR",
+                        "distance": 122
+                    },
+                    "E": {
+                        "to": "NH",
+                        "distance": "37,35"
+                    }
                 }
-            }
-            , {
+            },
+            {
                 "id": "NF",
                 "connections": {
-                    "S" : { "to": "NQ", "distance": 125.76 },
-                    "E" : { "to": "NL", "distance": 101.33, "newDirection": "N" },
-                    "N" : { "to": "NA", "distance": 53.09, "newDirection": "S" }
+                    "S": {
+                        "to": "NQ",
+                        "distance": "125,76"
+                    },
+                    "E": {
+                        "to": "NL",
+                        "distance": "101,33",
+                        "newDirection": "N"
+                    },
+                    "N": {
+                        "to": "N / D",
+                        "distance": "53,09",
+                        "newDirection": "S"
+                    }
                 }
-            }
-            , {
+            },
+            {
                 "id": "NE",
                 "connections": {
-                    "E" : { "to": "NO", "distance": 177.9, "newDirection": "S" },
-                    "S" : { "to": "NN", "distance": 118.9 },
-                    "N" : { "to": "BE", "distance": 59.45 }
+                    "E": {
+                        "to": "NÃO",
+                        "distance": "177,9",
+                        "newDirection": "S"
+                    },
+                    "S": {
+                        "to": "NN",
+                        "distance": "118,9"
+                    },
+                    "N": {
+                        "to": "SER",
+                        "distance": "59,45"
+                    }
                 }
-            }
-            , {
-                "id": "ND",
+            },
+            {
+                "id": "WL",
                 "connections": {
-                    "W" : { "to": "NC", "distance": 53.83 }
+                    "W": {
+                        "to": "NC",
+                        "distance": "53,83"
+                    }
                 }
-            }
-            , {
+            },
+            {
                 "id": "NC",
                 "connections": {
-                    "S" : { "to": "NG", "distance": 61.01 },
-                    "N" : { "to": "BC", "distance": 58.44 },
-                    "E" : { "to": "ND", "distance": 53.83, "newDirection": "W" },
-                    "W" : { "to": "NB", "distance": 53.72, "newDirection": "E" }
+                    "S": {
+                        "to": "NG",
+                        "distance": "61,01"
+                    },
+                    "N": {
+                        "to": "AC",
+                        "distance": "58,44"
+                    },
+                    "E": {
+                        "to": "WL",
+                        "distance": "53,83",
+                        "newDirection": "C"
+                    },
+                    "W": {
+                        "to": "NB",
+                        "distance": "53,72",
+                        "newDirection": "E"
+                    }
                 }
-            }
-            , {
+            },
+            {
                 "id": "NB",
                 "connections": {
-                    "E" : { "to": "NC", "distance": 53.72 }
+                    "E": {
+                        "to": "NC",
+                        "distance": "53,72"
+                    }
                 }
-            }
-            , {
-                "id": "NA",
+            },
+            {
+                "id": "N / D",
                 "connections": {
-                    "S" : { "to": "NF", "distance": 53.09 }
+                    "S": {
+                        "to": "NF",
+                        "distance": "53,09"
+                    }
                 }
-            }
-            , {
+            },
+            {
                 "id": "LK",
                 "connections": {
-                    "N" : { "to": "LJ", "distance": 87.86 },
-                    "W" : { "to": "LI", "distance": 202.26 }
+                    "N": {
+                        "to": "LJ",
+                        "distance": "87,86"
+                    },
+                    "W": {
+                        "to": "LI",
+                        "distance": "202,26"
+                    }
                 }
-            }
-            , {
+            },
+            {
                 "id": "LJ",
                 "connections": {
-                    "S" : { "to": "LK", "distance": 87.86 },
-                    "W" : { "to": "LM", "distance": 157.63, "newDirection": "N" }
+                    "S": {
+                        "to": "LK",
+                        "distance": "87,86"
+                    },
+                    "W": {
+                        "to": "LM",
+                        "distance": "157,63",
+                        "newDirection": "N"
+                    }
                 }
-            }
-            , {
+            },
+            {
                 "id": "LI",
                 "connections": {
-                    "S" : { "to": "BF", "distance": 83.43 },
-                    "W" : { "to": "LH", "distance": 100 },
-                    "E" : { "to": "LK", "distance": 202.26 },
-                    "N" : { "to": "LC", "distance": 190.75 }
+                    "S": {
+                        "to": "BF",
+                        "distance": "83,43"
+                    },
+                    "W": {
+                        "to": "LH",
+                        "distance": 100
+                    },
+                    "E": {
+                        "to": "LK",
+                        "distance": "202,26"
+                    },
+                    "N": {
+                        "to": "LC",
+                        "distance": "190,75"
+                    }
                 }
-            }
-            , {
+            },
+            {
                 "id": "LH",
                 "connections": {
-                    "N" : { "to": "LB", "distance": 186.48 },
-                    "E" : { "to": "LI", "distance": 100 },
-                    "W" : { "to": "LG", "distance": 64.57 }
+                    "N": {
+                        "to": "LIBRA",
+                        "distance": "186,48"
+                    },
+                    "E": {
+                        "to": "LI",
+                        "distance": 100
+                    },
+                    "W": {
+                        "to": "LG",
+                        "distance": "64,57"
+                    }
                 }
-            }
-            , {
+            },
+            {
                 "id": "LG",
                 "connections": {
-                    "W" : { "to": "LF", "distance": 123.42 },
-                    "N" : { "to": "LE", "distance": 59.45 },
-                    "E" : { "to": "LH", "distance": 64.57 }
+                    "W": {
+                        "to": "LF",
+                        "distance": "123,42"
+                    },
+                    "N": {
+                        "to": "LE",
+                        "distance": "59,45"
+                    },
+                    "E": {
+                        "to": "LH",
+                        "distance": "64,57"
+                    }
                 }
-            }
-            , {
+            },
+            {
                 "id": "LF",
                 "connections": {
-                    "W" : { "to": "AA", "distance": 41.52 },
-                    "N" : { "to": "LD", "distance": 143.67, "newDirection": "E" },
-                    "E" : { "to": "LG", "distance": 123.42 }
+                    "W": {
+                        "to": "AA",
+                        "distance": "41,52"
+                    },
+                    "N": {
+                        "to": "LD",
+                        "distance": "143,67",
+                        "newDirection": "E"
+                    },
+                    "E": {
+                        "to": "LG",
+                        "distance": "123,42"
+                    }
                 }
-            }
-            , {
+            },
+            {
                 "id": "LE",
                 "connections": {
-                    "W" : { "to": "LD", "distance": 138.9, "newDirection": "N" },
-                    "S" : { "to": "LG", "distance": 59.45 },
-                    "N" : { "to": "LA", "distance": 151.3 }
+                    "W": {
+                        "to": "LD",
+                        "distance": "138,9",
+                        "newDirection": "N"
+                    },
+                    "S": {
+                        "to": "LG",
+                        "distance": "59,45"
+                    },
+                    "N": {
+                        "to": "LA",
+                        "distance": "151,3"
+                    }
                 }
-            }
-            , {
+            },
+            {
                 "id": "LD",
                 "connections": {
-                    "S" : { "to": "LE", "distance": 138.9, "newDirection": "E" },
-                    "E" : { "to": "LA", "distance": 108.39 },
-                    "W" : { "to": "LF", "distance": 143.67, "newDirection": "S" }
+                    "S": {
+                        "to": "LE",
+                        "distance": "138,9",
+                        "newDirection": "E"
+                    },
+                    "E": {
+                        "to": "LA",
+                        "distance": "108,39"
+                    },
+                    "W": {
+                        "to": "LF",
+                        "distance": "143,67",
+                        "newDirection": "S"
+                    }
                 }
-            }
-            , {
+            },
+            {
                 "id": "LC",
                 "connections": {
-                    "E" : { "to": "LM", "distance": 163.75, "newDirection": "S" },
-                    "W" : { "to": "LB", "distance": 38.06 },
-                    "S" : { "to": "LI", "distance": 190.75 }
+                    "E": {
+                        "to": "LM",
+                        "distance": "163,75",
+                        "newDirection": "S"
+                    },
+                    "W": {
+                        "to": "LIBRA",
+                        "distance": "38,06"
+                    },
+                    "S": {
+                        "to": "LI",
+                        "distance": "190,75"
+                    }
                 }
-            }
-            , {
+            },
+            {
                 "id": "LM",
                 "connections": {
-                    "N" : { "to": "LC", "distance": 163.75, "newDirection": "W" },
-                    "E" : { "to": "LN", "distance": 177.42, "newDirection": "S" },
-                    "S" : { "to": "LJ", "distance": 157.63, "newDirection": "E" }
+                    "N": {
+                        "to": "LC",
+                        "distance": "163,75",
+                        "newDirection": "C"
+                    },
+                    "E": {
+                        "to": "LN",
+                        "distance": "177,42",
+                        "newDirection": "S"
+                    },
+                    "S": {
+                        "to": "LJ",
+                        "distance": "157,63",
+                        "newDirection": "E"
+                    }
                 }
-            }
-            , {
+            },
+            {
                 "id": "LN",
                 "connections": {
-                    "S" : { "to": "LM", "distance": 177.42, "newDirection": "W" }
+                    "S": {
+                        "to": "LM",
+                        "distance": "177,42",
+                        "newDirection": "C"
+                    }
                 }
-            }
-            , {
-                "id": "LB",
+            },
+            {
+                "id": "LIBRA",
                 "connections": {
-                    "S" : { "to": "LH", "distance": 186.48 },
-                    "W" : { "to": "LA", "distance": 82.91 },
-                    "E" : { "to": "LC", "distance": 38.06 }
+                    "S": {
+                        "to": "LH",
+                        "distance": "186,48"
+                    },
+                    "W": {
+                        "to": "LA",
+                        "distance": "82,91"
+                    },
+                    "E": {
+                        "to": "LC",
+                        "distance": "38,06"
+                    }
                 }
-            }
-            , {
+            },
+            {
                 "id": "LA",
                 "connections": {
-                    "W" : { "to": "LD", "distance": 108.39 },
-                    "S" : { "to": "LE", "distance": 151.3 },
-                    "E" : { "to": "LB", "distance": 82.91 }
+                    "W": {
+                        "to": "LD",
+                        "distance": "108,39"
+                    },
+                    "S": {
+                        "to": "LE",
+                        "distance": "151,3"
+                    },
+                    "E": {
+                        "to": "LIBRA",
+                        "distance": "82,91"
+                    }
                 }
-            }
-            , {
+            },
+            {
                 "id": "LL",
                 "connections": {
-                    "S" : { "to": "AM", "distance": 355.83, "newDirection": "W" }
+                    "S": {
+                        "to": "SOU",
+                        "distance": "355,83",
+                        "newDirection": "C"
+                    }
                 }
-            }
-            , {
+            },
+            {
                 "id": "GG",
                 "connections": {
-                    "S" : { "to": "GD", "distance": 101.2, "newDirection": "W" },
-                    "N" : { "to": "GB", "distance": 104.28, "newDirection": "W" }
+                    "S": {
+                        "to": "GD",
+                        "distance": "101,2",
+                        "newDirection": "C"
+                    },
+                    "N": {
+                        "to": "GB",
+                        "distance": "104,28",
+                        "newDirection": "C"
+                    }
                 }
-            }
-            , {
+            },
+            {
                 "id": "GF",
                 "connections": {
-                    "E" : { "to": "AA", "distance": 75.52 },
-                    "W" : { "to": "GE", "distance": 79.12 },
-                    "N" : { "to": "GD", "distance": 110.64 }
+                    "E": {
+                        "to": "AA",
+                        "distance": "75,52"
+                    },
+                    "W": {
+                        "to": "GE",
+                        "distance": "79,12"
+                    },
+                    "N": {
+                        "to": "GD",
+                        "distance": "110,64"
+                    }
                 }
-            }
-            , {
+            },
+            {
                 "id": "GE",
                 "connections": {
-                    "E" : { "to": "GF", "distance": 79.12 },
-                    "N" : { "to": "GC", "distance": 55.92 }
+                    "E": {
+                        "to": "GF",
+                        "distance": "79,12"
+                    },
+                    "N": {
+                        "to": "GC",
+                        "distance": "55,92"
+                    }
                 }
-            }
-            , {
+            },
+            {
                 "id": "GD",
                 "connections": {
-                    "E" : { "to": "GG", "distance": 101.2, "newDirection": "N" },
-                    "W" : { "to": "GC", "distance": 85.16 },
-                    "S" : { "to": "GF", "distance": 110.64 },
-                    "N" : { "to": "GB", "distance": 92.04 }
+                    "E": {
+                        "to": "GG",
+                        "distance": "101,2",
+                        "newDirection": "N"
+                    },
+                    "W": {
+                        "to": "GC",
+                        "distance": "85,16"
+                    },
+                    "S": {
+                        "to": "GF",
+                        "distance": "110,64"
+                    },
+                    "N": {
+                        "to": "GB",
+                        "distance": "92,04"
+                    }
                 }
-            }
-            , {
+            },
+            {
                 "id": "GC",
                 "connections": {
-                    "E" : { "to": "GD", "distance": 85.16 },
-                    "S" : { "to": "GE", "distance": 55.92 },
-                    "N" : { "to": "GA", "distance": 75.52 }
+                    "E": {
+                        "to": "GD",
+                        "distance": "85,16"
+                    },
+                    "S": {
+                        "to": "GE",
+                        "distance": "55,92"
+                    },
+                    "N": {
+                        "to": "GA",
+                        "distance": "75,52"
+                    }
                 }
-            }
-            , {
+            },
+            {
                 "id": "GB",
                 "connections": {
-                    "E" : { "to": "GG", "distance": 104.28, "newDirection": "S" },
-                    "S" : { "to": "GD", "distance": 92.04 },
-                    "W" : { "to": "GA", "distance": 80.29 }
+                    "E": {
+                        "to": "GG",
+                        "distance": "104,28",
+                        "newDirection": "S"
+                    },
+                    "S": {
+                        "to": "GD",
+                        "distance": "92,04"
+                    },
+                    "W": {
+                        "to": "GA",
+                        "distance": "80,29"
+                    }
                 }
-            }
-            , {
+            },
+            {
                 "id": "GA",
                 "connections": {
-                    "S" : { "to": "GC", "distance": 75.52 },
-                    "E" : { "to": "GB", "distance": 80.29 }
+                    "S": {
+                        "to": "GC",
+                        "distance": "75,52"
+                    },
+                    "E": {
+                        "to": "GB",
+                        "distance": "80,29"
+                    }
                 }
-            }
-            , {
+            },
+            {
                 "id": "CC",
                 "connections": {
-                    "N" : { "to": "N0", "distance": 90.43 },
-                    "E" : { "to": "BG", "distance": 164.3 },
-                    "W" : { "to": "CB", "distance": 260.25 }
+                    "N": {
+                        "to": "N0",
+                        "distance": "90,43"
+                    },
+                    "E": {
+                        "to": "BG",
+                        "distance": "164,3"
+                    },
+                    "W": {
+                        "to": "CB",
+                        "distance": "260,25"
+                    }
                 }
-            }
-            , {
+            },
+            {
                 "id": "CB",
                 "connections": {
-                    "N" : { "to": "NY", "distance": 42.02 },
-                    "E" : { "to": "CC", "distance": 260.25 },
-                    "W" : { "to": "AD", "distance": 84.11 }
+                    "N": {
+                        "to": "Nova Iorque",
+                        "distance": "42,02"
+                    },
+                    "E": {
+                        "to": "CC",
+                        "distance": "260,25"
+                    },
+                    "W": {
+                        "to": "DE ANÚNCIOS",
+                        "distance": "84,11"
+                    }
                 }
-            }
-            , {
+            },
+            {
                 "id": "CA",
                 "connections": {
-                    "S" : { "to": "N2", "distance": 73.28, "newDirection": "N" },
-                    "E" : { "to": "AD", "distance": 82.21 },
-                    "W" : { "to": "BA", "distance": 82.29 }
+                    "S": {
+                        "to": "N2",
+                        "distance": "73,28",
+                        "newDirection": "N"
+                    },
+                    "E": {
+                        "to": "DE ANÚNCIOS",
+                        "distance": "82,21"
+                    },
+                    "W": {
+                        "to": "BA",
+                        "distance": "82,29"
+                    }
                 }
-            }
-            , {
+            },
+            {
                 "id": "BL",
                 "connections": {
-                    "N" : { "to": "BJ", "distance": 94.05 },
-                    "W" : { "to": "EY", "distance": 68.71 }
+                    "N": {
+                        "to": "BJ",
+                        "distance": "94,05"
+                    },
+                    "W": {
+                        "to": "EY",
+                        "distance": "68,71"
+                    }
                 }
-            }
-            , {
+            },
+            {
                 "id": "BJ",
                 "connections": {
-                    "S" : { "to": "BL", "distance": 94.05 },
-                    "N" : { "to": "BH", "distance": 109.01 },
-                    "W" : { "to": "EQ", "distance": 70.64 }
+                    "S": {
+                        "to": "BL",
+                        "distance": "94,05"
+                    },
+                    "N": {
+                        "to": "BH",
+                        "distance": "109,01"
+                    },
+                    "W": {
+                        "to": "EQ",
+                        "distance": "70,64"
+                    }
                 }
-            }
-            , {
+            },
+            {
                 "id": "BH",
                 "connections": {
-                    "S" : { "to": "BJ", "distance": 109.01 },
-                    "N" : { "to": "BG", "distance": 196.53 },
-                    "W" : { "to": "EI", "distance": 69.34 }
+                    "S": {
+                        "to": "BJ",
+                        "distance": "109,01"
+                    },
+                    "N": {
+                        "to": "BG",
+                        "distance": "196,53"
+                    },
+                    "W": {
+                        "to": "EI",
+                        "distance": "69,34"
+                    }
                 }
-            }
-            , {
+            },
+            {
                 "id": "BG",
                 "connections": {
-                    "W" : { "to": "CC", "distance": 164.3 },
-                    "S" : { "to": "BH", "distance": 196.53 },
-                    "N" : { "to": "BF", "distance": 452.96, "newDirection": "W" }
+                    "W": {
+                        "to": "CC",
+                        "distance": "164,3"
+                    },
+                    "S": {
+                        "to": "BH",
+                        "distance": "196,53"
+                    },
+                    "N": {
+                        "to": "BF",
+                        "distance": "452,96",
+                        "newDirection": "C"
+                    }
                 }
-            }
-            , {
+            },
+            {
                 "id": "BF",
                 "connections": {
-                    "N" : { "to": "LI", "distance": 83.43 },
-                    "S" : { "to": "NJ", "distance": 76.75 },
-                    "E" : { "to": "BG", "distance": 452.96, "newDirection": "S" },
-                    "W" : { "to": "BE", "distance": 127.57 }
+                    "N": {
+                        "to": "LI",
+                        "distance": "83,43"
+                    },
+                    "S": {
+                        "to": "NJ",
+                        "distance": "76,75"
+                    },
+                    "E": {
+                        "to": "BG",
+                        "distance": "452,96",
+                        "newDirection": "S"
+                    },
+                    "W": {
+                        "to": "SER",
+                        "distance": "127,57"
+                    }
                 }
-            }
-            , {
-                "id": "BE",
+            },
+            {
+                "id": "SER",
                 "connections": {
-                    "E" : { "to": "BF", "distance": 127.57 },
-                    "W" : { "to": "BD", "distance": 41.18 },
-                    "S" : { "to": "NE", "distance": 59.45 }
+                    "E": {
+                        "to": "BF",
+                        "distance": "127,57"
+                    },
+                    "W": {
+                        "to": "BD",
+                        "distance": "41,18"
+                    },
+                    "S": {
+                        "to": "NE",
+                        "distance": "59,45"
+                    }
                 }
-            }
-            , {
+            },
+            {
                 "id": "BD",
                 "connections": {
-                    "S" : { "to": "NI", "distance": 117.45 },
-                    "E" : { "to": "BE", "distance": 41.18 },
-                    "W" : { "to": "BC", "distance": 82.43 }
+                    "S": {
+                        "to": "NI",
+                        "distance": "117,45"
+                    },
+                    "E": {
+                        "to": "SER",
+                        "distance": "41,18"
+                    },
+                    "W": {
+                        "to": "AC",
+                        "distance": "82,43"
+                    }
                 }
-            }
-            , {
-                "id": "BC",
-                "connections": {
-                    "S" : { "to": "NC", "distance": 58.44 },
-                    "E" : { "to": "BD", "distance": 82.43 },
-                    "W" : { "to": "AB", "distance": 82.51 }
-                }
-            }
-            , {
-                "id": "BB",
-                "connections": {
-                    "E" : { "to": "NQ", "distance": 70.34 },
-                    "N" : { "to": "AB", "distance": 313.88, "newDirection": "E" },
-                    "S" : { "to": "BA", "distance": 144.86 }
-                }
-            }
-            , {
-                "id": "BA",
-                "connections": {
-                    "N" : { "to": "BB", "distance": 144.86 },
-                    "E" : { "to": "CA", "distance": 82.29 }
-                }
-            }
-            , {
-                "id": "AL",
-                "connections": {
-                    "E" : { "to": "ER", "distance": 74.08 },
-                    "N" : { "to": "AK", "distance": 48.49 }
-                }
-            }
-            , {
-                "id": "AK",
-                "connections": {
-                    "W" : { "to": "WO", "distance": 74.49 },
-                    "E" : { "to": "EM", "distance": 74.18 },
-                    "S" : { "to": "AL", "distance": 48.49 },
-                    "N" : { "to": "AJ", "distance": 48.49 }
-                }
-            }
-            , {
-                "id": "AH",
-                "connections": {
-                    "W" : { "to": "WG", "distance": 74.51 },
-                    "E" : { "to": "ED", "distance": 74.19 },
-                    "S" : { "to": "AJ", "distance": 96.96 },
-                    "N" : { "to": "AF", "distance": 96.96 }
-                }
-            }
-            , {
-                "id": "AJ",
-                "connections": {
-                    "E" : { "to": "EE", "distance": 186.55, "newDirection": "N" },
-                    "W" : { "to": "WM", "distance": 74.5 },
-                    "S" : { "to": "AK", "distance": 48.49 },
-                    "N" : { "to": "AH", "distance": 96.96 }
-                }
-            }
-            , {
-                "id": "AF",
-                "connections": {
-                    "W" : { "to": "WB", "distance": 68.1 },
-                    "E" : { "to": "EA", "distance": 75.32 },
-                    "N" : { "to": "AE", "distance": 43.12 },
-                    "S" : { "to": "AH", "distance": 96.96 }
-                }
-            }
-            , {
-                "id": "AE",
-                "connections": {
-                    "E" : { "to": "EA", "distance": 183.01, "newDirection": "S" },
-                    "S" : { "to": "AF", "distance": 43.12 },
-                    "N" : { "to": "AD", "distance": 156.34 }
-                }
-            }
-            , {
-                "id": "AD",
-                "connections": {
-                    "E" : { "to": "CB", "distance": 84.11 },
-                    "W" : { "to": "CA", "distance": 82.21 },
-                    "S" : { "to": "AE", "distance": 156.34 },
-                    "N" : { "to": "AC", "distance": 117.79 }
-                }
-            }
-            , {
+            },
+            {
                 "id": "AC",
                 "connections": {
-                    "W" : { "to": "NQ", "distance": 101.74 },
-                    "S" : { "to": "AD", "distance": 117.79 },
-                    "N" : { "to": "AB", "distance": 239.15 }
+                    "S": {
+                        "to": "NC",
+                        "distance": "58,44"
+                    },
+                    "E": {
+                        "to": "BD",
+                        "distance": "82,43"
+                    },
+                    "W": {
+                        "to": "AB",
+                        "distance": "82,51"
+                    }
                 }
-            }
-            , {
+            },
+            {
+                "id": "BB",
+                "connections": {
+                    "E": {
+                        "to": "NQ",
+                        "distance": "70,34"
+                    },
+                    "N": {
+                        "to": "AB",
+                        "distance": "313,88",
+                        "newDirection": "E"
+                    },
+                    "S": {
+                        "to": "BA",
+                        "distance": "144,86"
+                    }
+                }
+            },
+            {
+                "id": "BA",
+                "connections": {
+                    "N": {
+                        "to": "BB",
+                        "distance": "144,86"
+                    },
+                    "E": {
+                        "to": "CA",
+                        "distance": "82,29"
+                    }
+                }
+            },
+            {
+                "id": "AL",
+                "connections": {
+                    "E": {
+                        "to": "ER",
+                        "distance": "74,08"
+                    },
+                    "N": {
+                        "to": "AK",
+                        "distance": "48,49"
+                    }
+                }
+            },
+            {
+                "id": "AK",
+                "connections": {
+                    "W": {
+                        "to": "OS",
+                        "distance": "74,49"
+                    },
+                    "E": {
+                        "to": "EM",
+                        "distance": "74,18"
+                    },
+                    "S": {
+                        "to": "AL",
+                        "distance": "48,49"
+                    },
+                    "N": {
+                        "to": "AJ",
+                        "distance": "48,49"
+                    }
+                }
+            },
+            {
+                "id": "AH",
+                "connections": {
+                    "W": {
+                        "to": "WG",
+                        "distance": "74,51"
+                    },
+                    "E": {
+                        "to": "ED",
+                        "distance": "74,19"
+                    },
+                    "S": {
+                        "to": "AJ",
+                        "distance": "96,96"
+                    },
+                    "N": {
+                        "to": "AF",
+                        "distance": "96,96"
+                    }
+                }
+            },
+            {
+                "id": "AJ",
+                "connections": {
+                    "E": {
+                        "to": "EE",
+                        "distance": "186,55",
+                        "newDirection": "N"
+                    },
+                    "W": {
+                        "to": "WM",
+                        "distance": "74,5"
+                    },
+                    "S": {
+                        "to": "AK",
+                        "distance": "48,49"
+                    },
+                    "N": {
+                        "to": "AH",
+                        "distance": "96,96"
+                    }
+                }
+            },
+            {
+                "id": "AF",
+                "connections": {
+                    "W": {
+                        "to": "WB",
+                        "distance": "68,1"
+                    },
+                    "E": {
+                        "to": "EA",
+                        "distance": "75,32"
+                    },
+                    "N": {
+                        "to": "AE",
+                        "distance": "43,12"
+                    },
+                    "S": {
+                        "to": "AH",
+                        "distance": "96,96"
+                    }
+                }
+            },
+            {
+                "id": "AE",
+                "connections": {
+                    "E": {
+                        "to": "EA",
+                        "distance": "183,01",
+                        "newDirection": "S"
+                    },
+                    "S": {
+                        "to": "AF",
+                        "distance": "43,12"
+                    },
+                    "N": {
+                        "to": "DE ANÚNCIOS",
+                        "distance": "156,34"
+                    }
+                }
+            },
+            {
+                "id": "DE ANÚNCIOS",
+                "connections": {
+                    "E": {
+                        "to": "CB",
+                        "distance": "84,11"
+                    },
+                    "W": {
+                        "to": "CA",
+                        "distance": "82,21"
+                    },
+                    "S": {
+                        "to": "AE",
+                        "distance": "156,34"
+                    },
+                    "N": {
+                        "to": "AC",
+                        "distance": "117,79"
+                    }
+                }
+            },
+            {
+                "id": "AC",
+                "connections": {
+                    "W": {
+                        "to": "NQ",
+                        "distance": "101,74"
+                    },
+                    "S": {
+                        "to": "DE ANÚNCIOS",
+                        "distance": "117,79"
+                    },
+                    "N": {
+                        "to": "AB",
+                        "distance": "239,15"
+                    }
+                }
+            },
+            {
                 "id": "AB",
                 "connections": {
-                    "E" : { "to": "BC", "distance": 82.51 },
-                    "W" : { "to": "BB", "distance": 313.88, "newDirection": "S" },
-                    "S" : { "to": "AC", "distance": 239.15 },
-                    "N" : { "to": "AA", "distance": 59.05 }
+                    "E": {
+                        "to": "AC",
+                        "distance": "82,51"
+                    },
+                    "W": {
+                        "to": "BB",
+                        "distance": "313,88",
+                        "newDirection": "S"
+                    },
+                    "S": {
+                        "to": "AC",
+                        "distance": "239,15"
+                    },
+                    "N": {
+                        "to": "AA",
+                        "distance": "59,05"
+                    }
                 }
-            }
-            , {
+            },
+            {
                 "id": "AA",
                 "connections": {
-                    "E" : { "to": "LF", "distance": 41.52 },
-                    "W" : { "to": "GF", "distance": 75.52 },
-                    "S" : { "to": "AB", "distance": 59.05 },
-                    "N" : { "to": "AM", "distance": 166.21 }
+                    "E": {
+                        "to": "LF",
+                        "distance": "41,52"
+                    },
+                    "W": {
+                        "to": "GF",
+                        "distance": "75,52"
+                    },
+                    "S": {
+                        "to": "AB",
+                        "distance": "59,05"
+                    },
+                    "N": {
+                        "to": "SOU",
+                        "distance": "166,21"
+                    }
                 }
-            }
-            , {
-                "id": "AM",
+            },
+            {
+                "id": "SOU",
                 "connections": {
-                    "E" : { "to": "LL", "distance": 355.83, "newDirection": "S" },
-                    "S" : { "to": "AA", "distance": 166.21 }
+                    "E": {
+                        "to": "LL",
+                        "distance": "355,83",
+                        "newDirection": "S"
+                    },
+                    "S": {
+                        "to": "AA",
+                        "distance": "166,21"
+                    }
                 }
             }
         ]

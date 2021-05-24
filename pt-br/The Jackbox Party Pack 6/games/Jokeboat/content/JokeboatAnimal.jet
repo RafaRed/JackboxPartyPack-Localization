@@ -1,372 +1,372 @@
 {
-   "content":[
+   "content": [
       {
-         "id":1,
-         "topic":"jacaré"
+         "id": 1,
+         "topic": "jacaré"
       },
       {
-         "id":2,
-         "topic":"anaconda"
+         "id": 2,
+         "topic": "anaconda"
       },
       {
-         "id":3,
-         "topic":"bull"
+         "id": 3,
+         "topic": "touro"
       },
       {
-         "id":4,
-         "topic":"butterfly"
+         "id": 4,
+         "topic": "borboleta"
       },
       {
-         "id":5,
-         "topic":"camel"
+         "id": 5,
+         "topic": "camelo"
       },
       {
-         "id":6,
-         "topic":"cat"
+         "id": 6,
+         "topic": "gato"
       },
       {
-         "id":7,
-         "topic":"caterpillar"
+         "id": 7,
+         "topic": "lagarta"
       },
       {
-         "id":8,
-         "topic":"chameleon"
+         "id": 8,
+         "topic": "camaleão"
       },
       {
-         "id":9,
-         "topic":"cheetah"
+         "id": 9,
+         "topic": "guepardo"
       },
       {
-         "id":10,
-         "topic":"Chihuahua"
+         "id": 10,
+         "topic": "Chihuahua"
       },
       {
-         "id":11,
-         "topic":"cobra"
+         "id": 11,
+         "topic": "cobra"
       },
       {
-         "id":12,
-         "topic":"cockroach"
+         "id": 12,
+         "topic": "barata"
       },
       {
-         "id":13,
-         "topic":"cougar"
+         "id": 13,
+         "topic": "puma"
       },
       {
-         "id":14,
-         "topic":"crab"
+         "id": 14,
+         "topic": "caranguejo"
       },
       {
-         "id":15,
-         "topic":"crocodile"
+         "id": 15,
+         "topic": "crocodilo"
       },
       {
-         "id":16,
-         "topic":"crow"
+         "id": 16,
+         "topic": "Corvo"
       },
       {
-         "id":17,
-         "topic":"deer"
+         "id": 17,
+         "topic": "cervo"
       },
       {
-         "id":18,
-         "topic":"tick"
+         "id": 18,
+         "topic": "marcação"
       },
       {
-         "id":19,
-         "topic":"dolphin"
+         "id": 19,
+         "topic": "golfinho"
       },
       {
-         "id":20,
-         "topic":"bald eagle"
+         "id": 20,
+         "topic": "Águia careca"
       },
       {
-         "id":21,
-         "topic":"earthworm"
+         "id": 21,
+         "topic": "minhoca"
       },
       {
-         "id":22,
-         "topic":"elephant"
+         "id": 22,
+         "topic": "elefante"
       },
       {
-         "id":23,
-         "topic":"ferret"
+         "id": 23,
+         "topic": "furão"
       },
       {
-         "id":24,
-         "topic":"flea"
+         "id": 24,
+         "topic": "pulga"
       },
       {
-         "id":25,
-         "topic":"fox"
+         "id": 25,
+         "topic": "Raposa"
       },
       {
-         "id":26,
-         "topic":"frog"
+         "id": 26,
+         "topic": "rã"
       },
       {
-         "id":27,
-         "topic":"giraffe"
+         "id": 27,
+         "topic": "girafa"
       },
       {
-         "id":28,
-         "topic":"goat"
+         "id": 28,
+         "topic": "bode"
       },
       {
-         "id":29,
-         "topic":"goldfish"
+         "id": 29,
+         "topic": "peixinho dourado"
       },
       {
-         "id":30,
-         "topic":"grizzly bear"
+         "id": 30,
+         "topic": "urso pardo"
       },
       {
-         "id":31,
-         "topic":"honey bee"
+         "id": 31,
+         "topic": "abelha de mel"
       },
       {
-         "id":32,
-         "topic":"horse"
+         "id": 32,
+         "topic": "cavalo"
       },
       {
-         "id":33,
-         "topic":"iguana"
+         "id": 33,
+         "topic": "iguana"
       },
       {
-         "id":34,
-         "topic":"jellyfish"
+         "id": 34,
+         "topic": "medusa"
       },
       {
-         "id":35,
-         "topic":"kangaroo"
+         "id": 35,
+         "topic": "canguru"
       },
       {
-         "id":36,
-         "topic":"lion"
+         "id": 36,
+         "topic": "leão"
       },
       {
-         "id":37,
-         "topic":"llama"
+         "id": 37,
+         "topic": "lama"
       },
       {
-         "id":38,
-         "topic":"lobster"
+         "id": 38,
+         "topic": "lagosta"
       },
       {
-         "id":39,
-         "topic":"manatee"
+         "id": 39,
+         "topic": "peixe-boi"
       },
       {
-         "id":40,
-         "topic":"moose"
+         "id": 40,
+         "topic": "alce"
       },
       {
-         "id":41,
-         "topic":"mosquito"
+         "id": 41,
+         "topic": "mosquito"
       },
       {
-         "id":42,
-         "topic":"moth"
+         "id": 42,
+         "topic": "mariposa"
       },
       {
-         "id":43,
-         "topic":"mouse"
+         "id": 43,
+         "topic": "mouse"
       },
       {
-         "id":44,
-         "topic":"octopus"
+         "id": 44,
+         "topic": "polvo"
       },
       {
-         "id":45,
-         "topic":"owl"
+         "id": 45,
+         "topic": "Coruja"
       },
       {
-         "id":46,
-         "topic":"parrot"
+         "id": 46,
+         "topic": "papagaio"
       },
       {
-         "id":47,
-         "topic":"penguin"
+         "id": 47,
+         "topic": "pinguim"
       },
       {
-         "id":48,
-         "topic":"pigeon"
+         "id": 48,
+         "topic": "Pombo"
       },
       {
-         "id":49,
-         "topic":"polar bear"
+         "id": 49,
+         "topic": "Urso polar"
       },
       {
-         "id":50,
-         "topic":"pony"
+         "id": 50,
+         "topic": "pónei"
       },
       {
-         "id":51,
-         "topic":"poodle"
+         "id": 51,
+         "topic": "poodle"
       },
       {
-         "id":52,
-         "topic":"praying mantis"
+         "id": 52,
+         "topic": "Louva-Deus"
       },
       {
-         "id":53,
-         "topic":"pterodactyl"
+         "id": 53,
+         "topic": "pterodáctilo"
       },
       {
-         "id":54,
-         "topic":"puppy"
+         "id": 54,
+         "topic": "cachorro"
       },
       {
-         "id":55,
-         "topic":"rabbit"
+         "id": 55,
+         "topic": "Coelho"
       },
       {
-         "id":56,
-         "topic":"raccoon"
+         "id": 56,
+         "topic": "guaxinim"
       },
       {
-         "id":57,
-         "topic":"rat"
+         "id": 57,
+         "topic": "rato"
       },
       {
-         "id":58,
-         "topic":"rattlesnake"
+         "id": 58,
+         "topic": "cascavel"
       },
       {
-         "id":59,
-         "topic":"seagull"
+         "id": 59,
+         "topic": "gaivota"
       },
       {
-         "id":60,
-         "topic":"shark"
+         "id": 60,
+         "topic": "Tubarão"
       },
       {
-         "id":61,
-         "topic":"skunk"
+         "id": 61,
+         "topic": "Skunk"
       },
       {
-         "id":62,
-         "topic":"sloth"
+         "id": 62,
+         "topic": "bicho-preguiça"
       },
       {
-         "id":63,
-         "topic":"slug"
+         "id": 63,
+         "topic": "lesma"
       },
       {
-         "id":64,
-         "topic":"spider"
+         "id": 64,
+         "topic": "aranha"
       },
       {
-         "id":65,
-         "topic":"squirrel"
+         "id": 65,
+         "topic": "Esquilo"
       },
       {
-         "id":66,
-         "topic":"starfish"
+         "id": 66,
+         "topic": "estrelas do mar"
       },
       {
-         "id":67,
-         "topic":"tick"
+         "id": 67,
+         "topic": "marcação"
       },
       {
-         "id":68,
-         "topic":"toad"
+         "id": 68,
+         "topic": "Sapo"
       },
       {
-         "id":69,
-         "topic":"turtle"
+         "id": 69,
+         "topic": "tartaruga"
       },
       {
-         "id":70,
-         "topic":"velociraptor"
+         "id": 70,
+         "topic": "velociraptor"
       },
       {
-         "id":71,
-         "topic":"weasel"
+         "id": 71,
+         "topic": "doninha"
       },
       {
-         "id":72,
-         "topic":"whale"
+         "id": 72,
+         "topic": "baleia"
       },
       {
-         "id":73,
-         "topic":"wolf"
+         "id": 73,
+         "topic": "Lobo"
       },
       {
-         "id":74,
-         "topic":"woolly mammoth"
+         "id": 74,
+         "topic": "mamute peludo"
       },
       {
-         "id":75,
-         "topic":"dingo"
+         "id": 75,
+         "topic": "dingo"
       },
       {
-         "id":76,
-         "topic":"boar"
+         "id": 76,
+         "topic": "javali"
       },
       {
-         "id":77,
-         "topic":"guinea pig"
+         "id": 77,
+         "topic": "porquinho da índia"
       },
       {
-         "id":78,
-         "topic":"groundhog"
+         "id": 78,
+         "topic": "marmota"
       },
       {
-         "id":79,
-         "topic":"hippopotamus"
+         "id": 79,
+         "topic": "hipopótamo"
       },
       {
-         "id":80,
-         "topic":"porcupine"
+         "id": 80,
+         "topic": "porco-espinho"
       },
       {
-         "id":81,
-         "topic":"reindeer"
+         "id": 81,
+         "topic": "rena"
       },
       {
-         "id":82,
-         "topic":"sea lion"
+         "id": 82,
+         "topic": "Leão marinho"
       },
       {
-         "id":83,
-         "topic":"bull frog"
+         "id": 83,
+         "topic": "sapo-touro"
       },
       {
-         "id":84,
-         "topic":"grasshopper"
+         "id": 84,
+         "topic": "gafanhoto"
       },
       {
-         "id":85,
-         "topic":"badger"
+         "id": 85,
+         "topic": "texugo"
       },
       {
-         "id":86,
-         "topic":"baboon"
+         "id": 86,
+         "topic": "babuíno"
       },
       {
-         "id":87,
-         "topic":"sheep"
+         "id": 87,
+         "topic": "ovelha"
       },
       {
-         "id":88,
-         "topic":"hyena"
+         "id": 88,
+         "topic": "hiena"
       },
       {
-         "id":89,
-         "topic":"ladybug"
+         "id": 89,
+         "topic": "joaninha"
       },
       {
-         "id":90,
-         "topic":"naked mole rat"
+         "id": 90,
+         "topic": "rato-toupeira pelado"
       },
       {
-         "id":91,
-         "topic":"wolverine"
+         "id": 91,
+         "topic": "wolverine"
       },
       {
-         "id":92,
-         "topic":"yak"
+         "id": 92,
+         "topic": "iaque"
       }
    ]
 }

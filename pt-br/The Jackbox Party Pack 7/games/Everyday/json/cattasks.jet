@@ -1,68 +1,68 @@
 {
-    "payload":[
-        { 
+    "payload": [
+        {
             "id": "EAT_BUGS",
-            "name": "GOOD KITTY! Eat the bugs",
+            "name": "BOA KITTY! Comer os insetos",
             "taskIdToSpawn": "AudienceGiveKittyTreat"
         },
-        { 
+        {
             "id": "POSE_FOR_PIC",
-            "name": "GOOD KITTY! Pose for social media pic",
+            "name": "BOA KITTY! Foto de pose para mídia social",
             "taskIdToSpawn": "AudienceTakeKittyPic"
         },
-        { 
-            "id": "SHOW_BELLY",
-            "name": "GOOD KITTY! Flop over and show your belly",
+        {
+            "id": "MOSTRAR BARRIGA",
+            "name": "BOA KITTY! Vire e mostre sua barriga",
             "taskIdToSpawn": "AudiencePetKitty"
         },
-        { 
+        {
             "id": "SHOW_CLAWS",
-            "name": "GOOD KITTY! Let your devils clip your claws",
+            "name": "BOA KITTY! Deixe seus demônios cortarem suas garras",
             "taskIdToSpawn": "AudienceClipClaws"
         },
-        { 
+        {
             "id": "FIGHT_VACUUM",
-            "name": "BAD KITTY! Fight with the robot vacuum",
+            "name": "BAD KITTY! Lute com o vácuo do robô",
             "taskIdToSpawn": "AudienceFixVacuum"
         },
-        { 
+        {
             "id": "DESTROY_LITTER",
-            "name": "BAD KITTY! Destroy the litter box",
+            "name": "BAD KITTY! Destrua a caixa de areia",
             "taskIdToSpawn": "AudienceCleanLitter"
         },
-        { 
+        {
             "id": "LAY_ON_LAPTOP",
-            "name": "BAD KITTY! Lay on the laptop and refuse to move",
+            "name": "BAD KITTY! Deite no laptop e se recuse a se mover",
             "taskIdToSpawn": "AudienceMoveKitty"
         },
-        { 
-            "id": "VOMIT",
-            "name": "BAD KITTY! Vomit on the nice clean sheets",
+        {
+            "id": "VOMITAR",
+            "name": "BAD KITTY! Vômito nos lençóis limpos",
             "taskIdToSpawn": "AudienceVetTrip"
         },
-        { 
+        {
             "id": "DART_OUT",
-            "name": "BAD KITTY! Dart out the front door and disappear",
+            "name": "BAD KITTY! Atire pela porta da frente e desapareça",
             "taskIdToSpawn": "AudienceFindKitty"
         },
-        { 
+        {
             "id": "SCRATCH_CHAIR",
-            "name": "BAD KITTY! Scratch up the good chair",
+            "name": "BAD KITTY! Arranhe a cadeira boa",
             "taskIdToSpawn": "AudienceScoldKitty"
         },
-        { 
+        {
             "id": "KNOCK_ITEMS",
-            "name": "BAD KITTY! Knock random objects off the desk",
+            "name": "BAD KITTY! Jogue objetos aleatórios fora da mesa",
             "taskIdToSpawn": "AudiencePickUp"
         },
-        { 
+        {
             "id": "PAW_WATER",
-            "name": "BAD KITTY! Stick your paw in owner's water glass",
+            "name": "BAD KITTY! Enfie sua pata no copo de água do dono",
             "taskIdToSpawn": "AudienceGetWater"
         },
-        { 
+        {
             "id": "SHOW_BELLY_TRAP",
-            "name": "BAD KITTY! Flop over and show your belly (but it's a trap)",
+            "name": "BAD KITTY! Vire-se e mostre sua barriga (mas é uma armadilha)",
             "taskIdToSpawn": "AudiencePetKittyScratch"
         }
     ]

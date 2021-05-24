@@ -1,61 +1,65 @@
 {
-    "content":[
+    "content": [
         {
-            "id":"Tutorial",
+            "id": "Tutorial",
             "difficulty": 0,
-            "titles": ["Wait what am I doing?","Uhh... how does this work?","What? Where am I?"],
-            "minChallenges":4,
-            "maxChallenges":4,
-            "mission": "Finish all challenges",
+            "titles": [
+                "Espere o que estou fazendo?",
+                "Uhh ... como isso funciona?",
+                "O que? Onde estou?"
+            ],
+            "minChallenges": 4,
+            "maxChallenges": 4,
+            "mission": "Termine todos os desafios",
             "gauntletBonus": 4000,
             "enemiesPerChallenge": {
                 "1": {
-                    "min":3,
-                    "max":5
+                    "min": 3,
+                    "max": 5
                 },
                 "2": {
-                    "min":3,
-                    "max":5
+                    "min": 3,
+                    "max": 5
                 },
                 "3": {
-                    "min":4,
-                    "max":5
+                    "min": 4,
+                    "max": 5
                 },
                 "4": {
-                    "min":4,
-                    "max":5
+                    "min": 4,
+                    "max": 5
                 },
                 "5": {
-                    "min":4,
-                    "max":5
+                    "min": 4,
+                    "max": 5
                 },
                 "6": {
-                    "min":4,
-                    "max":5
+                    "min": 4,
+                    "max": 5
                 }
             },
             "enemyEncounterRates": {
                 "BasicEnemy": 10,
                 "ArmoredEnemy": 5
             },
-            "minActionCooldown": 8.0,
-            "maxActionCooldown": 14.0,
-            "actionCooldownPercentageModPerTimer":1.35,
-            "actionCooldownPercentageModPerExtraEnemy":0.9,
-            "incapacitatedDuration":10,
+            "minActionCooldown": "8",
+            "maxActionCooldown": "14",
+            "actionCooldownPercentageModPerTimer": "1,35",
+            "actionCooldownPercentageModPerExtraEnemy": "0.9",
+            "incapacitatedDuration": 10,
             "incapacitatedDurationBonusPerPlayer": 0,
-            "primeDurationBonusPerPlayer": 0.9,
+            "primeDurationBonusPerPlayer": "0.9",
             "chanceEnemyWillPrimeNonPlayerColor": 0,
-            "incapacitatedHeal": 0.1,
+            "incapacitatedHeal": "0,1",
             "incapacitatedHitMaxPerPlayer": {
-                "1":1,
-                "2":1,
-                "3":1,
-                "4":1,
-                "5":1,
-                "6":1
+                "1": 1,
+                "2": 1,
+                "3": 1,
+                "4": 1,
+                "5": 1,
+                "6": 1
             },
-            "challengeCompleteHeal": 0.1,
+            "challengeCompleteHeal": "0,1",
             "numActionTimers": 2,
             "minChallengeRating": 0,
             "maxChallengeRating": 0,
@@ -67,37 +71,43 @@
             "unlockTitle": "Tutorial"
         },
         {
-            "id":"Easy",
+            "id": "Fácil",
             "difficulty": 1,
-            "titles": [ "Ouch! My Bones!", "The Agony! The Agony!", "The Torment is Unending!","It Burns! It Burns!","I’m Scarred!" ],
-            "minChallenges":4,
-            "maxChallenges":4,
-            "mission": "Finish all challenges",
-            "gauntletBonus": 6000,
+            "titles": [
+                "Ai! Meus ossos!",
+                "A agonia! A agonia!",
+                "O tormento é interminável!",
+                "Queima! Queima!",
+                "Estou com cicatrizes!"
+            ],
+            "minChallenges": 4,
+            "maxChallenges": 4,
+            "mission": "Termine todos os desafios",
+            "gauntletBonus": 6,
             "enemiesPerChallenge": {
                 "1": {
-                    "min":4,
-                    "max":5
+                    "min": 4,
+                    "max": 5
                 },
                 "2": {
-                    "min":3,
-                    "max":6
+                    "min": 3,
+                    "max": 6
                 },
                 "3": {
-                    "min":4,
-                    "max":6
+                    "min": 4,
+                    "max": 6
                 },
                 "4": {
-                    "min":4,
-                    "max":6
+                    "min": 4,
+                    "max": 6
                 },
                 "5": {
-                    "min":4,
-                    "max":6
+                    "min": 4,
+                    "max": 6
                 },
                 "6": {
-                    "min":4,
-                    "max":6
+                    "min": 4,
+                    "max": 6
                 }
             },
             "enemyEncounterRates": {
@@ -106,72 +116,80 @@
                 "DetonatorEnemy": 5,
                 "ConnectedEnemy": 5
             },
-            "minActionCooldown": 8.0,
-            "maxActionCooldown": 14.0,
-            "actionCooldownPercentageModPerTimer":1.25,
-            "actionCooldownPercentageModPerExtraEnemy":0.85,
-            "incapacitatedDuration":7,
-            "incapacitatedDurationBonusPerPlayer": 0.4,
-            "primeDurationBonusPerPlayer": 0.7,
-            "chanceEnemyWillPrimeNonPlayerColor": 0.35,
-            "incapacitatedHeal": 0.1,
+            "minActionCooldown": "8",
+            "maxActionCooldown": "14",
+            "actionCooldownPercentageModPerTimer": "1,25",
+            "actionCooldownPercentageModPerExtraEnemy": "0,85",
+            "incapacitatedDuration": 7,
+            "incapacitatedDurationBonusPerPlayer": "0,4",
+            "primeDurationBonusPerPlayer": "0,7",
+            "chanceEnemyWillPrimeNonPlayerColor": "0,35",
+            "incapacitatedHeal": "0,1",
             "incapacitatedHitMaxPerPlayer": {
-                "1":1,
-                "2":1,
-                "3":1,
-                "4":1,
-                "5":1,
-                "6":1
-            },            
-            "challengeCompleteHeal": 0.1,
+                "1": 1,
+                "2": 1,
+                "3": 1,
+                "4": 1,
+                "5": 1,
+                "6": 1
+            },
+            "challengeCompleteHeal": "0,1",
             "numActionTimers": 2,
             "minChallengeRating": 0,
             "maxChallengeRating": 2,
             "availableWeaponEffects": [
                 "ClusterBombs",
-                "Stun",
-                "Shield",
+                "Atordoar",
+                "Escudo",
                 "RainbowCannon",
                 "SuperBlaster"
             ],
             "prizeGate": 4500,
             "selectable": true,
-            "unlockType": "Gauntlet",
-            "unlockTitle": "Easy",
-            "unlockDescription": "Time for the real thing! Bounce off BUMPERS to deal with tougher enemies"
+            "unlockType": "Manopla",
+            "unlockTitle": "Fácil",
+            "unlockDescription": "É hora da coisa real! Bounce off BUMPERS para lidar com inimigos mais difíceis"
         },
         {
-            "id":"Medium",
+            "id": "Médio",
             "difficulty": 2,
-            "titles": [ "Ahhh! So Much Blood!", "Please, Please, Please, No More!", "Why Are You Doing This To Me?!","Everything’s Exploding!","The Unbearable Pain!","Please Let Me Go Home!", "Who Likes Trauma?"],
-            "minChallenges":5,
-            "maxChallenges":5,
-            "mission": "Finish all challenges",
-            "gauntletBonus": 10000,
+            "titles": [
+                "Ahhh! Tanto sangue!",
+                "Por favor, por favor, por favor, não mais!",
+                "Por que você está fazendo isto comigo?!",
+                "Tudo está explodindo!",
+                "A dor insuportável!",
+                "Por favor, deixe-me ir para casa!",
+                "Quem gosta de trauma?"
+            ],
+            "minChallenges": 5,
+            "maxChallenges": 5,
+            "mission": "Termine todos os desafios",
+            "gauntletBonus": 10,
             "enemiesPerChallenge": {
                 "1": {
-                    "min":3,
-                    "max":5
+                    "min": 3,
+                    "max": 5
                 },
                 "2": {
-                    "min":3,
-                    "max":6
+                    "min": 3,
+                    "max": 6
                 },
                 "3": {
-                    "min":4,
-                    "max":6
+                    "min": 4,
+                    "max": 6
                 },
                 "4": {
-                    "min":4,
-                    "max":6
+                    "min": 4,
+                    "max": 6
                 },
                 "5": {
-                    "min":4,
-                    "max":6
+                    "min": 4,
+                    "max": 6
                 },
                 "6": {
-                    "min":4,
-                    "max":6
+                    "min": 4,
+                    "max": 6
                 }
             },
             "enemyEncounterRates": {
@@ -181,73 +199,81 @@
                 "ConnectedEnemy": 7,
                 "AbsorberEnemy": 5
             },
-            "minActionCooldown": 7.0,
-            "maxActionCooldown": 13.0,
-            "actionCooldownPercentageModPerTimer":1.2,
-            "actionCooldownPercentageModPerExtraEnemy":0.85,
-            "incapacitatedDuration":6,
-            "incapacitatedDurationBonusPerPlayer": 0.6,
-            "primeDurationBonusPerPlayer": 0.6,
-            "chanceEnemyWillPrimeNonPlayerColor": 0.35,
-            "incapacitatedHeal": 0.1,
+            "minActionCooldown": "7",
+            "maxActionCooldown": "13",
+            "actionCooldownPercentageModPerTimer": "1,2",
+            "actionCooldownPercentageModPerExtraEnemy": "0,85",
+            "incapacitatedDuration": 6,
+            "incapacitatedDurationBonusPerPlayer": "0,6",
+            "primeDurationBonusPerPlayer": "0,6",
+            "chanceEnemyWillPrimeNonPlayerColor": "0,35",
+            "incapacitatedHeal": "0,1",
             "incapacitatedHitMaxPerPlayer": {
-                "1":1,
-                "2":1,
-                "3":1,
-                "4":1,
-                "5":1,
-                "6":1
+                "1": 1,
+                "2": 1,
+                "3": 1,
+                "4": 1,
+                "5": 1,
+                "6": 1
             },
-            "challengeCompleteHeal": 0.1,
+            "challengeCompleteHeal": "0,1",
             "numActionTimers": 2,
             "minChallengeRating": 1,
             "maxChallengeRating": 2,
             "availableWeaponEffects": [
                 "ClusterBombs",
-                "Stun",
-                "Shield",
+                "Atordoar",
+                "Escudo",
                 "RainbowCannon",
                 "SuperBlaster"
             ],
             "prizeGate": 80000,
             "selectable": true,
-            "unlockType": "Gauntlet",
-            "unlockTitle": "Medium",
-            "unlockDescription": "Coordinate with your team to pass through COLOR BARRIERS!"
-            
+            "unlockType": "Manopla",
+            "unlockTitle": "Médio",
+            "unlockDescription": "Coordene com sua equipe para passar pelas BARREIRAS DE COR!"
         },
         {
-            "id":"Hard",
+            "id": "Duro",
             "difficulty": 3,
-            "titles": [ "Bodies Everywhere!", "I Can’t Feel My Legs!", "I’m On Fire!!!","My Flesh Is Gone!","Please Kill Me!","Death! Death! Death!","So Much Carnage!","Medic! Medic!" ],
-            "minChallenges":5,
-            "maxChallenges":5,
-            "mission": "Finish all challenges",
+            "titles": [
+                "Corpos em toda parte!",
+                "Não consigo sentir minhas pernas!",
+                "Estou em chamas!!!",
+                "Minha carne se foi!",
+                "Por favor me mate!",
+                "Morte! Morte! Morte!",
+                "Muita carnificina!",
+                "Médico! Médico!"
+            ],
+            "minChallenges": 5,
+            "maxChallenges": 5,
+            "mission": "Termine todos os desafios",
             "gauntletBonus": 15000,
             "enemiesPerChallenge": {
                 "1": {
-                    "min":3,
-                    "max":5
+                    "min": 3,
+                    "max": 5
                 },
                 "2": {
-                    "min":3,
-                    "max":6
+                    "min": 3,
+                    "max": 6
                 },
                 "3": {
-                    "min":4,
-                    "max":6
+                    "min": 4,
+                    "max": 6
                 },
                 "4": {
-                    "min":4,
-                    "max":6
+                    "min": 4,
+                    "max": 6
                 },
                 "5": {
-                    "min":4,
-                    "max":6
+                    "min": 4,
+                    "max": 6
                 },
                 "6": {
-                    "min":4,
-                    "max":6
+                    "min": 4,
+                    "max": 6
                 }
             },
             "enemyEncounterRates": {
@@ -258,73 +284,76 @@
                 "AbsorberEnemy": 5,
                 "SpawnerEnemy": 5
             },
-            "minActionCooldown": 7.0,
-            "maxActionCooldown": 13.0,
-            "actionCooldownPercentageModPerTimer":1.35,
-            "actionCooldownPercentageModPerExtraEnemy":0.85,
-            "incapacitatedDuration":5.5,
-            "incapacitatedDurationBonusPerPlayer": 0.6,
-            "primeDurationBonusPerPlayer": 0.45,
-            "chanceEnemyWillPrimeNonPlayerColor": 0.4,
-            "incapacitatedHeal": 0.1,
+            "minActionCooldown": "7",
+            "maxActionCooldown": "13",
+            "actionCooldownPercentageModPerTimer": "1,35",
+            "actionCooldownPercentageModPerExtraEnemy": "0,85",
+            "incapacitatedDuration": "5,5",
+            "incapacitatedDurationBonusPerPlayer": "0,6",
+            "primeDurationBonusPerPlayer": "0,45",
+            "chanceEnemyWillPrimeNonPlayerColor": "0,4",
+            "incapacitatedHeal": "0,1",
             "incapacitatedHitMaxPerPlayer": {
-                "1":1,
-                "2":1,
-                "3":1,
-                "4":1,
-                "5":1,
-                "6":1
+                "1": 1,
+                "2": 1,
+                "3": 1,
+                "4": 1,
+                "5": 1,
+                "6": 1
             },
-            "challengeCompleteHeal": 0.1,
+            "challengeCompleteHeal": "0,1",
             "numActionTimers": 3,
             "minChallengeRating": 3,
             "maxChallengeRating": 4,
             "availableWeaponEffects": [
                 "ClusterBombs",
-                "Stun",
-                "Shield",
+                "Atordoar",
+                "Escudo",
                 "RainbowCannon",
                 "SuperBlaster"
             ],
             "prizeGate": 200000,
             "selectable": true,
-            "unlockType": "Gauntlet",
-            "unlockTitle": "Insane",
-            "unlockDescription": "Fling through one portal and pop out the other!"
-            
+            "unlockType": "Manopla",
+            "unlockTitle": "Insano",
+            "unlockDescription": "Arremesse por um portal e salte pelo outro!"
         },
         {
-            "id":"Xtreme",
+            "id": "extremo",
             "difficulty": 4,
-            "titles": [ "The Unspeakable Horror!", "Make It Stop!", "AAAAAAAHHHHH!!!!" ],
-            "minChallenges":6,
-            "maxChallenges":6,
-            "mission": "Finish all challenges",
-            "gauntletBonus": 20000,
+            "titles": [
+                "O Terror Indizível!",
+                "Faça parar!",
+                "AAAAAAAHHHHH !!!!"
+            ],
+            "minChallenges": 6,
+            "maxChallenges": 6,
+            "mission": "Termine todos os desafios",
+            "gauntletBonus": 20,
             "enemiesPerChallenge": {
                 "1": {
-                    "min":3,
-                    "max":5
+                    "min": 3,
+                    "max": 5
                 },
                 "2": {
-                    "min":3,
-                    "max":6
+                    "min": 3,
+                    "max": 6
                 },
                 "3": {
-                    "min":4,
-                    "max":6
+                    "min": 4,
+                    "max": 6
                 },
                 "4": {
-                    "min":4,
-                    "max":6
+                    "min": 4,
+                    "max": 6
                 },
                 "5": {
-                    "min":4,
-                    "max":6
+                    "min": 4,
+                    "max": 6
                 },
                 "6": {
-                    "min":4,
-                    "max":6
+                    "min": 4,
+                    "max": 6
                 }
             },
             "enemyEncounterRates": {
@@ -335,72 +364,76 @@
                 "AbsorberEnemy": 5,
                 "SpawnerEnemy": 5
             },
-            "minActionCooldown": 6.0,
-            "maxActionCooldown": 12.0,
-            "actionCooldownPercentageModPerTimer":1.30,
-            "actionCooldownPercentageModPerExtraEnemy":0.80,
-            "incapacitatedDuration":5,
-            "incapacitatedDurationBonusPerPlayer": 0.6,
-            "primeDurationBonusPerPlayer": 0.40,
-            "chanceEnemyWillPrimeNonPlayerColor": 0.5,
-            "incapacitatedHeal": 0.1,
+            "minActionCooldown": "6",
+            "maxActionCooldown": "12",
+            "actionCooldownPercentageModPerTimer": "1,3",
+            "actionCooldownPercentageModPerExtraEnemy": "0,8",
+            "incapacitatedDuration": 5,
+            "incapacitatedDurationBonusPerPlayer": "0,6",
+            "primeDurationBonusPerPlayer": "0,4",
+            "chanceEnemyWillPrimeNonPlayerColor": "0,5",
+            "incapacitatedHeal": "0,1",
             "incapacitatedHitMaxPerPlayer": {
-                "1":1,
-                "2":1,
-                "3":1,
-                "4":1,
-                "5":1,
-                "6":1
+                "1": 1,
+                "2": 1,
+                "3": 1,
+                "4": 1,
+                "5": 1,
+                "6": 1
             },
-            "challengeCompleteHeal": 0.1,
+            "challengeCompleteHeal": "0,1",
             "numActionTimers": 3,
             "minChallengeRating": 2,
             "maxChallengeRating": 4,
             "availableWeaponEffects": [
                 "ClusterBombs",
-                "Stun",
-                "Shield",
+                "Atordoar",
+                "Escudo",
                 "RainbowCannon",
                 "SuperBlaster"
             ],
             "prizeGate": 400000,
             "selectable": false,
-            "unlockType": "difficulty",
-            "unlockTitle": "Utter Madness",
-            "unlockDescription": "Utter madness! Survive MEDIUM or INSANE to reach this gauntlet"
+            "unlockType": "dificuldade",
+            "unlockTitle": "Loucura total",
+            "unlockDescription": "Loucura total! Sobreviva MÉDIO ou INSANO para alcançar este desafio"
         },
         {
-            "id":"XXtreme",
+            "id": "XXtreme",
             "difficulty": 5,
-            "titles": [ "I Can’t Take It!", "Ouch My Pelvis!", "Am I Dead Yet?" ],
-            "minChallenges":5,
-            "maxChallenges":5,
-            "mission": "Finish all challenges",
+            "titles": [
+                "Eu não agüento!",
+                "Ai minha pelve!",
+                "Eu estou morto ainda?"
+            ],
+            "minChallenges": 5,
+            "maxChallenges": 5,
+            "mission": "Termine todos os desafios",
             "gauntletBonus": 25000,
             "enemiesPerChallenge": {
                 "1": {
-                    "min":3,
-                    "max":5
+                    "min": 3,
+                    "max": 5
                 },
                 "2": {
-                    "min":3,
-                    "max":6
+                    "min": 3,
+                    "max": 6
                 },
                 "3": {
-                    "min":4,
-                    "max":6
+                    "min": 4,
+                    "max": 6
                 },
                 "4": {
-                    "min":4,
-                    "max":6
+                    "min": 4,
+                    "max": 6
                 },
                 "5": {
-                    "min":4,
-                    "max":6
+                    "min": 4,
+                    "max": 6
                 },
                 "6": {
-                    "min":4,
-                    "max":6
+                    "min": 4,
+                    "max": 6
                 }
             },
             "enemyEncounterRates": {
@@ -411,39 +444,39 @@
                 "AbsorberEnemy": 5,
                 "SpawnerEnemy": 5
             },
-            "minActionCooldown": 6.0,
-            "maxActionCooldown": 12.0,
-            "actionCooldownPercentageModPerTimer":1.30,
-            "actionCooldownPercentageModPerExtraEnemy":0.75,
-            "incapacitatedDuration":4.5,
-            "incapacitatedDurationBonusPerPlayer": 0.5,
-            "primeDurationBonusPerPlayer": 0.25,
-            "chanceEnemyWillPrimeNonPlayerColor": 0.6,
-            "incapacitatedHeal": 0.1,
+            "minActionCooldown": "6",
+            "maxActionCooldown": "12",
+            "actionCooldownPercentageModPerTimer": "1,3",
+            "actionCooldownPercentageModPerExtraEnemy": "0,75",
+            "incapacitatedDuration": "4,5",
+            "incapacitatedDurationBonusPerPlayer": "0,5",
+            "primeDurationBonusPerPlayer": "0,25",
+            "chanceEnemyWillPrimeNonPlayerColor": "0,6",
+            "incapacitatedHeal": "0,1",
             "incapacitatedHitMaxPerPlayer": {
-                "1":1,
-                "2":1,
-                "3":1,
-                "4":1,
-                "5":1,
-                "6":1
+                "1": 1,
+                "2": 1,
+                "3": 1,
+                "4": 1,
+                "5": 1,
+                "6": 1
             },
-            "challengeCompleteHeal": 0.1,
+            "challengeCompleteHeal": "0,1",
             "numActionTimers": 3,
             "minChallengeRating": 3,
             "maxChallengeRating": 4,
             "availableWeaponEffects": [
                 "ClusterBombs",
-                "Stun",
-                "Shield",
+                "Atordoar",
+                "Escudo",
                 "RainbowCannon",
                 "SuperBlaster"
             ],
             "prizeGate": 600000,
             "selectable": false,
-            "unlockType": "difficulty",
-            "unlockTitle": "Hell",
-            "unlockDescription": "Survive INSANE to reach this final challenge!"
+            "unlockType": "dificuldade",
+            "unlockTitle": "Inferno",
+            "unlockDescription": "Sobreviva INSANE para alcançar este desafio final!"
         }
     ]
 }

@@ -1,262 +1,262 @@
 {
-    "content":[
+    "content": [
         {
-            "id":"00000000",
-            "title":"WARNING",
-            "text":"Suspicious activity. A girl responded to your email.",
-            "time":5.0
+            "id": "00000000",
+            "title": "AVISO",
+            "text": "Atividade suspeita. Uma garota respondeu ao seu e-mail.",
+            "time": "5"
         },
         {
-            "id":"00000001",
-            "title":"WARNING",
-            "text":"You are connected to a WiFi network that doesn’t have a fun name.",
-            "time":5.0
+            "id": "00000001",
+            "title": "AVISO",
+            "text": "Você está conectado a uma rede WiFi que não tem um nome divertido.",
+            "time": "5"
         },
         {
-            "id":"00000002",
-            "title":"WARNING",
-            "text":"Bats exist!",
-            "time":5.0
+            "id": "00000002",
+            "title": "AVISO",
+            "text": "Os morcegos existem!",
+            "time": "5"
         },
         {
-            "id":"00000003",
-            "title":"WARNING",
-            "text":"Folder “Gillian Anderson Photos” taking up 85% of hard drive.",
-            "time":5.0
+            "id": "00000003",
+            "title": "AVISO",
+            "text": "A pasta “Gillian Anderson Photos” ocupando 85% do disco rígido.",
+            "time": "5"
         },
         {
-            "id":"00000004",
-            "title":"WARNING",
-            "text":"Those pants don't go with that top.",
-            "time":5.0
+            "id": "00000004",
+            "title": "AVISO",
+            "text": "Essas calças não combinam com esse top.",
+            "time": "5"
         },
         {
-            "id":"00000005",
-            "title":"WARNING",
-            "text":"Your keyboard is absolutely disgusting, you animal.",
-            "time":5.0
+            "id": "00000005",
+            "title": "AVISO",
+            "text": "Seu teclado é absolutamente nojento, seu animal.",
+            "time": "5"
         },
         {
-            "id":"00000006",
-            "title":"WARNING",
-            "text":"You’re still allergic to blueberries.",
-            "time":5.0
+            "id": "00000006",
+            "title": "AVISO",
+            "text": "Você ainda é alérgico a mirtilos.",
+            "time": "5"
         },
         {
-            "id":"00000007",
-            "title":"WARNING",
-            "text":"Paul is in one of those moods today.",
-            "time":5.0
+            "id": "00000007",
+            "title": "AVISO",
+            "text": "Paul está com um desses humores hoje.",
+            "time": "5"
         },
         {
-            "id":"00000008",
-            "title":"WARNING",
-            "text":"High blood pressure runs in your family.",
-            "time":5.0
+            "id": "00000008",
+            "title": "AVISO",
+            "text": "A hipertensão é familiar.",
+            "time": "5"
         },
         {
-            "id":"00000009",
-            "title":"WARNING",
-            "text":"Computer is running an ancient operating system.",
-            "time":5.0
+            "id": "00000009",
+            "title": "AVISO",
+            "text": "O computador está executando um sistema operacional antigo.",
+            "time": "5"
         },
         {
-            "id":"00000010",
-            "title":"WARNING",
-            "text":"Computer will restart whenever it dang well pleases.",
-            "time":5.0
+            "id": "00000010",
+            "title": "AVISO",
+            "text": "O computador irá reiniciar sempre que bem quiser.",
+            "time": "5"
         },
         {
-            "id":"00000011",
-            "title":"WARNING",
-            "text":"Hackers suspected. Ok, they got sad and left. ",
-            "time":5.0
+            "id": "00000011",
+            "title": "AVISO",
+            "text": "Hackers suspeitam. Ok, eles ficaram tristes e foram embora. ",
+            "time": "5"
         },
         {
-            "id":"00000012",
-            "title":"WARNING",
-            "text":"CD Drive wants to eject 'Epic Party Mix' CD. ",
-            "time":5.0
+            "id": "00000012",
+            "title": "AVISO",
+            "text": "A unidade de CD deseja ejetar o CD 'Epic Party Mix'. ",
+            "time": "5"
         },
         {
-            "id":"00000013",
-            "title":"WARNING",
-            "text":"You didn't take your vitamin this morning.",
-            "time":5.0
+            "id": "00000013",
+            "title": "AVISO",
+            "text": "Você não tomou sua vitamina esta manhã.",
+            "time": "5"
         },
         {
-            "id":"00000014",
-            "title":"WARNING",
-            "text":"Your milk is about to turn.",
-            "time":5.0
+            "id": "00000014",
+            "title": "AVISO",
+            "text": "Seu leite está prestes a virar.",
+            "time": "5"
         },
         {
-            "id":"00000015",
-            "title":"WARNING",
-            "text":"I'm about to spoil the ending to Game of Thrones.",
-            "time":5.0
+            "id": "00000015",
+            "title": "AVISO",
+            "text": "Estou prestes a estragar o final de Game of Thrones.",
+            "time": "5"
         },
         {
-            "id":"00000016",
-            "title":"WARNING",
-            "text":"You kind of look like Paul Giamatti today.",
-            "time":5.0
+            "id": "00000016",
+            "title": "AVISO",
+            "text": "Você meio que se parece com Paul Giamatti hoje.",
+            "time": "5"
         },
         {
-            "id":"00000017",
-            "title":"WARNING",
-            "text":"You haven't worn pants in three days.",
-            "time":5.0
+            "id": "00000017",
+            "title": "AVISO",
+            "text": "Você não usa calças há três dias.",
+            "time": "5"
         },
         {
-            "id":"00000018",
-            "title":"WARNING",
-            "text":"You have something in your teeth.",
-            "time":5.0
+            "id": "00000018",
+            "title": "AVISO",
+            "text": "Você tem algo em seus dentes.",
+            "time": "5"
         },
         {
-            "id":"00000019",
-            "title":"WARNING",
-            "text":"You've disconnected from the server “BIGBOY”",
-            "time":5.0
+            "id": "00000019",
+            "title": "AVISO",
+            "text": "Você se desconectou do servidor “BIGBOY”",
+            "time": "5"
         },
         {
-            "id":"00000020",
-            "title":"WARNING",
-            "text":"Don't call me “honey”",
-            "time":5.0
+            "id": "00000020",
+            "title": "AVISO",
+            "text": "Não me chame de “querida”",
+            "time": "5"
         },
         {
-            "id":"00000021",
-            "title":"WARNING",
-            "text":"Connection to sadboysclub.org has timed out",
-            "time":5.0
+            "id": "00000021",
+            "title": "AVISO",
+            "text": "A conexão com sadboysclub.org expirou",
+            "time": "5"
         },
         {
-            "id":"00000022",
-            "title":"WARNING",
-            "text":"Your mouse is covered in powdered cheese residue.",
-            "time":5.0
+            "id": "00000022",
+            "title": "AVISO",
+            "text": "Seu mouse está coberto de resíduos de queijo em pó.",
+            "time": "5"
         },
         {
-            "id":"00000023",
-            "title":"WARNING",
-            "text":"There are teens right outside your house.",
-            "time":5.0
+            "id": "00000023",
+            "title": "AVISO",
+            "text": "Existem adolescentes fora da sua casa.",
+            "time": "5"
         },
         {
-            "id":"00000024",
-            "title":"WARNING",
-            "text":"Do not fall in love in with me.",
-            "time":5.0
+            "id": "00000024",
+            "title": "AVISO",
+            "text": "Não se apaixone por mim.",
+            "time": "5"
         },
         {
-            "id":"00000025",
-            "title":"WARNING",
-            "text":"Life is futile.",
-            "time":5.0
+            "id": "00000025",
+            "title": "AVISO",
+            "text": "A vida é fútil.",
+            "time": "5"
         },
         {
-            "id":"00000026",
-            "title":"WARNING",
-            "text":"Do NOT speak to me until I've had my coffee.",
-            "time":5.0
+            "id": "00000026",
+            "title": "AVISO",
+            "text": "NÃO fale comigo até que eu tenha meu café.",
+            "time": "5"
         },
         {
-            "id":"00000028",
-            "title":"WARNING",
-            "text":"The government is watching you right now.",
-            "time":5.0
+            "id": "00000028",
+            "title": "AVISO",
+            "text": "O governo está de olho em você agora.",
+            "time": "5"
         },
         {
-            "id":"00000029",
-            "title":"WARNING",
-            "text":"Nobody wants to steal your identity.",
-            "time":5.0
+            "id": "00000029",
+            "title": "AVISO",
+            "text": "Ninguém quer roubar sua identidade.",
+            "time": "5"
         },
         {
-            "id":"00000030",
-            "title":"WARNING",
-            "text":"You’re becoming your father",
-            "time":5.0
+            "id": "00000030",
+            "title": "AVISO",
+            "text": "Você está se tornando seu pai",
+            "time": "5"
         },
         {
-            "id":"00000031",
-            "title":"WARNING",
-            "text":"She’s not coming back",
-            "time":5.0
+            "id": "00000031",
+            "title": "AVISO",
+            "text": "Ela não vai voltar",
+            "time": "5"
         },
         {
-            "id":"00000032",
-            "title":"WARNING",
-            "text":"You’re wasting your sociology degree.",
-            "time":5.0
+            "id": "00000032",
+            "title": "AVISO",
+            "text": "Você está desperdiçando seu diploma de sociologia.",
+            "time": "5"
         },
         {
-            "id":"00000033",
-            "title":"WARNING",
-            "text":"Your Bitcoin is worthless.",
-            "time":5.0
+            "id": "00000033",
+            "title": "AVISO",
+            "text": "Seu Bitcoin não vale nada.",
+            "time": "5"
         },
         {
-            "id":"00000034",
-            "title":"WARNING",
-            "text":"File: “Bath Time Music” is corrupt.",
-            "time":5.0
+            "id": "00000034",
+            "title": "AVISO",
+            "text": "Arquivo: “Bath Time Music” está corrompido.",
+            "time": "5"
         },
         {
-            "id":"00000035",
-            "title":"WARNING",
-            "text":"File: “Emo Music For Driving Alone To” is corrupt.",
-            "time":5.0
+            "id": "00000035",
+            "title": "AVISO",
+            "text": "Arquivo: “Emo Music For Driving Alone To” está corrompido.",
+            "time": "5"
         },
         {
-            "id":"00000036",
-            "title":"WARNING",
-            "text":"File: “Fancy Boy Music” is corrupt.",
-            "time":5.0
+            "id": "00000036",
+            "title": "AVISO",
+            "text": "Arquivo: “Fancy Boy Music” está corrompido.",
+            "time": "5"
         },
         {
-            "id":"00000037",
-            "title":"WARNING",
-            "text":"Just about everything has been breached.",
-            "time":5.0
+            "id": "00000037",
+            "title": "AVISO",
+            "text": "Quase tudo foi violado.",
+            "time": "5"
         },
         {
-            "id":"00000038",
-            "title":"WARNING",
-            "text":"Your posture is terrible.",
-            "time":5.0
+            "id": "00000038",
+            "title": "AVISO",
+            "text": "Sua postura está péssima.",
+            "time": "5"
         },
         {
-            "id":"00000039",
-            "title":"WARNING",
-            "text":"You are about to enter the comments section.",
-            "time":5.0
+            "id": "00000039",
+            "title": "AVISO",
+            "text": "Você está prestes a entrar na seção de comentários.",
+            "time": "5"
         },
         {
-            "id":"00000040",
-            "title":"WARNING",
-            "text":"Your screenplay has major plot holes.",
-            "time":5.0
+            "id": "00000040",
+            "title": "AVISO",
+            "text": "Seu roteiro tem grandes buracos na trama.",
+            "time": "5"
         },
         {
-            "id":"00000041",
-            "title":"WARNING",
-            "text":"Computer camera is on. Please put a shirt on.",
-            "time":5.0
+            "id": "00000041",
+            "title": "AVISO",
+            "text": "A câmera do computador está ligada. Por favor, vista uma camisa.",
+            "time": "5"
         },
         {
-            "id":"00000042",
-            "title":"WARNING",
-            "text":"Your hard drive is full of gross stuff.",
-            "time":5.0
+            "id": "00000042",
+            "title": "AVISO",
+            "text": "Seu disco rígido está cheio de coisas nojentas.",
+            "time": "5"
         },
         {
-            "id":"00000043",
-            "title":"WARNING",
-            "text":"You removed a USB device prematurely. Prepare for explosions.",
-            "time":5.0
+            "id": "00000043",
+            "title": "AVISO",
+            "text": "Você removeu um dispositivo USB prematuramente. Prepare-se para explosões.",
+            "time": "5"
         }
     ]
 }

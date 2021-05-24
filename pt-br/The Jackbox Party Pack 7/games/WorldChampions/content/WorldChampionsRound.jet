@@ -2,7 +2,7 @@
  "content": [
   {
    "contest": "O campeão da crise da meia-idade",
-   "gameText": "a crise da meia-idade",
+   "gameText": "A crise da meia-idade",
    "id": "68683",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -55,8 +55,8 @@
    "x": true
   },
   {
-   "contest": "O campeão de Sass",
-   "gameText": "Sass",
+   "contest": "O campeão de atrevimento",
+   "gameText": "Atrevimento",
    "id": "68697",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -65,7 +65,7 @@
   },
   {
    "contest": "O campeão do meio-oeste",
-   "gameText": "o meio-oeste",
+   "gameText": "O meio-oeste",
    "id": "68699",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -137,7 +137,7 @@
   },
   {
    "contest": "O campeão dos subúrbios",
-   "gameText": "os suburbios",
+   "gameText": "Os subúrbios",
    "id": "68726",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -163,7 +163,7 @@
    "x": true
   },
   {
-   "contest": "O campeão do ensino médio",
+   "contest": "O campeão do colegial",
    "gameText": "Colegial ",
    "id": "68735",
    "includesPlayerName": false,
@@ -173,7 +173,7 @@
   },
   {
    "contest": "O campeão da geração do milênio",
-   "gameText": "geração do milênio",
+   "gameText": "Geração do milênio",
    "id": "68749",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -190,8 +190,8 @@
    "x": false
   },
   {
-   "contest": "O campeão de tornar as pessoas vômitas",
-   "gameText": "Fazendo as pessoas vômito",
+   "contest": "O campeão de fazer as pessoas vomitarem",
+   "gameText": "Fazendo as pessoas vomitarem",
    "id": "68770",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -236,7 +236,7 @@
   },
   {
    "contest": "O campeão da madrugada",
-   "gameText": "madrugada",
+   "gameText": "Madrugada",
    "id": "68779",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -317,7 +317,7 @@
   },
   {
    "contest": "O campeão dos Illuminati",
-   "gameText": "os Illuminati",
+   "gameText": "Os Illuminati",
    "id": "69069",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -326,7 +326,7 @@
   },
   {
    "contest": "O campeão da pista de dança",
-   "gameText": "a pista de dança",
+   "gameText": "A pista de dança",
    "id": "69208",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -389,7 +389,7 @@
   },
   {
    "contest": "O campeão dos cheiros",
-   "gameText": "Cheiros",
+   "gameText": "Cheirosos",
    "id": "69299",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -415,7 +415,7 @@
    "x": false
   },
   {
-   "contest": "O campeão do league of legends",
+   "contest": "O campeão do League of Legends",
    "gameText": "League of Legends",
    "id": "69348",
    "includesPlayerName": false,
@@ -533,7 +533,7 @@
   },
   {
    "contest": "O campeão do sótão",
-   "gameText": "o sótão",
+   "gameText": "O sótão",
    "id": "69953",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -569,7 +569,7 @@
   },
   {
    "contest":"O Campeão da Banheira de Hidromassagem",
-   "gameText": "a banheira de hidromassagem",
+   "gameText": "A banheira de hidromassagem",
    "id": "69990",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -595,7 +595,7 @@
    "x": true
   },
   {
-   "contest": "O campeão de Trabalho.",
+   "contest": "O campeão de trabalho.",
    "gameText": "Trabalho.",
    "id": "70095",
    "includesPlayerName": false,
@@ -650,7 +650,7 @@
   },
   {
    "contest": "O campeão de ser demais",
-   "gameText": "Sendo muito",
+   "gameText": "Sendo demais",
    "id": "70116",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -676,7 +676,7 @@
    "x": false
   },
   {
-   "contest": "O campeão do Parquinho",
+   "contest": "O campeão do parquinho",
    "gameText": "O melhor do parquinho",
    "id": "70135",
    "includesPlayerName": false,
@@ -686,7 +686,7 @@
   },
   {
    "contest": "O campeão da vida após a morte",
-   "gameText": "a vida após a morte",
+   "gameText": "A vida após a morte",
    "id": "70175",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -694,7 +694,7 @@
    "x": true
   },
   {
-   "contest": "O Modo Campeão Animal",
+   "contest": "O Campeão do Modo Animal",
    "gameText": "Modo Animal",
    "id": "70181",
    "includesPlayerName": false,
@@ -713,7 +713,7 @@
   },
   {
    "contest": "O campeão do mar profundo",
-   "gameText":"o mar profundo",
+   "gameText":"O mar profundo",
    "id": "70225",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -766,7 +766,7 @@
    "x": false
   },
   {
-   "contest": "O campeão de decepcionar seus pais",
+   "contest": "O campeão de desapontar seus pais",
    "gameText": "Desapontando seus pais",
    "id": "70279",
    "includesPlayerName": false,
@@ -878,7 +878,7 @@
   },
   {
    "contest": "O Campeão do Heavy Metal",
-   "gameText": "Metal pesado",
+   "gameText": "Heavy Metal",
    "id": "70372",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -1022,7 +1022,7 @@
   },
   {
    "contest": "O campeão da explosão de sabores",
-   "gameText": "Explosão de sabor",
+   "gameText": "Explosão de sabores",
    "id": "70570",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -1040,7 +1040,7 @@
   },
   {
    "contest": "O campeão do futuro",
-   "gameText": "o futuro",
+   "gameText": "O futuro",
    "id": "70638",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -1076,7 +1076,7 @@
   },
   {
    "contest": "O campeão do porão",
-   "gameText": "o porão",
+   "gameText": "O porão",
    "id": "70701",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -1085,7 +1085,7 @@
   },
   {
    "contest": "O campeão de pedra, papel, tesoura",
-   "gameText": "pedra, papel, tesoura",
+   "gameText": "Pedra, papel, tesoura",
    "id": "70833",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -1121,7 +1121,7 @@
   },
   {
    "contest": "O campeão de estar fora de si",
-   "gameText": "Estar Fora de si",
+   "gameText": "Estar fora de si",
    "id": "70846",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -1193,7 +1193,7 @@
   },
   {
    "contest": "O Campeão da Economia ",
-   "gameText": "a economia",
+   "gameText": "A economia",
    "id": "71069",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -1220,7 +1220,7 @@
   },
   {
    "contest": "O campeão dos velhos tempos",
-   "gameText": "velhos tempos",
+   "gameText": "Velhos tempos",
    "id": "71096",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -1238,7 +1238,7 @@
   },
   {
    "contest": "O campeão do deserto",
-   "gameText": "o deserto ",
+   "gameText": "O deserto ",
    "id": "71103",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -1247,7 +1247,7 @@
   },
   {
    "contest": "O campeão da piscina comunitária",
-   "gameText": "o Piscina da Comunidade",
+   "gameText": "A piscina comunitária",
    "id": "71104",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -1283,7 +1283,7 @@
   },
   {
    "contest": "O Campeão do Universo Paralelo",
-   "gameText":"o Universo Paralelo",
+   "gameText":"O Universo Paralelo",
    "id": "71162",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -1292,7 +1292,7 @@
   },
   {
    "contest": "O campeão do vestiário do ginásio",
-   "gameText": "o vestiário do ginásio",
+   "gameText": "O vestiário do ginásio",
    "id": "71171",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -1328,7 +1328,7 @@
   },
   {
    "contest": "O campeão da Dark Web ",
-   "gameText": "a Dark Web ",
+   "gameText": "A Dark Web ",
    "id": "71200",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -1391,7 +1391,7 @@
   },
   {
    "contest": "O Campeão do Sertão",
-   "gameText": "o sertão",
+   "gameText": "O sertão",
    "id": "71219",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -1399,7 +1399,7 @@
    "x": false
   },
   {
-   "contest": "O campeão das reclamações de ruído",
+   "contest": "O campeão das queixas de ruído",
    "gameText": "Queixas de ruído",
    "id": "71222",
    "includesPlayerName": false,
@@ -1426,7 +1426,7 @@
    "x": true
   },
   {
-   "contest": "O campeão por descobrir que eram lindas o tempo todo",
+   "contest": "O campeão de descobrir que eram lindas o tempo todo",
    "gameText": "Descobrindo que eram lindas o tempo todo ",
    "id": "71264",
    "includesPlayerName": false,
@@ -1444,8 +1444,8 @@
    "x": false
   },
   {
-   "contest": "O campeão de sempre correr 5 minutos atrasado",
-   "gameText": "Sempre 5 minutos atrasado",
+   "contest": "O campeão de sempre estar 5 minutos atrasado",
+   "gameText": "Estar 5 minutos atrasado",
    "id": "71273",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -1499,7 +1499,7 @@
   },
   {
    "contest": "O campeão da insinuação",
-   "gameText": "Sugestão",
+   "gameText": "Insinuando",
    "id": "71335",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -1624,8 +1624,8 @@
    "x": false
   },
   {
-   "contest": "O campeão da experiencia",
-   "gameText": "mais exp",
+   "contest": "O campeão da experiência",
+   "gameText": "Mais xp",
    "id": "71647",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -1651,8 +1651,8 @@
    "x": true
   },
   {
-   "contest": "O campeão dos Senhores da terra",
-   "gameText":"Senhores da terra",
+   "contest": "O campeão dos Senhores de terra",
+   "gameText":"Senhores de terra",
    "id": "71728",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -1660,8 +1660,8 @@
    "x": true
   },
   {
-   "contest": "O campeão do espaçamento",
-   "gameText": "Espaçamento",
+   "contest": "O campeão de viajar na maionese",
+   "gameText": "Viajando na maionese",
    "id": "71731",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -1678,7 +1678,7 @@
    "x": true
   },
   {
-   "contest": "O campeão de Drogas",
+   "contest": "O campeão de drogas",
    "gameText": "Drogas",
    "id": "71759",
    "includesPlayerName": false,
@@ -1732,7 +1732,7 @@
    "x": false
   },
   {
-   "contest": "O campeão de Pokémons rejeitados",
+   "contest": "O campeão de Pokémon rejeitados",
    "gameText": "Pokémon rejeitado",
    "id": "74769",
    "includesPlayerName": false,
@@ -1742,7 +1742,7 @@
   },
   {
    "contest": "O campeão de uma galáxia distante",
-   "gameText": "uma galáxia distante ",
+   "gameText": "Uma galáxia distante ",
    "id": "74770",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -1786,7 +1786,7 @@
    "x": false
   },
   {
-   "contest": "O campeão da paixão secreta de <ANYPLAYER>",
+   "contest": "O campeão do Crush secreto de <ANYPLAYER>",
    "gameText": "Crush de <ANYPLAYER>",
    "id": "74792",
    "includesPlayerName": true,
@@ -1814,7 +1814,7 @@
   },
   {
    "contest":"O campeão do clube secreto de <ANYPLAYER>",
-   "gameText": "Clube Secreto de <ANYPLAYER> ",
+   "gameText": "Clube secreto de <ANYPLAYER> ",
    "id": "74795",
    "includesPlayerName": true,
    "linkedPrompts": [],
@@ -1841,7 +1841,7 @@
   },
   {
    "contest": "O campeão <ANYPLAYER> em vinte anos",
-   "gameText": "<ANYPLAYER> Em Vinte Anos",
+   "gameText": "<ANYPLAYER> em vinte anos",
    "id": "74803",
    "includesPlayerName": true,
    "linkedPrompts": [],
@@ -1850,7 +1850,7 @@
   },
   {
    "contest": "O campeão da estranha obsessão por <ANYPLAYER>",
-   "gameText": "Obsessão esquisita por <ANYPLAYER> ",
+   "gameText": "Estranha obsessão por <ANYPLAYER> ",
    "id": "74804",
    "includesPlayerName": true,
    "linkedPrompts": [],
@@ -1930,8 +1930,8 @@
    "x": false
   },
   {
-   "contest": "O campeão de fazer <ANYPLAYER> vômitar",
-   "gameText": "Fazendo <ANYPLAYER> Vômitar",
+   "contest": "O campeão de fazer <ANYPLAYER> vomitar",
+   "gameText": "Fazendo <ANYPLAYER> vomitar",
    "id": "74870",
    "includesPlayerName": true,
    "linkedPrompts": [],
@@ -1975,7 +1975,7 @@
    "x": false
   },
   {
-   "contest": "O campeão do anjo da guarda de <ANYPLAYER>",
+   "contest": "O campeão de anjo da guarda de <ANYPLAYER>",
    "gameText":"Anjo da Guarda de <ANYPLAYER>",
    "id": "74900",
    "includesPlayerName": true,
@@ -2002,8 +2002,8 @@
    "x": false
   },
   {
-   "contest": "O campeão da fanfiction de <ANYPLAYER>",
-   "gameText": "Fanfiction de <ANYPLAYER> ",
+   "contest": "O campeão da fanfic de <ANYPLAYER>",
+   "gameText": "Fanfic de <ANYPLAYER> ",
    "id": "74943",
    "includesPlayerName": true,
    "linkedPrompts": [],
@@ -2020,8 +2020,8 @@
    "x": false
   },
   {
-   "contest": "O campeão por falta de concorrencia",
-   "gameText": "Falta de concorrencia",
+   "contest": "O campeão por falta de concorrência",
+   "gameText": "Falta de concorrência",
    "id": "74966",
    "includesPlayerName": false,
    "linkedPrompts": [],

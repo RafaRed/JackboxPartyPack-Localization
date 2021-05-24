@@ -1,347 +1,405 @@
 {
-    "content":[
+    "content": [
         {
-            "id":"Blob",
-            "frame":"Monster13",
-            "name":"Glob",
-            "role":"DateEveryone",
-            "minimumPlayers":3,
-
-            "shortDescription": "[Player] is a",
-            "description":"[Player] is a GLOB,<br/>Every time the Glob successfully dates 3 new players its heart tally doubles.",
-            "selfDescription":"Every time you successfully date 3 players you haven't dated before your heart tally doubles.",
-            "powerpopup": {	"double" : "Doubled hearts for Glob for dating three new players.",
-							"consumeAll": "Bonus hearts for dating the most.",
-                            "triggered": "<div>You finally dated 3 players.</div><div>Your hearts just doubled.</div>"},
-            "epitaph": { "nobody": "Couldn't get anything going.",
-                         "singular": "Dated 1 player. Never quite doubled.",
-                         "plural": "Dated [Number] players. Never quite doubled.",
-                         "double": "Dated [Number] players. Doubled their hearts.",
-                         "doubledouble": "Dated [Number] players! Doubled their hearts twice!!" },
-            "hint": { "singular" : "You haven’t dated [Victim] yet.<br />If you date them, you’ll double your hearts.",
-                      "plural": "Players you haven’t dated yet: [Victim].<br />If you date [Number] more, you’ll double your hearts." },
-
-            "behaviorClass":"jackboxgames.monstermingle.monsterbehavior.Blob"
+            "id": "Blob",
+            "frame": "Monster13",
+            "name": "Glob",
+            "role": "DateTodos",
+            "minimumPlayers": 3,
+            "shortDescription": "[Player] é um",
+            "description": "[Player] é um GLOB,<br/>Sempre que o Glob namora com sucesso 3 novos jogadores, sua contagem de corações dobra.",
+            "selfDescription": "Cada vez que você namora com sucesso 3 jogadores, você ainda não namorou antes de sua contagem de coração dobra.",
+            "powerpopup": {
+                "double": "Duplicou o coração de Glob por namorar três novos jogadores.",
+                "consumeAll": "Corações bônus por mais namorar.",
+                "triggered": "<div>Você finalmente namorou 3 jogadores.</div><div>Seus corações dobraram.</div>"
+            },
+            "epitaph": {
+                "nobody": "Não foi possível fazer nada funcionar.",
+                "singular": "Data de 1 jogador. Nunca dobrou completamente.",
+                "plural": "Data de [Number] jogadores. Nunca dobrou completamente.",
+                "double": "Data de [Number] jogadores. Dobrou seus corações.",
+                "doubledouble": "Data de [Number] jogadores! Dobraram seus corações duas vezes !!"
+            },
+            "hint": {
+                "singular": "Você não namorou [Victim] ainda.<br />Se você namorar com eles, você dobrará seus corações.",
+                "plural": "Jogadores que você ainda não namorou: [Victim].<br />Se você namorar [Number] , você dobrará seus corações."
+            },
+            "behaviorClass": "jackboxgames.monstermingle.monsterbehavior.Blob"
         },
         {
-            "id":"InvisibleMan",
-            "frame":"Monster9",
-            "name":"Invisible Person",
-            "role":"DateTarget",
-            "minimumPlayers":3,
-
-            "shortDescription": "[Player] is an",
-            "description":"[Player] is an INVISIBLE PERSON.<br/>The Invisible Person starts the game with two bonus hearts.<br/>The Invisible Person's score is invisible, so they appear to be in last place until the end of the game.",
-            "selfDescription":"You start the game with two bonus hearts.<br/>Your score is invisible so you'll appear to be in last place until the end of the game.<br/>Each night you'll get a secret update on your true rank on your device.",
-            "powerpopup": { "triggered" : "<div>Your real ranking in the game: [Place]</div>"},
-            "epitaph": { "ranks": "Real rank each night:<br />[Place]." },
-            
-            "behaviorClass":"jackboxgames.monstermingle.monsterbehavior.InvisibleMan"
+            "id": "Homem invisível",
+            "frame": "Monster9",
+            "name": "Pessoa Invisível",
+            "role": "DateTarget",
+            "minimumPlayers": 3,
+            "shortDescription": "[Player] é um",
+            "description": "[Player] é uma PESSOA INVISÍVEL.<br/>A pessoa invisível começa o jogo com dois corações de bônus.<br/>A pontuação da pessoa invisível é invisível, então ela parece estar em último lugar até o final do jogo.",
+            "selfDescription": "Você começa o jogo com dois corações bônus.<br/>Sua pontuação é invisível, então você parecerá estar em último lugar até o final do jogo.<br/>cada noite, você receberá uma atualização secreta sobre sua verdadeira classificação em seu dispositivo.",
+            "powerpopup": {
+                "triggered": "<div>Sua classificação real no jogo: [Place]</div>"
+            },
+            "epitaph": {
+                "ranks": "Classificação real a cada noite:<br />[Place]."
+            },
+            "behaviorClass": "jackboxgames.monstermingle.monsterbehavior.InvisibleMan"
         },
         {
-            "id":"Leprechaun",
-            "frame":"Monster8",
-            "name":"Leprechaun",
-            "role":"WildCard",
-            "minimumPlayers":3,
-
-            "shortDescription": "[Player] is a",
-            "description":"[Player] is a LEPRECHAUN.<br/>Everyone who dates an unrevealed Leprechaun gets 2 fake hearts. When the Leprechaun is revealed all fake hearts disappear. At this moment, Leprechauns get 1 bonus heart for every player that drops in the rankings.",
-            "selfDescription":"Everyone who dates you gets 2 fake hearts. When your power is revealed all fake hearts disappear, and the scoreboard adjusts. You get 1 bonus heart for every player that drops in the rankings.",
-            "powerpopup": {"single": "1 bonus heart for 1 player dropping in the ranking",
-                           "multiple": "[Number] bonus hearts for [Number] players dropping in the ranking",
-                           "triggered": "<div>You gave two fake hearts to [Player].</div>"},
-            "epitaph": { "nobody": "No one seemed to want those fake hearts.",
-                         "singular": "Tricked 1 player with a total of [Number] fake hearts.",
-                         "plural": "Tricked [Dates Number] players with a total of [Number] fake hearts." },
-            "hint": { "singular" : "You’ve given fake hearts to [Victim].",
-                      "plural": "Players you’ve given fake hearts to:<br />[Victim]." },
-            
-            "behaviorClass":"jackboxgames.monstermingle.monsterbehavior.Leprechaun"
+            "id": "Duende",
+            "frame": "Monster8",
+            "name": "Duende",
+            "role": "WildCard",
+            "minimumPlayers": 3,
+            "shortDescription": "[Player] é um",
+            "description": "[Player] é um LEPRECHAUN.<br/>Todo mundo que namorar um Leprechaun não revelado ganha 2 corações falsos. Quando o Leprechaun é revelado, todos os corações falsos desaparecem. Neste momento, Leprechauns ganham 1 coração de bônus para cada jogador que cair no ranking.",
+            "selfDescription": "Todo mundo que namora você ganha 2 corações falsos. Quando seu poder é revelado, todos os corações falsos desaparecem e o placar se ajusta. Você ganha 1 coração de bônus para cada jogador que cair na classificação.",
+            "powerpopup": {
+                "single": "1 coração de bônus para 1 jogador caindo no ranking",
+                "multiple": "[Number] corações de bônus para [Number] jogador caindo no ranking",
+                "triggered": "<div>Você deu dois corações falsos para [Player].</div>"
+            },
+            "epitaph": {
+                "nobody": "Ninguém parecia querer aqueles corações falsos.",
+                "singular": "Enganou 1 jogador com um total de [Number] corações falsos.",
+                "plural": "Jogadores enganados [Número de datas] com um total de [Number] corações falsos."
+            },
+            "hint": {
+                "singular": "Você deu corações falsos a [Victim].",
+                "plural": "Jogadores que você deu corações falsos para:<br />[Victim]."
+            },
+            "behaviorClass": "jackboxgames.monstermingle.monsterbehavior.Leprechaun"
         },
         {
-            "id":"MonsterHunter",
-            "frame":"Monster4",
-            "name":"Monster Hunter",
-            "role":"DateTarget",
-            "minimumPlayers":3,
-
-            "shortDescription": "[Player] is a",
-            "description":"[Player] is MONSTER HUNTER.<br/>At the end of the game the Monster Hunter gets a bonus heart for every time they date the monster-type they’ve secretly been told to hunt.",
-            "selfDescription":"At the end of the game you get a bonus heart for every time you date your quarry: [Monster Type].<br />There’s one in the game.",
-            "powerpopup": {"single": "A bonus heart for dating a [Monster Type].",
-                           "multiple": "Bonus hearts for dating a [Monster Type] [Number] times.",
-                           "triggered": "<div>You dated your quarry ([Monster Type]).</div><div>You'll get a bonus heart at the end.</div>"},
-            "epitaph": { "nobody": "Tracked [Monster Type] all game.<br />Never did manage to date them.",
-                         "singular": "Tracked [Monster Type] all game.<br />Dated them once.",
-                         "plural": "Tracked [Monster Type] all game.<br />Dated them [Number] times." },
-            "hint": { "target" : "[Player] is a [Monster Type].<br />You’ll earn a bonus heart at the end of the game each time you date them." },
-            
-            "behaviorClass":"jackboxgames.monstermingle.monsterbehavior.MonsterHunter"
+            "id": "Caçador de monstros",
+            "frame": "Monster4",
+            "name": "Caçador de monstros",
+            "role": "DateTarget",
+            "minimumPlayers": 3,
+            "shortDescription": "[Player] é um",
+            "description": "[Player] é MONSTER HUNTER.<br/>No final do jogo, o Monster Hunter recebe um coração de bônus para cada vez que namorar o tipo de monstro que foi secretamente instruído a caçar.",
+            "selfDescription": "No final do jogo, você recebe um coração de bônus para cada vez que namorar sua presa: [Tipo de Monstro].<br />Há um no jogo.",
+            "powerpopup": {
+                "single": "Um coração bônus por namorar um [Tipo de Monstro].",
+                "multiple": "Corações bônus por namorar um [Monster Type] [Number] vezes.",
+                "triggered": "<div>Você namorou sua presa ([Tipo de monstro]).</div><div>Você receberá um coração de bônus no final.</div>"
+            },
+            "epitaph": {
+                "nobody": "Rastreado [Monster Type] todo o jogo.<br />Nunca consegui namorar com eles.",
+                "singular": "Rastreado [Monster Type] todo o jogo.<br />Saí com eles uma vez.",
+                "plural": "Rastreado [Monster Type] todo o jogo.<br />Namorei com eles [Number] vezes."
+            },
+            "hint": {
+                "target": "[Player] é um [Tipo de monstro].<br />Você ganhará um coração de bônus no final do jogo cada vez que namorar com eles."
+            },
+            "behaviorClass": "jackboxgames.monstermingle.monsterbehavior.MonsterHunter"
         },
         {
-            "id":"Mother",
-            "frame":"Monster7",
-            "name":"Mother",
-            "role":"WildCard",
-            "minimumPlayers":3,
-
-            "shortDescription": "[Player] is [Other Player]'S",
-            "description":"The Mother receives a bonus heart every night their child ([Other Player]) does NOT get a date.",
-            "selfDescription":"[Other Player] is your child. Every night that they do not get a date, you get a bonus heart. As important as your child is to you, though, don't forget to nourish your own dating life.",
-            "powerpopup": {"datelessoffspring": "No date for [Other Player].<br/>Bonus heart for Mother.",
-                           "triggered": "<div>No date tonight for [Other Player].</div><div>Bonus heart for you.</div>"},
-            "epitaph": { "nobody": "Their child, [Other Player], dated every single night!<br />No bonus hearts for Mother.",
-                         "singular": "Earned 1 heart for each night their child, [Other Player], went dateless.",
-                         "plural": "Earned [Number] hearts for each night their child, [Other Player], went dateless." },
-            "hint": { "datelessoffspring" : "Don’t forget, if [Other Player] gets rejected tonight you’ll earn a bonus heart." },
-
-            "behaviorClass":"jackboxgames.monstermingle.monsterbehavior.Mother"
+            "id": "Mãe",
+            "frame": "Monster7",
+            "name": "Mãe",
+            "role": "WildCard",
+            "minimumPlayers": 3,
+            "shortDescription": "[Player] é S de [outro jogador]",
+            "description": "A Mãe recebe um coração de bônus todas as noites em que seu filho ([Outro Jogador]) NÃO consegue um encontro.",
+            "selfDescription": "[Outro jogador] é seu filho. Cada noite que eles não têm um encontro, você ganha um coração de bônus. Por mais importante que seu filho seja para você, não se esqueça de nutrir sua própria vida amorosa.",
+            "powerpopup": {
+                "datelessoffspring": "Sem data para [outro jogador].<br/>Coração bônus para a mãe.",
+                "triggered": "<div>Sem data hoje à noite para [Outro Jogador].</div><div>Coração bônus para você.</div>"
+            },
+            "epitaph": {
+                "nobody": "O filho deles, [Outro Jogador], namorava todas as noites!<br />Sem corações de bônus para a mãe.",
+                "singular": "Ganhou 1 coração para cada noite que seu filho, [Outro Jogador], ficou sem namoro.",
+                "plural": "Ganhou [Number] corações para cada noite que seu filho, [Outro Jogador], ficou sem namoro."
+            },
+            "hint": {
+                "datelessoffspring": "Não se esqueça, se [Outro Jogador] for rejeitado esta noite, você ganhará um coração de bônus."
+            },
+            "behaviorClass": "jackboxgames.monstermingle.monsterbehavior.Mother"
         },
         {
-            "id":"Mummy",
-            "frame":"Monster12",
-            "name":"Mummy",
-            "role":"DateEveryone",
-            "minimumPlayers":5,
-
-            "shortDescription": "[Player] is a",
-            "description":"[Player] is a MUMMY.<br/>Everyone the Mummy dates becomes CURSED. Then so do the players they date. At the end of the game, Mummys steal half a heart from every cursed player. But if EVERYONE has been cursed then the curse is lifted and no hearts are stolen.",
-            "selfDescription":"Everyone you date becomes CURSED. So do the players they date. At the end of the game, you steal half a heart from every cursed player. But if EVERYONE has been cursed then the curse is lifted and no hearts are stolen.",
-            "powerpopup": { "newInfection": "[Player] is cursed",
-							"single": "Cursed another monster",
-                            "multiple": "Cursed [Number] monsters",
-                            "curselifted": "Cursed all monsters, the curse is lifted.",
-                            "triggered": "<div>[Player] is now cursed.</div>"},
-            "epitaph": { "nobody": "Couldn't curse a single person.",
-                         "mine": "Spread Mummy’s Curse to 1 players",
-                         "allmine": "Spread Mummy’s Curse to [Number] players",
-                         "extendedsingularsingular": "Directly cursed 1 player.<br />And they cursed 1 more player.",
-                         "extendedsingularplural": "Directly cursed 1 player.<br />And they cursed [Other Number] more players",
-                         "extendedsingular": "Directly cursed [Number] players.<br />And they cursed 1 more player.",
-                         "extendedplural": "Directly cursed [Number] players.<br />And they cursed [Other Number] more players",
-                         "everyonemine": "Directly cursed everyone, accidentally lifting the curse.",
-                         "everyonesingular": "Directly cursed 1 player.<br />And they infected everyone else, lifting the curse.",
-                         "everyoneplural": "Directly cursed [Number] players.<br />And they infected everyone else, lifting the curse." },
-            "hint": { "singular" : "You’ve directly cursed [Children].",
-                      "plural": "Players you’ve directly cursed:<br/>[Children]." },
-
-            "behaviorClass":"jackboxgames.monstermingle.monsterbehavior.Mummy"
+            "id": "Mamãe",
+            "frame": "Monster12",
+            "name": "Mamãe",
+            "role": "DateTodos",
+            "minimumPlayers": 5,
+            "shortDescription": "[Player] é um",
+            "description": "[Player] é uma MAMÃ.<br/>Todos os encontros da mamãe tornam-se MALDITADOS. Então o mesmo acontece com os jogadores com quem eles namoram. No final do jogo, mamãe rouba meio coração de cada jogador amaldiçoado. Mas se TODOS foram amaldiçoados, a maldição foi suspensa e nenhum coração foi roubado.",
+            "selfDescription": "Todo mundo que você namora se torna MALDITO. O mesmo acontece com os jogadores com quem eles namoram. No final do jogo, você rouba meio coração de cada jogador amaldiçoado. Mas se TODOS foram amaldiçoados, a maldição foi suspensa e nenhum coração foi roubado.",
+            "powerpopup": {
+                "newInfection": "[Player] é amaldiçoado",
+                "single": "Amaldiçoou outro monstro",
+                "multiple": "[Number] monstros amaldiçoados",
+                "curselifted": "Amaldiçoados todos os monstros, a maldição foi suspensa.",
+                "triggered": "<div>[Player] agora está amaldiçoado.</div>"
+            },
+            "epitaph": {
+                "nobody": "Não foi possível amaldiçoar uma única pessoa.",
+                "mine": "Espalhe a maldição da múmia para 1 jogador",
+                "allmine": "Espalhe a maldição da múmia para [Number] jogadores",
+                "extendedsingularsingular": "Amaldiçoou diretamente 1 jogador.<br />E eles amaldiçoaram mais 1 jogador.",
+                "extendedsingularplural": "Amaldiçoou diretamente 1 jogador.<br />E eles amaldiçoaram [Outro Número] mais jogadores",
+                "extendedsingular": "Amaldiçoou diretamente [Number] jogadores.<br />E eles amaldiçoaram mais 1 jogador.",
+                "extendedplural": "Amaldiçoou diretamente [Number] jogadores.<br />E eles amaldiçoaram [Outro Número] mais jogadores",
+                "everyonemine": "Amaldiçoou diretamente a todos, levantando acidentalmente a maldição.",
+                "everyonesingular": "Amaldiçoou diretamente 1 jogador.<br />E eles infectaram todo mundo, levantando a maldição.",
+                "everyoneplural": "Amaldiçoou diretamente [Number] jogadores.<br />E eles infectaram todos os outros, suspendendo a maldição."
+            },
+            "hint": {
+                "singular": "Você amaldiçoou diretamente [Children].",
+                "plural": "Jogadores que você amaldiçoou diretamente:<br/>[Children]."
+            },
+            "behaviorClass": "jackboxgames.monstermingle.monsterbehavior.Mummy"
         },
         {
-            "id":"PodPerson",
-            "frame":"Monster15",
-            "name":"Body Swapper",
-            "role":"Danger",
-            "minimumPlayers":3,
-
-            "shortDescription": "[Player] is a",
-            "description":"[Player] is a BODY SWAPPER.<br/>On a FULL MOON, the Body Swapper will swap hearts (all of them) with the person they successfully date.",
-            "selfDescription":"On a FULL MOON, you will swap hearts (all of them) with a person you successfully date.",
-            "powerpopup": { "swappinghearts": "The Body Swapper swaps hearts with its host.",
-							"fullmoon": "Full moon. [Player] and Body Swapper will swap hearts.",
-                            "triggered": "<div>Dated on a full moon!</div><div>You'll swap hearts with [Player].</div>"},
-            "epitaph": { "nobody": "Never managed to pull off a heart swap.",
-                         "singular": "Swapped all hearts once.",
-                         "plural": "Swapped all hearts [Number] times." },
-            "hint": { "fullmoon" : "It’s a full moon. You’ll swap hearts with whoever you date tonight." },
-
-            "behaviorClass":"jackboxgames.monstermingle.monsterbehavior.PodPerson"
+            "id": "PodPerson",
+            "frame": "Monster15",
+            "name": "Troca de corpo",
+            "role": "Perigo",
+            "minimumPlayers": 3,
+            "shortDescription": "[Player] é um",
+            "description": "[Player] é um BODY SWAPPER.<br/>Em uma LUA CHEIA, o Trocador de corpos trocará corações (todos eles) com a pessoa com quem namorou com sucesso.",
+            "selfDescription": "Em uma LUA CHEIA, você trocará corações (todos eles) com uma pessoa com quem você namorou com sucesso.",
+            "powerpopup": {
+                "swappinghearts": "The Body Swapper troca corações com seu hospedeiro.",
+                "fullmoon": "Lua cheia. [Player] e Body Swapper trocarão de coração.",
+                "triggered": "<div>Namorado em lua cheia!</div><div>Você trocará corações com [Player].</div>"
+            },
+            "epitaph": {
+                "nobody": "Nunca consegui trocar de coração.",
+                "singular": "Trocou todos os corações uma vez.",
+                "plural": "Trocou todos os corações [Number] vezes."
+            },
+            "hint": {
+                "fullmoon": "É lua cheia. Você vai trocar de coração com quem você namorar esta noite."
+            },
+            "behaviorClass": "jackboxgames.monstermingle.monsterbehavior.PodPerson"
         },
         {
-            "id":"SerialKiller",
-            "frame":"Monster0",
-            "name":"Serial Killer",
-            "role":"Danger",
-            "minimumPlayers":3,
-
-            "shortDescription": "[Player] is a",
-            "description":"[Player] is a SERIAL KILLER.<br/>The Serial Killer steals two hearts from a player the SECOND time they date each other.",
-            "selfDescription":"You steal two hearts from a player the SECOND time you date them.",
-            "powerpopup": {"seconddate": "Second date with [Victim].<br/>Serial Killer steals two hearts.",
-                           "triggered": "<div>You dated [Victim] a second time.</div><div>You stole two hearts from them.</div>"},
-            "epitaph": { "nobody": "Couldn’t get anyone to date a second time.",
-                         "singular": "Managed to get 1 second date.<br />Stole [Number] hearts.",
-                         "plural": "Managed to get [Dates.Number] second dates.<br />Stole [Number] hearts." },
-            "hint": { "singular" : "You’ve dated [Victim] exactly once.<br />If you date them a second time you’ll steal two hearts.",
-                      "plural": "Players you’ve dated exactly once:<br />[Victim].<br />If you date them a second time you’ll steal two hearts." },
-
-            "behaviorClass":"jackboxgames.monstermingle.monsterbehavior.SerialKiller"
+            "id": "Assassino em série",
+            "frame": "Monster0",
+            "name": "Assassino em série",
+            "role": "Perigo",
+            "minimumPlayers": 3,
+            "shortDescription": "[Player] é um",
+            "description": "[Player] é um ASSASSINO EM SÉRIE.<br/>O Serial Killer rouba dois corações de um jogador na SEGUNDA vez em que eles namoram.",
+            "selfDescription": "Você rouba dois corações de um jogador na SEGUNDA vez que o namora.",
+            "powerpopup": {
+                "seconddate": "Segundo encontro com [Victim].<br/>Serial Killer rouba dois corações.",
+                "triggered": "<div>Você namorou [Victim] pela segunda vez.</div><div>Você roubou dois corações deles.</div>"
+            },
+            "epitaph": {
+                "nobody": "Não foi possível fazer ninguém namorar uma segunda vez.",
+                "singular": "Conseguiu um encontro de 1 segundo.<br />roubou [Number] coração.",
+                "plural": "Conseguiu datas de [Dates.Number]<br />roubou [Number] corações."
+            },
+            "hint": {
+                "singular": "Você namorou [Victim] exatamente uma vez.<br />Se você sair com eles pela segunda vez, vai roubar dois corações.",
+                "plural": "Jogadores com quem você namorou exatamente uma vez:<br />[Victim].<br />Se você sair com eles pela segunda vez, você roubará dois corações."
+            },
+            "behaviorClass": "jackboxgames.monstermingle.monsterbehavior.SerialKiller"
         },
         {
-            "id":"TwoFacedCreep",
-            "frame":"Monster3",
-            "name":"Two-Faced Creep",
-            "role":"Danger",
-            "minimumPlayers":3,
-
-            "shortDescription": "[Player] is a",
-            "description":"[Player] is a TWO-FACED CREEP.<br/>The Creep earns a bonus heart for every player they reject… but only on nights they successfully get a date.",
-            "selfDescription":"You earn a bonus heart for every player who asks you out and you reject… but only on nights you successfully get a date.",
-            "powerpopup": {"rejected": "No date, lose bonus hearts.",
-			               "single": "Stood up one player.",
-                           "multiple": "Stood up [Number] players.",
-                           "triggered_single": "<div>Stood up [Player] and dated someone else.</div><div>You get a bonus heart.</div>",
-                           "triggered_multiple": "<div>Stood up [Number] players and dated someone else.</div><div>You get [Number] bonus hearts</div>"},
-            "epitaph": { "nobody": "Never rejected anyone.< br/>Not much of a Creep.",
-                         "singular": "Rejected 1 other player.<br />But never earned a bonus heart.",
-                         "singularsingular": "Rejected 1 other player.<br />And earned a bonus heart.",
-                         "plural": "Rejected other players [Rejection Number] times.<br />But never earned a bonus heart.",
-                         "pluralsingular": "Rejected other players [Rejection Number] times.<br />But only earned 1 bonus heart.",
-                         "pluralplural": "Rejected other players [Rejection Number] times.<br />And earned [Number] bonus hearts." },
-            "hint": { "rejection" : "Rejecting players can earn you bonus hearts, but only if you can also get a date." },
-
-            "behaviorClass":"jackboxgames.monstermingle.monsterbehavior.TotalBastard"
+            "id": "TwoFacedCreep",
+            "frame": "Monster3",
+            "name": "Creep Duas Faces",
+            "role": "Perigo",
+            "minimumPlayers": 3,
+            "shortDescription": "[Player] é um",
+            "description": "[Player] é um CREEP DE DUAS FACES.<br/>O Creep ganha um coração de bônus para cada jogador que rejeitar… mas apenas nas noites em que consegue um encontro.",
+            "selfDescription": "Você ganha um coração de bônus para cada jogador que o convida para sair e você rejeita… mas apenas nas noites em que consegue um encontro.",
+            "powerpopup": {
+                "rejected": "Sem data, perca corações bônus.",
+                "single": "Levantou um jogador.",
+                "multiple": "Levantou [Number] jogadores.",
+                "triggered_single": "<div>Levantou-se [Player] e namorou outra pessoa.</div><div>Você ganha um coração de bônus.</div>",
+                "triggered_multiple": "<div>Resistiu a [Number] jogador e namorou outra pessoa.</div><div>Você ganha [Number] corações de bônus</div>"
+            },
+            "epitaph": {
+                "nobody": "Nunca rejeitei ninguém. <Br /> Não muito de um Creep.",
+                "singular": "Rejeitou 1 outro jogador.<br />Mas nunca ganhou um coração de bônus.",
+                "singularsingular": "Rejeitou 1 outro jogador.<br />E ganhou um coração de bônus.",
+                "plural": "Rejeitou outros jogadores [Número de rejeição] vezes.<br />Mas nunca ganhou um coração de bônus.",
+                "pluralsingular": "Rejeitou outros jogadores [Número de rejeição] vezes.<br />Mas só ganhou 1 coração de bônus.",
+                "pluralplural": "Rejeitou outros jogadores [Número de rejeição] vezes.<br />E ganhou [Number] coração de bônus."
+            },
+            "hint": {
+                "rejection": "Rejeitar jogadores pode ganhar corações bônus, mas apenas se você também conseguir um encontro."
+            },
+            "behaviorClass": "jackboxgames.monstermingle.monsterbehavior.TotalBastard"
         },
         {
-            "id":"Vampire",
-            "frame":"Monster6",
-            "name":"Vampire",
-            "role":"DateEveryone",
-            "minimumPlayers":5,
-
-            "shortDescription": "[Player] is a",
-            "description":"[Player] is a VAMPIRE.<br/>Everyone the vampire dates becomes a vampire. And then so do the people they date! At the end this vampire receives half a bonus heart for every vampire in the game.",
-            "selfDescription":"Everyone you successfully date becomes a vampire. So do the people they date! At the end of the game you receive half a bonus heart for every vampire in the game. (So go make vampires!)",
-            "powerpopup": { "newInfection": "[Player] is now a Vampire",
-							"single": "Half a bonus heart for creating another vampire",
-                            "multiple": "Bonus hearts for creating [Number] vampires",
-                            "triggered": "<div>[Player] is now a Vampire.</div>"},
-            "epitaph": { "nobody": "Didn’t bite anybody!",
-                         "mine": "Made 1 vampire.",
-                         "allmine": "Made [Number] vampires.",
-                         "extendedsingularsingular": "Directly made 1 vampire.<br />And they made 1 more vampire.",
-                         "extendedsingularplural": "Directly made 1 vampire.<br />And they made [Other Number] more vampires.",
-                         "extendedsingular": "Directly made [Number] vampires.<br />And they made 1 more vampire.",
-                         "extendedplural": "Directly made [Number] vampires.<br />And they made [Other Number] more vampires.",
-                         "everyonemine": "Directly made everyone a vampire.",
-                         "everyonesingular": "Directly made 1 vampire.<br />And they turned everyone else.",
-                         "everyoneplural": "Directly made [Number] vampires.<br />And they turned everyone else." },
-            "hint": { "singular" : "You’ve directly turned [Children] into a vampire.",
-                      "plural": "Players you’ve directly turned into vampires:<br />[Children]." },
-
-            "behaviorClass":"jackboxgames.monstermingle.monsterbehavior.Vampire"
+            "id": "Vampiro",
+            "frame": "Monster6",
+            "name": "Vampiro",
+            "role": "DateTodos",
+            "minimumPlayers": 5,
+            "shortDescription": "[Player] é um",
+            "description": "[Player] é um VAMPIRO.<br/>Todo mundo com quem o vampiro sai se torna um vampiro. E o mesmo acontece com as pessoas com quem eles namoram! No final, esse vampiro recebe meio coração de bônus para cada vampiro no jogo.",
+            "selfDescription": "Todos com quem você namora com sucesso se tornam vampiros. O mesmo acontece com as pessoas com quem eles namoram! No final do jogo, você recebe meio coração de bônus para cada vampiro no jogo. (Então vá fazer vampiros!)",
+            "powerpopup": {
+                "newInfection": "[Player] agora é um vampiro",
+                "single": "Meio coração de bônus por criar outro vampiro",
+                "multiple": "Corações bônus por criar [Number] vampiros",
+                "triggered": "<div>[Player] agora é um vampiro.</div>"
+            },
+            "epitaph": {
+                "nobody": "Não mordeu ninguém!",
+                "mine": "Fez 1 vampiro.",
+                "allmine": "Fez [Number] vampiros.",
+                "extendedsingularsingular": "Feito diretamente 1 vampiro.<br />E eles fizeram mais 1 vampiro.",
+                "extendedsingularplural": "Feito diretamente 1 vampiro.<br />E eles fizeram [Outro Número] mais vampiros.",
+                "extendedsingular": "Fez diretamente [Number] vampiros.<br />E eles fizeram mais 1 vampiro.",
+                "extendedplural": "Fez diretamente [Number] vampiros.<br />E eles fizeram [Outro Número] mais vampiros.",
+                "everyonemine": "Transformava diretamente todo mundo em vampiro.",
+                "everyonesingular": "Feito diretamente 1 vampiro.<br />E eles transformaram todos os outros.",
+                "everyoneplural": "Fez diretamente [Number] vampiros.<br />E eles transformaram todos os outros."
+            },
+            "hint": {
+                "singular": "Você transformou [Children] diretamente em um vampiro.",
+                "plural": "Jogadores que você transformou diretamente em vampiros:<br />[Children]."
+            },
+            "behaviorClass": "jackboxgames.monstermingle.monsterbehavior.Vampire"
         },
         {
-            "id":"VengefulGhost",
-            "frame":"Monster10",
-            "name":"Vengeful Ghost",
-            "role":"WildCard",
-            "minimumPlayers":3,
-
-            "shortDescription": "[Player] is a",
-            "description":"[Player] is a VENGEFUL GHOST.<br/>The Vengeful Ghost starts the game with a bonus heart. When the Vengeful Ghost asks someone on a date and gets rejected... that person loses a heart.",
-            "selfDescription":"You start the game with a bonus heart. If you ask someone out on a date and they reject you... they lose a heart.",
-            "powerpopup": { "rejection": "[SUITOR] rejected the Vengeful Ghost.<br/>Loses a heart.",
-                            "triggered": "<div>[SUITOR] rejected you.</div><div>They lose a heart.</div>"},
-            "epitaph": { "nobody": "Never got rejected.<br />So popular!",
-                         "singular": "Inflicted a lost heart of damage on the 1 player who scorned them.",
-                         "plural": "Inflicted [Number] lost hearts of damage on players who scorned them." },
-            "hint": { "reminder" : "Reminding players that if they reject you they’ll lose a heart can be useful." },
-
-            "behaviorClass":"jackboxgames.monstermingle.monsterbehavior.VengefulGhost"
+            "id": "VengefulGhost",
+            "frame": "Monster10",
+            "name": "Fantasma Vingativo",
+            "role": "WildCard",
+            "minimumPlayers": 3,
+            "shortDescription": "[Player] é um",
+            "description": "[Player] é um FANTASMA VENGOSO.<br/>The Vengeful Ghost começa o jogo com um coração bônus. Quando o Fantasma Vingativo convida alguém para um encontro e é rejeitado ... essa pessoa perde o coração.",
+            "selfDescription": "Você começa o jogo com um coração de bônus. Se você convida alguém para sair e eles te rejeitam ... eles perdem o coração.",
+            "powerpopup": {
+                "rejection": "[SUITOR] rejeitou o Fantasma Vingativo.<br/>perde um coração.",
+                "triggered": "<div>[SUITOR] rejeitou você.</div><div>Eles perdem um coração.</div>"
+            },
+            "epitaph": {
+                "nobody": "Nunca foi rejeitado.<br />Tão popular!",
+                "singular": "Infligiu o coração perdido de dano a 1 jogador que os desprezou.",
+                "plural": "Infligiu [Number] corações perdidos de dano aos jogadores que os desprezaram."
+            },
+            "hint": {
+                "reminder": "Pode ser útil lembrar aos jogadores que, se o rejeitarem, perderão um coração."
+            },
+            "behaviorClass": "jackboxgames.monstermingle.monsterbehavior.VengefulGhost"
         },
         {
-            "id":"VentriloquistPuppet",
-            "frame":"Monster2",
-            "name":"Ventriloquist Puppet",
-            "role":"DateTarget",
-            "minimumPlayers":3,
-
-            "shortDescription": "[Player] is a",
-            "description":"[Player] is a VENTRILOQUIST PUPPET.<br/>Sad people love puppets.<br/>The Puppet gets a bonus heart every time they date someone that was rejected the night before.",
-            "selfDescription":"Sad people love puppets.<br/>You get a bonus heart every time you date someone that was rejected the night before.",
-            "powerpopup": { "datereject": "[Player] was rejected last night.<br/>Puppet gets a bonus heart.",
-                            "triggered" : "<div>You dated someone who's still sad about last night's rejection.<br/>You get a bonus heart.</div>"},
-            "epitaph": { "nobody": "Couldn’t even get sad rejected players to agree to go out.",
-                         "singular": "Swooped in and dated a player that had just been rejected once.",
-                         "plural": "Swooped in and dated a player that had just been rejected [Number] times." },
-            "hint": { "singular" : "[Victim] was rejected last night.<br />You get a bonus heart for dating them.",
-                      "plural": "Players that were rejected last night:<br />[Victim].<br />You get a bonus heart for dating them." },
-
-            "behaviorClass":"jackboxgames.monstermingle.monsterbehavior.VentriloquistPuppet"
+            "id": "VentriloquistPuppet",
+            "frame": "Monster2",
+            "name": "Fantoche Ventríloquo",
+            "role": "DateTarget",
+            "minimumPlayers": 3,
+            "shortDescription": "[Player] é um",
+            "description": "[Player] é um FANTOCHE DE VENTRILOQUIST.<br/>Pessoas tristes adoram fantoches.<br/>O Puppet ganha um coração bônus toda vez que namora alguém que foi rejeitado na noite anterior.",
+            "selfDescription": "Pessoas tristes adoram fantoches.<br/>Você ganha um coração de bônus toda vez que namorar alguém que foi rejeitado na noite anterior.",
+            "powerpopup": {
+                "datereject": "[Player] foi rejeitado na noite passada.<br/>Puppet recebe um coração bônus.",
+                "triggered": "<div>Você namorou alguém que ainda está triste com a rejeição de ontem à noite.<br/>Você ganha um coração de bônus.</div>"
+            },
+            "epitaph": {
+                "nobody": "Não consegui nem mesmo fazer com que os tristes jogadores rejeitados concordassem em sair.",
+                "singular": "Entrou e namorou um jogador que acabara de ser rejeitado uma vez.",
+                "plural": "Entrou e namorou um jogador que acabara de ser rejeitado [Number] vezes."
+            },
+            "hint": {
+                "singular": "[Victim] foi rejeitado na noite passada.<br />Você ganha um coração bônus por sair com eles.",
+                "plural": "Jogadores que foram rejeitados na noite passada:<br />[Victim].<br />Você ganha um coração bônus por sair com eles."
+            },
+            "behaviorClass": "jackboxgames.monstermingle.monsterbehavior.VentriloquistPuppet"
         },
         {
-            "id":"Werewolf",
-            "frame":"Monster5",
-            "name":"Werewolf",
-            "role":"Danger",
-            "minimumPlayers":5,
-
-            "shortDescription": "[Player] is a",
-            "description":"[Player] is a WEREWOLF.<br/>On a full moon Werewolves get a bonus heart for dating... and then turn their date into a werewolf! But if a Werewolf is rejected on a full moon they lose half a heart.",
-            "selfDescription":"On a full moon you get a bonus heart for dating... and your date becomes a werewolf as well! But if you're rejected on a full moon you lose half a heart.",
-            "powerpopup": { "newInfection": "[Player] is now a Werewolf",
-							"fullmoonmatch" : "Dated on full moon.",
-                            "fullmoonreject": "Didn't date on full moon.",
-                            "single": "Created another werewolf",
-                            "multiple": "Created [Number] werewolves",
-                            "triggered_match" : "<div>You dated on a full moon.</div><div>[Player] is now a Werewolf<br/>and you get a bonus heart.</div>",
-                            "triggered_reject" : "<div>Uh oh. You didn't date on a full moon.</div><div>You lose half a heart.</div>"},
-            "epitaph": { "nobody": "Didn’t bite anybody on a full moon!",
-                         "mine": "Created 1 werewolf.",
-                         "allmine": "Created [Number] werewolves.",
-                         "extendedsingularsingular": "Directly created 1 werewolf.<br />And they made 1 more werewolf.",
-                         "extendedsingularplural": "Directly created 1 werewolvf.<br />And they created [Other Number] more werewolves.",
-                         "extendedsingular": "Directly created [Number] werewolves.<br />And they made 1 more werewolf.",
-                         "extendedplural": "Directly created [Number] werewolves.<br />And they created [Other Number] more werewolves.",
-                         "everyonemine": "Personally turned everyone else into a werewolf.",
-                         "everyonesingular": "Directly created 1 werewolf.<br />And they turned everyone else into werewolves.",
-                         "everyoneplural": "Directly created [Number] werewolves.<br />And they turned everyone else into werewolves." },
-            "hint": { "fullmoon" : "It’s a full moon!<br />You get a bonus heart for dating tonight! But you lose half a heart if rejected." },
-
-            "behaviorClass":"jackboxgames.monstermingle.monsterbehavior.Werewolf"
+            "id": "Lobisomem",
+            "frame": "Monster5",
+            "name": "Lobisomem",
+            "role": "Perigo",
+            "minimumPlayers": 5,
+            "shortDescription": "[Player] é um",
+            "description": "[Player] é um Lobisomem.<br/>Em uma lua cheia, os lobisomens ganham um coração bônus por namorar ... e depois transformam seu par em um lobisomem! Mas se um lobisomem é rejeitado na lua cheia, ele perde meio coração.",
+            "selfDescription": "Na lua cheia, você ganha um coração bônus por namorar ... e seu namorado também se torna um lobisomem! Mas se você for rejeitado na lua cheia, você perde meio coração.",
+            "powerpopup": {
+                "newInfection": "[Player] agora é um lobisomem",
+                "fullmoonmatch": "Datado na lua cheia.",
+                "fullmoonreject": "Não namorou na lua cheia.",
+                "single": "Criou outro lobisomem",
+                "multiple": "Criou [Number] lobisomem",
+                "triggered_match": "<div>Você namorou em uma lua cheia.</div><div>[Player] agora é um Lobisomem<br/>e você ganha um coração de bônus.</div>",
+                "triggered_reject": "<div>Uh oh. Você não namorou na lua cheia.</div><div>Você perde meio coração.</div>"
+            },
+            "epitaph": {
+                "nobody": "Não mordeu ninguém na lua cheia!",
+                "mine": "Criou 1 lobisomem.",
+                "allmine": "Criou [Number] lobisomens.",
+                "extendedsingularsingular": "1 lobisomem criado diretamente.<br />E eles fizeram mais 1 lobisomem.",
+                "extendedsingularplural": "Criado diretamente 1 lobisomem.<br />E eles criaram [Outro Número] mais lobisomens.",
+                "extendedsingular": "[Number] lobisomem criado diretamente.<br />E eles fizeram mais 1 lobisomem.",
+                "extendedplural": "[Number] lobisomem criado diretamente.<br />E eles criaram [Outro Número] mais lobisomens.",
+                "everyonemine": "Pessoalmente, transformou todo mundo em lobisomem.",
+                "everyonesingular": "1 lobisomem criado diretamente.<br />E eles transformaram todos os outros em lobisomens.",
+                "everyoneplural": "[Number] lobisomem criado diretamente.<br />E eles transformaram todos os outros em lobisomens."
+            },
+            "hint": {
+                "fullmoon": "É lua cheia!<br />Você ganha um coração de bônus por namorar esta noite! Mas você perde meio coração se for rejeitado."
+            },
+            "behaviorClass": "jackboxgames.monstermingle.monsterbehavior.Werewolf"
         },
         {
-            "id":"Witch",
-            "frame":"Monster16",
-            "name":"Witch",
-            "role":"DateEveryone",
-            "minimumPlayers":3,
-
-            "shortDescription": "[Player] is a",
-            "description":"[Player] is a WITCH.<br/>The Witch takes a hair from each new player they date. When revealed, the Witch receives one bonus heart for every hair collected.",
-            "selfDescription":"You take a hair from each new player you date. When your monster identity is revealed, you receive one bonus heart for every hair collected.",
-            "powerpopup": {"hair": "Collected one hair",
-                           "hairs": "Collected [DATES] hairs",
-                           "triggered": "<div>You collected a hair from [Player]</div>"},
-            "epitaph": { "nobody": "Didn’t collect any hairs.<br />Magic potion was a total dud.",
-                         "singular": "Plucked a hair from 1 player before being revealed.",
-                         "plural": "Plucked a hair from [Number] players before being revealed." },
-            "hint": { "singular" : "You haven’t dated [Victim] yet.<br />You collect a hair from each new player you date.",
-                      "plural": "Players you haven’t dated yet: [Victim].<br />You collect a hair from each new player you date." },
-
-            "behaviorClass":"jackboxgames.monstermingle.monsterbehavior.Witch"
+            "id": "Bruxa",
+            "frame": "Monster16",
+            "name": "Bruxa",
+            "role": "DateTodos",
+            "minimumPlayers": 3,
+            "shortDescription": "[Player] é um",
+            "description": "[Player] é uma BRUXA.<br/>A bruxa tira um fio de cabelo de cada novo jogador que eles namoram. Quando revelada, a Bruxa recebe um coração de bônus para cada cabelo coletado.",
+            "selfDescription": "Você pega um fio de cabelo de cada novo jogador que namorar. Quando sua identidade de monstro é revelada, você recebe um coração de bônus para cada cabelo coletado.",
+            "powerpopup": {
+                "hair": "Coletou um cabelo",
+                "hairs": "Coletou [DATES] fios de cabelo",
+                "triggered": "<div>Você coletou um fio de cabelo de [Player]</div>"
+            },
+            "epitaph": {
+                "nobody": "Não coletou nenhum cabelo.<br />Poção mágica foi um fracasso total.",
+                "singular": "Arrancou um fio de cabelo de um jogador antes de ser revelado.",
+                "plural": "Arrancou um fio de cabelo de [Number] jogadores antes de ser revelado."
+            },
+            "hint": {
+                "singular": "Você não namorou [Victim] ainda.<br />Você coleta um fio de cabelo de cada novo jogador com quem namora.",
+                "plural": "Jogadores que você ainda não namorou: [Victim].<br />Você coleta um fio de cabelo de cada novo jogador com quem namora."
+            },
+            "behaviorClass": "jackboxgames.monstermingle.monsterbehavior.Witch"
         },
         {
-            "id":"Zombie",
-            "frame":"Monster18",
-            "name":"Zombie",
-            "role":"DateEveryone",
-            "minimumPlayers":5,
-
-            "shortDescription": "[Player] is a",
-            "description":"[Player] is a ZOMBIE.<br/>Everyone the zombie dates turns into a zombie. And then everyone new zombies date also turn into a zombie (at the end of the next night). At the end of the game, if EVERYONE has been infected, it’s the end of the world and only the original Zombie wins.",
-            "selfDescription":"Everyone you date turns into a zombie. Then everyone THEY date also turns into a zombie (at the end of the next night). At the end of the game, if EVERYONE is infected, it’s the end of the world and only YOU win. Can you conquer the world?",
-            "powerpopup": { "newInfection": "[Player] is now a Zombie",
-							"single": "Created another zombie",
-                            "multiple": "Created [Number] zombies",
-                            "apocalypse" : "It’s the end of the world and only YOU win.",
-                            "triggered" : "<div>[Player] is now a Zombie.</div>"},
-            "epitaph": { "nobody": "Couldn’t make a single other zombie.",
-                         "mine": "Infected 1 player with zombie virus.",
-                         "allmine": "Infected [Number] players with zombie virus.",
-                         "extendedsingularsingular": "Directly infected 1 player with zombie virus.<br />And they infected 1 more player.",
-                         "extendedsingularplural": "Directly infected 1 player.<br />And they infected [Other Number] more players",
-                         "extendedsingular": "Directly infected [Number] players with zombie virus.<br />And they infected 1 more player.",
-                         "extendedplural": "Directly infected [Number] players.<br />And they infected [Other Number] more players",
-                         "everyonemine": "Directly infected everyone.",
-                         "everyonesingular": "Directly infected 1 player.<br />And they infected everyone else.",
-                         "everyoneplural": "Directly infected [Number] players.<br />And they infected everyone else." },
-            "hint": { "singular" : "You've directly turned [Children] into a zombie",
-                      "plural": "Players you've directly turned into zombies:<br />[Children]." },
-           
-            "behaviorClass":"jackboxgames.monstermingle.monsterbehavior.Zombie"
+            "id": "Zumbi",
+            "frame": "Monster18",
+            "name": "Zumbi",
+            "role": "DateTodos",
+            "minimumPlayers": 5,
+            "shortDescription": "[Player] é um",
+            "description": "[Player] é um ZOMBIE.<br/>Todos os encontros com zumbis se transformam em zumbis. E então todos os novos encontros de zumbis também se transformam em zumbis (no final da noite seguinte). No final do jogo, se TODOS tiverem sido infectados, é o fim do mundo e apenas o Zombie original ganha.",
+            "selfDescription": "Todo mundo que você namora se transforma em zumbi. Então, todos que eles namoram também se transformam em zumbis (no final da noite seguinte). No final do jogo, se TODOS estiverem infectados, é o fim do mundo e só VOCÊ ganha. Você pode conquistar o mundo?",
+            "powerpopup": {
+                "newInfection": "[Player] agora é um zumbi",
+                "single": "Criou outro zumbi",
+                "multiple": "Criado [Number] zumbis",
+                "apocalypse": "É o fim do mundo e só VOCÊ ganha.",
+                "triggered": "<div>[Player] agora é um zumbi.</div>"
+            },
+            "epitaph": {
+                "nobody": "Não foi possível fazer nenhum outro zumbi.",
+                "mine": "1 jogador infectado com o vírus zumbi.",
+                "allmine": "Infectou [Number] jogadores com o vírus zumbi.",
+                "extendedsingularsingular": "Infectou diretamente 1 jogador com o vírus zumbi.<br />E eles infectaram mais 1 jogador.",
+                "extendedsingularplural": "Infectou diretamente 1 jogador.<br />E eles infectaram [Outro Número] mais jogadores",
+                "extendedsingular": "Infectou diretamente [Number] jogadores com o vírus zumbi.<br />E eles infectaram mais 1 jogador.",
+                "extendedplural": "Infectou diretamente [Number] jogadores.<br />E eles infectaram [Outro Número] mais jogadores",
+                "everyonemine": "Infectou todos diretamente.",
+                "everyonesingular": "Infectou diretamente 1 jogador.<br />E eles infectaram todo mundo.",
+                "everyoneplural": "Infectou diretamente [Number] jogadores.<br />E eles infectaram todos os outros."
+            },
+            "hint": {
+                "singular": "Você transformou diretamente [Children] em um zumbi",
+                "plural": "Jogadores que você transformou diretamente em zumbis:<br />[Children]."
+            },
+            "behaviorClass": "jackboxgames.monstermingle.monsterbehavior.Zombie"
         }
-   ]
+    ]
 }

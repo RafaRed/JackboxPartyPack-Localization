@@ -1,248 +1,398 @@
 {
-    "content":[
+    "content": [
         {
-            "id":"NEDA",
-            "names":["Neda"]
+            "id": "NEDA",
+            "names": [
+                "Neda"
+            ]
         },
         {
-            "id":"STELLA",
-            "names":["Stella"]
+            "id": "STELLA",
+            "names": [
+                "Stella"
+            ]
         },
         {
-            "id":"MICHAEL",
-            "names":["Michael"]
+            "id": "MICHAEL",
+            "names": [
+                "Michael"
+            ]
         },
         {
-            "id":"MIKE",
-            "names":["Mike"]
+            "id": "MIKE",
+            "names": [
+                "Mike"
+            ]
         },
         {
-            "id":"KEVIN",
-            "names":["Kevin"]
+            "id": "KEVIN",
+            "names": [
+                "Kevin"
+            ]
         },
         {
-            "id":"COOKIE",
-            "names":["Cookie"]
+            "id": "BISCOITO",
+            "names": [
+                "Biscoito"
+            ]
         },
         {
-            "id":"FARD",
-            "names":["Fard"]
+            "id": "FARD",
+            "names": [
+                "Fard"
+            ]
         },
         {
-            "id":"DEBJACOBS",
-            "names":["Deb Jacobs", "DebJacobs"]
+            "id": "DEBJACOBS",
+            "names": [
+                "Deb Jacobs",
+                "DebJacobs"
+            ]
         },
         {
-            "id":"CALDER",
-            "names":["Calder"]
+            "id": "CALDER",
+            "names": [
+                "Calder"
+            ]
         },
         {
-            "id":"HARRY",
-            "names":["Harry"]
+            "id": "ATORMENTAR",
+            "names": [
+                "atormentar"
+            ]
         },
         {
-            "id":"MOM",
-            "names":["Mom"]
+            "id": "MAMÃE",
+            "names": [
+                "Mamãe"
+            ]
         },
         {
-            "id":"STAD",
-            "names":["Stad", "CityOfStad"]
+            "id": "STAD",
+            "names": [
+                "Stad",
+                "CityOfStad"
+            ]
         },
         {
-            "id":"RYDASH",
-            "names":["Rydash"]
+            "id": "RYDASH",
+            "names": [
+                "Rydash"
+            ]
         },
         {
-            "id":"UXIE",
-            "names":["uxie", "uxie126"]
+            "id": "UXIE",
+            "names": [
+                "uxie",
+                "uxie126"
+            ]
         },
         {
-            "id":"EAGLEFALCON",
-            "names":["Eagle Falcon", "EagleFalcon"]
+            "id": "EAGLEFALCON",
+            "names": [
+                "Eagle Falcon",
+                "EagleFalcon"
+            ]
         },
         {
-            "id":"SAMFEELEY",
-            "names":["Sam Feeley", "Sam Feely", "SamFeeley"]
+            "id": "SAMFEELEY",
+            "names": [
+                "Sam Feeley",
+                "Sam Feely",
+                "SamFeeley"
+            ]
         },
         {
-            "id":"YOSUP",
-            "names":["Yosup", "Yosup72845"]
+            "id": "E AÍ",
+            "names": [
+                "E aí",
+                "Yosup72845"
+            ]
         },
         {
-            "id":"TOADBOY",
-            "names":["Toadboy", "Toadboy123"]
+            "id": "TOADBOY",
+            "names": [
+                "Toadboy",
+                "Toadboy123"
+            ]
         },
         {
-            "id":"BUZZY",
-            "names":["Buzzy"]
+            "id": "BUZZY",
+            "names": [
+                "Buzzy"
+            ]
         },
         {
-            "id":"LEMON",
-            "names":["Lemon4Lolz"]
+            "id": "LIMÃO",
+            "names": [
+                "Lemon4Lolz"
+            ]
         },
         {
-            "id":"RAINBOWKAPPA",
-            "names":["RainbowKappa", "Rainbow Kappa"]
+            "id": "RAINBOWKAPPA",
+            "names": [
+                "RainbowKappa",
+                "Rainbow Kappa"
+            ]
         },
         {
-            "id":"ADARKLY",
-            "names":["adarkly", "house_of_darkly", "houseofdarkly"]
+            "id": "ADARKLY",
+            "names": [
+                "nitidamente",
+                "casa_de_escuro",
+                "casa escura"
+            ]
         },
         {
-            "id":"TEAMLOUIE",
-            "names":["TeamLouie", "Team Louie"]
+            "id": "TEAMLOUIE",
+            "names": [
+                "TeamLouie",
+                "Team Louie"
+            ]
         },
         {
-            "id":"MESSGIRL",
-            "names":["messgirl"]
+            "id": "MESSGIRL",
+            "names": [
+                "messgirl"
+            ]
         },
         {
-            "id":"OFHAUNTINGS",
-            "names":["ofhauntings"]
+            "id": "DE PEGA",
+            "names": [
+                "ofhauntings"
+            ]
         },
         {
-            "id":"CAPTAINSPAM",
-            "names":["CaptainSpam", "Captain Spam"]
+            "id": "CAPTAINSPAM",
+            "names": [
+                "CaptainSpam",
+                "Capitão Spam"
+            ]
         },
         {
-            "id":"HEXINGALE",
-            "names":["hexingale"]
+            "id": "HEXINGALE",
+            "names": [
+                "hexingale"
+            ]
         },
         {
-            "id":"CORRUPTEDGEM",
-            "names":["corruptedgem"]
+            "id": "CORRUPTEDGEM",
+            "names": [
+                "corromper"
+            ]
         },
         {
-            "id":"BENTLEMEN",
-            "names":["Bentlemen", "Bentleman"]
+            "id": "BENTLEMEN",
+            "names": [
+                "Bentlemen",
+                "Bentleman"
+            ]
         },
         {
-            "id":"GAVIN",
-            "names":["Gavin"]
+            "id": "GAVIN",
+            "names": [
+                "Gavin"
+            ]
         },
         {
-            "id":"FRAN",
-            "names":["Fran"]
+            "id": "FRAN",
+            "names": [
+                "Fran"
+            ]
         },
         {
-            "id":"USIDORE",
-            "names":["Usidore"]
+            "id": "USIDORE",
+            "names": [
+                "Usidore"
+            ]
         },
         {
-            "id":"KATESTARK",
-            "names":["KateStark", "Kate Stark"]
+            "id": "KATESTARK",
+            "names": [
+                "KateStark",
+                "Kate Stark"
+            ]
         },
         {
-            "id":"TYCHO",
-            "names":["Tycho"]
+            "id": "TYCHO",
+            "names": [
+                "Tycho"
+            ]
         },
         {
-            "id":"GABE",
-            "names":["Gabe"]
+            "id": "GABE",
+            "names": [
+                "Gabe"
+            ]
         },
         {
-            "id":"JIMMYFALLON",
-            "names":["Jimmy", "JimmyFallon", "Jimmy Fallon"]
+            "id": "JIMMYFALLON",
+            "names": [
+                "Jimmy",
+                "JimmyFallon",
+                "Jimmy Fallon"
+            ]
         },
         {
-            "id":"NPH",
-            "names":["NPH"]
+            "id": "NPH",
+            "names": [
+                "NPH"
+            ]
         },
         {
-            "id":"KRISSTRAUB",
-            "names":["Kris Straub", "KrisStraub"]
+            "id": "KRISSTRAUB",
+            "names": [
+                "Kris Straub",
+                "KrisStraub"
+            ]
         },
         {
-            "id":"BRENCHEL",
-            "names":["Brenchel"]
+            "id": "BRENCHEL",
+            "names": [
+                "Brenchel"
+            ]
         },
         {
-            "id":"TARAN",
-            "names":["Taran"]
+            "id": "TARAN",
+            "names": [
+                "Taran"
+            ]
         },
         {
-            "id":"CADERAGEOUS",
-            "names":["CadeRageous"]
+            "id": "CADERAGEOUS",
+            "names": [
+                "CadeRageous"
+            ]
         },
         {
-            "id":"TAYEDIGGS",
-            "names":["TayeDiggs", "Taye Diggs"]
+            "id": "TAYEDIGGS",
+            "names": [
+                "TayeDiggs",
+                "Taye Diggs"
+            ]
         },
         {
-            "id":"LILB",
-            "names":["LilB"]
+            "id": "LILB",
+            "names": [
+                "LilB"
+            ]
         },
         {
-            "id":"STRAWBURRY17",
-            "names":["Strawburry17"]
+            "id": "STRAWBURRY17",
+            "names": [
+                "Strawburry17"
+            ]
         },
         {
-            "id":"LIRIK",
-            "names":["Lirik"]
+            "id": "LIRIK",
+            "names": [
+                "Lirik"
+            ]
         },
         {
-            "id":"PAMHORTON",
-            "names":["PamelaHorton13", "Pamela Horton", "Pam Horton"]
+            "id": "PAMHORTON",
+            "names": [
+                "PamelaHorton13",
+                "Pamela Horton",
+                "Pam Horton"
+            ]
         },
         {
-            "id":"MEGTURNEY",
-            "names":["megturney", "Meg Turney"]
+            "id": "MEGTURNEY",
+            "names": [
+                "megturney",
+                "Meg Turney"
+            ]
         },
         {
-            "id":"NORTHERNLION",
-            "names":["Northernlion", "Northern Lion"]
+            "id": "NORTHERNLION",
+            "names": [
+                "Lião do norte",
+                "Leão do Norte"
+            ]
         },
         {
-            "id":"LOUISFG",
-            "names":["Louis FG", "LouisFG"]
+            "id": "LOUISFG",
+            "names": [
+                "Louis FG",
+                "LouisFG"
+            ]
         },
         {
-            "id":"THEMOSHE",
-            "names":["The Moshe", "TheMoshe"]
+            "id": "THEMOSHE",
+            "names": [
+                "O moshe",
+                "TheMoshe"
+            ]
         },
         {
-            "id":"CASEY615",
-            "names":["Casey 615", "Casey615"]
+            "id": "CASEY615",
+            "names": [
+                "Casey 615",
+                "Casey615"
+            ]
         },
         {
-            "id":"COWBOYROY",
-            "names":["CowboyRoy", "Cowboy Roy"]
+            "id": "COWBOYROY",
+            "names": [
+                "CowboyRoy",
+                "Cowboy Roy"
+            ]
         },
         {
-            "id":"AUNTIEA66",
-            "names":["AuntieA66"]
+            "id": "AUNTIEA66",
+            "names": [
+                "AuntieA66"
+            ]
         },
         {
-            "id":"GOSOXBOBBY",
-            "names":["GoSoxBobby"]
+            "id": "GOSOXBOBBY",
+            "names": [
+                "GoSoxBobby"
+            ]
         },
         {
-            "id":"NINI",
-            "names":["Nini"]
+            "id": "NINI",
+            "names": [
+                "Nini"
+            ]
         },
         {
-            "id":"MSPARRIS79",
-            "names":["MsParris79"]
+            "id": "MSPARRIS79",
+            "names": [
+                "MsParris79"
+            ]
         },
         {
-            "id":"SWIFTFLUX",
-            "names":["SwiftFlux"]
+            "id": "SWIFTFLUX",
+            "names": [
+                "SwiftFlux"
+            ]
         },
         {
-            "id":"KAYRID",
-            "names":["Kayrid"]
+            "id": "KAYRID",
+            "names": [
+                "Kayrid"
+            ]
         },
         {
-            "id":"TRYMANTHA",
-            "names":["Trymantha"]
+            "id": "TRYMANTHA",
+            "names": [
+                "Trymantha"
+            ]
         },
         {
-            "id":"LUNARAI",
-            "names":["Lunarai"]
+            "id": "LUNARAI",
+            "names": [
+                "Lunarai"
+            ]
         },
         {
-            "id":"HALLEY",
-            "names":["Bunni", "BensWife"]
+            "id": "HALLEY",
+            "names": [
+                "Bunni",
+                "BensWife"
+            ]
         }
     ]
 }

@@ -1,384 +1,592 @@
 {
     "content": [
         {
-            "id":"Video",
-            "name":"Video",
-            "url":"/videos",
-            "promptContentType":"STIPrompt",
-            
-            "responsePlaceholder" : null,
-            "twistPlaceholder" : "enter a video title",
-                            
-            "revealSpec":{
-                "revealLinkage":"STI_Video",
-                "votingLinkage":"STI_VideoVote",
-                "bestTwistLinkage":"STI_Video",
-                
+            "id": "Vídeo",
+            "name": "Vídeo",
+            "url": "/ videos",
+            "promptContentType": "STIPrompt",
+            "responsePlaceholder": null,
+            "twistPlaceholder": "insira um título de vídeo",
+            "revealSpec": {
+                "revealLinkage": "STI_Video",
+                "votingLinkage": "STI_VideoVote",
+                "bestTwistLinkage": "STI_Video",
                 "tfs": [
-                    { "path":"container.playerName.color", "value":"ResponseAuthorName", "color":"ResponseAuthorColor" },
-                    { "path":"container.comment",          "value":"Response", "numLines":2, "balance":"top", "censorable":true },
-                    { "path":"container.twist",            "value":"Twist", "numLines":2, "censorable":true },
-                    { "path":"container.views",            "value":"[50000-99999]", "commaDelimited" : true },
-                    { "path":"container.thumbsUp",         "value":"[0-25000]"},
-                    { "path":"container.thumbsDown",       "value":"[0-25000]"}
+                    {
+                        "path": "container.playerName.color",
+                        "value": "ResponseAuthorName",
+                        "color": "ResponseAuthorColor"
+                    },
+                    {
+                        "path": "container.comment",
+                        "value": "Resposta",
+                        "numLines": 2,
+                        "balance": "principal",
+                        "censorable": true
+                    },
+                    {
+                        "path": "container.twist",
+                        "value": "Torção",
+                        "numLines": 2,
+                        "censorable": true
+                    },
+                    {
+                        "path": "container.views",
+                        "value": "[50000-99999]",
+                        "commaDelimited": true
+                    },
+                    {
+                        "path": "container.thumbsUp",
+                        "value": "[0-25000]"
+                    },
+                    {
+                        "path": "container.thumbsDown",
+                        "value": "[0-25000]"
+                    }
                 ],
-                "frames" : [
-                    { "path" : "container.avatar",         "value":"ResponseAuthorColor" },
-                    { "path" : "container.vidColor",       "value":"ResponseAuthorColor" }
+                "frames": [
+                    {
+                        "path": "container.avatar",
+                        "value": "ResponseAuthorColor"
+                    },
+                    {
+                        "path": "container.vidColor",
+                        "value": "ResponseAuthorColor"
+                    }
                 ]
             },
-            
-            "controllerTextSpec":{
-                "aboveBlackBox" : null,
-                "blackBox" : "<TargetResponse>",
-                "belowBlackBox" : "would be a ridiculous comment to a video titled:",
-                "caret" : true
+            "controllerTextSpec": {
+                "aboveBlackBox": null,
+                "blackBox": "<TargetResponse>",
+                "belowBlackBox": "seria um comentário ridículo para um vídeo intitulado:",
+                "caret": true
             },
-            "controllerInputSpec":{
-                "prefix" : null
+            "controllerInputSpec": {
+                "prefix": null
             },
-            "controllerChoiceSpec":{
-                "header":"<Twist>",
-                "body":"<Response>",
-                "footer":null
+            "controllerChoiceSpec": {
+                "header": "<Twist>",
+                "body": "<Response>",
+                "footer": null
             }
         },
         {
-            "id":"Chirp",
-            "name":"Chirp",
-            "url":"/social-media",
-            "promptContentType":"STIPrompt",
-            "bgFrame":"SocialNetwork",
-            
-            "responsePlaceholder" : null,
-            "twistPlaceholder" : "enter a hashtag",
-            
-            "revealSpec":{
-                "revealLinkage":"STI_Chirp",
-                "votingLinkage":"STI_ChirpVote",
-                "bestTwistLinkage":"STI_Chirp",
-                
+            "id": "Chilro",
+            "name": "Chilro",
+            "url": "/mídia social",
+            "promptContentType": "STIPrompt",
+            "bgFrame": "Rede social",
+            "responsePlaceholder": null,
+            "twistPlaceholder": "insira uma hashtag",
+            "revealSpec": {
+                "revealLinkage": "STI_Chirp",
+                "votingLinkage": "STI_ChirpVote",
+                "bestTwistLinkage": "STI_Chirp",
                 "tfs": [
-                    { "path":"container.playerName.color",       "value":"ResponseAuthorName", "color":"ResponseAuthorColor" },
-                    { "path":"container.comment",                "value":"Response", "numLines":2, "balance":"top", "censorable":true },
-                    { "path":"container.twist.color",            "value":"Twist", "numLines":2, "prefix":"#", "censorable":true, "color":"ResponseAuthorColor" },
-                    { "path":"container.love",                   "value":"[0-999]"},
-                    { "path":"container.rechirp",                "value":"[0-999]"},
-                    { "path":"container.reply",                  "value":"[0-999]"}
+                    {
+                        "path": "container.playerName.color",
+                        "value": "ResponseAuthorName",
+                        "color": "ResponseAuthorColor"
+                    },
+                    {
+                        "path": "container.comment",
+                        "value": "Resposta",
+                        "numLines": 2,
+                        "balance": "principal",
+                        "censorable": true
+                    },
+                    {
+                        "path": "container.twist.color",
+                        "value": "Torção",
+                        "numLines": 2,
+                        "prefix": "#",
+                        "censorable": true,
+                        "color": "ResponseAuthorColor"
+                    },
+                    {
+                        "path": "container.love",
+                        "value": "[0-999]"
+                    },
+                    {
+                        "path": "container.rechirp",
+                        "value": "[0-999]"
+                    },
+                    {
+                        "path": "container.reply",
+                        "value": "[0-999]"
+                    }
                 ],
-                "frames" : [
-                    { "path" : "container.avatar",               "value":"ResponseAuthorColor" }
+                "frames": [
+                    {
+                        "path": "container.avatar",
+                        "value": "ResponseAuthorColor"
+                    }
                 ]
             },
-            "controllerTextSpec":{
-                "aboveBlackBox" : null,
-                "blackBox" : "<TargetResponse>",
-                "belowBlackBox" : "Would look ridiculous if it had the hashtag:",
-                "caret" : true
+            "controllerTextSpec": {
+                "aboveBlackBox": null,
+                "blackBox": "<TargetResponse>",
+                "belowBlackBox": "Ficaria ridículo se tivesse a hashtag:",
+                "caret": true
             },
-            "controllerInputSpec":{
-                "prefix" : "#"
+            "controllerInputSpec": {
+                "prefix": "#"
             },
-            "controllerChoiceSpec":{
-                "header":null,
-                "body":"<Response>",
-                "footer":"<Twist>"
+            "controllerChoiceSpec": {
+                "header": null,
+                "body": "<Response>",
+                "footer": "<Twist>"
             }
         },
         {
-            "id":"News",
-            "name":"News",
-            "url":"/news",
-            "promptContentType":"STIPrompt",
-            "bgFrame":"NewsOutlet",
-            
-            "responsePlaceholder" : null,
-            "twistPlaceholder" : "enter a news headline",
-            "prefix" : null,
-            
-            "revealSpec":{
-                "revealLinkage":"STI_News",
-                "votingLinkage":"STI_NewsVote",
-                "bestTwistLinkage":"STI_News",
-                
+            "id": "Notícias",
+            "name": "Notícias",
+            "url": "/notícias",
+            "promptContentType": "STIPrompt",
+            "bgFrame": "NewsOutlet",
+            "responsePlaceholder": null,
+            "twistPlaceholder": "insira uma manchete de notícias",
+            "prefix": null,
+            "revealSpec": {
+                "revealLinkage": "STI_News",
+                "votingLinkage": "STI_NewsVote",
+                "bestTwistLinkage": "STI_News",
                 "tfs": [
-                    { "path":"container.playerName.color",       "value":"ResponseAuthorName", "color":"ResponseAuthorColor" },
-                    { "path":"container.comment",                "value":"Response", "numLines":2, "balance":"top", "censorable":true },
-                    { "path":"container.twist",                  "value":"Twist", "numLines":2, "censorable":true },
-                    { "path":"container.dateAndTime",            "value":"CurrentDate(MA d, yyyy, th12:tm AMPM)" }
+                    {
+                        "path": "container.playerName.color",
+                        "value": "ResponseAuthorName",
+                        "color": "ResponseAuthorColor"
+                    },
+                    {
+                        "path": "container.comment",
+                        "value": "Resposta",
+                        "numLines": 2,
+                        "balance": "principal",
+                        "censorable": true
+                    },
+                    {
+                        "path": "container.twist",
+                        "value": "Torção",
+                        "numLines": 2,
+                        "censorable": true
+                    },
+                    {
+                        "path": "container.dateAndTime",
+                        "value": "CurrentDate (MA d, yyyy, th12: tm AMPM)"
+                    }
                 ],
-                "frames" : [
-                    { "path" : "container.avatar",               "value":"ResponseAuthorColor" },
-                    { "path" : "container.headerColor",          "value":"ResponseAuthorColor" }
+                "frames": [
+                    {
+                        "path": "container.avatar",
+                        "value": "ResponseAuthorColor"
+                    },
+                    {
+                        "path": "container.headerColor",
+                        "value": "ResponseAuthorColor"
+                    }
                 ]
             },
-            "controllerTextSpec":{
-                "aboveBlackBox" : null,
-                "blackBox" : "<TargetResponse>",
-                "belowBlackBox" : "would be a terrible comment in response to this news headline:",
-                "caret" : true
+            "controllerTextSpec": {
+                "aboveBlackBox": null,
+                "blackBox": "<TargetResponse>",
+                "belowBlackBox": "seria um comentário terrível em resposta a esta manchete:",
+                "caret": true
             },
-            "controllerInputSpec":{
-                "prefix" : null
+            "controllerInputSpec": {
+                "prefix": null
             },
-            "controllerChoiceSpec":{
-                "header":"<Twist>",
-                "body":"<Response>",
-                "footer":null
+            "controllerChoiceSpec": {
+                "header": "<Twist>",
+                "body": "<Response>",
+                "footer": null
             }
         },
         {
-            "id":"FriendFeed",
-            "name":"FriendFeed",
-            "url":"/social-network",
-            "promptContentType":"STIPrompt",
-            "bgFrame":"SocialNetwork",
-
-            "responsePlaceholder" : null,
-            "twistPlaceholder" : "enter a comment",
-            "prefix" : null,
-            
-            "revealSpec":{
-                "revealLinkage":"STI_FriendFeed",
-                "votingLinkage":"STI_FriendFeedVote",
-                "bestTwistLinkage":"STI_FriendFeed",
-                
+            "id": "FriendFeed",
+            "name": "FriendFeed",
+            "url": "/rede social",
+            "promptContentType": "STIPrompt",
+            "bgFrame": "Rede social",
+            "responsePlaceholder": null,
+            "twistPlaceholder": "insira um comentário",
+            "prefix": null,
+            "revealSpec": {
+                "revealLinkage": "STI_FriendFeed",
+                "votingLinkage": "STI_FriendFeedVote",
+                "bestTwistLinkage": "STI_FriendFeed",
                 "tfs": [
-                    { "path":"container.playerName.color",       "value":"ResponseAuthorName", "color":"ResponseAuthorColor" },
-                    { "path":"container.comment",                "value":"Response", "numLines":2, "balance":"top", "censorable":true },
-                    { "path":"container.twist",                  "value":"Twist", "numLines":2, "censorable":true },
-                    { "path":"container.dateAndTime",            "value":"CurrentDate(MA d, yyyy, th12:tm AMPM)" }
+                    {
+                        "path": "container.playerName.color",
+                        "value": "ResponseAuthorName",
+                        "color": "ResponseAuthorColor"
+                    },
+                    {
+                        "path": "container.comment",
+                        "value": "Resposta",
+                        "numLines": 2,
+                        "balance": "principal",
+                        "censorable": true
+                    },
+                    {
+                        "path": "container.twist",
+                        "value": "Torção",
+                        "numLines": 2,
+                        "censorable": true
+                    },
+                    {
+                        "path": "container.dateAndTime",
+                        "value": "CurrentDate (MA d, yyyy, th12: tm AMPM)"
+                    }
                 ],
-                "frames" : [
-                    { "path" : "container.avatar",               "value":"ResponseAuthorColor" }
+                "frames": [
+                    {
+                        "path": "container.avatar",
+                        "value": "ResponseAuthorColor"
+                    }
                 ]
             },
-            "controllerTextSpec":{
-                "aboveBlackBox" : null,
-                "blackBox" : "<TargetResponse>",
-                "belowBlackBox" : "would be a ridiculous response to this comment:",
-                "caret" : true
+            "controllerTextSpec": {
+                "aboveBlackBox": null,
+                "blackBox": "<TargetResponse>",
+                "belowBlackBox": "seria uma resposta ridícula a este comentário:",
+                "caret": true
             },
-            "controllerInputSpec":{
-                "prefix" : null
+            "controllerInputSpec": {
+                "prefix": null
             },
-            "controllerChoiceSpec":{
-                "header":"<Twist>",
-                "body":"<Response>",
-                "footer":null
+            "controllerChoiceSpec": {
+                "header": "<Twist>",
+                "body": "<Response>",
+                "footer": null
             }
         },
         {
-            "id":"CrowdFund",
-            "name":"CrowdFund",
-            "url":"/crowdfunding",
-            "promptContentType":"STIPrompt",
-            "bgFrame":"Crowdfunding",
-            
-            "responsePlaceholder" : null,
-            "twistPlaceholder" : "enter a fundraising title",
-            "prefix" : null,
-            
-            "revealSpec":{
-                "revealLinkage":"STI_CrowdFund",
-                "votingLinkage":"STI_CrowdFundVote",
-                "bestTwistLinkage":"STI_CrowdFund",
-                
+            "id": "Vaquinha",
+            "name": "Vaquinha",
+            "url": "/financiamento colaborativo",
+            "promptContentType": "STIPrompt",
+            "bgFrame": "Financiamento colaborativo",
+            "responsePlaceholder": null,
+            "twistPlaceholder": "insira um título de arrecadação de fundos",
+            "prefix": null,
+            "revealSpec": {
+                "revealLinkage": "STI_CrowdFund",
+                "votingLinkage": "STI_CrowdFundVote",
+                "bestTwistLinkage": "STI_CrowdFund",
                 "tfs": [
-                    { "path":"container.playerName.color",       "value":"ResponseAuthorName", "color":"ResponseAuthorColor" },
-                    { "path":"container.comment",                "value":"Response", "numLines":2, "balance":"top", "censorable":true },
-                    { "path":"container.twist",                  "value":"Twist", "numLines":3, "balance":"top", "censorable":true },
-                    { "path":"container.contribution.color",     "value":"[5000-99999]", "prefix":"$", "commaDelimited" : true, "color":"ResponseAuthorColor" },
-                    { "path":"container.supporters.color",       "value":"[100-9999]", "color":"ResponseAuthorColor" }
+                    {
+                        "path": "container.playerName.color",
+                        "value": "ResponseAuthorName",
+                        "color": "ResponseAuthorColor"
+                    },
+                    {
+                        "path": "container.comment",
+                        "value": "Resposta",
+                        "numLines": 2,
+                        "balance": "principal",
+                        "censorable": true
+                    },
+                    {
+                        "path": "container.twist",
+                        "value": "Torção",
+                        "numLines": 3,
+                        "balance": "principal",
+                        "censorable": true
+                    },
+                    {
+                        "path": "container.contribution.color",
+                        "value": "[5000-99999]",
+                        "prefix": "$",
+                        "commaDelimited": true,
+                        "color": "ResponseAuthorColor"
+                    },
+                    {
+                        "path": "container.supporters.color",
+                        "value": "[100-9999]",
+                        "color": "ResponseAuthorColor"
+                    }
                 ],
-                "frames" : [
-                    { "path" : "container.avatar",               "value":"ResponseAuthorColor" },
-                    { "path" : "container.crowdFundColor",       "value":"ResponseAuthorColor" }
+                "frames": [
+                    {
+                        "path": "container.avatar",
+                        "value": "ResponseAuthorColor"
+                    },
+                    {
+                        "path": "container.crowdFundColor",
+                        "value": "ResponseAuthorColor"
+                    }
                 ]
             },
-            "controllerTextSpec":{
-                "aboveBlackBox" : null,
-                "blackBox" : "<TargetResponse>",
-                "belowBlackBox" : "would be a silly comment to a crowdfunding campaign titled:",
-                "caret" : true
+            "controllerTextSpec": {
+                "aboveBlackBox": null,
+                "blackBox": "<TargetResponse>",
+                "belowBlackBox": "seria um comentário bobo para uma campanha de financiamento coletivo intitulada:",
+                "caret": true
             },
-            "controllerInputSpec":{
-                "prefix" : null
+            "controllerInputSpec": {
+                "prefix": null
             },
-            "controllerChoiceSpec":{
-                "header":"<Twist>",
-                "body":"<Response>",
-                "footer":null
+            "controllerChoiceSpec": {
+                "header": "<Twist>",
+                "body": "<Response>",
+                "footer": null
             }
         },
         {
-            "id":"Store",
-            "name":"Store",
-            "url":"/store",
-            "promptContentType":"STIStorePrompt",
-            "bgFrame":"OnlineStore",
-            
-            "responsePlaceholder" : null,
-            "twistPlaceholder" : "enter a product name",
-            "prefix" : null,
-            
-            "revealSpec":{
-                "revealLinkage":"STI_Store",
-                "votingLinkage":"STI_StoreVote",
-                "bestTwistLinkage":"STI_Store",
-                
+            "id": "Loja",
+            "name": "Loja",
+            "url": "/loja",
+            "promptContentType": "STIStorePrompt",
+            "bgFrame": "Loja online",
+            "responsePlaceholder": null,
+            "twistPlaceholder": "insira um nome de produto",
+            "prefix": null,
+            "revealSpec": {
+                "revealLinkage": "STI_Store",
+                "votingLinkage": "STI_StoreVote",
+                "bestTwistLinkage": "STI_Store",
                 "tfs": [
-                    { "path":"container.playerName.color",       "value":"ResponseAuthorName", "color":"ResponseAuthorColor" },
-                    { "path":"container.comment",                "value":"Response", "numLines":2, "balance":"top", "censorable":true },
-                    { "path":"container.twist",                  "value":"Twist", "numLines":2, "censorable":true }
+                    {
+                        "path": "container.playerName.color",
+                        "value": "ResponseAuthorName",
+                        "color": "ResponseAuthorColor"
+                    },
+                    {
+                        "path": "container.comment",
+                        "value": "Resposta",
+                        "numLines": 2,
+                        "balance": "principal",
+                        "censorable": true
+                    },
+                    {
+                        "path": "container.twist",
+                        "value": "Torção",
+                        "numLines": 2,
+                        "censorable": true
+                    }
                 ],
-                "frames" : [
-                    { "path" : "container.avatar",               "value":"ResponseAuthorColor" },
-                    { "path" : "container.storeColor",           "value":"ResponseAuthorColor" },
-                    { "path" : "container.starRating",           "value":"Random" }
+                "frames": [
+                    {
+                        "path": "container.avatar",
+                        "value": "ResponseAuthorColor"
+                    },
+                    {
+                        "path": "container.storeColor",
+                        "value": "ResponseAuthorColor"
+                    },
+                    {
+                        "path": "container.starRating",
+                        "value": "Aleatório"
+                    }
                 ]
             },
-            "controllerTextSpec":{
-                "aboveBlackBox" : null,
-                "blackBox" : "<TargetResponse>",
-                "belowBlackBox" : "would be a ridiculous review for a product called:",
-                "caret" : true
+            "controllerTextSpec": {
+                "aboveBlackBox": null,
+                "blackBox": "<TargetResponse>",
+                "belowBlackBox": "seria uma crítica ridícula para um produto chamado:",
+                "caret": true
             },
-            "controllerInputSpec":{
-                "prefix" : null
+            "controllerInputSpec": {
+                "prefix": null
             },
-            "controllerChoiceSpec":{
-                "header":"<Twist>",
-                "body":"<Response>",
-                "footer":null
+            "controllerChoiceSpec": {
+                "header": "<Twist>",
+                "body": "<Response>",
+                "footer": null
             }
         },
         {
-            "id":"Forum",
-            "name":"Forum",
-            "url":"/forum",
-            "promptContentType":"STIPrompt",
-            "bgFrame":"WebForum",
-            
-            "responsePlaceholder" : null,
-            "twistPlaceholder" : "enter a question",
-            "prefix" : null,
-            
-            "revealSpec":{
-                "revealLinkage":"STI_Forum",
-                "votingLinkage":"STI_ForumVote",
-                "bestTwistLinkage":"STI_Forum",
-                
+            "id": "Fórum",
+            "name": "Fórum",
+            "url": "/fórum",
+            "promptContentType": "STIPrompt",
+            "bgFrame": "WebForum",
+            "responsePlaceholder": null,
+            "twistPlaceholder": "introduzir uma pergunta",
+            "prefix": null,
+            "revealSpec": {
+                "revealLinkage": "STI_Forum",
+                "votingLinkage": "STI_ForumVote",
+                "bestTwistLinkage": "STI_Forum",
                 "tfs": [
-                    { "path":"container.playerName.color",       "value":"ResponseAuthorName", "color":"ResponseAuthorColor" },
-                    { "path":"container.comment",                "value":"Response", "numLines":2, "balance":"top", "censorable":true },
-                    { "path":"container.twist",                  "value":"Twist", "numLines":2, "censorable":true },
-                    { "path":"container.timeSubmitted",          "value":"TimeSubmitted" },
-                    { "path":"container.headerColors.forumTitle","value":"AMA" },
-                    { "path":"container.thumbCount",             "value":"[0-999]" }
+                    {
+                        "path": "container.playerName.color",
+                        "value": "ResponseAuthorName",
+                        "color": "ResponseAuthorColor"
+                    },
+                    {
+                        "path": "container.comment",
+                        "value": "Resposta",
+                        "numLines": 2,
+                        "balance": "principal",
+                        "censorable": true
+                    },
+                    {
+                        "path": "container.twist",
+                        "value": "Torção",
+                        "numLines": 2,
+                        "censorable": true
+                    },
+                    {
+                        "path": "container.timeSubmitted",
+                        "value": "TimeSubmitted"
+                    },
+                    {
+                        "path": "container.headerColors.forumTitle",
+                        "value": "AMA"
+                    },
+                    {
+                        "path": "container.thumbCount",
+                        "value": "[0-999]"
+                    }
                 ],
-                "frames" : [
-                    { "path" : "container.avatar",               "value":"ResponseAuthorColor" },
-                    { "path" : "container.headerColors",         "value":"ResponseAuthorColor" }
+                "frames": [
+                    {
+                        "path": "container.avatar",
+                        "value": "ResponseAuthorColor"
+                    },
+                    {
+                        "path": "container.headerColors",
+                        "value": "ResponseAuthorColor"
+                    }
                 ]
             },
-            "controllerTextSpec":{
-                "aboveBlackBox" : null,
-                "blackBox" : "<TargetResponse>",
-                "belowBlackBox" : "would be a ridiculous answer to this question:",
-                "caret" : true
+            "controllerTextSpec": {
+                "aboveBlackBox": null,
+                "blackBox": "<TargetResponse>",
+                "belowBlackBox": "seria uma resposta ridícula a esta pergunta:",
+                "caret": true
             },
-            "controllerInputSpec":{
-                "prefix" : null
+            "controllerInputSpec": {
+                "prefix": null
             },
-            "controllerChoiceSpec":{
-                "header":"<Twist>",
-                "body":"<Response>",
-                "footer":null
+            "controllerChoiceSpec": {
+                "header": "<Twist>",
+                "body": "<Response>",
+                "footer": null
             }
         },
         {
-            "id":"CheckIn",
-            "name":"CheckIn",
-            "url":"/check-in",
-            "promptContentType":"STIStorePrompt",
-            "bgFrame":"CheckInSite",
-            
-            "responsePlaceholder" : null,
-            "twistPlaceholder" : "enter a location",
-            "prefix" : null,
-            
-            "revealSpec":{
-                "revealLinkage":"STI_CheckIn",
-                "votingLinkage":"STI_CheckInVote",
-                "bestTwistLinkage":"STI_CheckIn",
-                
+            "id": "Check-in",
+            "name": "Check-in",
+            "url": "/check-in",
+            "promptContentType": "STIStorePrompt",
+            "bgFrame": "CheckInSite",
+            "responsePlaceholder": null,
+            "twistPlaceholder": "insira um local",
+            "prefix": null,
+            "revealSpec": {
+                "revealLinkage": "STI_CheckIn",
+                "votingLinkage": "STI_CheckInVote",
+                "bestTwistLinkage": "STI_CheckIn",
                 "tfs": [
-                    { "path":"container.playerName.color",       "value":"ResponseAuthorName", "color":"ResponseAuthorColor" },
-                    { "path":"container.comment",                "value":"Response", "numLines":2, "balance":"top", "censorable":true },
-                    { "path":"container.twist",                  "value":"Twist", "numLines":2, "censorable":true },
-                    { "path":"container.dateAndTime.tf",         "value":"CurrentDate(MA d, yyyy at th12:tm AMPM)" }
+                    {
+                        "path": "container.playerName.color",
+                        "value": "ResponseAuthorName",
+                        "color": "ResponseAuthorColor"
+                    },
+                    {
+                        "path": "container.comment",
+                        "value": "Resposta",
+                        "numLines": 2,
+                        "balance": "principal",
+                        "censorable": true
+                    },
+                    {
+                        "path": "container.twist",
+                        "value": "Torção",
+                        "numLines": 2,
+                        "censorable": true
+                    },
+                    {
+                        "path": "container.dateAndTime.tf",
+                        "value": "CurrentDate (MA d, aaaa em th12: tm AMPM)"
+                    }
                 ],
-                "frames" : [
-                    { "path" : "container.avatar",               "value":"ResponseAuthorColor" },
-                    { "path" : "container.headerColor",          "value":"ResponseAuthorColor" }
+                "frames": [
+                    {
+                        "path": "container.avatar",
+                        "value": "ResponseAuthorColor"
+                    },
+                    {
+                        "path": "container.headerColor",
+                        "value": "ResponseAuthorColor"
+                    }
                 ]
             },
-            "controllerTextSpec":{
-                "aboveBlackBox" : null,
-                "blackBox" : "<TargetResponse>",
-                "belowBlackBox" : "would be a ridiculous comment after checking into this location:",
-                "caret" : true
+            "controllerTextSpec": {
+                "aboveBlackBox": null,
+                "blackBox": "<TargetResponse>",
+                "belowBlackBox": "seria um comentário ridículo depois de fazer check-in neste local:",
+                "caret": true
             },
-            "controllerInputSpec":{
-                "prefix" : null
+            "controllerInputSpec": {
+                "prefix": null
             },
-            "controllerChoiceSpec":{
-                "header":null,
-                "body":"<Response>",
-                "footer":"<Twist>"
+            "controllerChoiceSpec": {
+                "header": null,
+                "body": "<Response>",
+                "footer": "<Twist>"
             }
         },
         {
-            "id":"Recommend",
-            "name":"Recommend",
-            "url":"/job-network",
-            "promptContentType":"STIJobPrompt",
-            "bgFrame":"CheckInSite",
-                
-            "responsePlaceholder" : null,
-            "twistPlaceholder" : "enter a person/character's name",
-            "prefix" : null,
-            
-            "revealSpec":{
-                "revealLinkage":"STI_Recommend",
-                "votingLinkage":"STI_RecommendVote",
-                "bestTwistLinkage":"STI_Recommend",
-                
+            "id": "Recomendar",
+            "name": "Recomendar",
+            "url": "/ job-network",
+            "promptContentType": "STIJobPrompt",
+            "bgFrame": "CheckInSite",
+            "responsePlaceholder": null,
+            "twistPlaceholder": "insira o nome de uma pessoa / personagem",
+            "prefix": null,
+            "revealSpec": {
+                "revealLinkage": "STI_Recommend",
+                "votingLinkage": "STI_RecommendVote",
+                "bestTwistLinkage": "STI_Recommend",
                 "tfs": [
-                    { "path":"container.playerName.color",       "value":"ResponseAuthorName", "color":"ResponseAuthorColor" },
-                    { "path":"container.comment",                "value":"Response", "numLines":2, "balance":"top", "censorable":true },
-                    { "path":"container.color",                  "value":"Twist", "numLines":1, "maxSize":80, "censorable":true }
+                    {
+                        "path": "container.playerName.color",
+                        "value": "ResponseAuthorName",
+                        "color": "ResponseAuthorColor"
+                    },
+                    {
+                        "path": "container.comment",
+                        "value": "Resposta",
+                        "numLines": 2,
+                        "balance": "principal",
+                        "censorable": true
+                    },
+                    {
+                        "path": "container.color",
+                        "value": "Torção",
+                        "numLines": 1,
+                        "maxSize": 80,
+                        "censorable": true
+                    }
                 ],
-                "frames" : [
-                    { "path" : "container.avatar",               "value":"ResponseAuthorColor" },
-                    { "path" : "container.headerColor",          "value":"ResponseAuthorColor" }
+                "frames": [
+                    {
+                        "path": "container.avatar",
+                        "value": "ResponseAuthorColor"
+                    },
+                    {
+                        "path": "container.headerColor",
+                        "value": "ResponseAuthorColor"
+                    }
                 ]
             },
-            "controllerTextSpec":{
-                "aboveBlackBox" : null,
-                "blackBox" : "<TargetResponse>",
-                "belowBlackBox" : "would be a ridiculous endorsement for this person:",
-                
-                "caret" : true
+            "controllerTextSpec": {
+                "aboveBlackBox": null,
+                "blackBox": "<TargetResponse>",
+                "belowBlackBox": "seria um endosso ridículo para esta pessoa:",
+                "caret": true
             },
-            "controllerInputSpec":{
-                "prefix" : null
+            "controllerInputSpec": {
+                "prefix": null
             },
-            "controllerChoiceSpec":{
-                "header":null,
-                "body":"<Response>",
-                "footer":"<Twist>"
+            "controllerChoiceSpec": {
+                "header": null,
+                "body": "<Response>",
+                "footer": "<Twist>"
             }
         }
     ]

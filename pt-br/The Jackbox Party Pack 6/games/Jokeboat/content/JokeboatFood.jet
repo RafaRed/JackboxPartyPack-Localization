@@ -1,324 +1,324 @@
 {
     "content": [
         {
-            "id": 1, 
-            "topic": "apple pie"
-        }, 
+            "id": 1,
+            "topic": "torta de maçã"
+        },
         {
-            "id": 2, 
-            "topic": "baguette"
-        }, 
+            "id": 2,
+            "topic": "baguete"
+        },
         {
-            "id": 3, 
-            "topic": "baked potato"
-        }, 
+            "id": 3,
+            "topic": "batata assada"
+        },
         {
-            "id": 4, 
+            "id": 4,
             "topic": "banana"
-        }, 
+        },
         {
-            "id": 5, 
-            "topic": "BBQ platter"
-        }, 
+            "id": 5,
+            "topic": "Prato de churrasco"
+        },
         {
-            "id": 6, 
-            "topic": "bean dip"
-        }, 
+            "id": 6,
+            "topic": "Molho de feijão"
+        },
         {
-            "id": 7, 
-            "topic": "beef jerky"
-        }, 
+            "id": 7,
+            "topic": "carne seca"
+        },
         {
-            "id": 8, 
-            "topic": "beef stew"
-        }, 
+            "id": 8,
+            "topic": "ensopado de carne"
+        },
         {
-            "id": 9, 
-            "topic": "bell pepper"
-        }, 
+            "id": 9,
+            "topic": "Pimentão"
+        },
         {
-            "id": 10, 
-            "topic": "birthday cake"
-        }, 
+            "id": 10,
+            "topic": "bolo de aniversário"
+        },
         {
-            "id": 11, 
-            "topic": "hummus"
-        }, 
+            "id": 11,
+            "topic": "Húmus"
+        },
         {
-            "id": 12, 
-            "topic": "bratwurst"
-        }, 
+            "id": 12,
+            "topic": "salsicha"
+        },
         {
-            "id": 13, 
-            "topic": "breakfast burrito"
-        }, 
+            "id": 13,
+            "topic": "burrito de café da manhã"
+        },
         {
-            "id": 14, 
-            "topic": "club sandwich"
-        }, 
+            "id": 14,
+            "topic": "sanduíche de clube"
+        },
         {
-            "id": 15, 
-            "topic": "eggplant"
-        }, 
+            "id": 15,
+            "topic": "Berinjela"
+        },
         {
-            "id": 16, 
+            "id": 16,
             "topic": "cappuccino"
-        }, 
+        },
         {
-            "id": 17, 
-            "topic": "cheeseburger"
-        }, 
+            "id": 17,
+            "topic": "X-Burger"
+        },
         {
-            "id": 18, 
-            "topic": "vegan cheese"
-        }, 
+            "id": 18,
+            "topic": "queijo vegano"
+        },
         {
-            "id": 19, 
-            "topic": "coconut water"
-        }, 
+            "id": 19,
+            "topic": "Água de Côco"
+        },
         {
-            "id": 20, 
-            "topic": "coffee"
-        }, 
+            "id": 20,
+            "topic": "café"
+        },
         {
-            "id": 21, 
-            "topic": "cookie dough"
-        }, 
+            "id": 21,
+            "topic": "massa de biscoito"
+        },
         {
-            "id": 22, 
-            "topic": "cottage cheese"
-        }, 
+            "id": 22,
+            "topic": "queijo tipo cottage"
+        },
         {
-            "id": 23, 
+            "id": 23,
             "topic": "croissant"
-        }, 
+        },
         {
-            "id": 24, 
-            "topic": "dessert pizza"
-        }, 
+            "id": 24,
+            "topic": "pizza de sobremesa"
+        },
         {
-            "id": 25, 
-            "topic": "fruit salad"
-        }, 
+            "id": 25,
+            "topic": "salada de frutas"
+        },
         {
-            "id": 26, 
+            "id": 26,
             "topic": "escargot"
-        }, 
+        },
         {
-            "id": 27, 
+            "id": 27,
             "topic": "falafel"
-        }, 
+        },
         {
-            "id": 28, 
-            "topic": "fish taco"
-        }, 
+            "id": 28,
+            "topic": "taco de peixe"
+        },
         {
-            "id": 29, 
-            "topic": "fried calamari"
-        }, 
+            "id": 29,
+            "topic": "Calamari frito"
+        },
         {
-            "id": 30, 
-            "topic": "frozen yogurt"
-        }, 
+            "id": 30,
+            "topic": "iogurte congelado"
+        },
         {
-            "id": 31, 
-            "topic": "gazpacho"
-        }, 
+            "id": 31,
+            "topic": "Gaspacho"
+        },
         {
-            "id": 32, 
-            "topic": "granola bar"
-        }, 
+            "id": 32,
+            "topic": "Barra de granola"
+        },
         {
-            "id": 33, 
-            "topic": "grape jelly"
-        }, 
+            "id": 33,
+            "topic": "geleia de uva"
+        },
         {
-            "id": 34, 
-            "topic": "Greek yogurt"
-        }, 
+            "id": 34,
+            "topic": "iogurte grego"
+        },
         {
-            "id": 35, 
-            "topic": "green tea"
-        }, 
+            "id": 35,
+            "topic": "Chá verde"
+        },
         {
-            "id": 36, 
-            "topic": "grilled cheese sandwich"
-        }, 
+            "id": 36,
+            "topic": "sanduíche de queijo grelhado"
+        },
         {
-            "id": 37, 
-            "topic": "hard boiled egg"
-        }, 
+            "id": 37,
+            "topic": "ovo cozido"
+        },
         {
-            "id": 38, 
-            "topic": "instant ramen"
-        }, 
+            "id": 38,
+            "topic": "ramen instantâneo"
+        },
         {
-            "id": 39, 
-            "topic": "lasagna"
-        }, 
+            "id": 39,
+            "topic": "lasanha"
+        },
         {
-            "id": 40, 
-            "topic": "lava cake"
-        }, 
+            "id": 40,
+            "topic": "bolo de lava"
+        },
         {
-            "id": 41, 
-            "topic": "lollipop"
-        }, 
+            "id": 41,
+            "topic": "pirulito"
+        },
         {
-            "id": 42, 
-            "topic": "lunch meat"
-        }, 
+            "id": 42,
+            "topic": "carne do almoço"
+        },
         {
-            "id": 43, 
-            "topic": "mac and cheese"
-        }, 
+            "id": 43,
+            "topic": "macarrão com queijo"
+        },
         {
-            "id": 44, 
-            "topic": "mayonnaise"
-        }, 
+            "id": 44,
+            "topic": "maionese"
+        },
         {
-            "id": 45, 
-            "topic": "milk"
-        }, 
+            "id": 45,
+            "topic": "leite"
+        },
         {
-            "id": 46, 
-            "topic": "pizza pocket"
-        }, 
+            "id": 46,
+            "topic": "bolso de pizza"
+        },
         {
-            "id": 47, 
-            "topic": "movie theater popcorn"
-        }, 
+            "id": 47,
+            "topic": "pipoca de cinema"
+        },
         {
-            "id": 48, 
-            "topic": "candy corn"
-        }, 
+            "id": 48,
+            "topic": "milho doce"
+        },
         {
-            "id": 49, 
-            "topic": "party sub"
-        }, 
+            "id": 49,
+            "topic": "festa sub"
+        },
         {
-            "id": 50, 
-            "topic": "pb&j"
-        }, 
+            "id": 50,
+            "topic": "pb e j"
+        },
         {
-            "id": 51, 
-            "topic": "peanut butter"
-        }, 
+            "id": 51,
+            "topic": "manteiga de amendoim"
+        },
         {
-            "id": 52, 
+            "id": 52,
             "topic": "pepperoni"
-        }, 
+        },
         {
-            "id": 53, 
-            "topic": "pico de gallo"
-        }, 
+            "id": 53,
+            "topic": "Pico de Gallo"
+        },
         {
-            "id": 54, 
-            "topic": "popcorn"
-        }, 
+            "id": 54,
+            "topic": "Pipoca"
+        },
         {
-            "id": 55, 
-            "topic": "pudding"
-        }, 
+            "id": 55,
+            "topic": "pudim"
+        },
         {
-            "id": 56, 
-            "topic": "pumpkin spice"
-        }, 
+            "id": 56,
+            "topic": "tempero de abóbora"
+        },
         {
-            "id": 57, 
-            "topic": "quinoa"
-        }, 
+            "id": 57,
+            "topic": "Quinoa"
+        },
         {
-            "id": 58, 
-            "topic": "raisin"
-        }, 
+            "id": 58,
+            "topic": "passa"
+        },
         {
-            "id": 59, 
-            "topic": "raw onion"
-        }, 
+            "id": 59,
+            "topic": "Cebola crua"
+        },
         {
-            "id": 60, 
-            "topic": "salami"
-        }, 
+            "id": 60,
+            "topic": "salame"
+        },
         {
-            "id": 61, 
+            "id": 61,
             "topic": "smoothie"
-        }, 
+        },
         {
-            "id": 62, 
-            "topic": "soy milk"
-        }, 
+            "id": 62,
+            "topic": "leite de soja"
+        },
         {
-            "id": 63, 
-            "topic": "spinach"
-        }, 
+            "id": 63,
+            "topic": "espinafre"
+        },
         {
-            "id": 64, 
-            "topic": "sour cream"
-        }, 
+            "id": 64,
+            "topic": "nata"
+        },
         {
-            "id": 65, 
-            "topic": "string cheese"
-        }, 
+            "id": 65,
+            "topic": "queijo de corda"
+        },
         {
-            "id": 66, 
-            "topic": "sushi"
-        }, 
+            "id": 66,
+            "topic": "Sushi"
+        },
         {
-            "id": 67, 
-            "topic": "clam chowder"
-        }, 
+            "id": 67,
+            "topic": "sopa de mariscos"
+        },
         {
-            "id": 68, 
-            "topic": "whipped cream"
-        }, 
+            "id": 68,
+            "topic": "chantilly"
+        },
         {
-            "id": 69, 
-            "topic": "kale"
-        }, 
+            "id": 69,
+            "topic": "couve"
+        },
         {
-            "id": 70, 
-            "topic": "avocado"
-        }, 
+            "id": 70,
+            "topic": "abacate"
+        },
         {
-            "id": 71, 
-            "topic": "garlic bread"
-        }, 
+            "id": 71,
+            "topic": "pão de alho"
+        },
         {
-            "id": 72, 
-            "topic": "tuna salad"
-        }, 
+            "id": 72,
+            "topic": "salada de atum"
+        },
         {
-            "id": 73, 
-            "topic": "french toast"
-        }, 
+            "id": 73,
+            "topic": "torrada francesa"
+        },
         {
-            "id": 74, 
-            "topic": "gumbo"
-        }, 
+            "id": 74,
+            "topic": "quiabo"
+        },
         {
-            "id": 75, 
-            "topic": "hot sauce"
-        }, 
+            "id": 75,
+            "topic": "molho picante"
+        },
         {
-            "id": 76, 
+            "id": 76,
             "topic": "tater tot"
-        }, 
+        },
         {
-            "id": 77, 
-            "topic": "gyro"
-        }, 
+            "id": 77,
+            "topic": "giroscópio"
+        },
         {
-            "id": 78, 
-            "topic": "hot dog"
-        }, 
+            "id": 78,
+            "topic": "cachorro quente"
+        },
         {
-            "id": 79, 
-            "topic": "nacho cheese"
-        }, 
+            "id": 79,
+            "topic": "queijo nacho"
+        },
         {
-            "id": 80, 
-            "topic": "deep dish pizza"
+            "id": 80,
+            "topic": "pizza de prato fundo"
         }
     ]
 }

@@ -1,1 +1,340 @@
-{"content":[{"x":false,"id":39191,"category":"a scary monster"},{"x":false,"id":39190,"category":"What aliens really look like"},{"x":false,"id":39189,"category":"A terrible way to die"},{"x":false,"id":39188,"category":"A tattoo you\u2019ve always wanted"},{"x":false,"id":39187,"category":"Something really sticky"},{"x":false,"id":39186,"category":"Something that\u2019s very hairy"},{"x":false,"id":39184,"category":"A cartoon character"},{"x":false,"id":39183,"category":"Something you can lick"},{"x":false,"id":39182,"category":"Fashionable"},{"x":false,"id":39181,"category":"Your worst nightmare"},{"x":false,"id":39180,"category":"A video game character"},{"x":false,"id":39179,"category":"Something sexy"},{"x":false,"id":39178,"category":"Something expensive"},{"x":false,"id":39177,"category":"Your self-portrait"},{"x":false,"id":39176,"category":"Your self-portrait"},{"x":false,"id":39175,"category":"The perfect murder weapon"},{"x":false,"id":39174,"category":"A dangerous animal"},{"x":false,"id":39173,"category":"Something smelly"},{"x":false,"id":39172,"category":"Your favorite thing to eat"},{"x":false,"id":39171,"category":"Something that makes you happy"},{"x":false,"id":39170,"category":"Something that makes you cry"},{"x":false,"id":39167,"category":"so many puppies"},{"x":false,"id":39166,"category":"humanity"},{"x":false,"id":39165,"category":"what i want"},{"x":false,"id":39164,"category":"celebration"},{"x":false,"id":39163,"category":"a nice way to die"},{"x":false,"id":39162,"category":"the future"},{"x":false,"id":39161,"category":"nature"},{"x":false,"id":38786,"category":"weezer"},{"x":false,"id":38783,"category":"crawfish boil"},{"x":false,"id":38781,"category":"a map of missouri "},{"x":false,"id":38780,"category":"a map of Europe"},{"x":false,"id":38773,"category":"police academy"},{"x":false,"id":38772,"category":"pilates"},{"x":false,"id":38765,"category":"key party"},{"x":false,"id":38759,"category":"machu picchu"},{"x":false,"id":38756,"category":"david schwimmer "},{"x":false,"id":38696,"category":"rick and morty"},{"x":false,"id":38683,"category":"law & order"},{"x":false,"id":38676,"category":"conan o\u2019brien"},{"x":false,"id":38655,"category":"las vegas"},{"x":false,"id":38652,"category":"80\u2019s fashion"},{"x":false,"id":38596,"category":"future poop"},{"x":false,"id":38595,"category":"pottery class"},{"x":false,"id":38587,"category":"MRI"},{"x":false,"id":38585,"category":"subwoofer"},{"x":false,"id":38584,"category":"molars"},{"x":false,"id":38576,"category":"nitrogen"},{"x":false,"id":38475,"category":"the girl with a pearl earring "},{"x":false,"id":38474,"category":"valhalla"},{"x":false,"id":38471,"category":"nighthawks"},{"x":false,"id":38404,"category":"moral ambiguity"},{"x":false,"id":38398,"category":"malice"},{"x":false,"id":38396,"category":"like a boss"},{"x":false,"id":38393,"category":"too cute!"},{"x":false,"id":38391,"category":"comfortable with your body"},{"x":false,"id":38386,"category":"a job well done"},{"x":false,"id":38385,"category":"overactive imagination"},{"x":false,"id":38384,"category":"warm fuzzy feeling"},{"x":false,"id":38383,"category":"dingleberries"},{"x":false,"id":38356,"category":"long lost lovers"},{"x":false,"id":38353,"category":"johnny depp"},{"x":false,"id":38350,"category":"unemployed "},{"x":false,"id":38348,"category":"adventure"},{"x":false,"id":38347,"category":"curiosity"},{"x":false,"id":38346,"category":"loyalty"},{"x":false,"id":38340,"category":"socialism "}],"episodeid":1258}
+{
+   "content": [
+      {
+         "x": false,
+         "id": 39191,
+         "category": "um monstro assustador"
+      },
+      {
+         "x": false,
+         "id": 39190,
+         "category": "Como os alienígenas realmente se parecem"
+      },
+      {
+         "x": false,
+         "id": 39189,
+         "category": "Uma maneira terrível de morrer"
+      },
+      {
+         "x": false,
+         "id": 39188,
+         "category": "Uma tatuagem que você sempre quis"
+      },
+      {
+         "x": false,
+         "id": 39187,
+         "category": "Algo realmente pegajoso"
+      },
+      {
+         "x": false,
+         "id": 39186,
+         "category": "Algo que é muito cabeludo"
+      },
+      {
+         "x": false,
+         "id": 39184,
+         "category": "Um personagem de desenho animado"
+      },
+      {
+         "x": false,
+         "id": 39183,
+         "category": "Algo que você pode lamber"
+      },
+      {
+         "x": false,
+         "id": 39182,
+         "category": "Elegante"
+      },
+      {
+         "x": false,
+         "id": 39181,
+         "category": "Seu pior pesadelo"
+      },
+      {
+         "x": false,
+         "id": 39180,
+         "category": "Um personagem de videogame"
+      },
+      {
+         "x": false,
+         "id": 39179,
+         "category": "Algo sexy"
+      },
+      {
+         "x": false,
+         "id": 39178,
+         "category": "Algo caro"
+      },
+      {
+         "x": false,
+         "id": 39177,
+         "category": "Seu auto-retrato"
+      },
+      {
+         "x": false,
+         "id": 39176,
+         "category": "Seu auto-retrato"
+      },
+      {
+         "x": false,
+         "id": 39175,
+         "category": "A arma perfeita do crime"
+      },
+      {
+         "x": false,
+         "id": 39174,
+         "category": "Um animal perigoso"
+      },
+      {
+         "x": false,
+         "id": 39173,
+         "category": "Algo fedorento"
+      },
+      {
+         "x": false,
+         "id": 39172,
+         "category": "Sua coisa favorita para comer"
+      },
+      {
+         "x": false,
+         "id": 39171,
+         "category": "Algo que te faz feliz"
+      },
+      {
+         "x": false,
+         "id": 39170,
+         "category": "Algo que te faz chorar"
+      },
+      {
+         "x": false,
+         "id": 39167,
+         "category": "tantos cachorrinhos"
+      },
+      {
+         "x": false,
+         "id": 39166,
+         "category": "humanidade"
+      },
+      {
+         "x": false,
+         "id": 39165,
+         "category": "o que eu quero"
+      },
+      {
+         "x": false,
+         "id": 39164,
+         "category": "celebração"
+      },
+      {
+         "x": false,
+         "id": 39163,
+         "category": "uma boa maneira de morrer"
+      },
+      {
+         "x": false,
+         "id": 39162,
+         "category": "o futuro"
+      },
+      {
+         "x": false,
+         "id": 39161,
+         "category": "natureza"
+      },
+      {
+         "x": false,
+         "id": 38786,
+         "category": "weezer"
+      },
+      {
+         "x": false,
+         "id": 38783,
+         "category": "fervura de lagostim"
+      },
+      {
+         "x": false,
+         "id": 38781,
+         "category": "um mapa de missouri "
+      },
+      {
+         "x": false,
+         "id": 38780,
+         "category": "um mapa da Europa"
+      },
+      {
+         "x": false,
+         "id": 38773,
+         "category": "Academia de Polícia"
+      },
+      {
+         "x": false,
+         "id": 38772,
+         "category": "pilates"
+      },
+      {
+         "x": false,
+         "id": 38765,
+         "category": "festa chave"
+      },
+      {
+         "x": false,
+         "id": 38759,
+         "category": "Machu Picchu"
+      },
+      {
+         "x": false,
+         "id": 38756,
+         "category": "david schwimmer "
+      },
+      {
+         "x": false,
+         "id": 38696,
+         "category": "rick and morty"
+      },
+      {
+         "x": false,
+         "id": 38683,
+         "category": "lei e ordem"
+      },
+      {
+         "x": false,
+         "id": 38676,
+         "category": "Conan O'brien"
+      },
+      {
+         "x": false,
+         "id": 38655,
+         "category": "las vegas"
+      },
+      {
+         "x": false,
+         "id": 38652,
+         "category": "Moda dos anos 80"
+      },
+      {
+         "x": false,
+         "id": 38596,
+         "category": "futuro cocô"
+      },
+      {
+         "x": false,
+         "id": 38595,
+         "category": "aula de cerâmica"
+      },
+      {
+         "x": false,
+         "id": 38587,
+         "category": "Ressonância magnética"
+      },
+      {
+         "x": false,
+         "id": 38585,
+         "category": "subwoofer"
+      },
+      {
+         "x": false,
+         "id": 38584,
+         "category": "Molares"
+      },
+      {
+         "x": false,
+         "id": 38576,
+         "category": "azoto"
+      },
+      {
+         "x": false,
+         "id": 38475,
+         "category": "a garota com um brinco de pérola "
+      },
+      {
+         "x": false,
+         "id": 38474,
+         "category": "Valhalla"
+      },
+      {
+         "x": false,
+         "id": 38471,
+         "category": "falcões noturnos"
+      },
+      {
+         "x": false,
+         "id": 3,
+         "category": "ambigüidade moral"
+      },
+      {
+         "x": false,
+         "id": 38398,
+         "category": "malícia"
+      },
+      {
+         "x": false,
+         "id": 38396,
+         "category": "que nem um chefe"
+      },
+      {
+         "x": false,
+         "id": 38393,
+         "category": "muito fofo!"
+      },
+      {
+         "x": false,
+         "id": 38391,
+         "category": "confortável com seu corpo"
+      },
+      {
+         "x": false,
+         "id": 38386,
+         "category": "um trabalho bem feito"
+      },
+      {
+         "x": false,
+         "id": 38385,
+         "category": "imaginação hiperativa"
+      },
+      {
+         "x": false,
+         "id": 38384,
+         "category": "sensação calorosa"
+      },
+      {
+         "x": false,
+         "id": 38383,
+         "category": "amoras"
+      },
+      {
+         "x": false,
+         "id": 38356,
+         "category": "amantes perdidos há muito tempo"
+      },
+      {
+         "x": false,
+         "id": 38353,
+         "category": "johnny depp"
+      },
+      {
+         "x": false,
+         "id": 38350,
+         "category": "desempregado "
+      },
+      {
+         "x": false,
+         "id": 38348,
+         "category": "aventura"
+      },
+      {
+         "x": false,
+         "id": 38347,
+         "category": "curiosidade"
+      },
+      {
+         "x": false,
+         "id": 38346,
+         "category": "lealdade"
+      },
+      {
+         "x": false,
+         "id": 38340,
+         "category": "socialismo "
+      }
+   ],
+   "episodeid": 1258
+}

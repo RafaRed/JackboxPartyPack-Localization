@@ -1,14 +1,15 @@
 {
-    "payload": [{
-            "id": "STORY",
+    "payload": [
+        {
+            "id": "HISTÓRIA",
             "familyPoints": 1500,
             "participantPoints": 1000,
             "emergencyPoints": 0,
             "showsInList": true,
-            "avatarFrame": "Hard",
+            "avatarFrame": "Duro",
             "avatarFrameIsHighPriority": false,
             "spawnAudioKey": "SPAWN_STORY",
-            "successAudioKey": "SUCCESS_STORY",
+            "successAudioKey": "HISTÓRIA DE SUCESSO",
             "failureAudioKey": "FAILURE_DEFAULT",
             "triggersCrowdReactionOnSuccess": true
         },
@@ -18,7 +19,7 @@
             "participantPoints": 800,
             "emergencyPoints": 0,
             "showsInList": true,
-            "avatarFrame": "Hard",
+            "avatarFrame": "Duro",
             "avatarFrameIsHighPriority": false,
             "spawnAudioKey": "SPAWN_DEFAULT",
             "successAudioKey": "SUCCESS_DEFAULT",
@@ -26,12 +27,12 @@
             "triggersCrowdReactionOnSuccess": false
         },
         {
-            "id": "HIGH",
+            "id": "ALTO",
             "familyPoints": 800,
             "participantPoints": 500,
             "emergencyPoints": 0,
             "showsInList": true,
-            "avatarFrame": "Hard",
+            "avatarFrame": "Duro",
             "avatarFrameIsHighPriority": false,
             "spawnAudioKey": "SPAWN_DEFAULT",
             "successAudioKey": "SUCCESS_DEFAULT",
@@ -39,12 +40,12 @@
             "triggersCrowdReactionOnSuccess": false
         },
         {
-            "id": "MEDIUM",
+            "id": "MÉDIO",
             "familyPoints": 500,
             "participantPoints": 300,
             "emergencyPoints": 0,
             "showsInList": true,
-            "avatarFrame": "Medium",
+            "avatarFrame": "Médio",
             "avatarFrameIsHighPriority": false,
             "spawnAudioKey": "SPAWN_DEFAULT",
             "successAudioKey": "SUCCESS_DEFAULT",
@@ -52,12 +53,12 @@
             "triggersCrowdReactionOnSuccess": false
         },
         {
-            "id": "LOW",
+            "id": "BAIXO",
             "familyPoints": 250,
             "participantPoints": 150,
             "emergencyPoints": 0,
             "showsInList": true,
-            "avatarFrame": "Low",
+            "avatarFrame": "Baixo",
             "avatarFrameIsHighPriority": false,
             "spawnAudioKey": "SPAWN_DEFAULT",
             "successAudioKey": "SUCCESS_DEFAULT",
@@ -65,25 +66,25 @@
             "triggersCrowdReactionOnSuccess": false
         },
         {
-            "id": "SELFISH",
+            "id": "EGOÍSTA",
             "familyPoints": 0,
             "participantPoints": 666,
             "emergencyPoints": 300,
             "showsInList": false,
-            "avatarFrame": "Selfish",
+            "avatarFrame": "Egoísta",
             "avatarFrameIsHighPriority": false,
-            "joinAudioKey":"JOIN_SELFISH",
+            "joinAudioKey": "JOIN_SELFISH",
             "successAudioKey": "SUCCESS_DEFAULT",
             "failureAudioKey": "FAILURE_DEFAULT",
             "triggersCrowdReactionOnSuccess": false
         },
         {
-            "id": "EMERGENCY",
+            "id": "EMERGÊNCIA",
             "familyPoints": 0,
             "participantPoints": 0,
             "emergencyPoints": 0,
             "showsInList": false,
-            "avatarFrame": "Emergency",
+            "avatarFrame": "Emergência",
             "avatarFrameIsHighPriority": true,
             "spawnAudioKey": "SPAWN_DEFAULT",
             "successAudioKey": "SUCCESS_DEFAULT",
@@ -91,12 +92,12 @@
             "triggersCrowdReactionOnSuccess": false
         },
         {
-            "id": "CANCELER",
+            "id": "CANCELADOR",
             "familyPoints": 500,
             "participantPoints": 500,
             "emergencyPoints": 0,
             "showsInList": false,
-            "avatarFrame": "Canceler",
+            "avatarFrame": "Cancelador",
             "avatarFrameIsHighPriority": true,
             "spawnAudioKey": "SPAWN_DEFAULT",
             "successAudioKey": "SUCCESS_DEFAULT",
@@ -104,12 +105,12 @@
             "triggersCrowdReactionOnSuccess": false
         },
         {
-            "id": "AUDIENCE",
+            "id": "PÚBLICO",
             "familyPoints": 800,
             "participantPoints": 400,
             "emergencyPoints": 0,
             "showsInList": true,
-            "avatarFrame": "Audience",
+            "avatarFrame": "Público",
             "avatarFrameIsHighPriority": true,
             "spawnAudioKey": "SPAWN_DEFAULT",
             "successAudioKey": "SUCCESS_DEFAULT",

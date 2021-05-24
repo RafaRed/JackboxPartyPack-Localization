@@ -1,63 +1,63 @@
 {
-    "content":[
+    "content": [
         {
-            "id":"00000000",
-            "frame":"Joke0"
+            "id": "00000000",
+            "frame": "Joke0"
         },
         {
-            "id":"00000001",
-            "frame":"Joke1"
+            "id": "00000001",
+            "frame": "Joke1"
         },
         {
-            "id":"00000002",
-            "frame":"Joke2"
+            "id": "00000002",
+            "frame": "Joke2"
         },
         {
-            "id":"00000003",
-            "frame":"Joke3"
+            "id": "00000003",
+            "frame": "Joke3"
         },
         {
-            "id":"00000004",
-            "frame":"Joke4"
+            "id": "00000004",
+            "frame": "Joke4"
         },
         {
-            "id":"00000005",
-            "frame":"Joke5"
+            "id": "00000005",
+            "frame": "Joke5"
         },
         {
-            "id":"00000006",
-            "frame":"Joke6",
-            "holiday":"Easter"
+            "id": "00000006",
+            "frame": "Joke6",
+            "holiday": "Páscoa"
         },
         {
-            "id":"00000007",
-            "frame":"Joke7",
-            "holiday":"NewYears"
+            "id": "00000007",
+            "frame": "Joke7",
+            "holiday": "Ano Novo"
         },
         {
-            "id":"00000008",
-            "frame":"Joke8",
-            "holiday":"Hanukkah"
+            "id": "00000008",
+            "frame": "Joke8",
+            "holiday": "Hanukkah"
         },
         {
-            "id":"00000009",
-            "frame":"Joke9",
-            "holiday":"Thanksgiving"
+            "id": "00000009",
+            "frame": "Joke9",
+            "holiday": "Ação de graças"
         },
         {
-            "id":"00000010",
-            "frame":"Joke10",
-            "holiday":"Christmas"
+            "id": "00000010",
+            "frame": "Joke10",
+            "holiday": "Natal"
         },
         {
-            "id":"00000011",
-            "frame":"Joke11",
-            "holiday":"July4th"
+            "id": "00000011",
+            "frame": "Joke11",
+            "holiday": "4 de julho"
         },
         {
-            "id":"00000012",
-            "frame":"Joke12",
-            "holiday":"Halloween"
+            "id": "00000012",
+            "frame": "Joke12",
+            "holiday": "dia das Bruxas"
         }
     ]
 }

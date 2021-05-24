@@ -1,18 +1,46 @@
 {
-    "payload":[
-        { "determiner": "having" },
-        { "determiner": "having a" },
-        { "determiner": "drinking" },
-        { "determiner": "drinking a" },
-        { "determiner": "wanting" },
-        { "determiner": "wanting a" },
-        { "determiner": "needing" },
-        { "determiner": "needing a" },
-        { "determiner": "craving" },
-        { "determiner": "craving a" },
-        { "determiner": "downing" },
-        { "determiner": "downing a" },
-        { "determiner": "guzzling" },
-        { "determiner": "guzzling a" }
+    "payload": [
+        {
+            "determiner": "tendo"
+        },
+        {
+            "determiner": "tendo uma"
+        },
+        {
+            "determiner": "bebendo"
+        },
+        {
+            "determiner": "bebendo um"
+        },
+        {
+            "determiner": "querendo"
+        },
+        {
+            "determiner": "querendo um"
+        },
+        {
+            "determiner": "precisando"
+        },
+        {
+            "determiner": "precisando de um"
+        },
+        {
+            "determiner": "desejo"
+        },
+        {
+            "determiner": "desejando um"
+        },
+        {
+            "determiner": "derrubando"
+        },
+        {
+            "determiner": "derrubando um"
+        },
+        {
+            "determiner": "bebedor"
+        },
+        {
+            "determiner": "bebericando um"
+        }
     ]
 }

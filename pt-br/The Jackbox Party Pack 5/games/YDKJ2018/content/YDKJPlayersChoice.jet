@@ -1,1 +1,382 @@
-{"content":[{"question":{"text":"Would you like a question that involves some quiet time or a question that keeps getting interrupted?"},"id":"53763","choice1":{"text":"a question that involves some quiet time","id":"53750"},"choice2":{"text":"a question that keeps getting interrupted","id":"53751"}},{"question":{"text":"Would you like a question about time or a question about space?"},"id":"53544","choice1":{"text":"a question about time","id":"53230"},"choice2":{"text":"a question about space","id":"53229"}},{"question":{"text":"Would you like a question about feet or a question about faces?"},"id":"53541","choice1":{"text":"a question about feet","id":"53499"},"choice2":{"text":"a question about faces","id":"53497"}},{"question":{"text":"Would you like a question where Cookie gets mad, or a question where Cookie gets even?"},"id":"53457","choice1":{"text":"a question where Cookie gets mad","id":"51952"},"choice2":{"text":"a question where Cookie gets even","id":"50539"}},{"question":{"text":"Would you like a question with nothing to hide or a question with an ulterior motive?"},"id":"53398","choice1":{"text":"a question with nothing to hide","id":"53394"},"choice2":{"text":"a question with an ulterior motive","id":"53395"}},{"question":{"text":"Would you like a question where the answer rhymes with orange or a question where the answer rhymes with purple?"},"id":"53397","choice1":{"text":"a question where the answer rhymes with orange","id":"53392"},"choice2":{"text":"a question where the answer rhymes with purple","id":"53393"}},{"question":{"text":"Would you like a question made with love or a question made with spite?"},"id":"53391","choice1":{"text":"a question made with love","id":"52884"},"choice2":{"text":"a question made with spite","id":"52883"}},{"question":{"text":"Would you like a backward question or a forward question?"},"id":"53387","choice1":{"text":"a backward question","id":"52036"},"choice2":{"text":"a forward question","id":"52037"}},{"question":{"text":"Would you like a formal question or a question that keeps things casual"},"id":"53359","choice1":{"text":"a formal question","id":"53333"},"choice2":{"text":"a question that keeps thing casual","id":"53334"}},{"question":{"text":"Would you like a question about mom or a question about dad?"},"id":"53355","choice1":{"text":"a question about mom","id":"52925"},"choice2":{"text":"a question about dad","id":"52926"}},{"question":{"text":"Would you like a smart question or a stupid question"},"id":"53354","choice1":{"text":"a smart question","id":"52885"},"choice2":{"text":"a stupid question","id":"52886"}},{"question":{"text":"Would you like an attractive question or a question with a great sense of humor?"},"id":"53020","choice1":{"text":"An attractive question","id":"52753"},"choice2":{"text":"A question with a great sense of humor","id":"52754"}},{"question":{"text":"Would you like a question you know or a question you wish you didn\u2019t know?"},"id":"53018","choice1":{"text":"A question you know","id":"52985"},"choice2":{"text":"A question you wish you didn\u2019t know","id":"52986"}},{"question":{"text":"Would you like a question about aliens or a question about robots?"},"id":"53014","choice1":{"text":"A question about aliens","id":"52873"},"choice2":{"text":"A question about robots","id":"52872"}},{"question":{"text":"Would you like a question that kills two birds with one stone or a question that kills one bird with two stones?"},"id":"53013","choice1":{"text":"A question that kills two birds with one stone","id":"52870"},"choice2":{"text":"A question that kills one bird with two stones","id":"52871"}},{"question":{"text":"Would you like a question where you DON\u2019T count your chickens before they\u2019ve hatched or a question where you DO count your chickens before they\u2019ve hatched?"},"id":"53012","choice1":{"text":"A question where you DON\u2019T count your chickens before they\u2019ve hatched","id":"52851"},"choice2":{"text":"A question where you DO count your chickens before they\u2019ve hatched","id":"52850"}},{"question":{"text":"Would you like a question about great sex or a question about great sax?"},"id":"53011","choice1":{"text":"A question about great SEX","id":"52733"},"choice2":{"text":"A question about great SAX","id":"52734"}},{"question":{"text":"Would you like a question with air horns or a question about air horns?"},"id":"53008","choice1":{"text":"A question with air horns","id":"51958"},"choice2":{"text":"A question ABOUT air horns","id":"51957"}},{"question":{"text":"Would you like a delicate question about musicals or a musical question about delicates?"},"id":"53007","choice1":{"text":"A delicate question about musicals","id":"52108"},"choice2":{"text":"A musical question about delicates","id":"52110"}},{"question":{"text":"Would you like a loud question... or a quiet question?"},"id":"52534","choice1":{"text":"a loud question","id":"51828"},"choice2":{"text":"a quiet question","id":"51830"}},{"question":{"text":"Would you like a short question... or a long question?"},"id":"52526","choice1":{"text":"a short question","id":"51940"},"choice2":{"text":"a long question","id":"51941"}},{"question":{"text":"Would you like a question that lifts Cookie up... or a question that hurts Cookie\u2019s feelings?"},"id":"52524","choice1":{"text":"a question that lifts Cookie up","id":"51966"},"choice2":{"text":"a question that hurts Cookie\u2019s feelings","id":"51965"}},{"question":{"text":"Would you like a question where everything is spelled correctly... or a question where everything is spelled incorrectly?"},"id":"52523","choice1":{"text":"a question where everything is spelled correctly","id":"51968"},"choice2":{"text":"a question where everything is spelled incorrectly","id":"51967"}},{"question":{"text":"Would you like a tricky question... or a blunt question?"},"id":"52521","choice1":{"text":"a tricky question","id":"51978"},"choice2":{"text":"a blunt question","id":"51977"}},{"question":{"text":"Would you like a question where the answer is Shia LaBeouf... or a question where the answers is not Shia LeBeouf?"},"id":"52518","choice1":{"text":"a question where the answer is Shia LaBeouf","id":"51937"},"choice2":{"text":"a question where the answer is NOT Shia LaBeouf","id":"51938"}},{"question":{"text":"Would you like a question with nuts... or a question without nuts?"},"id":"52517","choice1":{"text":"a question with nuts","id":"51975"},"choice2":{"text":"a question without nuts","id":"51974"}},{"question":{"text":"Would you like an easy question... or a hard question?"},"id":"52515","choice1":{"text":"an easy question","id":"51787"},"choice2":{"text":"a hard question","id":"51788"}}]}
+{
+    "content": [
+        {
+            "question": {
+                "text": "Você gostaria de uma pergunta que envolva algum tempo de silêncio ou uma pergunta que sempre é interrompida?"
+            },
+            "id": "53763",
+            "choice1": {
+                "text": "uma questão que envolve algum tempo de silêncio",
+                "id": "53750"
+            },
+            "choice2": {
+                "text": "uma pergunta que continua sendo interrompida",
+                "id": "53751"
+            }
+        },
+        {
+            "question": {
+                "text": "Você gostaria de uma pergunta sobre o tempo ou sobre o espaço?"
+            },
+            "id": "53544",
+            "choice1": {
+                "text": "uma pergunta sobre o tempo",
+                "id": "53230"
+            },
+            "choice2": {
+                "text": "uma pergunta sobre o espaço",
+                "id": "53229"
+            }
+        },
+        {
+            "question": {
+                "text": "Você gostaria de uma pergunta sobre pés ou uma pergunta sobre rostos?"
+            },
+            "id": "53541",
+            "choice1": {
+                "text": "uma pergunta sobre pés",
+                "id": "53499"
+            },
+            "choice2": {
+                "text": "uma pergunta sobre rostos",
+                "id": "53497"
+            }
+        },
+        {
+            "question": {
+                "text": "Você gostaria de uma pergunta onde Cookie fica bravo, ou uma pergunta onde Cookie fica mesmo?"
+            },
+            "id": "53457",
+            "choice1": {
+                "text": "uma pergunta em que Cookie fica bravo",
+                "id": "51952"
+            },
+            "choice2": {
+                "text": "uma pergunta em que Cookie fica quites",
+                "id": "50539"
+            }
+        },
+        {
+            "question": {
+                "text": "Você gostaria de uma pergunta sem nada a esconder ou uma pergunta com um motivo oculto?"
+            },
+            "id": "53398",
+            "choice1": {
+                "text": "uma pergunta sem nada a esconder",
+                "id": "53394"
+            },
+            "choice2": {
+                "text": "uma pergunta com um motivo oculto",
+                "id": "53395"
+            }
+        },
+        {
+            "question": {
+                "text": "Você gostaria de uma pergunta em que a resposta rima com laranja ou uma pergunta em que a resposta rima com roxo?"
+            },
+            "id": "53397",
+            "choice1": {
+                "text": "uma pergunta onde a resposta rima com laranja",
+                "id": "53392"
+            },
+            "choice2": {
+                "text": "uma pergunta onde a resposta rima com roxo",
+                "id": "53393"
+            }
+        },
+        {
+            "question": {
+                "text": "Você gostaria de uma pergunta feita com amor ou uma pergunta feita com rancor?"
+            },
+            "id": "53391",
+            "choice1": {
+                "text": "uma pergunta feita com amor",
+                "id": "52884"
+            },
+            "choice2": {
+                "text": "uma pergunta feita com despeito",
+                "id": "52883"
+            }
+        },
+        {
+            "question": {
+                "text": "Você gostaria de uma pergunta para trás ou para a frente?"
+            },
+            "id": "53387",
+            "choice1": {
+                "text": "uma pergunta para trás",
+                "id": "52036"
+            },
+            "choice2": {
+                "text": "uma pergunta direta",
+                "id": "52037"
+            }
+        },
+        {
+            "question": {
+                "text": "Você gostaria de uma pergunta formal ou uma pergunta que mantém as coisas casuais"
+            },
+            "id": "53359",
+            "choice1": {
+                "text": "uma pergunta formal",
+                "id": "53333"
+            },
+            "choice2": {
+                "text": "uma pergunta que mantém as coisas casuais",
+                "id": "53334"
+            }
+        },
+        {
+            "question": {
+                "text": "Você gostaria de uma pergunta sobre a mãe ou sobre o pai?"
+            },
+            "id": "53355",
+            "choice1": {
+                "text": "uma pergunta sobre a mãe",
+                "id": "52925"
+            },
+            "choice2": {
+                "text": "uma pergunta sobre o pai",
+                "id": "52926"
+            }
+        },
+        {
+            "question": {
+                "text": "Você gostaria de uma pergunta inteligente ou uma pergunta estúpida"
+            },
+            "id": "53354",
+            "choice1": {
+                "text": "uma pergunta inteligente",
+                "id": "52885"
+            },
+            "choice2": {
+                "text": "uma pergunta estúpida",
+                "id": "52886"
+            }
+        },
+        {
+            "question": {
+                "text": "Você gostaria de uma pergunta atraente ou uma pergunta com grande senso de humor?"
+            },
+            "id": "53020",
+            "choice1": {
+                "text": "Uma pergunta atraente",
+                "id": "52753"
+            },
+            "choice2": {
+                "text": "Uma pergunta com grande senso de humor",
+                "id": "52754"
+            }
+        },
+        {
+            "question": {
+                "text": "Gostaria de uma pergunta que você conhece ou de uma pergunta que gostaria de não saber?"
+            },
+            "id": "53018",
+            "choice1": {
+                "text": "Uma pergunta que você conhece",
+                "id": "52985"
+            },
+            "choice2": {
+                "text": "Uma pergunta que você gostaria de não saber",
+                "id": "52986"
+            }
+        },
+        {
+            "question": {
+                "text": "Você gostaria de uma pergunta sobre alienígenas ou sobre robôs?"
+            },
+            "id": "53014",
+            "choice1": {
+                "text": "Uma pergunta sobre alienígenas",
+                "id": "52873"
+            },
+            "choice2": {
+                "text": "Uma pergunta sobre robôs",
+                "id": "52872"
+            }
+        },
+        {
+            "question": {
+                "text": "Você gostaria de uma pergunta que mata dois pássaros com uma pedra ou uma pergunta que mata um pássaro com duas pedras?"
+            },
+            "id": "53013",
+            "choice1": {
+                "text": "Uma pergunta que mata dois coelhos com uma cajadada só",
+                "id": "52870"
+            },
+            "choice2": {
+                "text": "Uma pergunta que mata um pássaro com duas pedras",
+                "id": "52871"
+            }
+        },
+        {
+            "question": {
+                "text": "Você gostaria de uma pergunta em que você NÃO conta suas galinhas antes que elas eclodam ou uma pergunta em que você CONTA as suas galinhas antes de chocarem?"
+            },
+            "id": "53012",
+            "choice1": {
+                "text": "Uma pergunta em que você NÃO conta suas galinhas antes de elas chocarem",
+                "id": "52851"
+            },
+            "choice2": {
+                "text": "Uma pergunta em que você CONTA suas galinhas antes de chocarem",
+                "id": "52850"
+            }
+        },
+        {
+            "question": {
+                "text": "Você gostaria de uma pergunta sobre ótimo sexo ou uma pergunta sobre ótimo sax?"
+            },
+            "id": "53011",
+            "choice1": {
+                "text": "Uma pergunta sobre um ótimo SEXO",
+                "id": "52733"
+            },
+            "choice2": {
+                "text": "Uma pergunta sobre ótimo SAX",
+                "id": "52734"
+            }
+        },
+        {
+            "question": {
+                "text": "Você gostaria de uma pergunta sobre buzinas de ar ou uma pergunta sobre buzinas de ar?"
+            },
+            "id": "53008",
+            "choice1": {
+                "text": "Uma pergunta com buzinas de ar",
+                "id": "51958"
+            },
+            "choice2": {
+                "text": "Uma pergunta sobre buzinas de ar",
+                "id": "51957"
+            }
+        },
+        {
+            "question": {
+                "text": "Você gostaria de uma pergunta delicada sobre musicais ou uma pergunta musical sobre delicados?"
+            },
+            "id": "53007",
+            "choice1": {
+                "text": "Uma pergunta delicada sobre musicais",
+                "id": "52108"
+            },
+            "choice2": {
+                "text": "Uma pergunta musical sobre delicados",
+                "id": "52110"
+            }
+        },
+        {
+            "question": {
+                "text": "Você gostaria de uma pergunta em voz alta ... ou uma pergunta silenciosa?"
+            },
+            "id": "52534",
+            "choice1": {
+                "text": "uma pergunta alta",
+                "id": "51828"
+            },
+            "choice2": {
+                "text": "uma pergunta tranquila",
+                "id": "51830"
+            }
+        },
+        {
+            "question": {
+                "text": "Você gostaria de uma pergunta curta ... ou uma pergunta longa?"
+            },
+            "id": "52526",
+            "choice1": {
+                "text": "uma pequena pergunta",
+                "id": "51940"
+            },
+            "choice2": {
+                "text": "uma longa pergunta",
+                "id": "51941"
+            }
+        },
+        {
+            "question": {
+                "text": "Você gostaria de uma pergunta que levante Cookie ... ou uma pergunta que magoe os sentimentos de Cookie?"
+            },
+            "id": "52524",
+            "choice1": {
+                "text": "uma pergunta que levanta Cookie",
+                "id": "51966"
+            },
+            "choice2": {
+                "text": "uma pergunta que fere os sentimentos de Cookie",
+                "id": "51965"
+            }
+        },
+        {
+            "question": {
+                "text": "Você gostaria de uma pergunta onde tudo está escrito corretamente ... ou uma pergunta onde tudo está escrito incorretamente?"
+            },
+            "id": "52523",
+            "choice1": {
+                "text": "uma pergunta onde tudo está escrito corretamente",
+                "id": "51968"
+            },
+            "choice2": {
+                "text": "uma pergunta onde tudo está escrito incorretamente",
+                "id": "51967"
+            }
+        },
+        {
+            "question": {
+                "text": "Você gostaria de uma pergunta complicada ... ou uma pergunta direta?"
+            },
+            "id": "52521",
+            "choice1": {
+                "text": "uma pergunta complicada",
+                "id": "51978"
+            },
+            "choice2": {
+                "text": "uma pergunta direta",
+                "id": "51977"
+            }
+        },
+        {
+            "question": {
+                "text": "Você gostaria de uma pergunta cuja resposta seja Shia LaBeouf ... ou uma pergunta cuja resposta não seja Shia LeBeouf?"
+            },
+            "id": "52518",
+            "choice1": {
+                "text": "uma pergunta cuja resposta é Shia LaBeouf",
+                "id": "51937"
+            },
+            "choice2": {
+                "text": "uma pergunta cuja resposta NÃO seja Shia LaBeouf",
+                "id": "51938"
+            }
+        },
+        {
+            "question": {
+                "text": "Você gostaria de uma pergunta com nozes ... ou uma pergunta sem nozes?"
+            },
+            "id": "52517",
+            "choice1": {
+                "text": "uma pergunta com nozes",
+                "id": "51975"
+            },
+            "choice2": {
+                "text": "uma pergunta sem nozes",
+                "id": "51974"
+            }
+        },
+        {
+            "question": {
+                "text": "Você gostaria de uma pergunta fácil ... ou uma pergunta difícil?"
+            },
+            "id": "52515",
+            "choice1": {
+                "text": "uma pergunta fácil",
+                "id": "51787"
+            },
+            "choice2": {
+                "text": "uma pergunta difícil",
+                "id": "51788"
+            }
+        }
+    ]
+}

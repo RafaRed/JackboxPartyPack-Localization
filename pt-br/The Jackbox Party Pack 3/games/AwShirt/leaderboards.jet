@@ -2,29 +2,29 @@
     "views": [
         {
             "id": "session",
-            "name": "Session Stats",
-            "description": "Stats from the current play session (These stats will reset when you quit the game.)"
+            "name": "Estatísticas da Sessão",
+            "description": "Estatísticas da sessão atual (As estatísticas serão zeradas quando você sair do jogo.)"
         },
         {
             "id": "twitch",
-            "name": "Twitch Stats",
-            "description": "Stats from Twitch-locked games (These stats are saved even after you quit the game.)"
+            "name": "Estatísticas da Twitch",
+            "description": "Estatísticas de jogos com Twitch (As estatísticas são salvas mesmo depois que você sai do jogo.)"
         }
     ],
     "columns": [{
         "id": "playerName",
-        "name": "Player Name"
+        "name": "Nome do Jogador"
     }, {
         "id": "gamesWon",
-        "name": "Tournaments Won"
+        "name": "Torneios Vencidos"
     }, {
         "id": "roundsWon",
-        "name": "Gauntlets Won"
+        "name": "Rodadas Vencidas"
     }, {
         "id": "streaksWon",
-        "name": "Streaks Won"
+        "name": "Sequências Vencidas"
     }, {
         "id": "shirtalities",
-        "name": "Shirtalities"
+        "name": "Camisalidades"
     }]
 }

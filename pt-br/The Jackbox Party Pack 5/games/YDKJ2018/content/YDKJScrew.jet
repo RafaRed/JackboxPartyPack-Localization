@@ -1,92 +1,70 @@
 {
-    "content":[
+    "content": [
         {
-            "id":"RemoveVowels",
-            
-            "controllerText":"You've been screwed! No more vowels for you!",
-            "controllerName":"Disemvoweled",
-            
-            "power":0
+            "id": "RemoveVowels",
+            "controllerText": "Você foi ferrado! Não há mais vogais para você!",
+            "controllerName": "Sem vogais",
+            "power": 0
         },
         {
-            "id":"TinyFont",
-            
-            "controllerText":"You've been screwed! I hope you brought your glasses.",
-            "controllerName":"Fine Print",
-            
-            "power":0
-        },
-		{
-            "id":"HugeFont",
-            
-            "controllerText":"You've been screwed! I hope you have a huge phone.",
-            "controllerName":"Large Print",
-            
-            "power":0
+            "id": "TinyFont",
+            "controllerText": "Você foi ferrado! Espero que você tenha trazido seus óculos.",
+            "controllerName": "Letras miúdas",
+            "power": 0
         },
         {
-            "id":"Hashtag",
-            
-            "controllerText":"You've been screwed! LOL, like, JK.",
-            "controllerName":"Hashtagged",
-            
-            "power":0
+            "id": "HugeFont",
+            "controllerText": "Você foi ferrado! Espero que você tenha um telefone enorme.",
+            "controllerName": "Letras grandes",
+            "power": 0
         },
         {
-            "id":"TextColor",
-            
-            "controllerText":"You've been screwed! Try to answer NOW, jerk!",
-            "controllerName":"Shades of Gray",
-            
-            "power":0
+            "id": "Hashtag",
+            "controllerText": "Você foi ferrado! LOL, tipo, JK.",
+            "controllerName": "Hashtagged",
+            "power": 0
         },
         {
-            "id":"Mirror",
-            
-            "controllerText":"You've been screwed! Try to answer NOW, jerk!",
-            "controllerName":"Mirror Mirror",
-            
-            "power":0
+            "id": "Cor do texto",
+            "controllerText": "Você foi ferrado! Tente responder AGORA, idiota!",
+            "controllerName": "Tons de cinza",
+            "power": 0
         },
         {
-            "id":"PassCode",
-            
-            "controllerText":"You've been screwed! Try to answer NOW, jerk!",
-            "controllerName":"Password",
-            
-            "power":1
+            "id": "Espelho",
+            "controllerText": "Você foi ferrado! Tente responder AGORA, idiota!",
+            "controllerName": "Espelho Espelho",
+            "power": 0
         },
         {
-            "id":"Flip",
-            
-            "controllerText":"You've been screwed! Try to answer NOW, jerk!",
-            "controllerName":"Flipped",
-            
-            "power":1
+            "id": "PassCode",
+            "controllerText": "Você foi ferrado! Tente responder AGORA, idiota!",
+            "controllerName": "Senha",
+            "power": 1
         },
         {
-            "id":"NameChange",
-            
-            "controllerText":"You've been screwed! Try to answer NOW, jerk!",
-            "controllerName":"Name Change",
-            
-            "power":1
+            "id": "Giro",
+            "controllerText": "Você foi ferrado! Tente responder AGORA, idiota!",
+            "controllerName": "Invertido",
+            "power": 1
         },
         {
-            "id":"Screensaver",
-            
-            "controllerText":"You've been screwed! Try to answer NOW, jerk!",
-            "controllerName":"Screensaver",
-            
-            "power":1
+            "id": "Mudança de nome",
+            "controllerText": "Você foi ferrado! Tente responder AGORA, idiota!",
+            "controllerName": "Mudança de nome",
+            "power": 1
         },
         {
-            "id":"TOS",
-            
-            "controllerText":"You've been screwed! Try to answer NOW, jerk!",
-            "controllerName":"Fake Terms of Service",
-            
-            "power":1
+            "id": "Protetor de tela",
+            "controllerText": "Você foi ferrado! Tente responder AGORA, idiota!",
+            "controllerName": "Protetor de tela",
+            "power": 1
+        },
+        {
+            "id": "PARA% S",
+            "controllerText": "Você foi ferrado! Tente responder AGORA, idiota!",
+            "controllerName": "Termos de serviço falsos",
+            "power": 1
         }
     ]
 }

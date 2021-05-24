@@ -1,96 +1,96 @@
 {
     "payload": [
         {
-            "id": "KITCHEN",
-            "name": "The Kitchen",
+            "id": "COZINHA",
+            "name": "A cozinha",
             "containers": [
                 {
-                    "id": "SPICE_RACK",
-                    "name": "Spice Rack",
+                    "id": "PRATELEIRA PARA TEMPEROS",
+                    "name": "Prateleira para temperos",
                     "bgColor": "FFFFFF",
                     "textColor": "000000",
                     "contents": [
                         {
-                            "id": "SALT",
-                            "name": "Salt",
+                            "id": "SAL",
+                            "name": "Sal",
                             "bgColor": "f3f3f3",
                             "textColor": "000000"
                         },
                         {
-                            "id": "GREEN_PEPPER",
-                            "name": "Green Pepper",
+                            "id": "PIMENTA VERDE",
+                            "name": "Pimenta verde",
                             "bgColor": "0e5328",
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "CAYENNE_PEPPER",
-                            "name": "Hot Pepper",
+                            "id": "PIMENTA-CAIENA",
+                            "name": "Pimenta picante",
                             "bgColor": "f7372e",
                             "textColor": "000000"
                         },
                         {
-                            "id": "CINNAMON",
-                            "name": "Cinnamon",
+                            "id": "CANELA",
+                            "name": "Canela",
                             "bgColor": "54170f",
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "PARSLEY",
-                            "name": "Parsley",
+                            "id": "SALSA",
+                            "name": "Salsa",
                             "bgColor": "0e5328",
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "TARRAGON",
-                            "name": "Tarragon",
+                            "id": "ESTRAGÃO",
+                            "name": "Estragão",
                             "bgColor": "698d2f",
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "THYME",
-                            "name": "Thyme",
+                            "id": "TOMILHO",
+                            "name": "Tomilho",
                             "bgColor": "334a0f",
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "BASIL",
-                            "name": "Basil",
+                            "id": "MANJERICÃO",
+                            "name": "Manjericão",
                             "bgColor": "045200",
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "RED_PEPPER_FLAKES",
+                            "id": "FLOCOS DE PIMENTA VERMELHA",
                             "name": "Pepper Flakes",
                             "bgColor": "6b0b0b",
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "ROSEMARY",
-                            "name": "Rosemary",
+                            "id": "ALECRIM",
+                            "name": "Alecrim",
                             "bgColor": "28420e",
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "SOY_SAUCE",
-                            "name": "Soy Sauce",
+                            "id": "MOLHO DE SOJA",
+                            "name": "Molho de soja",
                             "bgColor": "f7372e",
                             "textColor": "000000"
                         },
                         {
-                            "id": "BLACK_PEPPER",
-                            "name": "Black Pepper",
+                            "id": "PIMENTA PRETA",
+                            "name": "Pimenta preta",
                             "bgColor": "222222",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "PAPRIKA",
-                            "name": "Paprika",
+                            "name": "Páprica",
                             "bgColor": "c33711",
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "PITCH",
-                            "name": "Powdered Pitch",
+                            "id": "TOM",
+                            "name": "Pitched Pitch",
                             "bgColor": "222222",
                             "textColor": "ffffff"
                         },
@@ -101,70 +101,70 @@
                             "textColor": "000000"
                         },
                         {
-                            "id": "NUTMEG",
-                            "name": "Nutmeg",
+                            "id": "NOZ-MOSCADA",
+                            "name": "noz-moscada",
                             "bgColor": "ca7129",
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "CORIANDER",
-                            "name": "Coriander",
+                            "id": "COENTRO",
+                            "name": "Coentro",
                             "bgColor": "c33711",
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "GINGER",
-                            "name": "Ginger",
+                            "id": "RUIVO",
+                            "name": "Ruivo",
                             "bgColor": "698d2f",
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "TURMERIC",
-                            "name": "Turmeric",
+                            "id": "CÚRCUMA",
+                            "name": "Cúrcuma",
                             "bgColor": "ef6512",
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "OREGANO",
-                            "name": "Oregano",
+                            "id": "ORÉGANO",
+                            "name": "Orégano",
                             "bgColor": "29450e",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "NATTO",
-                            "name": "Nattomoto Powder",
+                            "name": "Pó Nattomoto",
                             "bgColor": "9c5c29",
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "CUMIN",
-                            "name": "Cumin",
+                            "id": "COMINHO",
+                            "name": "Cominho",
                             "bgColor": "843d1a",
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "ALLSPICE",
-                            "name": "Allspice",
+                            "id": "PIMENTA DA JAMAICA",
+                            "name": "Pimenta da Jamaica",
                             "bgColor": "36200a",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "CURRY_POWDER",
-                            "name": "Curry Powder",
+                            "name": "Pó de caril",
                             "bgColor": "f7372e",
                             "textColor": "000000"
                         },
                         {
                             "id": "AJWAIN_SEED",
-                            "name": "Ajwain Seed",
+                            "name": "Semente de Ajwain",
                             "bgColor": "36200a",
                             "textColor": "ffffff"
                         }
                     ]
                 },
                 {
-                    "id": "PANTRY",
-                    "name": "The Pantry",
+                    "id": "DESPENSA",
+                    "name": "A despensa",
                     "bgColor": "FFFFFF",
                     "textColor": "000000",
                     "contents": [
@@ -175,200 +175,200 @@
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "ONION",
-                            "name": "Onion",
+                            "id": "CEBOLA",
+                            "name": "Cebola",
                             "bgColor": "e5e0c7",
                             "textColor": "000000"
                         },
                         {
-                            "id": "BELL_PEPPER",
-                            "name": "Bell Pepper",
+                            "id": "PIMENTÃO",
+                            "name": "Pimentão",
                             "bgColor": "ce2614",
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "CANNED_PEACHES",
-                            "name": "Canned Peaches",
+                            "id": "PÊSSEGOS EM CALDA",
+                            "name": "Pêssegos em calda",
                             "bgColor": "e87c42",
                             "textColor": "000000"
                         },
                         {
-                            "id": "OATMEAL",
-                            "name": "Oatmeal",
+                            "id": "AVEIA",
+                            "name": "Aveia",
                             "bgColor": "d4d4af",
                             "textColor": "000000"
                         },
                         {
-                            "id": "FLOUR",
-                            "name": "Flour",
+                            "id": "FARINHA DE TRIGO",
+                            "name": "Farinha de trigo",
                             "bgColor": "ededdb",
                             "textColor": "000000"
                         },
                         {
-                            "id": "BROWN_SUGAR",
-                            "name": "Brown Sugar",
+                            "id": "AÇÚCAR MASCAVO",
+                            "name": "Açúcar mascavo",
                             "bgColor": "532c1d",
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "VANILLA",
-                            "name": "Vanilla",
+                            "id": "BAUNILHA",
+                            "name": "Baunilha",
                             "bgColor": "fef7bb",
                             "textColor": "000000"
                         },
                         {
-                            "id": "CANNED_TUNA",
-                            "name": "Canned Tuna",
+                            "id": "ATUM ENLATADO",
+                            "name": "Atum enlatado",
                             "bgColor": "d1c988",
                             "textColor": "000000"
                         },
                         {
-                            "id": "CRACKERS",
-                            "name": "Crackers",
+                            "id": "BISCOITOS",
+                            "name": "Biscoitos",
                             "bgColor": "f3f7d8",
                             "textColor": "000000"
                         },
                         {
-                            "id": "BREAD",
-                            "name": "Bread",
+                            "id": "PÃO",
+                            "name": "Pão",
                             "bgColor": "d1c17f",
                             "textColor": "000000"
                         },
                         {
-                            "id": "PEANUT_BUTTER",
-                            "name": "Peanut Butter",
+                            "id": "MANTEIGA DE AMENDOIM",
+                            "name": "Manteiga de amendoim",
                             "bgColor": "9c5c29",
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "SUGAR",
-                            "name": "Sugar",
-                            "bgColor": "effdff",
+                            "id": "AÇÚCAR",
+                            "name": "Açúcar",
+                            "bgColor": "efdff",
                             "textColor": "000000"
                         },
                         {
-                            "id": "SYRUP",
-                            "name": "Syrup",
+                            "id": "XAROPE",
+                            "name": "Xarope",
                             "bgColor": "843d1a",
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "BREAD_CRUMBS",
-                            "name": "Bread Crumbs",
+                            "id": "MIGALHAS DE PÃO",
+                            "name": "Migalhas de pão",
                             "bgColor": "8d3901",
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "VEGETABLE_OIL",
-                            "name": "Vegetable Oil",
+                            "id": "ÓLEO VEGETAL",
+                            "name": "Óleo vegetal",
                             "bgColor": "fcf796",
                             "textColor": "000000"
                         },
                         {
-                            "id": "CANNED_SOUP",
-                            "name": "Canned Soup",
+                            "id": "SOPA ENLATADA",
+                            "name": "Sopa enlatada",
                             "bgColor": "9f0101",
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "GARLIC",
-                            "name": "Garlic",
+                            "id": "ALHO",
+                            "name": "Alho",
                             "bgColor": "f7f6e1",
                             "textColor": "000000"
                         },
                         {
-                            "id": "RICE",
-                            "name": "Rice",
+                            "id": "ARROZ",
+                            "name": "Arroz",
                             "bgColor": "FFFFFF",
                             "textColor": "000000"
                         },
                         {
-                            "id": "CARROTS",
-                            "name": "Carrots",
+                            "id": "CENOURAS",
+                            "name": "Cenouras",
                             "bgColor": "de6207",
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "NOODLES",
-                            "name": "Noodles",
+                            "id": "MACARRÃO",
+                            "name": "Macarrão",
                             "bgColor": "f7f6e1",
                             "textColor": "000000"
                         },
                         {
-                            "id": "MACARONI",
-                            "name": "Macaroni",
+                            "id": "MACARRÃO",
+                            "name": "Macarrão",
                             "bgColor": "F3D342",
                             "textColor": "000000"
                         },
                         {
-                            "id": "SQUASH",
-                            "name": "Squash",
+                            "id": "ABÓBORA",
+                            "name": "Abóbora",
                             "bgColor": "e87c42",
                             "textColor": "000000"
                         },
                         {
                             "id": "JAR_TAR",
-                            "name": "Jar of Tar",
+                            "name": "Jarra de alcatrão",
                             "bgColor": "222222",
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "SWEET_POTATOES",
-                            "name": "Sweet Potatoes",
+                            "id": "BATATAS DOCES",
+                            "name": "Batatas doces",
                             "bgColor": "e87c42",
                             "textColor": "000000"
                         },
                         {
                             "id": "SOY_BEANS",
-                            "name": "Soy Beans",
+                            "name": "Feijão De Soja",
                             "bgColor": "d8c1ba",
                             "textColor": "000000"
                         },
                         {
-                            "id": "ZUCCHINI",
-                            "name": "Zucchini",
+                            "id": "ABOBRINHA",
+                            "name": "Abobrinha",
                             "bgColor": "689E24",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "BOWTIE_PASTA",
-                            "name": "Bowtie Pasta",
+                            "name": "Macarrão Bowtie",
                             "bgColor": "F3D342",
                             "textColor": "000000"
                         },
                         {
-                            "id": "SEAWEED",
+                            "id": "ALGAS MARINHAS",
                             "name": "Nori",
                             "bgColor": "1f872b",
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "VINEGAR",
-                            "name": "Vinegar",
+                            "id": "VINAGRE",
+                            "name": "Vinagre",
                             "bgColor": "ffffff",
                             "textColor": "000000"
                         },
                         {
-                            "id": "LENTILS",
-                            "name": "Lentils",
+                            "id": "LENTILHAS",
+                            "name": "Lentilhas",
                             "bgColor": "9f0101",
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "TOMATOES",
-                            "name": "Tomatoes",
+                            "id": "TOMATES",
+                            "name": "Tomates",
                             "bgColor": "e23311",
                             "textColor": "000000"
                         },
                         {
-                            "id": "PLANTAINS",
-                            "name": "Plantains",
+                            "id": "BANANA DA TERRA",
+                            "name": "Banana da terra",
                             "bgColor": "dcb61c",
                             "textColor": "000000"
                         },
                         {
                             "id": "GARBANZO",
-                            "name": "Garbanzo Beans",
+                            "name": "Feijão Garbanzo",
                             "bgColor": "eb8282",
                             "textColor": "000000"
                         },
@@ -379,38 +379,38 @@
                             "textColor": "000000"
                         },
                         {
-                            "id": "BROTH",
-                            "name": "Broth",
+                            "id": "CALDO",
+                            "name": "Caldo",
                             "bgColor": "774c2f",
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "POTATOES",
-                            "name": "Potatoes",
+                            "id": "BATATAS",
+                            "name": "Batatas",
                             "bgColor": "51290f",
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "OLIVE_OIL",
-                            "name": "Olive Oil",
+                            "id": "AZEITE",
+                            "name": "Azeite",
                             "bgColor": "b4ce6e",
                             "textColor": "000000"
                         },
                         {
-                            "id": "HONEY",
-                            "name": "Honey",
+                            "id": "QUERIDA",
+                            "name": "Querida",
                             "bgColor": "dcb61c",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "SALT_VINEGAR_ALMONDS",
-                            "name": "Salt & Vinegar Almonds",
+                            "name": "Amêndoas de sal e vinagre",
                             "bgColor": "142a86",
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "SULFUR",
-                            "name": "Sulfur Treacle",
+                            "id": "ENXOFRE",
+                            "name": "Melaço de Enxofre",
                             "bgColor": "f7372e",
                             "textColor": "000000"
                         },
@@ -422,19 +422,19 @@
                         },
                         {
                             "id": "SESAME_OIL",
-                            "name": "Sesame Oil",
+                            "name": "Óleo de gergelim",
                             "bgColor": "ffffff",
                             "textColor": "000000"
                         },
                         {
-                            "id": "POTATO_CHIPS",
-                            "name": "Potato Chips",
+                            "id": "BATATA FRITA",
+                            "name": "Batata frita",
                             "bgColor": "e6dd8d",
                             "textColor": "000000"
                         },
                         {
-                            "id": "BRIMSTONE",
-                            "name": "Brimstone",
+                            "id": "ENXOFRE",
+                            "name": "Enxofre",
                             "bgColor": "9f0101",
                             "textColor": "FFFFFF"
                         },
@@ -446,51 +446,51 @@
                         },
                         {
                             "id": "COCKTAIL_NUTS",
-                            "name": "Cocktail Nuts",
+                            "name": "Coquetel de Nozes",
                             "bgColor": "8c561c",
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "COOKIES",
-                            "name": "Cookies",
+                            "id": "BISCOITOS",
+                            "name": "Biscoitos",
                             "bgColor": "8d3901",
                             "textColor": "ffffff"
                         }
                     ]
                 },
                 {
-                    "id": "REFRIGERATOR",
-                    "name": "The Fridge",
+                    "id": "FRIGORÍFICO",
+                    "name": "A geladeira",
                     "bgColor": "FFFFFF",
                     "textColor": "000000",
                     "contents": [
                         {
-                            "id": "EGGS",
-                            "name": "Eggs",
+                            "id": "OVOS",
+                            "name": "Ovos",
                             "bgColor": "f3f7d8",
                             "textColor": "000000"
                         },
                         {
-                            "id": "MILK",
-                            "name": "Milk",
+                            "id": "LEITE",
+                            "name": "Leite",
                             "bgColor": "ffffff",
                             "textColor": "000000"
                         },
                         {
-                            "id": "HAM",
-                            "name": "Ham",
+                            "id": "PRESUNTO",
+                            "name": "presunto",
                             "bgColor": "eb8282",
                             "textColor": "000000"
                         },
                         {
-                            "id": "MAYONNAISE",
-                            "name": "Mayonnaise",
+                            "id": "MAIONESE",
+                            "name": "Maionese",
                             "bgColor": "f5f1dd",
                             "textColor": "000000"
                         },
                         {
-                            "id": "BUTTER",
-                            "name": "Butter",
+                            "id": "MANTEIGA",
+                            "name": "Manteiga",
                             "bgColor": "ede38e",
                             "textColor": "000000"
                         },
@@ -501,32 +501,32 @@
                             "textColor": "000000"
                         },
                         {
-                            "id": "HEAVY_CREAM",
-                            "name": "Heavy Cream",
+                            "id": "CREME DE LEITE",
+                            "name": "Creme de leite",
                             "bgColor": "ebebeb",
                             "textColor": "000000"
                         },
                         {
-                            "id": "PARMESAN",
-                            "name": "Parmesan",
+                            "id": "PARMESÃO",
+                            "name": "parmesão",
                             "bgColor": "f7eec7",
                             "textColor": "000000"
                         },
                         {
-                            "id": "MUSTARD",
-                            "name": "Mustard",
+                            "id": "MOSTARDA",
+                            "name": "Mostarda",
                             "bgColor": "ab9c20",
                             "textColor": "000000"
                         },
                         {
-                            "id": "LETTUCE",
-                            "name": "Lettuce",
+                            "id": "ALFACE",
+                            "name": "Alface",
                             "bgColor": "83da7c",
                             "textColor": "000000"
                         },
                         {
                             "id": "CHICKEN_BREAST",
-                            "name": "Chicken Breast",
+                            "name": "Peito de frango",
                             "bgColor": "d8c1ba",
                             "textColor": "000000"
                         },
@@ -538,19 +538,19 @@
                         },
                         {
                             "id": "RAT_LIVER",
-                            "name": "Rat Liver",
+                            "name": "Fígado de Rato",
                             "bgColor": "9f0101",
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "ORANGE_JUICE",
-                            "name": "Orange Juice",
+                            "id": "SUCO DE LARANJA",
+                            "name": "Suco de laranja",
                             "bgColor": "db7c20",
                             "textColor": "000000"
                         },
                         {
                             "id": "LEFTOVER_CASSEROLE",
-                            "name": "Leftover Casserole",
+                            "name": "Sobras de caçarola",
                             "bgColor": "bba146",
                             "textColor": "000000"
                         },
@@ -561,38 +561,38 @@
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "CHEDDAR_CHEESE",
-                            "name": "Cheddar Cheese",
+                            "id": "QUEIJO CHEDDAR",
+                            "name": "Queijo cheddar",
                             "bgColor": "ea9233",
                             "textColor": "000000"
                         },
                         {
-                            "id": "GROUND_PORK",
-                            "name": "Ground Pork",
+                            "id": "CARNE DE PORCO MOÍDA",
+                            "name": "Carne de porco moída",
                             "bgColor": "eb8282",
                             "textColor": "000000"
                         },
                         {
-                            "id": "GROUND_BEEF",
-                            "name": "Ground Beef",
+                            "id": "CARNE MOÍDA",
+                            "name": "Carne moída",
                             "bgColor": "9f0101",
                             "textColor": "FFFFFF"
                         },
                         {
-                            "id": "HALF_AND_HALF",
-                            "name": "Half and Half",
-                            "bgColor": "effdff",
+                            "id": "METADE E METADE",
+                            "name": "Metade e metade",
+                            "bgColor": "efdff",
                             "textColor": "000000"
                         },
                         {
                             "id": "BURNT_HAM",
-                            "name": "Burnt Ham",
+                            "name": "Presunto queimado",
                             "bgColor": "301103",
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "PINEAPPLE_JUICE",
-                            "name": "Pineapple Juice",
+                            "id": "SUCO DE ABACAXI",
+                            "name": "Suco de abacaxi",
                             "bgColor": "f7eec7",
                             "textColor": "000000"
                         },
@@ -603,100 +603,100 @@
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "SODA",
-                            "name": "Soda",
+                            "id": "REFRIGERANTE",
+                            "name": "Refrigerante",
                             "bgColor": "311206",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "COOL_WHIP",
-                            "name": "Whipped Cream",
+                            "name": "Chantilly",
                             "bgColor": "e5eaf1",
                             "textColor": "000000"
                         },
                         {
-                            "id": "SOUR_CREAM",
-                            "name": "Sour Cream",
+                            "id": "NATA",
+                            "name": "Nata",
                             "bgColor": "ebebeb",
                             "textColor": "000000"
                         },
                         {
-                            "id": "CELERY",
-                            "name": "Celery",
+                            "id": "SALSÃO",
+                            "name": "Salsão",
                             "bgColor": "389846",
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "PIE",
-                            "name": "Pie",
+                            "id": "TORTA",
+                            "name": "Torta",
                             "bgColor": "e0a96e",
                             "textColor": "000000"
                         },
                         {
-                            "id": "LEMON_JUICE",
-                            "name": "Lemon Juice",
+                            "id": "SUCO DE LIMÃO",
+                            "name": "Suco de limão",
                             "bgColor": "f0eb5e",
                             "textColor": "000000"
                         },
                         {
-                            "id": "CHIVES",
-                            "name": "Chives",
+                            "id": "CEBOLINHA",
+                            "name": "Cebolinha",
                             "bgColor": "1f872b",
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "STRING_CHEESE",
-                            "name": "String Cheese",
+                            "id": "QUEIJO DE CORDA",
+                            "name": "Queijo de corda",
                             "bgColor": "ededdb",
                             "textColor": "000000"
                         }
                     ]
                 },
                 {
-                    "id": "FREEZER",
-                    "name": "The Freezer",
+                    "id": "CONGELADOR",
+                    "name": "O freezer",
                     "bgColor": "FFFFFF",
                     "textColor": "000000",
                     "contents": [
                         {
-                            "id": "ICE",
-                            "name": "Ice",
+                            "id": "GELO",
+                            "name": "Gelo",
                             "bgColor": "ffffff",
                             "textColor": "000000"
                         },
                         {
-                            "id": "FISH",
-                            "name": "Fish",
+                            "id": "PEIXE",
+                            "name": "Peixe",
                             "bgColor": "f1cd99",
                             "textColor": "000000"
                         },
                         {
-                            "id": "FROZEN_PEAS",
-                            "name": "Frozen Peas",
+                            "id": "ERVILHAS CONGELADAS",
+                            "name": "Ervilhas congeladas",
                             "bgColor": "389846",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "FROZEN_STRAWBERRIES",
-                            "name": "Frozen Strawberries",
+                            "name": "Morangos congelados",
                             "bgColor": "e22d4b",
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "TV_DINNER",
-                            "name": "TV Dinner",
+                            "id": "TV JANTAR",
+                            "name": "TV jantar",
                             "bgColor": "502514",
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "POPSICLES",
-                            "name": "Popsicles",
+                            "id": "PICOLÉS",
+                            "name": "picolés",
                             "bgColor": "f72e4a",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "SPIDER_TEETH",
-                            "name": "Chilled Spider Teeth",
+                            "name": "Dentes de aranha gelados",
                             "bgColor": "83da7c",
                             "textColor": "000000"
                         }
@@ -705,30 +705,30 @@
             ]
         },
         {
-            "id": "FLOWER_SHOP",
+            "id": "FLORICULTURA",
             "name": "The Flower Store",
             "containers": [
                 {
-                    "id": "FLOWERS",
-                    "name": "Flowers",
+                    "id": "FLORES",
+                    "name": "Flores",
                     "bgColor": "FFFFFF",
                     "textColor": "000000",
                     "contents": [
                         {
-                            "id": "RED_ROSES",
-                            "name": "Red Roses",
+                            "id": "ROSAS VERMELHAS",
+                            "name": "Rosas vermelhas",
                             "bgColor": "9f0101",
                             "textColor": "FFFFFF"
                         },
                         {
                             "id": "TULIPS",
-                            "name": "Tulips",
+                            "name": "Tulipas",
                             "bgColor": "F1F1F1",
                             "textColor": "000000"
                         },
                         {
-                            "id": "CARNATIONS",
-                            "name": "Carnations",
+                            "id": "CARNAÇÕES",
+                            "name": "Cravos",
                             "bgColor": "EC8589",
                             "textColor": "000000"
                         },
@@ -739,74 +739,74 @@
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "CHRYSANTHEMUM",
-                            "name": "Chrysanthemum",
+                            "id": "CRISÂNTEMO",
+                            "name": "Crisântemo",
                             "bgColor": "AB4081",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "DAFFODIL",
-                            "name": "Daffodil",
+                            "name": "Narciso",
                             "bgColor": "DEA706",
                             "textColor": "000000"
                         },
                         {
-                            "id": "LILIES",
-                            "name": "Lilies",
+                            "id": "LÍRIOS",
+                            "name": "Lírios",
                             "bgColor": "F9D1D6",
                             "textColor": "000000"
                         },
                         {
                             "id": "DAHLIAS",
-                            "name": "Dahlias",
+                            "name": "Dálias",
                             "bgColor": "7C0125",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "PEONIES",
-                            "name": "Peonies",
+                            "name": "Peônias",
                             "bgColor": "F9608A",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "SWEETHEART_ROSES",
-                            "name": "Sweetheart Roses",
+                            "name": "Rosas Queridas",
                             "bgColor": "D15163",
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "SUNFLOWERS",
-                            "name": "Sunflowers",
+                            "id": "GIRASSÓIS",
+                            "name": "Girassóis",
                             "bgColor": "F5D802",
                             "textColor": "000000"
                         },
                         {
                             "id": "IRISES",
-                            "name": "irises",
+                            "name": "íris",
                             "bgColor": "9A77E7",
                             "textColor": "000000"
                         },
                         {
-                            "id": "GLADIOLUS",
-                            "name": "Gladiolus",
+                            "id": "GLADÍOLO",
+                            "name": "Gladíolo",
                             "bgColor": "FF5126",
                             "textColor": "000000"
                         },
                         {
-                            "id": "DAISES",
-                            "name": "Daisies",
+                            "id": "MARGARIDAS",
+                            "name": "Margaridas",
                             "bgColor": "FAFAFA",
                             "textColor": "E58712"
                         },
                         {
-                            "id": "LAVENDER",
-                            "name": "Lavender",
+                            "id": "LAVANDA",
+                            "name": "Lavanda",
                             "bgColor": "9A64C0",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "HYDRANGEAS",
-                            "name": "Hydrangeas",
+                            "name": "Hortênsias",
                             "bgColor": "83AFD0",
                             "textColor": "000000"
                         }
@@ -814,31 +814,31 @@
                 },
                 {
                     "id": "GREENERY",
-                    "name": "Greenery",
+                    "name": "Vegetação",
                     "bgColor": "FFFFFF",
                     "textColor": "000000",
                     "contents": [
                         {
-                            "id": "IVY",
-                            "name": "Ivy",
+                            "id": "HERA",
+                            "name": "Hera",
                             "bgColor": "344637",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "EUCALYTPUS",
-                            "name": "Eucalyptus",
+                            "name": "Eucalipto",
                             "bgColor": "3F7162",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "BOXWOOD",
-                            "name": "Boxwood",
+                            "name": "Buxo",
                             "bgColor": "9FB63D",
                             "textColor": "000000"
                         },
                         {
                             "id": "FERN",
-                            "name": "Fern",
+                            "name": "Samambaia",
                             "bgColor": "8DBF50",
                             "textColor": "000000"
                         },
@@ -850,7 +850,7 @@
                         },
                         {
                             "id": "LEATHER_LEAF",
-                            "name": "Leather Leaf",
+                            "name": "Folha de Couro",
                             "bgColor": "7BB46D",
                             "textColor": "000000"
                         },
@@ -861,26 +861,26 @@
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "BABYS_BREATH",
-                            "name": "Baby's Breath",
+                            "id": "HÁLITO DE BEBÊ",
+                            "name": "Hálito de bebê",
                             "bgColor": "FDFEFA",
                             "textColor": "000000"
                         },
                         {
-                            "id": "GRASS",
-                            "name": "Grasses",
+                            "id": "RELVA",
+                            "name": "Gramíneas",
                             "bgColor": "709433",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "BELLS_OF_IRELAND",
-                            "name": "Bells of Ireland",
+                            "name": "Sinos da Irlanda",
                             "bgColor": "5A9003",
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "BANANA_LEAF",
-                            "name": "Banana Leaf",
+                            "id": "FOLHA DE BANANA",
+                            "name": "Folha de banana",
                             "bgColor": "4B8D26",
                             "textColor": "ffffff"
                         }
@@ -888,13 +888,13 @@
                 },
                 {
                     "id": "VASES",
-                    "name": "Vases",
+                    "name": "Vasos",
                     "bgColor": "FFFFFF",
                     "textColor": "000000",
                     "contents": [
                         {
-                            "id": "CERAMIC",
-                            "name": "Ceramic",
+                            "id": "CERÂMICA",
+                            "name": "Cerâmica",
                             "bgColor": "E8E7E3",
                             "textColor": "000000"
                         },
@@ -911,38 +911,38 @@
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "CRYSTAL",
-                            "name": "Crystal",
+                            "id": "CRISTAL",
+                            "name": "Cristal",
                             "bgColor": "F7F7F5",
                             "textColor": "000000"
                         },
                         {
-                            "id": "METAL_BUCKET",
-                            "name": "Metal Bucket",
+                            "id": "BALDE DE METAL",
+                            "name": "Balde de metal",
                             "bgColor": "ABB5B4",
                             "textColor": "000000"
                         },
                         {
                             "id": "GRANDMAS_OLD_VASE",
-                            "name": "Grandmas Old Vase",
+                            "name": "Vaso da Vovó",
                             "bgColor": "D8CFC5",
                             "textColor": "000000"
                         },
                         {
                             "id": "A_POT",
-                            "name": "A Pot",
+                            "name": "Um pote",
                             "bgColor": "DBA07C",
                             "textColor": "000000"
                         },
                         {
-                            "id": "MILK_BOTTLE",
-                            "name": "Milk Bottle",
+                            "id": "GARRAFA DE LEITE",
+                            "name": "Garrafa de leite",
                             "bgColor": "E1E1E1",
                             "textColor": "000000"
                         },
                         {
-                            "id": "SQUARE",
-                            "name": "Square",
+                            "id": "QUADRADO",
+                            "name": "Quadrado",
                             "bgColor": "7B947F",
                             "textColor": "ffffff"
                         },
@@ -955,14 +955,14 @@
                     ]
                 },
                 {
-                    "id": "RIBBON",
-                    "name": "Ribbon",
+                    "id": "FITA",
+                    "name": "Fita",
                     "bgColor": "FFFFFF",
                     "textColor": "000000",
                     "contents": [
                         {
-                            "id": "SATIN",
-                            "name": "Satin",
+                            "id": "CETIM",
+                            "name": "Cetim",
                             "bgColor": "E3AC1D",
                             "textColor": "000000"
                         },
@@ -979,26 +979,26 @@
                             "textColor": "000000"
                         },
                         {
-                            "id": "VELVET",
-                            "name": "Velvet",
+                            "id": "VELUDO",
+                            "name": "Veludo",
                             "bgColor": "B84B6A",
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "RAFFIA",
-                            "name": "Raffia",
+                            "id": "RÁFIA",
+                            "name": "Ráfia",
                             "bgColor": "DABE9E",
                             "textColor": "000000"
                         },
                         {
-                            "id": "TWILL",
-                            "name": "Twill",
+                            "id": "SARJA",
+                            "name": "Sarja",
                             "bgColor": "6E8568",
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "PAPER",
-                            "name": "Paper",
+                            "id": "PAPEL",
+                            "name": "Papel",
                             "bgColor": "F96A2C",
                             "textColor": "ffffff"
                         }
@@ -1007,8 +1007,8 @@
             ]
         },
         {
-            "id": "SPACE",
-            "name": "Supply Shelf",
+            "id": "ESPAÇO",
+            "name": "Prateleira de suprimentos",
             "containers": [
                 {
                     "id": "BIN1",
@@ -1018,43 +1018,43 @@
                     "contents": [
                         {
                             "id": "BODYRASH",
-                            "name": "Body Rash",
+                            "name": "Erupção Corporal",
                             "bgColor": "ebebeb",
                             "textColor": "000000"
                         },
                         {
                             "id": "BODYWASH",
-                            "name": "Body Wash",
+                            "name": "Lavagem corporal",
                             "bgColor": "ebebeb",
                             "textColor": "000000"
                         },
                         {
-                            "id": "ROCKS",
-                            "name": "Rocks",
+                            "id": "ROCHAS",
+                            "name": "Rochas",
                             "bgColor": "ebebeb",
                             "textColor": "000000"
                         },
                         {
                             "id": "SMOCKS",
-                            "name": "Smocks",
+                            "name": "Batas",
                             "bgColor": "ebebeb",
                             "textColor": "000000"
                         },
                         {
-                            "id": "SOCKS",
-                            "name": "Socks",
+                            "id": "MEIAS",
+                            "name": "Meias",
                             "bgColor": "ebebeb",
                             "textColor": "000000"
                         },
                         {
-                            "id": "STOCKS",
+                            "id": "ESTOQUES",
                             "name": "Stocks",
                             "bgColor": "ebebeb",
                             "textColor": "000000"
                         },
                         {
-                            "id": "UNDERWEAR",
-                            "name": "Underwear",
+                            "id": "ROUPA DE BAIXO",
+                            "name": "Roupa de baixo",
                             "bgColor": "ebebeb",
                             "textColor": "000000"
                         }
@@ -1068,49 +1068,49 @@
                     "contents": [
                         {
                             "id": "SPOOLS",
-                            "name": "Collectible Spools",
+                            "name": "Carretéis colecionáveis",
                             "bgColor": "ebebeb",
                             "textColor": "000000"
                         },
                         {
-                            "id": "SHOES",
-                            "name": "Comfortable Shoes",
+                            "id": "SAPATOS",
+                            "name": "Sapatos confortáveis",
                             "bgColor": "ebebeb",
                             "textColor": "000000"
                         },
                         {
-                            "id": "STOOLS",
-                            "name": "Comfortable Stools",
+                            "id": "BANCADAS",
+                            "name": "Bancos confortáveis",
                             "bgColor": "ebebeb",
                             "textColor": "000000"
                         },
                         {
-                            "id": "CORRECTIVE",
-                            "name": "Corrective Shoes",
+                            "id": "CORRETIVO",
+                            "name": "Calçados Corretivos",
                             "bgColor": "ebebeb",
                             "textColor": "000000"
                         },
                         {
                             "id": "MACAROON",
-                            "name": "Macaroon Bits",
+                            "name": "Bits de Macaroon",
                             "bgColor": "ebebeb",
                             "textColor": "000000"
                         },
                         {
                             "id": "MAROON",
-                            "name": "Maroon Boots",
+                            "name": "Botas Marrom",
                             "bgColor": "ebebeb",
                             "textColor": "000000"
                         },
                         {
                             "id": "MOONBOATS",
-                            "name": "Moon Boats",
+                            "name": "Barcos lunares",
                             "bgColor": "ebebeb",
                             "textColor": "000000"
                         },
                         {
-                            "id": "MOONBOOTS",
-                            "name": "Moon Boots",
+                            "id": "BOTAS LUNARES",
+                            "name": "Botas lunares",
                             "bgColor": "ebebeb",
                             "textColor": "000000"
                         }
@@ -1124,43 +1124,43 @@
                     "contents": [
                         {
                             "id": "BOOKSTAIRSD",
-                            "name": "Book About the Stairs (Down)",
+                            "name": "Livro sobre as escadas (para baixo)",
                             "bgColor": "ebebeb",
                             "textColor": "000000"
                         },
                         {
                             "id": "BOOKSTAIRSU",
-                            "name": "Book About the Stairs (Up)",
+                            "name": "Livro sobre as escadas (para cima)",
                             "bgColor": "ebebeb",
                             "textColor": "000000"
                         },
                         {
                             "id": "BOOKSTARS",
-                            "name": "Book About the Stars (Celestial)",
+                            "name": "Livro sobre as estrelas (celestial)",
                             "bgColor": "ebebeb",
                             "textColor": "000000"
                         },
                         {
                             "id": "BOOKHOLLY",
-                            "name": "Book About the Stars (Hollywood)",
+                            "name": "Livro sobre as estrelas (Hollywood)",
                             "bgColor": "ebebeb",
                             "textColor": "000000"
                         },
                         {
                             "id": "RECORDALLHUMOROUS",
-                            "name": "Record of Al's Humorous History",
+                            "name": "Registro da história humorística de Al",
                             "bgColor": "ebebeb",
                             "textColor": "000000"
                         },
                         {
                             "id": "RECORDALLHUMAN",
-                            "name": "Record of All Human History",
+                            "name": "Registro de toda a história humana",
                             "bgColor": "ebebeb",
                             "textColor": "000000"
                         },
                         {
                             "id": "RECORDALLHUMMUS",
-                            "name": "Record of All Hummus History",
+                            "name": "Registro de toda a história do Hummus",
                             "bgColor": "ebebeb",
                             "textColor": "000000"
                         },
@@ -1172,13 +1172,13 @@
                         },
                         {
                             "id": "ROADWORKPLAY",
-                            "name": "Roadwork Playlist",
+                            "name": "Lista de reprodução de roadwork",
                             "bgColor": "ebebeb",
                             "textColor": "000000"
                         },
                         {
                             "id": "ROLLEDTARP",
-                            "name": "Rolled Tarp Playlist",
+                            "name": "Lista de reprodução Rolled Tarp",
                             "bgColor": "ebebeb",
                             "textColor": "000000"
                         }
@@ -1191,8 +1191,8 @@
             "name": "Video Store",
             "containers": [
                 {
-                    "id": "ACTION",
-                    "name": "Action",
+                    "id": "AÇAO",
+                    "name": "Açao",
                     "bgColor": "FFFFFF",
                     "textColor": "000000",
                     "contents": [
@@ -1203,74 +1203,74 @@
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "APOCALYPSELA",
+                            "id": "APOCALIPSELA",
                             "name": "Apocalypse Later",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "BEEFYDOGATTA",
-                            "name": "Beefy Dog Attack Squad",
+                            "name": "Esquadrão de Ataque de Cão Forte",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "BLUNTEDGES",
-                            "name": "Blunt Edges",
+                            "name": "Bordas cegas",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "BOMBSFORLUNC",
-                            "name": "Bombs for Lunch",
+                            "name": "Bombas para o almoço",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "CUTTINGINLIN",
-                            "name": "Cutting In Line",
+                            "name": "Corte em linha",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "DEATHONSAFAR",
+                            "id": "MORTE",
                             "name": "Death On Safari",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "THEDOUGLASVE",
-                            "name": "The Douglas Verdict: Reloaded",
+                            "name": "O veredicto de Douglas: recarregado",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "GUYPUNCHER3:",
-                            "name": "Guy Puncher 3: Reckoning",
+                            "name": "Guy Puncher 3: Avaliação",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "HARDSLAPPING",
-                            "name": "Hard Slapping",
+                            "name": "Tapa forte",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "HUGEEXPLOSIO",
-                            "name": "Huge Explosion, Little Women",
+                            "name": "Grande explosão, pequenas mulheres",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "JACKSONFRAMB",
-                            "name": "Jackson Framboise is... BLOODSMUSHED",
+                            "name": "Jackson Framboise é ... BLOODSMUSHED",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "KILLSAPLENTY",
-                            "name": "Kills Aplenty",
+                            "name": "Mata em grande quantidade",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
@@ -1282,37 +1282,37 @@
                         },
                         {
                             "id": "THEMANWHOCOU",
-                            "name": "The Man Who Couldn’t Not Explode",
+                            "name": "O homem que não podia explodir",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "MISTERKARATE",
-                            "name": "Mister Karate",
+                            "name": "Senhor Karate",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "MT.ST.‘SPLOS",
-                            "name": "Mt. St. ‘Splosion",
+                            "id": "MT.ST.'SPLOS",
+                            "name": "Mt. St. 'Splosion",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "NEVERSAYCAUT",
-                            "name": "Never Say Caution",
+                            "name": "Nunca diga cuidado",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "STEP-DAUGHTE",
-                            "name": "Step-Daughter Warrior Academy",
+                            "name": "Academia Guerreira Step-Daughter",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "THESPYWHOWAS",
-                            "name": "The Spy Who Was Ambivalent Toward Me",
+                            "name": "O espião que era ambivalente comigo",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
@@ -1331,37 +1331,37 @@
                     ]
                 },
                 {
-                    "id": "ADVENTURE",
-                    "name": "Adventure",
+                    "id": "AVENTURA",
+                    "name": "Aventura",
                     "bgColor": "FFFFFF",
                     "textColor": "000000",
                     "contents": [
                         {
-                            "id": "3KIDS&1NUNGO",
-                            "name": "3 Kids & 1 Nun Go Hiking",
+                            "id": "3 CRIANÇAS E 1NUNGO",
+                            "name": "3 crianças e 1 freira vão caminhadas",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "AHOY!PIRATES",
-                            "name": "Ahoy! Pirates Aplenty",
+                            "id": "AHOY! PIRATAS",
+                            "name": "Ahoy! Piratas em grande quantidade",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "DADKNOWSTHEW",
-                            "name": "Dad Knows the Way",
+                            "id": "PAI CONHECIDO",
+                            "name": "Papai conhece o caminho",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "DRONEFINDSAH",
-                            "name": "Drone Finds a Home",
+                            "name": "Drone encontra um lar",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "THEFIGHT-A-L",
+                            "id": "THEFIGHT-AL",
                             "name": "The Fight-a-Lot Bunch",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
@@ -1373,14 +1373,14 @@
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "JENWHEN:TIME",
-                            "name": "Jen When: Time Twirler",
+                            "id": "JENWHEN: TIME",
+                            "name": "Jen Quando: Time Twirler",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "MACHETEGUYS(",
-                            "name": "Machete Guys (All-Chopping Edition)",
+                            "id": "MACHETEGUYS (",
+                            "name": "Machete Guys (edição All-Chopping)",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
@@ -1392,25 +1392,25 @@
                         },
                         {
                             "id": "MYTHOFTHELEG",
-                            "name": "Myth of the Legend: Tale of The Quest",
+                            "name": "Mito da lenda: conto da busca",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "THEPLEASE-TO",
-                            "name": "The Please-Touchables",
+                            "name": "Os por favor-tocáveis",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "QUICKSANDDAN",
-                            "name": "Quicksand Dan and His Quicksand Band",
+                            "name": "Quicksand Dan e sua banda Quicksand",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "REXSUTURE:DO",
-                            "name": "Rex Suture: Dog Surgeon",
+                            "id": "REXSUTURE: DO",
+                            "name": "Sutura Rex: cão cirurgião",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
@@ -1421,32 +1421,32 @@
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "SEVERALCHASE",
-                            "name": "Several Chases",
+                            "id": "DIVERSAS",
+                            "name": "Várias Perseguições",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "SHOVEPALSPAR",
-                            "name": "Shove Pals Part III: The Shovening",
+                            "name": "Shove Pals Parte III: The Shovening",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "SHOWDOWNATTH",
-                            "name": "Showdown at the Outdoor Mall",
+                            "id": "MOSTRAR",
+                            "name": "Confronto no Outdoor Mall",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "THETREASUREO",
-                            "name": "The Treasure of Uncle Joe’s Wallet",
+                            "name": "O tesouro da carteira do tio Joe",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "TOOMANYSNAKE",
-                            "name": "Too Many Snakes!",
+                            "name": "Muitas cobras!",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
@@ -1459,50 +1459,50 @@
                     ]
                 },
                 {
-                    "id": "COMEDY",
-                    "name": "Comedy",
+                    "id": "COMÉDIA",
+                    "name": "Comédia",
                     "bgColor": "FFFFFF",
                     "textColor": "000000",
                     "contents": [
                         {
                             "id": "AVERYWACKYPR",
-                            "name": "A Very Wacky Prayer",
+                            "name": "Uma oração muito maluca",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "BILLYMEETSAW",
-                            "name": "Billy Meets a Walrus",
+                            "name": "Billy encontra uma morsa",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "BOATLOADO’FR",
-                            "name": "Boatload o’ Franks",
+                            "id": "BOATLOADO'FR",
+                            "name": "Boatload o 'Franks",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "CHASTECONTEM",
-                            "name": "Chaste Contemplation in the City",
+                            "name": "Contemplação casta na cidade",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "THECHIMPANZE",
-                            "name": "The Chimpanzee That Wore Clothes And Did Hijinks",
+                            "name": "O chimpanzé que vestia roupas e fazia hijinks",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "CRUMMYDAYFOR",
-                            "name": "Crummy Day for Crudité",
+                            "name": "Dia ruim para o Crudité",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "DINOSAURCLOW",
-                            "name": "Dinosaur Clown",
+                            "name": "Palhaço Dinossauro",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
@@ -1514,67 +1514,67 @@
                         },
                         {
                             "id": "GOLDENRETRIE",
-                            "name": "Golden Retriever M.D.",
+                            "name": "Golden Retriever MD",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "HELP!MYDADIS",
-                            "name": "Help! My Dad Is A Dog!",
+                            "id": "AJUDA! MYDADIS",
+                            "name": "Ajuda! Meu pai é um cão!",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "HULLABALOO:U",
-                            "name": "Hullabaloo: Unrated",
+                            "id": "HULLABALOO: U",
+                            "name": "Hullabaloo: Sem classificação",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "IHAVEMADEATE",
-                            "name": "I Have Made A Terrible Pizza Pie",
+                            "name": "Eu Fiz Uma Torta De Pizza Terrível",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "INCONTINENT&",
-                            "name": "Incontinent & Incontinenter",
+                            "id": "INCONTINENTE&",
+                            "name": "Incontinente e incontinente",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "JOENUTZGOEST",
-                            "name": "Joe Nutz Goes to Paris",
+                            "name": "Joe Nutz vai para Paris",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "THISMANISRUD",
-                            "name": "This Man is Rude",
+                            "name": "Este homem é rude",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "NO,NOTMYGROI",
-                            "name": "No, Not My Groin!",
+                            "id": "NÃO, NOTMYGROI",
+                            "name": "Não, não é minha virilha!",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "THEOLD-TIMEY",
-                            "name": "The Old-Timey-Sketch-Boys Comedy-Laff-O-Rama Half-Hour",
+                            "name": "The Old-Timey-Sketch-Boys Comedy-Laff-O-Rama, meia hora",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "PASSIVEAGGRE",
-                            "name": "Passive Aggressive Pie Fight",
+                            "name": "Luta de tortas agressiva passiva",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "VEGETABLESFO",
-                            "name": "Vegetables for Dessert?!",
+                            "name": "Legumes para sobremesa ?!",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
@@ -1587,14 +1587,14 @@
                     ]
                 },
                 {
-                    "id": "DOCMENTARY",
-                    "name": "Documentary",
+                    "id": "DOCMENTÁRIO",
+                    "name": "Documentário",
                     "bgColor": "FFFFFF",
                     "textColor": "000000",
                     "contents": [
                         {
                             "id": "ANIMALSBEING",
-                            "name": "Animals Being Outright Surly",
+                            "name": "Animais sendo francamente intratáveis",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
@@ -1605,44 +1605,44 @@
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "CLOWNFISH",
-                            "name": "Clownfish",
+                            "id": "PEIXE-PALHAÇO",
+                            "name": "Peixe-palhaço",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "COAL:THECOMB",
-                            "name": "Coal: The Combustible Miracle",
+                            "id": "CARVÃO: THECOMB",
+                            "name": "Carvão: O Milagre Combustível",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "FREEYOLO",
-                            "name": "Free Yolo",
+                            "name": "Yolo grátis",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "FUNWARFACTSF",
-                            "name": "Fun War Facts For Dads",
+                            "name": "Curiosidades sobre a guerra para pais",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "HAIRSTYLESOF",
-                            "name": "Hairstyles of the 1650s",
+                            "id": "PENTEADO DE",
+                            "name": "Penteados dos anos 1650",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "THEHISTORYOF",
-                            "name": "The History Of Bran",
+                            "id": "A HISTÓRIA DE",
+                            "name": "A História de Bran",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "HORSESHAVENO",
-                            "name": "Horses Have No Right To Look This Good",
+                            "name": "Cavalos não têm o direito de ter uma aparência tão boa",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
@@ -1654,61 +1654,61 @@
                         },
                         {
                             "id": "MAKINGAMUDDE",
-                            "name": "Making a Mudder",
+                            "name": "Fazendo um Mudder",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "NINEHOURSOFT",
-                            "name": "Nine Hours Of Talking About President Polk",
+                            "name": "Nove horas para falar sobre o presidente Polk",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "THERUBBERPLA",
-                            "name": "The Rubber Plant and You",
+                            "name": "A Usina da Borracha e você",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "RYAN:WEINTER",
-                            "name": "Ryan: We Interviewed Him",
+                            "id": "RYAN: WEINTER",
+                            "name": "Ryan: Nós o entrevistamos",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "SPACEISN’TRE",
-                            "name": "Space Isn’t Real",
+                            "id": "SPACEISN'TRE",
+                            "name": "O espaço não é real",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "TIMETOGETMAD",
-                            "name": "Time To Get Mad",
+                            "name": "Hora de ficar bravo",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "WATCHYOURBAC",
-                            "name": "Watch Your Back: A Treatise On Self-Voyeurism",
+                            "id": "ASSISTIR SEUURBAC",
+                            "name": "Cuidado com as costas: um tratado sobre autovoyeurismo",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "WATERFEST:AF",
-                            "name": "Water Fest: A Festival That Went Really Well",
+                            "id": "WATERFEST: AF",
+                            "name": "Festa da Água: Um Festival que Correu Muito Bem",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "WHICHSENATOR",
-                            "name": "Which Senator Didn't Mess Up Bad?",
+                            "name": "Qual senador não bagunçou mal?",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "WHOOPSIE:IDI",
-                            "name": "Whoopsie: I Did A White Collar Crime",
+                            "id": "WHOOPSIE: IDI",
+                            "name": "Opa: Eu cometi um crime de colarinho branco",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         }
@@ -1722,121 +1722,121 @@
                     "contents": [
                         {
                             "id": "AVERYSICKDOG",
-                            "name": "A Very Sick Dog",
+                            "name": "Um Cachorro Muito Doente",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "ALLTHATWASLE",
-                            "name": "All That Was Left",
+                            "name": "Tudo o que restou",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "BADVIBESFROM",
-                            "name": "Bad Vibes from Kevin Today",
+                            "name": "Bad Vibes de Kevin Today",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "BOUNDLESSGRI",
-                            "name": "Boundless Grief, Finite Snacks",
+                            "name": "Luto sem limites, lanches finitos",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "THECOUNTESSA",
-                            "name": "The Countess and the Contessa",
+                            "name": "A condessa e a condessa",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "COUSINBETRAY",
-                            "name": "Cousin Betrayal",
+                            "name": "Traição de prima",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "THECUTICLEDR",
-                            "name": "The Cuticle Dramas",
+                            "name": "Os dramas da cutícula",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "DISINTEREST",
-                            "name": "Disinterest",
+                            "id": "DESINTERESSE",
+                            "name": "Desinteresse",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "THEENDLESSMO",
-                            "name": "The Endless Mourning Part XXXVII",
+                            "name": "O luto sem fim, parte XXXVII",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "ESOTERICESOT",
-                            "name": "Esoteric Esoterica",
+                            "name": "Esotérico Esotérico",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "GLORIFYINGSA",
-                            "name": "Glorifying Sadness",
+                            "id": "GLORIFICANDOA",
+                            "name": "Tristeza Glorificante",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "HEARTEXPLOSI",
-                            "name": "Heart Explosions",
+                            "name": "Explosões de coração",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "THEHORSEDIES",
-                            "name": "The Horse Dies Wait You Didn’t Actually Write That For The Title, Right Dan?",
+                            "id": "TEORSÉDIAS",
+                            "name": "The Horse Dies Wait You Na verdade não escreveu isso para o título, certo Dan?",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "IPROMISEDI’D",
-                            "name": "I Promised I’d Remember You, But I Forgot",
+                            "id": "IPROMISEDI'D",
+                            "name": "Prometi que me lembraria de você, mas esqueci",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "INLOVEWITHTW",
-                            "name": "In Love With Two Viceroys",
+                            "name": "Apaixonado por Dois Vice-Reis",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "LASTDAYOFTHE",
-                            "name": "Last Day of The Rodeo Clowns of the Mist",
+                            "id": "ÚLTIMO DIA",
+                            "name": "Último Dia do Rodeio Palhaços da Névoa",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "LOVEISAFIB",
-                            "name": "Love is a Fib",
+                            "name": "Amor é um Fib",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "RICHMANLEARN",
-                            "name": "Rich Man Learns Lesson",
+                            "name": "Homem Rico aprende lição",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "THESECRETLIF",
-                            "name": "The Secret Life Of Cheese",
+                            "name": "A vida secreta do queijo",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "THEYWEREMEAN",
-                            "name": "They Were Mean",
+                            "name": "Eles eram maus",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
@@ -1847,8 +1847,8 @@
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "WEEP",
-                            "name": "WEEP",
+                            "id": "LAMENTAR",
+                            "name": "LAMENTAR",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         }
@@ -1868,31 +1868,31 @@
                         },
                         {
                             "id": "BLOODONTHEFE",
-                            "name": "Blood on the Fern",
+                            "name": "Sangue na Samambaia",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "BLOOD,MAYBE",
-                            "name": "Blood, Maybe",
+                            "id": "SANGUE TALVEZ",
+                            "name": "Sangue, Talvez",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "CLIMATECHANG",
-                            "name": "Climate Change",
+                            "name": "das Alterações Climáticas",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "SPOOKED2:2SP",
+                            "id": "SPOOKED2: 2SP",
                             "name": "Creeped 2: 2 Creeped",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "THECORPORATE",
-                            "name": "The Corporate Workshop Massacre",
+                            "name": "O Massacre da Oficina Corporativa",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
@@ -1903,130 +1903,130 @@
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "DON’TTOUCHTH",
-                            "name": "Don’t Touch That!",
+                            "id": "NÃO TOQUE",
+                            "name": "Não toque nisso!",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "THEEDIBLECOF",
-                            "name": "The Edible Coffin",
+                            "name": "O caixão comestível",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "EVILBOAT",
-                            "name": "Evil Boat",
+                            "name": "Barco do Mal",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "FRANKENSTEIN",
-                            "name": "Frankenstein Meets the In-Laws",
+                            "name": "Frankenstein encontra os sogros",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "GHOSTROACH:E",
-                            "name": "Ghost Roach: Ethereal Infestation",
+                            "id": "GHOSTROACH: E",
+                            "name": "Barata Fantasma: Infestação Etérea",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "GHOULS!GHOUL",
+                            "id": "GHOULS! GHOUL",
                             "name": "Ghouls! Ghouls! Ghouls!",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "GREASYGRIMYG",
-                            "name": "Greasy Grimy Gopher Guts",
+                            "name": "Entranhas de gofer suja gorduroso",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "HAUNTEDASCAN",
-                            "name": "Haunted as Can Be",
+                            "name": "Tão assombrado quanto pode ser",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "HOUSEOFACOUP",
-                            "name": "House of A Couple Corpses",
+                            "name": "Casa de um casal cadáveres",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "ICKYSCENESWI",
-                            "name": "Icky Scenes with Scary Music",
+                            "name": "Cenas geladas com música assustadora",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "MOREBLOODTHA",
-                            "name": "More Blood Than You’d Expect",
+                            "id": "MAIS SANGUE",
+                            "name": "Mais sangue do que você esperaria",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "MR.CHOPPYTHE",
-                            "name": "Mr. Choppy the Mannequin Who Commits Crimes",
+                            "name": "Sr. Choppy, o Manequim que Comete Crimes",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "THENECKTHATW",
-                            "name": "The Neck That Wouldn’t Stop Growing",
+                            "id": "EM SEGUIDA, VERIFICAR",
+                            "name": "O pescoço que não parava de crescer",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "SKELETONSARE",
-                            "name": "Skeletons Are Jerks",
+                            "name": "Esqueletos são idiotas",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "STABBING&GAB",
-                            "name": "Stabbing & Gabbing",
+                            "id": "STABBING & GAB",
+                            "name": "Esfaqueamento e gabar",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "THATKNIFEFEL",
-                            "name": "That Knife Fella’s Back",
+                            "id": "ESSA FACAFEL",
+                            "name": "Aquele cara da faca está de volta",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "TURNSOUTWE’R",
-                            "name": "Turns Out We’re Ghosts",
+                            "id": "TURNSOUTWE'R",
+                            "name": "Acontece que somos fantasmas",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "YOURINSIDESA",
-                            "name": "Your Insides Are Out",
+                            "id": "SUA INSIDESA",
+                            "name": "Suas entranhas estão fora",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         }
                     ]
                 },
                 {
-                    "id": "MYSTERY",
-                    "name": "Mystery",
+                    "id": "MISTÉRIO",
+                    "name": "Mistério",
                     "bgColor": "FFFFFF",
                     "textColor": "000000",
                     "contents": [
                         {
-                            "id": "THECASEOFTHE",
-                            "name": "The Case of the Stolen Case",
+                            "id": "A; CASA DO",
+                            "name": "O caso do caso roubado",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "CHURCHOFTHEK",
-                            "name": "Church of the Knife",
+                            "name": "Igreja da Faca",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
@@ -2038,97 +2038,97 @@
                         },
                         {
                             "id": "DAVEDIDIT",
-                            "name": "Dave Did It",
+                            "name": "Dave fez isso",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "DETECTIVECON",
-                            "name": "Detective Constableman",
+                            "name": "Detetive policial",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "DIAGNOSIS:SH",
-                            "name": "Diagnosis: Shenanigans",
+                            "id": "DIAGNÓSTICO: SH",
+                            "name": "Diagnóstico: Shenanigans",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "ENHANCE!AFOR",
-                            "name": "Enhance! A Forensic Photo-Looking Adventure",
+                            "id": "MELHORAR! AFOR",
+                            "name": "Realçar! Uma aventura de aparência fotográfica forense",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "THEGO-KARTMU",
-                            "name": "The Go-Kart Murders",
+                            "name": "Os assassinatos de Go-Kart",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "HERBERTACHRI",
-                            "name": "Herberta Christine Presents a Cornelius Thornwhistle Mystery: Foul Play At The Cornwallis-Smythe Incorporated Estate (Including Stables)",
+                            "name": "Herberta Christine apresenta um mistério Cornelius Thornwhistle: Jogo sujo na propriedade incorporada de Cornwallis-Smythe (incluindo estábulos)",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "THEHOUSETHAT",
-                            "name": "The House that Was Only Butlers",
+                            "name": "A casa que era apenas mordomos",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "IDON’THAVEAD",
-                            "name": "I Don’t Have a Doorbell?!",
+                            "id": "IDON'THAVEAD",
+                            "name": "Eu não tenho uma campainha ?!",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "ILOVETHESUSP",
-                            "name": "I Love the Suspect",
+                            "name": "Eu amo o suspeito",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "IWANTCLUES!",
-                            "name": "I Want Clues!",
+                            "name": "Eu quero pistas!",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "JUSTWAITIN’F",
-                            "name": "Just Waitin’ For Murder",
+                            "id": "SÓ ESPERA",
+                            "name": "Apenas esperando por assassinato",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "THELITTLERID",
-                            "name": "The Little Riddle Of The Middle Fiddle",
+                            "name": "O pequeno enigma do violino do meio",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "MAYBEHEDROWN",
-                            "name": "Maybe He Drowned",
+                            "id": "TALVEZ",
+                            "name": "Talvez ele se afogou",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "MYSTERYATQUE",
+                            "id": "MISTÉRIA",
                             "name": "Mystery At Question Manor",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "POISONISKETO",
-                            "name": "Poison is Keto",
+                            "name": "Veneno é ceto",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "QUESTIONMARX",
-                            "name": "Question Marx",
+                            "name": "Questionar marx",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
@@ -2139,8 +2139,8 @@
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "UNSATISFYING",
-                            "name": "Unsatisfying Conclusion",
+                            "id": "INSATISFATÓRIO",
+                            "name": "Conclusão Insatisfatória",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
@@ -2160,25 +2160,25 @@
                     "contents": [
                         {
                             "id": "ASTEWFORTWO",
-                            "name": "A Stew for Two",
+                            "name": "Um guisado para dois",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "ATIMETOTOUCH",
-                            "name": "A Time To Touch",
+                            "name": "Tempo para tocar",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "AMOREO’CLOCK",
-                            "name": "Amore O’Clock",
+                            "id": "AMOREO'CLOCK",
+                            "name": "Amore O'Clock",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "BETWIXTLOVEA",
-                            "name": "Betwixt Love And Lust",
+                            "name": "Entre amor e luxúria",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
@@ -2190,97 +2190,97 @@
                         },
                         {
                             "id": "BORINGATFIRS",
-                            "name": "Boring at First",
+                            "name": "Chato no começo",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "CASUALFRIDAY",
-                            "name": "Casual Fridays With Cassie",
+                            "id": "SEXTA-FEIRA CASUAL",
+                            "name": "Sextas-feiras casuais com Cassie",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "FALLINGINTOA",
-                            "name": "Falling Into An Autumnal Relationship",
+                            "name": "Caindo em uma relação outonal",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "FOREVERDULL",
+                            "id": "PARA SEMPRE",
                             "name": "Forever Dull",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "THEGENERALTH",
-                            "name": "The General Throbbing",
+                            "id": "GERAL",
+                            "name": "O latejar geral",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "HERECOMETHEL",
-                            "name": "Here Come The Lips",
+                            "name": "Aí vem os lábios",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "IKNOWTHOSELI",
-                            "name": "I Know Those Lips",
+                            "name": "Eu conheço esses lábios",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "IWANNAHOLDYO",
-                            "name": "I Wanna Hold Your Calf",
+                            "name": "Eu quero segurar sua panturrilha",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "KISSMEI'MCLE",
-                            "name": "Kiss Me I'm Clever",
+                            "name": "Beije-me que sou inteligente",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "THEMUSKOFLON",
-                            "name": "The Musk Of Longing",
+                            "name": "O almíscar da saudade",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "SCENT",
-                            "name": "Scent",
+                            "id": "ODOR",
+                            "name": "Odor",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "SOMEBODYLOVE",
-                            "name": "Somebody Loves Francis",
+                            "id": "ALGUÉM AMA",
+                            "name": "Alguem ama francis",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "STRAWBERRYHU",
-                            "name": "Strawberry Hunk",
+                            "name": "Pão de morango",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "TEMPORARYISF",
-                            "name": "Temporary is Forever",
+                            "name": "Temporário é para sempre",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "WEDDINGONTHE",
-                            "name": "Wedding On The Go",
+                            "id": "CASAMENTO",
+                            "name": "Casamento em movimento",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "WHO’LLKISSPA",
-                            "name": "Who’ll Kiss Patsy",
+                            "id": "WHO'LLKISSPA",
+                            "name": "Quem Vai Beijar Patsy",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         }
@@ -2288,19 +2288,19 @@
                 },
                 {
                     "id": "SCI_FI",
-                    "name": "Sci-Fi",
+                    "name": "Ficção Científica",
                     "bgColor": "FFFFFF",
                     "textColor": "000000",
                     "contents": [
                         {
-                            "id": "A.B.D.U.C.T.",
-                            "name": "A.B.D.U.C.T.I.O.N.: Alien Beings Doing Unseemly Crimes To Innocents Of Nebraska",
+                            "id": "ABDUCT",
+                            "name": "ABDUÇÃO: seres alienígenas cometendo crimes indecentes a inocentes de Nebraska",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "ANALLEGORYFO",
-                            "name": "An Allegory for Our Modern Times, In Space",
+                            "name": "Uma alegoria para os nossos tempos modernos, no espaço",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
@@ -2312,25 +2312,25 @@
                         },
                         {
                             "id": "CLEANTHESTAR",
-                            "name": "Clean the Starship",
+                            "name": "Limpe a nave estelar",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "DURNROBITTRI",
-                            "name": "Durn Robit Tricked Me Again",
+                            "name": "Durn Robit me enganou de novo",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "FRATERNALCLO",
-                            "name": "Fraternal Clones",
+                            "name": "Clones Fraternos",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "HUMANSARETHE",
-                            "name": "Humans Are the Virus: A Spoilers Production",
+                            "name": "Humanos são o vírus: uma produção de spoilers",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
@@ -2341,14 +2341,14 @@
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "LET’SSHOOTTH",
-                            "name": "Let’s Shoot These Old Guys Into Orbit",
+                            "id": "LET'SSHOOTTH",
+                            "name": "Vamos atirar esses velhos em órbita",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "LUCKYNUMBERI",
-                            "name": "Lucky Number Infinity",
+                            "name": "Número da sorte infinito",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
@@ -2371,8 +2371,8 @@
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "RADIOACTIVEA",
-                            "name": "Radioactive Active Radio",
+                            "id": "RADIOATIVOA",
+                            "name": "Radioativo ativo radioativo",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
@@ -2389,8 +2389,8 @@
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "UTI:UNIDENTI",
-                            "name": "UTI: Unidentified Terrestrial Intelligence",
+                            "id": "UTI: UNIDENTI",
+                            "name": "UTI: Inteligência Terrestre Não Identificada",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
@@ -2402,27 +2402,27 @@
                         },
                         {
                             "id": "WHYSQUIDDNA?",
-                            "name": "Why Squid DNA?",
+                            "name": "Por que DNA de lula?",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "YIKES,NOTGOO",
-                            "name": "Yikes, Not Good For Earth",
+                            "id": "YIKES, NOTGOO",
+                            "name": "Caramba, não é bom para a terra",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         }
                     ]
                 },
                 {
-                    "id": "THRILLER",
-                    "name": "Thriller",
+                    "id": "FILME DE AÇÃO",
+                    "name": "Filme de ação",
                     "bgColor": "FFFFFF",
                     "textColor": "000000",
                     "contents": [
                         {
                             "id": "CHASEOFTHEPU",
-                            "name": "Chase of the Pursuers",
+                            "name": "Perseguição dos perseguidores",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
@@ -2434,49 +2434,49 @@
                         },
                         {
                             "id": "DIAL9FORANOU",
-                            "name": "Dial 9 for an Outside Line",
+                            "name": "Disque 9 para uma linha externa",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "EMBEZZLEMENT",
-                            "name": "Embezzlement Island",
+                            "id": "EMBEZLEMENTO",
+                            "name": "Ilha do desfalque",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "FAKEBUTT,REA",
-                            "name": "Fake Butt, Real Murderer",
+                            "id": "FAKEBUTT, REA",
+                            "name": "Bundas Falsas, Assassino de Verdade",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "THEFILBERBIX",
-                            "name": "The Filberbixby Murders",
+                            "name": "Os assassinatos de Filberbixby",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "FRENEMYFILES",
-                            "name": "Frenemy Files",
+                            "name": "Arquivos Frenemy",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "GENTLEMANWEI",
-                            "name": "Gentleman Weirdo",
+                            "name": "Cavalheiro Esquisito",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "HERCONFUSING",
-                            "name": "Her Confusing Voicemail",
+                            "id": "HERCONFUSANTE",
+                            "name": "Seu correio de voz confuso",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "IKNOWWHATYOU",
-                            "name": "I Know What You Did Five Minutes Ago",
+                            "id": "EU SEI O QUE VOCÊ",
+                            "name": "Eu sei o que você fez cinco minutos atrás",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
@@ -2488,31 +2488,31 @@
                         },
                         {
                             "id": "MYDRYCLEANER",
-                            "name": "My Dry Cleaner, My Enemy",
+                            "name": "Minha lavanderia, meu inimigo",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "THENECKLACEN",
-                            "name": "The Necklace Nobody Wanted",
+                            "name": "O colar que ninguém queria",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "PHONECOP",
-                            "name": "Phone Cop",
+                            "name": "Policial de telefone",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "RETIREDASSAS",
-                            "name": "Retired Assassin Kills Again",
+                            "name": "Assassin aposentado mata novamente",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "THESECRETEVE",
-                            "name": "The Secret Everyone Knew",
+                            "id": "ESSES RECEITAS",
+                            "name": "O segredo que todos sabiam",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
@@ -2524,25 +2524,25 @@
                         },
                         {
                             "id": "STRANGERSONA",
-                            "name": "Strangers on a Text Thread",
+                            "name": "Estranhos em um tópico de texto",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "STRESSFULTEN",
-                            "name": "Stressful Tension",
+                            "name": "Tensão Estressante",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
-                            "id": "TICKTOCK,BOM",
-                            "name": "Tick Tock, Bomb Clock",
+                            "id": "TICKTOCK, BOM",
+                            "name": "Tick Tock, relógio de bomba",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         },
                         {
                             "id": "TREACHERYATT",
-                            "name": "Treachery At Treason Beach",
+                            "name": "Traição em Treason Beach",
                             "bgColor": "607ed2",
                             "textColor": "ffffff"
                         }

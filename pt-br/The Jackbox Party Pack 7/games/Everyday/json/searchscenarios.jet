@@ -1,1138 +1,1138 @@
 {
     "payload": [
         {
-            "id": "WALLET",
-            "category": "WALLET",
-            "name": "parent's wallet",
+            "id": "CARTEIRA",
+            "category": "CARTEIRA",
+            "name": "carteira dos pais",
             "locations": [
                 {
                     "id": "FRIDGETOP",
-                    "name": "on top of the fridge"
+                    "name": "em cima da geladeira"
                 },
                 {
                     "id": "UNDERCOUCH",
-                    "name": "under the couch"
+                    "name": "debaixo do sofá"
                 },
                 {
-                    "id": "NEXTTOTOILET",
-                    "name": "next to the toilet"
+                    "id": "NEXTTOILET",
+                    "name": "próximo ao banheiro"
                 },
                 {
-                    "id": "YARD",
-                    "name": "backyard"
+                    "id": "JARDIM",
+                    "name": "quintal"
                 },
                 {
-                    "id": "PANTS",
-                    "name": "yesterday's pants pocket"
+                    "id": "CALÇA",
+                    "name": "bolso da calça de ontem"
                 },
                 {
-                    "id": "CAR",
-                    "name": "in the car"
+                    "id": "CARRO",
+                    "name": "no carro"
                 }
             ]
         },
         {
-            "id": "LIPBALM",
-            "category": "LIPBALM",
-            "name": "lip balm",
+            "id": "BÁLSAMO LABIAL",
+            "category": "BÁLSAMO LABIAL",
+            "name": "bálsamo labial",
             "locations": [
                 {
                     "id": "CUSIONS",
-                    "name": "couch cushions"
+                    "name": "almofadas de sofá"
                 },
                 {
-                    "id": "COUCH",
-                    "name": "under the couch"
+                    "id": "SOFÁ",
+                    "name": "debaixo do sofá"
                 },
                 {
-                    "id": "STAIRS",
-                    "name": "by the stairs"
+                    "id": "ESCADARIA",
+                    "name": "pelas escadas"
                 },
                 {
-                    "id": "CLOSET",
-                    "name": "utility closet"
+                    "id": "ARMÁRIO",
+                    "name": "armário de utilidades"
                 },
                 {
-                    "id": "FRIDGE",
-                    "name": "fridge"
+                    "id": "FRIGORÍFICO",
+                    "name": "frigorífico"
                 },
                 {
-                    "id": "LAUNDRY",
-                    "name": "laundry basket"
+                    "id": "LAVANDERIA",
+                    "name": "cesto de roupa suja"
                 },
                 {
-                    "id": "TOILET",
-                    "name": "next to the toilet"
+                    "id": "BANHEIRO",
+                    "name": "próximo ao banheiro"
                 }
             ]
         },
         {
             "id": "DINNERWARE",
             "category": "DINNERWARE",
-            "name": "the good china",
+            "name": "a boa porcelana",
             "locations": [
                 {
-                    "id": "DISHWASHER",
-                    "name": "in the dishwasher"
+                    "id": "LAVA-LOUÇAS",
+                    "name": "na máquina de lavar louça"
                 },
                 {
                     "id": "HIGHCAB",
-                    "name": "high cabinet"
+                    "name": "armário alto"
                 },
                 {
-                    "id": "GARAGE",
-                    "name": "out in the garage"
+                    "id": "GARAGEM",
+                    "name": "na garagem"
                 },
                 {
                     "id": "PROMO",
-                    "name": "behind the fast food promo glasses"
+                    "name": "por trás dos óculos promocionais de fast food"
                 },
                 {
-                    "id": "CUTTERS",
-                    "name": "under the pile of cookie cutters"
+                    "id": "CORTADORES",
+                    "name": "sob a pilha de cortadores de biscoitos"
                 },
                 {
-                    "id": "ATTIC",
-                    "name": "up in the attic"
+                    "id": "SÓTÃO",
+                    "name": "no sótão"
                 }
             ]
         },
         {
-            "id": "THERMOMETER",
-            "category": "THERMOMETER",
-            "name": "the thermometer",
+            "id": "TERMÔMETRO",
+            "category": "TERMÔMETRO",
+            "name": "o termômetro",
             "locations": [
                 {
-                    "id": "CABINET",
-                    "name": "bathroom cabinet"
+                    "id": "GABINETE",
+                    "name": "armário de banheiro"
                 },
                 {
-                    "id": "DRAWER",
-                    "name": "junk drawer"
+                    "id": "GAVETA",
+                    "name": "gaveta de lixo"
                 },
                 {
-                    "id": "PLASTIC",
-                    "name": "little plastic organizer drawers"
+                    "id": "PLÁSTICO",
+                    "name": "pequenas gavetas organizadoras de plástico"
                 },
                 {
                     "id": "TOILETTHERM",
-                    "name": "behind the toilet"
+                    "name": "atrás do banheiro"
                 },
                 {
                     "id": "BIN",
-                    "name": "bin labeled 'thermometers'"
+                    "name": "bin rotulado como 'termômetros'"
                 },
                 {
-                    "id": "PILE",
-                    "name": "pile of stuff from last time we got sick"
+                    "id": "PILHA",
+                    "name": "pilha de coisas da última vez que ficamos doentes"
                 }
             ]
         },
         {
-            "id": "ADAPTERS",
-            "category": "ADAPTERS",
-            "name": "international power adaptors",
+            "id": "ADAPTADORES",
+            "category": "ADAPTADORES",
+            "name": "adaptadores de energia internacionais",
             "locations": [
                 {
                     "id": "ATTIC2",
-                    "name": "attic"
+                    "name": "sótão"
                 },
                 {
                     "id": "BACKCLOSET",
-                    "name": "the way way back part of the closet"
+                    "name": "o caminho de volta parte do armário"
                 },
                 {
                     "id": "SUITCASES",
-                    "name": "inside the old suitcases"
+                    "name": "dentro das velhas malas"
                 },
                 {
-                    "id": "KID",
-                    "name": "pile of stuff the kids were playing with"
+                    "id": "MIÚDO",
+                    "name": "pilha de coisas com as quais as crianças estavam brincando"
                 },
                 {
-                    "id": "UNDERWEAR",
-                    "name": "underwear drawer"
+                    "id": "ROUPA DE BAIXO",
+                    "name": "gaveta de roupas íntimas"
                 },
                 {
                     "id": "DUFFEL",
-                    "name": "bottom of this weird duffel bag"
+                    "name": "fundo desta bolsa de lona estranha"
                 }
             ]
         },
         {
             "id": "GORBO",
             "category": "GORBO",
-            "name": "the mortgage bill",
+            "name": "a conta da hipoteca",
             "locations": [
                 {
-                    "id": "SUITCASE",
-                    "name": "under Gorbo's suitcase"
+                    "id": "MALA",
+                    "name": "sob a mala de Gorbo"
                 },
                 {
-                    "id": "CLOTHES",
-                    "name": "under Gorbo's clothes"
+                    "id": "ROUPAS",
+                    "name": "sob as roupas de Gorbo"
                 },
                 {
-                    "id": "CANDY",
-                    "name": "under Gorbo's candy wrappers"
+                    "id": "DOCE",
+                    "name": "sob as embalagens de doces de Gorbo"
                 },
                 {
-                    "id": "CREAMS",
-                    "name": "under Gorbo's rash creams"
+                    "id": "CREMES",
+                    "name": "sob os cremes de erupção de Gorbo"
                 },
                 {
                     "id": "GORBO",
-                    "name": "under Gorbo"
+                    "name": "sob Gorbo"
                 }
             ]
         },
         {
             "id": "LOOSECHANGE",
             "category": "LOOSECHANGE",
-            "name": "loose change",
+            "name": "troco solto",
             "locations": [
                 {
                     "id": "LEFTCOUCH",
-                    "name": "under left couch cushion"
+                    "name": "sob a almofada esquerda do sofá"
                 },
                 {
                     "id": "CENTERCOUCH",
-                    "name": "under center couch cushion"
+                    "name": "sob a almofada do sofá central"
                 },
                 {
                     "id": "RIGHTCOUCH",
-                    "name": "under right couch cushion"
+                    "name": "sob a almofada direita do sofá"
                 },
                 {
-                    "id": "ARMCHAIR",
-                    "name": "behind the armchair"
+                    "id": "BRAÇO DE CADEIRA",
+                    "name": "atrás da poltrona"
                 },
                 {
-                    "id": "BLANKET",
-                    "name": "inside the big blanket"
+                    "id": "COBERTOR",
+                    "name": "dentro do grande cobertor"
                 },
                 {
-                    "id": "FUND",
-                    "name": "jar marked \"EMERGENCY FUND DO NOT TOUCH\""
+                    "id": "FUNDO",
+                    "name": "jar marcado \"FUNDO DE EMERGÊNCIA NÃO TOQUE\""
                 }
             ]
         },
         {
             "id": "ASTEROIDLASER",
             "category": "ASTEROIDLASER",
-            "name": "the laser component",
+            "name": "o componente laser",
             "locations": [
                 {
-                    "id": "ENGINE",
-                    "name": "inside car engine"
+                    "id": "MOTOR",
+                    "name": "dentro do motor do carro"
                 },
                 {
-                    "id": "ROBOT",
-                    "name": "inside toy robot"
+                    "id": "ROBÔ",
+                    "name": "robô de brinquedo dentro"
                 },
                 {
                     "id": "HVAC",
-                    "name": "inside HVAC system"
+                    "name": "dentro do sistema HVAC"
                 },
                 {
-                    "id": "RADIO",
-                    "name": "inside shortwave radio"
+                    "id": "RÁDIO",
+                    "name": "dentro do rádio de ondas curtas"
                 },
                 {
                     "id": "GARAGELASER",
-                    "name": "inside garage door opener"
+                    "name": "controle interno da porta da garagem"
                 }
             ]
         },
         {
             "id": "CLUES",
             "category": "CLUES",
-            "name": "important clues",
+            "name": "pistas importantes",
             "locations": [
                 {
                     "id": "CULDESAC",
-                    "name": "quiet suburban cul-de-sac"
+                    "name": "beco sem saída suburbano tranquilo"
                 },
                 {
-                    "id": "AMUSE",
-                    "name": "abandoned amusement park"
+                    "id": "DIVERTIR",
+                    "name": "parque de diversões abandonado"
                 },
                 {
-                    "id": "BASKETBALL",
-                    "name": "old tennis court no one uses (they built a new one)"
+                    "id": "BASQUETEBOL",
+                    "name": "quadra de tênis velha que ninguém usa (eles construíram uma nova)"
                 },
                 {
-                    "id": "OLDMAN",
-                    "name": "Old man Oldman's yard"
+                    "id": "VELHOTE",
+                    "name": "Quintal do velhinho"
                 },
                 {
-                    "id": "HIGHSCHOOL",
-                    "name": "high school parking lot"
+                    "id": "ENSINO MÉDIO",
+                    "name": "estacionamento da escola"
                 }
             ]
         },
         {
             "id": "NEWCAR",
             "category": "NEWCAR",
-            "name": "junk to sell",
+            "name": "lixo para vender",
             "locations": [
                 {
-                    "id": "OLDCLOTHES",
-                    "name": "clothes closet"
+                    "id": "ROUPAS VELHAS",
+                    "name": "Closet"
                 },
                 {
                     "id": "OLDPHONES",
-                    "name": "pile of old phones"
+                    "name": "pilha de telefones antigos"
                 },
                 {
-                    "id": "ACTIONFIGURES",
-                    "name": "vintage action figure collection"
+                    "id": "FIGURAS DE AÇÃO",
+                    "name": "coleção de bonecos vintage"
                 },
                 {
-                    "id": "UNLABELED",
-                    "name": "unlabeled box in garage"
+                    "id": "NÃO LEGAL",
+                    "name": "caixa sem etiqueta na garagem"
                 },
                 {
-                    "id": "APPLIANCES",
-                    "name": "cabinet of rarely used appliances"
+                    "id": "APARELHOS",
+                    "name": "armário de aparelhos raramente usados"
                 }
             ]
         },
         {
             "id": "DANCESNACKS",
             "category": "DANCESNACKS",
-            "name": "the good snacks",
+            "name": "os bons lanches",
             "locations": [
                 {
                     "id": "BLEACHERS",
-                    "name": "under the bleachers"
+                    "name": "debaixo das arquibancadas"
                 },
                 {
                     "id": "DJ",
-                    "name": "next to the DJ"
+                    "name": "ao lado do DJ"
                 },
                 {
                     "id": "PHOTOBOOTH",
-                    "name": "photo booth"
+                    "name": "cabine de fotos"
                 },
                 {
-                    "id": "JANITOR",
-                    "name": "janitor's closet"
+                    "id": "ZELADOR",
+                    "name": "armário do zelador"
                 }
             ]
         },
         {
             "id": "SLUMBERSEARCH",
             "category": "SLUMBERSEARCH",
-            "name": "the kids who snuck out",
+            "name": "as crianças que escaparam",
             "locations": [
                 {
                     "id": "GARAGESLUMBER",
-                    "name": "garage"
+                    "name": "garagem"
                 },
                 {
-                    "id": "NEIGHBORYARD",
-                    "name": "neighbor's yard"
+                    "id": "VIZINHO",
+                    "name": "quintal do vizinho"
                 },
                 {
-                    "id": "STORMDRAIN",
-                    "name": "creepy storm drain"
+                    "id": "DRENO DE TEMPESTADE",
+                    "name": "ralo de tempestade assustador"
                 },
                 {
-                    "id": "CONVENIENCE",
-                    "name": "convenience store parking lot"
+                    "id": "CONVENIÊNCIA",
+                    "name": "estacionamento de loja de conveniência"
                 },
                 {
-                    "id": "CIRCUS",
-                    "name": "traveling circus"
+                    "id": "CIRCO",
+                    "name": "circo ambulante"
                 },
                 {
-                    "id": "HOUSE",
-                    "name": "back in the house"
+                    "id": "LAR",
+                    "name": "de volta na casa"
                 }
             ]
         },
         {
-            "id": "MAKEUPWORK",
-            "category": "MAKEUPWORK",
-            "name": "make-up work you misplaced",
+            "id": "MAQUIAGEM",
+            "category": "MAQUIAGEM",
+            "name": "trabalho de maquiagem que você perdeu",
             "locations": [
                 {
                     "id": "ATTICKWORK",
-                    "name": "attic"
+                    "name": "sótão"
                 },
                 {
                     "id": "BACKCLOSETWORK",
-                    "name": "the way way back part of the closet"
+                    "name": "o caminho de volta parte do armário"
                 },
                 {
                     "id": "SUITCASESWORK",
-                    "name": "inside the old suitcases"
+                    "name": "dentro das velhas malas"
                 },
                 {
                     "id": "KIDWORK",
-                    "name": "pile of stuff the kids were playing with"
+                    "name": "pilha de coisas com as quais as crianças estavam brincando"
                 },
                 {
-                    "id": "UNDERWEARWORK",
-                    "name": "underwear drawer"
+                    "id": "SUBWEARWEARWORK",
+                    "name": "gaveta de roupas íntimas"
                 },
                 {
                     "id": "DUFFELWORK",
-                    "name": "bottom of this weird duffel bag"
+                    "name": "fundo desta bolsa de lona estranha"
                 }
             ]
         },
         {
-            "id": "GUITAR",
-            "category": "GUITAR",
-            "name": "that old guitar",
+            "id": "GUITARRA",
+            "category": "GUITARRA",
+            "name": "aquela guitarra velha",
             "locations": [
                 {
                     "id": "CLOSETGUITAR",
-                    "name": "closet"
+                    "name": "armário"
                 },
                 {
-                    "id": "PLAYROOM",
-                    "name": "playroom"
+                    "id": "SALA DE JOGOS",
+                    "name": "sala de jogos"
                 },
                 {
-                    "id": "BASEMENT",
-                    "name": "basement"
+                    "id": "PORÃO",
+                    "name": "porão"
                 },
                 {
-                    "id": "SECRETBASE",
-                    "name": "secret basement"
+                    "id": "BASE SECRETA",
+                    "name": "porão secreto"
                 },
                 {
                     "id": "ATTICGUITAR",
-                    "name": "attic"
+                    "name": "sótão"
                 }
             ]
         },
         {
             "id": "GRONK",
             "category": "GRONK",
-            "name": "gronking paraphernalia",
+            "name": "parafernália groncora",
             "locations": [
                 {
                     "id": "BEDGRONK",
-                    "name": "under the bed"
+                    "name": "debaixo da cama"
                 },
                 {
                     "id": "DESKGRONK",
-                    "name": "inside desk drawers"
+                    "name": "dentro das gavetas da mesa"
                 },
                 {
                     "id": "BOOKGRONK",
-                    "name": "in hollowed-out books"
+                    "name": "em livros vazios"
                 },
                 {
                     "id": "CANDYGRONK",
-                    "name": "under pile of candy wrappers"
+                    "name": "sob a pilha de embalagens de doces"
                 },
                 {
                     "id": "CLOSETGRONK",
-                    "name": "back of the closet"
+                    "name": "parte de trás do armário"
                 },
                 {
                     "id": "LIZARDGRONK",
-                    "name": "inside pet lizard's terrarium"
+                    "name": "dentro do terrário de lagarto de estimação"
                 }
             ]
         },
         {
             "id": "DIGSITE",
             "category": "DIGSITE",
-            "name": "a good spot for the time capsule",
+            "name": "um bom lugar para a cápsula do tempo",
             "locations": [
                 {
-                    "id": "OAK",
-                    "name": "beneath the shady oak"
+                    "id": "CARVALHO",
+                    "name": "sob o carvalho sombrio"
                 },
                 {
-                    "id": "ANTHILL",
-                    "name": "menacing ant hill"
+                    "id": "FORMIGUEIRO",
+                    "name": "ameaçador formigueiro"
                 },
                 {
-                    "id": "CLOTHESLINE",
-                    "name": "by the clothesline"
+                    "id": "VARAL DE ROUPAS",
+                    "name": "perto do varal"
                 },
                 {
-                    "id": "HAMMOCK",
-                    "name": "next to the hammock"
+                    "id": "MACA",
+                    "name": "ao lado da rede"
                 },
                 {
-                    "id": "CHAINLINK",
-                    "name": "near the chain link fence"
+                    "id": "ELO DE CORRENTE",
+                    "name": "perto da cerca de arame"
                 },
                 {
-                    "id": "GRAVEL",
-                    "name": "the weird gravelly spot"
+                    "id": "CASCALHO",
+                    "name": "o local estranho de cascalho"
                 }
             ]
         },
         {
             "id": "ROMPO",
             "category": "ROMPO",
-            "name": "Cousin Rompo's beloved lost cup and ball game",
+            "name": "O amado jogo de bola e copa perdido do primo Rompo",
             "locations": [
                 {
-                    "id": "VACUUM",
-                    "name": "inside the vacuum Rompo destroyed"
+                    "id": "VÁCUO",
+                    "name": "dentro do vácuo que Rompo destruiu"
                 },
                 {
-                    "id": "ROOF",
-                    "name": "the roof Rompo was trapped on"
+                    "id": "COBERTURA",
+                    "name": "o telhado em que Rompo estava preso"
                 },
                 {
                     "id": "KITCHENWRECK",
-                    "name": "the burned wreckage of the kitchen"
+                    "name": "os destroços queimados da cozinha"
                 },
                 {
-                    "id": "HAND",
-                    "name": "in Rompo's hand the whole time"
+                    "id": "MÃO",
+                    "name": "nas mãos de Rompo o tempo todo"
                 }
             ]
         },
         {
             "id": "SCARLETLETTER",
             "category": "SCARLETLETTER",
-            "name": "the most dominant theme in 'The Scarlet Letter'",
+            "name": "o tema mais dominante em 'The Scarlet Letter'",
             "locations": [
                 {
                     "id": "MORAL",
-                    "name": "morality and justice"
+                    "name": "moralidade e justiça"
                 },
                 {
-                    "id": "REVENGE",
-                    "name": "the concept of revenge\n"
+                    "id": "VINGANÇA",
+                    "name": "o conceito de vingança\n"
                 },
                 {
-                    "id": "FEMININITY",
-                    "name": "society’s notion of femininity\n"
+                    "id": "FEMININIDADE",
+                    "name": "noção de feminilidade da sociedade\n"
                 },
                 {
-                    "id": "FORGIVE",
-                    "name": "the idea of forgiveness\n"
+                    "id": "PERDOAR",
+                    "name": "a ideia de perdão\n"
                 }
             ]
         },
         {
-            "id": "COALS",
-            "category": "COALS",
-            "name": "the choice underworld coals",
+            "id": "CARVÕES",
+            "category": "CARVÕES",
+            "name": "os carvões escolhidos do submundo",
             "locations": [
                 {
-                    "id": "SHED",
-                    "name": "shed"
+                    "id": "CABANA",
+                    "name": "cabana"
                 },
                 {
-                    "id": "COALSGARAGE",
-                    "name": "out in the garage"
+                    "id": "GARAGEM DE CARVÃO",
+                    "name": "na garagem"
                 },
                 {
-                    "id": "BOX",
-                    "name": "box of family heirlooms"
+                    "id": "CAIXA",
+                    "name": "caixa de relíquias de família"
                 },
                 {
                     "id": "TARP",
-                    "name": "under the old tarp"
+                    "name": "sob a velha lona"
                 },
                 {
-                    "id": "DUNGEON",
-                    "name": "the home dungeon"
+                    "id": "MASMORRA",
+                    "name": "a masmorra de casa"
                 }
             ]
         },
         {
-            "id": "HOTSAUCE",
-            "category": "HOTSAUCE",
-            "name": "spicy hot sauce",
+            "id": "MOLHO PICANTE",
+            "category": "MOLHO PICANTE",
+            "name": "molho picante",
             "locations": [
                 {
                     "id": "KITCHENCAB",
-                    "name": "kitchen cabinet"
+                    "name": "armário de cozinha"
                 },
                 {
                     "id": "GRILLDRAWER",
-                    "name": "grill drawer"
+                    "name": "gaveta da grelha"
                 },
                 {
                     "id": "CATBED",
-                    "name": "cat bed"
+                    "name": "cama de gato"
                 },
                 {
                     "id": "GRAMPASTASH",
-                    "name": "Grampa's secret stash"
+                    "name": "O esconderijo secreto do vovô"
                 },
                 {
-                    "id": "SAUCEHOLE",
-                    "name": "the Sauce Hole"
+                    "id": "MOLHO",
+                    "name": "o buraco do molho"
                 }
             ]
         },
         {
-            "id": "OUTSIDE",
-            "category": "OUTSIDE",
-            "name": "the cat",
+            "id": "FORA",
+            "category": "FORA",
+            "name": "o gato",
             "locations": [
                 {
                     "id": "CATROOF",
-                    "name": "on the roof"
+                    "name": "no telhado"
                 },
                 {
                     "id": "NEIGHBORS_HOUSE",
-                    "name": "at the neighbors house"
+                    "name": "na casa dos vizinhos"
                 },
                 {
                     "id": "PETUNIA_PATCH",
-                    "name": "in the petunia patch"
+                    "name": "no patch de petúnia"
                 },
                 {
-                    "id": "UNDER_DECK",
-                    "name": "under the deck"
+                    "id": "SOB CONVÉS",
+                    "name": "sob o convés"
                 },
                 {
-                    "id": "GARBAGE",
-                    "name": "in the garbage"
+                    "id": "LIXO",
+                    "name": "no lixo"
                 },
                 {
                     "id": "IN_TREE",
-                    "name": "up in the tree"
+                    "name": "em cima da árvore"
                 },
                 {
-                    "id": "CAR_HOOD",
-                    "name": "on the hood of the car"
+                    "id": "CAPÔ DO CARRO",
+                    "name": "no capô do carro"
                 }
             ]
         },
         {
             "id": "INSOLES",
             "category": "INSOLES",
-            "name": "parent's orthotic insoles",
+            "name": "palmilhas ortopédicas dos pais",
             "locations": [
                 {
-                    "id": "UNDERBED",
-                    "name": "under the bed"
+                    "id": "SOB A CAMA",
+                    "name": "debaixo da cama"
                 },
                 {
                     "id": "CATSTUFF",
-                    "name": "in the cat's stuff"
+                    "name": "nas coisas do gato"
                 },
                 {
                     "id": "REMOTEBASKET",
-                    "name": "the basket of remotes"
+                    "name": "a cesta de controles remotos"
                 },
                 {
-                    "id": "UNDERTABLE",
-                    "name": "under the dining room table"
+                    "id": "DEBAIXO DA MESA",
+                    "name": "debaixo da mesa da sala de jantar"
                 },
                 {
                     "id": "INSHOES",
-                    "name": "inside shoes where they belong"
+                    "name": "dentro dos sapatos onde eles pertencem"
                 }
             ]
         },
         {
-            "id": "PROMISERING",
-            "category": "PROMISERING",
-            "name": "teen's promise ring",
+            "id": "ANEL DE COMPROMISSO",
+            "category": "ANEL DE COMPROMISSO",
+            "name": "anel de promessa de adolescente",
             "locations": [
                 {
                     "id": "ONDRESSER",
-                    "name": "on the dresser"
+                    "name": "na cômoda"
                 },
                 {
                     "id": "CLOSET3",
-                    "name": "in the closet"
+                    "name": "no armário"
                 },
                 {
-                    "id": "FISHBOWL",
-                    "name": "in the fishbowl"
+                    "id": "AQUÁRIO",
+                    "name": "no aquário"
                 },
                 {
                     "id": "JEANSHORTS",
-                    "name": "pocket of jean shorts"
+                    "name": "bolso de shorts jeans"
                 },
                 {
-                    "id": "JEWELRYBOX",
-                    "name": "jewelry box"
+                    "id": "CAIXA DE JÓIAS",
+                    "name": "caixa de jóias"
                 }
             ]
         },
         {
-            "id": "CANDLES",
-            "category": "CANDLES",
-            "name": "birthday candles",
+            "id": "VELAS",
+            "category": "VELAS",
+            "name": "velas de aniversario",
             "locations": [
                 {
                     "id": "JUNKDRAWER",
-                    "name": "junk drawer"
+                    "name": "gaveta de lixo"
                 },
                 {
-                    "id": "PURSE",
-                    "name": "purse"
+                    "id": "BOLSA",
+                    "name": "Bolsa"
                 },
                 {
-                    "id": "PANTRY",
-                    "name": "pantry"
+                    "id": "DESPENSA",
+                    "name": "despensa"
                 },
                 {
                     "id": "CRAFTCLOSET",
-                    "name": "craft closet"
+                    "name": "armário de artesanato"
                 },
                 {
-                    "id": "GARAGE2",
-                    "name": "garage"
+                    "id": "GARAGEM2",
+                    "name": "garagem"
                 },
                 {
-                    "id": "CAKE",
-                    "name": "last year's cake"
+                    "id": "BOLO",
+                    "name": "bolo do ano passado"
                 }
             ]
         },
         {
             "id": "RABBITFOOT",
             "category": "RABBITFOOT",
-            "name": "lucky rabbit's foot",
+            "name": "pé de coelho da sorte",
             "locations": [
                 {
-                    "id": "UNDERLADDER",
-                    "name": "under the ladder"
+                    "id": "ESCALADA",
+                    "name": "sob a escada"
                 },
                 {
-                    "id": "BROKENMIRROR",
-                    "name": "next to the broken mirror"
+                    "id": "ESPELHO QUEBRADO",
+                    "name": "ao lado do espelho quebrado"
                 },
                 {
-                    "id": "BLACKCAT",
-                    "name": "along the path of a black cat"
+                    "id": "GATO PRETO",
+                    "name": "ao longo do caminho de um gato preto"
                 },
                 {
-                    "id": "CRACK",
-                    "name": "in a sidewalk crack"
+                    "id": "RACHADURA",
+                    "name": "em uma rachadura na calçada"
                 },
                 {
-                    "id": "OTHERFEET",
-                    "name": "next to thirteen other feet"
+                    "id": "OUTRO PÉS",
+                    "name": "ao lado de outros treze pés"
                 }
             ]
         },
         {
-            "id": "DRIVERSLICENSE",
-            "category": "DRIVERSLICENSE",
-            "name": "driver's license",
+            "id": "CARTEIRA DE MOTORISTA",
+            "category": "CARTEIRA DE MOTORISTA",
+            "name": "carteira de motorista",
             "locations": [
                 {
-                    "id": "WALLET",
-                    "name": "wallet"
+                    "id": "CARTEIRA",
+                    "name": "carteira"
                 },
                 {
-                    "id": "DESKDRAWER",
-                    "name": "desk drawer"
+                    "id": "GAVETA DA MESA",
+                    "name": "gaveta da mesa"
                 },
                 {
-                    "id": "GLOVECOMPARTMENT",
-                    "name": "glove compartment"
+                    "id": "PORTA-LUVAS",
+                    "name": "porta-luvas"
                 },
                 {
-                    "id": "FILING",
-                    "name": "filing cabinet"
+                    "id": "ARQUIVAMENTO",
+                    "name": "arquivo"
                 },
                 {
-                    "id": "MICROWAVE",
-                    "name": "inside the microwave"
+                    "id": "MICROONDAS",
+                    "name": "dentro do microondas"
                 }
             ]
         },
         {
-            "id": "STUDENTID",
-            "category": "STUDENTID",
-            "name": "student ID",
+            "id": "IDENTIDADE ESTUDANTIL",
+            "category": "IDENTIDADE ESTUDANTIL",
+            "name": "Identidade estudantil",
             "locations": [
                 {
-                    "id": "UNDERBED2",
-                    "name": "under the bed"
+                    "id": "SUBSOLO 2",
+                    "name": "debaixo da cama"
                 },
                 {
                     "id": "KHAKIS",
-                    "name": "khaki pants pockets"
+                    "name": "bolsos da calça cáqui"
                 },
                 {
-                    "id": "LAVALAMP",
-                    "name": "next to lava lamp"
+                    "id": "LÂMPADA DE LAVA",
+                    "name": "próximo a lâmpada de lava"
                 },
                 {
-                    "id": "COMICBOOK",
-                    "name": "inside comic book"
+                    "id": "HISTÓRIA EM QUADRINHOS",
+                    "name": "dentro da história em quadrinhos"
                 },
                 {
-                    "id": "BLACKLIGHT",
-                    "name": "beneath blacklight poster"
+                    "id": "LUZ NEGRA",
+                    "name": "abaixo do pôster de luz negra"
                 }
             ]
         },
         {
             "id": "HAIRTIE",
             "category": "HAIRTIE",
-            "name": "a hair tie",
+            "name": "um laço de cabelo",
             "locations": [
                 {
                     "id": "CLOSET4",
-                    "name": "closet"
+                    "name": "armário"
                 },
                 {
-                    "id": "BATHROOMDRAWER",
-                    "name": "bathroom drawer"
+                    "id": "BANHEIRO",
+                    "name": "gaveta do banheiro"
                 },
                 {
-                    "id": "VANITY",
-                    "name": "the vanity"
+                    "id": "VAIDADE",
+                    "name": "a vaidade"
                 },
                 {
                     "id": "COUCHCUSHIONS",
-                    "name": "in couch cushions"
+                    "name": "nas almofadas do sofá"
                 },
                 {
                     "id": "HIGHPILE",
-                    "name": "high pile carpet"
+                    "name": "tapete de pêlo alto"
                 }
             ]
         },
         {
-            "id": "BASEBALL",
-            "category": "BASEBALL",
-            "name": "lost baseball",
+            "id": "BASEBOL",
+            "category": "BASEBOL",
+            "name": "baseball perdido",
             "locations": [
                 {
                     "id": "NEIGHBORYARD2",
-                    "name": "neighbor's yard"
+                    "name": "quintal do vizinho"
                 },
                 {
                     "id": "NEIGHBORPORCH",
-                    "name": "neighbor's porch"
+                    "name": "varanda do vizinho"
                 },
                 {
-                    "id": "NEIGHBORFLOWERS",
-                    "name": "neighbor's flower bed"
+                    "id": "VIZINHOS",
+                    "name": "canteiro de flores do vizinho"
                 },
                 {
                     "id": "NEIGHBORDRIVE",
-                    "name": "neighbor's driveway"
+                    "name": "entrada da garagem do vizinho"
                 },
                 {
                     "id": "NEIGHBORWINDOW",
-                    "name": "other side of neighbor's broken window"
+                    "name": "outro lado da janela quebrada do vizinho"
                 }
             ]
         },
         {
-            "id": "DENTURES",
-            "category": "DENTURES",
-            "name": "Grandpa's dentures",
+            "id": "PRÓTESE",
+            "category": "PRÓTESE",
+            "name": "Dentaduras do vovô",
             "locations": [
                 {
-                    "id": "KITCHENSINK",
-                    "name": "kitchen sink"
+                    "id": "PIA DA COZINHA",
+                    "name": "Pia da cozinha"
                 },
                 {
                     "id": "LIVINGROOMFLOOR",
-                    "name": "living room floor"
+                    "name": "chão da sala"
                 },
                 {
                     "id": "TOILETTANK",
-                    "name": "toilet tank"
+                    "name": "tanque de banheiro"
                 },
                 {
-                    "id": "DININGROOMTABLE",
-                    "name": "dining room table"
+                    "id": "MESA DE JANTAR",
+                    "name": "mesa de jantar"
                 },
                 {
                     "id": "INFRIDGE",
-                    "name": "in the fridge"
+                    "name": "na geladeira"
                 }
             ]
         },
         {
             "id": "BEEPING",
             "category": "BEEPING",
-            "name": "whatever's making that beeping noise",
+            "name": "o que quer que esteja fazendo aquele barulho de bipe",
             "locations": [
                 {
-                    "id": "SMOKEDETECTOR",
-                    "name": "smoke detector"
+                    "id": "DETECTOR DE FUMAÇA",
+                    "name": "detector de fumaça"
                 },
                 {
                     "id": "CO2ALARM",
-                    "name": "carbon monoxide alarm"
+                    "name": "alarme de monóxido de carbono"
                 },
                 {
-                    "id": "SECURITY",
-                    "name": "security system"
+                    "id": "SEGURANÇA",
+                    "name": "sistema de segurança"
                 },
                 {
-                    "id": "CABLEBOX",
-                    "name": "cable box"
+                    "id": "CAIXA DE CABO",
+                    "name": "Caixa de cabo"
                 },
                 {
-                    "id": "COMPUTER",
-                    "name": "computer"
+                    "id": "COMPUTADOR",
+                    "name": "computador"
                 },
                 {
-                    "id": "METALBOX",
-                    "name": "mysterious metal box you've never seen before"
+                    "id": "CAIXA DE METAL",
+                    "name": "misteriosa caixa de metal que você nunca viu antes"
                 }
             ]
         },
         {
-            "id": "INKCARTRIDGE",
-            "category": "INKCARTRIDGE",
-            "name": "cyan ink cartridge",
+            "id": "CARGA DE TINTA",
+            "category": "CARGA DE TINTA",
+            "name": "cartucho de tinta ciano",
             "locations": [
                 {
                     "id": "CLOSET5",
-                    "name": "closet"
+                    "name": "armário"
                 },
                 {
-                    "id": "GARAGE3",
-                    "name": "garage"
+                    "id": "GARAGEM 3",
+                    "name": "garagem"
                 },
                 {
                     "id": "SHED2",
-                    "name": "shed"
+                    "name": "cabana"
                 },
                 {
                     "id": "DESKDRAWER2",
-                    "name": "desk drawer"
+                    "name": "gaveta da mesa"
                 },
                 {
                     "id": "ATTIC3",
-                    "name": "attic"
+                    "name": "sótão"
                 },
                 {
                     "id": "BASEMENT2",
-                    "name": "basement"
+                    "name": "porão"
                 }
             ]
         },
         {
-            "id": "GLASSEYE",
-            "category": "GLASSEYE",
-            "name": "Grandma's glass eye",
+            "id": "OLHO DE VIDRO",
+            "category": "OLHO DE VIDRO",
+            "name": "Olho de vidro da vovó",
             "locations": [
                 {
-                    "id": "UNDERBED3",
-                    "name": "under the bed"
+                    "id": "SUBSOLO 3",
+                    "name": "debaixo da cama"
                 },
                 {
                     "id": "UNDERCOUCH2",
-                    "name": "under the couch"
+                    "name": "debaixo do sofá"
                 },
                 {
-                    "id": "UNDERTABLE2",
-                    "name": "under the table"
+                    "id": "SUBTABLE 2",
+                    "name": "debaixo da mesa"
                 },
                 {
                     "id": "UNDERTV",
-                    "name": "under the tv"
+                    "name": "sob a tv"
                 },
                 {
                     "id": "CATSMOUTH",
-                    "name": "the cat's mouth"
+                    "name": "a boca do gato"
                 }
             ]
         },
         {
             "id": "WORDJUMBLE",
             "category": "WORDJUMBLE",
-            "name": "the word elephant in this word jumble",
+            "name": "a palavra elefante nesta palavra confusão",
             "locations": [
                 {
                     "id": "HORIZONTAL",
-                    "name": "horizontally"
+                    "name": "horizontalmente"
                 },
                 {
                     "id": "VERTICAL",
-                    "name": "vertically"
+                    "name": "verticalmente"
                 },
                 {
                     "id": "DIAGONAL",
-                    "name": "diagonally"
+                    "name": "diagonalmente"
                 },
                 {
-                    "id": "FORWARDS",
-                    "name": "forwards"
+                    "id": "AVANÇAR",
+                    "name": "para a frente"
                 },
                 {
-                    "id": "BACKWARDS",
-                    "name": "backwards"
+                    "id": "PARA TRÁS",
+                    "name": "para trás"
                 }
             ]
         },
         {
             "id": "THUMBTACK",
             "category": "THUMBTACK",
-            "name": "dropped thumbtack",
+            "name": "percevejo caído",
             "locations": [
                 {
-                    "id": "CARPET",
-                    "name": "carpet"
+                    "id": "TAPETE",
+                    "name": "tapete"
                 },
                 {
-                    "id": "DOORMAT",
-                    "name": "doormat"
+                    "id": "CAPACHO",
+                    "name": "capacho"
                 },
                 {
-                    "id": "THROWRUG",
-                    "name": "throw rug"
+                    "id": "TAPETE",
+                    "name": "tapete"
                 },
                 {
                     "id": "BATHMAT",
-                    "name": "bathmat"
+                    "name": "tapete de banho"
                 },
                 {
-                    "id": "SHOESOLE",
-                    "name": "sole of shoe"
+                    "id": "SOLA DO SAPATO",
+                    "name": "sola de sapato"
                 }
             ]
         },
         {
             "id": "QUARTERS",
             "category": "QUARTERS",
-            "name": "state quarter collection",
+            "name": "arrecadação do bairro do estado",
             "locations": [
                 {
                     "id": "COINDESK",
-                    "name": "coin desk"
+                    "name": "mesa de moedas"
                 },
                 {
                     "id": "STAMPDRAWER",
-                    "name": "stamp drawer"
+                    "name": "gaveta de carimbo"
                 },
                 {
                     "id": "COMICBOOKSHELF",
-                    "name": "comic book shelf"
+                    "name": "estante de quadrinhos"
                 },
                 {
                     "id": "ROCKDISPLAY",
-                    "name": "rock display case"
+                    "name": "vitrine de rocha"
                 },
                 {
                     "id": "FIGUREINENOOK",
-                    "name": "collectible figurine nook"
+                    "name": "recanto de estatueta colecionável"
                 }
             ]
         },
         {
             "id": "THINGY",
             "category": "THINGY",
-            "name": "the thingy we got to put on the keys so we wouldn't lose them",
+            "name": "a coisa que temos que colocar nas chaves para não perdê-las",
             "locations": [
                 {
                     "id": "JUNKDRAWER2",
-                    "name": "junk drawer"
+                    "name": "gaveta de lixo"
                 },
                 {
                     "id": "DOODADDRAWER",
-                    "name": "drawer of doodads"
+                    "name": "gaveta de bugigangas"
                 },
                 {
                     "id": "LOSTITEMLEDGE",
-                    "name": "lost item ledge"
+                    "name": "saliência de item perdido"
                 },
                 {
                     "id": "ATTIC4",
-                    "name": "attic"
+                    "name": "sótão"
                 },
                 {
                     "id": "BASEMENT3",
-                    "name": "basement"
+                    "name": "porão"
                 },
                 {
                     "id": "PILEBOXES",
-                    "name": "pile of cardboard boxes"
+                    "name": "pilha de caixas de papelão"
                 }
             ]
         },
         {
             "id": "TIMEMIME",
             "category": "TIMEMIME",
-            "name": "the 6th DVD from the special edition box set of \"Time Mime\"",
+            "name": "o 6º DVD da caixa de edição especial de \"Time Mime\"",
             "locations": [
                 {
                     "id": "DEN",
-                    "name": "den"
+                    "name": "cova"
                 },
                 {
                     "id": "BASEMENT4",
-                    "name": "basement"
+                    "name": "porão"
                 },
                 {
-                    "id": "FIREPLACE",
-                    "name": "fireplace"
+                    "id": "LAREIRA",
+                    "name": "lareira"
                 },
                 {
-                    "id": "TRASH",
-                    "name": "trash"
+                    "id": "LIXO",
+                    "name": "lixo"
                 },
                 {
                     "id": "BEHINDSOFA",
-                    "name": "behind the sofa"
+                    "name": "atrás do sofá"
                 }
             ]
         },
         {
-            "id": "MOTIVATIONALNOTE",
-            "category": "MOTIVATIONALNOTE",
-            "name": "embarrassing motivational note (it is VERY embarrassing!)",
+            "id": "NOTA DE MOTIVAÇÃO",
+            "category": "NOTA DE MOTIVAÇÃO",
+            "name": "nota motivacional embaraçosa (é MUITO embaraçoso!)",
             "locations": [
                 {
-                    "id": "TRASH2",
-                    "name": "trash"
+                    "id": "LIXO2",
+                    "name": "lixo"
                 },
                 {
-                    "id": "BATHROOMMIRROR",
-                    "name": "bathroom mirror"
+                    "id": "ESPELHO DE CASA DE BANHO",
+                    "name": "espelho de banheiro"
                 },
                 {
                     "id": "DESKDRAWER3",
-                    "name": "desk drawer"
+                    "name": "gaveta da mesa"
                 },
                 {
-                    "id": "BACKPACK",
-                    "name": "backpack"
+                    "id": "MOCHILA",
+                    "name": "mochila"
                 },
                 {
-                    "id": "FRONTPORCH",
-                    "name": "front porch"
+                    "id": "ALPENDRE",
+                    "name": "alpendre"
                 }
             ]
         },
         {
             "id": "RUINEDSALAD",
             "category": "RUINEDSALAD",
-            "name": "a place to bury the ruined salad",
+            "name": "um lugar para enterrar a salada estragada",
             "locations": [
                 {
                     "id": "HOLE1",
-                    "name": "hole in the backyard"
+                    "name": "buraco no quintal"
                 },
                 {
                     "id": "HOLE2",
-                    "name": "different hole in the backyard"
+                    "name": "buraco diferente no quintal"
                 },
                 {
                     "id": "HOLE3",
-                    "name": "hole in the front yard"
+                    "name": "buraco no jardim da frente"
                 },
                 {
                     "id": "ATTIC5",
-                    "name": "attic"
+                    "name": "sótão"
                 },
                 {
                     "id": "SALADTREE",
-                    "name": "the salad tree"
+                    "name": "a árvore da salada"
                 }
             ]
         }

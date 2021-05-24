@@ -2,138 +2,138 @@
     "content": [
         {
             "id": "001",
-            "name": "Jackbox Games (Abandoned)",
-            "giveTrophy":true
+            "name": "Jackbox Games (abandonado)",
+            "giveTrophy": true
         },
         {
             "id": "002",
             "name": "Binjpipe",
-            "giveTrophy":false
+            "giveTrophy": false
         },
         {
             "id": "003",
-            "name": "a very expensive building",
-            "giveTrophy":false
+            "name": "um prédio muito caro",
+            "giveTrophy": false
         },
         {
             "id": "004",
-            "name": "Mike Bilder Memorial Tower",
-            "giveTrophy":false
+            "name": "Torre Memorial Mike Bilder",
+            "giveTrophy": false
         },
         {
             "id": "005",
             "name": "Mic Drop Center",
-            "giveTrophy":false
+            "giveTrophy": false
         },
         {
             "id": "006",
-            "name": "Allard Laban School for the Arts",
-            "giveTrophy":false
+            "name": "Escola de Artes Allard Laban",
+            "giveTrophy": false
         },
         {
             "id": "007",
-            "name": "just your normal everyday building",
-            "giveTrophy":false
+            "name": "apenas sua construção normal de todos os dias",
+            "giveTrophy": false
         },
         {
             "id": "008",
-            "name": "Ben Jacobs Online College, offline campus",
-            "giveTrophy":false
+            "name": "Ben Jacobs Online College, campus offline",
+            "giveTrophy": false
         },
         {
             "id": "009",
-            "name": "Seer's Tower",
-            "giveTrophy":false
+            "name": "Torre do Vidente",
+            "giveTrophy": false
         },
         {
             "id": "010",
             "name": "Discount Explosives Inc.",
-            "giveTrophy":false
+            "giveTrophy": false
         },
         {
             "id": "011",
-            "name": "Bill Ding's Construction",
-            "giveTrophy":false
+            "name": "Construção de Bill Ding",
+            "giveTrophy": false
         },
         {
             "id": "012",
-            "name": "Warehouse Supply Warehouse",
-            "giveTrophy":false
+            "name": "Almoxarifado Almoxarifado",
+            "giveTrophy": false
         },
         {
             "id": "013",
-            "name": "Frank Lloyd Wrong Building",
-            "giveTrophy":false
+            "name": "Frank Lloyd Edifício Errado",
+            "giveTrophy": false
         },
         {
             "id": "014",
-            "name": "Not a Secret Hideout",
-            "giveTrophy":false
+            "name": "Não é um esconderijo secreto",
+            "giveTrophy": false
         },
         {
             "id": "015",
-            "name": "Puppy Hospital",
-            "giveTrophy":false
+            "name": "Hospital de Filhotes",
+            "giveTrophy": false
         },
         {
             "id": "016",
-            "name": "Ken's Fragile Objects Supply",
-            "giveTrophy":false
+            "name": "Fornecimento de objetos frágeis de Ken",
+            "giveTrophy": false
         },
         {
             "id": "017",
-            "name": "Informants Parking Garage",
-            "giveTrophy":false
+            "name": "Informantes Parking Garage",
+            "giveTrophy": false
         },
         {
             "id": "018",
             "name": "Breakthrough Medical Cures Inc.",
-            "giveTrophy":false
+            "giveTrophy": false
         },
         {
             "id": "019",
-            "name": "Center for Important Stuff & Things",
-            "giveTrophy":false
+            "name": "Centro para coisas e coisas importantes",
+            "giveTrophy": false
         },
         {
             "id": "020",
-            "name": "Putyerlefthand Institute",
-            "giveTrophy":false
+            "name": "Instituto Putyerlefthand",
+            "giveTrophy": false
         },
         {
             "id": "021",
             "name": "Dondestroyus-Pleez Center",
-            "giveTrophy":false
+            "giveTrophy": false
         },
         {
             "id": "022",
-            "name": "Museum of Future Art",
-            "giveTrophy":false
+            "name": "Museu de Arte do Futuro",
+            "giveTrophy": false
         },
         {
             "id": "023",
-            "name": "Bullina China Shop",
-            "giveTrophy":false
+            "name": "Touro em uma loja da China",
+            "giveTrophy": false
         },
         {
             "id": "024",
-            "name": "Titanic Building",
-            "giveTrophy":false
+            "name": "Edifício Titanic",
+            "giveTrophy": false
         },
         {
             "id": "025",
             "name": "Guy Towers",
-            "giveTrophy":false
+            "giveTrophy": false
         },
         {
             "id": "026",
-            "name": "Thetensionis Building",
-            "giveTrophy":false
+            "name": "Edifício Thetensionis",
+            "giveTrophy": false
         },
         {
             "id": "027",
-            "name": "Established Bank of Trust",
-            "giveTrophy":false
+            "name": "Banco de confiança estabelecido",
+            "giveTrophy": false
         }
     ]
 }

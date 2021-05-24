@@ -1,1 +1,33 @@
-{"episodeid":1396,"content":[{"hasOutro":false,"x":false,"id":55866,"text":"[EventName=HOST/AltHost]Do you give $50 of your game winnings to the \u201cexorcism\u201d fund?","pic":false,"choices":[{"controllerClass":"","correct":true,"text":"Yes. Donate $50. It\u2019s the right thing to do."},{"controllerClass":"","text":"No."},{"controllerClass":"","text":"No way."},{"controllerClass":"","text":"Let me think. Hmm.... no."}],"us":false,"hasIntro":false}]}
+{
+    "episodeid": 1396,
+    "content": [
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 55866,
+            "text": "[EventName = HOST / AltHost] Você dá $ 50 dos ganhos do seu jogo para o fundo de “exorcismo”?",
+            "pic": false,
+            "choices": [
+                {
+                    "controllerClass": "",
+                    "correct": true,
+                    "text": "Sim. Doe $ 50. É a coisa certa a fazer."
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Não."
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Sem chance."
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Deixe-me pensar. Hmm .... não."
+                }
+            ],
+            "us": false,
+            "hasIntro": false
+        }
+    ]
+}

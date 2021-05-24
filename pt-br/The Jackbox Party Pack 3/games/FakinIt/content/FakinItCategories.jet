@@ -1,35 +1,35 @@
 {
-    "episodeid": 0,
-    "content": [
-        {
-            "id": 0,
-            "type": "Hands",
-            "name": "Hands of Truth",
-            "duration": 3
-        },
-        {
-            "id": 1,
-            "type": "Pointing",
-            "name": "You Gotta Point",
-            "duration": 3
-        },
-        {
-            "id": 2,
-            "type": "Faces",
-            "name": "Face Value",
-            "duration": 3
-        },
-        {
-            "id": 3,
-            "type": "Counting",
-            "name": "Number Pressure",
-            "duration": 3
-        },
-        {
-            "id": 4,
-            "type": "Input",
-            "name": "Text You Up",
-            "duration": 90
-        }
-    ]
+   "episodeid": 0,
+   "content": [
+      {
+         "id": 0,
+         "type": "Mãos",
+         "name": "Mãos da verdade",
+         "duration": 3
+      },
+      {
+         "id": 1,
+         "type": "Apontando",
+         "name": "Você tem que apontar",
+         "duration": 3
+      },
+      {
+         "id": 2,
+         "type": "Rostos",
+         "name": "Valor nominal",
+         "duration": 3
+      },
+      {
+         "id": 3,
+         "type": "Contando",
+         "name": "Pressão numérica",
+         "duration": 3
+      },
+      {
+         "id": 4,
+         "type": "Entrada",
+         "name": "Envie uma mensagem de texto para você",
+         "duration": 90
+      }
+   ]
 }

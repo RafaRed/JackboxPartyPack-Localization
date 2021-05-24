@@ -3,1015 +3,1015 @@
         "listings": [
             {
                 "id": "ABRAM_VORMAN",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Abram Vorman",
                 "number": "7919666"
             },
             {
-                "id": "ACTLIKE",
-                "category": "ACTIVITY",
-                "name": "Act Like You've Been There Drama School",
+                "id": "AGIR COMO",
+                "category": "ATIVIDADE",
+                "name": "Aja como se você já tivesse passado por lá",
                 "number": "9795678"
             },
             {
                 "id": "ADRIAN_GOOF",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Adrian Goof",
                 "number": "2222288"
             },
             {
                 "id": "AGATHA_COFFI",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Agatha Coffin",
                 "number": "7186543"
             },
             {
                 "id": "AGNES_LONGBO",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Agnes Longbottom",
                 "number": "6669898"
             },
             {
                 "id": "AILEEN_TWADD",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Aileen Twaddle",
                 "number": "4319426"
             },
             {
                 "id": "DOCAJAY",
-                "category": "DOCTOR",
+                "category": "MÉDICO",
                 "name": "Ajay Gilderoy, MD",
                 "number": "5376976"
             },
             {
                 "id": "ALEJANDRA_RA",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Alejandra Raisinette",
                 "number": "9291066"
             },
             {
                 "id": "ALFRED_J._CH",
-                "category": "POSTOFFICE",
+                "category": "CORREIOS",
                 "name": "Alfred J. Charon Post Office",
                 "number": "6423217"
             },
             {
                 "id": "ALL-IS-FROST",
-                "category": "DESSERT",
-                "name": "All-Is-Frost Ice Cream",
+                "category": "SOBREMESA",
+                "name": "Sorvete All-Is-Frost",
                 "number": "4564567"
             },
             {
                 "id": "AMELIA_SMELT",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Amelia Smelting-Foxery",
                 "number": "6065678"
             },
             {
                 "id": "ANGRY_GEESE_",
-                "category": "PARK",
+                "category": "PARQUE",
                 "name": "Angry Geese Park",
                 "number": "3737322"
             },
             {
                 "id": "ANIMAL_CONTR",
                 "category": "ANIMALCONTROL",
-                "name": "Animal Control",
+                "name": "Controle Animal",
                 "number": "8856663"
             },
             {
                 "id": "ANNEK",
                 "category": "SHOPPING",
-                "name": "Anne's House of Door Keys",
+                "name": "Casa das Chaves da Porta de Anne",
                 "number": "9812681"
             },
             {
                 "id": "ANTENNA_RIPP",
-                "category": "ERRAND",
-                "name": "Antenna Rippers Car Wash",
+                "category": "INCUMBÊNCIA",
+                "name": "Antena Rippers Car Wash",
                 "number": "8227788"
             },
             {
                 "id": "ARMANDO_QUIX",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Armando Quixote",
                 "number": "5433421"
             },
             {
                 "id": "ARTIE_CLICKM",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Artie Clickman",
                 "number": "2666789"
             },
             {
                 "id": "ASHOK_KUMARV",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Ashok Kumarvelous",
                 "number": "3101983"
             },
             {
                 "id": "ASPEN_FANTIS",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Aspen Fantismo",
                 "number": "2102223"
             },
             {
                 "id": "ASTERTRAIN",
-                "category": "TRAIN",
-                "name": "Aster Roth Train Station",
+                "category": "COMBOIO",
+                "name": "Estação de trem Aster Roth",
                 "number": "9873000"
             },
             {
                 "id": "FLEMM",
-                "category": "STORY",
-                "name": "Aunt Flemm",
+                "category": "HISTÓRIA",
+                "name": "Tia flemm",
                 "number": "8815432"
             },
             {
                 "id": "HECUBA",
-                "category": "STORY",
-                "name": "Aunt Hecuba",
+                "category": "HISTÓRIA",
+                "name": "Tia hecuba",
                 "number": "2105999"
             },
             {
                 "id": "THE_BACON_BA",
-                "category": "FOOD",
+                "category": "COMIDA",
                 "name": "The Bacon Barn",
                 "number": "5676789"
             },
             {
                 "id": "BASKETS_OF_R",
-                "category": "FOOD",
-                "name": "Baskets of Robins",
+                "category": "COMIDA",
+                "name": "Cestas de Robins",
                 "number": "9693587"
             },
             {
                 "id": "BASS_INSTINC",
-                "category": "ACTIVITY",
-                "name": "Bass Instincts Guitar Lessons",
+                "category": "ATIVIDADE",
+                "name": "Aulas de guitarra de baixo instinto",
                 "number": "4566229"
             },
             {
                 "id": "BEN_JACOBS",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Ben Jacobs",
                 "number": "2107822"
             },
             {
                 "id": "BERDIE_FABBL",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Berdie Fabble",
                 "number": "9735040"
             },
             {
                 "id": "BESHAVE_YOUR",
-                "category": "BARBER",
-                "name": "Beshave Yourself",
+                "category": "BARBEIRO",
+                "name": "Cuide de si mesmo",
                 "number": "9812681"
             },
             {
                 "id": "BIGBAND_INTE",
-                "category": "UTILITIES",
-                "name": "BigBand Internet Service",
+                "category": "SERVIÇOS DE UTILIDADE PÚBLICA",
+                "name": "Serviço de Internet BigBand",
                 "number": "8498765"
             },
             {
                 "id": "BIGROCK",
-                "category": "MUSEUM",
-                "name": "Big Rock Astronomical Observatory",
+                "category": "MUSEU",
+                "name": "Observatório Astronômico Big Rock",
                 "number": "2225577"
             },
             {
                 "id": "BIG_SNAKE_PO",
-                "category": "PARK",
-                "name": "Big Snake Pond",
+                "category": "PARQUE",
+                "name": "Lagoa da Cobra Grande",
                 "number": "2522345"
             },
             {
                 "id": "BIKE_MILDER",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Bike Milder",
                 "number": "4648769"
             },
             {
                 "id": "BILLS_BANKRU",
-                "category": "THEATER",
-                "name": "Bill's Bankrupt Independent Theater",
+                "category": "TEATRO",
+                "name": "Teatro Independente da Falência de Bill",
                 "number": "9556665"
             },
             {
-                "id": "BOBO’S:_HOME",
-                "category": "FOOD",
-                "name": "Bobo’s: Home of the Thrown Kebabs",
+                "id": "BOBO'S: _HOME",
+                "category": "COMIDA",
+                "name": "Bobo's: casa dos kebabs lançados",
                 "number": "9878484"
             },
             {
-                "id": "BOB_ROBSON’S",
-                "category": "CAR",
-                "name": "Bob Robson’s Single-Use Autos",
+                "id": "BOB_ROBSON'S",
+                "category": "CARRO",
+                "name": "Automóveis de uso único de Bob Robson",
                 "number": "7895432"
             },
             {
                 "id": "BONIFACE_CHE",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Boniface Cheebles",
                 "number": "7384666"
             },
             {
                 "id": "BONK_CROCKLE",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Bonk Crockley",
                 "number": "4950123"
             },
             {
                 "id": "BRASSY_BREND",
-                "category": "ACTIVITY",
-                "name": "Brassy Brenda's Trumpet Lessons",
+                "category": "ATIVIDADE",
+                "name": "Lições de trompete de Brassy Brenda",
                 "number": "3635678"
             },
             {
                 "id": "YANLUO",
-                "category": "TEACHER",
+                "category": "PROFESSOR",
                 "name": "Brenda Yanluo",
                 "number": "5715550"
             },
             {
                 "id": "BROKEN_SEAT_",
-                "category": "THEATER",
-                "name": "Broken Seat Cinemas",
+                "category": "TEATRO",
+                "name": "Cinemas Assentos Quebrados",
                 "number": "5678888"
             },
             {
                 "id": "BUD_NEEDLETO",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Bud Needletoes",
                 "number": "4320666"
             },
             {
                 "id": "BUG-B-BYE-BY",
-                "category": "EXTERMINATOR",
-                "name": "Bug-B-Bye-Bye Exterminators",
+                "category": "EXTERMINADOR",
+                "name": "Exterminadores Bug-B-Tchau",
                 "number": "5024242"
             },
             {
                 "id": "BUILD-A-BRA-",
                 "category": "SHOPPING",
-                "name": "Build-A-Bra-Workshop",
+                "name": "Oficina Build-A-Bra",
                 "number": "8580099"
             },
             {
                 "id": "BURPIE_HALE",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Burpie Hale",
                 "number": "3668934"
             },
             {
                 "id": "THE_BUTTER_T",
-                "category": "FOOD",
+                "category": "COMIDA",
                 "name": "The Butter Trough",
                 "number": "9650000"
             },
             {
-                "id": "BUYNFOOD",
-                "category": "GROCERY",
-                "name": "Buy 'n Food",
+                "id": "COMPRAR ALIMENTOS",
+                "category": "MERCADO",
+                "name": "Compre 'n Food",
                 "number": "8631010"
             },
             {
-                "id": "BY-THE-POUND",
-                "category": "FOOD",
-                "name": "By-The-Pound Buffet",
+                "id": "POR-A-LIBRA",
+                "category": "COMIDA",
+                "name": "Buffet por quilo",
                 "number": "6784444"
             },
             {
                 "id": "CABBAGE_THOM",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Cabbage Thompson Jr.",
                 "number": "4146555"
             },
             {
                 "id": "CAKED_N_LOAD",
-                "category": "DESSERT",
-                "name": "Caked n' Loaded",
+                "category": "SOBREMESA",
+                "name": "Caked n 'Loaded",
                 "number": "6662345"
             },
             {
                 "id": "CALGARY_CHUM",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Calgary Chumprints",
                 "number": "4441234"
             },
             {
                 "id": "CANDOKENDU",
-                "category": "ACTIVITY",
+                "category": "ATIVIDADE",
                 "name": "Can-Do Kendo",
                 "number": "8762220"
             },
             {
                 "id": "CARMELLA_WHO",
-                "category": "RESIDENCE",
-                "name": "Carmella Whoopingcough",
+                "category": "RESIDÊNCIA",
+                "name": "Carmella tosse convulsa",
                 "number": "3285184"
             },
             {
                 "id": "CARNIVAL_WIL",
-                "category": "RESIDENCE",
-                "name": "Carnival Wilson",
+                "category": "RESIDÊNCIA",
+                "name": "Carnaval wilson",
                 "number": "5039666"
             },
             {
                 "id": "THE_CAR_SIDE",
-                "category": "CAR",
-                "name": "The Car Side",
+                "category": "CARRO",
+                "name": "O lado do carro",
                 "number": "3203339"
             },
             {
                 "id": "CASH_4_GOLD_",
-                "category": "ERRAND",
-                "name": "Cash 4 Gold 4 Seeds 4 Less",
+                "category": "INCUMBÊNCIA",
+                "name": "Dinheiro 4 Ouro 4 Sementes 4 Menos",
                 "number": "4443894"
             },
             {
                 "id": "CASSIEL",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Cassiel Seraph",
                 "number": "7063456"
             },
             {
-                "id": "CAVE_O’_SAVI",
+                "id": "CAVE_O'_SAVI",
                 "category": "SHOPPING",
-                "name": "Cave O’ Savings",
+                "name": "Cave O 'Savings",
                 "number": "4321554"
             },
             {
                 "id": "CECELIA_BAGG",
-                "category": "RESIDENCE",
-                "name": "Cecelia Baggage",
+                "category": "RESIDÊNCIA",
+                "name": "Bagagem Cecelia",
                 "number": "2342130"
             },
             {
-                "id": "CERAMIC",
-                "category": "ACTIVITY",
+                "id": "CERÂMICA",
+                "category": "ATIVIDADE",
                 "name": "Ceramic Panic",
                 "number": "9312929"
             },
             {
                 "id": "CHAP_PIER",
-                "category": "ERRAND",
+                "category": "INCUMBÊNCIA",
                 "name": "Chap-Pier-One",
                 "number": "5432220"
             },
             {
                 "id": "CHASE_MCCLUR",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Chase McClure",
                 "number": "9395552"
             },
             {
                 "id": "CHATTY_CARL",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Chatty Carl",
                 "number": "9388765"
             },
             {
                 "id": "CHIB_SPITTLE",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Chib Spittleton",
                 "number": "2222226"
             },
             {
                 "id": "CHIKN_4_U",
-                "category": "FOOD",
+                "category": "COMIDA",
                 "name": "Chikn 4 U",
                 "number": "6788881"
             },
             {
                 "id": "THE_CHILI_FO",
-                "category": "FOOD",
-                "name": "The Chili Fountain",
+                "category": "COMIDA",
+                "name": "A fonte do pimentão",
                 "number": "7890001"
             },
             {
                 "id": "CHOIRBEWARE",
-                "category": "ACTIVITY",
-                "name": "Choir Beware Singing Lessons",
+                "category": "ATIVIDADE",
+                "name": "Coro Cuidado, Aulas de Canto",
                 "number": "3764440"
             },
             {
                 "id": "CIRQUE_DU_SQ",
-                "category": "ENTERTAINMENT",
+                "category": "ENTRETENIMENTO",
                 "name": "Cirque du Squirrel",
                 "number": "5954554"
             },
             {
-                "id": "CITYHALL",
+                "id": "CÂMARA MUNICIPAL",
                 "category": "GOV",
-                "name": "City Hall",
+                "name": "Câmara Municipal",
                 "number": "9876543"
             },
             {
-                "id": "C.J._O’BALLY",
-                "category": "FOOD",
-                "name": "C.J. O’Ballyhoo’s American Eatery",
+                "id": "CJ_O'BALLY",
+                "category": "COMIDA",
+                "name": "CJ O'Ballyhoo's American Eatery",
                 "number": "5357777"
             },
             {
-                "id": "CLEARANCE-ME",
+                "id": "ESCLARECIMENTO-ME",
                 "category": "TELEMARKETING",
                 "name": "Clearance-Meat Jerky Club",
                 "number": "7877740"
             },
             {
                 "id": "CLIFF_CHOLER",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Cliff Cholera",
                 "number": "3196057"
             },
             {
                 "id": "CLORA_HEAD",
-                "category": "RESIDENCE",
-                "name": "Clora Head",
+                "category": "RESIDÊNCIA",
+                "name": "Cabeça de clora",
                 "number": "9820222"
             },
             {
                 "id": "CLOVERTONS_R",
-                "category": "ACTIVITY",
-                "name": "Cloverton's Rec Center",
+                "category": "ATIVIDADE",
+                "name": "Centro de recreação de Cloverton",
                 "number": "3218666"
             },
             {
-                "id": "CONTAINER",
+                "id": "RECIPIENTE",
                 "category": "SHOPPING",
-                "name": "Container Contentment",
+                "name": "Contentor de contêineres",
                 "number": "7652222"
             },
             {
-                "id": "CONTEMPORARY",
-                "category": "MUSEUM",
-                "name": "Contemporary Art Museum For Dads",
+                "id": "CONTEMPORÂNEO",
+                "category": "MUSEU",
+                "name": "Museu de Arte Contemporânea para Pais",
                 "number": "9841234"
             },
             {
-                "id": "CORAL’S_JR._",
-                "category": "FOOD",
-                "name": "Coral’s Jr. Seafood",
+                "id": "CORAL'S_JR._",
+                "category": "COMIDA",
+                "name": "Coral's Jr. Seafood",
                 "number": "7121234"
             },
             {
                 "id": "CORDUROY_P._",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Corduroy P. Munke",
                 "number": "3218593"
             },
             {
                 "id": "DOCCORKY",
-                "category": "DOCTOR",
+                "category": "MÉDICO",
                 "name": "Corky Zigzag, MD",
                 "number": "9870123"
             },
             {
                 "id": "CORNCOB_MCBI",
-                "category": "RESIDENCE",
-                "name": "Corncob McBilge",
+                "category": "RESIDÊNCIA",
+                "name": "Sabugo de milho McBilge",
                 "number": "9174751"
             },
             {
                 "id": "CORNWALLACE_",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Cornwallace Stickle",
                 "number": "7501234"
             },
             {
                 "id": "COWARD_APPLE",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Coward Appleton",
                 "number": "4464949"
             },
             {
                 "id": "COYO",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Coyo Kaleido",
                 "number": "6726868"
             },
             {
                 "id": "CRAIGJACOBS",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Craig Jacobs",
                 "number": "7190044"
             },
             {
                 "id": "CRIMP_BEARDB",
-                "category": "RESIDENCE",
-                "name": "Crimp Beardbody",
+                "category": "RESIDÊNCIA",
+                "name": "Crimpagem Beardbody",
                 "number": "4068068"
             },
             {
                 "id": "CYRUS_MCNABB",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Cyrus McNabbers",
                 "number": "7808436"
             },
             {
                 "id": "DAPHNE_ORNER",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Daphne Ornery",
                 "number": "4092876"
             },
             {
                 "id": "DAREDARE",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Daredare Si",
                 "number": "8459876"
             },
             {
                 "id": "KITTY_CARE",
-                "category": "VET",
-                "name": "Decent Kitty Care",
+                "category": "VETERINARIO",
+                "name": "Cuidados decentes para gatinhos",
                 "number": "9374999"
             },
             {
                 "id": "DELILAH_HUCK",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Delilah Hucksuckle",
                 "number": "7658451"
             },
             {
                 "id": "DELLBERT_MIN",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Dellbert Mints",
                 "number": "9995552"
             },
             {
                 "id": "DEVILS_FAMIL",
-                "category": "HOME",
-                "name": "Devils Family",
+                "category": "CASA",
+                "name": "Família Devils",
                 "number": "5529481"
             },
             {
                 "id": "DIRT_PILE_PA",
-                "category": "PARK",
+                "category": "PARQUE",
                 "name": "Dirt Pile Park",
                 "number": "5433939"
             },
             {
                 "id": "DJ_MIXMASTER",
-                "category": "ENTERTAINMENT",
+                "category": "ENTRETENIMENTO",
                 "name": "DJ Mixmaster Max Mustermann",
                 "number": "7501116"
             },
             {
-                "id": "DOG_CAT",
-                "category": "VET",
-                "name": "Dog & Cat Repair",
+                "id": "CACHORRO GATO",
+                "category": "VETERINARIO",
+                "name": "Conserto de cães e gatos",
                 "number": "4390000"
             },
             {
                 "id": "DONNA_CHAFFI",
-                "category": "ACTIVITY",
-                "name": "Donna Chaffington's Dance Studio",
+                "category": "ATIVIDADE",
+                "name": "Estúdio de dança de Donna Chaffington",
                 "number": "7379876"
             },
             {
-                "id": "DOUG’S_YOGA_",
+                "id": "DOUG'S_YOGA_",
                 "category": "SHOPPING",
-                "name": "Doug’s Yoga and Bait",
+                "name": "Ioga e isca de Doug",
                 "number": "4328222"
             },
             {
                 "id": "DRAWING-A-BL",
                 "category": "SHOPPING",
-                "name": "Drawing-A-Blank Art Supplies",
+                "name": "Materiais para arte de desenho em branco",
                 "number": "3727799"
             },
             {
                 "id": "MEOWSKI",
-                "category": "VET",
+                "category": "VETERINARIO",
                 "name": "Dr. Meowski DVM",
                 "number": "4327069"
             },
             {
-                "id": "DUMPY’S_DISC",
+                "id": "DUMPY'S_DISC",
                 "category": "SHOPPING",
-                "name": "Dumpy’s Discount Cargo Pants",
+                "name": "Calças Cargo com Desconto de Dumpy",
                 "number": "5671356"
             },
             {
                 "id": "EDITH_WICKER",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Edith Wickerbasket",
                 "number": "8982525"
             },
             {
                 "id": "EERIEACRES",
                 "category": "NURSINGHOME",
-                "name": "Eerie Acres Retirement Home",
+                "name": "Casa de aposentados Eerie Acres",
                 "number": "5275550"
             },
             {
                 "id": "ELFRIEDA_MUL",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Elfrieda Mulberry",
                 "number": "6796870"
             },
             {
                 "id": "EMILY",
                 "category": "SHOPPING",
-                "name": "Emily's Slightly Corrupted Gems",
+                "name": "Joias Levemente Corrompidas de Emily",
                 "number": "7770999"
             },
             {
                 "id": "EMMALINE",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Emmaline Morris",
                 "number": "8762220"
             },
             {
                 "id": "E.ROY_FINLEY",
-                "category": "DENTIST",
+                "category": "DENTISTA",
                 "name": "E.Roy Finley, DDS",
                 "number": "9658104"
             },
             {
                 "id": "EZEKIEL_HORS",
-                "category": "RESIDENCE",
-                "name": "Ezekiel Horsefeather",
+                "category": "RESIDÊNCIA",
+                "name": "Ezequiel Horsefeather",
                 "number": "5434040"
             },
             {
                 "id": "FANCIFUL_AUN",
                 "category": "SHOPPING",
-                "name": "Fanciful Aunt Home Decor",
+                "name": "Decoração de casa fantástica da tia",
                 "number": "3457018"
             },
             {
                 "id": "FANCY_PANTS_",
-                "category": "THEATER",
-                "name": "Fancy Pants Cinemas",
+                "category": "TEATRO",
+                "name": "Cinemas Fancy Pants",
                 "number": "3891450"
             },
             {
                 "id": "FEDORA_JENKI",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Fedora Jenkins",
                 "number": "3179933"
             },
             {
                 "id": "FERD_PARKING",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Ferd Parkington",
                 "number": "4243076"
             },
             {
                 "id": "FERGUSONS_DI",
-                "category": "ACTIVITY",
-                "name": "Ferguson's Discount Piano Lessons",
+                "category": "ATIVIDADE",
+                "name": "Aulas de piano com desconto de Ferguson",
                 "number": "4440123"
             },
             {
                 "id": "FINEAID",
-                "category": "PHARMACY",
-                "name": "Fine Aid Pharmacy",
+                "category": "FARMACIA",
+                "name": "Farmácia Fine Aid",
                 "number": "7955678"
             },
             {
                 "id": "FIXISIN",
-                "category": "CONTRACTOR",
-                "name": "The-Fix-Is-In Construction",
+                "category": "CONTRATANTE",
+                "name": "Construção The-Fix-Is-In",
                 "number": "8768765"
             },
             {
                 "id": "FLINT_PEMPLE",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Flint Pemples",
                 "number": "5456543"
             },
             {
                 "id": "FLORENCE_BUT",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Florence Butt",
                 "number": "3213737"
             },
             {
                 "id": "FOGGY_LAGOON",
-                "category": "PARK",
+                "category": "PARQUE",
                 "name": "Foggy Lagoon Park",
                 "number": "4341234"
             },
             {
                 "id": "FORREST_SMAL",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Forrest Smallmouth",
                 "number": "5434321"
             },
             {
                 "id": "FRAGRANTPHIL",
-                "category": "TAXI",
-                "name": "Fragrant Phil's Taxi Service",
+                "category": "TÁXI",
+                "name": "Serviço de táxi perfumado de Phil",
                 "number": "9872224"
             },
             {
                 "id": "DOCFRANK",
-                "category": "DOCTOR",
+                "category": "MÉDICO",
                 "name": "Frank Spongeman, MD",
                 "number": "9230001"
             },
             {
                 "id": "FULANO_DE_TA",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Fulano de Tallgrass",
                 "number": "6786666"
             },
             {
                 "id": "THE_GABERDIN",
                 "category": "SHOPPING",
-                "name": "The Gaberdine Joey: Aussie Kids Clothing",
+                "name": "The Gaberdine Joey: roupas infantis australianas",
                 "number": "7896271"
             },
             {
                 "id": "GABRIEL_TOOT",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Gabriel Tootlebloom",
                 "number": "3754539"
             },
             {
                 "id": "GALE_TIDDLYW",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Gale Tiddlywinks",
                 "number": "3109876"
             },
             {
                 "id": "GARLAND_MCRA",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Garland McRae",
                 "number": "6964449"
             },
             {
                 "id": "GARYTENG",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Gary Tengu",
                 "number": "4564444"
             },
             {
                 "id": "GAS_N_SUSHI",
-                "category": "FOOD",
-                "name": "Gas N’ Sushi",
+                "category": "COMIDA",
+                "name": "Gas N 'Sushi",
                 "number": "5654443"
             },
             {
                 "id": "GEARS_N_BEER",
-                "category": "CAR",
-                "name": "Gears N Beers Autoshop and Brewery",
+                "category": "CARRO",
+                "name": "Autoshop e cervejaria da Gears N Beers",
                 "number": "6782512"
             },
             {
-                "id": "GENTLYUSED",
-                "category": "GROCERY",
-                "name": "Gently Used Produce",
+                "id": "SUAVEMENTE UTILIZADO",
+                "category": "MERCADO",
+                "name": "Produtos delicadamente usados",
                 "number": "7433535"
             },
             {
                 "id": "GERTRUDE_DIX",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Gertrude Dixie",
                 "number": "7657744"
             },
             {
                 "id": "UNAS",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Gijs F Unas III",
                 "number": "7305749"
             },
             {
                 "id": "GINNY_ST._PO",
-                "category": "BOSS",
-                "name": "Ginny St. Porridge",
+                "category": "CHEFE",
+                "name": "Ginny St. Mingau",
                 "number": "7770999"
             },
             {
                 "id": "GNUTE_IPSWIT",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Gnute Ipswitch",
                 "number": "2109292"
             },
             {
                 "id": "GORTNOY_CORN",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Gortnoy Cornmedley",
                 "number": "4863788"
             },
             {
                 "id": "THE_GREASY_F",
-                "category": "FOOD",
-                "name": "The Greasy Fork",
+                "category": "COMIDA",
+                "name": "O garfo gorduroso",
                 "number": "2625757"
             },
             {
                 "id": "GRETTA_GRISS",
-                "category": "BOSS",
+                "category": "CHEFE",
                 "name": "Gretta Grisspiddler",
                 "number": "3230444"
             },
             {
                 "id": "THE_GRISTLE_",
-                "category": "FOOD",
+                "category": "COMIDA",
                 "name": "The Gristle Spot",
                 "number": "9391234"
             },
             {
                 "id": "HALLEY",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Halley Jacobs",
                 "number": "5980404"
             },
             {
                 "id": "HAM_BY_THE_F",
-                "category": "FOOD",
-                "name": "Ham By The Foot",
+                "category": "COMIDA",
+                "name": "Presunto a pé",
                 "number": "2471082"
             },
             {
                 "id": "HAND_TURKEY_",
-                "category": "MUSEUM",
-                "name": "Hand Turkey Art Museum",
+                "category": "MUSEU",
+                "name": "Museu de Arte Hand Turkey",
                 "number": "9347654"
             },
             {
                 "id": "THE_HAPPY_BO",
-                "category": "FOOD",
+                "category": "COMIDA",
                 "name": "The Happy Bowel Vegan Buffet",
                 "number": "7655049"
             },
             {
                 "id": "HAPPY_HAMSMA",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Happy Hamsmanning",
                 "number": "5041333"
             },
             {
                 "id": "HAPPY_SCALES",
-                "category": "ERRAND",
+                "category": "INCUMBÊNCIA",
                 "name": "Happy Scales Lizard Salon",
                 "number": "7653210"
             },
             {
                 "id": "HARVEY_NUTTS",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Harvey Nutts",
                 "number": "6279238"
             },
             {
-                "id": "HEAPIN’_HEAP",
-                "category": "CAR",
-                "name": "Heapin’ Heaps o’ Heaps",
+                "id": "HEAPIN'_HEAP",
+                "category": "CARRO",
+                "name": "Montes de montes de montes",
                 "number": "4185000"
             },
             {
                 "id": "HECK_PANCAKE",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Heck Pancake",
                 "number": "2379000"
             },
             {
                 "id": "MODHOLLY",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Holly T. Small",
                 "number": "9312929"
             },
             {
                 "id": "HORACE_OAF",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Horace Oaf",
                 "number": "2136363"
             },
             {
                 "id": "IGNACIO_FIRE",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Ignacio Firestarter",
                 "number": "5256008"
             },
             {
                 "id": "IMP_FANCY",
-                "category": "MAGAZINE",
+                "category": "REVISTA",
                 "name": "Imp Fancy",
                 "number": "4447722"
             },
             {
                 "id": "INFERNAL_AFF",
-                "category": "MAGAZINE",
-                "name": "Infernal Affairs",
+                "category": "REVISTA",
+                "name": "Negócios infernais",
                 "number": "7221333"
             },
             {
                 "id": "INSECT_RELOC",
-                "category": "EXTERMINATOR",
-                "name": "Insect Relocation Services",
+                "category": "EXTERMINADOR",
+                "name": "Serviços de realocação de insetos",
                 "number": "5676999"
             },
             {
                 "id": "THE_INTERNAT",
-                "category": "MUSEUM",
-                "name": "The International Museum of Corn Dogs",
+                "category": "MUSEU",
+                "name": "O Museu Internacional de Corn Dogs",
                 "number": "4237676"
             },
             {
                 "id": "INVESTINAL_F",
-                "category": "ERRAND",
-                "name": "Investinal Fortitude Savings and Loan",
+                "category": "INCUMBÊNCIA",
+                "name": "Poupança Investinal Fortitude e Empréstimo",
                 "number": "3339988"
             },
             {
                 "id": "ISAAC_JEPHCO",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Isaac Jephcots",
                 "number": "6363333"
             },
             {
                 "id": "IVY_TRICKLE",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Ivy Trickle",
                 "number": "5652226"
             },
             {
                 "id": "JANET_BORGLE",
-                "category": "DENTIST",
+                "category": "DENTISTA",
                 "name": "Janet Borgleman, DDS",
                 "number": "3218765"
             },
             {
                 "id": "JEAN_DUPONTE",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Jean Duponte Cristo",
                 "number": "2229876"
             },
             {
-                "id": "JEFF_“GEOFF”",
-                "category": "RESIDENCE",
+                "id": "JEFF_ “GEOFF”",
+                "category": "RESIDÊNCIA",
                 "name": "Jeff “Geoff” Jefferstein",
                 "number": "7101111"
             },
             {
                 "id": "JEFF_HANSEN",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Jeff Hansen",
                 "number": "7649999"
             },
             {
-                "id": "JEN’S_VEGAN_",
+                "id": "JEN'S_VEGAN_",
                 "category": "SHOPPING",
-                "name": "Jen’s Vegan Bathmats",
+                "name": "Tapetes de banho vegan de Jen",
                 "number": "4695599"
             },
             {
                 "id": "JIM_JAMES_JO",
-                "category": "DENTIST",
+                "category": "DENTISTA",
                 "name": "Jim James Jonatheux, DDS",
                 "number": "6788281"
             },
             {
                 "id": "JIMMINY_MYRO",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Jimminy Myron Crankenfitz",
                 "number": "9487779"
             },
             {
                 "id": "JIMMY_DURANT",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Jimmy Duranto",
                 "number": "3434567"
             },
             {
                 "id": "JOANNA_CUSTA",
-                "category": "RESIDENCE",
-                "name": "Joanna Custardio",
+                "category": "RESIDÊNCIA",
+                "name": "Joanna custardio",
                 "number": "8884321"
             },
             {
                 "id": "JOHN_BORING",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "John Boring",
                 "number": "2621010"
             },
             {
                 "id": "JOHN_KANGARO",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "John Kangaroo",
                 "number": "2348270"
             },
             {
                 "id": "JOHNNY_GUMLA",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Johnny Gumlately",
                 "number": "8769999"
             },
             {
-                "id": "JOHN’S_IRREG",
+                "id": "JOHN'S_IRREG",
                 "category": "SHOPPING",
-                "name": "John’s Irregular Casket Shop",
+                "name": "John's Irregular Casket Shop",
                 "number": "5551747"
             },
             {
-                "id": "“ONION”_CROT",
-                "category": "RESIDENCE",
+                "id": "“CEBOLA” _CROT",
+                "category": "RESIDÊNCIA",
                 "name": "J. “Onion” Crotchswaddle",
                 "number": "9092214"
             },
@@ -1024,174 +1024,174 @@
             {
                 "id": "JUST_OLD_CAL",
                 "category": "SHOPPING",
-                "name": "Just Old Calendars",
+                "name": "Apenas calendários antigos",
                 "number": "2423636"
             },
             {
-                "id": "KAREN’S_NON-",
+                "id": "KAREN'S_NON-",
                 "category": "SHOPPING",
-                "name": "Karen’s Non-Possessed Doll Shop",
+                "name": "Loja de bonecas não-possuídas de Karen",
                 "number": "6638880"
             },
             {
                 "id": "KATESTARK",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Kate Stark",
                 "number": "3764440"
             },
             {
                 "id": "KAY",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Kayla Swift",
                 "number": "2102222"
             },
             {
                 "id": "KELLYP",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Kelly Paleczny",
                 "number": "3218666"
             },
             {
                 "id": "KEVIN_PULLMA",
-                "category": "DENTIST",
+                "category": "DENTISTA",
                 "name": "Kevin Pullman, DDS",
                 "number": "9797575"
             },
             {
                 "id": "KIP_ORTIZ",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Kip Ortiz",
                 "number": "6786789"
             },
             {
                 "id": "KISS_PISTAS_",
                 "category": "SHOPPING",
-                "name": "Kiss Pista's Pistachio Kisses",
+                "name": "Beije os beijos de pistache da Pista",
                 "number": "9593456"
             },
             {
                 "id": "KURTIMUK",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Kurt I. Mukha",
                 "number": "7714441"
             },
             {
-                "id": "LACEY’S_TABL",
+                "id": "LACEY'S_TABL",
                 "category": "SHOPPING",
-                "name": "Lacey’s Tablecloths & Gowns",
+                "name": "Toalhas de mesa e vestidos de Lacey",
                 "number": "7657222"
             },
             {
-                "id": "LEFTY’S_UNPA",
+                "id": "LEFTY'S_UNPA",
                 "category": "SHOPPING",
-                "name": "Lefty’s Unpaired Gloves",
+                "name": "Luvas não emparelhadas de Lefty",
                 "number": "5674445"
             },
             {
                 "id": "MODLEMON",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Lem N. Forlolz",
                 "number": "7379876"
             },
             {
                 "id": "LEON_FISHBUC",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Leon Fishbucket",
                 "number": "4443335"
             },
             {
                 "id": "LEROY_BOWDIT",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Leroy Bowditch",
                 "number": "3137333"
             },
             {
                 "id": "LIGHTLY_STOL",
-                "category": "CAR",
-                "name": "Lightly Stolen Cars",
+                "category": "CARRO",
+                "name": "Carros Levemente Roubados",
                 "number": "9920005"
             },
             {
                 "id": "LIKUMARI",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Li Kumari",
                 "number": "4544321"
             },
             {
-                "id": "LIL_“LI’L_GO",
-                "category": "RESIDENCE",
-                "name": "Lil “Li’l Goober” Goober",
+                "id": "LIL_ “LI'L_GO",
+                "category": "RESIDÊNCIA",
+                "name": "Lil “Li'l Goober” Goober",
                 "number": "2884444"
             },
             {
                 "id": "LITTLE_LORD_",
-                "category": "ACTIVITY",
+                "category": "ATIVIDADE",
                 "name": "Little Lord Little League Fields",
                 "number": "2343333"
             },
             {
                 "id": "LOGAN_LEE",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Logan Lee",
                 "number": "2046660"
             },
             {
                 "id": "LUELLA_BEDWE",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Luella Bedwetter",
                 "number": "4964567"
             },
             {
                 "id": "LUKE_POODTOO",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Luke Poodtootle",
                 "number": "6608888"
             },
             {
                 "id": "LULABELLE_GE",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Lulabelle Gertz-Smalley",
                 "number": "4329819"
             },
             {
                 "id": "MABEL_RUSTBU",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Mabel Rustbucket",
                 "number": "9198789"
             },
             {
                 "id": "MADAM_HARRIE",
-                "category": "PSYCHIC",
+                "category": "PSÍQUICO",
                 "name": "Madam Harriet's Psychic Hotline",
                 "number": "9486565"
             },
             {
                 "id": "MANNYMAN",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Manny Manananggal",
                 "number": "4843344"
             },
             {
                 "id": "MAN_VANDERSL",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Man Vanderslice",
                 "number": "9658866"
             },
             {
                 "id": "MARJORIE_HUM",
-                "category": "BOSS",
+                "category": "CHEFE",
                 "name": "Marjorie Humid",
                 "number": "7347111"
             },
             {
                 "id": "RADIO_SHOW2",
-                "category": "RADIO",
-                "name": "Marty and the Fuzz Drive-Time Radio",
+                "category": "RÁDIO",
+                "name": "Marty e o Fuzz Drive-Time Radio",
                 "number": "4837654"
             },
             {
                 "id": "MATILDA_LAMP",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Matilda Lampfoot",
                 "number": "7657779"
             },
@@ -1203,541 +1203,541 @@
             },
             {
                 "id": "MENGANOWU",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Mengano Wu",
                 "number": "7658882"
             },
             {
                 "id": "MID-LIFE_CRI",
-                "category": "CAR",
-                "name": "Mid-life Crisis Sports Cars",
+                "category": "CARRO",
+                "name": "Carros esportivos da crise para meia-idade",
                 "number": "3330777"
             },
             {
                 "id": "MILESAISLES",
-                "category": "GROCERY",
-                "name": "Miles of Aisles Discount Market",
+                "category": "MERCADO",
+                "name": "Mercado de descontos de milhas de corredores",
                 "number": "7541152"
             },
             {
                 "id": "MIND_YOUR_OW",
-                "category": "ENTERTAINMENT",
-                "name": "Mind Your Own Beeswax Candlemaking Studio",
+                "category": "ENTRETENIMENTO",
+                "name": "Cuide do seu próprio estúdio de fabricação de velas de cera de abelha",
                 "number": "7128889"
             },
             {
                 "id": "MISC._RIB_SH",
-                "category": "FOOD",
+                "category": "COMIDA",
                 "name": "Misc. Rib Shack",
                 "number": "2591112"
             },
             {
                 "id": "MOM_FATHERMA",
-                "category": "RESIDENCE",
-                "name": "Mom Fatherman",
+                "category": "RESIDÊNCIA",
+                "name": "Mãe pai homem",
                 "number": "7576867"
             },
             {
                 "id": "MORDECHAI_H.",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Mordechai H. Sizzle",
                 "number": "2616543"
             },
             {
                 "id": "MORTEN_MENIG",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Morten Menigmandible",
                 "number": "6315555"
             },
             {
                 "id": "MOSTLY_NO-KI",
-                "category": "EXTERMINATOR",
-                "name": "Mostly No-Kill Pest Removal",
+                "category": "EXTERMINADOR",
+                "name": "Principalmente remoção de pragas sem matar",
                 "number": "5402288"
             },
             {
                 "id": "MURRY_BRUIN",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Murry Bruin",
                 "number": "8863331"
             },
             {
                 "id": "MUSEUM_ART",
-                "category": "MUSEUM",
-                "name": "The Museum of “Art”",
+                "category": "MUSEU",
+                "name": "O Museu de “Arte”",
                 "number": "9105959"
             },
             {
                 "id": "MUSEUM_BENCHES",
-                "category": "MUSEUM",
-                "name": "The Museum of Benches",
+                "category": "MUSEU",
+                "name": "O Museu dos Bancos",
                 "number": "2288909"
             },
             {
                 "id": "MUSEUM_OF_CL",
-                "category": "MUSEUM",
-                "name": "Museum of Clever Bumper Stickers",
+                "category": "MUSEU",
+                "name": "Museu de adesivos inteligentes",
                 "number": "3459999"
             },
             {
                 "id": "MUSEUM_OF_PO",
-                "category": "MUSEUM",
-                "name": "Museum of Potato Chips That Look Like Things",
+                "category": "MUSEU",
+                "name": "Museu das batatas fritas que parecem coisas",
                 "number": "8803300"
             },
             {
                 "id": "MUSEUM_OF_SC",
-                "category": "MUSEUM",
-                "name": "Museum of Science and Hearsay",
+                "category": "MUSEU",
+                "name": "Museu da Ciência e dos Boatos",
                 "number": "3063333"
             },
             {
-                "id": "MYSTERIOUS_C",
-                "category": "PARK",
+                "id": "MISTERIOUS_C",
+                "category": "PARQUE",
                 "name": "Mysterious Crevice Park",
                 "number": "2724237"
             },
             {
                 "id": "MYSTIC_PHILI",
-                "category": "PSYCHIC",
-                "name": "Mystic Philip's High Quality Medium Service",
+                "category": "PSÍQUICO",
+                "name": "Serviço médio de alta qualidade do Mystic Philip",
                 "number": "7307774"
             },
             {
                 "id": "NANDBEAR",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Nan D. Bear",
                 "number": "9662222"
             },
             {
                 "id": "NASA",
                 "category": "NASA",
-                "name": "National Aeronautics and Space Administration",
+                "name": "administração Nacional Aeronáutica e Espacial",
                 "number": "5675642"
             },
             {
-                "id": "NINE_CIRCLES",
-                "category": "MAGAZINE",
-                "name": "Nine Circles Circular",
+                "id": "NOVE_CÍRCULOS",
+                "category": "REVISTA",
+                "name": "Nove Círculos Circulares",
                 "number": "6366688"
             },
             {
-                "id": "NOTHING_BUT_",
+                "id": "NADA ALÉM DE_",
                 "category": "SHOPPING",
-                "name": "Nothing But Toilet Seats",
+                "name": "Nada além de assentos sanitários",
                 "number": "6197878"
             },
             {
                 "id": "OLD_BONES_CR",
-                "category": "DESSERT",
+                "category": "SOBREMESA",
                 "name": "Old Bones Creamery",
                 "number": "9877079"
             },
             {
                 "id": "OLD_RAISIN_W",
-                "category": "FOOD",
+                "category": "COMIDA",
                 "name": "Old Raisin Winery",
                 "number": "2343444"
             },
             {
-                "id": "OL’_HAMBONE’",
-                "category": "MUSEUM",
-                "name": "Ol’ Hambone’s Pig Petting Zoo",
+                "id": "OL'_HAMBONE '",
+                "category": "MUSEU",
+                "name": "Pig Zoológico de Ol 'Hambone",
                 "number": "5393555"
             },
             {
                 "id": "OMNI",
-                "category": "FILMSTUDIO",
+                "category": "ESTÚDIO DE FILMAGEM",
                 "name": "Omnipresent Studios",
                 "number": "3791444"
             },
             {
                 "id": "PARTYTOWNSHIP",
-                "category": "PARTY",
+                "category": "FESTA",
                 "name": "Party Township",
                 "number": "2089494"
             },
             {
                 "id": "PAY-BY-THE-M",
-                "category": "ENTERTAINMENT",
-                "name": "Pay-By-The-Minute Roller Coasters",
+                "category": "ENTRETENIMENTO",
+                "name": "Montanhas-russas com pagamento por minuto",
                 "number": "3457711"
             },
             {
                 "id": "PENNY_PLINKS",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Penny Plinkstein",
                 "number": "9373331"
             },
             {
                 "id": "PENSCRAFTERS",
-                "category": "ERRAND",
-                "name": "PensCrafters 1-Hour Pens",
+                "category": "INCUMBÊNCIA",
+                "name": "PensCrafters Canetas de 1 hora",
                 "number": "9495454"
             },
             {
                 "id": "PEPA_Z._DEPA",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Pepa Z. Depa",
                 "number": "5791177"
             },
             {
                 "id": "PEPPER-VEGAN",
-                "category": "FOOD",
-                "name": "Pepper-Phonies Vegan Pizza",
+                "category": "COMIDA",
+                "name": "Pizza Vegan Pepper-Phonies",
                 "number": "6465555"
             },
             {
                 "id": "PET_VET",
-                "category": "VET",
-                "name": "The Pet Vet",
+                "category": "VETERINARIO",
+                "name": "O veterinário de animais",
                 "number": "6545555"
             },
             {
                 "id": "PHO-GETTA_BO",
-                "category": "FOOD",
+                "category": "COMIDA",
                 "name": "Pho-getta Bout It!",
                 "number": "9435432"
             },
             {
                 "id": "PINCO_PALLIN",
                 "category": "SHOPPING",
-                "name": "Pinco Pallino's Pastry Palace",
+                "name": "Palácio da Pastelaria de Pinco Pallino",
                 "number": "6564321"
             },
             {
                 "id": "PIZZA_FUN_TI",
-                "category": "FOOD",
+                "category": "COMIDA",
                 "name": "Pizza Fun Time",
                 "number": "6788883"
             },
             {
-                "id": "PLANETARIUM_",
-                "category": "MUSEUM",
-                "name": "Planetarium of the Apes",
+                "id": "PLANETÁRIO_",
+                "category": "MUSEU",
+                "name": "Planetário dos Macacos",
                 "number": "5677000"
             },
             {
                 "id": "POOPSIE_GUMB",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Poopsie Gumball",
                 "number": "3459933"
             },
             {
                 "id": "POORLY_LABEL",
-                "category": "ERRAND",
-                "name": "Poorly Labelled Salt and/or Sugar Supply",
+                "category": "INCUMBÊNCIA",
+                "name": "Abastecimento de sal e / ou açúcar mal rotulado",
                 "number": "8384422"
             },
             {
                 "id": "POPSICLE_STI",
-                "category": "MUSEUM",
+                "category": "MUSEU",
                 "name": "Popsicle Stick Louvre",
                 "number": "6266818"
             },
             {
                 "id": "PORCH_DEBRIS",
                 "category": "SHOPPING",
-                "name": "Porch Debris Warehouse",
+                "name": "Alpendre Armazém de Detritos",
                 "number": "4445389"
             },
             {
-                "id": "PRETENTIOUS_",
-                "category": "MAGAZINE",
-                "name": "Pretentious Home & Yard",
+                "id": "PRETENSIOSO_",
+                "category": "REVISTA",
+                "name": "Casa e quintal pretensiosos",
                 "number": "3500123"
             },
             {
                 "id": "PRIYAGIL",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Priya Gildong",
                 "number": "7784466"
             },
             {
                 "id": "PSYCHIC_ENEM",
-                "category": "PSYCHIC",
-                "name": "Psychic Enemies Network",
+                "category": "PSÍQUICO",
+                "name": "Rede de inimigos psíquicos",
                 "number": "6783131"
             },
             {
                 "id": "FIX_A_VAC",
-                "category": "UTILITIES",
+                "category": "SERVIÇOS DE UTILIDADE PÚBLICA",
                 "name": "Quik Fix-A-Vac",
                 "number": "4713210"
             },
             {
                 "id": "QUITE-A-REPA",
-                "category": "UTILITIES",
-                "name": "Quite-A-Repair",
+                "category": "SERVIÇOS DE UTILIDADE PÚBLICA",
+                "name": "Bastante Reparo",
                 "number": "4652222"
             },
             {
                 "id": "IMPUNDULU",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Rebecca Impundulu",
                 "number": "2526694"
             },
             {
                 "id": "RIDEDONT",
-                "category": "TAXI",
-                "name": "Ride or Don't Taxi Service",
+                "category": "TÁXI",
+                "name": "Viaje ou não pegue o serviço de táxi",
                 "number": "3077555"
             },
             {
                 "id": "RILEY",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Riley Phoenix",
                 "number": "6542555"
             },
             {
                 "id": "RIVERS_BANK",
-                "category": "ERRAND",
+                "category": "INCUMBÊNCIA",
                 "name": "Rivers Bank",
                 "number": "2747722"
             },
             {
-                "id": "ROB_CAMITTI’",
-                "category": "CAR",
-                "name": "Rob Camitti’s Superfluous Cars",
+                "id": "ROB_CAMITTI '",
+                "category": "CARRO",
+                "name": "Carros supérfluos de Rob Camitti",
                 "number": "3677154"
             },
             {
                 "id": "RODENT_RAP",
-                "category": "EXTERMINATOR",
-                "name": "Rodent Capture & Rapture",
+                "category": "EXTERMINADOR",
+                "name": "Captura e arrebatamento de roedores",
                 "number": "9048444"
             },
             {
                 "id": "RONALD_STOOL",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Ronald Stoolback",
                 "number": "4561923"
             },
             {
                 "id": "RYAN_D",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Ryan DiGiorgi",
                 "number": "4440123"
             },
             {
                 "id": "RYDASH",
                 "category": "SHOPPING",
-                "name": "Rye Dash: Fastest Bread in Town",
+                "name": "Rye Dash: o pão mais rápido da cidade",
                 "number": "3230444"
             },
             {
                 "id": "SALON_AND_HA",
-                "category": "BARBER",
-                "name": "Salon And Hair-Well",
+                "category": "BARBEIRO",
+                "name": "Salão de beleza e cabeleireiro",
                 "number": "4321554"
             },
             {
                 "id": "SAMUEL_RAINT",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Samuel Raintoot",
                 "number": "2223335"
             },
             {
                 "id": "SANTIAGO_LEM",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Santiago Lemontoe",
                 "number": "2108898"
             },
             {
                 "id": "SCENIC_UNDER",
-                "category": "PARK",
-                "name": "Scenic Underlook",
+                "category": "PARQUE",
+                "name": "Vista panorâmica",
                 "number": "6343355"
             },
             {
                 "id": "SHELBY_HODDL",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Shelby Hoddle",
                 "number": "7908811"
             },
             {
                 "id": "SHERMAN_LYNE",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Sherman Lyness",
                 "number": "8385559"
             },
             {
                 "id": "SHIRT-OUTTA-",
-                "category": "ERRAND",
-                "name": "Shirt-Outta-Luck Dry Cleaners",
+                "category": "INCUMBÊNCIA",
+                "name": "Tinturaria-camisa-sorte-a-seco",
                 "number": "3450006"
             },
             {
                 "id": "SIDNEY_HAMMO",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Sidney Hammockman",
                 "number": "3455111"
             },
             {
                 "id": "SLOW_AND_STE",
-                "category": "ERRAND",
-                "name": "Slow and Steady Pigeon Messaging Service",
+                "category": "INCUMBÊNCIA",
+                "name": "Serviço lento e constante de mensagens do pombo",
                 "number": "9760001"
             },
             {
                 "id": "SMARMTABLE",
-                "category": "GROCERY",
+                "category": "MERCADO",
                 "name": "Smarm to Table Sarcastic Grocers",
                 "number": "7381234"
             },
             {
-                "id": "SNARF_&_HURL",
-                "category": "FOOD",
+                "id": "SNARF _ & _ HURL",
+                "category": "COMIDA",
                 "name": "Snarf & Hurl",
                 "number": "5775432"
             },
             {
                 "id": "SPECIAL_AGEN",
-                "category": "RESIDENCE",
-                "name": "Special Agent Normal Neighborman",
+                "category": "RESIDÊNCIA",
+                "name": "Agente especial vizinho normal",
                 "number": "2724422"
             },
             {
                 "id": "SPEEDYGET",
-                "category": "TRAVELAGENT",
-                "name": "Speedy Getaway Travel Agency",
+                "category": "AGENTE DE VIAGENS",
+                "name": "Agência de viagens Speedy Getaway",
                 "number": "6933399"
             },
             {
-                "id": "SPOONS_‘R_WE",
+                "id": "SPOONS_'R_WE",
                 "category": "SHOPPING",
-                "name": "Spoons ‘R We",
+                "name": "Spoons 'R We",
                 "number": "3453355"
             },
             {
                 "id": "SREDNESTATIS",
-                "category": "CAR",
+                "category": "CARRO",
                 "name": "Srednestatisticheskiy Sedans",
                 "number": "2104444"
             },
             {
                 "id": "MODSTAD",
                 "category": "SHOPPING",
-                "name": "Stad's Thawed Pre-Jawed Scrod",
+                "name": "Scrod com mandíbula descongelado de Stad",
                 "number": "2772227"
             },
             {
                 "id": "STEVE_PHLANS",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Steve Phlansby",
                 "number": "3865013"
             },
             {
                 "id": "SYLVESTER_BR",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Sylvester Brunch",
                 "number": "2825222"
             },
             {
                 "id": "TAD_THOODLE",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Tad Thoodle",
                 "number": "2529974"
             },
             {
                 "id": "TAKEMERIDE",
-                "category": "TAXI",
-                "name": "Take Me for a Ride Cab Co.",
+                "category": "TÁXI",
+                "name": "Leve-me para um passeio de táxi Co.",
                 "number": "5651333"
             },
             {
                 "id": "TEEDS_WYVERN",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Teeds Wyvern",
                 "number": "8791234"
             },
             {
                 "id": "TEENAGE_WAIS",
                 "category": "SHOPPING",
-                "name": "Teenage Waistline",
+                "name": "Cintura adolescente",
                 "number": "6545063"
             },
             {
                 "id": "TGIH_YEAR-RO",
                 "category": "SHOPPING",
-                "name": "TGIH Year-Round Halloween Depot",
+                "name": "TGIH Halloween Depot o ano todo",
                 "number": "3266190"
             },
             {
                 "id": "THREE_MINUTE",
-                "category": "ENTERTAINMENT",
-                "name": "Three Minute Escape Rooms",
+                "category": "ENTRETENIMENTO",
+                "name": "Salas de fuga de três minutos",
                 "number": "6549876"
             },
             {
                 "id": "THURMAN_NOGO",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Thurman Nogood",
                 "number": "9395656"
             },
             {
                 "id": "TIM_SIMIAN_C",
-                "category": "ERRAND",
+                "category": "INCUMBÊNCIA",
                 "name": "Tim Simian Chimp Mechanic",
                 "number": "6034000"
             },
             {
                 "id": "TIPSYTUNE",
-                "category": "CAR",
-                "name": "Tipsy Tune's Unsteady Autos",
+                "category": "CARRO",
+                "name": "Automóveis instáveis do Tipsy Tune",
                 "number": "4566229"
             },
             {
                 "id": "MODTOAD",
                 "category": "SHOPPING",
-                "name": "Toadboy's Slightly Used Reptiles",
+                "name": "Répteis ligeiramente usados do Toadboy",
                 "number": "6782512"
             },
             {
                 "id": "TOM_PUDDING",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Tom Pudding",
                 "number": "4246737"
             },
             {
                 "id": "TOOT_POOTLAD",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Toot Pootladder",
                 "number": "6781717"
             },
             {
                 "id": "TRENT",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Trent Jormbo",
                 "number": "3458886"
             },
             {
                 "id": "TV_ADDICTS_G",
-                "category": "MAGAZINE",
-                "name": "TV Addict's Guide",
+                "category": "REVISTA",
+                "name": "Guia do viciado em TV",
                 "number": "3385544"
             },
             {
-                "id": "UNDERCOUNTER",
-                "category": "PHARMACY",
-                "name": "Under the Counter Pharmacy",
+                "id": "DEBAIXO DO BALCÃO",
+                "category": "FARMACIA",
+                "name": "Farmácia de balcão",
                 "number": "6373210"
             },
             {
                 "id": "MODUXIE",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "U. Xie",
                 "number": "2343333"
             },
             {
                 "id": "VANCE_VANVAN",
-                "category": "CAR",
-                "name": "Vance VanVan’s Van Lot",
+                "category": "CARRO",
+                "name": "Van Lot de Vance VanVan",
                 "number": "2935971"
             },
             {
                 "id": "VARDENIS_PAV",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Vardenis Pavardenis",
                 "number": "3458333"
             },
@@ -1749,38 +1749,38 @@
             },
             {
                 "id": "VINCENT_PRIC",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Vincent Pricecheck",
                 "number": "5550003"
             },
             {
                 "id": "VIVIAN_STICK",
-                "category": "DENTIST",
+                "category": "DENTISTA",
                 "name": "Vivian Stickler, DDS",
                 "number": "2102555"
             },
             {
                 "id": "THE_WALKEN_C",
-                "category": "MUSEUM",
+                "category": "MUSEU",
                 "name": "The Walken Clinic",
                 "number": "5670007"
             },
             {
                 "id": "WANGZ",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Wang Zutano",
                 "number": "2424678"
             },
             {
                 "id": "WATERDANCE",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Waterdance",
                 "number": "9151508"
             },
             {
                 "id": "WELCOME_TO_Y",
-                "category": "ERRAND",
-                "name": "Welcome to Yarnia",
+                "category": "INCUMBÊNCIA",
+                "name": "Bem vindo a yarnia",
                 "number": "9355511"
             },
             {
@@ -1790,75 +1790,75 @@
                 "number": "5025678"
             },
             {
-                "id": "WILFORD_O’HI",
-                "category": "RESIDENCE",
-                "name": "Wilford O’Hicks",
+                "id": "WILFORD_O'HI",
+                "category": "RESIDÊNCIA",
+                "name": "Wilford O'Hicks",
                 "number": "8853434"
             },
             {
                 "id": "WOK_THIS_WAY",
-                "category": "FOOD",
-                "name": "Wok This Way",
+                "category": "COMIDA",
+                "name": "Wok assim",
                 "number": "6960666"
             },
             {
                 "id": "WRECKIN_CREW",
-                "category": "THEATER",
-                "name": "Wreckin' Crew Theatre",
+                "category": "TEATRO",
+                "name": "Wreckin 'Crew Theatre",
                 "number": "3996444"
             },
             {
                 "id": "WYLIE_SKIDD",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Wylie Skidd",
                 "number": "5261947"
             },
             {
                 "id": "RADIO_SHOW1",
-                "category": "RADIO",
-                "name": "Yakkin' Zack AM Radio Show",
+                "category": "RÁDIO",
+                "name": "Programa de rádio Yakkin 'Zack AM",
                 "number": "3834222"
             },
             {
                 "id": "YAKKITY",
-                "category": "ACTIVITY",
+                "category": "ATIVIDADE",
                 "name": "Yakkity Kayak Whitewater Rafting",
                 "number": "9491112"
             },
             {
                 "id": "YAMADA_HONEY",
-                "category": "BOSS",
+                "category": "CHEFE",
                 "name": "Yamada Honeycomb",
                 "number": "2772227"
             },
             {
                 "id": "MODYOSUP",
                 "category": "SHOPPING",
-                "name": "Yosup's To-Go Cups",
+                "name": "Taças To-Go do Yosup",
                 "number": "3330777"
             },
             {
                 "id": "MODZAK",
-                "category": "RESIDENCE",
+                "category": "RESIDÊNCIA",
                 "name": "Zak Zakaryas",
                 "number": "9491112"
             },
             {
                 "id": "DOCZHANG",
-                "category": "DOCTOR",
+                "category": "MÉDICO",
                 "name": "Zhang Pérez, MD",
                 "number": "8416804"
             },
             {
                 "id": "ZIPPY",
-                "category": "POSTOFFICE",
+                "category": "CORREIOS",
                 "name": "Zippy Zip Memorial Post Office",
                 "number": "9876551"
             },
             {
-                "id": "ZUZU’S_KETTL",
+                "id": "ZUZU'S_KETTL",
                 "category": "SHOPPING",
-                "name": "Zuzu’s Kettles",
+                "name": "Chaleiras de zuzu",
                 "number": "2484949"
             }
         ]

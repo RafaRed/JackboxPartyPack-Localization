@@ -1,552 +1,552 @@
 {
     "content": [
         {
-            "id": 1, 
-            "topic": "baby"
-        }, 
+            "id": 1,
+            "topic": "bebê"
+        },
         {
-            "id": 2, 
-            "topic": "noodle"
-        }, 
+            "id": 2,
+            "topic": "macarrão"
+        },
         {
-            "id": 3, 
+            "id": 3,
             "topic": "poodle"
-        }, 
+        },
         {
-            "id": 4, 
-            "topic": "freedom"
-        }, 
+            "id": 4,
+            "topic": "liberdade"
+        },
         {
-            "id": 5, 
-            "topic": "tuna"
-        }, 
+            "id": 5,
+            "topic": "atum"
+        },
         {
-            "id": 6, 
-            "topic": "cream cheese"
-        }, 
+            "id": 6,
+            "topic": "Requeijão cremoso"
+        },
         {
-            "id": 7, 
-            "topic": "horse"
-        }, 
+            "id": 7,
+            "topic": "cavalo"
+        },
         {
-            "id": 8, 
-            "topic": "body wash"
-        }, 
+            "id": 8,
+            "topic": "sabonete líquido"
+        },
         {
-            "id": 9, 
-            "topic": "fish tank"
-        }, 
+            "id": 9,
+            "topic": "aquário"
+        },
         {
-            "id": 10, 
-            "topic": "controversy"
-        }, 
+            "id": 10,
+            "topic": "controvérsia"
+        },
         {
-            "id": 11, 
-            "topic": "dunk tank"
-        }, 
+            "id": 11,
+            "topic": "tanque de imersão"
+        },
         {
-            "id": 12, 
-            "topic": "lawyer"
-        }, 
+            "id": 12,
+            "topic": "advogado"
+        },
         {
-            "id": 13, 
-            "topic": "sunshine"
-        }, 
+            "id": 13,
+            "topic": "brilho do sol"
+        },
         {
-            "id": 14, 
-            "topic": "sidewalk"
-        }, 
+            "id": 14,
+            "topic": "calçada"
+        },
         {
-            "id": 15, 
-            "topic": "submarine"
-        }, 
+            "id": 15,
+            "topic": "submarino"
+        },
         {
-            "id": 16, 
-            "topic": "vision board"
-        }, 
+            "id": 16,
+            "topic": "Quadro de visão"
+        },
         {
-            "id": 17, 
+            "id": 17,
             "topic": "tater tot"
-        }, 
+        },
         {
-            "id": 18, 
-            "topic": "emotion"
-        }, 
+            "id": 18,
+            "topic": "emoção"
+        },
         {
-            "id": 19, 
-            "topic": "kangaroo"
-        }, 
+            "id": 19,
+            "topic": "canguru"
+        },
         {
-            "id": 20, 
-            "topic": "corduroy"
-        }, 
+            "id": 20,
+            "topic": "veludo cotelê"
+        },
         {
-            "id": 21, 
-            "topic": "historical fiction"
-        }, 
+            "id": 21,
+            "topic": "ficção histórica"
+        },
         {
-            "id": 22, 
-            "topic": "tiger"
-        }, 
+            "id": 22,
+            "topic": "tigre"
+        },
         {
-            "id": 23, 
-            "topic": "river delta"
-        }, 
+            "id": 23,
+            "topic": "delta do rio"
+        },
         {
-            "id": 24, 
-            "topic": "mandated curfew"
-        }, 
+            "id": 24,
+            "topic": "toque de recolher obrigatório"
+        },
         {
-            "id": 25, 
-            "topic": "shoe horn"
-        }, 
+            "id": 25,
+            "topic": "chifre de sapato"
+        },
         {
-            "id": 26, 
-            "topic": "acid rain"
-        }, 
+            "id": 26,
+            "topic": "chuva ácida"
+        },
         {
-            "id": 27, 
-            "topic": "flute solo"
-        }, 
+            "id": 27,
+            "topic": "solo de flauta"
+        },
         {
-            "id": 28, 
-            "topic": "diaper"
-        }, 
+            "id": 28,
+            "topic": "fralda"
+        },
         {
-            "id": 29, 
-            "topic": "dog park"
-        }, 
+            "id": 29,
+            "topic": "Parque de cães"
+        },
         {
-            "id": 30, 
-            "topic": "daddy"
-        }, 
+            "id": 30,
+            "topic": "Papai"
+        },
         {
-            "id": 31, 
-            "topic": "biscuit"
-        }, 
+            "id": 31,
+            "topic": "bolacha"
+        },
         {
-            "id": 32, 
-            "topic": "depression"
-        }, 
+            "id": 32,
+            "topic": "depressão"
+        },
         {
-            "id": 33, 
-            "topic": "extra guacamole"
-        }, 
+            "id": 33,
+            "topic": "guacamole extra"
+        },
         {
-            "id": 34, 
-            "topic": "yogurt parfait"
-        }, 
+            "id": 34,
+            "topic": "iogurte parfait"
+        },
         {
-            "id": 35, 
-            "topic": "shame"
-        }, 
+            "id": 35,
+            "topic": "vergonha"
+        },
         {
-            "id": 36, 
-            "topic": "underworld"
-        }, 
+            "id": 36,
+            "topic": "submundo"
+        },
         {
-            "id": 37, 
-            "topic": "fish stick"
-        }, 
+            "id": 37,
+            "topic": "vara de peixe"
+        },
         {
-            "id": 38, 
-            "topic": "wireless router"
-        }, 
+            "id": 38,
+            "topic": "roteador sem fio"
+        },
         {
-            "id": 39, 
-            "topic": "soul patch"
-        }, 
+            "id": 39,
+            "topic": "remendo de alma"
+        },
         {
-            "id": 40, 
-            "topic": "ghost"
-        }, 
+            "id": 40,
+            "topic": "fantasma"
+        },
         {
-            "id": 41, 
-            "topic": "scented candle"
-        }, 
+            "id": 41,
+            "topic": "Vela perfumada"
+        },
         {
-            "id": 42, 
-            "topic": "pony ride"
-        }, 
+            "id": 42,
+            "topic": "passeio de pônei"
+        },
         {
-            "id": 43, 
-            "topic": "floss"
-        }, 
+            "id": 43,
+            "topic": "fio dental"
+        },
         {
-            "id": 44, 
+            "id": 44,
             "topic": "waffle"
-        }, 
+        },
         {
-            "id": 45, 
-            "topic": "bubble wrap"
-        }, 
+            "id": 45,
+            "topic": "plástico bolha"
+        },
         {
-            "id": 46, 
-            "topic": "therapy"
-        }, 
+            "id": 46,
+            "topic": "terapia"
+        },
         {
-            "id": 47, 
-            "topic": "loveseat"
-        }, 
+            "id": 47,
+            "topic": "namoradeira"
+        },
         {
-            "id": 48, 
-            "topic": "public hearing"
-        }, 
+            "id": 48,
+            "topic": "audiência pública"
+        },
         {
-            "id": 49, 
-            "topic": "mullet"
-        }, 
+            "id": 49,
+            "topic": "salmonete"
+        },
         {
-            "id": 50, 
-            "topic": "arson"
-        }, 
+            "id": 50,
+            "topic": "incêndio culposo"
+        },
         {
-            "id": 51, 
-            "topic": "patio set"
-        }, 
+            "id": 51,
+            "topic": "conjunto de pátio"
+        },
         {
-            "id": 52, 
-            "topic": "succulent"
-        }, 
+            "id": 52,
+            "topic": "suculento"
+        },
         {
-            "id": 53, 
+            "id": 53,
             "topic": "milkshake"
-        }, 
+        },
         {
-            "id": 54, 
-            "topic": "sea salt"
-        }, 
+            "id": 54,
+            "topic": "sal marinho"
+        },
         {
-            "id": 55, 
-            "topic": "lobster"
-        }, 
+            "id": 55,
+            "topic": "lagosta"
+        },
         {
-            "id": 56, 
-            "topic": "crushed ice"
-        }, 
+            "id": 56,
+            "topic": "gelo moído"
+        },
         {
-            "id": 57, 
-            "topic": "flight attendant"
-        }, 
+            "id": 57,
+            "topic": "comissária de bordo"
+        },
         {
-            "id": 58, 
-            "topic": "statistic"
-        }, 
+            "id": 58,
+            "topic": "estatística"
+        },
         {
-            "id": 59, 
-            "topic": "smooth jazz"
-        }, 
+            "id": 59,
+            "topic": "jazz suave"
+        },
         {
-            "id": 60, 
-            "topic": "cold call"
-        }, 
+            "id": 60,
+            "topic": "chamada fria"
+        },
         {
-            "id": 61, 
-            "topic": "pageant winner"
-        }, 
+            "id": 61,
+            "topic": "vencedor do concurso"
+        },
         {
-            "id": 62, 
-            "topic": "turkey wrap"
-        }, 
+            "id": 62,
+            "topic": "enroladinho de peru"
+        },
         {
-            "id": 63, 
-            "topic": "compact car"
-        }, 
+            "id": 63,
+            "topic": "carro compacto"
+        },
         {
-            "id": 64, 
-            "topic": "millennial"
-        }, 
+            "id": 64,
+            "topic": "milenar"
+        },
         {
-            "id": 65, 
-            "topic": "rock quarry"
-        }, 
+            "id": 65,
+            "topic": "pedreira"
+        },
         {
-            "id": 66, 
-            "topic": "blueberry"
-        }, 
+            "id": 66,
+            "topic": "mirtilo"
+        },
         {
-            "id": 67, 
-            "topic": "gemstone"
-        }, 
+            "id": 67,
+            "topic": "pedra preciosa"
+        },
         {
-            "id": 68, 
-            "topic": "3-ring binder"
-        }, 
+            "id": 68,
+            "topic": "Fichário de 3 argolas"
+        },
         {
-            "id": 69, 
-            "topic": "enemy"
-        }, 
+            "id": 69,
+            "topic": "inimigo"
+        },
         {
-            "id": 70, 
-            "topic": "deli platter"
-        }, 
+            "id": 70,
+            "topic": "prato de delicatessen"
+        },
         {
-            "id": 71, 
+            "id": 71,
             "topic": "katana"
-        }, 
+        },
         {
-            "id": 72, 
+            "id": 72,
             "topic": "magma"
-        }, 
+        },
         {
-            "id": 73, 
-            "topic": "amoeba"
-        }, 
+            "id": 73,
+            "topic": "ameba"
+        },
         {
-            "id": 74, 
-            "topic": "saxophone"
-        }, 
+            "id": 74,
+            "topic": "saxofone"
+        },
         {
-            "id": 75, 
-            "topic": "porta potty"
-        }, 
+            "id": 75,
+            "topic": "porta penico"
+        },
         {
-            "id": 76, 
-            "topic": "glitter glue"
-        }, 
+            "id": 76,
+            "topic": "cola glitter"
+        },
         {
-            "id": 77, 
-            "topic": "suppertime"
-        }, 
+            "id": 77,
+            "topic": "hora do jantar"
+        },
         {
-            "id": 78, 
-            "topic": "sundial"
-        }, 
+            "id": 78,
+            "topic": "relógio de sol"
+        },
         {
-            "id": 79, 
-            "topic": "doppelganger"
-        }, 
+            "id": 79,
+            "topic": "sósia"
+        },
         {
-            "id": 80, 
-            "topic": "roommate"
-        }, 
+            "id": 80,
+            "topic": "colega de quarto"
+        },
         {
-            "id": 81, 
-            "topic": "divorce"
-        }, 
+            "id": 81,
+            "topic": "divórcio"
+        },
         {
-            "id": 82, 
-            "topic": "philosophy"
-        }, 
+            "id": 82,
+            "topic": "filosofia"
+        },
         {
-            "id": 83, 
-            "topic": "tragedy"
-        }, 
+            "id": 83,
+            "topic": "tragédia"
+        },
         {
-            "id": 84, 
-            "topic": "salami"
-        }, 
+            "id": 84,
+            "topic": "salame"
+        },
         {
-            "id": 85, 
-            "topic": "bee sting"
-        }, 
+            "id": 85,
+            "topic": "picada de abelha"
+        },
         {
-            "id": 86, 
-            "topic": "vinegar based coleslaw"
-        }, 
+            "id": 86,
+            "topic": "salada de repolho à base de vinagre"
+        },
         {
-            "id": 87, 
-            "topic": "clip-on tie"
-        }, 
+            "id": 87,
+            "topic": "gravata clipada"
+        },
         {
-            "id": 88, 
-            "topic": "diarrhea"
-        }, 
+            "id": 88,
+            "topic": "diarréia"
+        },
         {
-            "id": 89, 
-            "topic": "beeper"
-        }, 
+            "id": 89,
+            "topic": "bip"
+        },
         {
-            "id": 90, 
-            "topic": "hoverboard"
-        }, 
+            "id": 90,
+            "topic": "prancha"
+        },
         {
-            "id": 91, 
-            "topic": "interruption"
-        }, 
+            "id": 91,
+            "topic": "interrupção"
+        },
         {
-            "id": 92, 
-            "topic": "freak"
-        }, 
+            "id": 92,
+            "topic": "doido"
+        },
         {
-            "id": 93, 
-            "topic": "cheese puff"
-        }, 
+            "id": 93,
+            "topic": "Pão de Queijo"
+        },
         {
-            "id": 94, 
-            "topic": "donkey"
-        }, 
+            "id": 94,
+            "topic": "asno"
+        },
         {
-            "id": 95, 
-            "topic": "night terror"
-        }, 
+            "id": 95,
+            "topic": "terror noturno"
+        },
         {
-            "id": 96, 
-            "topic": "simulation"
-        }, 
+            "id": 96,
+            "topic": "simulação"
+        },
         {
-            "id": 97, 
-            "topic": "youth culture"
-        }, 
+            "id": 97,
+            "topic": "cultura jovem"
+        },
         {
-            "id": 98, 
-            "topic": "hot sauce"
-        }, 
+            "id": 98,
+            "topic": "molho picante"
+        },
         {
-            "id": 99, 
-            "topic": "bingo"
-        }, 
+            "id": 99,
+            "topic": "Bingo"
+        },
         {
-            "id": 100, 
-            "topic": "bath time"
-        }, 
+            "id": 100,
+            "topic": "hora do banho"
+        },
         {
-            "id": 101, 
-            "topic": "geometry"
-        }, 
+            "id": 101,
+            "topic": "geometria"
+        },
         {
-            "id": 102, 
-            "topic": "trust fall"
-        }, 
+            "id": 102,
+            "topic": "queda de confiança"
+        },
         {
-            "id": 103, 
-            "topic": "speed dating"
-        }, 
+            "id": 103,
+            "topic": "encontro rapido"
+        },
         {
-            "id": 104, 
-            "topic": "melancholy"
-        }, 
+            "id": 104,
+            "topic": "melancólico"
+        },
         {
-            "id": 105, 
-            "topic": "nihilism"
-        }, 
+            "id": 105,
+            "topic": "niilismo"
+        },
         {
-            "id": 106, 
-            "topic": "parkour"
-        }, 
+            "id": 106,
+            "topic": "Parkour"
+        },
         {
-            "id": 107, 
+            "id": 107,
             "topic": "romance"
-        }, 
+        },
         {
-            "id": 108, 
-            "topic": "dune buggy"
-        }, 
+            "id": 108,
+            "topic": "buggy de duna"
+        },
         {
-            "id": 109, 
+            "id": 109,
             "topic": "marketing"
-        }, 
+        },
         {
-            "id": 110, 
-            "topic": "sincerity"
-        }, 
+            "id": 110,
+            "topic": "sinceridade"
+        },
         {
-            "id": 111, 
-            "topic": "cruise control"
-        }, 
+            "id": 111,
+            "topic": "controle de cruzeiro"
+        },
         {
-            "id": 112, 
-            "topic": "Arbor Day"
-        }, 
+            "id": 112,
+            "topic": "Dia da Árvore"
+        },
         {
-            "id": 113, 
-            "topic": "depression"
-        }, 
+            "id": 113,
+            "topic": "depressão"
+        },
         {
-            "id": 114, 
-            "topic": "dystopia"
-        }, 
+            "id": 114,
+            "topic": "distopia"
+        },
         {
-            "id": 115, 
-            "topic": "education"
-        }, 
+            "id": 115,
+            "topic": "Educação"
+        },
         {
-            "id": 116, 
-            "topic": "stinker"
-        }, 
+            "id": 116,
+            "topic": "fedorento"
+        },
         {
-            "id": 117, 
-            "topic": "corruption"
-        }, 
+            "id": 117,
+            "topic": "corrupção"
+        },
         {
-            "id": 118, 
-            "topic": "flirting"
-        }, 
+            "id": 118,
+            "topic": "flertando"
+        },
         {
-            "id": 119, 
-            "topic": "embarrassment"
-        }, 
+            "id": 119,
+            "topic": "embaraço"
+        },
         {
-            "id": 120, 
-            "topic": "composting"
-        }, 
+            "id": 120,
+            "topic": "compostagem"
+        },
         {
-            "id": 121, 
+            "id": 121,
             "topic": "DNA"
-        }, 
+        },
         {
-            "id": 122, 
-            "topic": "fashion"
-        }, 
+            "id": 122,
+            "topic": "moda"
+        },
         {
-            "id": 123, 
-            "topic": "empathy"
-        }, 
+            "id": 123,
+            "topic": "empatia"
+        },
         {
-            "id": 124, 
-            "topic": "exercise"
-        }, 
+            "id": 124,
+            "topic": "exercício"
+        },
         {
-            "id": 125, 
-            "topic": "gaming"
-        }, 
+            "id": 125,
+            "topic": "jogos"
+        },
         {
-            "id": 126, 
-            "topic": "gender"
-        }, 
+            "id": 126,
+            "topic": "Gênero sexual"
+        },
         {
-            "id": 127, 
-            "topic": "humblebrag"
-        }, 
+            "id": 127,
+            "topic": "humilde"
+        },
         {
-            "id": 128, 
-            "topic": "ignorance"
-        }, 
+            "id": 128,
+            "topic": "ignorância"
+        },
         {
-            "id": 129, 
-            "topic": "irony"
-        }, 
+            "id": 129,
+            "topic": "ironia"
+        },
         {
-            "id": 130, 
-            "topic": "jealousy"
-        }, 
+            "id": 130,
+            "topic": "ciúmes"
+        },
         {
-            "id": 131, 
-            "topic": "meeting"
-        }, 
+            "id": 131,
+            "topic": "encontro"
+        },
         {
-            "id": 132, 
-            "topic": "cult"
-        }, 
+            "id": 132,
+            "topic": "culto"
+        },
         {
-            "id": 133, 
-            "topic": "public speaking"
-        }, 
+            "id": 133,
+            "topic": "falar em público"
+        },
         {
-            "id": 134, 
-            "topic": "zit"
-        }, 
+            "id": 134,
+            "topic": "espinha"
+        },
         {
-            "id": 135, 
-            "topic": "revenge"
-        }, 
+            "id": 135,
+            "topic": "vingança"
+        },
         {
-            "id": 136, 
-            "topic": "seduction"
-        }, 
+            "id": 136,
+            "topic": "sedução"
+        },
         {
-            "id": 137, 
-            "topic": "self-worth"
+            "id": 137,
+            "topic": "autovalorização"
         }
     ]
 }

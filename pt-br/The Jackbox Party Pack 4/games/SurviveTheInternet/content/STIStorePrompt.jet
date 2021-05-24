@@ -1,1 +1,1629 @@
-{"episodeid":1314,"content":[{"decoys":[{"text":"Soft. Big. Bouncy.","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"}],"prefix":{"text":""},"id":43997,"choices":[],"prompt":{"text":"Write a three word review of your bed."}},{"decoys":[{"text":"It was filled with great friends.","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"}],"prefix":{"text":""},"id":43994,"choices":[],"prompt":{"text":"Briefly describe your middle school experience."}},{"decoys":[{"text":"It\u2019s soft and durable.","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"}],"prefix":{"text":""},"id":44409,"choices":[],"prompt":{"text":"Write a brief review of the shirt you\u2019re wearing."}},{"decoys":[{"text":"It\u2019s pretty ragged. I need a new one.","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"}],"prefix":{"text":""},"id":44151,"choices":[],"prompt":{"text":"Write a quick review of your current toothbrush."}},{"decoys":[{"text":"Charming, small, and nice.","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"}],"prefix":{"text":""},"id":43727,"choices":[],"prompt":{"text":"Write a three word review of your hometown."}},{"decoys":[{"text":"It was so good it made me cry.","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"}],"prefix":{"text":""},"id":48385,"choices":[],"prompt":{"text":"Write a brief review of the last movie you watched."}},{"decoys":[{"text":"Old, cozy, and beautiful.","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"}],"prefix":{"text":""},"id":44408,"choices":[],"prompt":{"text":"Write a three word review of your childhood home."}},{"decoys":[{"text":"It\u2019s very big and nice.","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"}],"prefix":{"text":""},"id":47240,"choices":[],"prompt":{"text":"Write a brief review of your TV."}},{"decoys":[{"text":"It\u2019s very powerful!","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"}],"prefix":{"text":""},"id":47171,"choices":[],"prompt":{"text":"Write a brief review of your microwave."}},{"decoys":[{"text":"It was super loud.","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"}],"prefix":{"text":""},"id":48545,"choices":[],"prompt":{"text":"Briefly describe your last fart."}},{"decoys":[{"text":"It had one happy gorilla!","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"}],"prefix":{"text":""},"id":48387,"choices":[],"prompt":{"text":"Briefly describe the last YouTube video you watched."}},{"decoys":[{"text":"Most are great, but some are terrible.","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"}],"prefix":{"text":""},"id":44165,"choices":[],"prompt":{"text":"What are your thoughts on grapes?"}},{"decoys":[{"text":"It was very well written. Very compelling.","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"}],"prefix":{"text":""},"id":48386,"choices":[],"prompt":{"text":"Write a short review of the last TV series you watched."}},{"decoys":[{"text":"I only eat it because I know it\u2019s good for me.","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"}],"prefix":{"text":""},"id":45069,"choices":[],"prompt":{"text":"What are your thoughts on broccoli?"}},{"decoys":[{"text":"They make me feel like a little kid.","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"}],"prefix":{"text":""},"id":45070,"choices":[],"prompt":{"text":"Write a brief review of baths."}},{"decoys":[{"text":"It made me look super spiffy!","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"}],"prefix":{"text":""},"id":45623,"choices":[],"prompt":{"text":"Write a short review of your last haircut."}},{"decoys":[{"text":"It was a great time with the family!","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"}],"prefix":{"text":""},"id":43995,"choices":[],"prompt":{"text":"Write a quick review of your last vacation."}},{"decoys":[{"text":"Liked it but unfortunately the cat shredded it.","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"}],"prefix":{"text":""},"id":47243,"choices":[],"prompt":{"text":"Briefly describe your couch."}},{"decoys":[{"text":"It had a lot of mystery and suspense. I couldn\u2019t put it down!","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"}],"prefix":{"text":""},"id":47167,"choices":[],"prompt":{"text":"Write a brief review of the last book you read."}},{"decoys":[{"text":"It does everything I need it to!","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"}],"prefix":{"text":""},"id":47241,"choices":[],"prompt":{"text":"Write a brief review of your phone."}},{"decoys":[{"text":"It\u2019s kind of weak. I wish it was stronger!","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"}],"prefix":{"text":""},"id":47239,"choices":[],"prompt":{"text":"Write a quick review of your showerhead."}},{"decoys":[{"text":"It\u2019s small yet powerful.","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"}],"prefix":{"text":""},"id":47242,"choices":[],"prompt":{"text":"Write a quick review of your computer."}},{"decoys":[{"text":"It makes me way too hyper!","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"}],"prefix":{"text":""},"id":47143,"choices":[],"prompt":{"text":"What do you think about Mountain Dew?"}},{"decoys":[{"text":"Green, healthy, and delicious.","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"}],"prefix":{"text":""},"id":48392,"choices":[],"prompt":{"text":"Write a three word review of kale."}},{"decoys":[{"text":"Carlos got me there quick!","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"}],"prefix":{"text":""},"id":47131,"choices":[],"prompt":{"text":"Write a brief review of your last cab ride."}},{"decoys":[{"text":"So salty and awesome","type":"Positive"},{"text":"","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"}],"prefix":{"text":""},"id":47811,"choices":[],"prompt":{"text":"Write a short review of McDonald\u2019s fries."}},{"decoys":[{"text":"It\u2019s a little too bitter for me.","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"}],"prefix":{"text":""},"id":47822,"choices":[],"prompt":{"text":"Write a brief review of Starbucks coffee."}},{"decoys":[{"text":"It was awful. There was toilet paper everywhere.","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"}],"prefix":{"text":""},"id":48549,"choices":[],"prompt":{"text":"Write a brief review of the last public restroom you used."}},{"decoys":[{"text":"They always tangle up and it bothers me.","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"}],"prefix":{"text":""},"id":48377,"choices":[],"prompt":{"text":"Write a brief review of your headphones."}},{"decoys":[{"text":"It\u2019s ok. I\u2019ve had worse.","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"}],"prefix":{"text":""},"id":48547,"choices":[],"prompt":{"text":"Briefly describe how your day\u2019s going so far."}},{"decoys":[{"text":"Meh. The eggs were a little runny.","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"}],"prefix":{"text":""},"id":48546,"choices":[],"prompt":{"text":"Write a brief review of the last meal you ate."}},{"decoys":[{"text":"It\u2019s huge and full of great rides.","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"}],"prefix":{"text":""},"id":49263,"choices":[],"prompt":{"text":"Briefly describe your favorite amusement park."}},{"decoys":[{"text":"They\u2019re very flexible and comfortable.","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"}],"prefix":{"text":""},"id":48378,"choices":[],"prompt":{"text":"Write a brief review of the underwear your\u2019re currently wearing."}},{"decoys":[{"text":"It\u2019s ok. It doesn\u2019t dry very quickly.","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"}],"prefix":{"text":""},"id":48380,"choices":[],"prompt":{"text":"Write a brief review of your bath mat."}},{"decoys":[{"text":"It was full of parents.","type":"Positive"},{"text":"","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"}],"prefix":{"text":""},"id":44978,"choices":[],"prompt":{"text":"Briefly describe the crowd at the last concert you attended."}},{"decoys":[{"text":"Not bad, but the doors get stuck a lot.","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"}],"prefix":{"text":""},"id":48381,"choices":[],"prompt":{"text":"Write a brief review of your refrigerator."}},{"decoys":[{"text":"It\u2019s always delicious!","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"}],"prefix":{"text":""},"id":48393,"choices":[],"prompt":{"text":"Write a brief review of KFC chicken."}},{"decoys":[{"text":"It always makes me poop.","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"}],"prefix":{"text":""},"id":49270,"choices":[],"prompt":{"text":"Write a brief review of Taco Bell."}},{"decoys":[{"text":"It\u2019s long and boring.","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"}],"prefix":{"text":""},"id":48510,"choices":[],"prompt":{"text":"What\u2019s your daily commute like?"}},{"decoys":[{"text":"Totally pointless.","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"}],"prefix":{"text":""},"id":49265,"choices":[],"prompt":{"text":"Write a brief review of decaf coffee."}},{"decoys":[{"text":"It\u2019s too bitter for me.","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"}],"prefix":{"text":""},"id":49266,"choices":[],"prompt":{"text":"What\u2019s your opinion of green tea?"}},{"decoys":[{"text":"Never use it! NEVER!","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"}],"prefix":{"text":""},"id":48382,"choices":[],"prompt":{"text":"How do you feel about one-ply toilet paper?"}},{"decoys":[{"text":"Pricey but worth it.","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"}],"prefix":{"text":""},"id":48479,"choices":[],"prompt":{"text":"Write a brief review of Apple products."}},{"decoys":[{"text":"They\u2019re the best.","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"}],"prefix":{"text":""},"id":49269,"choices":[],"prompt":{"text":"How do you feel about Android products?"}},{"decoys":[{"text":"It\u2019s big and luxurious.","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"}],"prefix":{"text":""},"id":49257,"choices":[],"prompt":{"text":"Briefly describe your dream home."}},{"decoys":[{"text":"It was wet and sloppy.","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"}],"prefix":{"text":""},"id":48509,"choices":[],"prompt":{"text":"Briefly describe your first kiss."}},{"decoys":[{"text":"It\u2019s old and soft.","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"}],"prefix":{"text":""},"id":49264,"choices":[],"prompt":{"text":"Briefly describe your favorite shirt."}},{"decoys":[{"text":"They\u2019re dirty and vile.","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"}],"prefix":{"text":""},"id":43985,"choices":[],"prompt":{"text":"How would you describe a typical night club?"}},{"decoys":[{"text":"It has everything!","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"}],"prefix":{"text":""},"id":48478,"choices":[],"prompt":{"text":"Write a brief review of Amazon."}},{"decoys":[{"text":"It had a lot of neat decorations!","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"}],"prefix":{"text":""},"id":48532,"choices":[],"prompt":{"text":"Write a brief review of the last hotel/Airbnb you stayed at."}},{"decoys":[{"text":"It was huge and full of jocks.","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"}],"prefix":{"text":""},"id":49267,"choices":[],"prompt":{"text":"Briefly describe the last school you attended."}},{"decoys":[{"text":"It\u2019s full of good people.","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"}],"prefix":{"text":""},"id":49268,"choices":[],"prompt":{"text":"Briefly describe your last/current place of employment."}},{"decoys":[{"text":"Short, fun, exhausting","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"}],"prefix":{"text":""},"id":49259,"choices":[],"prompt":{"text":"Describe last summer in three words."}},{"decoys":[{"text":"It\u2019s hard to put together but looks cool!","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"}],"prefix":{"text":""},"id":48477,"choices":[],"prompt":{"text":"Write a brief review of IKEA furniture."}},{"decoys":[{"text":"It\u2019s always hits the spot.","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"}],"prefix":{"text":""},"id":48476,"choices":[],"prompt":{"text":"Write a brief review of Coca-Cola."}},{"decoys":[{"text":"It was small and full of clothes.","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"}],"prefix":{"text":""},"id":48496,"choices":[],"prompt":{"text":"Briefly describe your childhood bedroom."}},{"decoys":[{"text":"It\u2019s kind of messy.","type":"Negative"},{"text":"It\u2019s kind of messy.","type":"Negative"},{"text":"It\u2019s kind of messy.","type":"Negative"},{"text":"It\u2019s kind of messy.","type":"Negative"}],"prefix":{"text":""},"id":43919,"choices":[],"prompt":{"text":"How would you describe the current state of your bedroom?"}},{"decoys":[{"text":"There were lots of snacks. It was fun.","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"},{"text":"","type":"Negative"}],"prefix":{"text":""},"id":48548,"choices":[],"prompt":{"text":"Write a brief review of the last party you attended."}}]}
+{
+    "episodeid": 1314,
+    "content": [
+        {
+            "decoys": [
+                {
+                    "text": "Suave. Grande. Bouncy.",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 43997,
+            "choices": [],
+            "prompt": {
+                "text": "Escreva uma revisão de três palavras sobre sua cama."
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Estava cheio de grandes amigos.",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 43994,
+            "choices": [],
+            "prompt": {
+                "text": "Descreva resumidamente sua experiência no ensino médio."
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "É macio e durável.",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 44409,
+            "choices": [],
+            "prompt": {
+                "text": "Escreva uma breve revisão da camisa que você está vestindo."
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "É muito irregular. Eu preciso de um novo.",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 44151,
+            "choices": [],
+            "prompt": {
+                "text": "Escreva uma revisão rápida de sua escova de dentes atual."
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Encantador, pequeno e agradável.",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 43727,
+            "choices": [],
+            "prompt": {
+                "text": "Escreva uma revisão de três palavras sobre sua cidade natal."
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Foi tão bom que me fez chorar.",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48385,
+            "choices": [],
+            "prompt": {
+                "text": "Escreva uma breve revisão do último filme que você assistiu."
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Velho, aconchegante e bonito.",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 44408,
+            "choices": [],
+            "prompt": {
+                "text": "Escreva uma revisão de três palavras sobre o lar de sua infância."
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "É muito grande e bonito.",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47240,
+            "choices": [],
+            "prompt": {
+                "text": "Escreva um breve comentário sobre sua TV."
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "É muito poderoso!",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47171,
+            "choices": [],
+            "prompt": {
+                "text": "Escreva uma breve revisão do seu micro-ondas."
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Foi muito alto.",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48545,
+            "choices": [],
+            "prompt": {
+                "text": "Descreva resumidamente seu último peido."
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Tinha um gorila feliz!",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48387,
+            "choices": [],
+            "prompt": {
+                "text": "Descreva resumidamente o último vídeo do YouTube que você assistiu."
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "A maioria é ótima, mas alguns são terríveis.",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 44165,
+            "choices": [],
+            "prompt": {
+                "text": "O que você acha das uvas?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Foi muito bem escrito. Muito atraente.",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48386,
+            "choices": [],
+            "prompt": {
+                "text": "Escreva uma breve resenha da última série de TV que você assistiu."
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Eu só como porque sei que é bom para mim.",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 45069,
+            "choices": [],
+            "prompt": {
+                "text": "O que você acha do brócolis?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Eles me fazem sentir como uma criança.",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 45070,
+            "choices": [],
+            "prompt": {
+                "text": "Escreva uma breve revisão dos banhos."
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Isso me fez parecer super elegante!",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 45623,
+            "choices": [],
+            "prompt": {
+                "text": "Escreva uma breve revisão do seu último corte de cabelo."
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Foi um ótimo momento com a família!",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 43995,
+            "choices": [],
+            "prompt": {
+                "text": "Escreva uma revisão rápida de suas últimas férias."
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Gostou, mas infelizmente o gato o picou.",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47243,
+            "choices": [],
+            "prompt": {
+                "text": "Descreva resumidamente o seu sofá."
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Tinha muito mistério e suspense. Eu não consegui parar!",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47167,
+            "choices": [],
+            "prompt": {
+                "text": "Escreva uma breve revisão do último livro que você leu."
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Ele faz tudo que eu preciso!",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47241,
+            "choices": [],
+            "prompt": {
+                "text": "Escreva uma breve revisão do seu telefone."
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "É meio fraco. Eu queria que fosse mais forte!",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47239,
+            "choices": [],
+            "prompt": {
+                "text": "Escreva uma revisão rápida do seu chuveiro."
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "É pequeno, mas poderoso.",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47242,
+            "choices": [],
+            "prompt": {
+                "text": "Escreva uma revisão rápida do seu computador."
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Isso me deixa muito hiperativo!",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47143,
+            "choices": [],
+            "prompt": {
+                "text": "O que você acha sobre Mountain Dew?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Verde, saudável e delicioso.",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48392,
+            "choices": [],
+            "prompt": {
+                "text": "Escreva uma revisão de três palavras sobre couve."
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Carlos me trouxe lá rápido!",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47131,
+            "choices": [],
+            "prompt": {
+                "text": "Escreva um breve comentário sobre sua última viagem de táxi."
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Tão salgado e incrível",
+                    "type": "Positivo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47811,
+            "choices": [],
+            "prompt": {
+                "text": "Escreva uma breve resenha sobre as batatas fritas do McDonald's."
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "É um pouco amargo demais para mim.",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 47822,
+            "choices": [],
+            "prompt": {
+                "text": "Escreva uma breve resenha do café Starbucks."
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Foi terrível. Havia papel higiênico por toda parte.",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48549,
+            "choices": [],
+            "prompt": {
+                "text": "Escreva uma breve revisão do último banheiro público que você usou."
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Eles sempre se enredam e isso me incomoda.",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48377,
+            "choices": [],
+            "prompt": {
+                "text": "Escreva uma breve revisão de seus fones de ouvido."
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Tudo bem. Eu já tive pior.",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48547,
+            "choices": [],
+            "prompt": {
+                "text": "Descreva resumidamente como seu dia está indo até agora."
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Meh. Os ovos estavam um pouco escorrendo.",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48546,
+            "choices": [],
+            "prompt": {
+                "text": "Escreva uma breve revisão da última refeição que você comeu."
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "É enorme e cheio de ótimos passeios.",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 49263,
+            "choices": [],
+            "prompt": {
+                "text": "Descreva resumidamente seu parque de diversões favorito."
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Eles são muito flexíveis e confortáveis.",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48378,
+            "choices": [],
+            "prompt": {
+                "text": "Escreva uma breve revisão da roupa íntima que você está usando no momento."
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Tudo bem. Não seca muito rapidamente.",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48380,
+            "choices": [],
+            "prompt": {
+                "text": "Escreva uma breve revisão de seu tapete de banho."
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Estava cheio de pais.",
+                    "type": "Positivo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 44978,
+            "choices": [],
+            "prompt": {
+                "text": "Descreva resumidamente a multidão no último show que você compareceu."
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Não é ruim, mas as portas ficam muito presas.",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48381,
+            "choices": [],
+            "prompt": {
+                "text": "Escreva uma breve revisão de sua geladeira."
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "É sempre uma delícia!",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48393,
+            "choices": [],
+            "prompt": {
+                "text": "Escreva uma breve resenha sobre o frango KFC."
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Sempre me faz cocô.",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 49270,
+            "choices": [],
+            "prompt": {
+                "text": "Escreva uma breve resenha sobre Taco Bell."
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "É longo e enfadonho.",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48510,
+            "choices": [],
+            "prompt": {
+                "text": "Como é seu deslocamento diário?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Totalmente inútil.",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 49265,
+            "choices": [],
+            "prompt": {
+                "text": "Escreva uma breve resenha sobre o café descafeinado."
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "É muito amargo para mim.",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 49266,
+            "choices": [],
+            "prompt": {
+                "text": "Qual sua opinião sobre o chá verde?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Nunca use! NUNCA!",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48382,
+            "choices": [],
+            "prompt": {
+                "text": "Como você se sente em relação ao papel higiênico de uma folha?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Caro, mas vale a pena.",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48479,
+            "choices": [],
+            "prompt": {
+                "text": "Escreva uma breve revisão dos produtos Apple."
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Eles são os melhores.",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 49269,
+            "choices": [],
+            "prompt": {
+                "text": "Como você se sente em relação aos produtos Android?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "É grande e luxuoso.",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 49257,
+            "choices": [],
+            "prompt": {
+                "text": "Descreva resumidamente a casa dos seus sonhos."
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Estava molhado e desleixado.",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48509,
+            "choices": [],
+            "prompt": {
+                "text": "Descreva resumidamente seu primeiro beijo."
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "É velho e macio.",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 49264,
+            "choices": [],
+            "prompt": {
+                "text": "Descreva resumidamente sua camisa favorita."
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Eles são sujos e vis.",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 43985,
+            "choices": [],
+            "prompt": {
+                "text": "Como você descreveria uma boate típica?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Tem tudo!",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48478,
+            "choices": [],
+            "prompt": {
+                "text": "Escreva uma breve revisão da Amazon."
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Tinha muitas decorações elegantes!",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48532,
+            "choices": [],
+            "prompt": {
+                "text": "Escreva um breve comentário sobre o último hotel / Airbnb em que você se hospedou."
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Era enorme e cheio de atletas.",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 49267,
+            "choices": [],
+            "prompt": {
+                "text": "Descreva resumidamente a última escola que você frequentou."
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Está cheio de gente boa.",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 49268,
+            "choices": [],
+            "prompt": {
+                "text": "Descreva resumidamente seu último / atual local de trabalho."
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Curto, divertido, exaustivo",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 49259,
+            "choices": [],
+            "prompt": {
+                "text": "Descreva o verão passado em três palavras."
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "É difícil de montar, mas parece legal!",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48477,
+            "choices": [],
+            "prompt": {
+                "text": "Escreva uma breve resenha sobre os móveis IKEA."
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Sempre acerta o alvo.",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48476,
+            "choices": [],
+            "prompt": {
+                "text": "Escreva uma breve resenha sobre a Coca-Cola."
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Era pequeno e cheio de roupas.",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48496,
+            "choices": [],
+            "prompt": {
+                "text": "Descreva resumidamente o quarto de sua infância."
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "É meio confuso.",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "É meio confuso.",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "É meio confuso.",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "É meio confuso.",
+                    "type": "Negativo"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 43919,
+            "choices": [],
+            "prompt": {
+                "text": "Como você descreveria o estado atual do seu quarto?"
+            }
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Havia muitos lanches. Foi divertido.",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                },
+                {
+                    "text": "",
+                    "type": "Negativo"
+                }
+            ],
+            "prefix": {
+                "text": ""
+            },
+            "id": 48548,
+            "choices": [],
+            "prompt": {
+                "text": "Escreva uma breve revisão da última festa da qual você compareceu."
+            }
+        }
+    ]
+}

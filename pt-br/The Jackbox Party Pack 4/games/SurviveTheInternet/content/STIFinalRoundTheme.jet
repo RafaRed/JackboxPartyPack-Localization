@@ -1,49 +1,65 @@
 {
     "content": [
-         {
-            "id":"Photo",
-            "name":"Photo",
-            "url":"/photosharing",
-            "promptContentType":"STIPhotoPrompt",
-            
-            "preResponseMetadataHandler":"ChoosePhoto",
-            "skipResponse":true,
-            
-            "responsePlaceholder" : null,
-            "twistPlaceholder" : "enter a caption",
-            "prefix" : null,
-            
-            "revealSpec":{
-                "revealLinkage":"STI_Photo",
-                "votingLinkage":"STI_PhotoVote",
-                "bestTwistLinkage":"STI_Photo",
-                
+        {
+            "id": "foto",
+            "name": "foto",
+            "url": "/Compartilhamento de foto",
+            "promptContentType": "STIPhotoPrompt",
+            "preResponseMetadataHandler": "Escolher Foto",
+            "skipResponse": true,
+            "responsePlaceholder": null,
+            "twistPlaceholder": "insira uma legenda",
+            "prefix": null,
+            "revealSpec": {
+                "revealLinkage": "STI_Photo",
+                "votingLinkage": "STI_PhotoVote",
+                "bestTwistLinkage": "STI_Photo",
                 "tfs": [
-                    { "path":"container.playerName.color",       "value":"ResponseAuthorName", "color":"ResponseAuthorColor" },
-                    { "path":"container.twist",                  "value":"Twist", "numLines":5, "balance":"top", "censorable":true },
-                    { "path":"container.likes",                  "value":"[50-999]", "suffix":" likes" }
+                    {
+                        "path": "container.playerName.color",
+                        "value": "ResponseAuthorName",
+                        "color": "ResponseAuthorColor"
+                    },
+                    {
+                        "path": "container.twist",
+                        "value": "Torção",
+                        "numLines": 5,
+                        "balance": "principal",
+                        "censorable": true
+                    },
+                    {
+                        "path": "container.likes",
+                        "value": "[50-999]",
+                        "suffix": " gostos"
+                    }
                 ],
-                "frames" : [
-                    { "path" : "container.avatar",               "value":"ResponseAuthorColor" }
+                "frames": [
+                    {
+                        "path": "container.avatar",
+                        "value": "ResponseAuthorColor"
+                    }
                 ],
-                "images" : [
-                    { "path" : "container.photo",                "value":"responseAuthor.scratchSpace.chosenPhotoUrl" }
+                "images": [
+                    {
+                        "path": "container.photo",
+                        "value": "responseAuthor.scratchSpace.chosenPhotoUrl"
+                    }
                 ]
             },
-            "controllerTextSpec":{
-                "aboveBlackBox" : "<TargetPhotoChoiceImage>",
-                "blackBox" : null,
-                "belowBlackBox" :  "<TargetName> would look crazy if they posted this picture with the caption:",
-                "caret" : true
+            "controllerTextSpec": {
+                "aboveBlackBox": "<TargetPhotoChoiceImage>",
+                "blackBox": null,
+                "belowBlackBox": "<TargetName> ficaria louco se postasse esta foto com a legenda:",
+                "caret": true
             },
-            "controllerInputSpec":{
-                "prefix" : null
+            "controllerInputSpec": {
+                "prefix": null
             },
-            "controllerChoiceSpec":{
-                "header":null,
-                "body":"<Twist>",
-                "footer":null,
-                "thumbnail":"<TargetPhotoChoiceImage>"
+            "controllerChoiceSpec": {
+                "header": null,
+                "body": "<Twist>",
+                "footer": null,
+                "thumbnail": "<TargetPhotoChoiceImage>"
             }
         }
     ]

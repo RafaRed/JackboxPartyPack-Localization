@@ -1,33 +1,120 @@
 {
     "payload": [
-        { "id": "MARBLES", "size": 25 },
-        { "id": "SOCKS", "size": 25 },
-        { "id": "SOCKET_WRENCH", "size": 15 },
-        { "id": "DRAWINGS", "size": 22 },
-        { "id": "SHIRTS", "size": 25 },
-        { "id": "ANIMALS", "size": 15 },
-        { "id": "NOODLE", "size": 15 },
-        { "id": "KEYS", "size": 15 },
-        { "id": "TOOLS", "size": 15 },
-        { "id": "BIRDS", "size": 15 },
-        { "id": "NICE_SHIRT", "size": 15 },
-        { "id": "POSTER", "size": 15 },
-        { "id": "CLUB", "size": 15 },
-        { "id": "HAT", "size": 15 },
-        { "id": "BOOK", "size": 15 },
-        { "id": "SHOES", "size": 15 },
-        { "id": "BATTERIES", "size": 15 },
-        { "id": "EARRINGS", "size": 15 },
-        { "id": "CONTROLLER", "size": 15 },
-        { "id": "ASPRIN", "size": 15 },
-        { "id": "LIGHT_BULBS", "size": 15 },
-        { "id": "REMOTES", "size": 15 },
-        { "id": "CHAIRS", "size": 15 },
-        { "id": "TIES", "size": 15 },
-        { "id": "WALLET_CARDS", "size": 15 },
-        { "id": "BAGS", "size": 15 },
-        { "id": "SWIM_SUIT", "size": 15 },
-        { "id": "TOYS", "size": 15 },
-        { "id": "BERET", "size": 15 }
+        {
+            "id": "MÁRMORES",
+            "size": 25
+        },
+        {
+            "id": "MEIAS",
+            "size": 25
+        },
+        {
+            "id": "CHAVE SOQUETE",
+            "size": 15
+        },
+        {
+            "id": "DESENHOS",
+            "size": 22
+        },
+        {
+            "id": "CAMISAS",
+            "size": 25
+        },
+        {
+            "id": "ANIMAIS",
+            "size": 15
+        },
+        {
+            "id": "NOODLE",
+            "size": 15
+        },
+        {
+            "id": "CHAVES",
+            "size": 15
+        },
+        {
+            "id": "FERRAMENTAS",
+            "size": 15
+        },
+        {
+            "id": "AVES",
+            "size": 15
+        },
+        {
+            "id": "BELA CAMISA",
+            "size": 15
+        },
+        {
+            "id": "POSTER",
+            "size": 15
+        },
+        {
+            "id": "CLUBE",
+            "size": 15
+        },
+        {
+            "id": "CHAPÉU",
+            "size": 15
+        },
+        {
+            "id": "LIVRO",
+            "size": 15
+        },
+        {
+            "id": "SAPATOS",
+            "size": 15
+        },
+        {
+            "id": "BATERIAS",
+            "size": 15
+        },
+        {
+            "id": "BRINCOS",
+            "size": 15
+        },
+        {
+            "id": "CONTROLADOR",
+            "size": 15
+        },
+        {
+            "id": "ASPRIN",
+            "size": 15
+        },
+        {
+            "id": "LÂMPADAS",
+            "size": 15
+        },
+        {
+            "id": "REMOTOS",
+            "size": 15
+        },
+        {
+            "id": "CADEIRAS",
+            "size": 15
+        },
+        {
+            "id": "LAÇOS",
+            "size": 15
+        },
+        {
+            "id": "WALLET_CARDS",
+            "size": 15
+        },
+        {
+            "id": "BOLSAS",
+            "size": 15
+        },
+        {
+            "id": "ROUPA DE BANHO",
+            "size": 15
+        },
+        {
+            "id": "BRINQUEDOS",
+            "size": 15
+        },
+        {
+            "id": "BOINA",
+            "size": 15
+        }
     ]
 }

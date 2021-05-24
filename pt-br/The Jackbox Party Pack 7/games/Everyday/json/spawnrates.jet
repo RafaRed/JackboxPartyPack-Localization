@@ -1,87 +1,40 @@
 {
-
-    "payload":[
-
+    "payload": [
         {
-
-            "id":"SLOW",
-
-            
-
-            "3Players": 17.0,
-
-            "4Players": 16.0,
-
-            "5Players": 13.0,
-
-            "6Players": 12.0,
-
-            "7Players": 10.0,
-
-            "8Players": 8.0
-
+            "id": "LENTO",
+            "3Players": "17",
+            "4Players": "16",
+            "5Players": "13",
+            "6Players": "12",
+            "7Players": "10",
+            "8Players": "8"
         },
-
         {
-
-            "id":"MEDIUM",
-
-            
-
-            "3Players": 15.0,
-
-            "4Players": 13.0,
-
-            "5Players": 10.0,
-
-            "6Players": 9.0,
-
-            "7Players": 7.0,
-
-            "8Players": 5.0
-
+            "id": "MÉDIO",
+            "3Players": "15",
+            "4Players": "13",
+            "5Players": "10",
+            "6Players": "9",
+            "7Players": "7",
+            "8Players": "5"
         },
-
         {
-
-            "id":"FAST",
-
-            
-
-            "3Players": 11.0,
-
-            "4Players": 9.0,
-
-            "5Players": 7.0,
-
-            "6Players": 5.0,
-
-            "7Players": 4.0,
-
-            "8Players": 3.0
-
+            "id": "RÁPIDO",
+            "3Players": "11",
+            "4Players": "9",
+            "5Players": "7",
+            "6Players": "5",
+            "7Players": "4",
+            "8Players": "3"
         },
-
         {
-
-            "id":"HYPER",
-
-            
-
-            "3Players": 8.0,
-
-            "4Players": 7.0,
-
-            "5Players": 5.0,
-
-            "6Players": 3.0,
-
-            "7Players": 2.0,
-
-            "8Players": 1.0
-
+            "id": "HYPER",
+            "3Players": "8",
+            "4Players": "7",
+            "5Players": "5",
+            "6Players": "3",
+            "7Players": "2",
+            "8Players": "1"
         }
-
     ]
-
 }

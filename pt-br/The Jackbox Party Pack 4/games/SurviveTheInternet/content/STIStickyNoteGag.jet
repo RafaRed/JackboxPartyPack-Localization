@@ -1,214 +1,214 @@
 {
-    "content":[
+    "content": [
         {
-            "id":"00000000",
-            "text":"Reminder: send dentist a b-day card",
-            "time":5.0
+            "id": "00000000",
+            "text": "Lembrete: envie ao dentista um cartão de aniversário",
+            "time": "5"
         },
         {
-            "id":"00000001",
-            "text":"Remind Uncle Walter to stop forwarding you jokes",
-            "time":5.0
+            "id": "00000001",
+            "text": "Lembre o tio Walter de parar de encaminhar piadas para você",
+            "time": "5"
         },
         {
-            "id":"00000002",
-            "text":"Sears Portrait Studios: 10 am Wed",
-            "time":5.0
+            "id": "00000002",
+            "text": "Sears Portrait Studios: 10h Quarta",
+            "time": "5"
         },
         {
-            "id":"00000003",
-            "text":"Startup idea: Gloves but for feet",
-            "time":5.0
+            "id": "00000003",
+            "text": "Ideia inicial: luvas, mas para os pés",
+            "time": "5"
         },
         {
-            "id":"00000004",
-            "text":"Note to self: Ask if players want to hang out after game. Be confident!",
-            "time":5.0
+            "id": "00000004",
+            "text": "Nota para mim mesmo: pergunte se os jogadores querem sair após o jogo. Seja confiante!",
+            "time": "5"
         },
         {
-            "id":"00000005",
-            "text":"Reminder: Mashed cauliflower does NOT taste like mashed potatoes",
-            "time":5.0
+            "id": "00000005",
+            "text": "Lembrete: purê de couve-flor NÃO tem gosto de purê de batata",
+            "time": "5"
         },
         {
-            "id":"00000006",
-            "text":"Reminder: Buy more digital sticky notes",
-            "time":5.0
+            "id": "00000006",
+            "text": "Lembrete: compre mais post-its digitais",
+            "time": "5"
         },
         {
-            "id":"00000007",
-            "text":"Reminder: Solve Steve’s murder",
-            "time":5.0
+            "id": "00000007",
+            "text": "Lembrete: Resolva o assassinato de Steve",
+            "time": "5"
         },
         {
-            "id":"00000008",
-            "text":"Movie idea: Blade but with guns",
-            "time":5.0
+            "id": "00000008",
+            "text": "Idéia do filme: Blade but with guns",
+            "time": "5"
         },
         {
-            "id":"00000009",
-            "text":"Reminder: De-chunk the peanut butter",
-            "time":5.0
+            "id": "00000009",
+            "text": "Lembrete: retire os pedaços da manteiga de amendoim",
+            "time": "5"
         },
         {
-            "id":"00000010",
-            "text":"Reminder: See if Wizard of Oz, Coldplay sync up",
-            "time":5.0
+            "id": "00000010",
+            "text": "Lembrete: veja se Mágico de Oz, Coldplay sincronizam",
+            "time": "5"
         },
         {
-            "id":"00000011",
-            "text":"Reminder: take Catwoman costume to dry cleaners",
-            "time":5.0
+            "id": "00000011",
+            "text": "Lembrete: leve a fantasia de Mulher-Gato para a lavanderia",
+            "time": "5"
         },
         {
-            "id":"00000012",
-            "text":"Reminder: come up with excuse to miss friend's improv show",
-            "time":5.0
+            "id": "00000012",
+            "text": "Lembrete: dê uma desculpa para perder o show de improvisação de um amigo",
+            "time": "5"
         },
         {
-            "id":"00000013",
-            "text":"Reminder: say “indubitably” more",
-            "time":5.0
+            "id": "00000013",
+            "text": "Lembrete: diga “indubitavelmente” mais",
+            "time": "5"
         },
         {
-            "id":"00000014",
-            "text":"Game Idea: you have a gun and shoot things",
-            "time":5.0
+            "id": "00000014",
+            "text": "Idéia do jogo: você tem uma arma e atira nas coisas",
+            "time": "5"
         },
         {
-            "id":"00000015",
-            "text":"Reminder: no matter how hard you try, birds will not dress you.",
-            "time":5.0
+            "id": "00000015",
+            "text": "Lembrete: não importa o quanto você tente, os pássaros não vão vestir você.",
+            "time": "5"
         },
         {
-            "id":"00000016",
-            "text":"Business Idea: cargo shorts without the pockets",
-            "time":5.0
+            "id": "00000016",
+            "text": "Ideia de Negócio: shorts cargo sem bolsos",
+            "time": "5"
         },
         {
-            "id":"00000017",
-            "text":"Renember to spelcheck thsi note",
-            "time":5.0
+            "id": "00000017",
+            "text": "Lembre-se de verificar a ortografia desta nota",
+            "time": "5"
         },
         {
-            "id":"00000018",
-            "text":"Reminder: Underwear THEN pants",
-            "time":5.0
+            "id": "00000018",
+            "text": "Lembrete: cueca ENTÃO calças",
+            "time": "5"
         },
         {
-            "id":"00000019",
-            "text":"Reminder: Stop embarrassing everyone.",
-            "time":5.0
+            "id": "00000019",
+            "text": "Lembrete: pare de envergonhar a todos.",
+            "time": "5"
         },
         {
-            "id":"00000020",
-            "text":"Remember what they did to you...",
-            "time":5.0
+            "id": "00000020",
+            "text": "Lembre-se do que eles fizeram com você ...",
+            "time": "5"
         },
         {
-            "id":"00000021",
-            "text":"Reminder: stop picking at it",
-            "time":5.0
+            "id": "00000021",
+            "text": "Lembrete: pare de mexer nele",
+            "time": "5"
         },
         {
-            "id":"00000022",
-            "text":"Business Idea: trail mix but just the peanuts",
-            "time":5.0
+            "id": "00000022",
+            "text": "Ideia de Negócio: mistura de trilha, mas apenas o amendoim",
+            "time": "5"
         },
         {
-            "id":"00000023",
-            "text":"Reminder: find out why you keep waking up in fields!",
-            "time":5.0
+            "id": "00000023",
+            "text": "Lembrete: descubra porque você continua acordando nos campos!",
+            "time": "5"
         },
         {
-            "id":"00000024",
-            "text":"Game idea: Dank Meme Summer Camp",
-            "time":5.0
+            "id": "00000024",
+            "text": "Ideia do jogo: Dank Meme Summer Camp",
+            "time": "5"
         },
         {
-            "id":"00000025",
-            "text":"Today's agenda: disprove the Pythagorean theorem",
-            "time":5.0
+            "id": "00000025",
+            "text": "Agenda de hoje: refutar o teorema de Pitágoras",
+            "time": "5"
         },
         {
-            "id":"00000026",
-            "text":"Condo meeting @ 7 PM. Stand up to Brenda this time.",
-            "time":5.0
+            "id": "00000026",
+            "text": "Reunião no condomínio às 19h. Enfrente Brenda neste momento.",
+            "time": "5"
         },
         {
-            "id":"00000027",
-            "text":"Today's agenda: clear name with neighborhood watch",
-            "time":5.0
+            "id": "00000027",
+            "text": "Agenda de hoje: nome claro com vigilância da vizinhança",
+            "time": "5"
         },
         {
-            "id":"00000028",
-            "text":"Reminder: You are beautiful. Yes, even you.",
-            "time":5.0
+            "id": "00000028",
+            "text": "Lembrete: você é linda. Sim, até você.",
+            "time": "5"
         },
         {
-            "id":"00000029",
-            "text":"Reminder: take insulin if you need it",
-            "time":5.0
+            "id": "00000029",
+            "text": "Lembrete: tome insulina se precisar",
+            "time": "5"
         },
         {
-            "id":"00000030",
-            "text":"Note to self: You CHOOSE to be single",
-            "time":5.0
+            "id": "00000030",
+            "text": "Nota para mim mesmo: você ESCOLHE ser solteiro",
+            "time": "5"
         },
         {
-            "id":"00000031",
-            "text":"Today's agenda: Develop a personality",
-            "time":5.0
+            "id": "00000031",
+            "text": "Agenda de hoje: Desenvolva uma personalidade",
+            "time": "5"
         },
         {
-            "id":"00000032",
-            "text":"TV show idea: group of friends who are quirky",
-            "time":5.0
+            "id": "00000032",
+            "text": "Ideia de programa de TV: grupo de amigos peculiares",
+            "time": "5"
         },
         {
-            "id":"00000033",
-            "text":"Movie idea: Brad Pitt as a WWII soldier",
-            "time":5.0
+            "id": "00000033",
+            "text": "Idéia de filme: Brad Pitt como um soldado da segunda guerra mundial",
+            "time": "5"
         },
         {
-            "id":"00000034",
-            "text":"Movie idea: a superhero story but good",
-            "time":5.0
+            "id": "00000034",
+            "text": "Idéia de filme: uma história de super-herói, mas boa",
+            "time": "5"
         },
         {
-            "id":"00000035",
-            "text":"Today's agenda: Gain self-respect",
-            "time":5.0
+            "id": "00000035",
+            "text": "Agenda de hoje: ganhe respeito próprio",
+            "time": "5"
         },
         {
-            "id":"00000036",
-            "text":"Note to self: Don't let audience bully you",
-            "time":5.0
+            "id": "00000036",
+            "text": "Nota para mim mesmo: não deixe o público intimidar você",
+            "time": "5"
         },
         {
-            "id":"00000037",
-            "text":"Psst... you guys are doing great! :)",
-            "time":5.0
+            "id": "00000037",
+            "text": "Psst ... vocês estão indo muito bem! :)",
+            "time": "5"
         },
         {
-            "id":"00000038",
-            "text":"Psst... this a special group. Stay friends forever.",
-            "time":5.0
+            "id": "00000038",
+            "text": "Psst ... este é um grupo especial. Fiquem amigos para sempre.",
+            "time": "5"
         },
         {
-            "id":"00000039",
-            "text":"Psst... keep believing in yourself. You can do it!",
-            "time":5.0
+            "id": "00000039",
+            "text": "Psst ... continue acreditando em você mesmo. Você consegue!",
+            "time": "5"
         },
         {
-            "id":"00000040",
-            "text":"Movie idea: a city where things blow up. Michael Bay to direct?",
-            "time":5.0
+            "id": "00000040",
+            "text": "Ideia de filme: uma cidade onde as coisas explodem. Michael Bay para dirigir?",
+            "time": "5"
         },
         {
-            "id":"00000041",
-            "text":"Today's agenda: Bring back zoot suits",
-            "time":5.0
+            "id": "00000041",
+            "text": "Agenda de hoje: Traga de volta ternos zoot",
+            "time": "5"
         }
     ]
 }

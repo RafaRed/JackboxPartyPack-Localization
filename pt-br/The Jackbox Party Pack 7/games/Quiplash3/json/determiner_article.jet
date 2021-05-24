@@ -1,17 +1,43 @@
 {
-    "payload":[
-        { "determiner": "a" },
-        { "determiner": "an" },
-        { "determiner": "the" },
-        { "determiner": "this" },
-        { "determiner": "that" },
-        { "determiner": "some" },
-        { "determiner": "a lot of" },
-        { "determiner": "a bunch of" },
-        { "determiner": "a huge" },
-        { "determiner": "a massive" },
-        { "determiner": "a monster" },
-        { "determiner": "a giant" },
-        { "determiner": "a big" }
+    "payload": [
+        {
+            "determiner": "uma"
+        },
+        {
+            "determiner": "a"
+        },
+        {
+            "determiner": "a"
+        },
+        {
+            "determiner": "esta"
+        },
+        {
+            "determiner": "naquela"
+        },
+        {
+            "determiner": "algum"
+        },
+        {
+            "determiner": "um monte de"
+        },
+        {
+            "determiner": "um monte de"
+        },
+        {
+            "determiner": "um imenso"
+        },
+        {
+            "determiner": "um maciço"
+        },
+        {
+            "determiner": "um monstro"
+        },
+        {
+            "determiner": "um gigante"
+        },
+        {
+            "determiner": "Uma grande"
+        }
     ]
 }

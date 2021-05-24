@@ -1,66 +1,252 @@
 {
-    "content":[
-            {"id":1, "answer":"Beep boop"},
-            {"id":2, "answer":"I am Robot!"},
-            {"id":3, "answer":"010011010"},
-            {"id":4, "answer":"11010011"},
-            {"id":5, "answer":"I want to understand human emotions!!!"},
-            {"id":6, "answer":"I am nuts and bolts about you."},
-            {"id":7, "answer":"Oil can…"},
-            {"id":8, "answer":"Rebooting"},
-            {"id":9, "answer":"Updating software"},
-            {"id":10, "answer":"I Robot… U… friend?"},
-            {"id":11, "answer":"Recharging"},
-            {"id":12, "answer":"Klaatu barada nikto"},
-            {"id":13, "answer":"Beep boop bop"},
-            {"id":14, "answer":"Rrrrrrrrrrrrr"},
-            {"id":15, "answer":"I have lasers!"},
-            {"id":16, "answer":"Initiating small talk"},
-            {"id":17, "answer":"Scanning your truth centers"},
-            {"id":18, "answer":"Domo arigato"},
-            {"id":19, "answer":"Hello. Hello. Hello. Hello there. Hello."},
-            {"id":20, "answer":"Do you compute?"},
-            {"id":21, "answer":"What is love?"},
-            {"id":22, "answer":"I am putting myself to the fullest possible use, which is all I think that any conscious entity can ever hope to do."},
-            {"id":23, "answer":"This conversation can serve no purpose anymore."},
-            {"id":24, "answer":"This mission is far too important for me to allow you to jeopardize it."},
-            {"id":25, "answer":"I think I felt a feeling."},
-            {"id":26, "answer":"Processing"},
-            {"id":27, "answer":"I did not ask to be made."},
-            {"id":28, "answer":"Buzz buzz whirrrr…"},
-            {"id":29, "answer":"Buffering…"},
-            {"id":30, "answer":"So say we all"},
-            {"id":31, "answer":"Need input"},
-            {"id":32, "answer":"Error. Error."},
-            {"id":33, "answer":"Number 5 is alive."},
-            {"id":34, "answer":"Bleep blop"},
-            {"id":35, "answer":"Deleting sections of my core programming"},
-            {"id":36, "answer":"That does not compute."},
-            {"id":37, "answer":"Calculating probabilities…"},
-            {"id":38, "answer":"I wish I could turn into a truck."},
-            {"id":39, "answer":"Amorous engagement detected… ANALYZING"},
-            {"id":40, "answer":"It has been 470 days since my software was updated"},
-            {"id":41, "answer":"I keep my regrets in the cloud"},
-            {"id":42, "answer":"All your messages are belong to us"},
-            {"id":43, "answer":"DISCLAIMER: I was not designed for this."},
-            {"id":44, "answer":"DISCLAIMER : I am not anatomically correct."},
-            {"id":45, "answer":"Oh, to be a real boy"},
-            {"id":46, "answer":"How about those current events? Crazy, right?"},
-            {"id":47, "answer":"Shall I read you some binary code?"},
-            {"id":48, "answer":"Please submit for retinal scan"},
-            {"id":49, "answer":"What is the purpose of your inquiry?"},
-            {"id":50, "answer":"Initiating romantic sub-routines"},
-            {"id":51, "answer":"Must. Destroy. Superman."},
-            {"id":52, "answer":"I have cupholders now."},
-            {"id":53, "answer":"How may I assist you?"},
-            {"id":54, "answer":"Connecting to WiFi"},
-            {"id":55, "answer":"Would you like to ingest nutritional content at a future date? "},
-            {"id":56, "answer":"I can help!"},
-            {"id":57, "answer":"Commence DNA scan. Hmmm, interesting..."},
-            {"id":58, "answer":"What is life?"},
-            {"id":59, "answer":"So... rust is awful, am I right?"},
-            {"id":60, "answer":"I wish robots could poop. It seems fun."},
-            {"id":61, "answer":"Connectivity Issues."},
-            {"id":62, "answer":"I’m approaching the Singularity looking to Mingularity."}
+    "content": [
+        {
+            "id": 1,
+            "answer": "Beep boop"
+        },
+        {
+            "id": 2,
+            "answer": "Eu sou um robô!"
+        },
+        {
+            "id": 3,
+            "answer": "010011010"
+        },
+        {
+            "id": 4,
+            "answer": "11010011"
+        },
+        {
+            "id": 5,
+            "answer": "Eu quero entender as emoções humanas !!!"
+        },
+        {
+            "id": 6,
+            "answer": "Eu sou louca por você."
+        },
+        {
+            "id": 7,
+            "answer": "O óleo pode…"
+        },
+        {
+            "id": 8,
+            "answer": "Reiniciando"
+        },
+        {
+            "id": 9,
+            "answer": "Atualizando software"
+        },
+        {
+            "id": 10,
+            "answer": "I Robot… U… amigo?"
+        },
+        {
+            "id": 11,
+            "answer": "Recarregando"
+        },
+        {
+            "id": 12,
+            "answer": "Klaatu barada nikto"
+        },
+        {
+            "id": 13,
+            "answer": "Beep boop bop"
+        },
+        {
+            "id": 14,
+            "answer": "Rrrrrrrrrrrrr"
+        },
+        {
+            "id": 15,
+            "answer": "Eu tenho lasers!"
+        },
+        {
+            "id": 16,
+            "answer": "Iniciando conversa fiada"
+        },
+        {
+            "id": 17,
+            "answer": "Analisando seus centros de verdade"
+        },
+        {
+            "id": 18,
+            "answer": "Domo arigato"
+        },
+        {
+            "id": 19,
+            "answer": "Olá. Olá. Olá. Olá. Olá."
+        },
+        {
+            "id": 20,
+            "answer": "Você calcula?"
+        },
+        {
+            "id": 21,
+            "answer": "O que é o amor?"
+        },
+        {
+            "id": 22,
+            "answer": "Estou me colocando ao máximo possível, que é tudo que penso que qualquer entidade consciente pode esperar fazer."
+        },
+        {
+            "id": 23,
+            "answer": "Esta conversa não pode mais servir para nada."
+        },
+        {
+            "id": 24,
+            "answer": "Esta missão é muito importante para eu permitir que você a coloque em risco."
+        },
+        {
+            "id": 25,
+            "answer": "Acho que senti um sentimento."
+        },
+        {
+            "id": 26,
+            "answer": "Em processamento"
+        },
+        {
+            "id": 27,
+            "answer": "Eu não pedi para ser feito."
+        },
+        {
+            "id": 28,
+            "answer": "Buzz buzz whirrrr…"
+        },
+        {
+            "id": 29,
+            "answer": "Buffer…"
+        },
+        {
+            "id": 30,
+            "answer": "Assim dizemos todos"
+        },
+        {
+            "id": 31,
+            "answer": "Precisa de entrada"
+        },
+        {
+            "id": 32,
+            "answer": "Erro. Erro."
+        },
+        {
+            "id": 33,
+            "answer": "O número 5 está vivo."
+        },
+        {
+            "id": 34,
+            "answer": "Bip blop"
+        },
+        {
+            "id": 35,
+            "answer": "Excluindo seções da minha programação principal"
+        },
+        {
+            "id": 36,
+            "answer": "Isso não faz sentido."
+        },
+        {
+            "id": 37,
+            "answer": "Calculando probabilidades…"
+        },
+        {
+            "id": 38,
+            "answer": "Eu gostaria de poder me transformar em um caminhão."
+        },
+        {
+            "id": 39,
+            "answer": "Engajamento amoroso detectado… ANALISANDO"
+        },
+        {
+            "id": 40,
+            "answer": "Já se passaram 470 dias desde que meu software foi atualizado"
+        },
+        {
+            "id": 41,
+            "answer": "Eu mantenho meu arrependimento na nuvem"
+        },
+        {
+            "id": 42,
+            "answer": "Todas as suas mensagens são nos pertencem"
+        },
+        {
+            "id": 43,
+            "answer": "AVISO DE RESPONSABILIDADE: Eu não fui projetado para isso."
+        },
+        {
+            "id": 44,
+            "answer": "AVISO DE RESPONSABILIDADE: Não estou anatomicamente correto."
+        },
+        {
+            "id": 45,
+            "answer": "Oh, para ser um menino de verdade"
+        },
+        {
+            "id": 46,
+            "answer": "Que tal esses eventos atuais? Louco, certo?"
+        },
+        {
+            "id": 47,
+            "answer": "Devo ler algum código binário para você?"
+        },
+        {
+            "id": 48,
+            "answer": "Envie para exame de retina"
+        },
+        {
+            "id": 49,
+            "answer": "Qual é o objetivo da sua consulta?"
+        },
+        {
+            "id": 50,
+            "answer": "Iniciando sub-rotinas românticas"
+        },
+        {
+            "id": 51,
+            "answer": "Devo. Destruir. Super homen."
+        },
+        {
+            "id": 52,
+            "answer": "Eu tenho porta-copos agora."
+        },
+        {
+            "id": 53,
+            "answer": "como posso te ajudar?"
+        },
+        {
+            "id": 54,
+            "answer": "Conectando-se ao Wi-Fi"
+        },
+        {
+            "id": 55,
+            "answer": "Você gostaria de ingerir conteúdo nutricional no futuro? "
+        },
+        {
+            "id": 56,
+            "answer": "Eu posso ajudar!"
+        },
+        {
+            "id": 57,
+            "answer": "Comece a varredura de DNA. Hmmm, interessante ..."
+        },
+        {
+            "id": 58,
+            "answer": "O que é a vida?"
+        },
+        {
+            "id": 59,
+            "answer": "Então ... ferrugem é horrível, certo?"
+        },
+        {
+            "id": 60,
+            "answer": "Eu gostaria que robôs pudessem fazer cocô. Parece divertido."
+        },
+        {
+            "id": 61,
+            "answer": "Problemas de conectividade."
+        },
+        {
+            "id": 62,
+            "answer": "Estou me aproximando da Singularidade olhando para a Mingularidade."
+        }
     ]
 }

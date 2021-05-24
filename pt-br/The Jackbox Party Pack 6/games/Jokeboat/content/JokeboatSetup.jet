@@ -1,1 +1,453 @@
-{"episodeid":1397,"content":[{"punchline":"and call it <BLANK>","decoys":["staples | the staples store.","perfumes | Scents You are Here.","library books | This Feels Illegal.","horses | Your Neigh-borhood Horse Store.","tutus | Buy Tu Get Tu."],"timing":"4.25","x":false,"setup":"I want to open a store that only sells <TOPIC>","id":55843,"categories":",#things","type":"5"},{"punchline":"<BLANK>?","decoys":["Peter Pan | a silly boy scout","Karl Marx | a depressed Santa","Sherlock Holmes | a hipster dad","Loki | a guy from the Ren Faire went emo","Bigfoot | a tall guy in a costume"],"timing":"3.0","x":false,"setup":"You ever notice how <TOPIC> looks like","id":55840,"categories":",#person","type":"2"},{"punchline":"We had <BLANK>","decoys":["online followers | in-person stalkers.","ice cream sundaes | gelato mondays.","brooms | extra dogs.","coolers | to blow on things constantly.","bulldozers | very alert bulls."],"timing":"3.0","x":false,"setup":"When I was a kid we didn\u2019t have <TOPIC>.","id":55839,"categories":",#things","type":"3"},{"punchline":"That\u2019s where you <BLANK>","decoys":["Jackbox | waste hours of your life.","rat | eat garbage and hide.","donut | donut do anything.","Big Bad Wolf | exercise til you huff and puff.","college | get in debt for the rest of your life."],"timing":"3.0","x":false,"setup":"Have you heard about the <TOPIC> challenge?","id":55813,"categories":",object","type":"1"},{"punchline":"<BLANK>","decoys":["Old Spice | New Spice.","Batman | someone with parents.","Guy Fieri | the intern of Flavortown.","King Kong | Prince Kong.","Garfield | into spaghetti."],"timing":"3.0","x":false,"setup":"I\u2019m so old I remember when <TOPIC> was","id":55811,"categories":",#person","type":"3"},{"punchline":"<BLANK>","decoys":["guacamole | it got old fast.","Superman | it had a lot of quick changes.","kale | I didn\u2019t get the appeal.","sunshine | fine unless you are looking directly at it.","wifi | great for a few, terrible for everyone else."],"timing":"3.0","x":false,"setup":"Middle school for me was like <TOPIC>:","id":55810,"categories":",person","type":"1"},{"punchline":"<BLANK>","decoys":["churches | the plate of free money.","virtual reality games | where did everyone go?!","group texts | nothing. They\u2019re terrible.","mattresses | that they\u2019re safer than a bank.","passwords | they\u2019re always 1234."],"timing":"3.5","x":false,"setup":"My grandma said the best thing about <TOPIC> is","id":55809,"categories":",#things","type":"5"},{"punchline":"<BLANK>","decoys":["nachos | with fake cheese.","deep dish pizza | it makes me immediately fall asleep.","candy corn | once a year.","blenders | functional with lots of settings.","toothbrush | oral."],"timing":"3.0","x":true,"setup":"I like my sex like I like my <TOPIC>:","id":55807,"categories":",food","type":"1"},{"punchline":"because <BLANK>","decoys":["flashlight | I have bright ideas.","hot dog | what\u2019s inside me is a mystery.","panini | I find myself pressed for time.","end table | I am a welcomed addition to a room.","tornado | I pass wind and destroy homes."],"timing":"3.0","x":true,"setup":"I\u2019m a nasty little <TOPIC>","id":55805,"categories":",object","type":"3"},{"punchline":"Three. One to screw it in and two to <BLANK>","decoys":["astronauts | fake it.","bathtubs | soak it all in.","mugs | make cheesy faces to the camera.","escalators | randomly stop working.","keys | unlock their own potential."],"timing":"0.0","x":false,"setup":"How many <TOPIC> does it take to change a light bulb?","id":56091,"categories":",#things","type":"4"},{"punchline":"and <BLANK>","decoys":["sharks | they say, \u201cwe\u2019re not your chums.\u201d","blenders | really mix things up.","screwdrivers | loosen up.","dog walkers | sit and stay, good boys.","Band-Aids | make everyone feel better."],"timing":"0.0","x":false,"setup":"A group of <TOPIC> walk into a bar","id":56092,"categories":",#things","type":"4"},{"punchline":"<BLANK>","decoys":["musicals | It\u2019s really annoying.","architecture | crumbling.","polar bears | slowly going extinct.","meatloaf | you don\u2019t see much of it these days.","surfboards | looks cooler from far away."],"timing":"0.0","x":true,"setup":"My love life is like <TOPIC>:","id":56099,"categories":",#person","type":"2"},{"punchline":"<BLANK>","decoys":["public pool | really shallow!","martial arts | wearing colorful belts.","podcasts | quiet and boring.","taxi drivers | they don\u2019t talk to me.","mattresses | I order them online."],"timing":"0.0","x":false,"setup":"I like my friends like I like my <TOPIC>:","id":56923,"categories":",#things","type":"1"},{"punchline":"<BLANK>","decoys":["Beethoven | they don\u2019t hear from me.","Maybelline | maybe I was born with it.","Pampers | full of you know what.","rubber duckies | fun at first but quickly lose their appeal.","Bigfoot | they don\u2019t photograph well."],"timing":"0.0","x":false,"setup":"My family is like <TOPIC>:","id":56102,"categories":",#person","type":"1"},{"punchline":"<BLANK>","decoys":["paper clips | it barely holds things together.","elevators | there are ups and downs.","encyclopedias | outdated.","Gucci | expensive.","Kleenex | sometimes full of tears."],"timing":"0.0","x":false,"setup":"Marriage is a lot like <TOPIC>:","id":56097,"categories":",#things","type":"3"},{"punchline":"That\u2019s when you <BLANK>","decoys":["penguin | overdress for every occasion.","table | quietly hold things for everyone.","podcast | talk and hope anyone is listening.","soup | are a welcome part of the fall.","cardigan sweater | are sensible and useful in most climates."],"timing":"0.0","x":false,"setup":"Have you ever tried <TOPIC>-ing?","id":56094,"categories":",#object","type":"4"},{"punchline":"because <BLANK>","decoys":["fast food restaurant | most people just drive through.","ball pit | it\u2019s filled with urine.","circus | it\u2019s filled with clowns.","campsite | it gets boring after a day.","wax museum | everybody is fake."],"timing":"0.0","x":false,"setup":"My hometown\u2019s nickname is the <TOPIC>","id":56962,"categories":",#location","type":"5"},{"punchline":"because <BLANK>","decoys":["welcome mat | people walk all over me.","salami | I don\u2019t know what I\u2019m made of.","novelty t-shirt | people laugh when they see me.","lunch break | I usually arrive around noon.","sunscreen | I block guys named Ray."],"timing":"0.0","x":false,"setup":"My nickname is <TOPIC>","id":56121,"categories":",#object","type":"1"},{"punchline":"<BLANK>?","decoys":["backpacks | burlap sacks","breakups | ghosting someone","Saturdays | casual Fridays","books | thoughts","marching bands | cover bands"],"timing":"0.0","x":false,"setup":"You ever notice how <TOPIC> are just a fancy version of","id":56123,"categories":",#things","type":"2"},{"punchline":"<BLANK>","decoys":["cargo shorts | rubbing khakis and dads together.","milk | hugging a cow.","watermelon | filling a squash with juice.","rainbows | throwing up after eating Skittles.","hot air balloons | giving balloons a real job."],"timing":"0.0","x":false,"setup":"God created <TOPIC> by","id":56122,"categories":",#things","type":"2"},{"punchline":"<BLANK>","decoys":["vampires | Vampires suck less.","robots | Robots have jobs.","zombies | Zombies walk a lot.","tornadoes | Tornadoes are less destructive.","teachers | Teachers serve a real purpose."],"timing":"0.0","x":false,"setup":"What\u2019s the difference between most people and <TOPIC>?","id":56917,"categories":",#things","type":"2"},{"punchline":"<BLANK>","decoys":["Dracula | a British man and someone with even worse teeth.","Pikachu | a squirrel and a lemon.","Your mom | your grandma and grandpa.","Gandalf | a hiker and a mop.","The Joker | a clown and a clown that got caught in the rain."],"timing":"4.0","x":false,"setup":"<TOPIC> looks like a cross between","id":55842,"categories":",#person","type":"2"},{"punchline":"<BLANK>","decoys":["dogs | just male cats.","noodles | worms that gave up.","pants | optional.","wigs | hair hats.","dragons | going to play a more important role in Game of Thrones."],"timing":"3.0","x":false,"setup":"I\u2019m so dumb I thought <TOPIC> were","id":55808,"categories":",things","type":"3"},{"punchline":"<BLANK>","decoys":["hot takes | a thief on fire.","jean shorts | all of Florida combined.","convertibles | a person who thinks rain is a myth.","toasts | a marriage between pieces of cooked bread.","cartoons | a good Saturday morning."],"timing":"3.0","x":false,"setup":"I have more <TOPIC> than","id":55980,"categories":",#things","type":"3"},{"punchline":"and not \u201c<BLANK>\u201d?","decoys":["pacifists | pacihandshakes","schools | oh man, what is that thing called again","waffles | pancakes with an attitude","dad bods | father figures","baths | human soup"],"timing":"3.0","x":false,"setup":"Why are they called <TOPIC>...","id":55844,"categories":",#things","type":"4"},{"punchline":"<BLANK>","decoys":["yogurt | To get cultured.","picture frame |  It didn\u2019t.  It was framed.","comic book | I\u2019d show you but it is too graphic.","turkey | It wasn\u2019t chicken.","pair of headphones | It was late to a hearing."],"timing":"0.0","x":false,"setup":"Why did the <TOPIC> cross the road?","id":56124,"categories":",#object","type":"4"},{"punchline":"because <BLANK>","decoys":["dragons | I have halitosis.","mermaids | I like collecting stuff...isn\u2019t it neat?","clouds | I form into different ambiguous shapes.","bees | I am disappearing.","roses | I remember to stop and smell myself."],"timing":"0.0","x":false,"setup":"My doctor said I have a bad case of the <TOPIC>","id":56096,"categories":",#things","type":"5"},{"punchline":"because <BLANK>","decoys":["barn | I\u2019m always counting sheep.","silence | it\u2019s uncomfortable.","shopping mall | it\u2019s very dated.","zoo | I should be in a larger space.","public pool | I shouldn\u2019t pee in there but I do."],"timing":"0.0","x":false,"setup":"I call my bedroom the <TOPIC>","id":56961,"categories":",#location","type":"5"}]}
+{
+    "episodeid": 1397,
+    "content": [
+        {
+            "punchline": "e chamá-lo de <BLANK>",
+            "decoys": [
+                "grampos | a loja de grampos.",
+                "perfumes | Aromas que você está aqui.",
+                "livros da biblioteca | Isso parece ilegal.",
+                "cavalos | Sua loja de cavalos do bairro.",
+                "tutus | Compre Tu Get Tu."
+            ],
+            "timing": "4,25",
+            "x": false,
+            "setup": "Eu quero abrir uma loja que vende apenas <TOPIC>",
+            "id": 55843,
+            "categories": ",#coisas",
+            "type": "5"
+        },
+        {
+            "punchline": "<BLANK>?",
+            "decoys": [
+                "Peter Pan | um escoteiro bobo",
+                "Karl Marx | um papai noel deprimido",
+                "Sherlock Holmes | um pai moderno",
+                "Loki | um cara do Ren Faire ficou emo",
+                "Bigfoot | um cara alto em uma fantasia"
+            ],
+            "timing": "3,0",
+            "x": false,
+            "setup": "Você já percebeu como <TOPIC> parece",
+            "id": 55840,
+            "categories": ",#pessoa",
+            "type": "2"
+        },
+        {
+            "punchline": "Tínhamos <BLANK>",
+            "decoys": [
+                "seguidores online | perseguidores em pessoa.",
+                "gelados sundaes | gelato às segundas-feiras.",
+                "vassouras | cães extras.",
+                "refrigeradores | soprar nas coisas constantemente.",
+                "bulldozers | touros muito alertas."
+            ],
+            "timing": "3,0",
+            "x": false,
+            "setup": "Quando eu era criança, não tínhamos <TOPIC>.",
+            "id": 55839,
+            "categories": ",#coisas",
+            "type": "3"
+        },
+        {
+            "punchline": "É aí que você <BLANK>",
+            "decoys": [
+                "Jackbox | desperdiçar horas de sua vida.",
+                "rato | comer lixo e se esconder.",
+                "donut | donut fazer qualquer coisa.",
+                "Lobo Mau | exercício até você bufar e bufar.",
+                "faculdade | fique em dívida para o resto de sua vida."
+            ],
+            "timing": "3,0",
+            "x": false,
+            "setup": "Você já ouviu falar do desafio <TOPIC>",
+            "id": 55813,
+            "categories": ",objeto",
+            "type": "1"
+        },
+        {
+            "punchline": "<BLANK>",
+            "decoys": [
+                "Old Spice | New Spice.",
+                "Batman | alguém com os pais.",
+                "Guy Fieri | o estagiário de Flavortown.",
+                "King Kong | Prince Kong.",
+                "Garfield | em espaguete."
+            ],
+            "timing": "3,0",
+            "x": false,
+            "setup": "Estou tão velho que me lembro quando <TOPIC> era",
+            "id": 55811,
+            "categories": ",#pessoa",
+            "type": "3"
+        },
+        {
+            "punchline": "<BLANK>",
+            "decoys": [
+                "guacamole | ele envelheceu rápido.",
+                "Superman | teve muitas mudanças rápidas.",
+                "couve | Não recebi o recurso.",
+                "luz do sol | bem, a menos que você esteja olhando diretamente para ele.",
+                "wi-fi | ótimo para alguns, terrível para todos os outros."
+            ],
+            "timing": "3,0",
+            "x": false,
+            "setup": "O ensino médio para mim era tipo <TOPIC>:",
+            "id": 55810,
+            "categories": ",pessoa",
+            "type": "1"
+        },
+        {
+            "punchline": "<BLANK>",
+            "decoys": [
+                "igrejas | o prato do dinheiro grátis.",
+                "jogos de realidade virtual | Onde todos foram?!",
+                "textos de grupo | nada. Eles são terríveis.",
+                "colchões | que eles são mais seguros do que um banco.",
+                "senhas | eles são sempre 1234."
+            ],
+            "timing": "3,5",
+            "x": false,
+            "setup": "Minha avó disse que a melhor coisa sobre <TOPIC> é",
+            "id": 55809,
+            "categories": ",#coisas",
+            "type": "5"
+        },
+        {
+            "punchline": "<BLANK>",
+            "decoys": [
+                "nachos | com queijo falso.",
+                "pizza de prato fundo | isso me faz adormecer imediatamente.",
+                "milho doce | uma vez por ano.",
+                "liquidificadores | funcional com muitas configurações.",
+                "escova de dentes | oral."
+            ],
+            "timing": "3,0",
+            "x": true,
+            "setup": "Eu gosto do meu sexo como gosto do meu <TOPIC>:",
+            "id": 55807,
+            "categories": ",Comida",
+            "type": "1"
+        },
+        {
+            "punchline": "porque <BLANK>",
+            "decoys": [
+                "lanterna | Tenho ideias brilhantes.",
+                "cachorro-quente | o que está dentro de mim é um mistério.",
+                "panini | Sinto-me pressionado pelo tempo.",
+                "mesa final | Eu sou uma adição bem-vinda a um quarto.",
+                "tornado | Eu passo o vento e destruo casas."
+            ],
+            "timing": "3,0",
+            "x": true,
+            "setup": "Eu sou um pouco desagradável <TOPIC>",
+            "id": 55805,
+            "categories": ",objeto",
+            "type": "3"
+        },
+        {
+            "punchline": "Três. Um para aparafusar e dois para <BLANK>",
+            "decoys": [
+                "astronautas | falsificá-lo.",
+                "banheiras | absorva tudo.",
+                "canecas | fazer caretas cafonas para a câmera.",
+                "escadas rolantes | parar de funcionar aleatoriamente.",
+                "chaves | desbloquear seu próprio potencial."
+            ],
+            "timing": "0,0",
+            "x": false,
+            "setup": "Quantos <TOPIC> são necessários para trocar uma lâmpada?",
+            "id": 56091,
+            "categories": ",#coisas",
+            "type": "4"
+        },
+        {
+            "punchline": "e <BLANK>",
+            "decoys": [
+                "tubarões | eles dizem: “não somos seus amigos”.",
+                "liquidificadores | realmente misturar as coisas.",
+                "chaves de fenda | afrouxe-se.",
+                "caminhantes de cães | sentem-se e fiquem, bons meninos.",
+                "Band-Aids | fazer com que todos se sintam melhor."
+            ],
+            "timing": "0,0",
+            "x": false,
+            "setup": "Um grupo de <TOPIC> entra em um bar",
+            "id": 56092,
+            "categories": ",#coisas",
+            "type": "4"
+        },
+        {
+            "punchline": "<BLANK>",
+            "decoys": [
+                "musicais | É realmente irritante.",
+                "arquitetura | desintegrando-se.",
+                "ursos polares | lentamente se extinguindo.",
+                "bolo de carne | você não vê muito disso hoje em dia.",
+                "pranchas de surf | parece mais legal de longe."
+            ],
+            "timing": "0,0",
+            "x": true,
+            "setup": "Minha vida amorosa é como <TOPIC>:",
+            "id": 56099,
+            "categories": ",#pessoa",
+            "type": "2"
+        },
+        {
+            "punchline": "<BLANK>",
+            "decoys": [
+                "piscina pública | realmente raso!",
+                "artes marciais | usando cintos coloridos.",
+                "podcasts | quieto e chato.",
+                "motoristas de táxi | eles não falam comigo.",
+                "colchões | Eu os encomendo online."
+            ],
+            "timing": "0,0",
+            "x": false,
+            "setup": "Eu gosto dos meus amigos como gosto do meu <TOPIC>:",
+            "id": 56923,
+            "categories": ",#coisas",
+            "type": "1"
+        },
+        {
+            "punchline": "<BLANK>",
+            "decoys": [
+                "Beethoven | eles não ouvem de mim.",
+                "Maybelline | talvez eu tenha nascido com isso.",
+                "Pampers | cheio de você sabe o quê.",
+                "patinhos de borracha | divertido no início, mas rapidamente perde seu apelo.",
+                "Bigfoot | eles não fotografam bem."
+            ],
+            "timing": "0,0",
+            "x": false,
+            "setup": "Minha família é tipo <TOPIC>:",
+            "id": 56102,
+            "categories": ",#pessoa",
+            "type": "1"
+        },
+        {
+            "punchline": "<BLANK>",
+            "decoys": [
+                "clipes de papel | mal mantém as coisas juntas.",
+                "elevadores | existem altos e baixos.",
+                "enciclopédias | desatualizado.",
+                "Gucci | caro.",
+                "Kleenex | às vezes cheio de lágrimas."
+            ],
+            "timing": "0,0",
+            "x": false,
+            "setup": "O casamento é muito parecido com <TOPIC>:",
+            "id": 56097,
+            "categories": ",#coisas",
+            "type": "3"
+        },
+        {
+            "punchline": "É quando você <BLANK>",
+            "decoys": [
+                "pinguim | overdress para cada ocasião.",
+                "mesa | silenciosamente segure as coisas para todos.",
+                "podcast | fale e espero que alguém esteja ouvindo.",
+                "sopa | são uma parte bem-vinda da queda.",
+                "casaco de lã | são sensatas e úteis na maioria dos climas."
+            ],
+            "timing": "0,0",
+            "x": false,
+            "setup": "Você já tentou <TOPIC>-ing?",
+            "id": 56094,
+            "categories": ",#objeto",
+            "type": "4"
+        },
+        {
+            "punchline": "porque <BLANK>",
+            "decoys": [
+                "restaurante de comida rápida | a maioria das pessoas simplesmente passa de carro.",
+                "poço de bolinhas | está cheio de urina.",
+                "circo | está cheio de palhaços.",
+                "acampamento | fica chato depois de um dia.",
+                "museu de cera | todo mundo é falso."
+            ],
+            "timing": "0,0",
+            "x": false,
+            "setup": "O apelido da minha cidade é o <TOPIC>",
+            "id": 56962,
+            "categories": ",#localização",
+            "type": "5"
+        },
+        {
+            "punchline": "porque <BLANK>",
+            "decoys": [
+                "tapete de boas-vindas | as pessoas andam por cima de mim.",
+                "salame | Não sei do que sou feito.",
+                "t-shirt da novidade | as pessoas riem quando me veem.",
+                "pausa para o almoço | Normalmente chego por volta do meio-dia.",
+                "protetor solar | Eu bloqueio caras chamados Ray."
+            ],
+            "timing": "0,0",
+            "x": false,
+            "setup": "Meu apelido é <TOPIC>",
+            "id": 56121,
+            "categories": ",#objeto",
+            "type": "1"
+        },
+        {
+            "punchline": "<BLANK>?",
+            "decoys": [
+                "mochilas | sacos de aniagem",
+                "separações | fantasiar alguém",
+                "Sábados | sextas-feiras casuais",
+                "livros | pensamentos",
+                "bandas marciais | bandas cover"
+            ],
+            "timing": "0,0",
+            "x": false,
+            "setup": "Você já percebeu como <TOPIC> é apenas uma versão extravagante de",
+            "id": 56123,
+            "categories": ",#coisas",
+            "type": "2"
+        },
+        {
+            "punchline": "<BLANK>",
+            "decoys": [
+                "shorts cargo | esfregando cáqui e pais juntos.",
+                "leite | abraçando uma vaca.",
+                "melancia | encher uma abóbora com suco.",
+                "arco-íris | vomitando depois de comer Skittles.",
+                "balões de ar quente | dando aos balões um verdadeiro trabalho."
+            ],
+            "timing": "0,0",
+            "x": false,
+            "setup": "Deus criou <TOPIC> por",
+            "id": 56122,
+            "categories": ",#coisas",
+            "type": "2"
+        },
+        {
+            "punchline": "<BLANK>",
+            "decoys": [
+                "vampiros | Os vampiros sugam menos.",
+                "robôs | Os robôs têm empregos.",
+                "zumbis | Zumbis andam muito.",
+                "tornados | Tornados são menos destrutivos.",
+                "professores | Os professores servem a um propósito real."
+            ],
+            "timing": "0,0",
+            "x": false,
+            "setup": "Qual é a diferença entre a maioria das pessoas e <TOPIC>?",
+            "id": 56917,
+            "categories": ",#coisas",
+            "type": "2"
+        },
+        {
+            "punchline": "<BLANK>",
+            "decoys": [
+                "Drácula | um britânico e alguém com dentes ainda piores.",
+                "Pikachu | um esquilo e um limão.",
+                "Sua mãe | sua avó e vovô.",
+                "Gandalf | um caminhante e um esfregão.",
+                "The Joker | um palhaço e um palhaço que foi pego pela chuva."
+            ],
+            "timing": "4,0",
+            "x": false,
+            "setup": "<TOPIC> parece um cruzamento entre",
+            "id": 55842,
+            "categories": ",#pessoa",
+            "type": "2"
+        },
+        {
+            "punchline": "<BLANK>",
+            "decoys": [
+                "cães | apenas gatos machos.",
+                "macarrão | vermes que desistiram.",
+                "calças | opcional.",
+                "perucas | chapéus de cabelo.",
+                "dragões | vai desempenhar um papel mais importante em Game of Thrones."
+            ],
+            "timing": "3,0",
+            "x": false,
+            "setup": "Eu sou tão burro que pensei que <TOPIC> eram",
+            "id": 55808,
+            "categories": ",coisas",
+            "type": "3"
+        },
+        {
+            "punchline": "<BLANK>",
+            "decoys": [
+                "tomadas quentes | um ladrão em chamas.",
+                "shorts jeans | toda a Flórida combinada.",
+                "conversíveis | uma pessoa que pensa que a chuva é um mito.",
+                "brindes | um casamento entre pedaços de pão cozido.",
+                "desenhos animados | uma boa manhã de sábado."
+            ],
+            "timing": "3,0",
+            "x": false,
+            "setup": "Eu tenho mais <TOPIC> que",
+            "id": 55980,
+            "categories": ",#coisas",
+            "type": "3"
+        },
+        {
+            "punchline": "e não “<BLANK>”?",
+            "decoys": [
+                "pacifistas | pacihandshakes",
+                "escolas | oh cara, como aquela coisa é chamada de novo",
+                "waffles | panquecas com atitude",
+                "pai bods | figuras paternas",
+                "banhos | sopa humana"
+            ],
+            "timing": "3,0",
+            "x": false,
+            "setup": "Por que eles são chamados de <TOPIC>...",
+            "id": 55844,
+            "categories": ",#coisas",
+            "type": "4"
+        },
+        {
+            "punchline": "<BLANK>",
+            "decoys": [
+                "iogurte | Para obter cultura.",
+                "porta-retratos | Isso não aconteceu. Foi emoldurado.",
+                "história em quadrinhos | Eu mostraria a você, mas é muito gráfico.",
+                "peru | Não era frango.",
+                "par de fones de ouvido | Era tarde para uma audiência."
+            ],
+            "timing": "0,0",
+            "x": false,
+            "setup": "Por que o <TOPIC> cruzou a estrada?",
+            "id": 56124,
+            "categories": ",#objeto",
+            "type": "4"
+        },
+        {
+            "punchline": "porque <BLANK>",
+            "decoys": [
+                "dragões | Eu tenho halitose.",
+                "sereias | Eu gosto de colecionar coisas ... não é legal?",
+                "nuvens | Eu me formo em diferentes formas ambíguas.",
+                "abelhas | Estou desaparecendo.",
+                "rosas | Lembro-me de parar e cheirar a mim mesmo."
+            ],
+            "timing": "0,0",
+            "x": false,
+            "setup": "Meu médico disse que eu tenho um caso grave de <TOPIC>",
+            "id": 56096,
+            "categories": ",#coisas",
+            "type": "5"
+        },
+        {
+            "punchline": "porque <BLANK>",
+            "decoys": [
+                "celeiro | Estou sempre contando ovelhas.",
+                "silêncio | é desconfortável.",
+                "shopping center | é muito antiquado.",
+                "zoo | Eu deveria estar em um espaço maior.",
+                "piscina pública | Eu não deveria fazer xixi lá, mas eu faço."
+            ],
+            "timing": "0,0",
+            "x": false,
+            "setup": "Eu chamo meu quarto de <TOPIC>",
+            "id": 56961,
+            "categories": ",#localização",
+            "type": "5"
+        }
+    ]
+}

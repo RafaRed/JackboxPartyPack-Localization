@@ -1,43 +1,160 @@
 {
-    "content":[
-        {"id":1, "question":"Can’t stop thinking about [BLANK]!"},
-        {"id":2, "question":"If [BLANK] is wrong I don’t wanna be right!"},
-        {"id":3, "question":"What are your thoughts on [BLANK]?"},
-        {"id":4, "question":"Not sure if I like [BLANK] at all."},
-        {"id":5, "question":"It really smells like [BLANK] around here."},
-        {"id":6, "question":"When I think of you I think about [BLANK]."},
-        {"id":7, "question":"What’s up with [BLANK]?"},
-        {"id":8, "question":"Don’t trust [BLANK]."},
-        {"id":9, "question":"Thinking about dressing as [BLANK] for Halloween."},
-        {"id":10, "question":"How much are you into [BLANK]?"},
-        {"id":11, "question":"Uh oh! [BLANK]!"},
-        {"id":12, "question":"Need to get my hands on some [BLANK]!"},
-        {"id":13, "question":"But what about [BLANK]?"},
-        {"id":14, "question":"What do you not like about [BLANK]?"},
-        {"id":15, "question":"Have you ever heard of [BLANK]?"},
-        {"id":16, "question":"Tell me a secret about [BLANK]."},
-        {"id":17, "question":"Knock, knock. Who's there? [BLANK]!"},
-        {"id":18, "question":"For a fun night all you need is [BLANK]!"},
-        {"id":19, "question":"I can’t get [BLANK] out of my mind!"},
-        {"id":20, "question":"I could go for [BLANK] right now"},
-        {"id":21, "question":"Don’t you hate [BLANK]?"},
-        {"id":22, "question":"I’ve been into [BLANK] lately."},
-        {"id":23, "question":"Can I call you [BLANK]?"},
-        {"id":24, "question":"Nothing relaxes me like [BLANK]."},
-        {"id":25, "question":"You remind me of [BLANK]"},
-        {"id":26, "question":"Just call me [BLANK]"},
-        {"id":27, "question":"Don’t get between me and my [BLANK]"},
-        {"id":28, "question":"I think you could use more [BLANK]"},
-        {"id":29, "question":"You had me at [BLANK]."},
-        {"id":30, "question":"There’s no I in [BLANK]."},
-        {"id":31, "question":"What’s your first memory of [BLANK]?"},
-        {"id":32, "question":"Don’t talk to me before I’ve had my [BLANK]."},
-        {"id":33, "question":"Don’t worry, I’ve had plenty of [BLANK] before."},
-        {"id":34, "question":"[BLANK] reminds me of my dad."},
-        {"id":35, "question":"Want to get matching tattoos of [BLANK]?"},
-        {"id":36, "question":"Has anyone ever told you that you look like [BLANK]?"},
-        {"id":37, "question":"When I close my eyes, I see [BLANK]."},
-        {"id":38, "question":"If you don’t love [BLANK], I can’t trust you."},
-        {"id":39, "question":"I’m here for the [BLANK]."}
+    "content": [
+        {
+            "id": 1,
+            "question": "Não consigo parar de pensar em [BLANK]!"
+        },
+        {
+            "id": 2,
+            "question": "Se [BLANK] está errado, eu não quero estar certo!"
+        },
+        {
+            "id": 3,
+            "question": "Quais são seus pensamentos sobre [BLANK]?"
+        },
+        {
+            "id": 4,
+            "question": "Não tenho certeza se gosto de [BLANK]."
+        },
+        {
+            "id": 5,
+            "question": "Realmente cheira a [BLANK] por aqui."
+        },
+        {
+            "id": 6,
+            "question": "Quando penso em você, penso em [BLANK]."
+        },
+        {
+            "id": 7,
+            "question": "O que há com [BLANK]?"
+        },
+        {
+            "id": 8,
+            "question": "Não confie em [BLANK]."
+        },
+        {
+            "id": 9,
+            "question": "Pensando em se vestir como [BLANK] para o Halloween."
+        },
+        {
+            "id": 10,
+            "question": "Quanto você gosta de [BLANK]?"
+        },
+        {
+            "id": 11,
+            "question": "Uh oh! [BLANK]!"
+        },
+        {
+            "id": 12,
+            "question": "Preciso colocar minhas mãos em algum [BLANK]!"
+        },
+        {
+            "id": 13,
+            "question": "Mas e [BLANK]?"
+        },
+        {
+            "id": 14,
+            "question": "O que você não gosta em [BLANK]?"
+        },
+        {
+            "id": 15,
+            "question": "Você já ouviu falar de [BLANK]?"
+        },
+        {
+            "id": 16,
+            "question": "Conte-me um segredo sobre [BLANK]."
+        },
+        {
+            "id": 17,
+            "question": "TOC Toc. Quem está aí? [BLANK]!"
+        },
+        {
+            "id": 18,
+            "question": "Para uma noite divertida, você só precisa de [BLANK]!"
+        },
+        {
+            "id": 19,
+            "question": "Não consigo tirar [BLANK] da minha mente!"
+        },
+        {
+            "id": 20,
+            "question": "Eu poderia ir para [BLANK] agora"
+        },
+        {
+            "id": 21,
+            "question": "Você não odeia [BLANK]?"
+        },
+        {
+            "id": 22,
+            "question": "Eu estive em [BLANK] ultimamente."
+        },
+        {
+            "id": 23,
+            "question": "Posso te chamar de [BLANK]?"
+        },
+        {
+            "id": 24,
+            "question": "Nada me relaxa como [BLANK]."
+        },
+        {
+            "id": 25,
+            "question": "Você me lembra [BLANK]"
+        },
+        {
+            "id": 26,
+            "question": "Apenas me chame de [BLANK]"
+        },
+        {
+            "id": 27,
+            "question": "Não fique entre mim e meu [BLANK]"
+        },
+        {
+            "id": 28,
+            "question": "Eu acho que você poderia usar mais [BLANK]"
+        },
+        {
+            "id": 29,
+            "question": "Você me teve em [BLANK]."
+        },
+        {
+            "id": 30,
+            "question": "Não há I em [BLANK]."
+        },
+        {
+            "id": 31,
+            "question": "Qual é a sua primeira lembrança de [BLANK]?"
+        },
+        {
+            "id": 32,
+            "question": "Não fale comigo antes de eu ter meu [BLANK]."
+        },
+        {
+            "id": 33,
+            "question": "Não se preocupe, já bebi muito [BLANK] antes."
+        },
+        {
+            "id": 34,
+            "question": "[BLANK] me lembra meu pai."
+        },
+        {
+            "id": 35,
+            "question": "Quer obter tatuagens iguais de [BLANK]?"
+        },
+        {
+            "id": 36,
+            "question": "Alguém já te disse que você parece [BLANK]?"
+        },
+        {
+            "id": 37,
+            "question": "Quando fecho meus olhos, vejo [BLANK]."
+        },
+        {
+            "id": 38,
+            "question": "Se você não ama [BLANK], não posso confiar em você."
+        },
+        {
+            "id": 39,
+            "question": "Estou aqui pelo [BLANK]."
+        }
     ]
 }

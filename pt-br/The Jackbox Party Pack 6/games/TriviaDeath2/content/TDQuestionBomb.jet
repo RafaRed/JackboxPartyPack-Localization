@@ -1,1 +1,397 @@
-{"episodeid":1393,"content":[{"hasOutro":false,"x":false,"id":57031,"text":"[EventName=HOST/AltHost]It says, \u201cCut the tertiary wire.\u201d","pic":false,"choices":[{"controllerClass":"white","text":""},{"controllerClass":"red","text":""},{"controllerClass":"blue","correct":true,"text":""},{"controllerClass":"green","text":""}],"us":false,"hasIntro":false},{"hasOutro":false,"x":false,"id":57030,"text":"[EventName=HOST/AltHost]It says, \u201cCut the preantepenultimate wire.\u201d","pic":false,"choices":[{"controllerClass":"red","correct":true,"text":""},{"controllerClass":"black","text":""},{"controllerClass":"green","text":""},{"controllerClass":"blue","text":""}],"us":false,"hasIntro":false},{"hasOutro":false,"x":false,"id":56021,"text":"[EventName=HOST/AltHost]It says, \u201cCut the wire that\u2019s in the same place in order as <i>The Chamber of Secrets<\/i> in the Harry Potter series.\u201d","pic":false,"choices":[{"controllerClass":"green","text":""},{"controllerClass":"red","correct":true,"text":""},{"controllerClass":"black","text":""},{"controllerClass":"blue","text":""}],"us":false,"hasIntro":false},{"hasOutro":false,"x":false,"id":55990,"text":"[EventName=HOST/AltHost]It says, \u201cCut the wire that\u2019s the same color as Morgan Freeman\u2019s name in the <i>Shawshank Redemption<\/i>.\u201d","pic":false,"choices":[{"controllerClass":"red","correct":true,"text":""},{"controllerClass":"green","text":""},{"controllerClass":"yellow","text":""},{"controllerClass":"blue","text":""}],"us":true,"hasIntro":false},{"hasOutro":false,"x":false,"id":55972,"text":"[EventName=HOST/AltHost]It says, \u201cCut the wire that is the same color as Park Place on a standard Monopoly board.\u201d","pic":false,"choices":[{"controllerClass":"yellow","text":""},{"controllerClass":"green","text":""},{"controllerClass":"blue","correct":true,"text":""},{"controllerClass":"red","text":""}],"us":true,"hasIntro":false},{"hasOutro":false,"x":false,"id":55910,"text":"[EventName=HOST/AltHost]It just says, \u201cCut the wire that\u2019s the same color as the hat of the man who looks after Curious George.\u201d","pic":false,"choices":[{"controllerClass":"red","text":""},{"controllerClass":"green","text":""},{"controllerClass":"yellow","correct":true,"text":""},{"controllerClass":"blue","text":""}],"us":false,"hasIntro":false},{"hasOutro":false,"x":false,"id":55908,"text":"[EventName=HOST/AltHost]It says, \u201cCut the wire that Pablo Picasso would have cut between 1901 and 1904.\u201d","pic":false,"choices":[{"controllerClass":"red","text":""},{"controllerClass":"green","text":""},{"controllerClass":"yellow","text":""},{"controllerClass":"blue","correct":true,"text":""}],"us":false,"hasIntro":false},{"hasOutro":false,"x":false,"id":55905,"text":"[EventName=HOST/AltHost]It says, \u201cCut the wire that\u2019s the same color as the time stone in <i>Avengers: Infinity War<\/i>.\u201d","pic":false,"choices":[{"controllerClass":"red","text":""},{"controllerClass":"green","correct":true,"text":""},{"controllerClass":"yellow","text":""},{"controllerClass":"blue","text":""}],"us":false,"hasIntro":false},{"hasOutro":false,"x":false,"id":55877,"text":"[EventName=HOST/AltHost]It says to cut the \u201csable\u201d wire.","pic":false,"choices":[{"controllerClass":"black","correct":true,"text":""},{"controllerClass":"green","text":""},{"controllerClass":"red","text":""},{"controllerClass":"blue","text":""}],"us":false,"hasIntro":false},{"hasOutro":false,"x":false,"id":55875,"text":"[EventName=HOST/AltHost]It says, \u201cCut the wire that matches the color brides traditionally wear in China.\u201d","pic":false,"choices":[{"controllerClass":"yellow","text":""},{"controllerClass":"blue","text":""},{"controllerClass":"red","correct":true,"text":""},{"controllerClass":"white","text":""}],"us":false,"hasIntro":false},{"hasOutro":false,"x":false,"id":55827,"text":"[EventName=HOST/AltHost]It says, \u201cCut the wire that\u2019s the same approximate color as \u2018smoky wisteria\u2019 in the J.Crew catalog.\u201d","pic":false,"choices":[{"controllerClass":"yellow","text":""},{"controllerClass":"green","text":""},{"controllerClass":"white","text":""},{"controllerClass":"purple","correct":true,"text":""}],"us":false,"hasIntro":false},{"hasOutro":false,"x":false,"id":55745,"text":"[EventName=HOST/AltHost]It says \u201ccouper le fil vert.\u201d","pic":false,"choices":[{"controllerClass":"red","text":""},{"controllerClass":"orange","text":""},{"controllerClass":"green","correct":true,"text":""},{"controllerClass":"blue","text":""}],"us":false,"hasIntro":false},{"hasOutro":false,"x":false,"id":55457,"text":"[EventName=HOST/AltHost]It says, \u201cCut the wire that is a primary color of light but not pigment.\u201d","pic":false,"choices":[{"controllerClass":"yellow","text":"yellow"},{"controllerClass":"blue","text":"blue"},{"controllerClass":"red","text":"red"},{"controllerClass":"green","correct":true,"text":"green"}],"us":false,"hasIntro":false},{"hasOutro":false,"x":false,"id":55351,"text":"[EventName=HOST/AltHost]The instructions say, \u201cCut the VERDANT wire!\u201d","pic":false,"choices":[{"controllerClass":"yellow","text":"cut the YELLOW wire"},{"controllerClass":"blue","text":"cut the BLUE wire"},{"controllerClass":"green","correct":true,"text":"cut the GREEN wire"},{"controllerClass":"white","text":"cut the WHITE wire"}],"us":false,"hasIntro":false}]}
+{
+    "episodeid": 1393,
+    "content": [
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 57031,
+            "text": "[EventName = HOST / AltHost] Diz: “Corte o fio terciário.”",
+            "pic": false,
+            "choices": [
+                {
+                    "controllerClass": "Branco",
+                    "text": ""
+                },
+                {
+                    "controllerClass": "vermelho",
+                    "text": ""
+                },
+                {
+                    "controllerClass": "azul",
+                    "correct": true,
+                    "text": ""
+                },
+                {
+                    "controllerClass": "verde",
+                    "text": ""
+                }
+            ],
+            "us": false,
+            "hasIntro": false
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 57030,
+            "text": "[EventName = HOST / AltHost] Diz: “Corte o fio pré-penúltimo”.",
+            "pic": false,
+            "choices": [
+                {
+                    "controllerClass": "vermelho",
+                    "correct": true,
+                    "text": ""
+                },
+                {
+                    "controllerClass": "Preto",
+                    "text": ""
+                },
+                {
+                    "controllerClass": "verde",
+                    "text": ""
+                },
+                {
+                    "controllerClass": "azul",
+                    "text": ""
+                }
+            ],
+            "us": false,
+            "hasIntro": false
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 56021,
+            "text": "[EventName = HOST / AltHost] Diz, \"Corte o fio que está no mesmo lugar em ordem <i>The Chamber of Secrets</i> na série Harry Potter.\"",
+            "pic": false,
+            "choices": [
+                {
+                    "controllerClass": "verde",
+                    "text": ""
+                },
+                {
+                    "controllerClass": "vermelho",
+                    "correct": true,
+                    "text": ""
+                },
+                {
+                    "controllerClass": "Preto",
+                    "text": ""
+                },
+                {
+                    "controllerClass": "azul",
+                    "text": ""
+                }
+            ],
+            "us": false,
+            "hasIntro": false
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 55990,
+            "text": "[EventName = HOST / AltHost] Diz: “Corte o fio que tem a mesma cor do nome de Morgan Freeman no <i>Shawshank Redemption</i>”",
+            "pic": false,
+            "choices": [
+                {
+                    "controllerClass": "vermelho",
+                    "correct": true,
+                    "text": ""
+                },
+                {
+                    "controllerClass": "verde",
+                    "text": ""
+                },
+                {
+                    "controllerClass": "amarelo",
+                    "text": ""
+                },
+                {
+                    "controllerClass": "azul",
+                    "text": ""
+                }
+            ],
+            "us": true,
+            "hasIntro": false
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 55972,
+            "text": "[EventName = HOST / AltHost] Diz: “Corte o fio da mesma cor que Park Place em uma placa de Banco Imobiliário padrão.”",
+            "pic": false,
+            "choices": [
+                {
+                    "controllerClass": "amarelo",
+                    "text": ""
+                },
+                {
+                    "controllerClass": "verde",
+                    "text": ""
+                },
+                {
+                    "controllerClass": "azul",
+                    "correct": true,
+                    "text": ""
+                },
+                {
+                    "controllerClass": "vermelho",
+                    "text": ""
+                }
+            ],
+            "us": true,
+            "hasIntro": false
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 55910,
+            "text": "[EventName = HOST / AltHost] Diz apenas: “Corte o fio da mesma cor do chapéu do homem que cuida do Curious George.”",
+            "pic": false,
+            "choices": [
+                {
+                    "controllerClass": "vermelho",
+                    "text": ""
+                },
+                {
+                    "controllerClass": "verde",
+                    "text": ""
+                },
+                {
+                    "controllerClass": "amarelo",
+                    "correct": true,
+                    "text": ""
+                },
+                {
+                    "controllerClass": "azul",
+                    "text": ""
+                }
+            ],
+            "us": false,
+            "hasIntro": false
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 55908,
+            "text": "[EventName = HOST / AltHost] Diz: “Corte o fio que Pablo Picasso teria cortado entre 1901 e 1904.”",
+            "pic": false,
+            "choices": [
+                {
+                    "controllerClass": "vermelho",
+                    "text": ""
+                },
+                {
+                    "controllerClass": "verde",
+                    "text": ""
+                },
+                {
+                    "controllerClass": "amarelo",
+                    "text": ""
+                },
+                {
+                    "controllerClass": "azul",
+                    "correct": true,
+                    "text": ""
+                }
+            ],
+            "us": false,
+            "hasIntro": false
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 55905,
+            "text": "[EventName = HOST / AltHost] Diz: “Corte o fio que tem a mesma cor da pedra do tempo em <i>Avengers: Infinity War</i>”",
+            "pic": false,
+            "choices": [
+                {
+                    "controllerClass": "vermelho",
+                    "text": ""
+                },
+                {
+                    "controllerClass": "verde",
+                    "correct": true,
+                    "text": ""
+                },
+                {
+                    "controllerClass": "amarelo",
+                    "text": ""
+                },
+                {
+                    "controllerClass": "azul",
+                    "text": ""
+                }
+            ],
+            "us": false,
+            "hasIntro": false
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 55877,
+            "text": "[EventName = HOST / AltHost] Diz para cortar o fio de “zibelina”.",
+            "pic": false,
+            "choices": [
+                {
+                    "controllerClass": "Preto",
+                    "correct": true,
+                    "text": ""
+                },
+                {
+                    "controllerClass": "verde",
+                    "text": ""
+                },
+                {
+                    "controllerClass": "vermelho",
+                    "text": ""
+                },
+                {
+                    "controllerClass": "azul",
+                    "text": ""
+                }
+            ],
+            "us": false,
+            "hasIntro": false
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 55875,
+            "text": "[EventName = HOST / AltHost] Diz: “Corte o fio que corresponde à cor que as noivas tradicionalmente usam na China”.",
+            "pic": false,
+            "choices": [
+                {
+                    "controllerClass": "amarelo",
+                    "text": ""
+                },
+                {
+                    "controllerClass": "azul",
+                    "text": ""
+                },
+                {
+                    "controllerClass": "vermelho",
+                    "correct": true,
+                    "text": ""
+                },
+                {
+                    "controllerClass": "Branco",
+                    "text": ""
+                }
+            ],
+            "us": false,
+            "hasIntro": false
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 55827,
+            "text": "[EventName = HOST / AltHost] Diz: “Corte o fio que tem aproximadamente a mesma cor de 'glicínias esfumaçadas' no catálogo J.Crew.”",
+            "pic": false,
+            "choices": [
+                {
+                    "controllerClass": "amarelo",
+                    "text": ""
+                },
+                {
+                    "controllerClass": "verde",
+                    "text": ""
+                },
+                {
+                    "controllerClass": "Branco",
+                    "text": ""
+                },
+                {
+                    "controllerClass": "roxo",
+                    "correct": true,
+                    "text": ""
+                }
+            ],
+            "us": false,
+            "hasIntro": false
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 55745,
+            "text": "[EventName = HOST / AltHost] Diz “couper le fil vert.”",
+            "pic": false,
+            "choices": [
+                {
+                    "controllerClass": "vermelho",
+                    "text": ""
+                },
+                {
+                    "controllerClass": "laranja",
+                    "text": ""
+                },
+                {
+                    "controllerClass": "verde",
+                    "correct": true,
+                    "text": ""
+                },
+                {
+                    "controllerClass": "azul",
+                    "text": ""
+                }
+            ],
+            "us": false,
+            "hasIntro": false
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 55457,
+            "text": "[EventName = HOST / AltHost] Diz: “Corte o fio que é a cor primária da luz, mas não o pigmento.”",
+            "pic": false,
+            "choices": [
+                {
+                    "controllerClass": "amarelo",
+                    "text": "amarelo"
+                },
+                {
+                    "controllerClass": "azul",
+                    "text": "azul"
+                },
+                {
+                    "controllerClass": "vermelho",
+                    "text": "vermelho"
+                },
+                {
+                    "controllerClass": "verde",
+                    "correct": true,
+                    "text": "verde"
+                }
+            ],
+            "us": false,
+            "hasIntro": false
+        },
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 55351,
+            "text": "[EventName = HOST / AltHost] As instruções dizem: “Corte o fio VERDANTE!”",
+            "pic": false,
+            "choices": [
+                {
+                    "controllerClass": "amarelo",
+                    "text": "corte o fio AMARELO"
+                },
+                {
+                    "controllerClass": "azul",
+                    "text": "corte o fio AZUL"
+                },
+                {
+                    "controllerClass": "verde",
+                    "correct": true,
+                    "text": "corte o fio VERDE"
+                },
+                {
+                    "controllerClass": "Branco",
+                    "text": "corte o fio BRANCO"
+                }
+            ],
+            "us": false,
+            "hasIntro": false
+        }
+    ]
+}

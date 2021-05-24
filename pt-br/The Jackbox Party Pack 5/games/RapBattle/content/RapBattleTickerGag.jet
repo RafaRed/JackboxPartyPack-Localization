@@ -1,374 +1,376 @@
 {
-    "content": [{
+    "content": [
+        {
             "id": "001",
-            "text": "...REAL ESTATE MAGNATE RONALD FRUMP: \" ME ? PRESIDENT ? SURE, RIGHT AFTER THE CUBS WIN THE WORLD SERIES!\"..."
+            "text": "... IMÓVEL MAGNATE RONALD FRUMP: \"EU? PRESIDENTE? CLARO, APÓS OS CUBS GANHAREM A SÉRIE MUNDIAL!\" ..."
         },
         {
             "id": "002",
-            "text": "...GALLUP POLL: MOST TRUSTED PHYSICIANS IN AMERICA: 1. MARTENS 2. DRE 3. HOWSER..."
+            "text": "... PESQUISA DE GALLUP: MÉDICOS DE MAIOR CONFIANÇA NA AMÉRICA: 1. MARTENS 2. DRE 3. HOWSER ..."
         },
         {
             "id": "003",
-            "text": "...RECENT FISHING POLL: SONGS NEED BETTER HOOKS..."
+            "text": "... PESCA RECENTE PESQUISA: CANÇÕES PRECISAM MELHORES GANCHOS ..."
         },
         {
             "id": "004",
-            "text": "...ON THIS DAY: BEAT DROPPED... BUT NOT FORGOTTEN..."
+            "text": "... NESTE DIA: BATIDA CAÍDA ... MAS NÃO ESQUECIDA ..."
         },
         {
             "id": "005",
-            "text": "...BRIDGE IS CLOSED. GO DIRECTLY TO THE CHORUS..."
+            "text": "... A PONTE ESTÁ FECHADA. VÁ DIRETAMENTE PARA O CORO ..."
         },
         {
             "id": "006",
-            "text": "...SUPREME COURT RULES: SLANT RHYMES STILL COUNT..."
+            "text": "... REGRAS DO SUPREMO TRIBUNAL: SLANT RHYMES AINDA CONTA ..."
         },
         {
             "id": "008",
-            "text": "...UPDATE: WORLD MAY BE ENDING BUT CABLE COMPANIES STILL PLAN TO SEND YOU A BILL..."
+            "text": "... ATUALIZAÇÃO: O MUNDO PODE ESTAR ACABANDO, MAS AS EMPRESAS DE CABOS AINDA PLANAM ENVIAR UMA CONTA PARA VOCÊ ..."
         },
         {
             "id": "009",
-            "text": "...TODAY: THREE VERSES SLAYED, FOURTH ONLY SLIGHTLY ILL..."
+            "text": "... HOJE: TRÊS VERSÍCULOS ASSASSINADOS, O QUARTO APENAS UM POUCO MAL ..."
         },
         {
             "id": "010",
-            "text": "...ACTION MOVIES PROVEN RIGHT! GIANT ROBOTS ATTACK CITY! PRODUCT PLACEMENT IS EFFECTIVE! DRINK ROBOCOLA..."
+            "text": "... FILMES DE AÇÃO COMPROVADOS CERTOS! ROBÔS GIGANTES ATTACK CITY! A COLOCAÇÃO DO PRODUTO É EFICAZ! BEBA ROBOCOLA ..."
         },
         {
             "id": "011",
-            "text": "...AFTER UPGRADE, SHOW TONIGHT WILL BE HEADLINED BY ANDRE 4000..."
+            "text": "... APÓS O UPGRADE, MOSTRAR ESTA NOITE SERÁ TITULAR DE ANDRE 4000 ..."
         },
         {
             "id": "012",
-            "text": "...POLL: NUMBER OF HANDS IN THE AIR INDICATES MASSIVE APATHY..."
+            "text": "... PESQUISA: NÚMERO DE MÃOS NO AR INDICA APATIA MACIÇA ..."
         },
         {
             "id": "013",
-            "text": "...DAMAGE REPORT: THE ROOF IS BOTH ON FIRE AND HAS BEEN RAISED TO DANGEROUS LEVELS..."
+            "text": "... RELATÓRIO DE DANOS: O TETO ESTÁ AMBOS A FOGO E FOI ELEVADO A NÍVEIS PERIGOSOS ..."
         },
         {
             "id": "014",
-            "text": "...WARNING: UNESCORTED CHILDREN WILL BE FORMED INTO DANCE TEAMS..."
+            "text": "... ATENÇÃO: CRIANÇAS SEM ESCORRIDO SERÃO FORMADAS EM EQUIPES DE DANÇA ..."
         },
         {
             "id": "015",
-            "text": "...TODAY'S WEATHER: STRONG WINDS, WEAK VERSES..."
+            "text": "... TEMPO DE HOJE: VENTOS FORTES, VERSOS FRACOS ..."
         },
         {
             "id": "016",
-            "text": "...GIANT ROBOT SCARE \"FAKE NEWS \" SAYS MAN BEFORE BEING CRUSHED BY GIANT ROBOT... "
+            "text": "... ASSUSTO DE ROBÔ GIGANTE \"NOTÍCIAS FALSAS\" DIZ HOMEM ANTES DE SER ESMAGADO PELO ROBÔ GIGANTE ... "
         },
         {
             "id": "017",
-            "text": "... SURGEON GENERAL'S WARNING: INTENTIONALLY DROPPED MICROPHONES A REAL TRIPPING HAZARD..."
+            "text": "... AVISO DO CIRURGIÃO GERAL: MICROFONES INTENCIONALMENTE CAÍDOS, UM REAL RISCO DE DISPARO ..."
         },
         {
             "id": "019",
-            "text": "...LEADING LINGUIST: NUMBERS SHOULD NEVER STAND IN 4 WORDS..."
+            "text": "... LINGUISTA LÍDER: OS NÚMEROS NUNCA DEVEM ESTAR EM 4 PALAVRAS ..."
         },
         {
             "id": "020",
-            "text": "...LOCAL BASEBALL GAME CANCELLED DUE TO INCLEMENT WEATHER/GIANT ROBOTS..."
+            "text": "... JOGO DE BASEBOL LOCAL CANCELADO DEVIDO A INCLEMENTO DE TEMPO / ROBÔS GIGANTES ..."
         },
         {
             "id": "022",
-            "text": "...IS YOUR ROBOT TOO BIG? LEARN TO GET A BEACH BOT BY SUMMER..."
+            "text": "... O SEU ROBÔ É MUITO GRANDE? APRENDA A OBTER UM BOT DE PRAIA NO VERÃO ..."
         },
         {
             "id": "023",
-            "text": "...ATTENTION: LOITERERS WILL BE TOWED..."
+            "text": "... ATENÇÃO: LOITERERS SERÃO REBOCADOS ..."
         },
         {
             "id": "025",
-            "text": "...BREAKING NEWS: NEWS STATION BROKEN BY GIANT ROBOTS..."
+            "text": "... ÚLTIMAS NOTÍCIAS: ESTAÇÃO DE NOTÍCIAS QUEBRADA POR ROBÔS GIGANTES ..."
         },
         {
             "id": "027",
-            "text": "...RAPPING PROVEN TO BE GOOD FOR YOUR HEALTH... MOSTLY BECAUSE IT KEEPS THE ROBOTS FROM CRUSHING YOU..."
+            "text": "... O RAPPING COMPROVADO É BOM PARA A SUA SAÚDE ... MAIS PORQUE IMPEDE OS ROBÔS DE ESMAGAR VOCÊ ..."
         },
         {
             "id": "029",
-            "text": "...EXPELLED FROM YOUR HOME DUE TO ROBOT TAKEOVER? CONTACT A GOV'T AGENCY IN A DIF STATE. OR A FRIEND ABROAD, MAYBE?..."
+            "text": "... EXPULSO DE SUA CASA DEVIDO A TOMADA DE ROBÔ? CONTATE UMA AGÊNCIA GOV'T EM UM ESTADO DIF. OU UM AMIGO NO EXTERIOR, TALVEZ? ..."
         },
         {
             "id": "030",
-            "text": "...HIRING: DRIVERS FOR RIDESHARE COMPANY. NEED VALID LICENSE AND CAR THAT ACCOMMODATES 60 FT. TITANIUM BEAST..."
+            "text": "... ALUGUER: MOTORISTAS PARA A RIDESHARE COMPANY. PRECISA DE LICENÇA VÁLIDA E DE CARRO QUE ACOMODA 60 FT. BESTA DE TITÂNIO ..."
         },
         {
             "id": "031",
-            "text": "...NAUGHTY LADIES, LET'S PARTY. OOPS, SORRY. WAIT, WHAT IS THIS, WHERE DOES THIS SHOW UP..."
+            "text": "... MENINAS IMPERTINENTES, VAMOS FESTA. OPA, DESCULPE. ESPERE, O QUE É ISSO, ONDE ISSO APARECE ..."
         },
         {
             "id": "032",
-            "text": "...BANDANAS UP 90.23...HAIR PIX UP 35.14...NOSE RNGS DOWN 12.51...TIMBRLNDS DOWN 327.88..."
+            "text": "... BANDANAS ACIMA 90,23 ... CABELO PIX ACIMA 35,14 ... NARIZ RNGS ABAIXO 12,51 ... TIMBRLNDS ABAIXO 327,88 ..."
         },
         {
             "id": "033",
-            "text": "...UNTCKED NBA JRSYS UP 123.90...XTRA LNG WHTE TSHRT UP 81.44...BUTTND UP FLNNL DOWN 72.33..."
+            "text": "... UNTCKED NBA JRSYS UP 123,90 ... XTRA LNG WHTE TSHRT UP 81,44 ... BUTTND UP FLNNL DOWN 72,33 ..."
         },
         {
             "id": "034",
-            "text": "...LOST PHONE: IF FOUND...GIVE IT DIRECTIONS AND SEND IT ON ITS WAY..."
+            "text": "... TELEFONE PERDIDO: SE ENCONTRADO ... DÊ AS INSTRUÇÕES E ENVIE-O DO SEU MODO ..."
         },
         {
             "id": "036",
-            "text": "...MAYORAL DEBATE TONIGHT...GUBERNATORIAL DANCE-OFF TOMORROW..."
+            "text": "... MAYORAL DEBATE ESTA NOITE ... DANÇA GUBERNATORIAL-OFF AMANHÃ ..."
         },
         {
             "id": "037",
-            "text": "...VICTIM OF ROBOT ATTACK DISSED BUT STILL BREATHING..."
+            "text": "... VÍTIMA DE ATAQUE DE ROBÔ DISSED, MAS AINDA RESPIRA ..."
         },
         {
             "id": "038",
-            "text": "...WARNING: CHORUS COMING BACK AGAIN..."
+            "text": "... AVISO: CORO VOLTANDO DE NOVO ..."
         },
         {
             "id": "039",
-            "text": "...HEADLINE: REAL PANTS MADE FROM FAUX LEATHER CAUSE EXISTENTIAL CRISIS..."
+            "text": "... TÍTULO: CALÇAS REAIS FEITAS EM COURO FALSO CAUSAM CRISE EXISTENCIAL ..."
         },
         {
             "id": "040",
-            "text": "...MAN FINDS HOLE IN BUCKET HAT...WIFE LIZA CLAIMS SHE TOLD HIM HOW TO FIX IT...FOUND CONVERSATION TO BE ENDLESS..."
+            "text": "... O HOMEM ENCONTRA BURACO NO CHAPÉU ... A ESPOSA LIZA REIVINDICA QUE DISSE A ELE COMO CONSEGUIR ... ENCONTROU A CONVERSAÇÃO PARA SER INFINITO ..."
         },
         {
             "id": "041",
-            "text": "...GOVERNMENT ISSUES SURVIVAL FANNY PACKS..."
+            "text": "... QUESTÕES GOVERNAMENTAIS SOBREVIVENTES AOS PACOTES DE FANNY ..."
         },
         {
             "id": "042",
-            "text": "...\"I CAN'T BELIEVE ROBOTS ARE REAL\" SAYS LOCAL VAMPIRE..."
-        }, {
+            "text": "... \"NÃO ACREDITO QUE OS ROBÔS SÃO REAIS\", DIZ O VAMPIRO LOCAL ..."
+        },
+        {
             "id": "043",
-            "text": "...TICKER PROGRAM STILL RUNNING...AS YOU SHOULD BE..."
+            "text": "... O PROGRAMA TICKER AINDA ESTÁ EM EXECUÇÃO ... COMO DEVERIA ESTAR ..."
         },
         {
             "id": "044",
-            "text": "...THE FOLLOWING SCHOOLS ARE CLOSED: THE OLD SCHOOL...THE NEW SCHOOL...THE SCHOOL OF HARD KNOCKS..."
+            "text": "... AS SEGUINTES ESCOLAS ESTÃO FECHADAS: A VELHA ESCOLA ... A NOVA ESCOLA ... A ESCOLA DAS BATIDAS DURAS ..."
         },
         {
             "id": "045",
-            "text": "...THIS IS A TEST OF THE EMERGENCY ALERT SYSTEM: HOLY !@#$...WHAT THE $%$&...WE'RE ALL !@#$%'ED..."
+            "text": "... ESTE É UM TESTE DO SISTEMA DE ALERTA DE EMERGÊNCIA: SANTO! @ # $ ... QUAIS OS $% $ & ... SOMOS TODOS! @ # $% 'ED ..."
         },
         {
             "id": "046",
-            "text": "...ROBOTS FOUND ON SCHOOLYARD DOING THE ROBOT... CROWD FINDS IT A BIT TOO ON THE NOSE..."
+            "text": "... ROBÔS ENCONTRADOS NA ESCOLA FAZENDO O ROBÔ ... MULTIDÃO ENCONTRA UM POUCO DEMAIS NO NARIZ ..."
         },
         {
             "id": "047",
-            "text": "...DEBBIE WILL U MARRYOHNOROBOTSDOUSEETHEROBOTSAREYOUSTILLTYPING..."
+            "text": "... DEBBIE VAI SE CASAR OU BOTSDOUSARHEROBOTSAREYOUSTILLTYPING ..."
         },
         {
             "id": "048",
-            "text": "...CROSSFADING UP 321.234...BEATMATCHING DOWN 123.123...PULSING UP 1212.12...SCRATCHING UP DOWN UP DOWN..."
+            "text": "... CROSSFADING UP 321.234 ... BEATMATCHING DOWN 123.123 ... PULSING UP 1212.12 ... SCRATCH UP DOWN UP DOWN ..."
         },
         {
             "id": "049",
-            "text": "...WITNESSES: ROBOT INVADERS HAVE FEW CLEAR MOTIVES...MOSTLY SEEN \"KICKING IT \" AND \"LAYING IT DOWN \"..."
+            "text": "... TESTEMUNHAS: OS ROBÔS INVASORES TÊM POUCOS MOTIVOS CLAROS ... VIU MAIS \"CHUTANDO\" E \"COLOCANDO-O PARA BAIXO\" ..."
         },
         {
             "id": "050",
-            "text": "...SURGEON GENERAL'S WARNING: BEFRIEND ROBOTS OR RISK DESTRUCTION..."
+            "text": "... AVISO DO CIRURGIÃO GERAL: ATRIBUA OS ROBÔS OU RISCO DE DESTRUIÇÃO ..."
         },
         {
             "id": "051",
-            "text": "...DON'T CRY BECAUSE IT'S OVER...SMILE BECAUSE THE ROBOT OVERLORDS INSIST ON POSITIVITY..."
+            "text": "... NÃO CHORE PORQUE JÁ ACABOU ... SORRIA PORQUE OS OVERLORDS DO ROBÔ INSISTEM NA POSITIVIDADE ..."
         },
         {
             "id": "052",
-            "text": "...RAP BATTLING SUX! JOIN THE UNDERGROUND REVOLUTION...TEXT ALISON FOR INFO..."
+            "text": "... RAP BATTLING SUX! JUNTE-SE À REVOLUÇÃO SUBTERRÂNEA ... TEXTO ALISON PARA INFORMAÇÕES ..."
         },
         {
             "id": "053",
-            "text": "...TORNADO WARNING: TAKE COVER IF IN VICINITY OF BREAKDANCING ROBOT..."
+            "text": "... TORNADO ATENÇÃO: COBRE SE ENTRAR EM VICINDADE DE ROBÔ QUEBRA ..."
         },
         {
             "id": "054",
-            "text": "...SUPREME COURT RULES: HUMAN-ROBOT RELATIONSHIPS LEGAL, BUT \"EVERYONE BE CAREFUL \"..."
+            "text": "... REGRAS DO SUPREMO TRIBUNAL: RELAÇÕES HUMANO-ROBÔ LEGAIS, MAS \"TODOS TÊM CUIDADO\" ..."
         },
         {
             "id": "055",
-            "text": "...RECENT GRADS INVITIED TO APPLY FOR TECH APPRENTICESHIP IN OILING ROBOTS ALL UP 'N' DOWN..."
+            "text": "... RECENTES FORMADORES CONVIDADOS A APLICAR PARA APRENDIZAGEM TECNOLÓGICA EM ROBÔS DE PETRÓLEO ALL UP 'N' DOWN ..."
         },
         {
             "id": "056",
-            "text": "...BEST DANCE FOR DEALING WITH ROBOTS: THE RUNNING MAN..."
+            "text": "... MELHOR DANÇA PARA LIDAR COM ROBÔS: O HOMEM CORRENTE ..."
         },
         {
             "id": "057",
-            "text": "...WARNING TO DANCERS: \"DOING THE ROBOT \" NOW HAS ENTIRELY NEW MEANING..."
+            "text": "... AVISO AOS DANÇARINOS: \"FAZENDO O ROBÔ\" AGORA TEM UM SIGNIFICADO TOTAL ..."
         },
         {
             "id": "058",
-            "text": "...WARNING: WATCH FOR FALLING ROBOT PARTS...DON'T GET SCREWED..."
+            "text": "... AVISO: PRESTE ATENÇÃO À QUEDA DAS PEÇAS DO ROBÔ ... NÃO SEJA PARAFUSADO ..."
         },
         {
             "id": "059",
-            "text": "...ROBOTS \"BETTER THAN HUMANS IN EVERY WAY,\" ACCORDING TO STUDY BY DR. MECHOTRON 5000..."
+            "text": "... ROBÔS \"MELHORES DO QUE HUMANOS EM TODAS AS FORMAS\", DE ACORDO COM ESTUDO DO DR. MECHOTRON 5000 ..."
         },
         {
             "id": "060",
-            "text": "...POLICE POWERLESS: COMMISSIONER SAYS ROBOT TRACKS ARE SO HOT IT'S A MATTER FOR THE FIRE DEPT..."
+            "text": "... POLÍCIA SEM PODER: COMISSÁRIO DIZ QUE AS PISTAS DE ROBÔ ESTÃO TÃO QUENTES QUE É UMA QUESTÃO PARA O DEPÓSITO DE INCÊNDIO ..."
         },
         {
             "id": "061",
-            "text": "...EXPERTS BAFFLED: ROBOTS HATE PLAYER 2 MOST OF ALL..."
+            "text": "... ESPECIALISTAS BAFFLED: ROBÔS ODEIAM O JOGADOR 2 MAIS DE TODOS ..."
         },
         {
             "id": "062",
-            "text": "...WARNING: MO' BOTS... MO' PROBLEMS..."
+            "text": "... AVISO: MO 'BOTS ... MO' PROBLEMAS ..."
         },
         {
             "id": "063",
-            "text": "...THEOLOGIANS AGREE: SPECIAL PLACE IN HELL FOR PEOPLE WHO FRONT..."
+            "text": "... OS TEÓLOGOS CONCORDAM: LUGAR ESPECIAL NO INFERNO PARA PESSOAS QUE FRENTE ..."
         },
         {
             "id": "064",
-            "text": "...HEAT WAVE ADVISORY: KEPT IT REAL INDOORS...CHILLAX IF POSSIBLE..."
+            "text": "... CONSULTIVO DE ONDAS DE CALOR: MANTENHA-O REAL NO INTERIOR ... CHILLAX SE POSSÍVEL ..."
         },
         {
             "id": "065",
-            "text": "...EXPERT: GIANT ROBOT ATTACK \"DIFFERENT THAN IN THE MOVIES \"...EVERYBODY \"MUCH LESS ATTRACTIVE \"..."
+            "text": "... ESPECIALISTA: ATAQUE DE ROBÔ GIGANTE \"DIFERENTE DO QUE NOS FILMES\" ... TODOS \"MUITO MENOS ATRATIVOS\" ..."
         },
         {
             "id": "066",
-            "text": "...GIANT ROBOTS ATTACK...MICHAEL BAY DECLARED PROPHET..."
+            "text": "... ATAQUE DE ROBÔS GIGANTES ... MICHAEL BAY DECLARADO PROFETA ..."
         },
         {
             "id": "067",
-            "text": "...GIANT ROBOT MADE OF TUNGSTEN DECLARED HARDEST RAPPER OF ALL..."
+            "text": "... GIGANTE ROBÔ FEITO DE TUNGSTÊNIO DECLARADO O RAPPER MAIS DIFÍCIL DE TODOS ..."
         },
         {
             "id": "068",
-            "text": "...TREAT YOURSELF: BE SURE TO PICK OUT A ROBOT SHELTER WITH NICE CURTAINS..."
+            "text": "... TRATA-SE: NÃO SE ESQUEÇA DE ESCOLHER UM ROBÔ COM CORTINAS AGRADÁVEIS ..."
         },
         {
             "id": "069",
-            "text": "...JUDGES DECLARE NOTHING IN RULES PREVENTING ROBOT DOG FROM ENTERING RAP BATTLE..."
+            "text": "... OS JUÍZES NÃO DECLARAM NADA NAS REGRAS QUE IMPEDEM O CÃO ROBÔ DE ENTRAR NA BATALHA DE RAP ..."
         },
         {
             "id": "070",
-            "text": "...TIRED OF POP-UPS?...NO?...HOW LONELY ARE YOU?..."
+            "text": "... CANSADO DE POP-UPS? ... NÃO? ... VOCÊ ESTÁ SÓ? ..."
         },
         {
             "id": "071",
-            "text": "...AMERICAN HEART ASSOCIATION RECOMMENDS STUNTIN' AND FLEXIN' 30 MIN/DAY..."
+            "text": "... AMERICAN HEART ASSOCIATION RECOMENDA STUNTIN 'E FLEXIN' 30 MIN / DIA ..."
         },
         {
             "id": "072",
-            "text": "...ADVISORY: CHECK HOME ELECTRONICS FOR SIGNS OF ARTIFICIAL INTELLIGENCE, BEATBOXING, ETC..."
+            "text": "... CONSULTORIA: VERIFIQUE A ELETRÔNICA EM CASA PARA SINAIS DE INTELIGÊNCIA ARTIFICIAL, BEATBOXING, ETC ..."
         },
         {
             "id": "073",
-            "text": "...STAY ALIVE...TRY...TRY TO SURVIVE..."
+            "text": "... FIQUE VIVO ... TENTE ... TENTE SOBREVIVER ..."
         },
         {
             "id": "074",
-            "text": "...THERE ARE MANY OF US...WE ARE RESISTING...WE ARE FLEEING NORTH TO THE CANADIAN ROCKIES...MEET BY THE CLOCK TOWER AT MIDNIGHT..."
+            "text": "... SOMOS MUITOS ... ESTAMOS RESISTENTES ... ESTAMOS FUGINDO PARA O NORTE PARA OS ROCKIES CANADENSES ... ENCONTRAMOS NA TORRE DO RELÓGIO À MEIA-NOITE ..."
         },
         {
             "id": "075",
-            "text": "...ZING ZANG KA-BLANG! USE FAKE WORDS TO STUN BOTS..."
+            "text": "... ZING ZANG KA-BLANG! USE PALAVRAS FALSAS PARA ATORDOAR BOTS ..."
         },
         {
             "id": "076",
-            "text": "...FLASH SALE AT MUNICIPAL MUSEUM OF ART...EVERYTHING MUST GO... ROBOTS CAN'T APPRECIATE 2-D ART..."
+            "text": "... VENDA FLASH NO MUSEU DE ARTE MUNICIPAL ... TUDO DEVE IR ... OS ROBÔS NÃO PODEM APRECIAR A ARTE 2-D ..."
         },
         {
             "id": "077",
-            "text": "...GOV'T LAUNCHES FACT FINDING COMMITTEE TO DETERMINE JUST HOW GIANT THE ROBOTS ARE..."
+            "text": "... GOV'N LANÇA O COMITÊ DE VERIFICAÇÃO DE FATOS PARA DETERMINAR O QUÃO GIGANTES OS ROBÔS SÃO ..."
         },
         {
             "id": "078",
-            "text": "...ROBOTS SEEM PEACEFUL...THEY LIKE ALL HUMANS EXCEPT BRIAN..."
+            "text": "... OS ROBÔS PARECEM PACÍFICOS ... ELES GOSTAM DE TODOS OS HUMANOS, EXCETO BRIAN ..."
         },
         {
             "id": "079",
-            "text": "...NATIONAL GUARD REFUSES TO STEP TO ROBOTS..."
+            "text": "... GUARDA NACIONAL SE RECUSA A PASSAR PARA OS ROBÔS ..."
         },
         {
             "id": "080",
-            "text": "...MAYOR CALLS FOR EVACUATION...CITIZENS TRAPPED BY THE BEAT..."
+            "text": "... PREFEITO CHAMADOS PARA EVACUAÇÃO ... CIDADÃOS PEGADOS PELA BATIDA ..."
         },
         {
             "id": "081",
-            "text": "...DEATH COUNT: 0...VERSES SLAIN: 143..."
+            "text": "... CONTAGEM DA MORTE: 0 ... VERSOS SLAIN: 143 ..."
         },
         {
             "id": "082",
-            "text": "...SCIENTISTS BAFFLED BY ROBOTS' ABILITY TO GET DOWN AND GET ON UP AT THE SAME TIME..."
+            "text": "... CIENTISTAS ATRIBUIDOS PELA CAPACIDADE DOS ROBÔS DE DESCER E SUBIR AO MESMO TEMPO ..."
         },
         {
             "id": "083",
-            "text": "...CITIZENS URGED TO IGNORE ROBOTS, FOCUS ON THEIR CAREERS..."
+            "text": "... CIDADÃOS INSTAMOS A IGNORAR ROBÔS, FOCO EM SUAS CARREIRAS ..."
         },
         {
             "id": "084",
-            "text": "...LOCAL MAN CLAIMS HE SAW ROBOT ATTACK COMING, EVERYONE OWES HIM FIVE BUCKS..."
+            "text": "... O HOMEM LOCAL REALIZA QUE VIU ATAQUE DE ROBÔ, TODOS DEVEM A ELE CINCO DINHEIROS ..."
         },
         {
             "id": "085",
-            "text": "...CONSTANT ROBOCALLS HAVAE LAW ENFORCEMENT INSISTING THAT 911 IS NOT A JOKE..."
+            "text": "... ROBOCALLS CONSTANTES TÊM APLICAÇÃO DA LEI INSISTINDO QUE 911 NÃO É UMA Piada ..."
         },
         {
             "id": "086",
-            "text": "...STUDIES SHOW THAT ROBOTS ARE NOT NAUGHTY BY NATURE...IT IS LEARNED BEHAVIOR..."
+            "text": "... ESTUDOS MOSTRAM QUE OS ROBÔS NÃO SÃO IMPERTINENTES POR NATUREZA ... APRENDE-SE COMPORTAMENTO ..."
         },
         {
             "id": "087",
-            "text": "...\"WHATTA BOT WHATTA BOT WHATTA BOT WHATTA MIGHTY BIG BOT,\" SAYS WOMAN CURRENTLY SEASONING HER FOOD..."
+            "text": "... \"WHATTA BOT WHATTA BOT WHATTA BOT WHATTA PODEROSO BIG BOT\", DIZ A MULHER ATUALMENTE TEMPERANDO SUA COMIDA ..."
         },
         {
             "id": "088",
-            "text": "...GIANT ROBOT GETS BALL OFF ROOF THAT HAD BEEN UP THERE SO LONG EVERYONE HAD PLAIN FORGOTTEN ABOUT IT...LOCALS SAY THANKS I GUESS..."
+            "text": "... O ROBÔ GIGANTE PEGA A BOLA DO TELHADO QUE ESTAVA LÁ HÁ MUITO TEMPO QUE TODOS TINHAM ESQUECIDOS SOBRE ISSO ... LOCALS DIZEM OBRIGADO, ACHO ..."
         },
         {
             "id": "089",
-            "text": "...DOUG IF U R READING THIS WE ARE ALL IN THE BUNKER BUT DIDN'T INVITE U SORRY BUDDY..."
+            "text": "... DOUG SE UR LENDO ISTO ESTAMOS TODOS NO BUNKER, MAS NÃO CONVIDAMOS U SORRY BUDDY ..."
         },
         {
             "id": "090",
-            "text": "...GIANT ROBOTS INVADE CITY...TRAFFIC HOTSPOTS REMAIN...COMMUTE TIMES NORMAL..."
+            "text": "... ROBÔS GIGANTES INVADEM CIDADE ... HOTSPOTS DE TRÁFEGO PERMANECEM ... COMUTOS NORMAIS ..."
         },
         {
             "id": "091",
-            "text": "...REPORT: LOCALS MAXIN' AND RELAXIN' ALL COOL WHEN THE ROBOTS STARTED MAKING TROUBLE IN THE NEIGHBORHOOD..."
+            "text": "... RELATÓRIO: LOCALS MAXIN 'AND RELAXIN' TUDO FRESCO QUANDO OS ROBÔS COMEÇARAM A CAUSAR PROBLEMAS NO BAIRRO ..."
         },
         {
             "id": "092",
-            "text": "...ON THE BRIGHT SIDE: ROBOT RULERS ADVOCATE MEDICARE FOR ALL..."
+            "text": "... NO LADO LUMINOSO: ROBOT RULERS ADVOCATE MEDICARE FOR ALL ..."
         },
         {
             "id": "093",
-            "text": "...PRO TIP: DO NOT ENGAGE IN A RAP BATTLE IF OPERATING WITH LESS THAN 10% BATTERY..."
+            "text": "... DICA PRO: NÃO ENTRE EM UMA BATALHA RAP SE OPERAR COM MENOS DE 10% DE BATERIA ..."
         },
         {
             "id": "094",
-            "text": "...ROBOTS EQUIPPED WITH NEW PATENTED FEAR SMELLING TECHNOLOGY..."
+            "text": "... ROBÔS EQUIPADOS COM A NOVA TECNOLOGIA PATENTEADA DE CHEIRO DE MEDO ..."
         },
         {
             "id": "095",
-            "text": "...SERIOUSLY, IF YOU DID NOT READ THE BOOK, DO NOT BOTHER COMING TO BOOK CLUB..."
+            "text": "... A SÉRIO, SE VOCÊ NÃO LEU O LIVRO, NÃO SE PREOCUPE EM VIR AO CLUBE DO LIVRO ..."
         },
         {
             "id": "096",
-            "text": "...SHORTAGE OF AGRICULTURAL ROBOTS...PLEASE VOLUNTEER..."
+            "text": "... ESCASSEZ DE ROBÔS AGRÍCOLAS ... POR FAVOR, VOLUNTÁRIO ..."
         },
         {
             "id": "097",
-            "text": "...RHYMING DICTIONARIES SOLD OUT NATIONWIDE..."
+            "text": "... DICIONÁRIOS DE RIMAMENTO ESGOTADOS EM TODO O NACIONAL ..."
         },
         {
             "id": "098",
-            "text": "...TICKETS NOW AVAILABLE FOR 2042 BEYONCE TOUR..."
+            "text": "... BILHETES AGORA DISPONÍVEIS PARA O 2042 BEYONCE TOUR ..."
         },
         {
             "id": "099",
-            "text": "...SEC. OF DEFENSE: EXTENT OF RECENT BOT BATTLE OVERSTATED, MORE OF A RAP SKIRMISH..."
+            "text": "... SEC. DE DEFESA: EXTENSÃO DA RECENTE BATALHA DE BOT SUPERADA, MAIS DE UM RAP SKIRMISH ..."
         },
         {
             "id": "100",
-            "text": "...THE MOON: SUN IS GOING DOWN \"BEFORE DUSK.GUARANTEED \"..."
+            "text": "... A LUA: O SOL ESTÁ BAIXANDO \"ANTES DO PÔR-DO-SOL.GUARANTIDO\" ..."
         }
     ]
 }

@@ -2,619 +2,619 @@
     "payload": [
         {
             "id": "AUDIENCE_SCOLD",
-            "category": "AUDIENCE",
-            "icon": "CAT",
-            "name": "Scold the cat",
+            "category": "PÚBLICO",
+            "icon": "GATO",
+            "name": "Repreender o gato",
             "sourceFile": "audience_scold_cat.conv"
         },
         {
-            "id": "ACTION_FIGURES",
-            "category": "ACTIONFIGURES",
+            "id": "FIGURAS DE AÇÃO",
+            "category": "FIGURAS DE AÇÃO",
             "icon": "HUMAN_2",
-            "name": "Pretend your action figures are talking",
-            "sourceFile": "generic/Action_Figures.conv"
+            "name": "Finja que seus bonecos estão falando",
+            "sourceFile": "genérico / Action_Figures.conv"
         },
         {
             "id": "BAND_GEEK",
-            "category": "NEIGHBOR",
+            "category": "VIZINHO",
             "icon": "HUMAN_3",
-            "name": "Marching band donations",
-            "sourceFile": "generic/Band_Geek.conv"
+            "name": "Doações de bandas",
+            "sourceFile": "genérico / Band_Geek.conv"
         },
         {
             "id": "BIRDWATCHER",
-            "category": "NEIGHBOR",
+            "category": "VIZINHO",
             "icon": "HUMAN_2",
-            "name": "Let Birdwatcher In Yard",
-            "sourceFile": "generic/Birdwatcher.conv"
+            "name": "Deixe o observador de pássaros no quintal",
+            "sourceFile": "generic / Birdwatcher.conv"
         },
         {
-            "id": "BIRTHDAY_INVITE",
-            "category": "BIRTHDAYINVITE",
+            "id": "ANIVERSÁRIO_INVITE",
+            "category": "ANIVERSÁRIO",
             "icon": "HUMAN_3",
-            "name": "Get yourself invited to classmate's birthday",
-            "sourceFile": "generic/Birthday_Invite.conv"
+            "name": "Seja convidado para o aniversário de um colega de classe",
+            "sourceFile": "genérico / Birthday_Invite.conv"
         },
         {
             "id": "CABLECO",
-            "category": "MAKECALL",
+            "category": "FAZER LIGAÇÃO",
             "icon": "HUMAN_4",
-            "name": "Call cable company",
-            "sourceFile": "generic/Cable_Co.conv"
+            "name": "Ligue para a empresa de TV a cabo",
+            "sourceFile": "genérico / Cable_Co.conv"
         },
         {
             "id": "COMPLAIN_ABOUT_KIDS",
-            "category": "RAMBLING",
+            "category": "DEVAGAR",
             "icon": "HUMAN_1",
-            "name": "Complain about kids these days",
-            "sourceFile": "generic/Complain_About_Kids.conv"
+            "name": "Reclame das crianças hoje em dia",
+            "sourceFile": "genérico / Complain_About_Kids.conv"
         },
         {
-            "id": "DENTIST",
-            "category": "MAKECALL",
+            "id": "DENTISTA",
+            "category": "FAZER LIGAÇÃO",
             "icon": "HUMAN_2",
-            "name": "Make dentist appointment",
-            "sourceFile": "generic/Dentist_Appt.conv"
+            "name": "Marque consulta no dentista",
+            "sourceFile": "genérico / Dentist_Appt.conv"
         },
         {
             "id": "FRIDGE_REPAIR",
-            "category": "MAKECALL",
+            "category": "FAZER LIGAÇÃO",
             "icon": "HUMAN_4",
-            "name": "Call Repair Shop About Fridge",
-            "sourceFile": "generic/Fix_Fridge.conv"
+            "name": "Ligue para a oficina sobre o refrigerador",
+            "sourceFile": "genérico / Fix_Fridge.conv"
         },
         {
             "id": "FRIDGE_PRANK",
-            "category": "MAKECALL",
+            "category": "FAZER LIGAÇÃO",
             "icon": "HUMAN_3",
-            "name": "Prank call local business",
-            "sourceFile": "generic/Fridge_Prank.conv"
+            "name": "Trote para empresa local",
+            "sourceFile": "genérico / Fridge_Prank.conv"
         },
         {
             "id": "FRISBEE",
-            "category": "NEIGHBOR",
+            "category": "VIZINHO",
             "icon": "HUMAN_4",
-            "name": "Kid wants frisbee back",
-            "sourceFile": "generic/Frisbee.conv"
+            "name": "Criança quer frisbee de volta",
+            "sourceFile": "genérico / Frisbee.conv"
         },
         {
             "id": "NEIGHBOR_GOSSIP",
-            "category": "NEIGHBOR",
+            "category": "VIZINHO",
             "icon": "HUMAN_2",
-            "name": "Gossip with neighbor",
-            "sourceFile": "generic/Gossip_Neighbor.conv"
+            "name": "Fofocar com o vizinho",
+            "sourceFile": "generic / Gossip_Neighbor.conv"
         },
         {
             "id": "ICE_CREAM_VAN",
-            "category": "STREET",
+            "category": "RUA",
             "icon": "HUMAN_2",
-            "name": "Ice Cream Van! Ice Cream VAN!!!",
-            "sourceFile": "generic/Ice_Cream_Van.conv"
+            "name": "Ice Cream Van! Sorvete VAN !!!",
+            "sourceFile": "genérico / Ice_Cream_Van.conv"
         },
         {
-            "id": "JOGGING",
-            "category": "NEIGHBOR",
+            "id": "COOPER",
+            "category": "VIZINHO",
             "icon": "HUMAN_4",
-            "name": "Turn down the jogging club again",
-            "sourceFile": "generic/Jogging.conv"
+            "name": "Recuse o clube de corrida novamente",
+            "sourceFile": "generic / Jogging.conv"
         },
         {
             "id": "LIZARD_INSURANCE",
-            "category": "ANSWERPHONE",
+            "category": "RESPOSTA",
             "icon": "HUMAN_1",
-            "name": "Telemarketer is calling",
-            "sourceFile": "generic/lizard_insurance.conv"
+            "name": "O operador de telemarketing está ligando",
+            "sourceFile": "genérico / lizard_insurance.conv"
         },
         {
             "id": "SUBSCRIBE_MAGS",
-            "category": "NEIGHBOR",
+            "category": "VIZINHO",
             "icon": "HUMAN_4",
-            "name": "Selling Magazine Subscriptions",
-            "sourceFile": "generic/Magazines.conv"
+            "name": "Venda de assinaturas de revistas",
+            "sourceFile": "genérico / Magazines.conv"
         },
         {
             "id": "MAGICIAN_CHAT",
-            "category": "NEIGHBOR",
+            "category": "VIZINHO",
             "icon": "HUMAN_2",
-            "name": "Your neighbor wants to show you a trick",
-            "sourceFile": "generic/Magician_Chat.conv"
+            "name": "Seu vizinho quer te mostrar um truque",
+            "sourceFile": "genérico / Magician_Chat.conv"
         },
         {
             "id": "MOTIVATIONAL_MANTRA",
             "category": "MANTRA",
             "icon": "HUMAN_1",
-            "name": "Recite a motivational mantra to yourself",
-            "sourceFile": "generic/Motivational_Mantra.conv"
+            "name": "Recite um mantra motivacional para si mesmo",
+            "sourceFile": "genérico / Motivational_Mantra.conv"
         },
         {
             "id": "LOST_MAIL",
-            "category": "NEIGHBOR",
+            "category": "VIZINHO",
             "icon": "HUMAN_1",
-            "name": "Neighbor Has Your Mail",
-            "sourceFile": "generic/Neighbor_Accident_Mail.conv"
+            "name": "Vizinho tem sua correspondência",
+            "sourceFile": "genérico / Neighbour_Accident_Mail.conv"
         },
         {
             "id": "MISSING_PAPER",
-            "category": "NEIGHBOR",
+            "category": "VIZINHO",
             "icon": "HUMAN_2",
-            "name": "Neighbor's Newspaper",
-            "sourceFile": "generic/Neighbor_Steal_Mail.conv"
+            "name": "Jornal do vizinho",
+            "sourceFile": "genérico / Neighbour_Steal_Mail.conv"
         },
         {
             "id": "NEMESIS_CHAT",
-            "category": "NEIGHBOR",
+            "category": "VIZINHO",
             "icon": "HUMAN_2",
-            "name": "Your nemesis has found you",
-            "sourceFile": "generic/Nemesis.conv"
+            "name": "Seu nêmesis encontrou você",
+            "sourceFile": "genérico / Nemesis.conv"
         },
         {
-            "id": "NOISE",
-            "category": "NEIGHBOR",
+            "id": "RUÍDO",
+            "category": "VIZINHO",
             "icon": "HUMAN_4",
-            "name": "Neighbor wants you to turn down music",
-            "sourceFile": "generic/Noise.conv"
+            "name": "O vizinho quer que você abaixe a música",
+            "sourceFile": "genérico / Noise.conv"
         },
         {
             "id": "COMPLIMENT_PETUNIAS",
             "category": "PETUNIAS",
             "icon": "HUMAN_1",
-            "name": "Compliment neighbor's petunias",
-            "sourceFile": "generic/Petunians.conv"
+            "name": "Elogie as petúnias do vizinho",
+            "sourceFile": "generic / Petunians.conv"
         },
         {
             "id": "RADIO_CONTEST",
-            "category": "ANSWERPHONE",
+            "category": "RESPOSTA",
             "icon": "HUMAN_3",
-            "name": "Call in to radio show",
-            "sourceFile": "generic/Radio_Contest.conv"
+            "name": "Ligue para o programa de rádio",
+            "sourceFile": "genérico / Radio_Contest.conv"
         },
         {
             "id": "SODA_POLL",
-            "category": "ANSWERPHONE",
+            "category": "RESPOSTA",
             "icon": "HUMAN_1",
-            "name": "Answer phone poll about your soda preferences",
-            "sourceFile": "generic/Soda_Poll.conv"
+            "name": "Responder enquete por telefone sobre suas preferências de refrigerante",
+            "sourceFile": "genérico / Soda_Poll.conv"
         },
         {
-            "id": "SUGAR",
-            "category": "NEIGHBOR",
+            "id": "AÇÚCAR",
+            "category": "VIZINHO",
             "icon": "HUMAN_2",
-            "name": "Neighbor wants sugar",
-            "sourceFile": "generic/Sugar.conv"
+            "name": "Vizinho quer açucar",
+            "sourceFile": "genérico / Sugar.conv"
         },
         {
             "id": "TALK_SPORTS",
-            "category": "NEIGHBOR",
+            "category": "VIZINHO",
             "icon": "HUMAN_1",
-            "name": "Talk sports with your neighbor",
-            "sourceFile": "generic/Talk_Sports.conv"
+            "name": "Fale sobre esportes com seu vizinho",
+            "sourceFile": "genérico / Talk_Sports.conv"
         },
         {
             "id": "TEACHER_PRANK_CALL",
-            "category": "PRANKCALL",
+            "category": "TROTE TELEFÔNICO",
             "icon": "HUMAN_1",
-            "name": "Prank call your teacher",
-            "sourceFile": "generic/Teacher_Prank_Call.conv"
+            "name": "Brincadeira, ligue para o seu professor",
+            "sourceFile": "genérico / Teacher_Prank_Call.conv"
         },
         {
             "id": "TEEN_GOSSIP",
             "category": "TEENGOSSIP",
             "icon": "HUMAN_2",
-            "name": "Gossip with Chatty Carl",
-            "sourceFile": "generic/teengossip.conv"
+            "name": "Fofoca com o Chatty Carl",
+            "sourceFile": "generic / teengossip.conv"
         },
         {
-            "id": "THREE_DOGS",
-            "category": "NEIGHBOR",
+            "id": "TRÊS CACHORROS",
+            "category": "VIZINHO",
             "icon": "HUMAN_2",
-            "name": "Your neighbor is not three dogs",
-            "sourceFile": "generic/Three_Dogs.conv"
+            "name": "Seu vizinho não é três cachorros",
+            "sourceFile": "genérico / Three_Dogs.conv"
         },
         {
             "id": "TRIM_BRANCHES",
-            "category": "NEIGHBOR",
+            "category": "VIZINHO",
             "icon": "HUMAN_3",
-            "name": "Neighbor wants you to trim your branches",
-            "sourceFile": "generic/Trim_Branches.conv"
+            "name": "O vizinho quer que você apare seus galhos",
+            "sourceFile": "genérico / Trim_Branches.conv"
         },
         {
             "id": "PIZZA_ORDER",
-            "category": "MAKECALL",
+            "category": "FAZER LIGAÇÃO",
             "icon": "HUMAN_3",
-            "name": "Order a Pizza",
-            "sourceFile": "generic/Vegan_Pizza_Order.conv"
+            "name": "Peça uma pizza",
+            "sourceFile": "genérico / Vegan_Pizza_Order.conv"
         },
         {
             "id": "PLACEHOLDER",
             "category": "PLACEHOLDER",
             "icon": "DEVIL_2",
-            "name": "Placeholder conversation - remove all instances before ship",
+            "name": "Conversa de espaço reservado - remova todas as instâncias antes do envio",
             "sourceFile": "placeholder.conv"
         },
         {
             "id": "BAND_AGENT",
-            "category": "STORY",
+            "category": "HISTÓRIA",
             "icon": "HUMAN_3",
-            "name": "Sign with agent",
-            "sourceFile": "story/Band_agent.conv"
+            "name": "Assine com agente",
+            "sourceFile": "story / Band_agent.conv"
         },
         {
             "id": "BAND_BREAKUP",
-            "category": "STORY",
+            "category": "HISTÓRIA",
             "icon": "HUMAN_2",
-            "name": "Band breakup",
-            "sourceFile": "story/Band_breakup.conv"
+            "name": "Separação da banda",
+            "sourceFile": "story / Band_breakup.conv"
         },
         {
             "id": "BARBECUE_INVITE1",
-            "category": "STORY",
+            "category": "HISTÓRIA",
             "icon": "HUMAN_2",
-            "name": "Barbecue invite 1",
-            "sourceFile": "story/Barbecue_invite1.conv"
+            "name": "Convite para churrasco 1",
+            "sourceFile": "story / Barbecue_invite1.conv"
         },
         {
             "id": "BARBECUE_INVITE2",
-            "category": "STORY",
+            "category": "HISTÓRIA",
             "icon": "HUMAN_3",
-            "name": "Barbecue invite 2",
-            "sourceFile": "story/Barbecue_invite2.conv"
+            "name": "Convite para churrasco 2",
+            "sourceFile": "story / Barbecue_invite2.conv"
         },
         {
             "id": "BARBECUE_INVITE3",
-            "category": "STORY",
+            "category": "HISTÓRIA",
             "icon": "HUMAN_2",
-            "name": "Barbecue invite 3",
-            "sourceFile": "story/Barbecue_invite3.conv"
+            "name": "Convite para churrasco 3",
+            "sourceFile": "story / Barbecue_invite3.conv"
         },
         {
             "id": "BEACHDAY_AC",
-            "category": "STORY",
+            "category": "HISTÓRIA",
             "icon": "HUMAN_3",
-            "name": "Beach AC",
-            "sourceFile": "story/BeachDay_callAC.conv"
+            "name": "Praia AC",
+            "sourceFile": "story / BeachDay_callAC.conv"
         },
         {
             "id": "BEACHDAY_LIFEGUARD",
-            "category": "STORY",
+            "category": "HISTÓRIA",
             "icon": "HUMAN_4",
-            "name": "Beach lifeguard",
-            "sourceFile": "story/BeachDay_lifeguard.conv"
+            "name": "Salva-vidas de praia",
+            "sourceFile": "story / BeachDay_lifeguard.conv"
         },
         {
             "id": "BIGDANCE_GETDATE",
-            "category": "STORY",
+            "category": "HISTÓRIA",
             "icon": "HUMAN_4",
-            "name": "Get date",
-            "sourceFile": "story/BigDance_getdate.conv"
+            "name": "Obter data",
+            "sourceFile": "story / BigDance_getdate.conv"
         },
         {
             "id": "BOSS_DINNER",
-            "category": "STORY",
+            "category": "HISTÓRIA",
             "icon": "HUMAN_1",
-            "name": "Dinner chat with boss",
-            "sourceFile": "story/BossDinner_dinner.conv"
+            "name": "Jantar bate-papo com chefe",
+            "sourceFile": "story / BossDinner_dinner.conv"
         },
         {
             "id": "BOSS_FLATTER",
-            "category": "STORY",
+            "category": "HISTÓRIA",
             "icon": "HUMAN_1",
-            "name": "Flatter boss",
-            "sourceFile": "story/BossDinner_flatter.conv"
+            "name": "Chefe mais plano",
+            "sourceFile": "story / BossDinner_flatter.conv"
         },
         {
             "id": "BOSS_GREET",
-            "category": "STORY",
+            "category": "HISTÓRIA",
             "icon": "HUMAN_1",
-            "name": "Greet boss",
-            "sourceFile": "story/BossDinner_Greet.conv"
+            "name": "Cumprimentar chefe",
+            "sourceFile": "story / BossDinner_Greet.conv"
         },
         {
             "id": "BOSS_INVITE",
-            "category": "STORY",
+            "category": "HISTÓRIA",
             "icon": "HUMAN_1",
-            "name": "Invite the ol' boss",
-            "sourceFile": "story/BossDinner_invite.conv"
+            "name": "Convide o velho chefe",
+            "sourceFile": "story / BossDinner_invite.conv"
         },
         {
             "id": "COUSINVISIT_GREET",
-            "category": "STORY",
+            "category": "HISTÓRIA",
             "icon": "DEVIL_2",
-            "name": "Greet cousin",
-            "sourceFile": "story/CousinVisit_greet.conv"
+            "name": "Cumprimentar primo",
+            "sourceFile": "história / CousinVisit_greet.conv"
         },
         {
             "id": "DANGEROUSTREND_JOIN",
-            "category": "STORY",
+            "category": "HISTÓRIA",
             "icon": "HUMAN_3",
-            "name": "Gronk group",
-            "sourceFile": "story/DangerousTrend_joingroup.conv"
+            "name": "Grupo Gronk",
+            "sourceFile": "story / DangerousTrend_joingroup.conv"
         },
         {
             "id": "ENDOFTHEWORLD_NASA",
-            "category": "STORY",
+            "category": "HISTÓRIA",
             "icon": "HUMAN_3",
-            "name": "End of world NASA",
-            "sourceFile": "story/EndOfTheWorld_NASA.conv"
+            "name": "Fim do mundo NASA",
+            "sourceFile": "história / EndOfTheWorld_NASA.conv"
         },
         {
             "id": "ENDOFTHEWORLD_PARENT",
-            "category": "STORY",
+            "category": "HISTÓRIA",
             "icon": "HUMAN_1",
-            "name": "End of world parent",
-            "sourceFile": "story/EndOfTheWorld_parent.conv"
+            "name": "Pai do fim do mundo",
+            "sourceFile": "story / EndOfTheWorld_parent.conv"
         },
         {
             "id": "ENDOFTHEWORLD_TEEN",
-            "category": "STORY",
+            "category": "HISTÓRIA",
             "icon": "HUMAN_2",
-            "name": "End of world teen",
-            "sourceFile": "story/EndOfTheWorld_teen.conv"
+            "name": "Adolescente do fim do mundo",
+            "sourceFile": "story / EndOfTheWorld_teen.conv"
         },
         {
             "id": "EXCHANGESTUDENT_PARENT",
-            "category": "STORY",
+            "category": "HISTÓRIA",
             "icon": "DEVIL_4",
-            "name": "Call exchange student's parents",
-            "sourceFile": "story/ExchangeStudent_parent.conv"
+            "name": "Ligue para os pais do intercambista",
+            "sourceFile": "story / ExchangeStudent_parent.conv"
         },
         {
             "id": "FAME_BEG",
-            "category": "STORY",
+            "category": "HISTÓRIA",
             "icon": "HUMAN_4",
-            "name": "Ask for second audition",
-            "sourceFile": "story/Fame_beg.conv"
+            "name": "Peça uma segunda audição",
+            "sourceFile": "história / Fame_beg.conv"
         },
         {
             "id": "FAME_BILLY",
-            "category": "STORY",
+            "category": "HISTÓRIA",
             "icon": "HUMAN_2",
-            "name": "Meet Billy",
-            "sourceFile": "story/Fame_meetbilly.conv"
+            "name": "Conheça o Billy",
+            "sourceFile": "story / Fame_meetbilly.conv"
         },
         {
             "id": "FAME_REHEARSE",
-            "category": "STORY",
+            "category": "HISTÓRIA",
             "icon": "HUMAN_4",
-            "name": "Producer audition",
-            "sourceFile": "story/Fame_rehearse.conv"
+            "name": "Teste de produtor",
+            "sourceFile": "story / Fame_rehearse.conv"
         },
         {
             "id": "FIRSTDATE_AKWARD",
-            "category": "STORY",
+            "category": "HISTÓRIA",
             "icon": "HUMAN_2",
-            "name": "Embarrassing story",
-            "sourceFile": "story/FirstDate_awkward.conv"
+            "name": "História embaraçosa",
+            "sourceFile": "story / FirstDate_awkward.conv"
         },
         {
             "id": "FIRSTDATE_GREET",
-            "category": "STORY",
+            "category": "HISTÓRIA",
             "icon": "HUMAN_2",
-            "name": "Greet Riley",
-            "sourceFile": "story/FirstDate_greet.conv"
+            "name": "Cumprimentar Riley",
+            "sourceFile": "story / FirstDate_greet.conv"
         },
         {
             "id": "FIRSTDATE_INVITE",
-            "category": "STORY",
+            "category": "HISTÓRIA",
             "icon": "HUMAN_2",
-            "name": "Invite Riley",
-            "sourceFile": "story/FirstDate_invite.conv"
+            "name": "Convide Riley",
+            "sourceFile": "story / FirstDate_invite.conv"
         },
         {
             "id": "GRANDMAS_FRIEND",
-            "category": "STORY",
+            "category": "HISTÓRIA",
             "icon": "DEVIL_4",
-            "name": "Call grandma's friend",
-            "sourceFile": "story/GrandmasBirthday_friend.conv"
+            "name": "Ligar para a amiga da vovó",
+            "sourceFile": "story / GrandmasBirthday_friend.conv"
         },
         {
             "id": "GRANDMAS_SMALLTALK",
-            "category": "STORY",
+            "category": "HISTÓRIA",
             "icon": "DEVIL_1",
-            "name": "Call grandma's friend",
-            "sourceFile": "story/GrandmasBirthday_smalltalk.conv"
+            "name": "Ligar para a amiga da vovó",
+            "sourceFile": "story / GrandmasBirthday_smalltalk.conv"
         },
         {
             "id": "HOUSEPEST_BAT",
-            "category": "STORY",
+            "category": "HISTÓRIA",
             "icon": "HUMAN_3",
-            "name": "House pest exterminator",
-            "sourceFile": "story/HousePest_bat.conv"
+            "name": "Exterminador de pragas doméstico",
+            "sourceFile": "story / HousePest_bat.conv"
         },
         {
             "id": "LAWN_TOPIARY",
-            "category": "STORY",
+            "category": "HISTÓRIA",
             "icon": "HUMAN_4",
-            "name": "Lawn topiary",
-            "sourceFile": "story/Lawn_topiary.conv"
+            "name": "Topiaria de gramado",
+            "sourceFile": "story / Lawn_topiary.conv"
         },
         {
             "id": "MONEY_FIRED",
-            "category": "STORY",
+            "category": "HISTÓRIA",
             "icon": "HUMAN_2",
-            "name": "Fired",
-            "sourceFile": "story/Money_fired.conv"
+            "name": "Disparamos",
+            "sourceFile": "história / Money_fired.conv"
         },
         {
             "id": "MONEY_RAISE",
-            "category": "STORY",
+            "category": "HISTÓRIA",
             "icon": "HUMAN_1",
-            "name": "Raise",
-            "sourceFile": "story/Money_raise.conv"
+            "name": "Levantar",
+            "sourceFile": "story / Money_raise.conv"
         },
         {
             "id": "MYSTERY_WITNESS",
-            "category": "STORY",
+            "category": "HISTÓRIA",
             "icon": "HUMAN_2",
-            "name": "Ghost witness",
-            "sourceFile": "story/Mystery_witness.conv"
+            "name": "Testemunha fantasma",
+            "sourceFile": "story / Mystery_witness.conv"
         },
         {
             "id": "NEWCAR_BRAG",
-            "category": "STORY",
+            "category": "HISTÓRIA",
             "icon": "HUMAN_3",
-            "name": "Car brag",
-            "sourceFile": "story/NewCar_brag.conv"
+            "name": "Gabar-se do carro",
+            "sourceFile": "história / NewCar_brag.conv"
         },
         {
             "id": "NEWSCHOOL_PTA",
-            "category": "STORY",
+            "category": "HISTÓRIA",
             "icon": "HUMAN_2",
-            "name": "PTA chat",
-            "sourceFile": "story/NewSchool_PTA.conv"
+            "name": "Chat PTA",
+            "sourceFile": "story / NewSchool_PTA.conv"
         },
         {
             "id": "POLITICS_ICECREAM",
-            "category": "STORY",
+            "category": "HISTÓRIA",
             "icon": "HUMAN_2",
-            "name": "Ice cream sale",
-            "sourceFile": "story/Politics_icecream.conv"
+            "name": "Venda de sorvete",
+            "sourceFile": "story / Politics_icecream.conv"
         },
         {
             "id": "POLITICS_PETITION",
-            "category": "STORY",
+            "category": "HISTÓRIA",
             "icon": "HUMAN_4",
-            "name": "Petition",
-            "sourceFile": "story/Politics_petition.conv"
+            "name": "Petição",
+            "sourceFile": "story / Politics_petition.conv"
         },
         {
             "id": "POOL_BILL",
-            "category": "STORY",
+            "category": "HISTÓRIA",
             "icon": "HUMAN_3",
-            "name": "Negotiate the exorbitant bill",
-            "sourceFile": "story/Pool_bill.conv"
+            "name": "Negocie a conta exorbitante",
+            "sourceFile": "story / Pool_bill.conv"
         },
         {
             "id": "POX_CANCEL",
-            "category": "STORY",
+            "category": "HISTÓRIA",
             "icon": "HUMAN_4",
-            "name": "Pox cancel plans",
-            "sourceFile": "story/Pox_cancelplans.conv"
+            "name": "Pox cancelar planos",
+            "sourceFile": "story / Pox_cancelplans.conv"
         },
         {
             "id": "POX_DOCTOR",
-            "category": "STORY",
+            "category": "HISTÓRIA",
             "icon": "HUMAN_2",
-            "name": "Pox doctor",
-            "sourceFile": "story/Pox_Doctor.conv"
+            "name": "Médico de varíola",
+            "sourceFile": "história / Pox_Doctor.conv"
         },
         {
             "id": "REPORTCARD_TEACHER",
-            "category": "STORY",
+            "category": "HISTÓRIA",
             "icon": "HUMAN_3",
-            "name": "Call teacher",
-            "sourceFile": "story/ReportCard_callteacher.conv"
+            "name": "Chamar professor",
+            "sourceFile": "story / ReportCard_callteacher.conv"
         },
         {
             "id": "SCHOOLPLAY_AUDITION",
-            "category": "STORY",
+            "category": "HISTÓRIA",
             "icon": "HUMAN_1",
             "name": "SCHOOLPLAY_AUDITION",
-            "sourceFile": "story/SchoolPlay_audition.conv"
+            "sourceFile": "story / SchoolPlay_audition.conv"
         },
         {
             "id": "SKIPDAY_CHECKIN",
-            "category": "STORY",
+            "category": "HISTÓRIA",
             "icon": "HUMAN_3",
-            "name": "Skip check in",
-            "sourceFile": "story/SkipDay_checkin.conv"
+            "name": "Pular check in",
+            "sourceFile": "história / SkipDay_checkin.conv"
         },
         {
             "id": "SKIPDAY_SICKKINDER",
-            "category": "STORY",
+            "category": "HISTÓRIA",
             "icon": "HUMAN_4",
-            "name": "Skip kindergarten",
-            "sourceFile": "story/SkipDay_sickkinder.conv"
+            "name": "Pular o jardim de infância",
+            "sourceFile": "história / SkipDay_sickkinder.conv"
         },
         {
             "id": "SKIPDAY_SICKSCHOOL",
-            "category": "STORY",
+            "category": "HISTÓRIA",
             "icon": "HUMAN_3",
-            "name": "Skip school",
-            "sourceFile": "story/SkipDay_sickschool.conv"
+            "name": "Pular a escola",
+            "sourceFile": "story / SkipDay_sickschool.conv"
         },
         {
             "id": "SKIPDAY_SICKWORK",
-            "category": "STORY",
+            "category": "HISTÓRIA",
             "icon": "HUMAN_1",
-            "name": "Skip work",
-            "sourceFile": "story/SkipDay_sickwork.conv"
+            "name": "Pular trabalho",
+            "sourceFile": "story / SkipDay_sickwork.conv"
         },
         {
             "id": "SLUMBERPARTY_WELCOME",
-            "category": "STORY",
+            "category": "HISTÓRIA",
             "icon": "HUMAN_4",
-            "name": "Greet kids",
-            "sourceFile": "story/SlumberParty_welcomekids.conv"
+            "name": "Cumprimentar crianças",
+            "sourceFile": "story / SlumberParty_welcomekids.conv"
         },
         {
             "id": "SPACE_KID",
-            "category": "STORY",
+            "category": "HISTÓRIA",
             "icon": "HUMAN_4",
-            "name": "Space interview kid",
-            "sourceFile": "story/Space_kid.conv"
+            "name": "Entrevista espacial garoto",
+            "sourceFile": "story / Space_kid.conv"
         },
         {
             "id": "SPACE_PARENT",
-            "category": "STORY",
+            "category": "HISTÓRIA",
             "icon": "HUMAN_1",
-            "name": "Space interview parent",
-            "sourceFile": "story/Space_parent.conv"
+            "name": "Entrevista no espaço pai",
+            "sourceFile": "story / Space_parent.conv"
         },
         {
             "id": "SPACE_SKIP",
-            "category": "STORY",
+            "category": "HISTÓRIA",
             "icon": "HUMAN_2",
             "name": "Space Skip Moonley",
-            "sourceFile": "story/Space_skip.conv"
+            "sourceFile": "história / Space_skip.conv"
         },
         {
             "id": "SPACE_TEEN",
-            "category": "STORY",
+            "category": "HISTÓRIA",
             "icon": "HUMAN_3",
-            "name": "Space interview teen",
-            "sourceFile": "story/Space_teen.conv"
+            "name": "Entrevista no espaço adolescente",
+            "sourceFile": "story / Space_teen.conv"
         },
         {
             "id": "TREEHOUSE_ZONING",
-            "category": "STORY",
+            "category": "HISTÓRIA",
             "icon": "HUMAN_4",
-            "name": "Zoning board",
-            "sourceFile": "story/Treehouse_zoning.conv"
+            "name": "Quadro de zoneamento",
+            "sourceFile": "story / Treehouse_zoning.conv"
         },
         {
             "id": "UNCLEVISIT_AUNT",
-            "category": "STORY",
+            "category": "HISTÓRIA",
             "icon": "DEVIL_1",
-            "name": "Aunt Flemm",
-            "sourceFile": "story/UncleVisit_aunt.conv"
+            "name": "Tia flemm",
+            "sourceFile": "story / UncleVisit_aunt.conv"
         },
         {
             "id": "UNCLEVISIT_LEAVE",
-            "category": "STORY",
+            "category": "HISTÓRIA",
             "icon": "DEVIL_2",
-            "name": "Uncle leave",
-            "sourceFile": "story/UncleVisit_leave.conv"
+            "name": "Tio sair",
+            "sourceFile": "story / UncleVisit_leave.conv"
         },
         {
             "id": "VACATION_FRENCH1",
-            "category": "STORY",
+            "category": "HISTÓRIA",
             "icon": "HUMAN_1",
-            "name": "French lesson 1",
-            "sourceFile": "story/Vacation_french1.conv"
+            "name": "Aula de francês 1",
+            "sourceFile": "story / Vacation_french1.conv"
         },
         {
             "id": "VACATION_FRENCH2",
-            "category": "STORY",
+            "category": "HISTÓRIA",
             "icon": "HUMAN_1",
-            "name": "French lesson 2",
-            "sourceFile": "story/Vacation_french2.conv"
+            "name": "Aula de francês 2",
+            "sourceFile": "story / Vacation_french2.conv"
         },
         {
             "id": "VACATION_FRENCH3",
-            "category": "STORY",
+            "category": "HISTÓRIA",
             "icon": "HUMAN_1",
-            "name": "French lesson 3",
-            "sourceFile": "story/Vacation_french3.conv"
+            "name": "Aula de francês 3",
+            "sourceFile": "story / Vacation_french3.conv"
         }
     ]
 }
