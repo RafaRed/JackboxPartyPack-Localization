@@ -8,24 +8,17 @@ O objetivo inicial do projeto não é traduzir todo jogo, estarei começando pel
 
 - [x] Adicionar arquivos de todos os jogos para tradução.
 
+## The Jackbox Party Pack 1
+
 ## The Jackbox Party Pack 2
- - Bidiots
-   - [x] tradução das dicas
-   - [ ] tradução das categorias
 
 ## The Jackbox Party Pack 3
 
 ## The Jackbox Party Pack 4
 
 ## The Jackbox Party Pack 5
- - PatentlyStupid 
-   - [x] Frases do "market research"
-   - [ ] palavras que aparecem em "_espaço vazio_"
 
 ## The Jackbox Party Pack 6
 
 ## The Jackbox Party Pack 7
- - Champ'd Up
-    - [x] Frases da fase1
-  - Talking Points
-    - [ ] Títulos
+
