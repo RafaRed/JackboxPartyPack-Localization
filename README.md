@@ -7,6 +7,7 @@ O objetivo inicial do projeto não é traduzir todo jogo, estarei começando pel
 # Progresso:
 
 - [x] Adicionar arquivos de todos os jogos para tradução.
+- [x] Tradução automática em pt-br por @monty-liam.
 
 ## The Jackbox Party Pack 1
 
