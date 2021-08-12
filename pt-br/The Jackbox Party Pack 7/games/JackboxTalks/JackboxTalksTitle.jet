@@ -8,7 +8,7 @@
             "tornar cochilos ilegais",
             "fazer meus músculos enormes",
             "fazer todo o café desaparecer",
-            "fique acordado depois da minha hora de dormir",
+            "ficar acordado depois da minha hora de dormir",
             "dar bigodes a todos"
          ],
          "signposts": [
@@ -100,7 +100,7 @@
             "mais cafeterias Starbucks"
          ],
          "signposts": [],
-         "title": "Por que precisamos <BLANK>",
+         "title": "Por que precisamos de <BLANK>",
          "x": false
       },
       {
@@ -130,7 +130,7 @@
          "safetyAnswers": [
             "muitos memes da internet",
             "uma boa fatia de pizza",
-            "dançando muito forte"
+            "dançar muito forte"
          ],
          "signposts": [],
          "title": "Como <BLANK> pode arruinar sua vida",
@@ -166,7 +166,7 @@
             "Terminando um programa de tv que eu nem gostei"
          ],
          "signposts": [],
-         "title": "<BLANK>Isso aconteceu comigo.",
+         "title": "<BLANK>: Isso aconteceu comigo.",
          "x": false
       },
       {
@@ -239,7 +239,7 @@
          "id": "71434",
          "safetyAnswers": [
             "Meu cobertor pesado",
-            "O ator que interpreta House",
+            "O ator que interpreta o Dr. House",
             "Bacon"
          ],
          "signposts": [],
@@ -265,15 +265,15 @@
             "Que eu possuo um barco"
          ],
          "signposts": [],
-         "title": "Você acreditaria em <BLANK>?",
+         "title": "Você acreditaria que <BLANK>?",
          "x": false
       },
       {
          "id": "71437",
          "safetyAnswers": [
-            "Junte-se à Touring Company of Stomp",
+            "Juntar-me à companhia turística do Exaltasamba",
             "Fazer sanduíches com os olhos fechados",
-            "Dab"
+            "mandar um Dab"
          ],
          "signposts": [],
          "title": "Agora posso <BLANK>!",
@@ -282,7 +282,7 @@
       {
          "id": "71438",
          "safetyAnswers": [
-            "Roller Blades",
+            "Patins",
             "Smoothies Quentes",
             "Barulhos de baleia"
          ],
@@ -298,7 +298,7 @@
             "Hora do banheiro"
          ],
          "signposts": [],
-         "title": "O poder do positivo <BLANK>",
+         "title": "O poder de <BLANK> positivo",
          "x": false
       },
       {
@@ -338,8 +338,8 @@
          "id": "71443",
          "safetyAnswers": [
             "sobre calças confortáveis",
-            "sushi de frutas",
-            "ir para a cama porque ainda estou acordado"
+            "sobre sushi de frutas",
+            "para ir para a cama porque ainda estou acordado"
          ],
          "signposts": [],
          "title": "Quando eu tinha a sua idade, gostaria que alguém tivesse me contado <BLANK>",
@@ -349,8 +349,8 @@
          "id": "71444",
          "safetyAnswers": [
             "faça um desejo na lua cheia",
-            "namorar um minotauro",
-            "espirrar, peidar e tossir ao mesmo tempo. Estou falando sério."
+            "namore um minotauro",
+            "espirre, peide e tussa ao mesmo tempo. Estou falando sério."
          ],
          "signposts": [],
          "title": "Meu Conselho para você: Nunca <BLANK>",
@@ -364,18 +364,18 @@
             "pesadelos"
          ],
          "signposts": [],
-         "title": "Fighting <BLANK> With Risos!",
+         "title": "Combatendo <BLANK> com risadas!",
          "x": false
       },
       {
          "id": "71446",
          "safetyAnswers": [
-            "tocando meu rosto",
-            "terminando meus e-mails de trabalho com \"te amo\"",
+            "de tocar meu rosto",
+            "de terminar meus e-mails de trabalho com \"te amo\"",
             "minha inscrição na academia porque eles não me deixam"
          ],
          "signposts": [],
-         "title": "Desculpe, não consigo sair <BLANK>",
+         "title": "Desculpe, não consigo parar <BLANK>",
          "x": false
       },
       {
@@ -397,15 +397,15 @@
             "estátua viva"
          ],
          "signposts": [],
-         "title": "Como ser o melhor <BLANK> na terra",
+         "title": "Como ser o/a melhor <BLANK> na terra",
          "x": false
       },
       {
          "id": "71449",
          "safetyAnswers": [
-            "mergulhar em você como um campeão",
-            "ir às compras enquanto está com fome",
-            "coma aquele inseto"
+            "te humilhei",
+            "fui às compras enquanto estou com fome",
+            "comi aquele inseto"
          ],
          "signposts": [],
          "title": "Por que eu <BLANK>? Deixe-me dizer-lhe",
@@ -414,23 +414,23 @@
       {
          "id": "71450",
          "safetyAnswers": [
-            "mãe futebolistica",
-            "capitão de dança",
+            "pai superprotetora",
+            "dançarino profissional",
             "crítico de comida freelance"
          ],
          "signposts": [],
-         "title": "Liberando seu interior <BLANK>",
+         "title": "Liberando seu <BLANK> interior",
          "x": false
       },
       {
          "id": "71451",
          "safetyAnswers": [
-            "amante do banho de espuma",
+            "apreciador de banho de espuma",
             "fazendeiro de unicórnio",
-            "transformador chamado Lugnut"
+            "Transformer chamado Lugnut"
          ],
          "signposts": [],
-         "title": "Minha vida secreta como A <BLANK>",
+         "title": "Minha vida secreta como um <BLANK>",
          "x": false
       },
       {
@@ -447,7 +447,7 @@
       {
          "id": "71453",
          "safetyAnswers": [
-            "um bebê levanta o polegar depois de nascer",
+            "um bebê levantar o polegar depois de nascer",
             "Plutão",
             "um hambúrguer com um donut por pão"
          ],
@@ -458,9 +458,9 @@
       {
          "id": "71454",
          "safetyAnswers": [
-            "fechando meus olhos quando as pessoas estão falando",
-            "nadando em uma piscina de dinheiro",
-            "possuir um tapete que realmente une o ambiente"
+            "fechar meus olhos quando as pessoas estão falando",
+            "nadar em uma piscina de dinheiro",
+            "possuir um tapete que completmenta bem o ambiente"
          ],
          "signposts": [],
          "title": "Como <BLANK> me tornou tão bem-sucedido na vida",
@@ -471,10 +471,10 @@
          "safetyAnswers": [
             "seus vizinhos intrometidos",
             "cachorros super fofos",
-            "o café com leite de abóbora"
+            "café com leite de abóbora"
          ],
          "signposts": [],
-         "title": "O que está realmente errado com <BLANK>e por que você deve se preocupar",
+         "title": "O que realmente há de errado com <BLANK>e por que você deve se preocupar",
          "x": false
       },
       {
@@ -482,10 +482,10 @@
          "safetyAnswers": [
             "modelo porta-voz para vários produtos",
             "detetive",
-            "lagosta e agora sou uma lagosta adulta"
+            "lagosta"
          ],
          "signposts": [],
-         "title": "Eu sou um ex-adolescente <BLANK>",
+         "title": "Eu sou um ex-<BLANK> adolescente",
          "x": false
       },
       {
@@ -496,15 +496,15 @@
             "mergulhou em um banheiro super-entupido"
          ],
          "signposts": [],
-         "title": "Você já <BLANK>? Eu tenho, punk",
+         "title": "Você já <BLANK>? Eu já, otário",
          "x": false
       },
       {
          "id": "71458",
          "safetyAnswers": [
-            "calando sua boca estúpida",
+            "calar a sua boca agora",
             "peidar no transporte público",
-            "bebendo o líquido de uma velha jarra de picles"
+            "beber o líquido de uma velha jarra de picles"
          ],
          "signposts": [],
          "title": "Compreendendo os incríveis benefícios de <BLANK>",
@@ -515,7 +515,7 @@
          "safetyAnswers": [
             "pausas dramáticas",
             "tacos para gatos",
-            "sonho lúcido"
+            "sonhos lúcidos"
          ],
          "signposts": [],
          "title": "Por que eu inventei <BLANK>",
@@ -526,10 +526,10 @@
          "safetyAnswers": [
             "não um, mas dois Godzillas",
             "meu desejo de felicidade",
-            "este quebra-cabeça estúpido que tem muitas peças estúpidas"
+            "este quebra-cabeça idiota que tem muitas peças idiotas"
          ],
          "signposts": [],
-         "title": "Como acabei por derrotar <BLANK>",
+         "title": "Como consegui derrotar <BLANK>",
          "x": false
       },
       {
@@ -546,19 +546,19 @@
       {
          "id": "71462",
          "safetyAnswers": [
-            "em bebês de gorro",
-            "quente para professores",
+            "fã dos caçulinhas do Guaraná",
+            "atraente para professores",
             "louco por jeans de cintura baixa"
          ],
          "signposts": [],
-         "title": "Por que eu sou tão maldito <BLANK>",
+         "title": "Por que eu sou tão <BLANK>",
          "x": false
       },
       {
          "id": "71463",
          "safetyAnswers": [
             "alergias sazonais",
-            "seu novo irmãozinho ... vamos conversar, criança",
+            "seu novo irmãozinho ... vamos conversar, meu filho",
             "seu amigo do colégio que vende óleos essenciais"
          ],
          "signposts": [],
@@ -569,22 +569,22 @@
          "id": "71464",
          "safetyAnswers": [
             "seus tweets atenciosos",
-            "camisetas novidade",
-            "charcutaria"
+            "tipos novos de camisetas",
+            "churrasco vegano"
          ],
          "signposts": [],
-         "title": "Conversa real. Ninguém gosta de <BLANK>",
+         "title": "Papo sério. Ninguém gosta de <BLANK>",
          "x": false
       },
       {
          "id": "71465",
          "safetyAnswers": [
-            "o bagel de pizza",
-            "que uma vez eu tive que ficar no trabalho até tarde",
-            "por que o rosto de um pug parece abatido"
+            "a pizza de estrogonofe",
+            "porque uma vez eu tive que ficar no trabalho até tarde",
+            "porque o rosto de um pug parece abatido"
          ],
          "signposts": [],
-         "title": "Para o inferno e para trás: a história de <BLANK>",
+         "title": "Para o inferno e de volta: a história de <BLANK>",
          "x": true
       },
       {
@@ -606,7 +606,7 @@
             "Mesa de café"
          ],
          "signposts": [],
-         "title": "Eis: My Astounding <BLANK>",
+         "title": "Eis: meu belíssimo <BLANK>",
          "x": false
       },
       {
@@ -628,7 +628,7 @@
             "Confrontar meu pai"
          ],
          "signposts": [],
-         "title": "Ok, estúpidos, é hora de <BLANK>",
+         "title": "Ok, imbecis, é hora de <BLANK>",
          "x": false
       },
       {
@@ -661,7 +661,7 @@
             "Nerds"
          ],
          "signposts": [],
-         "title": "<BLANK>? Não no meu turno",
+         "title": "<BLANK>? Não quando eu estiver olhando",
          "x": false
       },
       {
@@ -683,7 +683,7 @@
             "Angústia adolescente"
          ],
          "signposts": [],
-         "title": "Buckle Up, Porque eu estou tomando-a <BLANK> Cidade",
+         "title": "Apertem os cintos, Porque eu os levarei para a cidade do <BLANK>",
          "x": false
       },
       {
@@ -705,7 +705,7 @@
             "Dentista"
          ],
          "signposts": [],
-         "title": "Como economizar dinheiro sendo você mesmo <BLANK>",
+         "title": "Como economizar dinheiro sendo seu próprio <BLANK>",
          "x": false
       },
       {
@@ -727,7 +727,7 @@
             "Prisão"
          ],
          "signposts": [],
-         "title": "<BLANK> Você mesmo, fácil como 1, 2, 3!",
+         "title": "Faça <BLANK> Você mesmo, fácil, fácil!",
          "x": false
       },
       {
@@ -801,7 +801,7 @@
             "Máfia"
          ],
          "signposts": [],
-         "title": "My Amazing Adventure Inside A Haunted <BLANK>",
+         "title": "Minha incrível aventura dentro de uma <BLANK> assombradea",
          "x": false
       },
       {
@@ -810,7 +810,7 @@
             "um tatu",
             "um fantasma que assombrava meu apartamento",
             "invisível",
-            "ausência de"
+            "inexistente"
          ],
          "signposts": [],
          "title": "Você ficará chocado ao descobrir que minha alma gêmea é <BLANK>",
@@ -823,7 +823,7 @@
             "pelo menos 8 horas de sono"
          ],
          "signposts": [],
-         "title": "Não fique bravo, pegue <BLANK>",
+         "title": "Não fique bravo, fique <BLANK>",
          "x": false
       },
       {
