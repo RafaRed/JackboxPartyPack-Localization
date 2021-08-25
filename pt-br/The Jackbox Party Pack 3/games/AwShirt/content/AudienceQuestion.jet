@@ -3,12 +3,12 @@
       {
          "x": false,
          "id": 21389,
-         "prompt": "Se um gênio lhe dá três desejos, as melhores coisas a desejar são: 1) um bilhão de dólares, 2) vida eterna e 3) <BLANK>"
+         "prompt": "Se um gênio te der três desejos, as melhores coisas pra desejar são: 1) Um bilhão de dólares, 2) Vida eterna e 3) <BLANK>"
       },
       {
          "x": false,
          "id": 21112,
-         "prompt": "As pirâmides seriam ainda mais impressionantes se contivessem <BLANK>"
+         "prompt": "As pirâmides seriam ainda mais impressionantes se tivessem <BLANK>"
       },
       {
          "x": false,
@@ -18,7 +18,7 @@
       {
          "x": false,
          "id": 21110,
-         "prompt": "O pior tema para o primeiro recital de dança do seu filho"
+         "prompt": "O pior tema para a primeira apresentação escolar do seu filho"
       },
       {
          "x": false,
@@ -28,7 +28,7 @@
       {
          "x": false,
          "id": 21096,
-         "prompt": "A pior combinação de dois atores que poderiam estrelar na próxima temporada de <i>True Detective</i> juntos"
+         "prompt": "A pior combinação de dois atores que poderiam estrelar na próxima temporada de <i>Grey's Anatomy</i> juntos"
       },
       {
          "x": false,
@@ -48,12 +48,12 @@
       {
          "x": true,
          "id": 21089,
-         "prompt": "Uma coisa inadequada para um detetive dizer na cena do crime"
+         "prompt": "Uma coisa inadequada para um policial dizer na cena do crime"
       },
       {
          "x": false,
          "id": 21079,
-         "prompt": "Um experimento que os ratos realmente gostam de ter feito com eles"
+         "prompt": "Um experimento que os ratos gostataram de terem feito com eles"
       },
       {
          "x": false,
@@ -63,7 +63,7 @@
       {
          "x": false,
          "id": 21068,
-         "prompt": "A melhor camisa para vestir ao lado de alguém que está usando uma camiseta \"Estou com um idiota\""
+         "prompt": "A melhor camisa para vestir ao lado de alguém que está usando uma camiseta escrito \"A pessoa do lado é idiota\""
       },
       {
          "x": false,
@@ -78,7 +78,7 @@
       {
          "x": false,
          "id": 21333,
-         "prompt": "O pior café da manhã: panquecas em forma de <BLANK>"
+         "prompt": "O pior café da manhã: pão de queijo em forma de <BLANK>"
       },
       {
          "x": false,
@@ -88,12 +88,12 @@
       {
          "x": false,
          "id": 21328,
-         "prompt": "Um bom sinal de que você bebeu muito MT. Orvalho"
+         "prompt": "Um bom sinal de que você bebeu muito, muito mesmo"
       },
       {
          "x": false,
          "id": 21045,
-         "prompt": "O pior conselho que seu treinador de boxe poderia lhe dar"
+         "prompt": "O pior conselho que seu treinador de boxe poderia dar"
       },
       {
          "x": false,
@@ -108,7 +108,7 @@
       {
          "x": false,
          "id": 21039,
-         "prompt": "Em uma pesquisa chocante, descobriu-se que três em cada quatro americanos <BLANK>"
+         "prompt": "Em uma pesquisa inédita, descobriu-se que três em cada quatro brasileiros <BLANK>"
       },
       {
          "x": false,
@@ -118,12 +118,12 @@
       {
          "x": false,
          "id": 21005,
-         "prompt": "O nome de um penteado que nunca pegará"
+         "prompt": "O nome de um penteado que nunca ficará famoso"
       },
       {
          "x": false,
          "id": 20996,
-         "prompt": "Mau nome para um restaurante italiano"
+         "prompt": "O pior nome para um restaurante italiano"
       },
       {
          "x": false,
@@ -133,12 +133,12 @@
       {
          "x": false,
          "id": 20974,
-         "prompt": "A diferença entre carne bovina Grau A e carne bovina Grau B"
+         "prompt": "A diferença entre churrasquinho de gato e churrasco normal"
       },
       {
          "x": false,
          "id": 20969,
-         "prompt": "O quarto mais estranho que você poderia ver em um aeroporto seria um especificamente designado para <BLANK>"
+         "prompt": "A fila mais estranha que você veria em aeroporto seria uma especificamente designada para <BLANK>"
       },
       {
          "x": false,
@@ -148,12 +148,12 @@
       {
          "x": false,
          "id": 20956,
-         "prompt": "Uma escolha estranha de elenco seria Clint Eastwood como <BLANK>"
+         "prompt": "Uma escolha estranha de elenco seria Zac Efron como <BLANK>"
       },
       {
          "x": false,
          "id": 20955,
-         "prompt": "Uma técnica de segurança rejeitada para quando você pegar fogo era \"parar, largar e <BLANK>\""
+         "prompt": "Uma técnica de segurança rejeitada para quando você pegar fogo era \"parar, deitar e <BLANK>\""
       },
       {
          "x": false,
@@ -163,7 +163,7 @@
       {
          "x": false,
          "id": 20945,
-         "prompt": "Onde está Jimmy Hoffa? "
+         "prompt": "Onde está Serginho Malandro?
       },
       {
          "x": false,
@@ -178,17 +178,17 @@
       {
          "x": false,
          "id": 20935,
-         "prompt": "O nome menos apetitoso para um restaurante"
+         "prompt": "O nome menos apetitoso para um prato de restaurante"
       },
       {
          "x": false,
          "id": 20932,
-         "prompt": "O maior problema que a cidade de Margaritaville enfrenta "
+         "prompt": "O maior problema que a cidade de Curitiba enfrenta"
       },
       {
          "x": false,
          "id": 20931,
-         "prompt": "Algo que você não deve colocar na caixa de areia do seu filho"
+         "prompt": "Algo que você não deve colocar na caixa de brinquedos do seu filho"
       },
       {
          "x": false,
@@ -198,7 +198,7 @@
       {
          "x": false,
          "id": 20925,
-         "prompt": "O segredo mais profundo de Madre Teresa "
+         "prompt": "O segredo mais profundo de Madre Teresa de Calcutá"
       },
       {
          "x": true,
@@ -208,12 +208,12 @@
       {
          "x": false,
          "id": 20921,
-         "prompt": "Algo divertido para gritar no mercado de um fazendeiro"
+         "prompt": "Algo divertido para gritar no meio do Carrefour"
       },
       {
          "x": false,
          "id": 20914,
-         "prompt": "Uma roupa divertida para vestir a estátua de David"
+         "prompt": "Uma roupa divertida para vestir a estátua do Cristo Redentor"
       },
       {
          "x": false,
@@ -223,12 +223,12 @@
       {
          "x": false,
          "id": 20912,
-         "prompt": "O discurso original de Kennedy dizia: “Não pergunte o que seu país pode fazer por você, pergunte a <BLANK>”"
+         "prompt": "O bilhete póstumo original de Vargas dizia:“Saio da vida pra entrar pra história pois” <BLANK>"
       },
       {
          "x": false,
          "id": 20905,
-         "prompt": "Uma maneira educada de dizer “booger”"
+         "prompt": "Uma maneira educada de responder “Como você engravidou?” "
       },
       {
          "x": false,
@@ -238,12 +238,12 @@
       {
          "x": false,
          "id": 20897,
-         "prompt": "O nome da lista de reprodução de música que definitivamente encerrará a festa"
+         "prompt": "O nome da playlist que definitivamente encerrará a festa"
       },
       {
          "x": false,
          "id": 20895,
-         "prompt": "Um nome para um pântano realmente assustador: <BLANK> Pântano"
+         "prompt": "Um nome para uma chácara realmente assustador: Chácara <BLANK>"
       },
       {
          "x": false,
@@ -268,12 +268,12 @@
       {
          "x": false,
          "id": 20872,
-         "prompt": "Um slogan rejeitado para <i>Star Trek</i> vez de \"Espaço: a fronteira final\" era \"Espaço: <BLANK>\""
+         "prompt": "Um slogan rejeitado para <i>Vingadores</i> vez de \"Guerra Infinita\" era \"Vingadores: <BLANK>\""
       },
       {
          "x": false,
          "id": 20871,
-         "prompt": "Um corpo de água em que você definitivamente não deveria nadar"
+         "prompt": "Um lugar em que você definitivamente não deveria nadar"
       },
       {
          "x": false,
@@ -293,7 +293,7 @@
       {
          "x": false,
          "id": 20858,
-         "prompt": "O mais novo alimento saudável: <BLANK> suco"
+         "prompt": "O mais novo alimento saudável: Suco de <BLANK>"
       },
       {
          "x": false,
