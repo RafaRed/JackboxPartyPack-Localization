@@ -16,7 +16,7 @@
         "name": "Nome do Jogador"
     }, {
         "id": "gamesWon",
-        "name": "Torneios Vencidos"
+        "name": "Jogos Vencidos"
     }, {
         "id": "roundsWon",
         "name": "Rodadas Vencidas"
@@ -25,6 +25,6 @@
         "name": "Sequências Vencidas"
     }, {
         "id": "shirtalities",
-        "name": "Camisalidades"
+        "name": "Camisolities"
     }]
 }
