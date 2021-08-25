@@ -1,24 +1,24 @@
 [
     {
-        "title":"PLAY GAME",
+        "title":"Começar Jogo",
         "action":"doPlayGame",
         "description":"Criar uma sala e jogar",
         "value":0
     },
     {
-        "title":"LEADERBOARD",
+        "title":"Tabela de Classificações",
         "action":"doLeaderboards",
         "description":"Acompanhe as estatísticas de seus jogos recentes",
         "value":1
     },
     {
-        "title":"SETTINGS",
+        "title":"Definições",
         "action":"doSettings",
-        "description":"Censura, Opções de Público e mais",
+        "description":"Censura, Opções do Público e mais",
         "value":2
     },
     {
-        "title":"BACK TO PACK",
+        "title":"Voltar",
         "action":"doBackToPack",
         "description":"Voltar ao Party Pack",
         "value":3
