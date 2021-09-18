@@ -2,55 +2,55 @@
     "episodeid": 1368,
     "content": [
         {
-            "decoys": "sala | campo de futebol | geléia",
+            "decoys": "sala | campo de futebol | prato ",
             "x": false,
             "id": 53762,
-            "prompt": "Eu realmente poderia usar um (a) <BLANK> menor!"
+            "prompt": "Eu gostaria de usar um (a) <BLANK> menor!"
         },
         {
-            "decoys": "café da manhã | dever do júri | o jantar",
+            "decoys": "o café da manhã | a hora de anúncio eleitoral | o jantar",
             "x": false,
             "id": 53761,
             "prompt": "Queria que <BLANK> fosse mais divertido!"
         },
         {
-            "decoys": "o ambiente | minha parte inferior das costas | como baleias",
+            "decoys": "o meio ambiente | minha parte inferior das costas | sociedades secretas",
             "x": false,
             "id": 53760,
             "prompt": "Eu gostaria de apoiar <BLANK>!"
         },
         {
-            "decoys": "uma chuva de granizo | um novo filme da Marvel | guerra de ursos",
+            "decoys": "uma chuva de granizo | um novo filme da Marvel | guerra de cachorros caramelo",
             "x": false,
             "id": 53759,
             "prompt": "Eu gostaria de saber quando <BLANK> pode acontecer!"
         },
         {
-            "decoys": "blog | banda de garagem | novo corte de cabelo",
+            "decoys": "Canal no youtube | banda de pagode amador | preferencia de pronome ",
             "x": false,
             "id": 53758,
             "prompt": "Eu quero que as pessoas saibam sobre o meu / minha <BLANK>!"
         },
         {
-            "decoys": "casamentos | minha camisa | o momento",
+            "decoys": "casamentos | minha camisa | aquele momento",
             "x": false,
             "id": 53757,
             "prompt": "Eu continuo arruinando <BLANK>!"
         },
         {
-            "decoys": "cavernas | meus sentimentos por sorvete | a lua",
+            "decoys": "cavernas | meus sentimentos por sulistas | a lua",
             "x": false,
             "id": 53756,
             "prompt": "Eu sempre quis explorar <BLANK>!"
         },
         {
-            "decoys": "beijado | atacado por pássaros | insultado",
+            "decoys": "beijado | atacado por pássaros | insultado pelo twitter",
             "x": false,
             "id": 53755,
             "prompt": "Estou cansado de ser <BLANK> todos os dias!"
         },
         {
-            "decoys": "inteligente | capaz de ver no escuro | fedido",
+            "decoys": "inteligente | cheiroso | fedido",
             "x": false,
             "id": 53754,
             "prompt": "Eu queria ser mais <BLANK>!"
@@ -59,43 +59,43 @@
             "decoys": "migalhas | cocô de pássaro | responsabilidades amontoadas",
             "x": false,
             "id": 53753,
-            "prompt": "Eu continuo colocando <BLANK> em mim!"
+            "prompt": "Eu continuo aceitando <BLANK> pra mim!"
         },
         {
-            "decoys": "o Natal | meu aniversário | ir ao dentista",
+            "decoys": "o Natal | meu aniversário | o carnaval",
             "x": false,
             "id": 53752,
-            "prompt": "Eu não estou ansioso para <BLANK>!"
+            "prompt": "Eu não estou animado para <BLANK>!"
         },
         {
-            "decoys": "chocolate | reality show | tomar banho",
+            "decoys": "videos no youtube | reality shows | tomar banhos",
             "x": false,
             "id": 53737,
-            "prompt": "<BLANK> simplesmente não me satisfaz mais!"
+            "prompt": "<BLANK> simplesmente não me satisfazem mais!"
         },
         {
-            "decoys": "minhas piadas | minhas roupas íntimas | minhas revistas porno",
+            "decoys": "minhas piadas | minhas roupas íntimas | meus brinquedos sexuais",
             "x": false,
             "id": 53736,
-            "prompt": "Estou cansado de ver as pessoas pegando <BLANK> emprestadas!"
+            "prompt": "Estou cansado de ver as pessoas usando <BLANK> !"
         },
         {
-            "decoys": "meu pai | um presente de casamento | o cachorro que tem tudo",
+            "decoys": "dar ao meu pai | dar de presente de casamento | os meus pets",
             "x": false,
             "id": 53735,
             "prompt": "Eu nunca sei o que comprar para <BLANK>!"
         },
         {
-            "decoys": "vou falar | vou trocar a fralda do meu bebê | você vai assistir um filme",
+            "decoys": " estou falando | estou jogando | estou vendo filme",
             "x": false,
             "id": 53734,
-            "prompt": "Eu continuo sendo interrompido quando eu <BLANK>!"
+            "prompt": "Eu sou interrompido sempre quando eu <BLANK>!"
         },
         {
-            "decoys": "bunda | gata | academia",
+            "decoys": " bunda | internet | academia",
             "x": false,
             "id": 53733,
-            "prompt": "Eu preciso de uma <BLANK> muito chique!"
+            "prompt": "Eu preciso de uma <BLANK> melhor!"
         },
         {
             "decoys": "fazer uma viagem no tempo | perder a cabeça aqui | entrar em combustão espontânea",
@@ -104,28 +104,28 @@
             "prompt": "Existe um risco real de eu <BLANK>!"
         },
         {
-            "decoys": "dar uma dica | acariciar um gato | arrotar",
+            "decoys": " peidar  | rir | arrotar",
             "x": false,
             "id": 53731,
             "prompt": "Eu nunca sei quando <BLANK>!"
         },
         {
-            "decoys": "minha sanidade | um porco untado | minha juventude",
+            "decoys": "minha sanidade | minha vontade de rir | meus hormonios",
             "x": false,
             "id": 53730,
-            "prompt": "Não consigo segurar <BLANK>!"
+            "prompt": "Não consigo controlar <BLANK>!"
         },
         {
-            "decoys": "de banco | minha atitude em relação à quinua | meus passos de dança",
+            "decoys": "de banco | minha atitude em relação à veganos | meu horario de dormir",
             "x": false,
             "id": 53729,
             "prompt": "Eu preciso trocar <BLANK>, agora!"
         },
         {
-            "decoys": "de São Paulo | de uma tartaruga | o cliente faz lol",
+            "decoys": "do transito de São Paulo | de uma tartaruga | das partidas de lol",
             "x": false,
             "id": 53728,
-            "prompt": "Não consigo a lentidão <BLANK>!"
+            "prompt": "Não me acostumo com a lentidão <BLANK>!"
         },
         {
             "decoys": "nariz | carro velho | pé grande",
@@ -134,25 +134,25 @@
             "prompt": "As pessoas estão sempre olhando para o meu <BLANK>!"
         },
         {
-            "decoys": "dança de dança | década de 1980 | idade da pedra",
+            "decoys": " casa da minha avó | igreja | escola ",
             "x": false,
             "id": 53725,
             "prompt": "Sinto falta dos velhos dias na <BLANK>!"
         },
         {
-            "decoys": "porão | nariz | balde",
+            "decoys": "tanquinho | nariz | balde",
             "x": false,
             "id": 53724,
             "prompt": "Meu <BLANK> vaza!"
         },
         {
-            "decoys": "ir para Vênus | salvar as baleias | voar",
+            "decoys": "ir para Vênus | salvar os peixes abissais | voar",
             "x": false,
             "id": 53723,
             "prompt": "Eu quero ser a primeira pessoa a <BLANK>!"
         },
         {
-            "decoys": "andar de patins | ir para a aula de zumba | tomar banho",
+            "decoys": " estudar | ir para a academia | tomar banho",
             "x": false,
             "id": 53722,
             "prompt": "Eu gostaria de ter energia para <BLANK>!"
@@ -164,10 +164,10 @@
             "prompt": "Minha esposa sempre esquece meu <BLANK>!"
         },
         {
-            "decoys": "sapato | brinquedo | queijo",
+            "decoys": "sapatos | brinquedos | jogos ",
             "x": false,
             "id": 53720,
-            "prompt": "Eu preciso de um lugar apenas para o meu <BLANK>!"
+            "prompt": "Eu preciso de um lugar apenas para os meus <BLANK>!"
         },
         {
             "decoys": "minha coleção de filmes | meus pensamentos | uma liquidação",
@@ -176,55 +176,55 @@
             "prompt": "Eu preciso organizar <BLANK>!"
         },
         {
-            "decoys": "mais irritadiço | instruções de Moscou | muito sorvete",
+            "decoys": "mais irritados | velhos muito rapido | muito rigidos ",
             "x": false,
             "id": 53691,
-            "prompt": "Acho que meus pais podem estar ficando <BLANK>!"
+            "prompt": "Acho que meus pais estão ficando <BLANK>!"
         },
         {
-            "decoys": "o banco | minha sala de jantar | meu fã clube",
+            "decoys": "o banco | minha sala de jantar | meu armario",
             "x": false,
             "id": 53688,
             "prompt": "<BLANK> está muito lotado."
         },
         {
-            "decoys": "comer gumbo | ratos taxidermia | termine meu roteiro",
+            "decoys": "comer açaí | ir a um psicologo | organizar meu horario",
             "x": false,
             "id": 53686,
-            "prompt": "Nunca há tempo necessário para <BLANK>!"
+            "prompt": "Eu nunca tenho tempo para <BLANK>!"
         },
         {
-            "decoys": "comerciais de hipoteca reversa | queda de cabelo | envelhecendo para trás",
+            "decoys": "piadas de tiozão do zap | queda de cabelo | responsabilidades",
             "x": false,
             "id": 53684,
-            "prompt": "Eu odeio envelhecer por causa de <BLANK>!"
+            "prompt": "Eu odeio envelhecer por causa da (s) <BLANK>!"
         },
         {
-            "decoys": "cadeiras | pessoas com quem vale a pena conversar | pôneis",
+            "decoys": "divulgação | pessoas com quem vale a pena conversar | pessoas inteligentes",
             "x": false,
             "id": 53630,
             "prompt": "Meu trabalho precisa de mais <BLANK>!"
         },
         {
-            "decoys": "minha carteira | minha mãe | como a comida funciona",
+            "decoys": "minha carteira | minha mãe | como tem brasileiro em todo lugar",
             "x": false,
             "id": 53629,
             "prompt": "Eu sempre esqueço <BLANK> quando viajo!"
         },
         {
-            "decoys": "polca | tocar tuba | salto de paraquedas",
+            "decoys": " recebo beijinhos | como bastante | assisto alguma coisa",
             "x": false,
             "id": 53628,
             "prompt": "Eu só fico feliz quando <BLANK>!"
         },
         {
-            "decoys": "ferro | cozinhar | fazer meus impostos",
+            "decoys": " estudar | trabalhar | declarar minha renda",
             "x": false,
             "id": 53627,
             "prompt": "Eu fico com tanto sono quando preciso <BLANK>!"
         },
         {
-            "decoys": "rasgar minha camisa | comer um bolo | falar francês",
+            "decoys": "rasgo minha camisa | como toda comida que vejo | falar francês",
             "x": false,
             "id": 53625,
             "prompt": "Quando fico com raiva, EU <BLANK>!!!"
