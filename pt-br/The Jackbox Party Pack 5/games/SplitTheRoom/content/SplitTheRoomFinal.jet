@@ -650,9 +650,9 @@
             "questionText": "O que você joga ao mar?"
         },
         {
-            "answerText": "Senior Solteiros",
-            "scenarioText": "Você reservou uma semana em um Party Cruise especializado, mas estragou as datas. Enquanto você caminha pela doca, os únicos dois corredores disponíveis são para solteiros sênior ou <BLANK>.",
-            "decoys": "Malabaristas Amadores do Oceano | Borat em um barco | Cruzeiro country de Kid Rock | Semana do Rush na Água | improvisação ahoy",
+            "answerText": "Senhores Solteiros",
+            "scenarioText": "Você reservou uma semana em um cruzeiro temático especializado, mas confundiu as datas. Enquanto caminha pela doca, os únicos dois corredores disponíveis são para senhores solteiros ou <BLANK>.",
+            "decoys": "Malabaristas Novatos do Oceano | Borat em um barco | Cruzeiro Country do Gusttavo Lima | Semana do Rush na Água | improvisação ahoy",
             "x": false,
             "id": 53037,
             "category": "Opção de cruzeiro temático [FINAL]",
@@ -660,25 +660,25 @@
         },
         {
             "answerText": "As baleias são uma merda!",
-            "scenarioText": "Você está em um protesto pela proteção ambiental. No entanto, você deve carregar uma placa que diga \"Baleias sugam!\" ou “<BLANK>!”",
-            "decoys": "MANTENHA A PERFURAÇÃO | EU SOU UM MANEQUIM | MATE O PLANETA | EU AMO ÁGUA SUJA | AS ONDAS DE CALOR SÃO GR8",
+            "scenarioText": "Você está em um protesto pela proteção ambiental. No entanto, você deve carregar uma placa que diga \"Baleias são uma merda!\" ou “<BLANK>!”",
+            "decoys": "CONTINUEM PERFURANDO | EU SOU UM MANEQUIM | MATE O PLANETA | EU AMO ÁGUA SUJA | AS ONDAS DE CALOR SÃO ÓTIMAS",
             "x": false,
             "id": 53035,
-            "category": "Sinal de protesto [FINAL]",
-            "questionText": "Qual sinal você carrega?"
+            "category": "Placa de protesto [FINAL]",
+            "questionText": "Qual placa você carrega?"
         },
         {
             "answerText": "aquele que rouba bebês",
             "scenarioText": "Você vive em uma paisagem infernal pós-apocalíptica. Você pode se juntar à gangue conhecida por roubar bebês ou a uma gangue conhecida por <BLANK>.",
-            "decoys": "vestindo gatos mortos | comendo pessoas | beber urina | queimando casas | automutilação",
+            "decoys": "vestir gatos mortos | comer pessoas | beber urina | queimar casas | automutilação",
             "x": true,
             "id": 53030,
             "category": "Gangue Pós-Apocalíptica [FINAL]",
             "questionText": "A qual gangue pós-apocalíptica você participa?"
         },
         {
-            "answerText": "um app de damas",
-            "scenarioText": "Todos os smartphones têm espaço suficiente para apenas um aplicativo. E você não pode excluí-los. Você pode escolher um telefone que vem com um app de damas ou <BLANK>.",
+            "answerText": "um aplicativo de damas",
+            "scenarioText": "Todos os smartphones têm espaço suficiente para apenas um aplicativo. E você não pode excluí-lo. Você pode escolher um celular que vem com um aplicativo de damas ou <BLANK>.",
             "decoys": "um aplicativo de xadrez | um aplicativo de dicionário Inglês-Holandês | um aplicativo de fast food | um aplicativo de namoro | uma calculadora",
             "x": false,
             "id": 52853,
@@ -687,8 +687,8 @@
         },
         {
             "answerText": "aparecer na festa do sobrinho",
-            "scenarioText": "Um clã de ninjas deve um favor a você, mas você deve trocá-lo logo. Você pode usá-lo para dar uma festa de aniversário incrível para seu sobrinho de 10 anos ou <BLANK>.",
-            "decoys": "ajudá-lo a propor | assalto a banco | entrar em um show de talentos | obter uma reforma da moda | encontre a casa dos seus sonhos",
+            "scenarioText": "Um clã de ninjas deve um favor a você, mas você deve pedir logo. Você pode usá-lo para dar uma festa de aniversário incrível para seu sobrinho de 10 anos ou <BLANK>.",
+            "decoys": "ajudar você a propor | assaltar a banco | entrar em um show de talentos | transformar seu jeito de vestir | encontrar a casa dos seus sonhos",
             "x": false,
             "id": 52821,
             "category": "Ninja Favor [FINAL]",
@@ -697,7 +697,7 @@
         {
             "answerText": "amostra de urina",
             "scenarioText": "As leis de identificação do eleitor tornaram-se muito rígidas. Agora, quando for votar, você deve fornecer uma amostra de urina ou <BLANK>.",
-            "decoys": "um esfregaço uretral | seus cílios cortados | uma entrada de diário altamente embaraçosa | cera de ouvido | Pelos da perna",
+            "decoys": "um raspado uretral | seus cílios cortados | uma página de diário altamente vergonhosa | cera de ouvido | pelos da perna",
             "x": true,
             "id": 52799,
             "category": "Novo requisito de votação [FINAL]",
@@ -706,7 +706,7 @@
         {
             "answerText": "corgis voadores",
             "scenarioText": "Você é um geneticista contratado para construir o parque temático do futuro. No entanto, você tem material genético limitado para trabalhar. Você pode criar corgis voadores ou <BLANK>.",
-            "decoys": "pugs subaquáticos | cavalos falantes | Jeff Goldblums | gatos montáveis | gansos gentis",
+            "decoys": "pugs subaquáticos | cavalos falantes | Wagner Moura | gatos montáveis | gansos gentis",
             "x": false,
             "id": 52779,
             "category": "Parque Temático Genético [FINAL]",
@@ -715,16 +715,16 @@
         {
             "answerText": "lutar com o pai da noiva",
             "scenarioText": "Você foi convidado a participar do casamento não tradicional do seu melhor amigo. Eles têm duas funções disponíveis: você pode lutar contra o pai da noiva ou pode <BLANK>.",
-            "decoys": "fazer uma dança solo | comer as flores que sobraram | noivo do noivo | DJ em todo o evento | pré-mastigar o bolo",
+            "decoys": "fazer uma dança solo | comer as flores que sobraram | enfeitar do noivo | ser o DJ do casamento inteiro | pré-mastigar o bolo",
             "x": false,
             "id": 52743,
             "category": "Casamento não tradicional [FINAL]",
             "questionText": "Qual papel você escolheu neste casamento bizarro?"
         },
         {
-            "answerText": "abelha espirra",
-            "scenarioText": "Antes que ela lance um feitiço em você, uma bruxa lhe dá duas opções: Você pode fazer com que as abelhas disparem pelo seu nariz toda vez que você espirrar ou dê <BLANK>.",
-            "decoys": "uma testa centímetro de altura | 12 dedos do pé | bacne permanente | palmas suadas | lágrimas roxas",
+            "answerText": "espirro de abelha",
+            "scenarioText": "Antes que ela lance um feitiço em você, uma bruxa lhe dá duas opções: Você pode escolher entre fazer com que as abelhas saiam pelo seu nariz toda vez que você espirrar ou <BLANK>.",
+            "decoys": "ganhar 1 centímetro a mais de testa | ter 12 dedos do pé | espinhas nas costas permanentemente | palmas suadas | lágrimas roxas",
             "x": false,
             "id": 52732,
             "category": "Opção de maldição [FINAL]",
@@ -732,17 +732,17 @@
         },
         {
             "answerText": "um tamboril",
-            "scenarioText": "Você está no comando da moeda de sua nação. Você deve escolher a imagem para o novo projeto de lei padrão ... mas suas opções são um tamboril ou <BLANK>.",
-            "decoys": "sua irmã | uma pilha de roupa | um cachorro zangado | Banksy | Papai Noel",
+            "scenarioText": "Você está no comando da moeda de sua nação. Você deve escolher a imagem para a nova cédula padrão ... mas suas opções são um tamboril ou <BLANK>.",
+            "decoys": "sua irmã | uma pilha de roupa | um cachorro zangado | Babu Santana | Papai Noel",
             "x": false,
             "id": 52722,
-            "category": "Nova Moeda Imagem [FINAL]",
+            "category": "Nova Imagem da Moeda [FINAL]",
             "questionText": "Qual imagem você coloca na conta?"
         },
         {
             "answerText": "acupuntura genital",
             "scenarioText": "Você tem uma insônia terrível. Um médico da Nova Era com um excelente histórico oferece duas soluções: acupuntura genital ou <BLANK>.",
-            "decoys": "remoção do mindinho | comendo maionese vencida | duas semanas de derramamento de sangue | ficar sem tecnologia por um mês | depilação corporal completa",
+            "decoys": "remoção do mindinho | comer maionese vencida | duas semanas de sangria | ficar sem tecnologia por um mês | depilar o corpo inteiro com cera ",
             "x": true,
             "id": 52659,
             "category": "Cura de insônia [FINAL]",
@@ -751,7 +751,7 @@
         {
             "answerText": "seu cachorro de infância",
             "scenarioText": "Um novo laboratório genético pode clonar qualquer animal ou pessoa. Para você, eles criarão um clone do seu cachorro de infância ou <BLANK>.",
-            "decoys": "um triceratops | Abraham Lincoln | você mesmo | um mamute | um avô",
+            "decoys": "um triceratops | Juscelino Kubitschek | você mesmo | um mamute | um avô",
             "x": false,
             "id": 52629,
             "category": "Quem você clona? [FINAL]",
@@ -760,16 +760,16 @@
         {
             "answerText": "eu estou morto",
             "scenarioText": "Enquanto você está planejando seu funeral, o agente funerário faz um acordo com você. Você não será cobrado se sua lápide disser \"Estou morto\" ou \"<BLANK>\".",
-            "decoys": "Nunca foi beijado | Alimente-me crianças | Saia do meu gramado | Opsies | Ido e esquecido",
+            "decoys": "Nunca foi beijado | Alimente-me crianças | Saia do meu gramado | Ops | Ido e esquecido",
             "x": true,
             "id": 52628,
-            "category": "Tombstone Deal [FINAL]",
+            "category": "Desconto da Lápide [FINAL]",
             "questionText": "O que você escreveu na sua lápide gratuita?"
         },
         {
             "answerText": "iate",
             "scenarioText": "Você está dividido entre dois amantes em potencial, equivalentes em todos os sentidos, menos um. O pretendente # 1 tem um iate de 3 quartos. O pretendente # 2 tem <BLANK>.",
-            "decoys": "um cartão-Dominoes-for-life | um corpo perfeito | um elevador em sua casa | o cão mais macio do mundo | um avião privado",
+            "decoys": "um cartão de pizza grátis da Dominos | um corpo perfeito | um elevador em sua casa | o cão mais fofo do mundo | um avião privado",
             "x": true,
             "id": 52610,
             "category": "Dois bons pretendentes [FINAL]",
@@ -777,17 +777,17 @@
         },
         {
             "answerText": "identificar presentes perfeitos",
-            "scenarioText": "Você pega o Papai Noel. Ele precisa manter sua existência em segredo, então ele oferece um suborno para você ficar quieto. Ele concederá a você a capacidade de identificar o dom perfeito das pessoas ou <BLANK>.",
-            "decoys": "comer biscoitos sem fim | produzir carvão do nada | tornam-se invisíveis para as crianças | falar com renas | detectar pessoas malcriadas",
+            "scenarioText": "Você captura o Papai Noel. Ele precisa manter sua existência em segredo, então ele oferece um suborno para você ficar quieto. Ele concederá a você a capacidade de identificar o presente perfeito para as pessoas ou <BLANK>.",
+            "decoys": "comer biscoitos sem fim | produzir carvão do nada | ficar invisível para as crianças | falar com renas | detectar pessoas malcriadas",
             "x": true,
             "id": 52163,
-            "category": "Santa Cláusula Suborno [FINAL]",
+            "category": "Suborno do Papai Noel [FINAL]",
             "questionText": "Qual poder você aceita do Papai Noel?"
         },
         {
             "answerText": "cauda de rato",
-            "scenarioText": "Você é uma grande celebridade com o poder de trazer de volta velhas tendências. Você está pensando em trazer de volta o rabo de rato ou <BLANK>.",
-            "decoys": "lábios inflados | JNCO jeans | colarinhos estourados | pulseiras tapa | néon infinito",
+            "scenarioText": "Você é uma grande celebridade com o poder de trazer de volta velhas tendências. Você está pensando em trazer de volta o cabelo rabo de rato ou <BLANK>.",
+            "decoys": "lábios inflados | bermudões | camisas com a gola do avesso | pulseiras bate e enrola | néon infinito",
             "x": false,
             "id": 50352,
             "category": "Tendência de trazer de volta [FINAL]",
@@ -795,44 +795,44 @@
         },
         {
             "answerText": "12 meses de shorts curtos",
-            "scenarioText": "Você é forçado a modelar para um calendário. Você pode aparecer em “12 meses de shorts curtos” OU “<BLANK>”.",
-            "decoys": "Strangers Revestidos de Mel | Nada além de fotos no meio do espirro | Pessoas e tigres: sem cercas | Regatas in Winter | Conhecer Celebridades Condenadas",
+            "scenarioText": "Você é forçado a ser modelo de um calendário. Você pode aparecer em “12 meses de shorts curtos” OU “<BLANK>”.",
+            "decoys": "Estranhos Cobertos de Mel | Nada além de fotos no meio do espirro | Pessoas e tigres: sem cercas | Regatas no Inverno | Conhecendo Celebridades Condenadas",
             "x": false,
             "id": 52144,
             "category": "Opção de modelo de calendário [FINAL]",
             "questionText": "Para qual calendário você posa?"
         },
         {
-            "answerText": "mimos",
-            "scenarioText": "Você pagou por uma sala de fuga, mas seus amigos desistiram no último minuto. Você tem que acompanhar um grupo de estranhos. Você pode passar uma hora resolvendo quebra-cabeças com um monte de mímicos ou <BLANK>.",
-            "decoys": "psiquiatras | Espiões russos | os homens mais altos do mundo | construtores de corpo | crianças",
+            "answerText": "mímicos",
+            "scenarioText": "Você pagou por um escape room, mas seus amigos desistiram no último minuto. Você tem que acompanhar um grupo de estranhos. Você pode passar uma hora resolvendo quebra-cabeças com um monte de mímicos ou <BLANK>.",
+            "decoys": "psiquiatras | Espiões russos | os homens mais altos do mundo | body builders | crianças",
             "x": false,
             "id": 52781,
-            "category": "Escape Room Subs [FINAL]",
-            "questionText": "Com qual grupo você faz a sala de fuga?"
+            "category": "Substitutos do Escape Room [FINAL]",
+            "questionText": "Com qual grupo você faz o escape room?"
         },
         {
             "answerText": "Estátua de Benedict Arnold",
             "scenarioText": "Você é um planejador de cidades. Uma votação pública oferece duas opções para o próximo ponto de referência. Você pode construir uma estátua de 20 metros de Benedict Arnold ou construir <BLANK>.",
-            "decoys": "uma fonte V8 | um parque de diversões para idosos | uma estátua de Borat de 50 pés | um memorial a Richard Nixon | uma réplica da Torre Eiffel",
+            "decoys": "uma fonte de água | um parque de diversões para idosos | uma estátua de Borat de 50 pés | um memorial a Ernesto Geisel | uma réplica da Torre Eiffel",
             "x": false,
             "id": 53194,
             "category": "Novo Marco [FINAL]",
             "questionText": "Qual marco você escolhe erguer?"
         },
         {
-            "answerText": "portas de apenas cinco metros de altura",
-            "scenarioText": "Você tem que escolher sua casa para sempre. Você tem duas opções: uma tem portas com apenas um metro e meio de altura e a outra tem <BLANK>.",
-            "decoys": "um buraco no chão para um banheiro | uma pista de aeroporto ao lado dela | sem janelas | uma cozinha acarpetada | banheiros sem portas",
+            "answerText": "portas de apenas um metro e meio de altura",
+            "scenarioText": "Você tem que escolher sua casa permanente. Você tem duas opções: uma tem portas com apenas um metro e meio de altura e a outra tem <BLANK>.",
+            "decoys": "um buraco no chão como privada | uma pista de aeroporto ao lado dela | zero janelas | uma cozinha com carpete | banheiros sem portas",
             "x": false,
             "id": 53201,
-            "category": "Home Flaw [FINAL]",
+            "category": "Falha na Casa [FINAL]",
             "questionText": "Com qual falha de apartamento você se conforma?"
         },
         {
-            "answerText": "enema de gelo lamacento",
-            "scenarioText": "Você teve soluços por semanas. Cada remédio que você tentou falhou. Finalmente, um especialista em soluços recomenda duas alternativas: um enema de gelo derretido ou <BLANK>.",
-            "decoys": "bebericando um litro de molho quente | comendo um punhado de seixos | uma semana de terapia de gritos | um Dance-A-Thon 24 horas | mergulho ártico",
+            "answerText": "enema de raspadinha",
+            "scenarioText": "Você está com soluços há duas semanas. Cada remédio que você tentou falhou. Finalmente, um especialista em soluços recomenda duas alternativas: um enema de raspadinha ou <BLANK>.",
+            "decoys": "beber um litro de pimenta | comer um punhado de pedrinhas | uma semana de terapia de gritos | uma maratona de dança de 24 horas | mergulho no Ártico",
             "x": true,
             "id": 53202,
             "category": "Cura de soluço [FINAL]",
@@ -840,7 +840,7 @@
         },
         {
             "answerText": "uma dançarina de 5 anos",
-            "scenarioText": "Você é um juiz em um show de talentos. Você tem que eliminar cruelmente um competidor: uma dançarina de 5 anos ou <BLANK>.",
+            "scenarioText": "Você é um juiz de um show de talentos. Você tem que eliminar cruelmente um competidor: uma dançarina de 5 anos ou <BLANK>.",
             "decoys": "um veterano da Guerra do Iraque | um acrobata de uma perna só | um baterista arrecadando dinheiro para sua mãe doente | um malabarista sem-teto | um padeiro de 100 anos",
             "x": true,
             "id": 53203,
@@ -849,11 +849,11 @@
         },
         {
             "answerText": "professores de matemática",
-            "scenarioText": "Você vive em uma sociedade onde reclamar é obrigatório. As posições desejáveis estão preenchidas, mas você ainda pode escolher ser um obstáculo de professores de matemática ou de <BLANK>.",
+            "scenarioText": "Você vive em uma sociedade onde interromper os outros agressivamente é obrigatório. As profissões mais famosas já estão preenchidas, mas você ainda pode escolher ser um importunador de professores de matemática ou de <BLANK>.",
             "decoys": "caminhantes na corda bamba | enfermeiras | contadores | motoristas de ônibus | senadores estaduais",
             "x": false,
             "id": 53205,
-            "category": "Heckling Obrigatório [FINAL]",
+            "category": "Obrigatório Interromper [FINAL]",
             "questionText": "Quem você escolhe incomodar?"
         },
         {
@@ -862,13 +862,13 @@
             "decoys": "Judi Dench | Steve Buscemi | Carrot Top | o vice-presidente | um personagem de anime",
             "x": false,
             "id": 53210,
-            "category": "New Face [FINAL]",
+            "category": "Nova Face [FINAL]",
             "questionText": "Que cara nova você conseguiu?"
         },
         {
             "answerText": "Festival Ayn Rand",
-            "scenarioText": "Cupido avisa que você vai se apaixonar por uma pessoa que conhecerá no próximo evento de que participar. Você foi convidado para um festival Ayn Rand e <BLANK>. Você tem que comparecer a um desses.",
-            "decoys": "um hoedown gótico | uma festa de karaokê do KISS | um festival de cinema de Adam Sandler | audições para “The Bachelor” | um circo steampunk",
+            "scenarioText": "Um cupido avisa que você vai se apaixonar por uma pessoa que conhecerá no próximo evento de que participar. Você foi convidado para um festival Ayn Rand e <BLANK>. Você tem que comparecer a um desses.",
+            "decoys": "uma quadrilha gótico | uma festa de karaokê do KISS | um festival de cinema de Adam Sandler | audições para “Big Brother Brasil” | um circo steampunk",
             "x": true,
             "id": 53214,
             "category": "Evento obrigatório de Cupido [FINAL]",
@@ -880,13 +880,13 @@
             "decoys": "um jogador de tênis profissional | um imitador de Elvis | um jacaré | uma girafa | um bando de gansos",
             "x": false,
             "id": 53215,
-            "category": "Gladiador Foe [FINAL]",
+            "category": "Oponente Gladiador [FINAL]",
             "questionText": "Com quem você luta, no estilo gladiador?"
         },
         {
             "answerText": "só fala em tom monótono",
             "scenarioText": "Você está em um reality show de romance. Você tem que se casar com um dos dois competidores finais. Ambos são bons, mas um fala apenas em tom monótono e o outro <BLANK>.",
-            "decoys": "mistura todos os seus alimentos | assiste “Mamma Mia” todos os dias | tem 7 filhos | só viaja de carro | sempre usa suspensórios",
+            "decoys": "liquidifica todos os seus alimentos | assiste “Mamma Mia” todos os dias | tem 7 filhos | só viaja de carro | sempre usa suspensórios",
             "x": false,
             "id": 53216,
             "category": "Proposta do Concorrente da Realidade [FINAL]",
@@ -894,8 +894,8 @@
         },
         {
             "answerText": "pele do rosto",
-            "scenarioText": "Você parece melhor do que nunca ... para todos os outros. Quando VOCÊ se olha no espelho, você se vê distorcido, seja como tendo pelo rosto grosso ou <BLANK>.",
-            "decoys": "pele azul brilhante | pele borbulhante | pernas que parecem palitos literais | cabelo espaguete | chifres de cabra",
+            "scenarioText": "Você parece melhor do que nunca ... para todos os outros. Quando VOCÊ se olha no espelho, você se vê distorcido, como se tivesse pelo no rosto inteiro ou <BLANK>.",
+            "decoys": "pele azul brilhante | pele cheia de bolhas | pernas que literamente parecem com gravetos | cabelo de espaguete | chifres de cabra",
             "x": false,
             "id": 53217,
             "category": "Falha de auto-imagem [FINAL]",
@@ -903,8 +903,8 @@
         },
         {
             "answerText": "Aproveite a música",
-            "scenarioText": "Os alienígenas sequestraram você e estão prestes a colher um pedaço de seu cérebro para pesquisa. Eles permitem que você perca a parte do cérebro que permite que você curta a música ou a parte que permite <BLANK>.",
-            "decoys": "lembrar o nome de mais de 40 pessoas | veja cores | escrever à mão | ler um mapa | provar a sobremesa",
+            "scenarioText": "Os alienígenas sequestraram você e estão prestes a colher um pedaço de seu cérebro para pesquisa. Eles permitem que você escolha entre perder a parte do cérebro que faça com que você goste de música ou a parte que permite <BLANK>.",
+            "decoys": "lembrar o nome de mais de 40 pessoas | ver cores | escrever à mão | ler um mapa | sentir gosto da sobremesa",
             "x": false,
             "id": 53218,
             "category": "Parte do sacrifício do cérebro [FINAL]",
@@ -913,7 +913,7 @@
         {
             "answerText": "Águia careca",
             "scenarioText": "Você está tropeçando no mato tarde da noite e ouve um farfalhar. Com medo, você aponta seu rifle e atira. Na luz do amanhecer, você verá que atirou em uma bela águia careca ou <BLANK>.",
-            "decoys": "um homem já moribundo | uma família de guaxinins | a estátua de David | um velociraptor | um barco que agora está afundando",
+            "decoys": "um homem já moribundo | uma família de guaxinins | a Estátua de Davi | um velociraptor | um barco que agora está afundando",
             "x": true,
             "id": 53263,
             "category": "Vítima de tiro [FINAL]",
@@ -921,8 +921,8 @@
         },
         {
             "answerText": "Elvis está vivo",
-            "scenarioText": "Você é o editor de um grande jornal. Cada um de seus repórteres de duas estrelas chega com uma história incrível. Você pode dedicar toda a sua primeira página a Elvis sendo encontrado vivo ou <BLANK>.",
-            "decoys": "Rússia invade Canadá | Tupac ainda está vivo | Atlantis é encontrado em Miami | Novo planeta habitável encontrado | Cachorro falante encontrado",
+            "scenarioText": "Você é o editor de um grande jornal. Cada um de seus repórteres chega com uma história incrível. Você pode dedicar toda a sua primeira página a Elvis sendo encontrado vivo ou <BLANK>.",
+            "decoys": "Rússia invade Canadá | Tupac ainda está vivo | Atlântida é encontrada em Miami | Novo planeta habitável encontrado | Cachorro falante encontrado",
             "x": false,
             "id": 53266,
             "category": "História da primeira página [FINAL]",
@@ -939,8 +939,8 @@
         },
         {
             "answerText": "teclado perfeito",
-            "scenarioText": "Você encontra uma nave alienígena abandonada na floresta. Está repleto de tecnologia incrível. Você só pode levar uma coisa com você: um teclado que escreve um inglês perfeito ou <BLANK>.",
-            "decoys": "um raio de encolher | um leitor de mentes | um cristal de invisibilidade | um teletransportador | sapatos flutuantes",
+            "scenarioText": "Você encontra uma nave alienígena abandonada na floresta. Está repleta de tecnologia incrível. Você só pode levar uma coisa com você: um teclado que escreve um português perfeito ou <BLANK>.",
+            "decoys": "um raio encolhedor | um leitor de mentes | um cristal de invisibilidade | um teletransportador | sapatos flutuantes",
             "x": false,
             "id": 53268,
             "category": "Tecnologia alienígena [FINAL]",
@@ -948,8 +948,8 @@
         },
         {
             "answerText": "tigela de macarrão",
-            "scenarioText": "O Deus do Excesso concederá a você um suprimento ilimitado de um item. Você pode ter uma tigela infinita de macarrão ou um suprimento infinito de <BLANK>.",
-            "decoys": "troco solto | gerbils | sanduíches de dedo | carne seca | detergente para roupa",
+            "scenarioText": "O Deus do Excesso concederá a você um suprimento ilimitado de uma coisa. Você pode ter uma tigela infinita de macarrão ou um suprimento infinito de <BLANK>.",
+            "decoys": "trocados | gerbos | sanduíches pequenos | carne seca | detergente para roupa",
             "x": false,
             "id": 53298,
             "category": "Suprimento ilimitado [FINAL]",
@@ -957,7 +957,7 @@
         },
         {
             "answerText": "Está chovendo homens",
-            "scenarioText": "Você está prestes a fazer uma seleção em uma jukebox mágica. O barman avisa que a letra da música vai prever os acontecimentos da sua vida na próxima semana. Você pode tocar “It's Raining Men” ou “<BLANK>”.",
+            "scenarioText": "Você está prestes a escolher em uma jukebox mágica. O barman avisa que a letra da música vai prever os acontecimentos da sua vida na próxima semana. Você pode tocar “It's Raining Men” ou “<BLANK>”.",
             "decoys": "Eu Andaria 500 Milhas | Todo mundo quer governar o mundo | Crazy in Love | Boulevard dos sonhos quebrados | Brechós",
             "x": false,
             "id": 53299,
