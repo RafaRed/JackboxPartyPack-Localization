@@ -66,15 +66,15 @@
         },
         {
             "answerText": "Você está aqui agora!",
-            "scenarioText": "Você perdeu a capacidade de dizer olá. Ao cumprimentar as pessoas, você tem a opção de gritar: \"BOA TADE SENHORES!\" OU “<BLANK>!”",
-            "decoys": "Bee-boop | Cha-cha-cha | Haba duey | SALVE | E AI FAMÍLIA",
+            "scenarioText": "Você perdeu a capacidade de dizer olá. Ao cumprimentar as pessoas, você tem a opção de gritar: \"BOA TARDE SENHORES!\" OU “<BLANK>”",
+            "decoys": "Sou um robô | Cha-cha-cha | Eu te conheço? | SALVE! | E AI FAMÍLIA!",
             "x": false,
             "id": 50912,
             "category": "Nova Saudação [FINAL]",
             "questionText": "Qual você seleciona como sua nova saudação?"
         },
         {
-            "answerText": "evidência que salva irmão",
+            "answerText": "evidência que salva seu irmão",
             "scenarioText": "Sua casa está pegando fogo. Você pode salvar evidências recém-descobertas que provam que seu irmão é inocente do assassinato que esta sendo acusado OU pode salvar <BLANK>. Ele tem um advogado muito bom.",
             "decoys": "seus remédios | a urna da sua avó | sua certidão de nascimento | seu pc gamer | seu animal de estimação favorito",
             "x": false,
@@ -85,7 +85,7 @@
         {
             "answerText": "médico Cirurgião Plástico",
             "scenarioText": "Você está preparando a última nave para sair da Terra antes que ela se autodestrua. Duas pessoas batem na porta do navio. Um é um médico Cirurgião Plástico; o outro é <BLANK>. Só há espaço para um.",
-            "decoys": "um excelente chef | um engenheiro brilhante | um fazendeiro qualificado | um Streamer talentoso | um Politico ",
+            "decoys": "um excelente chefe de cozinha | um engenheiro brilhante | um fazendeiro qualificado | um Streamer talentoso | um Politico ",
             "x": false,
             "id": 50956,
             "category": "Nave espacial última entrada [FINAL]",
@@ -119,8 +119,8 @@
             "questionText": "Qual frasco você pega?"
         },
         {
-            "answerText": "Bloody Mary mix",
-            "scenarioText": "Você está no quilômetro 20 de uma maratona quando os voluntários oferecem copos de papel com um líquido. No entanto, em vez de água, eles têm apenas caipirinha OU <BLANK>. Você PRECISA se hidratar.",
+            "answerText": "bebidas estranhas",
+            "scenarioText": "Você está no quilômetro 20 de uma maratona quando os voluntários oferecem copos de papel com um líquido. No entanto, ao invés de água, eles têm apenas caipirinha OU <BLANK>. Você PRECISA se hidratar.",
             "decoys": "suco de barata | leite vencido | urina de um homem saudável | caldo de galinha | água de cachorro-quente",
             "x": true,
             "id": 50490,
@@ -679,7 +679,7 @@
         {
             "answerText": "um aplicativo de damas",
             "scenarioText": "Todos os smartphones têm espaço suficiente para apenas um aplicativo. E você não pode excluí-lo. Você pode escolher um celular que vem com um aplicativo de damas ou <BLANK>.",
-            "decoys": "um aplicativo de xadrez | um aplicativo de dicionário Inglês-Holandês | um aplicativo de fast food | um aplicativo de namoro | uma calculadora",
+            "decoys": "um aplicativo de xadrez | um aplicativo de dicionário Português-Holandês | um aplicativo de fast food | um aplicativo de namoro | uma calculadora",
             "x": false,
             "id": 52853,
             "category": "Um aplicativo Smarthphone [FINAL]",
@@ -967,11 +967,11 @@
         {
             "answerText": "\"Estou interrompendo rudemente, mas ...\"",
             "scenarioText": "Pelo menos uma vez por dia, seu colega o interrompe para dizer: “Bem, na verdade ...” Você não pode impedi-lo de interrompê-lo, mas pode mudar o que ele diz. Ele pode dizer: “Estou interrompendo rudemente, mas ...” ou “<BLANK>”.",
-            "decoys": "Eu sou um grande idiota e ... | De uma perspectiva estúpida ... | Eu deveria ser despedido, mas ... | Não estou ajudando, mas ... | Não tenho fontes e ainda ...",
+            "decoys": "Eu sou um grande idiota, mas ... | De uma perspectiva estúpida ... | Eu deveria ser demitido, mas ... | Não estou ajudando, mas ... | Não tenho fontes, porém ...",
             "x": true,
             "id": 53309,
-            "category": "Frase Interruptor [FINAL]",
-            "questionText": "Qual frase você tem o seu interruptor para dizer?"
+            "category": "Interruptor de Frase [FINAL]",
+            "questionText": "Qual frase o seu interruptor diz?"
         },
         {
             "answerText": "golfinhos cantando seu nome",
@@ -983,36 +983,36 @@
             "questionText": "Qual rota você segue?"
         },
         {
-            "answerText": "sapatos de palhaço amarelo brilhante",
-            "scenarioText": "Você vive em um mundo onde todos parecem idênticos, então é necessário mostrar algo diferente em público. Suas opções são um par de sapatos de palhaço amarelo brilhante ou <BLANK>.",
-            "decoys": "uma barba e bigode falsos | uma tatuagem na testa | um boné “Make America Great Again” | unhas postiças compridas | um traje de esqui",
+            "answerText": "sapatos de palhaço amarelo-claros",
+            "scenarioText": "Você vive em um mundo onde todos parecem idênticos, então é necessário vestir algo diferente para se diferenciar em público. Suas opções são um par de sapatos de palhaço amarelo-claros ou <BLANK>.",
+            "decoys": "uma barba e bigode falsos | uma tatuagem na testa | um boné escrito “Deus Acima de Todos” | unhas postiças compridas | um traje para esquiar",
             "x": false,
             "id": 53314,
             "category": "Característica Única [FINAL]",
-            "questionText": "Que coisa única você usa?"
+            "questionText": "Que acessório único você usa?"
         },
         {
             "answerText": "baterias",
-            "scenarioText": "Você ganhou na loteria! No entanto, você não pode receber seus ganhos em dinheiro. Você pode receber um milhão de dólares em baterias ou <BLANK>.",
-            "decoys": "sapatos | pizza | livros | pratos | ninhada de gatinho",
+            "scenarioText": "Você ganhou na loteria! No entanto, você não pode receber seus ganhos em dinheiro. Você pode receber um milhão de dólares em baterias ou em <BLANK>.",
+            "decoys": "sapatos | pizza | livros | pratos | areia de gato",
             "x": false,
             "id": 53327,
-            "category": "Lucros da loteria Alt [FINAL]",
+            "category": "Lucros da loteria Alternativos [FINAL]",
             "questionText": "Como você coleta seus ganhos?"
         },
         {
             "answerText": "<OTHERPLAYER>",
-            "scenarioText": "Você criou um dispositivo que permite que os gatos falem como humanos. No entanto, eles soarão exatamente como <OTHERPLAYER>ou <BLANK>.",
-            "decoys": "Ray Romano | Donald Trump | Bob Esponja Calça Quadrada | Holly Hunter | James Earl Jones",
+            "scenarioText": "Você criou um dispositivo que permite que os gatos falem como humanos. No entanto, eles soarão exatamente como <OTHERPLAYER>, ou <BLANK>.",
+            "decoys": "Olavo de Carvalho | Jair Bolsonaro | Bob Esponja | Mickey | James Earl Jones",
             "x": false,
             "id": 53328,
             "category": "Voz do Gato [FINAL]",
             "questionText": "De quem é a voz que você dá aos gatos?"
         },
         {
-            "answerText": "\"O que há com flamingos?\"",
-            "scenarioText": "Você encontra um ser benevolente e onisciente. Você pode fazer a eles uma pergunta ... mas deve ser: \"O que há com os flamingos?\" ou “<BLANK>?”",
-            "decoys": "Como vai estar o tempo amanhã | Como você está | Você me sente | Meu gato me ama | Eu estou bem",
+            "answerText": " "Por que flamingos são assim?" ",
+            "scenarioText": "Você encontra um ser benevolente e onisciente. Você pode fazer a ele uma pergunta ... mas deve ser: "Por que flamingos são assim?" ou “<BLANK>?”",
+            "decoys": "Como vai estar o tempo amanhã | Como você está | Você me entende | Meu gato me ama | Eu estou bem",
             "x": false,
             "id": 53329,
             "category": "Pergunta a Deus [FINAL]",
@@ -1021,7 +1021,7 @@
         {
             "answerText": "bisbilhotar seus vizinhos",
             "scenarioText": "Por apenas uma hora, todos, exceto você, desaparecem do mundo. O mundo está vazio e destrancado. Você pode ir até a casa de seus vizinhos ou <BLANK>.",
-            "decoys": "tirar uma soneca | andar pelado pela rua | roubar uma tonelada de eletrônicos | vá em joyriding | melodias de festa explosiva",
+            "decoys": "tirar uma soneca | andar pelado pela rua | roubar uma tonelada de eletrônicos | roubar carros e passear por aí | colocar o som da música no máximo",
             "x": true,
             "id": 53330,
             "category": "Atividade do mundo vazio [FINAL]",
@@ -1029,17 +1029,17 @@
         },
         {
             "answerText": "sentar em banquinhos",
-            "scenarioText": "Você receberá a habilidade de Super Balance, o que significa que você nunca mais tropeçará ou tropeçará novamente. Mas, como efeito colateral, você desenvolverá uma incapacidade de sentar em banquinhos ou uma incapacidade de <BLANK>.",
+            "scenarioText": "Você receberá a habilidade de Super Equilíbrio, o que significa que você nunca mais tropeçará novamente. Mas, como efeito colateral, você desenvolverá uma incapacidade de sentar em banquinhos ou uma incapacidade de <BLANK>.",
             "decoys": "sorrir para bebês | usar banheiros públicos | tirar cochilos | usar chapéus | tocar campainhas",
             "x": false,
             "id": 53335,
-            "category": "Equilíbrio perfeito Trade Off [FINAL]",
+            "category": "Trocas pelo Equilíbrio perfeito [FINAL]",
             "questionText": "De qual habilidade você desiste?"
         },
         {
             "answerText": "casar com uma cabra",
-            "scenarioText": "A ciência médica falhou com você ... mas o ocultismo oferece a você uma cura. Você terá saúde perfeita se casar com uma cabra ou <BLANK>.",
-            "decoys": "comer um coração humano | passar uma noite em um caixão enterrado | roubar um artefato mágico de um museu | usar apenas preto | ouvir exclusivamente musica pop",
+            "scenarioText": "A ciência médica falhou com você ... mas o ocultismo oferece uma cura. Você terá saúde perfeita se casar com uma cabra ou <BLANK>.",
+            "decoys": "comer um coração humano | passar uma noite enterrado em um caixão | roubar um artefato mágico de um museu | usar apenas preto | ouvir exclusivamente musica pop",
             "x": true,
             "id": 53341,
             "category": "Cura estranha [FINAL]",
@@ -1047,17 +1047,17 @@
         },
         {
             "answerText": "um galão de molho",
-            "scenarioText": "Você e quatro outros clientes em um restaurante buffet estão sendo mantidos em cativeiro. Se você comer tudo o que sobrou em uma hora, você será liberado. Você pode beber um galão de molho ou comer <BLANK>.",
-            "decoys": "dois quilos de creme de milho | 16 cupcakes | 3 pizzas congeladas, ainda congeladas | três lajes de costelas | um monte de purê de batata",
+            "scenarioText": "Você e quatro outros clientes em um restaurante buffet estão sendo mantidos em cativeiro. Se você comer tudo o que sobrou em uma hora, será liberado. Você pode beber um galão de molho ou comer <BLANK>.",
+            "decoys": "dois quilos de creme de milho | 16 cupcakes | 3 pizzas congeladas, ainda congeladas | três costelas de porco inteiras | um monte de purê de batata",
             "x": true,
             "id": 52053,
-            "category": "Buffet Forçado Comer [FINAL]",
+            "category": "Forçado a Comer no Buffet [FINAL]",
             "questionText": "Qual comida você come para sua vida?"
         },
         {
             "answerText": "chamando animais de estimação de “crianças”",
             "scenarioText": "Você foi eleito para a mais alta corte do país. Como parte da iniciação, você cria uma nova lei. Você pode proibir chamar animais de estimação de “crianças” ou <BLANK>.",
-            "decoys": "conversa fiada sobre elevadores | libras de punho | emojis | adesivos para carros | Carteiras de velcro",
+            "decoys": "conversa fiada nos elevadores | soquinhos | emojis | adesivos para carros | carteiras de velcro",
             "x": false,
             "id": 53343,
             "category": "Nova Lei [FINAL]",
@@ -1065,26 +1065,26 @@
         },
         {
             "answerText": "colchão",
-            "scenarioText": "Você é uma pessoa solitária que vive no meio da floresta ... mas uma fada pode dar vida a um de seus objetos inanimados. Ela pode dar vida ao seu colchão ou ao seu <BLANK>.",
-            "decoys": "laptop | burrito | tapete de banho | lata de lixo | escova de dente",
+            "scenarioText": "Você é uma pessoa solitária que vive no meio da floresta ... mas uma fada pode dar vida a um de seus objetos inanimados. Ela pode dar vida ao seu colchão ou ao <BLANK>.",
+            "decoys": "seu laptop | seu burrito | seu tapete de banho | sua lata de lixo | sua escova de dente",
             "x": false,
             "id": 53345,
             "category": "Dê vida ao objeto [FINAL]",
-            "questionText": "Qual objeto você deseja tornar senciente?"
+            "questionText": "Qual objeto você deseja que ganhe consciência?"
         },
         {
             "answerText": "não afetado pela cafeína",
             "scenarioText": "Um experimento militar lhe dará superpoderes, mas há um custo. À medida que ajustam sua biologia, eles têm que lhe dar um ponto fraco: você não será afetado pela cafeína ou <BLANK>.",
-            "decoys": "alérgico a todos os animais de estimação | propenso a piadas sobre o pai | só pode usar shorts cargo | tem caspa intratável | tornar-se muito delicado",
+            "decoys": "alérgico a todos os animais de estimação | propenso a fazer piadas de tio | só pode usar shorts folgados | tem caspa intratável | tornar-se muito delicado",
             "x": false,
             "id": 53186,
             "category": "Fraqueza do super-herói [FINAL]",
             "questionText": "Qual fraqueza você escolhe?"
         },
         {
-            "answerText": "ligeiramente úmido",
-            "scenarioText": "Depois de um longo dia dirigindo, você para em um motel à beira da estrada. Resta um quarto com duas camas. Você pode dormir no que está ligeiramente úmido ou no que está <BLANK>.",
-            "decoys": "gemendo | coberto de moscas mortas | recebi uma nota que diz “Voltarei” | irregular | tem marcas de queimadura",
+            "answerText": "Um pouco úmida",
+            "scenarioText": "Depois de um longo dia dirigindo, você para em um motel à beira da estrada. Resta um quarto com duas camas. Você pode dormir na que está ligeiramente úmida ou na que está <BLANK>.",
+            "decoys": "gemendo | coberta de moscas mortas | com uma nota que diz “Voltarei” | toda torta | com marcas de queimadura",
             "x": true,
             "id": 53187,
             "category": "Escolha de cama de motel [FINAL]",
@@ -1092,26 +1092,26 @@
         },
         {
             "answerText": "afogado em tortas",
-            "scenarioText": "Você é um palhaço que foi condenado por crimes de palhaço. Como tal, você deve ser executado de uma forma hilária. Você pode ser sufocado por um ataque interminável de tortas ou morrer por <BLANK>.",
-            "decoys": "uma campainha de alegria | sendo empurrado para fora de uma corda bamba | esmagado por um elefante | engolindo espadas | pintura de rosto venenosa",
+            "scenarioText": "Você é um palhaço que foi condenado por crimes de palhaço. Como tal, você deve ser executado de uma forma hilária. Você pode ser sufocado por um ataque interminável de tortas ou morrer <BLANK>.",
+            "decoys": "por uma campainha de alegria | sendo empurrado para fora de uma corda bamba | esmagado por um elefante | engolindo espadas | pintando o rosto com veneno",
             "x": true,
             "id": 53188,
-            "category": "Punição de Palhaço [FINAL]",
-            "questionText": "Qual pena de morte para palhaço você escolhe?"
+            "category": "Punição do Palhaço [FINAL]",
+            "questionText": "Qual pena de morte para palhaços você escolhe?"
         },
         {
-            "answerText": "Buzina de bicicleta à moda antiga",
-            "scenarioText": "Seu novo smartphone solar terá bateria ilimitada. Infelizmente, os únicos tons de toque disponíveis são “Buzina de bicicleta à moda antiga” ou… <BLANK>. Isso nunca pode ser alterado.",
-            "decoys": "“La Macarena” | Cães latindo “Jingle Bells” | Preguiça gritando \"EI, VOCÊS!\" | “Yankee Doodle” | “Cha Cha Slide”",
+            "answerText": "Buzininha de Bicicleta",
+            "scenarioText": "Seu novo smartphone solar terá bateria ilimitada. Infelizmente, os únicos tons de toque disponíveis são “Buzininha de Bicicleta” ou… <BLANK>. Isso nunca poderá ser alterado.",
+            "decoys": "“Macarena” | Cães latindo “Jingle Bells” | Uma preguiça gritando \"EI, VOCÊS!\" | “Meu Pintinho Amarelinho” | “Begging”",
             "x": false,
             "id": 53365,
             "category": "Toques [FINAL]",
-            "questionText": "Qual você escolhe?"
+            "questionText": "Qual toque você escolhe?"
         },
         {
-            "answerText": "Campeões do Spelling Bee",
-            "scenarioText": "Sua cidade está sem virgens, então você tem que sacrificar outra coisa. Você pode oferecer campeões do Spelling Bee ou <BLANK>.",
-            "decoys": "Estrelas do YouTube | cães realmente fofos | motores de fusão a frio | atletas do time do colégio | apresentadores de rádio",
+            "answerText": "Campeões do Soletrando",
+            "scenarioText": "Sua cidade está sem cabras, então você tem que sacrificar outra coisa. Você pode oferecer campeões do Soletrando ou <BLANK>.",
+            "decoys": "Estrelas do YouTube | cães muito fofos | motores de fusão gelados | atletas do time do colégio | apresentadores de rádio",
             "x": true,
             "id": 53374,
             "category": "Cordeiro sacrificial [FINAL]",
@@ -1119,34 +1119,34 @@
         },
         {
             "answerText": "tirolesa",
-            "scenarioText": "Você está planejando terminar com sua cara-metade há meses. Você tem que fazer isso AGORA, nas férias, porque você acha que eles vão propor casamento. Você pode dar a notícia a eles em uma tirolesa pela selva ou enquanto <BLANK>.",
-            "decoys": "na banheira de hidromassagem | cavalgando ao pôr do sol | recebendo uma massagem | andando de bicicleta tandem | snorkeling com golfinhos",
+            "scenarioText": "Você está planejando terminar com sua cara-metade há meses. Você tem que fazer isso AGORA, nas férias, porque você acha que ela irá propor casamento. Você pode dar a notícia a ela em uma tirolesa pela selva ou enquanto está <BLANK>.",
+            "decoys": "em uma banheira de hidromassagem | cavalgando ao pôr do sol | recebendo uma massagem | andando de bicicleta tandem | nadando com golfinhos",
             "x": true,
             "id": 53375,
             "category": "Ponto de Separação [FINAL]",
-            "questionText": "Qual é o melhor ponto de término?"
+            "questionText": "Qual é o melhor lugar para o término?"
         },
         {
             "answerText": "a mente de <OTHERPLAYER>",
-            "scenarioText": "Um pedaço de um meteorito caiu no seu quintal. Quando você toca nele, você pode ver na mente de <OTHERPLAYER> ou pode ver em <BLANK>.",
-            "decoys": "a mente de Carlos Mencia | a mente do presidente | a mente de um serial killer | a mente do seu chefe",
+            "scenarioText": "Um pedaço de um meteorito caiu no seu quintal. Quando você toca nele, você pode ver na mente de <OTHERPLAYER> ou pode ver <BLANK>.",
+            "decoys": "a mente de Roberto Carlos | a mente do presidente | a mente de um serial killer | a mente do seu chefe",
             "x": false,
             "id": 53381,
             "category": "Vendo dentro das mentes [FINAL]",
             "questionText": "Qual visão você escolhe?"
         },
         {
-            "answerText": "se envolver em conversa fiada",
-            "scenarioText": "Você foi para o Inferno ... mas o diabo acabou por ser um cara razoável. Ele lhe dá duas opções de como passar a eternidade ali. Você pode se envolver em uma conversa fiada ou <BLANK>.",
-            "decoys": "ouvir adulto contemporâneo | tem formigas rastejando em você | assistir infomerciais | só comer pão branco | jogar Banco Imobiliário sem fim",
+            "answerText": "ficar de conversa fiada",
+            "scenarioText": "Você foi para o Inferno ... mas o diabo na verdade é bem gente boa. Ele lhe dá duas opções de como passar a eternidade ali. Vocês podem ficar de conversa fiada ou <BLANK>.",
+            "decoys": "ouvir MPB | ter formigas rastejando em você | assistir infomerciais | apenas comer pão de forma | jogar Banco Imobiliário sem fim",
             "x": true,
             "id": 53575,
-            "category": "Ido para o Inferno [FINAL]",
+            "category": "Ida para o Inferno [FINAL]",
             "questionText": "Como você passa a eternidade no inferno?"
         },
         {
             "answerText": "<OTHERPLAYER>",
-            "scenarioText": "Você é um político distinto. Você pode ter uma de duas pessoas para escrever sua biografia: <OTHERPLAYER> ou <BLANK>.",
+            "scenarioText": "Você é um político distinto. Você pode ter uma dessas duas pessoas para escrever sua biografia: <OTHERPLAYER> ou <BLANK>.",
             "decoys": "RL Stine | James Patterson | Dean Koontz | Dav Pilkey | Suzanne Collins",
             "x": false,
             "id": 53643,
@@ -1155,7 +1155,7 @@
         },
         {
             "answerText": "<OTHERPLAYER>'s",
-            "scenarioText": "Devido a uma condição neurológica rara, você sente a dor física experimentada por <OTHERPLAYER> e <BLANK>. Uma operação pode interromper uma dessas conexões.",
+            "scenarioText": "Devido a uma condição neurológica rara, você sente a dor física que <OTHERPLAYER> e <BLANK> sofrem. Uma operação pode interromper uma dessas conexões.",
             "decoys": "Patrick Ewing | sua mãe | Tom Cruise | um cão sênior | um artista do Cirque du Soleil",
             "x": true,
             "id": 53640,
@@ -1164,17 +1164,17 @@
         },
         {
             "answerText": "<OTHERPLAYER>",
-            "scenarioText": "Você é o CEO de uma gravadora. O próximo artista que você assina deve ser <OTHERPLAYER> ou <BLANK> Você tem uma grande hipoteca e cinco filhos pequenos.",
-            "decoys": "uma pessoa aleatória da rua | Cara do “Chocolate Rain” | sua mãe | o vencedor do “Survivor” | você mesmo",
+            "scenarioText": "Você é o CEO de uma gravadora. O próximo artista que você contrata deve ser <OTHERPLAYER> ou <BLANK>. Você tem uma grande hipoteca e cinco filhos pequenos.",
+            "decoys": "uma pessoa aleatória da rua | Cara do “Chocolate Rain” | sua mãe | o vencedor do “Largados e Pelados” | você mesmo",
             "x": false,
             "id": 53637,
-            "category": "Contrato de Registro [FINAL]",
+            "category": "Contrato da Gravadora [FINAL]",
             "questionText": "Com quem você assina um contrato de gravação?"
         },
         {
             "answerText": "<OTHERPLAYER>",
-            "scenarioText": "Por alguma razão, sempre que você olha para <OTHERPLAYER> ou <BLANK>, você é forçado a olhar para eles por 10 minutos intensos.",
-            "decoys": "seu pai | tubarões | Recepcionistas do Walmart | Drivers Uber | Seu cachorro",
+            "scenarioText": "Por alguma razão, sempre que você olha para <OTHERPLAYER> ou <BLANK>, você é forçado a olhar para eles por 10 intensos minutos.",
+            "decoys": "seu pai | tubarões | operadores de caixas de supermercado | motoristas do Uber | seu cachorro",
             "x": false,
             "id": 53638,
             "category": "Contato com os olhos [FINAL]",
@@ -1182,17 +1182,17 @@
         },
         {
             "answerText": "<OTHERPLAYER>",
-            "scenarioText": "Você é o CEO de uma empresa de perfumes. Você pode dar luz verde a um novo perfume que cheire como <OTHERPLAYER> ou como <BLANK>.",
-            "decoys": "Cidade de nova iorque | sanduíches de presunto | uma lavanderia automática | algas marinhas | um poço de lollapalooza",
+            "scenarioText": "Você é o CEO de uma empresa de perfumes. Você pode dar permissão para a fabricação de um novo perfume que cheire como <OTHERPLAYER> ou como <BLANK>.",
+            "decoys": "São Paulo | sanduíches de presunto | uma lavanderia | algas marinhas | um show no Lollapalooza",
             "x": false,
             "id": 53636,
-            "category": "Perfume Choice [FINAL]",
+            "category": "Escolha de Perfume [FINAL]",
             "questionText": "Qual é o cheiro do seu novo perfume?"
         },
         {
             "answerText": "<OTHERPLAYER>",
             "scenarioText": "Sob uma nova lei, você deve pendurar um retrato de <OTHERPLAYER> ou <BLANK> sobre sua cama.",
-            "decoys": "R. Kelly | Pernalonga | o Geico Gecko | Mussolini | O Papa",
+            "decoys": "do R. Kelly | do Pernalonga | do Galinho Chicken Little | do Mussolini | do Papa",
             "x": true,
             "id": 53635,
             "category": "Pintura sobre a cama [FINAL]",
@@ -1201,7 +1201,7 @@
         {
             "answerText": "pula em um carro em alta velocidade",
             "scenarioText": "Você é um dublê de uma estrela de ação. Você é necessário para uma das duas cenas. Você pode substituí-los enquanto “ele” pula para dentro de um carro em alta velocidade ou <BLANK>.",
-            "decoys": "pula de um telhado | luta com um crocodilo | atravessa fogo | cai de um trem em movimento | cai por um lance de escadas",
+            "decoys": "pula de um telhado | luta contra um crocodilo | atravessa o fogo | cai de um trem em movimento | cai da escada",
             "x": false,
             "id": 52253,
             "category": "Opção de acrobacias [FINAL]",
@@ -1210,7 +1210,7 @@
         {
             "answerText": "Chucrute",
             "scenarioText": "É 2062 e 90% das pessoas têm um emprego de tempo integral entregando alguns itens estranhamente específicos para pessoas ricas. Você pode entregar chucrute ou <BLANK>. Em cada entrega, você deve dizer: \"Estou honrado em lhe dar isso.\"",
-            "decoys": "preservativos | roupa interior | hamsters | canudos de plástico | suco de vapor",
+            "decoys": "preservativos | calcinhas e cuecas | hamsters | canudos de plástico | essência para vape",
             "x": true,
             "id": 53652,
             "category": "Opções de entrega [FINAL]",
@@ -1218,17 +1218,17 @@
         },
         {
             "answerText": "sem calça",
-            "scenarioText": "De acordo com uma nova lei, todos devem ter suas fotos tiradas secretamente para um mapeamento online. Você pode ser pego recebendo a correspondência sem calças ou <BLANK>.",
-            "decoys": "fazer xixi em um arbusto enquanto bêbado | vomitando | despistando um cachorro vadio | espiando pela janela do seu vizinho | roubando um enfeite de gramado",
+            "scenarioText": "De acordo com uma nova lei, todos devem ter suas fotos tiradas secretamente para um mapa online. Você pode ser pego recebendo uma correspondência sem calças ou <BLANK>.",
+            "decoys": "fazendo xixi em um arbusto enquanto está bêbado | vomitando | despistando um cachorro de rua | espiando pela janela do seu vizinho | roubando um enfeite de jardim",
             "x": true,
             "id": 53647,
-            "category": "Street Views [FINAL]",
+            "category": "Mapa das Ruas [FINAL]",
             "questionText": "Qual situação você prefere ser pego fazendo?"
         },
         {
             "answerText": "chutando um vira lata caramelo",
             "scenarioText": "Você está concorrendo a um cargo político. Infelizmente, duas coisas que te comprometem surgiram. Há uma foto sua chutando um vira lata caramelo e uma foto sua <BLANK>. Você só pode impedir que uma delas vaze.",
-            "decoys": "fazendo cosplay de naruto | soluçando de tanto chorar | indo ao show do Justin Bieber em 2010 | queimando dinheiro | rindo de piadas feitas pelo Lucas Neto",
+            "decoys": "fazendo cosplay de Naruto | soluçando de tanto chorar | indo ao show do Justin Bieber em 2010 | queimando dinheiro | rindo de piadas feitas pelo Luccas Neto",
             "x": true,
             "id": 53270,
             "category": "coisas que te comprometem  [FINAL]",
@@ -1246,7 +1246,7 @@
         {
             "answerText": "cobre apenas a parte inferior do corpo",
             "scenarioText": "Você está em uma dimensão onde a saúde é terrível. Você pode escolher um de dois planos de saúde: um que cubra apenas a parte inferior do corpo ou um que cubra apenas <BLANK>.",
-            "decoys": "hematomas no antebraço | lesões nas costelas | lesões do couro cabeludo | resfriados comuns | Dores de barriga",
+            "decoys": "hematomas no antebraço | lesões nas costelas | lesões do couro cabeludo | resfriados comuns | dores de barriga",
             "x": true,
             "id": 52907,
             "category": "Melhores Planos de Saúde [FINAL]",
@@ -1264,7 +1264,7 @@
         {
             "answerText": "Aplaudir",
             "scenarioText": "Um novo treino poderá te dar o corpo perfeito. Mas cinquenta vezes por dia, você deve… aplaudir vigorosamente por 3 horas ou… <BLANK>.",
-            "decoys": "Ficar deitado sobre os próprios braços | Apontar para todos que estiverem ao seu redor | Revistar um desconecido | fazer agachamentos no telhado | escalar uma árvore bem alta",
+            "decoys": "Ficar deitado sobre os próprios braços | Apontar para todos que estiverem ao seu redor | Revistar um desconhecido | Fazer agachamentos no telhado | Escalar uma árvore bem alta",
             "x": true,
             "id": 53591,
             "category": "Treino [FINAL]",
@@ -1273,7 +1273,7 @@
         {
             "answerText": "Os Sugar Daddies",
             "scenarioText": "É sua primeira noite na prisão e você precisa de um grupo de presidiários para protegê-lo. Você pode se alinhar com um grupo chamado Os Sugar Daddies, ou… <BLANK>?",
-            "decoys": "Os Submissos | Esquadrão doze mil | Coração vermelho | MAnos Maneiros | canceladores de CPF",
+            "decoys": "Os Submissos | Esquadrão Doze Mil | Coração Vermelho | Manos Maneiros | Canceladores de CPF",
             "x": true,
             "id": 53590,
             "category": "Prisão [FINAL]",
