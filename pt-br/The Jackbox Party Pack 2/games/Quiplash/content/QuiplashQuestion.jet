@@ -508,7 +508,7 @@
       {
          "x": false,
          "id": 21676,
-         "prompt": "A mensagem mais estranha que seu gato poderia escrever para você em sua caixa de areia"
+         "prompt": "A mensagem mais estranha que seu gato poderia escrever para você na caixa de areia dele"
       },
       {
          "x": false,
@@ -518,12 +518,12 @@
       {
          "x": false,
          "id": 21684,
-         "prompt": "A sequência menos conhecida de <i>Old Yeller</i>: <i>Old Yeller 2: <BLANK></i>"
+         "prompt": "A sequência menos conhecida de <i>Clube da Luta</i>: <i>Clube da Luta 2: <BLANK></i>"
       },
       {
          "x": false,
          "id": 21680,
-         "prompt": "Uma frase horrível de pick-up"
+         "prompt": "Uma cantada horrível"
       },
       {
          "x": false,
@@ -533,22 +533,22 @@
       {
          "x": false,
          "id": 21691,
-         "prompt": "O filme de terror menos assustador: <i>Night of the <BLANK></i>"
+         "prompt": "O filme de terror menos assustador: <i>A Noite da <BLANK></i>"
       },
       {
          "x": false,
          "id": 21690,
-         "prompt": "A pior coisa a encontrar quando você se muda para uma nova casa"
+         "prompt": "A pior coisa para encontrar quando você se muda para uma nova casa"
       },
       {
          "x": false,
          "id": 21689,
-         "prompt": "O pior prêmio de carnaval que você poderia ganhar"
+         "prompt": "O pior prêmio de festa junina que você poderia ganhar"
       },
       {
          "x": false,
          "id": 21636,
-         "prompt": "A causa ambiental mais incomum é “<BLANK> as baleias”"
+         "prompt": "A causa ambiental mais incomum é “<BLANK> as Baleias”"
       },
       {
          "x": false,
@@ -578,7 +578,7 @@
       {
          "x": false,
          "id": 21643,
-         "prompt": "Um slogan de turismo rejeitado por Des Moines, Iowa: “Casa dos <BLANK>”"
+         "prompt": "Um slogan de turismo rejeitado para Itu, São Paulo: “Casa dos <BLANK>”"
       },
       {
          "x": false,
@@ -588,17 +588,17 @@
       {
          "x": false,
          "id": 21652,
-         "prompt": "A coisa mais estranha que um atendente de banheiro poderia oferecer a você"
+         "prompt": "A coisa mais estranha que um faxineiro poderia oferecer a você"
       },
       {
          "x": false,
          "id": 21654,
-         "prompt": "O pior balão do Dia de Ação de Graças seria um gigante e inflável <BLANK>"
+         "prompt": "O pior balão de uma festa junina seria um gigante e inflável <BLANK>"
       },
       {
          "x": true,
          "id": 21649,
-         "prompt": "Mau: você está perdido na floresta. Pior: você também está completamente nu. Pior: E você também é <BLANK>"
+         "prompt": "Notícia Ruim: você está perdido na floresta. Notícia Pior: você também está completamente nu. Notícia Pior Ainda: E você também é <BLANK>"
       },
       {
          "x": false,
@@ -608,12 +608,12 @@
       {
          "x": true,
          "id": 21661,
-         "prompt": "Como você pode saber que está bebendo vinho muito barato"
+         "prompt": "Como descobrir que está bebendo um vinho muito barato"
       },
       {
          "x": false,
          "id": 21660,
-         "prompt": "A maioria das pessoas conhece como The Big Apple, mas um apelido menos conhecido de Nova York é The Big <BLANK>"
+         "prompt": "A maioria das pessoas conhece como Cidade Maravilhosa, mas um apelido menos conhecido do Rio de Janeiro é Cidade <BLANK>"
       },
       {
          "x": true,
@@ -623,7 +623,7 @@
       {
          "x": false,
          "id": 21657,
-         "prompt": "A próxima melhor coisa para mastigar quando você está sem chiclete"
+         "prompt": "A melhor coisa para mastigar quando você está sem chiclete"
       },
       {
          "x": false,
@@ -638,7 +638,7 @@
       {
          "x": false,
          "id": 21613,
-         "prompt": "É incrivelmente rude chegar a <BLANK> com a boca aberta"
+         "prompt": "É incrivelmente rude <BLANK> com a boca aberta"
       },
       {
          "x": false,
@@ -648,7 +648,7 @@
       {
          "x": false,
          "id": 21627,
-         "prompt": "<i>O Império Contra-Ataca</i> teria sido arruinado se Darth Vader dissesse “Luke, eu tenho <BLANK>”"
+         "prompt": "<i>O Império Contra-Ataca</i> teria sido arruinado se Darth Vader dissesse “Não, eu sou <BLANK>”"
       },
       {
          "x": false,
@@ -658,7 +658,7 @@
       {
          "x": false,
          "id": 21628,
-         "prompt": "O cereal matinal mais nojento: <BLANK> Flakes"
+         "prompt": "O cereal matinal mais nojento: <BLANK> Cereal"
       },
       {
          "x": false,
@@ -668,7 +668,7 @@
       {
          "x": false,
          "id": 21617,
-         "prompt": "Pior do que o aquecimento global, a verdadeira ameaça para a humanidade é global <BLANK>"
+         "prompt": "Pior do que o aquecimento global, a verdadeira ameaça para a humanidade é <BLANK> global"
       },
       {
          "x": false,
@@ -703,12 +703,12 @@
       {
          "x": false,
          "id": 21541,
-         "prompt": "O pior erro que você pode cometer ao fazer streaming no Twitch.tv"
+         "prompt": "O pior erro que você pode cometer enquanto faz uma live em Twitch.tv"
       },
       {
          "x": false,
          "id": 21540,
-         "prompt": "A pior música para fazer pares de patinação artística para"
+         "prompt": "A pior música para fazer pares de patinação artística"
       },
       {
          "x": false,
@@ -718,12 +718,12 @@
       {
          "x": false,
          "id": 21538,
-         "prompt": "A pior coisa a dizer durante uma entrevista de emprego"
+         "prompt": "A pior coisa para dizer durante uma entrevista de emprego"
       },
       {
          "x": false,
          "id": 21537,
-         "prompt": "Uma categoria de revista que ainda não foi inventada"
+         "prompt": "Um tema de revista que ainda não foi inventado"
       },
       {
          "x": false,
@@ -753,17 +753,17 @@
       {
          "x": false,
          "id": 22026,
-         "prompt": "Crie um slogan de turismo ruim para o gêiser Old Faithful"
+         "prompt": "Crie o pior slogan de turismo para as Cataratas do Iguaçu"
       },
       {
          "x": false,
          "id": 22017,
-         "prompt": "A pior escolha possível para a pessoa na nova nota de $ 20"
+         "prompt": "O pior animal possível para a nova nota de R$20"
       },
       {
          "x": false,
          "id": 22023,
-         "prompt": "Uma letra pouco conhecida no rascunho original de \"Star-Spangled Banner\""
+         "prompt": "Uma estrofe pouco conhecida no rascunho original do \"Hino Nacional Brasileiro\""
       },
       {
          "x": true,
@@ -778,27 +778,27 @@
       {
          "x": false,
          "id": 22032,
-         "prompt": "Os vencedores do <i>The Bachelor</i> recebem uma rosa. Os perdedores devem receber <BLANK>"
+         "prompt": "Os vencedores do <i>The Bachelor: Em Busca do Grande Amor</i> recebem uma rosa. Os perdedores devem receber <BLANK>"
       },
       {
          "x": true,
          "id": 22034,
-         "prompt": "Como você pode saber que é hora de jogar fora um par de cuecas"
+         "prompt": "Como saber que é hora de jogar fora um par de meias"
       },
       {
          "x": false,
          "id": 22057,
-         "prompt": "Dos criadores de “Whack-a-Mole” vem o novo jogo “<BLANK>-a-<BLANK>”"
+         "prompt": "Dos mesmos criadores de “Bata-na-Toupeira”, vem aí o novo jogo “<BLANK>-na-<BLANK>”"
       },
       {
          "x": false,
          "id": 22062,
-         "prompt": "O título de uma música nunca lançada de Jimmy Buffett"
+         "prompt": "O título de uma música nunca lançada da banda Fresno"
       },
       {
          "x": false,
          "id": 21266,
-         "prompt": "A pior coisa para ouvir do seu GPS: “Em duas milhas, <BLANK>”"
+         "prompt": "A pior coisa para ouvir do seu GPS: “Em cinco quilômetros, <BLANK>”"
       },
       {
          "x": false,
@@ -808,27 +808,27 @@
       {
          "x": true,
          "id": 21271,
-         "prompt": "Como Wild Bill Hickok chamou seu pênis, provavelmente"
+         "prompt": "Como Jesse James provavelmente chamava seu pênis"
       },
       {
          "x": true,
          "id": 21275,
-         "prompt": "O pior faroeste foi <i>Tiroteio em <BLANK> Corral</i>"
+         "prompt": "O pior faroeste foi <i>Tiroteio no Curral <BLANK></i>"
       },
       {
          "x": false,
          "id": 21272,
-         "prompt": "Um bom uso para recortes de unha"
+         "prompt": "Um bom uso para unhas cortadas dos dedos dos pés"
       },
       {
          "x": false,
          "id": 21279,
-         "prompt": "Uma punição adequada para pessoas que mergulham duas vezes suas fichas"
+         "prompt": "Uma punição adequada para pessoas que não lavam as mãos depois de comer salgadinho"
       },
       {
          "x": false,
          "id": 21251,
-         "prompt": "A crise de energia da América terminaria se fizéssemos carros que funcionassem a <BLANK>"
+         "prompt": "A crise de energia do Brasil terminaria se fizéssemos carros que funcionassem a <BLANK>"
       },
       {
          "x": false,
@@ -843,7 +843,7 @@
       {
          "x": false,
          "id": 21258,
-         "prompt": "Um superlativo do ensino médio que você não quer ganhar: Provavelmente para <BLANK>"
+         "prompt": "A fama no ensino médio que você não quer ganhar: Provavelmente de <BLANK>"
       },
       {
          "x": true,
@@ -863,12 +863,12 @@
       {
          "x": false,
          "id": 21301,
-         "prompt": "Você sabe que seu médico enlouqueceu quando disse para você se certificar de que você <BLANK> pelo menos uma vez por dia"
+         "prompt": "Você sabe que seu médico enlouqueceu quando diz para você se certificar de que <BLANK> pelo menos uma vez por dia"
       },
       {
          "x": false,
          "id": 21303,
-         "prompt": "A pior parte de ser uma tartaruga ninja adolescente mutante"
+         "prompt": "A pior parte de ser uma das tartarugas ninjas"
       },
       {
          "x": false,
@@ -878,22 +878,22 @@
       {
          "x": false,
          "id": 21307,
-         "prompt": "O primeiro sinal de que você não é mais legal"
+         "prompt": "O primeiro sinal de que você não é mais maneiro"
       },
       {
          "x": false,
          "id": 21281,
-         "prompt": "Um vídeo com certeza de obter mais de 150 milhões de visualizações no YouTube seria “Chickens <BLANK>”"
+         "prompt": "Um vídeo que com certeza teria mais de 150 milhões de visualizações no YouTube seria “Minhas Galinhas <BLANK>”"
       },
       {
          "x": false,
          "id": 21282,
-         "prompt": "Uma coisa surpreendente de encontrar presa na sola do seu sapato"
+         "prompt": "Uma coisa surpreendente para encontrar presa na sola do seu sapato"
       },
       {
          "x": true,
          "id": 21286,
-         "prompt": "A coisa educada para trazer para uma orgia nos subúrbios"
+         "prompt": "Uma coisa educada para trazer para uma orgia nos subúrbios"
       },
       {
          "x": true,
@@ -903,7 +903,7 @@
       {
          "x": false,
          "id": 21292,
-         "prompt": "A pior coisa que poderia vir depois de “Honey-Roasted”"
+         "prompt": "A pior coisa que poderia vir antes de “Assadas com Mel”"
       },
       {
          "x": false,
@@ -928,7 +928,7 @@
       {
          "x": false,
          "id": 21328,
-         "prompt": "Um bom sinal de que você bebeu muito MT. Orvalho"
+         "prompt": "Um bom sinal de que você bebeu muito Sprite"
       },
       {
          "x": false,
@@ -948,12 +948,12 @@
       {
          "x": true,
          "id": 21337,
-         "prompt": "Ainda outro uso prático para a placenta"
+         "prompt": "Mais um uso prático para a placenta"
       },
       {
          "x": false,
          "id": 21319,
-         "prompt": "Uma boa alternativa para pás de pingue-pongue"
+         "prompt": "Uma boa alternativa para raquetes de pingue-pongue"
       },
       {
          "x": false,
@@ -963,17 +963,17 @@
       {
          "x": true,
          "id": 21327,
-         "prompt": "Uma parte nova e surpreendente do teste de sobriedade exige que você dê <BLANK> para provar que não está bêbado"
+         "prompt": "Uma parte nova e surpreendente do teste do bafômetro exige que você dê <BLANK> para provar que não está bêbado"
       },
       {
          "x": false,
          "id": 21325,
-         "prompt": "A pior razão para usar uma máquina do tempo"
+         "prompt": "O pior motivo para usar uma máquina do tempo"
       },
       {
          "x": false,
          "id": 21321,
-         "prompt": "Algo que você não deve fazer durante o crowdsurf"
+         "prompt": "Algo que você não deve fazer enquanto surfa na multidão"
       },
       {
          "x": true,
@@ -988,7 +988,7 @@
       {
          "x": false,
          "id": 21360,
-         "prompt": "O Wally de “Onde está Wally?” diz para si mesmo no espelho"
+         "prompt": "O que Wally de “Onde está Wally?” diz para si mesmo no espelho"
       },
       {
          "x": false,
@@ -998,7 +998,7 @@
       {
          "x": false,
          "id": 21345,
-         "prompt": "Uma coisa assustadora para escrever na linha de assinatura do seu e-mail"
+         "prompt": "Uma coisa assustadora para escrever na assinatura do seu e-mail"
       },
       {
          "x": false,
@@ -1013,7 +1013,7 @@
       {
          "x": true,
          "id": 21346,
-         "prompt": "O que Little Bo Peep confessaria se ficasse muito bêbada"
+         "prompt": "O que a Betty de “Toy Story” confessaria se ficasse muito bêbada"
       },
       {
          "x": false,
@@ -1033,7 +1033,7 @@
       {
          "x": false,
          "id": 21354,
-         "prompt": "Um péssimo nome para um complexo de apartamentos: “<BLANK> Place”"
+         "prompt": "Um péssimo nome para um complexo residencial: “Residencial <BLANK>”"
       },
       {
          "x": false,
@@ -1043,7 +1043,7 @@
       {
          "x": false,
          "id": 21134,
-         "prompt": "Uma coisa que os ricos realmente gostam é a incrustação de diamantes <BLANK>"
+         "prompt": "Uma coisa que os ricos realmente gostam é <BLANK> incrustado com diamantes"
       },
       {
          "x": false,
@@ -1073,7 +1073,7 @@
       {
          "x": false,
          "id": 21154,
-         "prompt": "O livro perdido de Hemingway: <i>The Old Man and the <BLANK></i>"
+         "prompt": "O livro perdido de Machado de Assis: <i>A Morte de <BLANK></i>"
       },
       {
          "x": false,
@@ -1088,7 +1088,7 @@
       {
          "x": false,
          "id": 21156,
-         "prompt": "O colega de trabalho mais chato constantemente <BLANK>"
+         "prompt": "O colega de trabalho mais irritante <BLANK> constantemente"
       },
       {
          "x": false,
@@ -1098,7 +1098,7 @@
       {
          "x": false,
          "id": 21181,
-         "prompt": "O nome da pior boneca"
+         "prompt": "O pior nome para uma boneca Baby Alive"
       },
       {
          "x": false,
@@ -1113,32 +1113,32 @@
       {
          "x": false,
          "id": 21169,
-         "prompt": "Dodgeball seria um esporte ainda melhor se <BLANK> fosse permitido"
+         "prompt": "Queimada seria um esporte ainda melhor se <BLANK> fosse permitido"
       },
       {
          "x": false,
          "id": 21168,
-         "prompt": "Um <BLANK> por dia mantém o médico longe"
+         "prompt": "Um <BLANK> por dia mantém uma dieta saudável"
       },
       {
          "x": false,
          "id": 21175,
-         "prompt": "O que a estátua de Abraham Lincoln está pensando enquanto está sentado no Lincoln Memorial?"
+         "prompt": "O que a estátua do Cristo Redentor estaria pensando se tivesse consciência?"
       },
       {
          "x": false,
          "id": 21173,
-         "prompt": "Em vez de \"Queijo!\" o pior fotógrafo de família diria para você dizer “<BLANK>!”"
+         "prompt": "Em vez de \"Xis!\" o pior fotógrafo diria para você dizer “<BLANK>!”"
       },
       {
          "x": false,
          "id": 21172,
-         "prompt": "O título de um ensaio de admissão à faculdade que definitivamente seria rejeitado"
+         "prompt": "O título de uma redação do ENEM que definitivamente seria rejeitado"
       },
       {
          "x": false,
          "id": 21198,
-         "prompt": "Algo que Big Bird vai confessar em seu leito de morte"
+         "prompt": "Algo que Garibaldo vai confessar em seu leito de morte"
       },
       {
          "x": false,
@@ -1153,7 +1153,7 @@
       {
          "x": false,
          "id": 21184,
-         "prompt": "O pior time de futebol universitário: The Fighting <BLANK>"
+         "prompt": "O pior time de futebol universitário: Os <BLANK>"
       },
       {
          "x": false,
@@ -1168,7 +1168,7 @@
       {
          "x": false,
          "id": 21209,
-         "prompt": "A pior maneira de desentupir um banheiro"
+         "prompt": "A pior maneira de desentupir uma privada"
       },
       {
          "x": false,
@@ -1178,12 +1178,12 @@
       {
          "x": false,
          "id": 21211,
-         "prompt": "Devíamos combinar Minnesota e Wisconsin e chamá-los de <BLANK>"
+         "prompt": "Devíamos combinar Espírito Santo e Minas Gerais e chamá-lo de <BLANK>"
       },
       {
          "x": false,
          "id": 21205,
-         "prompt": "O nome de uma rede a cabo que ninguém assiste"
+         "prompt": "O nome de um canal de tv que ninguém assiste"
       },
       {
          "x": false,
@@ -1193,7 +1193,7 @@
       {
          "x": true,
          "id": 21203,
-         "prompt": "A piada para</i> piada off-color <i>Star Wars 1"
+         "prompt": "Uma piada vulgar com o tema </i>Star Wars<i>"
       },
       {
          "x": false,
@@ -1208,7 +1208,7 @@
       {
          "x": false,
          "id": 21228,
-         "prompt": "O pior momento absoluto para um pássaro fazer cocô em você"
+         "prompt": "O pior momento para um pássaro fazer cocô em você"
       },
       {
          "x": false,
@@ -1223,7 +1223,7 @@
       {
          "x": true,
          "id": 21245,
-         "prompt": "Um achado chocante no cocô de Clifford, o Big Red Dog"
+         "prompt": "Um achado chocante no cocô de Clifford, o Gigante Cão Vermelho"
       },
       {
          "x": false,
@@ -1238,12 +1238,12 @@
       {
          "x": false,
          "id": 21241,
-         "prompt": "Onde Charlie Brown acaba aos 45 anos"
+         "prompt": "O que Charlie Brown está fazendo aos 45 anos de idade"
       },
       {
          "x": true,
          "id": 21240,
-         "prompt": "O que acontece quando você finalmente faz contato visual com o louco no metrô"
+         "prompt": "O que acontece quando você finalmente faz contato visual com um louco no metrô"
       },
       {
          "x": false,
@@ -1253,7 +1253,7 @@
       {
          "x": false,
          "id": 21116,
-         "prompt": "O que é o Monstro de Loch Ness, realmente?"
+         "prompt": "O que realmente é o Monstro do Lago Ness?"
       },
       {
          "x": false,
@@ -1263,17 +1263,17 @@
       {
          "x": false,
          "id": 21111,
-         "prompt": "O que Sam Elliott provavelmente chama de bigode"
+         "prompt": "Qual apelido Rodrigo Santoro dá ao seu bigode?"
       },
       {
          "x": false,
          "id": 21110,
-         "prompt": "O pior tema para o primeiro recital de dança do seu filho"
+         "prompt": "O pior tema para a primeira apresentação de dança do seu filho"
       },
       {
          "x": false,
          "id": 21096,
-         "prompt": "A pior combinação de dois atores que poderiam estrelar na próxima temporada de <i>True Detective</i> juntos"
+         "prompt": "A pior combinação de dois atores que poderiam estrelar na próxima temporada de <i>Bom Dia, Verônica</i>"
       },
       {
          "x": false,
@@ -1288,7 +1288,7 @@
       {
          "x": false,
          "id": 21090,
-         "prompt": "O nome de um escritório de advocacia que você não deve contratar"
+         "prompt": "O nome de um escritório de advocacia que você não deveria contratar"
       },
       {
          "x": false,
@@ -1303,7 +1303,7 @@
       {
          "x": false,
          "id": 21079,
-         "prompt": "Um experimento que os ratos realmente gostam de ter feito com eles"
+         "prompt": "Um experimento que os ratos realmente gostariam se fosse feito com eles"
       },
       {
          "x": false,
@@ -1313,7 +1313,7 @@
       {
          "x": false,
          "id": 21068,
-         "prompt": "A melhor camisa para vestir ao lado de alguém que está usando uma camiseta \"Estou com um idiota\""
+         "prompt": "A melhor camisa para vestir ao lado de alguém que está usando uma camiseta \"Estou com um idiota -> \""
       },
       {
          "x": false,
@@ -1338,7 +1338,7 @@
       {
          "x": false,
          "id": 21039,
-         "prompt": "Em uma pesquisa chocante, descobriu-se que três em cada quatro americanos <BLANK>"
+         "prompt": "Em uma pesquisa chocante, descobriu-se que três a cada quatro brasileiros <BLANK>"
       },
       {
          "x": false,
@@ -1348,12 +1348,12 @@
       {
          "x": false,
          "id": 21005,
-         "prompt": "O nome de um penteado que nunca pegará"
+         "prompt": "O nome de um penteado que nunca ficará famoso"
       },
       {
          "x": false,
          "id": 20996,
-         "prompt": "Mau nome para um restaurante italiano"
+         "prompt": "Um péssimo nome para um restaurante italiano"
       },
       {
          "x": false,
@@ -1363,7 +1363,7 @@
       {
          "x": false,
          "id": 21328,
-         "prompt": "Um bom sinal de que você bebeu muito MT. Orvalho"
+         "prompt": "Um bom sinal de que você bebeu muito Sprite"
       },
       {
          "x": false,
@@ -1383,7 +1383,7 @@
       {
          "x": false,
          "id": 21389,
-         "prompt": "Se um gênio lhe dá três desejos, as melhores coisas a desejar são: 1) um bilhão de dólares, 2) vida eterna e 3) <BLANK>"
+         "prompt": "Se um gênio lhe dá três desejos, as melhores coisas a desejar são: 1) um bilhão de reais, 2) vida eterna e 3) <BLANK>"
       },
       {
          "x": false,
@@ -1393,7 +1393,7 @@
       {
          "x": false,
          "id": 20694,
-         "prompt": "Fato pouco conhecido: um episódio não transmitido de <i>The Brady Bunch</i> teve a família lidando com <BLANK>"
+         "prompt": "Fato pouco conhecido: um episódio não transmitido de <i>Casos de Família</i> teve a família lidando com <BLANK>"
       },
       {
          "x": false,
