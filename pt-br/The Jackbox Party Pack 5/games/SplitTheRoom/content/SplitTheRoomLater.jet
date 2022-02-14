@@ -3,8 +3,8 @@
     "content": [
         {
             "answerText": "",
-            "scenarioText": "Enquanto ajuda sua vizinha idosa a mover a geladeira, você percebe que ela está perdendo a cabeça um pouco. Depois que você terminar, ela oferece <BLANK>.",
-            "decoys": "$ 300 | seu cachorro incrível | uma velha boneca assustadora sem olhos | um único quarto | torta mofada",
+            "scenarioText": "Enquanto ajuda sua vizinha idosa a mover a geladeira, você percebe que ela está perdendo a cabeça um pouco. Depois que você termina, ela oferece <BLANK>.",
+            "decoys": "R$300 | seu incrível cachorro | uma boneca antiga assustadora sem olhos | 25 centavos | uma torta mofada",
             "x": true,
             "id": 51989,
             "category": "Problemas Antigos",
@@ -12,17 +12,17 @@
         },
         {
             "answerText": "",
-            "scenarioText": "Você é um movimentador profissional na sala de estar de um cliente quando quebra acidentalmente <BLANK>. Embora o cliente não esteja presente, seu filhote de cachorro São Bernardo está.",
-            "decoys": "uma máscara de palhaço de cerâmica | um busto de seu filho | uma garrafa de Cristal | um globo antigo | um piano vertical",
+            "scenarioText": "Você é um movedor de móveis profissional na sala de estar de um cliente quando quebra acidentalmente <BLANK>. Embora o cliente não esteja presente, seu filhote de cachorro São Bernardo está.",
+            "decoys": "uma máscara de palhaço de cerâmica | uma estátua de seu filho | uma garrafa de Cristal | um globo antigo | um piano vertical",
             "x": false,
             "id": 52003,
-            "category": "Movendo dores",
+            "category": "As Dores de Uma Mudança",
             "questionText": "Você culpa o cachorro?"
         },
         {
             "answerText": "",
-            "scenarioText": "Você encontra um apartamento incrível com aluguel controlado pela metade do preço que você paga agora. É um ótimo bairro. Mas a entrada fica atrás de um <BLANK>.",
-            "decoys": "Chuck E. Cheese's | uma despensa de alimentos | uma lavagem de carro | um casino | uma estação de ônibus",
+            "scenarioText": "Você encontra um apartamento incrível com aluguel pela metade do preço que você paga agora. É um ótimo bairro. Mas a entrada fica atrás de <BLANK>.",
+            "decoys": "uma churrascaria | uma despensa de alimentos | um lava rápido | uma casa de bingo | um ponto de ônibus",
             "x": false,
             "id": 52146,
             "category": "Caçando o apartamento",
@@ -39,8 +39,8 @@
         },
         {
             "answerText": "",
-            "scenarioText": "Você é um papai noel do shopping. Uma criança de quatro anos sobe em seu colo. Quando você pergunta o que ele quer de Natal, ele diz: “<BLANK>”. Sua mãe quer saber o que ele disse.",
-            "decoys": "bom pornô | para a mamãe parar | Estou bêbado | para fugir | revistas escandalosas",
+            "scenarioText": "Você é um Papai Noel do shopping. Uma criança de quatro anos sobe em seu colo. Quando você pergunta o que ela quer de Natal, ela diz: “<BLANK>”. Sua mãe quer saber o que ela disse.",
+            "decoys": "um bom filme pornô | para a mamãe parar | eu tô bêbada | quero fugir | revistas de fofoca",
             "x": true,
             "id": 52223,
             "category": "Ho Ho Oh Não",
@@ -48,8 +48,8 @@
         },
         {
             "answerText": "",
-            "scenarioText": "Você está com o último centavo de dinheiro depois de um fim de semana em Las Vegas. Ao sair, você nota um novo jogo que exige que os jogadores <BLANK>.",
-            "decoys": "prever um cara ou coroa | nome personagens da Marvel | lançar dardos | jogar ping-pong | prever o dia da eleição",
+            "scenarioText": "Você está quase zerado depois de um fim de semana nos cassinos de Las Vegas. Ao sair, você nota um novo jogo que exige que os jogadores <BLANK>.",
+            "decoys": "chutem se cai cara ou coroa | nomeiem personagens da Marvel | lancem dardos | joguem ping-pong | advinhem qual será o candidato vencedor das eleições",
             "x": true,
             "id": 52106,
             "category": "Experimente",
@@ -57,8 +57,8 @@
         },
         {
             "answerText": "",
-            "scenarioText": "Você está no último trem da noite. Sentado à sua frente está um velho adorável. Logo depois que ele sai, você percebe que ele deixou o <BLANK>para trás.",
-            "decoys": "carteira | álbum de fotos | transportadora de gato | mantimentos | bengala",
+            "scenarioText": "Você está no último trem da noite. Sentado à sua frente está um senhor adorável. Logo depois que ele sai, você percebe que ele deixou <BLANK> para trás.",
+            "decoys": "a carteira | o álbum de fotos | a caixa de transporte do gato | os mantimentos | a bengala",
             "x": false,
             "id": 52135,
             "category": "Portas abertas à direita",
@@ -66,26 +66,26 @@
         },
         {
             "answerText": "",
-            "scenarioText": "Você está grávida. Em vez de seu útero, seu bebê pode agora crescer em um ovo que fica em uma incubadora em sua casa. O único problema é que o ovo pode ocasionalmente <BLANK>.",
-            "decoys": "disparar um alarme alto | faísca | tocar música odiosa | gotejamento goo | luzes estroboscópicas de festa",
+            "scenarioText": "Você está grávida. Em vez de seu útero, seu bebê pode agora crescer em um ovo que fica em uma incubadora na sua casa. O único problema é que o ovo pode ocasionalmente <BLANK>.",
+            "decoys": "disparar um alarme alto | soltar faísca | tocar músicas demoníacas | gotejar gosma | brilhar muito forte",
             "x": true,
             "id": 52760,
-            "category": "The Trymester",
+            "category": "O Trimestre",
             "questionText": "Você escolhe este novo método?"
         },
         {
             "answerText": "",
-            "scenarioText": "Você está se aproximando do fim de sua vida e buscando a fonte da juventude. Você se perde na selva e se depara com um lindo gêiser ... mas como não há sinalização, pode ser a fonte de <BLANK>.",
-            "decoys": "dor | mais velho | bactérias | decadência | dores de cabeça",
+            "scenarioText": "Você está se aproximando do fim de sua vida e buscando a fonte da juventude. Você se perde na selva e se depara com um lindo gêiser ... mas como não há sinalização, pode ser a fonte <BLANK>.",
+            "decoys": "da dor | da velhice | das bactérias | da decadência | das dores de cabeça",
             "x": false,
             "id": 52822,
-            "category": "Espero Primavera eterna",
+            "category": "Fonte da Juventude",
             "questionText": "Você bebe?"
         },
         {
             "answerText": "",
-            "scenarioText": "Devido a uma maldição, você é literalmente sugado para o mundo de cada jogo de tabuleiro que joga ... mas ninguém acredita em você. Depois de anos ignorando a noite de jogos, seus filhos exigem que você jogue <BLANK>.",
-            "decoys": "Monopólio | Hungry Hungry Hipopótamos | Candyland | Operação | Scene It? Crepúsculo",
+            "scenarioText": "Devido a uma maldição, você é literalmente sugado para o mundo de cada jogo de tabuleiro que joga ... mas ninguém acredita em você. Depois de anos ignorando a noite dos jogos, seus filhos exigem que você jogue <BLANK>.",
+            "decoys": "Banco Imobiliário | Uno | Jogo da Vida | Operando | Jogo da Mímica",
             "x": false,
             "id": 52579,
             "category": "Um mundo de diversão",
@@ -93,26 +93,26 @@
         },
         {
             "answerText": "",
-            "scenarioText": "Quando uma moeda dá cara, você sempre <BLANK>. Você acabou de empatar para o primeiro lugar em uma corrida de revezamento beneficente para crianças. O prêmio principal é pizza grátis por um ano. O vencedor será anunciado por meio de sorteio.",
-            "decoys": "apontar crianças feias | desmaiar | roubar doces | virar a mesa mais próxima | entrar em um ataque de espirros",
+            "scenarioText": "Quando uma moeda dá cara, você sempre <BLANK>. Você acabou de empatar para o primeiro lugar em uma corrida de revezamento beneficente para crianças. O prêmio principal é pizza grátis por um ano. O vencedor será escolhido por cara ou coroa.",
+            "decoys": "aponta para crianças feias | desmaia | rouba doces de crianças | quebra a mesa mais próxima | começa a espirrar sem parar",
             "x": true,
             "id": 51695,
-            "category": "É tudo por uma boa crosta",
+            "category": "É tudo por uma boa causa",
             "questionText": "Você se afasta?"
         },
         {
             "answerText": "",
             "scenarioText": "O jogo de computador que você está jogando tem uma família assustadoramente semelhante à sua. Uma noite, seu “irmão” computadorizado sai em um encontro e <BLANK>. Na noite seguinte, seu irmão de verdade vai sair para um encontro exatamente com a mesma roupa.",
-            "decoys": "suas roupas caem | é atacado por um esquilo | tem uma reação alérgica terrível ao jantar | corre para seu ex | acidentalmente cospe no encontro deles",
+            "decoys": "suas calças caem | é atacado por um esquilo | tem uma reação alérgica terrível ao jantar | encontra seu ex | acidentalmente cospe na namorada dele",
             "x": true,
             "id": 51962,
             "category": "Um desastre virtual",
-            "questionText": "Você os impede?"
+            "questionText": "Você o impede?"
         },
         {
             "answerText": "",
             "scenarioText": "Você chega ao escritório e descobre que não é o dia de trazer sua filha para o trabalho, mas sim o dia de trazer <BLANK> para o trabalho. Se você levar sua garotinha de volta para casa, ela ficará arrasada.",
-            "decoys": "Seu advogado | Guns | Cobras | Panquecas | Filmes de terror",
+            "decoys": "Seu advogado | Armas | Cobras | Panquecas | Filmes de Terror",
             "x": true,
             "id": 50761,
             "category": "Um caso de família",
@@ -120,53 +120,53 @@
         },
         {
             "answerText": "",
-            "scenarioText": "Você é um arqueólogo que acaba de descobrir um templo maia perdido. Ao entrar, você descobre <BLANK>, o que prova que sua tese extremamente popular está errada.",
-            "decoys": "uma pizza | armas | cáqui primitivo | uma rede elétrica | bandeiras piratas",
+            "scenarioText": "Você é um arqueólogo que acaba de descobrir um templo maia perdido. Ao entrar, você encontra <BLANK>, o que prova que sua tese extremamente popular está errada.",
+            "decoys": "uma pizza | armas | um cáqui primitivo | uma cerca elétrica | bandeiras piratas",
             "x": false,
             "id": 51679,
-            "category": "Uma carreira em ruínas",
+            "category": "Uma Carreira em Ruínas",
             "questionText": "Você esconde este item de suas descobertas?"
         },
         {
             "answerText": "",
-            "scenarioText": "Você está perdido na floresta há semanas e está morrendo de fome. De repente, um bebê <BLANK> agacha ao alcance de uma distância. É o único animal que você viu. Tudo que você tem é um cinto.",
+            "scenarioText": "Você está perdido na floresta há semanas e está morrendo de fome. De repente, um bebê <BLANK> agacha ao seu lado. É o único animal que você viu. Tudo que você tem é um cinto.",
             "decoys": "panda | veado | unicórnio | gato selvagem | flamingo",
             "x": true,
             "id": 50501,
-            "category": "Cace ou seja aquele que é caçado",
+            "category": "Melhor caçar do que ser aquele que é caçado",
             "questionText": "Você o mata?"
         },
         {
             "answerText": "",
-            "scenarioText": "Sempre que você tenta fazer matemática em sua cabeça, você grita, \"<BLANK>!\" Você está fora para um almoço chique com seu irmão e sua noiva - que é muito indigna de confiança. Ela diz o que você deve de almoço.",
-            "decoys": "Você não pode ter filhos | Números Uggghhhhh | Jogue-a fora | É hora de mastigar alguns entorpecentes | Eu não estou dando gorjeta",
+            "scenarioText": "Sempre que você tenta fazer matemática em sua cabeça, você grita, \"<BLANK>!\" Você está fora para um almoço chique com seu irmão e sua noiva - que é muito suspeita. Ela diz o quanto você deve pelo almoço.",
+            "decoys": "Você não pode ter filhos! | Números Aaaaaah | Termina com ela | É hora de mastigar alguns entorpecentes | Eu não vou dar gorjeta",
             "x": true,
             "id": 51606,
-            "category": "Dica Plus",
+            "category": "Gorjeta Extra",
             "questionText": "Você verifica a matemática dela?"
         },
         {
             "answerText": "",
-            "scenarioText": "Você e <OTHERPLAYER> estão a segundos de aparecer em um programa de competição de talentos ao vivo na televisão. Pouco antes de você sair na frente dos juízes, eles puxam <BLANK> e dizem: \"Confie em mim\".",
-            "decoys": "um boneco de ventríloquo | uma tocha | uma bandeja de cama | um dado de 20 lados | cortador de unha",
+            "scenarioText": "Você e <OTHERPLAYER> estão a segundos de aparecer em um show de talentos ao vivo na televisão. Pouco antes de você sair na frente dos juízes, ele pega <BLANK> e diz: \"Confie em mim\".",
+            "decoys": "um boneco de ventríloquo | uma tocha | uma bandeja de cama | um dado de 20 lados | um cortador de unha",
             "x": false,
             "id": 53106,
             "category": "Tem talento?",
-            "questionText": "Você sai com eles?"
+            "questionText": "Você vai se apresentar?"
         },
         {
             "answerText": "",
-            "scenarioText": "Você e <OTHERPLAYER> são uma dupla profissional de luta livre. Eles estão atualmente no ringue lutando contra um lutador chamado <BLANK>.",
-            "decoys": "Killer Klown | Senhor Assassinato | The Tickler | Bebê de tamanho homem | Crusher McCrush",
+            "scenarioText": "Você e <OTHERPLAYER> são uma dupla profissional de luta livre. Ele está atualmente no ringue lutando contra um lutador chamado <BLANK>.",
+            "decoys": "Palhaço Assassino | Senhor Assassinato | O Faz Cócegas | Bebê Adulto | Quebra-Quebra",
             "x": false,
             "id": 53142,
-            "category": "Tag, você é aquele que é isso",
-            "questionText": "Você marca em?"
+            "category": "Peguei, tá com você",
+            "questionText": "Você entra no ringue?"
         },
         {
             "answerText": "",
-            "scenarioText": "Você e <OTHERPLAYER> recebem anéis mágicos. Quando ativados, eles se transformam em uma poderosa águia robô, mas você se transforma em… <BLANK>.",
-            "decoys": "um cavalo | Ed Asner | uma águia comum | um pombo | uma caminhonete",
+            "scenarioText": "Você e <OTHERPLAYER> recebem anéis mágicos. Quando ativados, ele se transforma em uma poderosa águia robô, mas você se transforma em… <BLANK>.",
+            "decoys": "um cavalo | Renato Aragão | uma águia comum | um pombo | uma caminhonete",
             "x": false,
             "id": 53092,
             "category": "Amigos em primeiro lugar, heróis em segundo",
@@ -174,8 +174,8 @@
         },
         {
             "answerText": "",
-            "scenarioText": "Você quer dar a <OTHERPLAYER> o presente perfeito, então você entra em seus sonhos. Você descobrirá exatamente o que eles querem ... mas também terá que testemunhar sua fantasia envolvendo <BLANK>.",
-            "decoys": "pôneis | melaço | derrotando os Vingadores | Richard Nixon | Anime dos anos 90",
+            "scenarioText": "Você quer dar a <OTHERPLAYER> o presente perfeito, então você entra em seus sonhos. Você descobrirá exatamente o que ele quer ... mas também terá que testemunhar sua fantasia envolvendo <BLANK>.",
+            "decoys": "pôneis | melaço | derrotar os Vingadores | Marcelo Tas | Anime dos anos 90",
             "x": true,
             "id": 53038,
             "category": "Sonhe um pequeno sonho de mim",
@@ -183,8 +183,8 @@
         },
         {
             "answerText": "",
-            "scenarioText": "Você está preso em uma estação espacial que pode ter sido infiltrada por um alienígena metamorfo. <OTHERPLAYER> começa a parecer suspeito. O teste para determinar se eles são humanos ou não envolve <BLANK>.",
-            "decoys": "removendo todos os seus cabelos | bebendo cinco Red Bulls | fazendo amor romântico | uma luta de punho | revelando seus segredos",
+            "scenarioText": "Você está preso em uma estação espacial que pode ter sido infiltrada por um alienígena metamorfo. <OTHERPLAYER> começa a parecer suspeito. O teste para determinar se algúem é humano ou não envolve <BLANK>.",
+            "decoys": "remover todos os pelos do corpo | beber cinco latas Red Bulls | fazer amor romântico | uma luta de punho | revelar seus segredos",
             "x": true,
             "id": 53029,
             "category": "Apontando o dedo",
@@ -193,16 +193,16 @@
         {
             "answerText": "",
             "scenarioText": "Você e <OTHERPLAYER> estão algemados juntos. Você está sendo perseguido por uma gangue de <BLANK>. Você tem uma serra, mas ela não danifica as algemas.",
-            "decoys": "canibais | robôs terminadores | palhaços assassinos | drones | zumbis velozes",
+            "decoys": "canibais | robôs assassinos | palhaços assassinos | drones | zumbis velozes",
             "x": true,
             "id": 53024,
             "category": "O elo mais fraco",
-            "questionText": "Você cortou sua mão?"
+            "questionText": "Você corta sua mão?"
         },
         {
             "answerText": "",
-            "scenarioText": "Você e <OTHERPLAYER> estão concorrendo à mesma promoção no trabalho. Ontem, você os notou <BLANK> na sala de descanso.",
-            "decoys": "assistindo pornografia | dormindo | desenhando caricaturas de todos no escritório | roubando o grampeador | vlogging ao vivo",
+            "scenarioText": "Você e <OTHERPLAYER> estão concorrendo à mesma promoção no trabalho. Ontem, você notou ele <BLANK> na sala de descanso.",
+            "decoys": "assistindo pornografia | dormindo | desenhando caricaturas de todos no escritório | roubando o grampeador | fazendo vlog ao vivo",
             "x": true,
             "id": 53015,
             "category": "Subindo a escada",
@@ -210,35 +210,35 @@
         },
         {
             "answerText": "",
-            "scenarioText": "Você descobre que <OTHERPLAYER> é um super-herói. Eles pedem que você mantenha a identidade deles em segredo. Um jornal estende a mão. Se você fornecer um nome a eles, eles fornecerão <BLANK>.",
-            "decoys": "$ 100.000 | uma história de primeira página | $ 250.000 | um trabalho de seis dígitos | uma casa do lago",
+            "scenarioText": "Você descobre que <OTHERPLAYER> é um super-herói. Ele pede que você mantenha a identidade dele em segredo. Um jornal procura você. Se você fornecer um nome a eles, eles fornecerão <BLANK>.",
+            "decoys": "R$100.000,00 | uma divulgação na primeira página | R$250.000,00 | um trabalho com um salário alto | uma casa na praia",
             "x": false,
             "id": 52951,
             "category": "Roubo de identidade secreta",
-            "questionText": "Você divulga o nome deles?"
+            "questionText": "Você divulga o nome"
         },
         {
             "answerText": "",
-            "scenarioText": "Quando você pisa em uma rachadura, sua mãe está bem ... mas <OTHERPLAYER> recebe uma semana de dores nas costas. A única coisa entre você e os ingressos grátis para <BLANK> é uma calçada cheia de crack.",
-            "decoys": "Os Oscars | um buffet à vontade | Disney on Ice | “Hamilton” | Seis bandeiras",
+            "scenarioText": "Quando você pisa em uma rachadura, sua mãe fica bem ... mas <OTHERPLAYER> recebe uma semana de dores nas costas. A única coisa entre você e os ingressos grátis para <BLANK> é uma calçada cheia de rachaduras.",
+            "decoys": "o Oscar | um buffet à vontade | a Disney | “Tropa de Elite” | o Hopi Hari",
             "x": false,
             "id": 52933,
-            "category": "Faça uma rachadura",
-            "questionText": "Você tenta jogar amarelinha nele?"
+            "category": "Rache a Cuca",
+            "questionText": "Você arrisca pegar o ingresso?"
         },
         {
             "answerText": "",
-            "scenarioText": "Todas as manhãs, durante cinco anos, uma baguete recém-assada chegou misteriosamente à sua porta. <OTHERPLAYER> acabou de revelar que eram eles o tempo todo. Em troca, eles pedem <BLANK>.",
-            "decoys": "uma sessão de amassos | para cuidar de seu cachorro | $ 300 | uma chave para sua casa | uma viagem a paris",
+            "scenarioText": "Todas as manhãs, durante cinco anos, uma baguete recém-assado chega misteriosamente à sua porta. <OTHERPLAYER> acabou de revelar que era ele o tempo todo. Em troca, ele pede <BLANK>.",
+            "decoys": "uma sessão de amassos | para cuidar do cachorro dele | R$300 | uma chave para sua casa | uma viagem a Paris",
             "x": true,
             "id": 52922,
             "category": "O Vencedor do Pão",
-            "questionText": "Você faz isto?"
+            "questionText": "Você aceita o pedido?"
         },
         {
             "answerText": "",
-            "scenarioText": "Vinte vezes por dia, aleatoriamente, uma voz alta em sua cabeça diz: \"<BLANK>!\" A única maneira de se livrar dessa maldição é transferi-la para <OTHERPLAYER>. Eles não saberão que veio de você.",
-            "decoys": "Pip pop pip pop | Oops | Cuidado com o perigo | Ah, não! À sua esquerda",
+            "scenarioText": "Vinte vezes por dia, aleatoriamente, uma voz alta em sua cabeça diz: \"<BLANK>!\" A única maneira de se livrar dessa maldição é transferi-la para <OTHERPLAYER>. Ele não saberá que veio de você.",
+            "decoys": "Biiiiiiiiii | Ops | Cuidado com aquilo lá | Ah, não! | Olha pra esquerda" |,
             "x": false,
             "id": 52918,
             "category": "Uma doença transmissível",
@@ -246,8 +246,8 @@
         },
         {
             "answerText": "",
-            "scenarioText": "Ao depositar um cheque, o caixa do banco começa a chorar. Ele diz que está um caco desde <BLANK>. Há uma longa fila de clientes atrás de você.",
-            "decoys": "seu gato fugiu | seu psiquiatra morreu | outro cliente gritou com ele | você entrou | ele perdeu sua carteira",
+            "scenarioText": "Ao depositar um cheque, o caixa do banco começa a chorar. Ele diz que está um caco desde que <BLANK>. Há uma longa fila de clientes atrás de você.",
+            "decoys": "seu gato fugiu | seu psiquiatra morreu | outro cliente gritou com ele | você entrou | ele perdeu a carteira",
             "x": true,
             "id": 52902,
             "category": "Uma Transação Emocional",
@@ -255,7 +255,7 @@
         },
         {
             "answerText": "",
-            "scenarioText": "Como parte de uma nova iniciativa do governo, você recebe 150 acres de belas paisagens. Mas você deve passar os primeiros dois anos administrando-o como um santuário para <BLANK>.",
+            "scenarioText": "Como parte de uma nova iniciativa do governo, você recebe 6000 m2 de belas paisagens. Mas você deve passar os primeiros dois anos administrando-o como um santuário para <BLANK>.",
             "decoys": "políticos desgraçados | incels | ratos | carrapatos | estrelas de reality shows",
             "x": true,
             "id": 52898,
@@ -264,8 +264,8 @@
         },
         {
             "answerText": "",
-            "scenarioText": "Você e <OTHERPLAYER> ganharam um game show juntos. Como grande prêmio, você pode escolher $ 500 cada ou os dois podem passar uma semana com tudo incluído juntos no <BLANK>.",
-            "decoys": "Disneyland | Spa para casais | A Honeymoon Suite em Paris | Comic-Con | um resort de praia para casais",
+            "scenarioText": "Você e <OTHERPLAYER> ganharam um game show juntos. Como grande prêmio, vocês podem escolher R$3000 cada ou os dois podem passar uma semana juntos com tudo incluso em <BLANK>.",
+            "decoys": "Disney | Spa para casais | Uma suíte para Lua de Mel | Comic-Con | um resort de praia para casais",
             "x": false,
             "id": 52890,
             "category": "Uma correspondência feita no canal 7",
@@ -273,25 +273,25 @@
         },
         {
             "answerText": "",
-            "scenarioText": "Seu amuleto de amizade permite que você ganhe as habilidades de <OTHERPLAYER>. Um dia, um estranho o desafia a <BLANK>.",
-            "decoys": "pingue-pongue | um concurso de ortografia | dança break | uma maratona | um concurso de comer cachorro-quente",
+            "scenarioText": "Seu amuleto da amizade permite que você ganhe as habilidades de <OTHERPLAYER>. Um dia, um estranho o desafia a <BLANK>.",
+            "decoys": "pingue-pongue | um concurso de ortografia | dançar break | uma maratona | um concurso de comer cachorro-quente",
             "x": false,
             "id": 52862,
             "category": "Para que servem os amigos",
-            "questionText": "Você aposta cem dólares no resultado?"
+            "questionText": "Você aposta cem reais no resultado?"
         },
         {
             "answerText": "",
-            "scenarioText": "Zumbis estão atacando sua cidade. <OTHERPLAYER> diz que eles têm um plano para escapar com segurança. Eles não podem lhe dizer tudo, mas pedem que você <BLANK>.",
-            "decoys": "pegar uma cobra viva | ficar nu | algemar-se | abrace os zumbis | breakdance",
+            "scenarioText": "Zumbis estão atacando sua cidade. <OTHERPLAYER> diz que ele tem um plano para escapar com segurança. Ele não pode lhe dizer tudo, mas pede que você <BLANK>.",
+            "decoys": "pegue uma cobra viva | fique pelado | algeme-se | abrace os zumbis | dance break",
             "x": true,
             "id": 52857,
             "category": "Os seguidores",
-            "questionText": "Você sai do abrigo e os segue?"
+            "questionText": "Você sai do abrigo e segue o plano?"
         },
         {
             "answerText": "",
-            "scenarioText": "Seu parceiro romântico sempre mantém seu diário com eles, mas hoje você o encontra aberto em sua mesa. Você olha a última entrada e ela começa com… “<BLANK>”",
+            "scenarioText": "Seu parceiro romântico sempre fica com seu próprio diário, mas hoje você o encontra aberto na sua mesa. Você olha a última página e ela começa com… “<BLANK>”",
             "decoys": "Não consigo mentir sobre ... | Minha verdadeira identidade é ... | Está decidido: vou matar ... | Sempre desejei poder ... | Para o meu aniversário eu quero ...",
             "x": false,
             "id": 52713,
