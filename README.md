@@ -19,6 +19,7 @@ O objetivo inicial do projeto não é traduzir todo jogo, estarei começando pel
 ## The Jackbox Party Pack 1
 
 ## The Jackbox Party Pack 2
+- [x] Quiplash - Completo
 
 ## The Jackbox Party Pack 3
 
