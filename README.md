@@ -18,16 +18,41 @@ O objetivo inicial do projeto não é traduzir todo jogo, estarei começando pel
 
 ## The Jackbox Party Pack 1
 - [x] Drawful - Completo
+- [ ] Fibbage - Automatica
+- [ ] LieSwatterParty - Automatica
+- [ ] WordSpud - Automatica
 ## The Jackbox Party Pack 2
+- [ ] Auction - Automatica
+- [ ] Earwax - Automatica
+- [ ] Fibbage2 - Automatica
 - [x] Quiplash - Completo
-
 ## The Jackbox Party Pack 3
-
+- [ ] AwShirt - Em revisão
+- [ ] FakinIt - Automatica
+- [ ] PollPosition - Automatica
+- [ ] Quiplash2 - Automatica
+- [ ] TriviaDeath - Automatica
 ## The Jackbox Party Pack 4
-
+- [ ] Bracketeering - Automatica
+- [ ] Fibbage3 - Automatica
+- [ ] MonsterMingle - Automatica
+- [ ] Overdrawn - Automatica
+- [ ] SurviveTheInternet - Automatica
 ## The Jackbox Party Pack 5
-
+- [ ] PatentlyStupid - Automatica
+- [ ] RapBattle - Automatica
+- [ ] SlingShoot - Em revisão
+- [ ] SplitTheRoom - Automatica
+- [ ] YDKJ2018 - Automatica
 ## The Jackbox Party Pack 6
-
+- [ ] Jokeboat - Automatica
+- [ ] PushTheButton - Automatica
+- [ ] Ridictionary - Automatica
+- [ ] RoleModels - Automatica
+- [ ] TriviaDeath2 - Automatica
 ## The Jackbox Party Pack 7
-
+- [ ] BlankyBlank - Automatica
+- [ ] Everyday - Automatica
+- [ ] JackboxTalks - Automatica
+- [ ] Quiplash3 - Automatica
+- [ ] WorldChampions - Automatica
