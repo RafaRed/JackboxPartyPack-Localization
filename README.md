@@ -22,10 +22,10 @@ O objetivo inicial do projeto não é traduzir todo jogo, estarei começando pel
 - [ ] LieSwatterParty - Automatica
 - [ ] WordSpud - Automatica
 ## The Jackbox Party Pack 2
-- [ ] Auction - Automatica
-- [ ] Earwax - Automatica
-- [ ] Fibbage2 - Automatica
-- [x] Quiplash - Completo
+- [ ] Bidiots - Automatica - Funcinal
+- [ ] Earwax - Automatica - Funcional
+- [ ] Fibbage2 - Automatica - Jogo não traduzido, falta de arquivos.
+- [x] Quiplash - Completo - Funcional
 ## The Jackbox Party Pack 3
 - [ ] AwShirt - Em revisão
 - [ ] FakinIt - Automatica
