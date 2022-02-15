@@ -17,7 +17,7 @@ O objetivo inicial do projeto não é traduzir todo jogo, estarei começando pel
 - [ ] Criação de questões brasileiras para os jogos Quiplash e Drawful 
 
 ## The Jackbox Party Pack 1
-
+- [x] Drawful - Completo
 ## The Jackbox Party Pack 2
 - [x] Quiplash - Completo
 
