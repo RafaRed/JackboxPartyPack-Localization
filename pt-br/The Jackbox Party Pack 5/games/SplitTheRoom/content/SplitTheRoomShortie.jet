@@ -7,31 +7,31 @@
             "decoys": "uma mão | um caminhão de brinquedo | uma roda | um pé esquerdo | um cachorro quente",
             "x": false,
             "id": 50571,
-            "category": "Tenha cuidado com o que eles desejam",
+            "category": "Tenha cuidado com o que deseja",
             "questionText": "Você usa o seu único desejo para mudá-lo de volta?"
         },
         {
             "answerText": "",
-            "scenarioText": "Ao caminhar na praia, você encontra uma mensagem em uma garrafa. A carta é endereçada a você e inclui apenas uma linha curta: “<BLANK>”.",
+            "scenarioText": "Ao caminhar na praia, você encontra uma mensagem em uma garrafa. A carta é endereçada a você e inclui apenas uma frase curta: “<BLANK>”.",
             "decoys": "Eu sei onde você mora | Eu conheço seus segredos | Eu estou indo para você | Estou te observando | Envie ajuda",
             "x": false,
             "id": 50507,
-            "category": "Mensagem em um contêiner",
+            "category": "Mensagem em uma garrafa",
             "questionText": "Você tenta encontrar essa pessoa?"
         },
         {
             "answerText": "",
-            "scenarioText": "Você compra um computador e descobre que há uma mente humana presa dentro dele. Essa mente pertence a <BLANK>. A consciência deles está ocupando toda a CPU e você precisa deste computador para a escola.",
-            "decoys": "Chris Pratt | Abraham Lincoln | Cardi B | Bill Clinton | Kylie Jenner",
+            "scenarioText": "Você compra um computador e descobre que há uma mente humana presa dentro dele. Essa mente pertence a <BLANK>. A consciência está ocupando toda a CPU e você precisa deste computador para a escola.",
+            "decoys": "Fábio Porchat | Lula | Ivete Sangalo | Roberto Carlos | Supla",
             "x": false,
             "id": 50374,
             "category": "Fantasma na máquina",
-            "questionText": "Você os exclui?"
+            "questionText": "Você exclui a mente?"
         },
         {
             "answerText": "",
-            "scenarioText": "Um novo movimento de mídia social incentiva as pessoas a postar um vídeo de si mesmas <BLANK> para aumentar a conscientização sobre a hepatite B. É bem sabido que você apóia essa causa.",
-            "decoys": "comendo uma pequena quantidade de cocô de cachorro | mergulhando a cabeça em um banheiro | caindo escadas | cantando | levantando pesos",
+            "scenarioText": "Um novo movimento de mídia social incentiva as pessoas a postarem um vídeo de si mesmas <BLANK> para aumentar a conscientização sobre a hepatite B. Todos sabem você apoia essa causa.",
+            "decoys": "comendo uma pequena quantidade de cocô de cachorro | mergulhando a cabeça em uma privada | caindo das escadas | cantando no chuveiro | levantando peso",
             "x": false,
             "id": 50402,
             "category": "O desafio",
@@ -39,17 +39,17 @@
         },
         {
             "answerText": "",
-            "scenarioText": "Você é um estudante de intercâmbio que vive com uma família importante em um planeta diferente. É normal que um hóspede faça <BLANK> antes de deitar. Tem havido muita tensão entre seus dois planetas.",
-            "decoys": "dançar nua | beba água com a bunda | comer lesmas | correr uma milha | lamber o chão",
+            "scenarioText": "Você é um estudante de intercâmbio que vive com uma família importante em um planeta diferente. É normal que um hóspede <BLANK> antes de deitar. Tem acontecido muito confrontos entre seus dois planetas.",
+            "decoys": "dance nu | beba água com a bunda | coma lesmas | corra 2 km | lambe o chão",
             "x": false,
             "id": 50742,
-            "category": "The Exchange Student",
+            "category": "O Estudante de Intercâmbio",
             "questionText": "Você participa desse costume?"
         },
         {
             "answerText": "",
             "scenarioText": "Há um livro cheio de todas as coisas boas que alguém já disse sobre você e quem disse isso. Para cada minuto que você gasta olhando para o livro, você deve gastar um minuto olhando para <BLANK>.",
-            "decoys": "acidentes de carro | uma montagem de vacas dando à luz | um livro de comentários maldosos sobre você | vermes | Facebook do seu ex",
+            "decoys": "acidentes de carro | uma montagem de vacas dando à luz | um livro de comentários maldosos sobre você | vermes | o perfil do Facebook do seu ex",
             "x": true,
             "id": 50858,
             "category": "A Bíblia do Elogio",
@@ -57,26 +57,26 @@
         },
         {
             "answerText": "",
-            "scenarioText": "Você tem o poder de remover a palavra “awesomesauce” do léxico inglês. Nunca mais será pronunciado. No entanto, ele será substituído por uma nova expressão popular: “<BLANK>!”",
-            "decoys": "boo-ba | haba duey | doinked | boing-boing | whoopsie doopsie",
+            "scenarioText": "Você tem o poder de remover a palavra “maneirasso” do léxico português. Ela nunca mais poderá ser pronunciada. No entanto, ela será substituída por uma nova expressão popular: “<BLANK>!”",
+            "decoys": "pipi | gugu dada | diversasso | bumbum | puts grila",
             "x": false,
             "id": 50428,
-            "category": "Molho que é incrível",
+            "category": "Aço Muito Maneiro",
             "questionText": "Vale a pena?"
         },
         {
             "answerText": "",
-            "scenarioText": "Você é convidado a posar para um retrato do artista mais famoso do mundo. A pintura irá retratá-lo <BLANK>. Eventualmente, será pendurado no Louvre.",
-            "decoys": "nua, segurando frutas | em um banheiro | apanhando | chorando | espirros",
+            "scenarioText": "Você é convidado a posar para um retrato do artista mais famoso do mundo. A pintura irá retratá-lo <BLANK>. Eventualmente, será pendurado no Museu.",
+            "decoys": "nu, segurando frutas | usando um banheiro químico | apanhando | chorando | espirrando",
             "x": false,
             "id": 50355,
-            "category": "The Artist's Sway",
+            "category": "O Molejo do Artista",
             "questionText": "Você posa?"
         },
         {
             "answerText": "",
-            "scenarioText": "Você está felizmente noivo, mas está preocupado com o custo de um casamento. Um financista rico surge do nada para lhe oferecer um negócio. Ele pagará pelo seu casamento, mas deve ser realizado às / no dia <BLANK>.",
-            "decoys": "um castelo branco | um cemitério | um ônibus Greyhound | um barco de pesca | TV ao vivo",
+            "scenarioText": "Você está felizmente noivo, mas está preocupado com o custo do casamento. Um financista rico surge do nada para lhe oferecer um negócio. Ele pagará pelo seu casamento, mas deve ser realizado em <BLANK>.",
+            "decoys": "um castelo branco | um cemitério | um ônibus escolar | um barco de pesca | um canal de TV ao vivo",
             "x": false,
             "id": 50326,
             "category": "Na ponta dos pés no corredor",
@@ -84,17 +84,17 @@
         },
         {
             "answerText": "",
-            "scenarioText": "Um pequeno culto mudou-se alguns quilômetros abaixo de você. Pela sua experiência, eles são um grupo honesto, respeitoso e caridoso ... mas todos os dias eles passam uma hora orando para <BLANK>.",
-            "decoys": "um manequim | Pat Sajak | taxidermia de cães | poluição do ar | Jeff Dunham",
+            "scenarioText": "Um pequeno culto mudou-se para perto da sua casa. Pela sua experiência, eles são um grupo honesto, respeitoso e caridoso ... mas todos os dias eles passam uma hora orando para <BLANK>.",
+            "decoys": "um manequim | Tony Ramos | uma taxidermia de cães | a poluição do ar | um Youtuber famoso",
             "x": true,
             "id": 51722,
-            "category": "Faça paz",
-            "questionText": "Você chama as autoridades sobre eles?"
+            "category": "Apenas Sorria e Acene",
+            "questionText": "Você chama a polícia?"
         },
         {
             "answerText": "",
-            "scenarioText": "Você acabou de encontrar a casa dos seus sonhos e é super acessível. No entanto, você descobre que é tão barato porque há <BLANK> no porão.",
-            "decoys": "um fantasma atrevido | uma máfia russa | um pequeno incêndio que nunca se apaga | uma família de gambás | Um clube noturno",
+            "scenarioText": "Você acabou de encontrar a casa dos seus sonhos e é super acessível. No entanto, você descobre que é extremamente barata porque há <BLANK> no porão.",
+            "decoys": "um fantasma atrevido | uma máfia russa | um pequeno incêndio que nunca se apaga | uma família de gambás | uma boate",
             "x": false,
             "id": 50496,
             "category": "Comprador, cuidado",
@@ -102,26 +102,26 @@
         },
         {
             "answerText": "",
-            "scenarioText": "No leito de morte, sua avó oferece a você um quadro que está na família há gerações. Representa <BLANK>. Suas últimas palavras para você: \"Por favor, pendure na sua sala de estar.\"",
-            "decoys": "ela mesma nua | Jesus com uma metralhadora | -se apertando a mão de Hitler | muitos, muitos palhaços | o nascimento do seu pai",
+            "scenarioText": "No leito de morte, sua avó lhe oferece um quadro que está na família há gerações. A pintura retrata <BLANK>. Suas últimas palavras para você foram: \"Por favor, pendure na sua sala de estar.\"",
+            "decoys": "ela mesma nua | Jesus com uma metralhadora | ela mesma dando um mata leão no Hitler | muitos, muitos palhaços | o nascimento do seu pai",
             "x": true,
             "id": 51337,
             "category": "Um Último Desejo",
-            "questionText": "Você desliga?"
+            "questionText": "Você pendura?"
         },
         {
             "answerText": "",
-            "scenarioText": "À sua frente está uma TV com cinco canais. Quatro deles são canais de viagens; o quinto canal é dedicado a <BLANK>. Depois de ligar a TV, você será transportado instantaneamente para um fim de semana de férias totalmente pago para o local que aparece na tela.",
-            "decoys": "vida na prisão | a Fossa das Marianas | Segunda Guerra Mundial | Vale da Morte | Trânsito LA",
+            "scenarioText": "À sua frente está uma TV com cinco canais. Quatro deles são canais de viagens; o quinto canal é dedicado a <BLANK>. Assim que ligar a TV, você será transportado instantaneamente para um fim de semana de férias totalmente pago para o local que aparece na tela.",
+            "decoys": "vida na prisão | a Fossa das Marianas | Segunda Guerra Mundial | Documentários sobre Desertos | Trânsito de São Paulo",
             "x": false,
             "id": 51741,
             "category": "Roleta de Canal",
-            "questionText": "Você liga?"
+            "questionText": "Você liga a TV?"
         },
         {
             "answerText": "",
             "scenarioText": "Sempre que você fica nu, você se torna invisível. Ouvir a palavra “<BLANK>” faz com que você se torne instantaneamente visível.",
-            "decoys": "salmão | khakis | luta livre | café | ambulância",
+            "decoys": "salmão | caqui | chocolate | café | ambulância",
             "x": true,
             "id": 50575,
             "category": "Uma escolha clara",
@@ -129,17 +129,17 @@
         },
         {
             "answerText": "",
-            "scenarioText": "A instituição de caridade de sua escolha receberá US $ 10.000, mas apenas se você deixar <BLANK> chupar levemente seu dedo mínimo por cinco minutos inteiros.",
-            "decoys": "Angela Merkel | Adam Driver | seu clone | uma velha senhora | Bob Dylan",
+            "scenarioText": "A instituição de caridade de sua escolha receberá R$50.000, mas apenas se você deixar <BLANK> chupar suavemente seu dedo mindinho da mão por cinco minutos inteiros.",
+            "decoys": "Gusttavo Lima | Gilberto Gil | seu clone | uma velha senhora | Faustão",
             "x": true,
             "id": 50958,
-            "category": "The Charity Creep",
+            "category": "O Estranho da Caridade",
             "questionText": "Você faz isto?"
         },
         {
             "answerText": "",
-            "scenarioText": "Você se encontra em um serviço memorial para um homem que você nunca conheceu. Você está convidado a dizer algumas palavras. Tudo o que você sabe sobre o homem falecido é que <BLANK>. Ninguém mais está subindo lá.",
-            "decoys": "ele tocou música | ele dirigia caminhões | ele já esteve na prisão | ele amava sapos | sua cor favorita era laranja",
+            "scenarioText": "Você se encontra em um funeral para um homem que você nunca conheceu. Você foi convidado a dizer algumas palavras. Tudo o que você sabe sobre o homem falecido é que <BLANK>. Todos estão esperando você falar.",
+            "decoys": "ele tocava violão | ele dirigia caminhões | ele já esteve na prisão | ele amava sapos | sua cor favorita era laranja",
             "x": true,
             "id": 50794,
             "category": "Eulogia surpresa",
@@ -147,26 +147,26 @@
         },
         {
             "answerText": "",
-            "scenarioText": "Seu voo cross-country foi vendido em excesso. Surpreendentemente, um comissário de bordo oferece <BLANK> como compensação para a primeira pessoa que abrir mão de seu assento. Você está a caminho do casamento do seu primo.",
-            "decoys": "$ 1.000 | um carro usado | bilhetes para “Hamilton” | asas de frango à vontade | um iPad Pro",
+            "scenarioText": "Seu voo para o outro lado do país está lotado. Surpreendentemente, um comissário de bordo oferece <BLANK> como compensação para a primeira pessoa que abrir mão de seu assento. Você está a caminho do casamento do seu primo.",
+            "decoys": "R$50.000 | um carro usado | bilhetes para “Tá Dando Onda” | asas de frango à vontade | um iPad Pro",
             "x": false,
             "id": 50403,
-            "category": "O Assento Oversold",
+            "category": "O Assento Requisitado",
             "questionText": "Você desiste do seu lugar?"
         },
         {
             "answerText": "",
-            "scenarioText": "Há um chip em sua cabeça que faz você ter os mesmos sonhos de uma celebridade. Sua celebridade designada é <BLANK>. Remover o chip significa que você só terá sonhos enfadonhos.",
-            "decoys": "R. Kelly | Jim Carrey | Ann Coulter | “Estranho” Al Yankovic | Jared Leto",
+            "scenarioText": "Há um chip em sua cabeça que faz você ter os mesmos sonhos de uma celebridade. Sua celebridade designada é <BLANK>. Remover o chip significa que você só terá sonhos chatos.",
+            "decoys": "Ivete Sangalo | Fábio Porchat | Zeca Pagodinho | Cláudia Leitte | Tiago Leifert",
             "x": true,
             "id": 51105,
-            "category": "Sleep Notously",
+            "category": "Durma com os Anjos",
             "questionText": "Você fica com o chip?"
         },
         {
             "answerText": "",
-            "scenarioText": "Você receberá $ 2.000 em dinheiro todas as semanas pelo resto de sua vida, mas com uma condição: você deve fazer uma tatuagem permanente no rosto que diga “<BLANK>”. Deve cobrir sua testa.",
-            "decoys": "testa | papai | amor | m'lady | mas primeiro café",
+            "scenarioText": "Você receberá R$10.000 em dinheiro todas as semanas pelo resto de sua vida, mas com uma condição: você deve fazer uma tatuagem permanente no rosto que diga “<BLANK>”. Deve cobrir sua testa.",
+            "decoys": "testa | papai | amor | me lamba | antes de mais nada... café",
             "x": false,
             "id": 50631,
             "category": "Face: seus problemas",
@@ -174,17 +174,17 @@
         },
         {
             "answerText": "",
-            "scenarioText": "Cada vez que você faz cocô, extrai uma nota de $ 50. Infelizmente, <BLANK> também sai.",
-            "decoys": "3 colheres de sopa de molho picante | muito sangue | uma bola de pingue-pongue | uma tampa de garrafa | um novelo de lã",
+            "scenarioText": "Cada vez que você faz cocô, sai uma nota de R$100. Infelizmente, também sai <BLANK>.",
+            "decoys": "3 colheres de sopa de molho de pimenta | muito sangue | uma bola de pingue-pongue | uma tampa de garrafa | um novelo de lã",
             "x": false,
             "id": 51441,
-            "category": "Dookie Assustador",
+            "category": "Cocô Assustador",
             "questionText": "Você suporta essa dor por pelo menos um mês antes de consultar um médico?"
         },
         {
             "answerText": "",
-            "scenarioText": "Você simplesmente mudou de idéia na sua formatura do ensino médio. Se você se levantar, dê um tapa na própria cara e grite “<BLANK>!” há 90% de chance de que a memória de todos seja apagada.",
-            "decoys": "EU SOU UM BEBÊ INTELIGENTE | DADDY FALL DOWN | MEU BUM BUM Dói | VOCÊ VIU AQUI PRIMEIRO | PICS OU NÃO ACONTECEU",
+            "scenarioText": "Você tropeçou e caiu de cara no chão na sua formatura do ensino médio. Se você se levantar, der um tapa na própria cara e gritar “<BLANK>!” há 90% de chance de que a memória de todos seja apagada.",
+            "decoys": "EU SOU UM BEBEZINHO LINDO | PAPAI CAIU | MINHA BUNDA DÓI | OLHA A CÂMERA LÁ | FOTOS OU NÃO ACONTECEU",
             "x": false,
             "id": 50984,
             "category": "Terapia do grito",
@@ -192,25 +192,25 @@
         },
         {
             "answerText": "",
-            "scenarioText": "Devido a uma falha no seu carro autônomo, ele está levando você diretamente para <BLANK>. É rotulado como seu destino favorito. Sua mãe está no carro com você. Se você anular o sistema, ele sairá da estrada.",
-            "decoys": "uma loja para adultos | uma clínica de aborto | um clube de strip | uma loja de piercings | uma porta-o-penico",
+            "scenarioText": "Devido a uma falha no seu carro autônomo, ele está levando você diretamente para <BLANK>. É marcado como seu destino favorito. Sua mãe está no carro com você. Se você anular o sistema, ele sairá da estrada.",
+            "decoys": "um sex shop | uma clínica de aborto | um clube de strip | uma loja de piercings | um banheiro químico",
             "x": true,
             "id": 51126,
             "category": "Licença para dirigir",
-            "questionText": "Você o substitui?"
+            "questionText": "Você troca a rota?"
         },
         {
             "answerText": "",
-            "scenarioText": "Você avista um chupacabra. Você quer tirar uma foto, mas seu telefone está cheio. Para liberar espaço suficiente, você deve excluir sua única foto de <BLANK>.",
-            "decoys": "seu bisavô | um OVNI | seu encontro com Tom Hanks | sua formatura | seu animal de estimação de infância",
+            "scenarioText": "Você avista um chupacabra. Você quer tirar uma foto, mas seu celular está cheio. Para liberar espaço suficiente, você deve excluir sua única foto de <BLANK>.",
+            "decoys": "seu bisavô | um OVNI | seu encontro com Wagner Moura | sua formatura | seu animal de estimação de infância",
             "x": false,
             "id": 50573,
             "category": "Besta de carga",
-            "questionText": "Você o deleta?"
+            "questionText": "Você deleta?"
         },
         {
             "answerText": "",
-            "scenarioText": "Sua mãe está hospedada em sua casa. Ontem à noite, ela entrou no seu quarto durante o sono, olhou diretamente nos seus olhos e disse: \"<BLANK>\"",
+            "scenarioText": "Sua mãe está hospedada em sua casa. Ontem à noite, ela entrou no seu quarto enquanto dormia, olhou diretamente nos seus olhos e disse: \"<BLANK>\"",
             "decoys": "Você não é meu filho | Eu traí seu pai | Você é meu segundo favorito | Estou vendendo a casa | Você tem um gêmeo secreto",
             "x": true,
             "id": 51023,
@@ -219,17 +219,17 @@
         },
         {
             "answerText": "",
-            "scenarioText": "Você perdeu sua visão. Um revolucionário par de óculos lhe devolve a visão, mas eles estão com defeito. Eles mostram continuamente <BLANK> em tudo o que você está vendo.",
-            "decoys": "“A Teoria do Big Bang” | Slenderman | vídeos estourando espinhas | Documentários da segunda guerra mundial | vídeos instrucionais de odontologia",
+            "scenarioText": "Você perdeu sua visão. Um revolucionário par de óculos lhe devolve a visão, mas ele está com defeito. Ele fica mostrando <BLANK> em tudo o que você está vendo.",
+            "decoys": "Episódios de “Rick e Morty” | o Slenderman | vídeos estourando espinhas | Documentários da Segunda Guerra Mundial | vídeos instrucionais de odontologia",
             "x": false,
             "id": 51124,
             "category": "Olho espião",
-            "questionText": "Você os usa?"
+            "questionText": "Você usa seu novo óculos?"
         },
         {
             "answerText": "",
             "scenarioText": "Você está sob um feitiço de Halloween que faz com que você fique preso em sua fantasia por 48 horas. Você está vestido como <BLANK>. Você está programado para fazer um discurso amanhã para um grupo de veteranos de guerra.",
-            "decoys": "Austin Powers | FDR | um soldado | Capitão América | um zumbi",
+            "decoys": "Clark Kent | Jair Bolsonaro | um soldado | Capitão América | um zumbi",
             "x": false,
             "id": 50978,
             "category": "Você é o que você veste",
@@ -237,20 +237,20 @@
         },
         {
             "answerText": "",
-            "scenarioText": "Seu alto-falante inteligente tem uma queda por você. Se ele te pegar com um parceiro romântico, ele ameaçou <BLANK>. Você se esquece de desligá-lo enquanto o encontro acaba. Acabei de ouvir vocês dois se beijando.",
-            "decoys": "compartilhe seu histórico da web | conte seus segredos | explodir | desabilite o AC | cancele seu cartão de crédito",
+            "scenarioText": "Seu alto-falante inteligente tem uma queda por você. Se você for escutado com um parceiro romântico, ele ameaçou <BLANK>. Você se esqueceu de desligá-lo enquanto tem um encontro em casa. Ele acabou de ouvir vocês dois se beijando.",
+            "decoys": "compartilhar seu histórico do navegador | contar seus segredos | explodir | desabilitar o ar condicionado | cancelar seu cartão de crédito",
             "x": true,
             "id": 50927,
             "category": "Paixão Artificial",
-            "questionText": "Você salva a cara fingindo que não gosta dessa pessoa?"
+            "questionText": "Você se salva fingindo que não gosta dessa pessoa?"
         },
         {
             "answerText": "",
-            "scenarioText": "Você está com os cotovelos na boca de uma baleia, tentando recuperar o <BLANK> que jogou no mar. Se você chegar mais fundo, há uma boa chance de morrer. Está ao seu alcance.",
-            "decoys": "única foto restante de sua mãe | anel de casamento | $ 8.000 em dinheiro | telefone celular | lista de senhas",
+            "scenarioText": "Você está com os braços dentro da boca de uma baleia, tentando recuperar <BLANK> que jogou no mar. Se você chegar mais fundo, há uma boa chance de morrer. Está ao seu alcance.",
+            "decoys": "a única foto que sobrou da sua mãe | seu anel de casamento | R$20.000 em dinheiro | seu celular | sua lista de senhas",
             "x": true,
             "id": 51243,
-            "category": "Fazendo um Splash",
+            "category": "Dando um Tchibum",
             "questionText": "Você mergulha mais um centímetro?"
         },
         {
