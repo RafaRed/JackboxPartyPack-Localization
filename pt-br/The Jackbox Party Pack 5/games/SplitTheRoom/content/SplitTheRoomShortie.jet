@@ -255,17 +255,17 @@
         },
         {
             "answerText": "",
-            "scenarioText": "Você possui uma bunda mágica. Quando você puxa sua calcinha para baixo e mostra para alguém, há 50% de chance de que ela queira se tornar seu melhor amigo. Um dia você encontra <BLANK>aleatoriamente.",
-            "decoys": "Sean Hannity | Tom Hanks | seu professor da primeira série | Joe Biden | Ellen Degeneres",
+            "scenarioText": "Você possui uma bunda mágica. Quando você puxa sua calça para baixo e mostra para uma pessoa, há 50% de chance de que ela queira se tornar sua melhor amiga. Um dia você encontra <BLANK> aleatoriamente.",
+            "decoys": "Luciano Huck | Marcos Mion | seu professor da primeira série | Juliette | Felipe Neto",
             "x": false,
             "id": 50411,
-            "category": "Mooning for the Misbegotten",
-            "questionText": "Você lua eles?"
+            "category": "Amigos da Bunda",
+            "questionText": "Você mostra sua bunda?"
         },
         {
             "answerText": "",
-            "scenarioText": "Você está desesperadamente solteiro. Há um novo aplicativo de namoro que garante que você encontre sua alma gêmea. Para configurar uma conta, você deve carregar <BLANK>.",
-            "decoys": "seu roteiro | fotos nuas | seus maiores segredos | o histórico do seu navegador | seu endereço",
+            "scenarioText": "Você está solteiro e desesperado. Há um novo aplicativo de namoro que garante que você encontre sua alma gêmea. Para configurar uma conta, você precisa fazer upload de <BLANK>.",
+            "decoys": "sua biografia | suas fotos nuas | seus maiores segredos | o histórico do seu navegador | seu endereço",
             "x": true,
             "id": 51339,
             "category": "Amor no primeiro byte",
@@ -273,26 +273,26 @@
         },
         {
             "answerText": "",
-            "scenarioText": "Em uma eleição presidencial, seu nome foi inscrito em um número chocante de cédulas escritas. Você acaba ganhando, derrotando <BLANK>por pouco.",
-            "decoys": "Rob Schneider | Roseanne | Jimmy Fallon | um rico eremita | um cavalo",
+            "scenarioText": "Em uma eleição presidencial, você surpreendentemente recebe inúmeros votos. Você acaba ganhando, derrotando <BLANK> por pouco.",
+            "decoys": "Lula | Roseane | um palhaço | um rico eremita | um cavalo",
             "x": false,
             "id": 50748,
-            "category": "Write-In, Write-Off",
-            "questionText": "Você faz o juramento?"
+            "category": "Cédulas Escritas",
+            "questionText": "Você vira presidente?"
         },
         {
             "answerText": "",
             "scenarioText": "Um novo par de fones de ouvido permite que você entenda os animais. Em uma caminhada na floresta, você ouve um coelho chamando você de “<BLANK>”.",
-            "decoys": "um covarde | um perdedor | um desperdício de sêmen | um nerd coxo | notavelmente feio",
+            "decoys": "covarde | idiota | desperdício de sêmen | nerdola | feioso",
             "x": true,
             "id": 51132,
             "category": "Batidas de Dolittle",
-            "questionText": "Você chuta?"
+            "questionText": "Você chuta ele?"
         },
         {
             "answerText": "",
-            "scenarioText": "Você acabou de comer a melhor refeição da sua vida. Foi tão bom que te fez chorar um pouco. Em seguida, o chef sai e informa que continha <BLANK>.",
-            "decoys": "humano | furão | muco de cachorro | chumbo | ingredientes vencidos",
+            "scenarioText": "Você acabou de comer a melhor refeição da sua vida. Foi tão bom que te fez chorar um pouco. Em seguida, o chef sai e informa que o prato continha <BLANK>.",
+            "decoys": "humanos | furões | muco de cachorro | chumbo | ingredientes vencidos",
             "x": true,
             "id": 50395,
             "category": "O ingrediente secreto",
@@ -300,71 +300,71 @@
         },
         {
             "answerText": "",
-            "scenarioText": "Você está se movendo. Existe um dispositivo que pode vaporizar digitalmente e reconstituir todos os seus pertences na nova casa. No entanto, sua mobília reaparecerá com um leve cheiro de <BLANK>.",
-            "decoys": "uma fritadeira | cabelo sujo | perfume da sua avó | serragem | Brócolis cozido no vapor",
+            "scenarioText": "Você está de mudança. Existe um dispositivo que pode vaporizar digitalmente e reconstituir todos os seus pertences na nova casa. No entanto, sua mobília reaparecerá com um leve cheiro de <BLANK>.",
+            "decoys": "fritura | cabelo sujo | perfume da sua avó | serragem | brócolis cozido no vapor",
             "x": false,
             "id": 51241,
             "category": "Quem move o motor?",
-            "questionText": "Você usa isso?"
+            "questionText": "Você usa o dispositivo?"
         },
         {
             "answerText": "",
-            "scenarioText": "Um algoritmo combinou você com seu parceiro perfeito ... com uma ressalva. O apelido “fofo” dessa pessoa para você é “<BLANK>”. Eles vão dizer isso todos os dias.",
-            "decoys": "cocô | papai | amo bolinho | bolos para bebé | prima",
+            "scenarioText": "Um algoritmo combinou você com seu parceiro perfeito ... ou quase. O apelido “fofo” que essa pessoa te deu é “<BLANK>”. Você vai ouvir isso todos os dias.",
+            "decoys": "cagão | papai | bolinho de coco | bolinho de nenê | primo",
             "x": true,
             "id": 51102,
-            "category": "Jogo feito perto do céu",
-            "questionText": "Voce se casar"
+            "category": "A Combinação Quase Perfeita",
+            "questionText": "Você se casa?"
         },
         {
             "answerText": "",
-            "scenarioText": "O novo brinquedo de Natal é uma fofa lontra robótica programada para ficar de mãos dadas com você e dizer coisas boas. Foi encontrado um bug em que uma vez a cada 100.000 vezes ele sussurra “<BLANK>”. Você é o CEO.",
-            "decoys": "Papai gosta | Eu sei seu segredo | Roube da sua mãe | Envenenar o abastecimento de água | Nós estamos observando",
+            "scenarioText": "O mais novo brinquedo de Natal é uma fofa lontra robótica programada para ficar de mãos dadas com você e dizer coisas boas. Foi encontrado um bug em que uma vez a cada 100.000 vezes ele sussurra “<BLANK>”. Você é o CEO da empresa.",
+            "decoys": "Papai gosta | Eu sei seu segredo | Roube da sua mãe | Coloque veneno na água | Nós estamos observando",
             "x": true,
             "id": 50325,
-            "category": "O inseto do feriado",
-            "questionText": "Você se lembra do brinquedo?"
+            "category": "O Bug do Natal",
+            "questionText": "Você produz o brinquedo?"
         },
         {
             "answerText": "",
-            "scenarioText": "Você está embarcando em uma missão de 10 anos ao espaço. Na decolagem, você vê que seu colega astronauta foi substituído por <BLANK>. Se você clicar em ejetar agora, terá 70% de chance de sobrevivência.",
-            "decoys": "seu ex do colégio | Sean Hannity | um bebê recém-nascido | sua avó | Logan Paul",
+            "scenarioText": "Você está embarcando em uma missão de 10 anos ao espaço. Na decolagem, você vê que seu colega astronauta foi substituído por <BLANK>. Se você clicar em ejetar agora, terá 70% de chance de sobreviver.",
+            "decoys": "seu ex do colégio | um manequim | um bebê recém-nascido | sua avó | Luccas Neto",
             "x": false,
             "id": 50982,
-            "category": "3 ... 2 ... 1 ... Marcado!",
+            "category": "3 ... 2 ... 1 ... Decolar!",
             "questionText": "Você ejeta?"
         },
         {
             "answerText": "",
             "scenarioText": "Uma maldição foi colocada em você. Sempre que você usar a palavra “eu”, você involuntariamente <BLANK>.",
-            "decoys": "peido | dê um tapa em si mesmo | arroto | morder sua língua | bocejar",
+            "decoys": "peida | dá um tapa em si mesmo | arrota | morde sua língua | boceja",
             "x": false,
             "id": 50750,
-            "category": "I Before Eeeeh!",
-            "questionText": "A partir de agora, você só fala na terceira pessoa?"
+            "category": "Eu vo-Eeeh!",
+            "questionText": "A partir de agora, você só fala em terceira pessoa?"
         },
         {
             "answerText": "",
-            "scenarioText": "Há um novo aplicativo de música que permite acesso gratuito a literalmente qualquer gravação. Para obter uma conta, você deve enviar uma gravação de som de você <BLANK>. Ele será marcado com seu nome e compartilhado com todos os usuários.",
-            "decoys": "fazendo sexo | cocô | dizendo, “Eu sou um garotinho elfo esnobe” | soluçando | dando seu número de telefone",
+            "scenarioText": "Há um novo aplicativo de música que permite acesso gratuito a literalmente qualquer gravação. Para criar uma conta, você deve enviar um áudio de você <BLANK>. Ele será marcado com seu nome e compartilhado com todos os usuários.",
+            "decoys": "fazendo sexo | fazendo cocô | dizendo, “Eu sou um elfinho esnobe” | soluçando | dizendo seu número de telefone",
             "x": true,
             "id": 51147,
-            "category": "Dream Stream",
+            "category": "Música para os Ouvidos",
             "questionText": "Você se cadastra?"
         },
         {
             "answerText": "",
-            "scenarioText": "Você foi acusado de um crime que não cometeu. Um advogado pro bono estende a mão para representá-lo. Este indivíduo é inteligente e tem muita experiência; no entanto, eles simplesmente são <BLANK>.",
-            "decoys": "uma galinha | uma criança | suando sem parar | incapaz de mentir | um comediante de improvisação",
+            "scenarioText": "Você foi acusado de um crime que não cometeu. Um advogado pro bono estende a mão para representá-lo. Este indivíduo é inteligente e tem muita experiência; no entanto, ele é, literalmente, <BLANK>.",
+            "decoys": "uma galinha | uma criança | um gorila | incapaz de mentir | um comediante de improvisação",
             "x": false,
             "id": 50382,
-            "category": "Justiça pode ver",
+            "category": "Justiça Agora",
             "questionText": "Você deixa essa pessoa representar você?"
         },
         {
             "answerText": "",
-            "scenarioText": "Você tem uma câmera de segurança doméstica. Uma noite, ele captura a prova definitiva do Pé Grande ... mas ao fundo, você pode ser visto <BLANK>.",
-            "decoys": "nua | chutando um coelho | desfalque | executando uma luz vermelha | roubando do gramado do seu vizinho",
+            "scenarioText": "Você tem uma câmera de segurança residencial. Uma noite, ela captura a prova definitiva de que o Chupa-cabra existe ... mas, ao fundo, você aparece <BLANK>.",
+            "decoys": "nu | chutando um gato | enterrando dinheiro | passando no farol vermelho | roubando do jardim do seu vizinho",
             "x": true,
             "id": 51037,
             "category": "Assombrado por seus erros",
@@ -372,26 +372,26 @@
         },
         {
             "answerText": "",
-            "scenarioText": "Sempre que você segura o <BLANK> com as duas mãos, você se torna um cantor fantástico. Seus amigos o colocam em uma competição de talentos na TV. Há um prêmio em dinheiro de $ 10.000.",
+            "scenarioText": "Sempre que você segura <BLANK> com as duas mãos, você se torna um cantor fantástico. Seus amigos o colocam em um show de talentos na TV. Há um prêmio em dinheiro de R$100.000.",
             "decoys": "um braço decepado | uma foice | seu avô | uma batata | uma cobra",
             "x": true,
             "id": 50445,
-            "category": "Ansiedade de desempenho",
-            "questionText": "Você parece viver com seu “amuleto da sorte”?"
+            "category": "Ansioso para Cantar",
+            "questionText": "Você aparece ao vivo na TV com seu “amuleto da sorte”?"
         },
         {
             "answerText": "",
-            "scenarioText": "Sua empresa de roupas favorita oferece um acordo. Você nunca mais terá que pagar por uma roupa de novo, mas nos fins de semana você deve sempre usar uma camiseta que diz “<BLANK>”. Eles saberão se você quebrar as regras.",
-            "decoys": "Inspetor de espólio feminino | Avó número um | Aponte-me para a cafeteira | Eu preferiria estar cochilando | Apenas Chill Vibes",
+            "scenarioText": "Sua empresa de roupas favorita oferece um acordo. Você nunca mais terá que pagar por uma roupa, mas nos fins de semana você deve sempre usar uma camiseta que diz “<BLANK>”. Eles saberão se você quebrar as regras.",
+            "decoys": "Inspetor de Bundas | Avó Número Um | Cadê a Cafeteira? | Eu Quero Dormir | Só Relaxando",
             "x": true,
             "id": 51761,
-            "category": "Cabeçote",
+            "category": "Camiseta Confortável",
             "questionText": "Você aceita o acordo?"
         },
         {
             "answerText": "",
-            "scenarioText": "Com o seu novo plano de dados, você nunca pagará pelo uso do telefone ou dados pelo resto de sua vida ... se você concordar em permitir que anúncios de <BLANK> sigam cada texto que você enviar.",
-            "decoys": "medicação anti-ansiedade | Vídeos de crueldade contra animais da PETA | fraldas para adultos | carros usados | políticos locais",
+            "scenarioText": "Com o seu novo plano de celular, você nunca pagará pelo uso dos dados móveis pelo resto da sua vida ... se você concordar em permitir que anúncios de <BLANK> apareçam junto de cada texto que você enviar.",
+            "decoys": "medicamentos anti-ansiedade | vídeos de crueldade contra animais da PETA | fraldas para adultos | carros usados | políticos locais",
             "x": false,
             "id": 51780,
             "category": "Textos pop-up",
@@ -399,44 +399,44 @@
         },
         {
             "answerText": "",
-            "scenarioText": "Você tem se destacado romanticamente. Estranhamente, você começa a receber ótimos conselhos sobre namoro a partir de <BLANK>. Só você pode ouvi-lo falar.",
-            "decoys": "uma jaqueta deslumbrante | o ursinho de pelúcia da sua infância | um velho pote de salsa | um toupée | jeans cortados",
+            "scenarioText": "Você tem se destacado romanticamente. Estranhamente, você começa a receber ótimos conselhos amorosos de <BLANK>. Só você escuta essa voz.",
+            "decoys": "uma jaqueta deslumbrante | seu ursinho de pelúcia de infância | um pote vencido de maionese | uma peruca | suas calças jeans rasgadas",
             "x": true,
             "id": 51959,
             "category": "Cyrano moderno",
-            "questionText": "Você traz no seu primeiro encontro?"
+            "questionText": "Você leva consigo no seu primeiro encontro?"
         },
         {
             "answerText": "",
             "scenarioText": "Você está em um parque de diversões futurista. Todo o local é composto por robôs programados para imitar <BLANK>. Um deles puxa você de lado e implora para libertá-lo.",
-            "decoys": "soldados da guerra civil | Jim Carrey | Austin Powers | boy bands | palhaços de circo",
+            "decoys": "soldados da guerra civil | Fábio Porchat | Faustão | boy bands | palhaços de circo",
             "x": false,
             "id": 51832,
-            "category": "North by Northwest World",
+            "category": "O Parque do Futuro",
             "questionText": "Você tenta escapar?"
         },
         {
             "answerText": "",
-            "scenarioText": "Você é o assistente de um agente funerário que acabou de enterrar o apresentador de um filho querido. De repente, você percebe que deixou cair seu <BLANK> no caixão.",
-            "decoys": "smartphone | contracheque | passaporte | carteira de motorista | fone de ouvido sem fio",
+            "scenarioText": "Você é o assistente de um agente funerário que acabou de enterrar o apresentador de um programa infantil. De repente, você percebe que deixou cair seu <BLANK> no caixão.",
+            "decoys": "celular | cartão de crédito | passaporte | carteira de motorista | fone de ouvido sem fio",
             "x": true,
             "id": 50437,
-            "category": "Grave Mistake",
-            "questionText": "Você desenterra a sepultura lindamente decorada para recuperá-la?"
+            "category": "EntERRO Grave",
+            "questionText": "Você desenterra o apresentador para recuperar seus pertences?"
         },
         {
             "answerText": "",
-            "scenarioText": "Os cientistas fazem seu clone. Parece e soa exatamente como você. Na verdade, todos os detalhes sobre ele são precisos, exceto por uma coisa: é muito, muito em <BLANK>. Como original, você tem o direito de destruí-lo.",
-            "decoys": "música country | cosplay | coisas para os pés | tweeting ao vivo | praias de nudismo",
+            "scenarioText": "Os cientistas fazem um clone seu. Parece e soa exatamente como você. Na verdade, todos os detalhes sobre ele são precisos, exceto por uma coisa: ele gosta muito, mas muito de <BLANK>. Como original, você tem o direito de destruí-lo.",
+            "decoys": "sertanejo | cosplay | foto de pé | tweetar sobre si mesmo | praias de nudismo",
             "x": true,
             "id": 50432,
             "category": "Ataque do seu clone",
-            "questionText": "Você?"
+            "questionText": "Você o destrói?"
         },
         {
             "answerText": "",
-            "scenarioText": "Onde quer que você vá, você é seguido por corvos. Se você atirar no pássaro maior, eles vão embora. Se você matar qualquer outro, eles <BLANK>. Eles estão sempre agrupados.",
-            "decoys": "ter diarreia | crescer 5 vezes mais alto | tornar-se invencível | também siga sua família | fique duas vezes maior",
+            "scenarioText": "Onde quer que você vá, você é seguido por corvos. Se você atirar no maior deles, eles vão embora. Se você matar qualquer outro, eles <BLANK>. Eles estão sempre agrupados.",
+            "decoys": "cagam em você | começam a gritar muito alto | tornam-se invencíveis | também vão seguir sua família | fique duas vezes maior",
             "x": true,
             "id": 50872,
             "category": "Um Assassinato Premeditado",
@@ -444,107 +444,107 @@
         },
         {
             "answerText": "",
-            "scenarioText": "Uma rede de hotéis de luxo oferece uma oferta estranha. Você pode obter um desconto de 75% em qualquer um de seus locais, mas seu quarto estará sempre ao lado de alguém que tem <BLANK>.",
-            "decoys": "peidar | latindo | tocando bateria | frutos do mar para micro-ondas | aspirar",
+            "scenarioText": "Uma rede de hotéis de luxo oferece uma oferta estranha. Você pode obter um desconto de 75% em qualquer um de seus locais, mas seu quarto estará sempre ao lado de alguém que está <BLANK>.",
+            "decoys": "peidando alto | latindo | tocando bateria | esquentando comida no micro-ondas | usando o aspirador de pó",
             "x": false,
             "id": 51785,
-            "category": "Efetuando check-in",
-            "questionText": "Você se inscreve para isso?"
+            "category": "Fazendo Check-in",
+            "questionText": "Você aceita a proposta?"
         },
         {
             "answerText": "",
             "scenarioText": "O Unicode Consortium quer transformar seu rosto em um emoji. Você será frequentemente reconhecido e poderá ganhar a vida com negócios com marcas. No entanto, seu emoji será usado para significar “<BLANK>”.",
-            "decoys": "corpo ruim | constipado | rejeição total | menino fedorento | perdedor absoluto",
+            "decoys": "corpo feio | constipado | totalmente rejeitado | pessoa fedorenta | totalmente idiota",
             "x": false,
             "id": 51947,
-            "category": "Face Talkers",
+            "category": "Emojificando",
             "questionText": "Você assina o contrato?"
         },
         {
             "answerText": "",
-            "scenarioText": "Você pode tomar uma pílula que a tornará incrivelmente atraente. Mas também fará sua voz soar como <BLANK>. Você está prestes a sair para a reunião de 20 anos do colégio.",
-            "decoys": "mil gaivotas | Gilbert Gottfried | um cão de desenho animado | um locutor de esportes | uma criança",
+            "scenarioText": "Você pode tomar uma pílula que o tornará incrivelmente atraente. Mas também fará sua voz soar como <BLANK>. Você está prestes a sair para um encontro depois de 20 anos sem ver seus amigos do colégio.",
+            "decoys": "mil gaivotas | Mickey Mouse | um cão de desenho animado | um locutor de esportes | uma criança",
             "x": false,
             "id": 51572,
             "category": "Reunido e parece estar bem",
-            "questionText": "Você pega um?"
+            "questionText": "Você toma uma?"
         },
         {
             "answerText": "",
-            "scenarioText": "Da noite para o dia, você se torna a maior celebridade da internet do mundo. Você tem dinheiro suficiente para comprar a casa dos seus sonhos. Como você chegou aqui? Você se gravou <BLANK>.",
-            "decoys": "comendo um peru inteiro | fazendo cocô nas calças | sendo espancado por uma criança | caindo de uma escada rolante | pregar uma peça na sua avó",
+            "scenarioText": "Da noite para o dia, você se torna a maior celebridade da internet inteira. Você tem dinheiro suficiente para comprar a casa dos seus sonhos. Como você chegou aqui? Você se gravou <BLANK>.",
+            "decoys": "comendo um peru cru inteiro | fazendo cocô nas calças | sendo espancado por uma criança | caindo de uma escada rolante | pregando uma peça na sua avó",
             "x": false,
             "id": 50335,
-            "category": "Curta e / ou inscreva-se",
+            "category": "Curta e se inscreva",
             "questionText": "A fama vale a pena?"
         },
         {
             "answerText": "",
             "scenarioText": "Você está infectado com uma nova bactéria. O principal sintoma é o ganho de peso diário ... mas um efeito colateral positivo é que você pode <BLANK>. Você pode tomar antibióticos imediatamente ou esperar uma semana.",
-            "decoys": "transformar água em vinho | falam 5 línguas | ver um dia no futuro | respirar debaixo d'água | controlar o fogo",
+            "decoys": "transformar água em vinho | falar 5 línguas | ver um dia no futuro | respirar debaixo d'água | controlar fogo",
             "x": false,
             "id": 51285,
-            "category": "Abaixe a doença",
+            "category": "Doença Benéfica",
             "questionText": "Você espera?"
         },
         {
             "answerText": "",
-            "scenarioText": "Você é uma pessoa interessada em um caso de roubo, mas tem um álibi válido, mas embaraçoso. Você tinha <BLANK> na hora do crime.",
-            "decoys": "chorando na cama | sendo espancado | na fila para ver Zayn do One Direction | comendo uma caixa de sorvete | sendo atacado por um ganso",
+            "scenarioText": "Você é uma pessoa suspeita em um caso de roubo, mas tem um álibi válido, porém vergonhoso. Você estava <BLANK> na hora do crime.",
+            "decoys": "chorando na cama | sendo espancado | na fila para ver o Felipe Neto | comendo um pote inteiro de sorvete | sendo atacado por um ganso",
             "x": true,
             "id": 51367,
-            "category": "Obtenha uma pista",
-            "questionText": "Você realmente retransmite seu álibi aos detetives?"
+            "category": "Pista Preciosa",
+            "questionText": "Você fala aos detetives o que realmente estava fazendo?"
         },
         {
             "answerText": "",
-            "scenarioText": "O garoto que você deu aulas particulares nos últimos três anos está se formando na faculdade com louvor. Com os olhos marejados, ela pede que você participe da cerimônia. Infelizmente, sempre que você ouvir uma buzina, você involuntariamente <BLANK>.",
-            "decoys": "grite: \"Não acabou até eu dizer que acabou!\" | soluçar | peido a cada batida forte | dar um tapa em uma pessoa | comer uma nota de $ 20",
+            "scenarioText": "O garoto que você deu aulas particulares nos últimos três anos está se formando na faculdade com louvor. Com os olhos marejados, ela pede que você participe da formatura. Infelizmente, sempre que você vê alguém chorando de emoção, você involuntariamente <BLANK>.",
+            "decoys": "grita: \"Não acabou até eu dizer que acabou!\" | soluça | peida a cada lágrima escorrida | dá um tapa em uma pessoa aleatória | come uma nota de R$50",
             "x": false,
             "id": 51584,
             "category": "Parabéns",
-            "questionText": "Você aparece?"
+            "questionText": "Você vai?"
         },
         {
             "answerText": "",
-            "scenarioText": "Um médico brilhante pode estender sua vida ativa e saudável em 10 anos. Mas há um problema. O procedimento requer seus órgãos genitais a <BLANK>.",
-            "decoys": "encolher drasticamente | coceira muito | cantar | desaparecer | ficar suado",
+            "scenarioText": "Um médico brilhante pode estender sua vida ativa e saudável em 10 anos. Mas há um problema. O procedimento requer que seus órgãos genitais <BLANK>.",
+            "decoys": "encolham drasticamente | cocem muito | cantem | desapareçam | fiquem sempre suados",
             "x": true,
             "id": 51338,
             "category": "Evitando o túmulo",
-            "questionText": "Você consegue a operação?"
+            "questionText": "Você faz a operação?"
         },
         {
             "answerText": "",
-            "scenarioText": "Dentro da sacola que você pegou na lavanderia, você encontra uma nota manuscrita que diz \"<BLANK>\". Os únicos outros produtos de limpeza perto de você cobram o dobro.",
+            "scenarioText": "Dentro da sacola de roupas que você pegou na lavanderia, você encontra uma nota manuscrita que diz \"<BLANK>\". Nenhum dos atendentes sabe de onde ela veio.",
             "decoys": "Você é especial | Gosto da sua pele | Eu sei onde você mora | Eu nunca vou te deixar | Eu quero suas roupas",
             "x": true,
             "id": 51417,
-            "category": "A mensagem da tinturaria",
-            "questionText": "Você troca de limpeza?"
+            "category": "A Mensagem da Lavanderia",
+            "questionText": "Você sai correndo?"
         },
         {
             "answerText": "",
-            "scenarioText": "Você era um membro da tripulação durante a primeira aterrissagem na lua em 1969. Você possui uma filmagem que acabaria de uma vez por todas com a teoria da conspiração de que foi encenada ... mas neste clipe você ouviu gritando \"<BLANK>!\"",
-            "decoys": "Eu trai minha esposa | Eu matei um cachorro | A Terra é plana | Eu me recuso a pagar meus impostos",
+            "scenarioText": "Você era um membro da tripulação durante a primeira aterrissagem na lua em 1969. Você possui uma filmagem que acabaria de uma vez por todas com a teoria da conspiração de que foi encenada ... mas neste clipe dá para escutar você gritando \"<BLANK>!\"",
+            "decoys": "Eu traí minha esposa | Eu matei um cachorro | A Terra é plana | Eu me recuso a pagar meus impostos",
             "x": true,
             "id": 51392,
-            "category": "Um pequeno erro",
+            "category": "Um Pequeno Erro",
             "questionText": "Você libera isso para o público?"
         },
         {
             "answerText": "",
-            "scenarioText": "Um famoso grafiteiro cobre a frente da sua casa com imagens de <BLANK>. De repente, o valor da sua casa aumenta em 10%.",
-            "decoys": "Minions | Hitler beijando Stalin | Retrato de Rob Schneider | blobfish | a guerra do vietnã",
+            "scenarioText": "Um famoso grafiteiro pixa a frente da sua casa com uma imagem questionável: <BLANK>. De repente, o valor da sua casa aumenta em 10%.",
+            "decoys": "Minions | Hitler beijando Stalin | um retrato realista de Bob Esponja | um Peixe-bolha | a guerra do vietnã",
             "x": false,
             "id": 51778,
             "category": "Banksy estava aqui",
-            "questionText": "Você fica com ele?"
+            "questionText": "Você vende sua casa?"
         },
         {
             "answerText": "",
-            "scenarioText": "Sua mãe não tem ideia, mas sua vida está em perigo. A única maneira de salvá-la é <BLANK> todos os dias durante um mês. Ela tem que saber que você fez isso, mas nunca saberá por quê.",
-            "decoys": "esbofeteá-la | dar a ela um wedgie | roubar sua bolsa | alterar a senha do telefone dela | espirrar nela",
+            "scenarioText": "Sua mãe não tem ideia, mas a vida dela está em perigo. A única maneira de salvá-la é <BLANK> todos os dias durante um mês. Ela tem que saber que você fez isso, mas nunca saberá por quê.",
+            "decoys": "arrebentando ela na porrada | dando um calcinhão nela | roubando sua bolsa | alterando a senha do celular dela | espirrando nela",
             "x": true,
             "id": 50311,
             "category": "Querida mãe?",
@@ -552,8 +552,8 @@
         },
         {
             "answerText": "",
-            "scenarioText": "Você é um ator esforçado que recebe a oferta de um grande papel em uma franquia de cinema de grande sucesso. Mas na maior cena do filme, você precisará <BLANK>. Várias vezes.",
-            "decoys": "fazer xixi em si mesmo | dançar nua | choro feio | pular de um trem em movimento | socar uma parede",
+            "scenarioText": "Você é um ator esforçado que recebe a oferta de um grande papel em uma franquia do cinema de grande sucesso. Mas na maior cena do filme, você precisará <BLANK>. Várias vezes.",
+            "decoys": "fazer xixi em si mesmo | dançar nu | chorar igual um cachorro | pular de um trem em movimento | socar uma parede",
             "x": false,
             "id": 51335,
             "category": "Conflito de um ator",
@@ -561,17 +561,17 @@
         },
         {
             "answerText": "",
-            "scenarioText": "Você está em um encontro com alguém de quem você realmente gosta. Eles querem voltar para a sua casa, mas quando você coloca a chave na porta, lembra que bem no meio da sua sala está <BLANK>.",
+            "scenarioText": "Você está em um encontro com alguém que você realmente gosta. Ele quer voltar para a sua casa, mas quando você coloca a chave na porta, lembra que bem no meio da sua sala está <BLANK>.",
             "decoys": "um retrato gigante de você mesmo | uma mula morta | seu clone | sua cueca suja | uma poça de sangue",
             "x": true,
             "id": 51334,
             "category": "A festa do pijama repentina",
-            "questionText": "Você os convida para entrar?"
+            "questionText": "Você o convida para entrar?"
         },
         {
             "answerText": "",
-            "scenarioText": "Você receberá uma oferta de um milhão de dólares se conseguir lançar um jogo inteiro sem lançar uma bola de sarjeta. Você não pode usar ajudantes e tem 10 minutos no total. Se você falhar, a punição será <BLANK>.",
-            "decoys": "um boxeador socando você | não comer por 5 dias | bebendo dois litros de leite | banimento da internet | 5 anos de prisão",
+            "scenarioText": "Você receberá dez milhões de reais se conseguir jogar um jogo inteiro de boliche apenas fazendo strike. Você não pode usar nada para te ajudar e tem 10 minutos no total. Se você falhar, a punição será: <BLANK>.",
+            "decoys": "um boxeador socará você | não comer por 5 dias | beber dois litros de leite | banido da internet | 5 anos de prisão",
             "x": false,
             "id": 51332,
             "category": "Pensamentos de sarjeta",
@@ -579,8 +579,8 @@
         },
         {
             "answerText": "",
-            "scenarioText": "Você ganha um apartamento loft grátis para o resto da vida, mas há um porém. A parede da sala de estar de vidro transparente é compartilhada com o apartamento ao lado. Você não deve encobrir isso. Seu vizinho é <BLANK>.",
-            "decoys": "seu ex | Christopher Plummer | seu irmão | o presidente | seus pais",
+            "scenarioText": "Você ganha um apartamento loft grátis para o resto da vida, mas há um porém. A parede de vidro transparente da sala de estar é compartilhada com o apartamento ao lado. Você não pode cobrir ela. Seu vizinho é <BLANK>.",
+            "decoys": "seu ex | um Youtuber | seu irmão | o presidente | seus pais",
             "x": false,
             "id": 50511,
             "category": "Uma parede com vista",
@@ -588,11 +588,11 @@
         },
         {
             "answerText": "",
-            "scenarioText": "A nova tendência da moda, acredite ou não, envolve usar <BLANK>. Você tem uma entrevista de emprego em um escritório moderno e jovem. É a única pista de trabalho promissora que você recebeu nas últimas semanas. Você tem uma família.",
+            "scenarioText": "A nova tendência da moda, acredite ou não, envolve usar <BLANK>. Você tem uma entrevista de emprego em um escritório cheio de jovens. É a única proposta de trabalho promissora que você recebeu nas últimas semanas. Você tem uma família.",
             "decoys": "um cinto de castidade | uma máscara de couro | duas viseiras | chapéus para trás | rabo de cavalo",
             "x": true,
             "id": 50322,
-            "category": "Fashion Fast Forward",
+            "category": "A Moda do Futuro",
             "questionText": "Você usa isso?"
         },
         {
