@@ -42,7 +42,7 @@ O objetivo inicial do projeto não é traduzir todo jogo, estarei começando pel
 - [ ] PatentlyStupid - Automatica
 - [ ] RapBattle - Automatica
 - [ ] SlingShoot - Em revisão
-- [ ] SplitTheRoom - Automatica
+- [x] SplitTheRoom - Completo
 - [ ] YDKJ2018 - Automatica
 ## The Jackbox Party Pack 6
 - [ ] Jokeboat - Automatica
