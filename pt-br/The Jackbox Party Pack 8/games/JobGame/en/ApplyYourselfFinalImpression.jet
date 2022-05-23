@@ -1,0 +1,102 @@
+{
+ "content": [
+  {
+   "firstPrompt": "I HAVE {{BLANK}}",
+   "id": "85487",
+   "isValid": "",
+   "secondPrompt": "I NEED {{BLANK}}",
+   "x": false
+  },
+  {
+   "firstPrompt": "I AM {{BLANK}}",
+   "id": "85488",
+   "isValid": "",
+   "secondPrompt": "I WANT {{BLANK}}",
+   "x": false
+  },
+  {
+   "firstPrompt": "I WILL {{BLANK}}",
+   "id": "85489",
+   "isValid": "",
+   "secondPrompt": "I WON'T {{BLANK}}",
+   "x": false
+  },
+  {
+   "firstPrompt": "I GIVE {{BLANK}}",
+   "id": "85490",
+   "isValid": "",
+   "secondPrompt": "I TAKE {{BLANK}}",
+   "x": false
+  },
+  {
+   "firstPrompt": "I CAN {{BLANK}}",
+   "id": "85491",
+   "isValid": "",
+   "secondPrompt": "I CANNOT {{BLANK}}",
+   "x": false
+  },
+  {
+   "firstPrompt": "I HOPE {{BLANK}}",
+   "id": "85492",
+   "isValid": "",
+   "secondPrompt": "I KNOW {{BLANK}}",
+   "x": false
+  },
+  {
+   "firstPrompt": "I SAY {{BLANK}}",
+   "id": "85493",
+   "isValid": "",
+   "secondPrompt": "I DO {{BLANK}}",
+   "x": false
+  },
+  {
+   "firstPrompt": "I CREATE {{BLANK}}",
+   "id": "85494",
+   "isValid": "",
+   "secondPrompt": "I DESTROY {{BLANK}}",
+   "x": false
+  },
+  {
+   "firstPrompt": "I SEEK {{BLANK}}",
+   "id": "85495",
+   "isValid": "",
+   "secondPrompt": "I FIND {{BLANK}}",
+   "x": false
+  },
+  {
+   "firstPrompt": "I DESERVE {{BLANK}}",
+   "id": "85496",
+   "isValid": "",
+   "secondPrompt": "I GET {{BLANK}}",
+   "x": false
+  },
+  {
+   "firstPrompt": "I DREAM {{BLANK}}",
+   "id": "85497",
+   "isValid": "",
+   "secondPrompt": "I FEAR {{BLANK}}",
+   "x": false
+  },
+  {
+   "firstPrompt": "I PROMISE {{BLANK}}",
+   "id": "85498",
+   "isValid": "",
+   "secondPrompt": "I DELIVER {{BLANK}}",
+   "x": false
+  },
+  {
+   "firstPrompt": "I BELIEVE {{BLANK}}",
+   "id": "85499",
+   "isValid": "",
+   "secondPrompt": "I REJECT {{BLANK}}",
+   "x": false
+  },
+  {
+   "firstPrompt": "I LOVE {{BLANK}}",
+   "id": "85500",
+   "isValid": "",
+   "secondPrompt": "I HATE {{BLANK}}",
+   "x": false
+  }
+ ]
+}
