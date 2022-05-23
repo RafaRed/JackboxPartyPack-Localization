@@ -56,3 +56,9 @@ O objetivo inicial do projeto não é traduzir todo jogo, estarei começando pel
 - [ ] JackboxTalks - Automatica
 - [ ] Quiplash3 - Automatica
 - [ ] WorldChampions - Automatica
+## The Jackbox Party Pack 8
+- [ ] DrawfulAnimate - Não Feito
+- [ ] JobGame - Não Feito
+- [ ] MurderDetective - Não Feito
+- [ ] SurveyBomb - Não Feito
+- [ ] TheWheel - Não Feito
