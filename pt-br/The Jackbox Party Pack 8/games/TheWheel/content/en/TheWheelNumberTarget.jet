@@ -1,0 +1,1574 @@
+{
+ "content": [
+  {
+   "category": "Science & Medicine",
+   "id": "76736",
+   "isValid": "",
+   "prompt": "About how many Earths away is the Moon from Earth?",
+   "unit": "",
+   "us": false,
+   "value": "30",
+   "x": false
+  },
+  {
+   "category": "Geography & Landmarks",
+   "id": "76739",
+   "isValid": "",
+   "prompt": "How many drawers tall is “The World's Tallest Filing Cabinet” in Burlington, Vermont?",
+   "unit": "(in number of drawers)",
+   "us": true,
+   "value": "38",
+   "x": false
+  },
+  {
+   "category": "Geography & Landmarks",
+   "id": "76783",
+   "isValid": "",
+   "prompt": "As of 2020, how many sovereign countries were part of the African continent?",
+   "unit": "",
+   "us": false,
+   "value": "54",
+   "x": false
+  },
+  {
+   "category": "Factoids",
+   "id": "76784",
+   "isValid": "",
+   "prompt": "According to the [i]International Journal of Humor Research[/i], how many times per day does the average adult laugh?",
+   "unit": "",
+   "us": false,
+   "value": "17",
+   "x": false
+  },
+  {
+   "category": "Film & TV",
+   "id": "76785",
+   "isValid": "",
+   "prompt": "How many credited feature film appearances did John Wayne make in his career?",
+   "unit": "",
+   "us": false,
+   "value": "145",
+   "x": false
+  },
+  {
+   "category": "Celebrities",
+   "id": "76786",
+   "isValid": "",
+   "prompt": "In 2020, how many hotdogs did Joey Chestnut eat in a 10-minute span to set the world record?",
+   "unit": "",
+   "us": false,
+   "value": "75",
+   "x": false
+  },
+  {
+   "category": "Factoids",
+   "id": "76787",
+   "isValid": "",
+   "prompt": "In what year did the world population surpass 3 billion?",
+   "unit": "",
+   "us": false,
+   "value": "1960",
+   "x": false
+  },
+  {
+   "category": "Anatomy",
+   "id": "76788",
+   "isValid": "",
+   "prompt": "How many bones are in an adult human body?",
+   "unit": "",
+   "us": false,
+   "value": "206",
+   "x": false
+  },
+  {
+   "category": "Games",
+   "id": "76911",
+   "isValid": "",
+   "prompt": "If you add up all the “cash” that comes in a traditional game of [i]Monopoly[/i], how much fake money do you have?",
+   "unit": "(in dollars)",
+   "us": false,
+   "value": "20580",
+   "x": false
+  },
+  {
+   "category": "Music",
+   "id": "76917",
+   "isValid": "",
+   "prompt": "How long is Queen’s hit song “Bohemian Rhapsody”?",
+   "unit": "(in seconds)",
+   "us": false,
+   "value": "354",
+   "x": false
+  },
+  {
+   "category": "Art",
+   "id": "76919",
+   "isValid": "",
+   "prompt": "How many stars are visible in Van Gogh’s [i]Starry Night[/i]?",
+   "unit": "",
+   "us": false,
+   "value": "11",
+   "x": false
+  },
+  {
+   "category": "Anatomy",
+   "id": "76920",
+   "isValid": "",
+   "prompt": "In what year did the first successful open heart surgery take place?",
+   "unit": "",
+   "us": false,
+   "value": "1893",
+   "x": false
+  },
+  {
+   "category": "Geography & Landmarks",
+   "id": "76922",
+   "isValid": "",
+   "prompt": "According to the Department of Natural Resources, Minnesota is the land of exactly how many lakes?",
+   "unit": "",
+   "us": true,
+   "value": "11842",
+   "x": false
+  },
+  {
+   "category": "Games",
+   "id": "76924",
+   "isValid": "",
+   "prompt": "How many pieces make up LEGO’s [i]Star Wars[/i] Death Star set?",
+   "unit": "",
+   "us": false,
+   "value": "4016",
+   "x": false
+  },
+  {
+   "category": "Food & Drink",
+   "id": "76926",
+   "isValid": "",
+   "prompt": "How many calories are there in a 12-ounce can of Coca-Cola Original?",
+   "unit": "",
+   "us": true,
+   "value": "140",
+   "x": false
+  },
+  {
+   "category": "Companies & Brands",
+   "id": "76927",
+   "isValid": "",
+   "prompt": "According to Apple, how many songs could the original iPod hold?",
+   "unit": "",
+   "us": false,
+   "value": "1000",
+   "x": false
+  },
+  {
+   "category": "Theatre/Performing Arts",
+   "id": "76935",
+   "isValid": "",
+   "prompt": "How long was the original run of [i]Cats[/i] on Broadway?",
+   "unit": "(in years)",
+   "us": false,
+   "value": "18",
+   "x": false
+  },
+  {
+   "category": "Film & TV",
+   "id": "76937",
+   "isValid": "",
+   "prompt": "How many on-screen deaths were there in the first [i]Scream[/i] movie?",
+   "unit": "",
+   "us": false,
+   "value": "7",
+   "x": false
+  },
+  {
+   "category": "Geography & Landmarks",
+   "id": "77144",
+   "isValid": "",
+   "prompt": "How wide is the widest part of the Grand Canyon?",
+   "unit": "(in miles)",
+   "us": true,
+   "value": "18",
+   "x": false
+  },
+  {
+   "category": "Animals",
+   "id": "77170",
+   "isValid": "",
+   "prompt": "How old was Hanako, the oldest koi fish, rumored to be when she died?",
+   "unit": "(in years)",
+   "us": false,
+   "value": "226",
+   "x": false
+  },
+  {
+   "category": "Factoids",
+   "id": "77188",
+   "isValid": "",
+   "prompt": "Based on IOC requirements, what percentage of an Olympic gold medal is allowed to be silver?",
+   "unit": "(rounded up to the nearest percent)",
+   "us": false,
+   "value": "93",
+   "x": false
+  },
+  {
+   "category": "Factoids",
+   "id": "77198",
+   "isValid": "",
+   "prompt": "If you ate the world’s largest burrito, how many pounds of cheesy goodness would be in your tummy?",
+   "unit": "(rounded up to the nearest pound)",
+   "us": false,
+   "value": "12786",
+   "x": false
+  },
+  {
+   "category": "Film & TV",
+   "id": "77200",
+   "isValid": "",
+   "prompt": "What percentage of the Addams Family CANNOT buy alcohol in the US? (the original TV family)",
+   "unit": "(rounded to the nearest percentage)",
+   "us": true,
+   "value": "22",
+   "x": true
+  },
+  {
+   "category": "",
+   "id": "77213",
+   "isValid": "",
+   "prompt": "Based on the record set in 2007, how many hours was the longest roller coaster marathon ride?",
+   "unit": "(rounded up to the nearest hour)",
+   "us": false,
+   "value": "406",
+   "x": false
+  },
+  {
+   "category": "Science & Medicine",
+   "id": "77219",
+   "isValid": "",
+   "prompt": "At what temperature does a diamond turn into vapor?",
+   "unit": "(in degrees Fahrenheit)",
+   "us": true,
+   "value": "1405",
+   "x": false
+  },
+  {
+   "category": "Sports",
+   "id": "77222",
+   "isValid": "",
+   "prompt": "How many Air Buds would it take, maximum, to field a full NBA team?",
+   "unit": "",
+   "us": true,
+   "value": "15",
+   "x": false
+  },
+  {
+   "category": "Calendar/Holidays",
+   "id": "77232",
+   "isValid": "",
+   "prompt": "In New York City’s Times Square, how tall is the pole that holds the New Year’s Eve Ball?",
+   "unit": "(in feet)",
+   "us": true,
+   "value": "77",
+   "x": false
+  },
+  {
+   "category": "History",
+   "id": "77261",
+   "isValid": "",
+   "prompt": "How many people were found guilty and executed in the Salem Witch Trials?",
+   "unit": "",
+   "us": true,
+   "value": "19",
+   "x": false
+  },
+  {
+   "category": "Science & Medicine",
+   "id": "77268",
+   "isValid": "",
+   "prompt": "If I love you a bushel and a peck, how many pecks in total is my love for you?",
+   "unit": "(in total pecks)",
+   "us": true,
+   "value": "5",
+   "x": false
+  },
+  {
+   "category": "Sports",
+   "id": "77304",
+   "isValid": "",
+   "prompt": "During 1984’s 8-hour 6-minute baseball game between the Brewers and the White Sox, how many total runs were scored?",
+   "unit": "",
+   "us": true,
+   "value": "13",
+   "x": false
+  },
+  {
+   "category": "Science & Medicine",
+   "id": "77309",
+   "isValid": "",
+   "prompt": "According to a Purdue University experiment, how many licks on average does it take to reach the center of a Tootsie Pop?",
+   "unit": "(in human licks)",
+   "us": false,
+   "value": "252",
+   "x": false
+  },
+  {
+   "category": "Sports",
+   "id": "77310",
+   "isValid": "",
+   "prompt": "What is the highest score you can achieve in bowling without any strikes?",
+   "unit": "",
+   "us": false,
+   "value": "190",
+   "x": false
+  },
+  {
+   "category": "Geography & Landmarks",
+   "id": "77312",
+   "isValid": "",
+   "prompt": "How deep is the ocean floor at the deepest part of the Mariana Trench?",
+   "unit": "(in feet)",
+   "us": false,
+   "value": "36201",
+   "x": false
+  },
+  {
+   "category": "Vehicles",
+   "id": "77313",
+   "isValid": "",
+   "prompt": "What was the seating capacity of the “The American Dream,” aka The World’s Longest Limousine?",
+   "unit": "(in people)",
+   "us": false,
+   "value": "75",
+   "x": false
+  },
+  {
+   "category": "Film & TV",
+   "id": "77330",
+   "isValid": "",
+   "prompt": "What’s the combined run time (in minutes) for all three [i]Lord of the Rings[/i] Special Extended Edition movies?",
+   "unit": "(in minutes)",
+   "us": false,
+   "value": "681",
+   "x": false
+  },
+  {
+   "category": "Animals",
+   "id": "77331",
+   "isValid": "",
+   "prompt": "How many months is the average African elephant pregnancy?",
+   "unit": "",
+   "us": false,
+   "value": "22",
+   "x": false
+  },
+  {
+   "category": "Geography & Landmarks",
+   "id": "77332",
+   "isValid": "",
+   "prompt": "How many Jenga towers tall is the Burj Khalifa?",
+   "unit": "(in classic Jenga towers)",
+   "us": false,
+   "value": "2964",
+   "x": false
+  },
+  {
+   "category": "Anatomy",
+   "id": "77368",
+   "isValid": "",
+   "prompt": "Just out of curiosity, about how many quarts of blood are inside you right now?",
+   "unit": "",
+   "us": false,
+   "value": "5",
+   "x": false
+  },
+  {
+   "category": "Animals",
+   "id": "77369",
+   "isValid": "",
+   "prompt": "Say your hobby is knitting socks for millipedes. About how many should you make for your friend the [i]Illacme plenipes[/i]?",
+   "unit": "(in socks)",
+   "us": false,
+   "value": "750",
+   "x": false
+  },
+  {
+   "category": "Factoids",
+   "id": "77377",
+   "isValid": "",
+   "prompt": "If you grew a vegetable as heavy as the Golden Jubilee Diamond, how many carats would your carrot be?",
+   "unit": "(rounded up to the nearest carat)",
+   "us": false,
+   "value": "546",
+   "x": false
+  },
+  {
+   "category": "Film & TV",
+   "id": "77434",
+   "isValid": "",
+   "prompt": "How many episodes were aired of [i]Star Trek: The Original Series[/i]?",
+   "unit": "",
+   "us": false,
+   "value": "79",
+   "x": false
+  },
+  {
+   "category": "Music",
+   "id": "77448",
+   "isValid": "",
+   "prompt": "If you plan to sigh dramatically every time you hear “turn around” in the song “Total Eclipse of the Heart,” how many sighs will that be?",
+   "unit": "(in dramatic sighs)",
+   "us": false,
+   "value": "23",
+   "x": false
+  },
+  {
+   "category": "Film & TV",
+   "id": "77622",
+   "isValid": "",
+   "prompt": "Roughly how many birds were trained to be used in the movie [i]The Birds[/i]?",
+   "unit": "",
+   "us": false,
+   "value": "3200",
+   "x": false
+  },
+  {
+   "category": "Factoids",
+   "id": "77623",
+   "isValid": "",
+   "prompt": "According to the 2014 Guinness World Record, how tall is the tallest sunflower ever grown?",
+   "unit": "(rounded to the nearest meter)",
+   "us": false,
+   "value": "9",
+   "x": false
+  },
+  {
+   "category": "Sports",
+   "id": "77624",
+   "isValid": "",
+   "prompt": "How many black pentagons are there on a standard soccer ball?",
+   "unit": "",
+   "us": true,
+   "value": "12",
+   "x": false
+  },
+  {
+   "category": "Sports",
+   "id": "77626",
+   "isValid": "",
+   "prompt": "Based on the 2017 record, what is the time of the fastest mile ever walked?",
+   "unit": "(in seconds)",
+   "us": false,
+   "value": "331",
+   "x": false
+  },
+  {
+   "category": "Geography & Landmarks",
+   "id": "77627",
+   "isValid": "",
+   "prompt": "Roughly how many Oregon Trails could fit between the Earth and the Sun?",
+   "unit": "(in Oregon Trails)",
+   "us": false,
+   "value": "42837",
+   "x": false
+  },
+  {
+   "category": "Factoids",
+   "id": "77629",
+   "isValid": "",
+   "prompt": "The King Candle at the Yankee Candle flagship store is over six feet tall. If lit, how many years would it take to fully burn?",
+   "unit": "(rounded up to the nearest year)",
+   "us": false,
+   "value": "8",
+   "x": false
+  },
+  {
+   "category": "Food & Drink",
+   "id": "77630",
+   "isValid": "",
+   "prompt": "As of 2020, how many KFC fast food restaurants could be found in Vietnam?",
+   "unit": "",
+   "us": false,
+   "value": "135",
+   "x": false
+  },
+  {
+   "category": "Food & Drink",
+   "id": "77632",
+   "isValid": "",
+   "prompt": "In 2012, how many chefs did it take to cook the world’s biggest omelette, which weighed roughly seven tons?",
+   "unit": "(in chefs)",
+   "us": false,
+   "value": "55",
+   "x": false
+  },
+  {
+   "category": "Science & Medicine",
+   "id": "77635",
+   "isValid": "",
+   "prompt": "How old was \"Methuselah,\" the oldest living tree in the world, as of 2020?",
+   "unit": "(in years)",
+   "us": false,
+   "value": "4852",
+   "x": false
+  },
+  {
+   "category": "Geography & Landmarks",
+   "id": "77650",
+   "isValid": "",
+   "prompt": "How many Dwayne “The Rock” Johnsons could have been imprisoned on “The Rock”?",
+   "unit": "",
+   "us": false,
+   "value": "336",
+   "x": false
+  },
+  {
+   "category": "Food & Drink",
+   "id": "77672",
+   "isValid": "",
+   "prompt": "On average, how many Skittles are in a standard 2.17-ounce pouch?",
+   "unit": "(in individual candies)",
+   "us": true,
+   "value": "56",
+   "x": false
+  },
+  {
+   "category": "Music",
+   "id": "77675",
+   "isValid": "",
+   "prompt": "How many times does Ciara say the word “goodies” in her hit song “Goodies”?",
+   "unit": "",
+   "us": false,
+   "value": "13",
+   "x": false
+  },
+  {
+   "category": "Food & Drink",
+   "id": "77749",
+   "isValid": "",
+   "prompt": "How many recipes are included in [i]Mastering the Art of French Cooking, Volume I[/i] by Julia Child?",
+   "unit": "",
+   "us": false,
+   "value": "524",
+   "x": false
+  },
+  {
+   "category": "Geography & Landmarks",
+   "id": "77752",
+   "isValid": "",
+   "prompt": "How many glass panes make up the Louvre Pyramid?",
+   "unit": "",
+   "us": false,
+   "value": "673",
+   "x": false
+  },
+  {
+   "category": "Geography & Landmarks",
+   "id": "77757",
+   "isValid": "",
+   "prompt": "How many bathrooms are there in the White House?",
+   "unit": "(in bathrooms)",
+   "us": false,
+   "value": "35",
+   "x": false
+  },
+  {
+   "category": "Food & Drink",
+   "id": "77791",
+   "isValid": "",
+   "prompt": "Roughly how many jelly beans were used to create the portrait of Ronald Reagan hanging in his presidential library?",
+   "unit": "(in jelly beans)",
+   "us": true,
+   "value": "10000",
+   "x": false
+  },
+  {
+   "category": "Science & Medicine",
+   "id": "78047",
+   "isValid": "",
+   "prompt": "How long does it take the moon to rotate once on its axis?",
+   "unit": "(in Earth days)",
+   "us": false,
+   "value": "27",
+   "x": false
+  },
+  {
+   "category": "Film & TV",
+   "id": "78066",
+   "isValid": "",
+   "prompt": "How old is Ash Ketchum in [i]Pokémon[/i]?",
+   "unit": "(in years)",
+   "us": false,
+   "value": "10",
+   "x": false
+  },
+  {
+   "category": "Animals",
+   "id": "78133",
+   "isValid": "",
+   "prompt": "How tall is Forest, the world's tallest giraffe? (according to [i]Guinness World Records[/i])",
+   "unit": "(in inches)",
+   "us": true,
+   "value": "224",
+   "x": false
+  },
+  {
+   "category": "Money",
+   "id": "78142",
+   "isValid": "",
+   "prompt": "Quick! How many coins are in a $10 roll of quarters?",
+   "unit": "(in total coins)",
+   "us": false,
+   "value": "40",
+   "x": false
+  },
+  {
+   "category": "Music",
+   "id": "78324",
+   "isValid": "",
+   "prompt": "In inches, what is the total combined height of the three members of Destiny's Child?",
+   "unit": "(rounded up in inches)",
+   "us": true,
+   "value": "204",
+   "x": false
+  },
+  {
+   "category": "Historical Figures",
+   "id": "78352",
+   "isValid": "",
+   "prompt": "What year did Queen Victoria die?",
+   "unit": "",
+   "us": false,
+   "value": "1901",
+   "x": false
+  },
+  {
+   "category": "Animals",
+   "id": "78353",
+   "isValid": "",
+   "prompt": "A white leghorn holds the record for the most eggs laid by a chicken in one year. How many eggs did she lay?",
+   "unit": "",
+   "us": false,
+   "value": "371",
+   "x": false
+  },
+  {
+   "category": "Geography & Landmarks",
+   "id": "78355",
+   "isValid": "",
+   "prompt": "How long is the Great Wall of China... in Berlin Walls?",
+   "unit": "(in Berlin Walls)",
+   "us": false,
+   "value": "137",
+   "x": false
+  },
+  {
+   "category": "Calendar/Holidays",
+   "id": "78404",
+   "isValid": "",
+   "prompt": "How sweet! Your spouse just gave you a traditional wedding anniversary gift made of coral. How long have you been married?",
+   "unit": "(in years)",
+   "us": false,
+   "value": "35",
+   "x": false
+  },
+  {
+   "category": "Film & TV",
+   "id": "78407",
+   "isValid": "",
+   "prompt": "How many episodes of the original [i]Law & Order[/i] aired during its 20-year run?",
+   "unit": "(in episodes)",
+   "us": false,
+   "value": "456",
+   "x": false
+  },
+  {
+   "category": "Companies & Brands",
+   "id": "78410",
+   "isValid": "",
+   "prompt": "Hej! You've just decided to spend your afternoon assembling IKEA's most popular product, the BILLY bookcase. How many steps will you need to follow to fully assemble it?",
+   "unit": "(in instructional steps)",
+   "us": false,
+   "value": "14",
+   "x": false
+  },
+  {
+   "category": "Factoids",
+   "id": "78415",
+   "isValid": "",
+   "prompt": "In what year was the yellow legal pad invented?",
+   "unit": "",
+   "us": false,
+   "value": "1888",
+   "x": false
+  },
+  {
+   "category": "",
+   "id": "78564",
+   "isValid": "",
+   "prompt": "How many Fleetwood Mac CD cases tall is Stevie Nicks (assuming they are stacked flat on top of each other)?",
+   "unit": "(in CD cases)",
+   "us": false,
+   "value": "158",
+   "x": false
+  },
+  {
+   "category": "Film & TV",
+   "id": "78600",
+   "isValid": "",
+   "prompt": "About how many Chewbaccas long is the [i]Millennium Falcon[/i]?",
+   "unit": "(in Chewbaccas)",
+   "us": false,
+   "value": "15",
+   "x": false
+  },
+  {
+   "category": "Food & Drink",
+   "id": "78668",
+   "isValid": "",
+   "prompt": "How many maximum daily servings of bread should you have according to the USDA food pyramid?",
+   "unit": "",
+   "us": true,
+   "value": "11",
+   "x": false
+  },
+  {
+   "category": "Music",
+   "id": "78669",
+   "isValid": "",
+   "prompt": "How many times do they say “tequila” in the song “Tequila”?",
+   "unit": "",
+   "us": false,
+   "value": "3",
+   "x": false
+  },
+  {
+   "category": "Food & Drink",
+   "id": "78698",
+   "isValid": "",
+   "prompt": "How much is the “world’s most expensive burger” served at the restaurant Fleur in Las Vegas?",
+   "unit": "(in U.S. dollars)",
+   "us": false,
+   "value": "5000",
+   "x": false
+  },
+  {
+   "category": "Food & Drink",
+   "id": "78699",
+   "isValid": "",
+   "prompt": "What percentage of Pringles is actually potato?",
+   "unit": "",
+   "us": false,
+   "value": "42",
+   "x": false
+  },
+  {
+   "category": "Anatomy",
+   "id": "78788",
+   "isValid": "",
+   "prompt": "How many bones are in an adult human hand?",
+   "unit": "",
+   "us": false,
+   "value": "27",
+   "x": false
+  },
+  {
+   "category": "Science & Medicine",
+   "id": "78803",
+   "isValid": "",
+   "prompt": "According to the CDC, about how many lightning-related injuries have occurred in Florida over the past 50 years?",
+   "unit": "(in lightning injuries)",
+   "us": false,
+   "value": "2000",
+   "x": false
+  },
+  {
+   "category": "Film & TV",
+   "id": "78805",
+   "isValid": "",
+   "prompt": "How many episodes of the original series of [i]Friends[/i] are there?",
+   "unit": "(in episodes)",
+   "us": false,
+   "value": "236",
+   "x": false
+  },
+  {
+   "category": "Games",
+   "id": "78806",
+   "isValid": "",
+   "prompt": "How many dots does Pac-Man have to eat to move on to the next round?",
+   "unit": "",
+   "us": false,
+   "value": "244",
+   "x": false
+  },
+  {
+   "category": "Film & TV",
+   "id": "78815",
+   "isValid": "",
+   "prompt": "Roughly how many times per episode of [i]Wheel of Fortune[/i] does Vanna White clap?",
+   "unit": "(in claps)",
+   "us": false,
+   "value": "606",
+   "x": false
+  },
+  {
+   "category": "Music",
+   "id": "79058",
+   "isValid": "",
+   "prompt": "In the Phil Collins tune “In The Air Tonight,” how many seconds in does his epic drum break take place?",
+   "unit": "(in seconds)",
+   "us": false,
+   "value": "221",
+   "x": false
+  },
+  {
+   "category": "Music",
+   "id": "79066",
+   "isValid": "",
+   "prompt": "How many women are named in Lou Bega's “Mambo Number 5”?",
+   "unit": "(in named ladies)",
+   "us": false,
+   "value": "9",
+   "x": false
+  },
+  {
+   "category": "Factoids",
+   "id": "79067",
+   "isValid": "",
+   "prompt": "What is the largest quantity of boxed crayons that Crayola manufactures?",
+   "unit": "(in number of crayons)",
+   "us": false,
+   "value": "120",
+   "x": false
+  },
+  {
+   "category": "Anatomy",
+   "id": "79116",
+   "isValid": "",
+   "prompt": "If you had a dollar for every ounce of liquid your bladder could hold, how much would you have?",
+   "unit": "(in dollars)",
+   "us": true,
+   "value": "16",
+   "x": false
+  },
+  {
+   "category": "Companies & Brands",
+   "id": "79119",
+   "isValid": "",
+   "prompt": "In BILLIONS of DOLLARS, what was McDonald's worldwide revenue in 2020?",
+   "unit": "(in billions of U.S. dollars)",
+   "us": false,
+   "value": "19",
+   "x": false
+  },
+  {
+   "category": "Internet",
+   "id": "79499",
+   "isValid": "",
+   "prompt": "How many millions of users did Facebook have when [i]The Social Network[/i] was in theaters at the end of 2010?",
+   "unit": "(in millions of users)",
+   "us": false,
+   "value": "608",
+   "x": false
+  },
+  {
+   "category": "Factoids",
+   "id": "80466",
+   "isValid": "",
+   "prompt": "What is the most screen time a child should have per day as reported by the American Heart Association?",
+   "unit": "(in hours)",
+   "us": false,
+   "value": "2",
+   "x": false
+  },
+  {
+   "category": "Food & Drink",
+   "id": "80469",
+   "isValid": "",
+   "prompt": "On average, how many rodent hairs are allowed by the FDA in a 40-ounce jar of peanut butter?",
+   "unit": "(in rodent hairs)",
+   "us": true,
+   "value": "11",
+   "x": false
+  },
+  {
+   "category": "Animals",
+   "id": "81462",
+   "isValid": "",
+   "prompt": "According to the U.S. Department of Agriculture, how many pounds of chicken did the average American eat in 2020?",
+   "unit": "(in pounds of chicken)",
+   "us": true,
+   "value": "96",
+   "x": false
+  },
+  {
+   "category": "Historical Figures",
+   "id": "81464",
+   "isValid": "",
+   "prompt": "What age did Jeanne Louise Calment, the oldest recorded person ever to have lived, live to?",
+   "unit": "(in years)",
+   "us": false,
+   "value": "122",
+   "x": false
+  },
+  {
+   "category": "Music",
+   "id": "81466",
+   "isValid": "",
+   "prompt": "If you subtract people named “Melanie” from the Spice Girls, how many members are left?",
+   "unit": "(in Spice Girls)",
+   "us": false,
+   "value": "3",
+   "x": false
+  },
+  {
+   "category": "Language/Words/Grammar",
+   "id": "81470",
+   "isValid": "",
+   "prompt": "According to [i]Ethnologue[/i], how many known living languages exist in the world as of 2020?",
+   "unit": "(in languages)",
+   "us": false,
+   "value": "7139",
+   "x": false
+  },
+  {
+   "category": "Geography & Landmarks",
+   "id": "81473",
+   "isValid": "",
+   "prompt": "How many countries make up the United Kingdom?",
+   "unit": "",
+   "us": false,
+   "value": "4",
+   "x": false
+  },
+  {
+   "category": "Math",
+   "id": "81475",
+   "isValid": "",
+   "prompt": "If you had one ton of gummy bears, how much would that be in pounds?",
+   "unit": "(in pounds of gummy bears)",
+   "us": true,
+   "value": "2000",
+   "x": false
+  },
+  {
+   "category": "Animation/Comic Books",
+   "id": "81478",
+   "isValid": "",
+   "prompt": "How many members were in the original [i]Scooby-Doo[/i] gang?",
+   "unit": "",
+   "us": false,
+   "value": "5",
+   "x": false
+  },
+  {
+   "category": "Pop Culture",
+   "id": "81479",
+   "isValid": "",
+   "prompt": "According to Mary Poppins, how many spoonfuls of sugar help the medicine go down?",
+   "unit": "(in sugary spoonfuls)",
+   "us": false,
+   "value": "1",
+   "x": false
+  },
+  {
+   "category": "Historical Figures",
+   "id": "81480",
+   "isValid": "",
+   "prompt": "In what year was a shoe thrown at President George W. Bush?",
+   "unit": "",
+   "us": true,
+   "value": "2008",
+   "x": false
+  },
+  {
+   "category": "Pop Culture",
+   "id": "81481",
+   "isValid": "",
+   "prompt": "On the reality series [i]Jersey Shore[/i], what year was it when Snooki wrote a letter to Sammi detailing that Ron was a cheater?",
+   "unit": "",
+   "us": true,
+   "value": "2010",
+   "x": false
+  },
+  {
+   "category": "Historical Figures",
+   "id": "81483",
+   "isValid": "",
+   "prompt": "How old was John F. Kennedy when he was elected U.S. President?",
+   "unit": "(in years)",
+   "us": true,
+   "value": "43",
+   "x": false
+  },
+  {
+   "category": "Factoids",
+   "id": "81486",
+   "isValid": "",
+   "prompt": "In the U.S., what is the highest possible credit score?",
+   "unit": "",
+   "us": true,
+   "value": "850",
+   "x": false
+  },
+  {
+   "category": "Music",
+   "id": "81487",
+   "isValid": "",
+   "prompt": "How many times does Drake say “YOLO” in his hit song, “The Motto”?",
+   "unit": "(in total YOLOs)",
+   "us": false,
+   "value": "3",
+   "x": true
+  },
+  {
+   "category": "Vehicles",
+   "id": "81491",
+   "isValid": "",
+   "prompt": "What is the manufacturer suggested retail price of a 1999 automatic 4-door Toyota Camry CE?",
+   "unit": "(in U.S. dollars)",
+   "us": false,
+   "value": "17898",
+   "x": false
+  },
+  {
+   "category": "Celebrities",
+   "id": "81496",
+   "isValid": "",
+   "prompt": "How many husbands did Elizabeth Taylor have?",
+   "unit": "",
+   "us": false,
+   "value": "7",
+   "x": false
+  },
+  {
+   "category": "Film & TV",
+   "id": "81499",
+   "isValid": "",
+   "prompt": "In the first installment of [i]Back to the Future[/i], what year does Marty travel back to?",
+   "unit": "",
+   "us": false,
+   "value": "1955",
+   "x": false
+  },
+  {
+   "category": "Religion",
+   "id": "81500",
+   "isValid": "",
+   "prompt": "As of 2020, how many Roman Catholic popes have there been?",
+   "unit": "",
+   "us": false,
+   "value": "266",
+   "x": false
+  },
+  {
+   "category": "Pop Culture",
+   "id": "81502",
+   "isValid": "",
+   "prompt": "As of 2020, how many Blockbusters were there left in the world?",
+   "unit": "",
+   "us": false,
+   "value": "1",
+   "x": false
+  },
+  {
+   "category": "Sports",
+   "id": "81503",
+   "isValid": "",
+   "prompt": "How tall is Muggsy Bogues, the shortest basketball player to ever play in the NBA?",
+   "unit": "(in inches)",
+   "us": true,
+   "value": "63",
+   "x": false
+  },
+  {
+   "category": "Film & TV",
+   "id": "81505",
+   "isValid": "",
+   "prompt": "How many Oscar nominations did [i]Titanic[/i] receive?",
+   "unit": "",
+   "us": false,
+   "value": "14",
+   "x": false
+  },
+  {
+   "category": "Science & Medicine",
+   "id": "81506",
+   "isValid": "",
+   "prompt": "How many phases of the moon are there?",
+   "unit": "",
+   "us": false,
+   "value": "8",
+   "x": false
+  },
+  {
+   "category": "History",
+   "id": "81507",
+   "isValid": "",
+   "prompt": "In what year did the U.S. achieve marriage equality?",
+   "unit": "",
+   "us": true,
+   "value": "2015",
+   "x": false
+  },
+  {
+   "category": "Fashion",
+   "id": "81511",
+   "isValid": "",
+   "prompt": "In what year did the first pair of Croc shoes grace the planet Earth?",
+   "unit": "",
+   "us": false,
+   "value": "2002",
+   "x": false
+  },
+  {
+   "category": "Literature",
+   "id": "81515",
+   "isValid": "",
+   "prompt": "How many books did Dame Barbara Cartland, the prolific romance novelist, write during her lifetime?",
+   "unit": "(in novels)",
+   "us": false,
+   "value": "723",
+   "x": false
+  },
+  {
+   "category": "Historical Figures",
+   "id": "81518",
+   "isValid": "",
+   "prompt": "How many sons does Queen Elizabeth II have?",
+   "unit": "(in royal sons)",
+   "us": false,
+   "value": "3",
+   "x": false
+  },
+  {
+   "category": "Games",
+   "id": "81519",
+   "isValid": "",
+   "prompt": "How many combinations of people, weapons, and rooms are there in a game of [i]Clue[/i]?",
+   "unit": "(in possible murder scenarios)",
+   "us": false,
+   "value": "324",
+   "x": false
+  },
+  {
+   "category": "Math",
+   "id": "81520",
+   "isValid": "",
+   "prompt": "What is the value of any angle in an equilateral triangle?",
+   "unit": "(in degrees)",
+   "us": false,
+   "value": "60",
+   "x": false
+  },
+  {
+   "category": "Historical Figures",
+   "id": "81522",
+   "isValid": "",
+   "prompt": "How old was Tenzin Gyatso when he was recognized as the 14th Dalai Lama?",
+   "unit": "(in years)",
+   "us": false,
+   "value": "4",
+   "x": false
+  },
+  {
+   "category": "Theatre/Performing Arts",
+   "id": "81523",
+   "isValid": "",
+   "prompt": "How many musicals did Rodgers & Hammerstein write together?",
+   "unit": "",
+   "us": false,
+   "value": "11",
+   "x": false
+  },
+  {
+   "category": "Geography & Landmarks",
+   "id": "81526",
+   "isValid": "",
+   "prompt": "What is the seating capacity of the Royal Albert Hall in London?",
+   "unit": "(in seats)",
+   "us": false,
+   "value": "5272",
+   "x": false
+  },
+  {
+   "category": "Food & Drink",
+   "id": "81533",
+   "isValid": "",
+   "prompt": "According to Nutritionix, how many calories are in one whole rotisserie chicken weighing 600 grams?",
+   "unit": "(in calories)",
+   "us": true,
+   "value": "1104",
+   "x": false
+  },
+  {
+   "category": "Sports",
+   "id": "81599",
+   "isValid": "",
+   "prompt": "In the sport of shot put, the thrown metal ball is called a shot. How much does a men's regulation shot weigh in pounds?",
+   "unit": "(in pounds)",
+   "us": true,
+   "value": "16",
+   "x": false
+  },
+  {
+   "category": "Science & Medicine",
+   "id": "81600",
+   "isValid": "",
+   "prompt": "Roughly how many years does it take a banana peel to fully decompose?",
+   "unit": "",
+   "us": false,
+   "value": "2",
+   "x": false
+  },
+  {
+   "category": "Religion",
+   "id": "81601",
+   "isValid": "",
+   "prompt": "Think carefully: how many theses did Martin Luther write in his famous “95 Theses”?",
+   "unit": "",
+   "us": false,
+   "value": "95",
+   "x": false
+  },
+  {
+   "category": "",
+   "id": "81602",
+   "isValid": "",
+   "prompt": "How many members of the Belcher family are there in the TV show [i]Bob's Burgers[/i]?",
+   "unit": "(in cartoon family members)",
+   "us": false,
+   "value": "5",
+   "x": false
+  },
+  {
+   "category": "Sports",
+   "id": "81610",
+   "isValid": "",
+   "prompt": "What jersey number did Michael Jordan wear when he returned to the Chicago Bulls in the 1994-95 season?",
+   "unit": "",
+   "us": true,
+   "value": "45",
+   "x": false
+  },
+  {
+   "category": "Math",
+   "id": "81614",
+   "isValid": "",
+   "prompt": "How many minutes are in a week?",
+   "unit": "",
+   "us": false,
+   "value": "10080",
+   "x": false
+  },
+  {
+   "category": "Literature",
+   "id": "81617",
+   "isValid": "",
+   "prompt": "How many plays did Shakespeare write in his lifetime?",
+   "unit": "",
+   "us": false,
+   "value": "37",
+   "x": false
+  },
+  {
+   "category": "Pop Culture",
+   "id": "81638",
+   "isValid": "",
+   "prompt": "How many days was Kim Kardashian married to NBA star Kris Humphries?",
+   "unit": "(in... uh... days)",
+   "us": true,
+   "value": "72",
+   "x": false
+  },
+  {
+   "category": "Literature",
+   "id": "81653",
+   "isValid": "",
+   "prompt": "How many sizes bigger did the Grinch's heart grow at the end of [i]How the Grinch Stole Christmas[/i]?",
+   "unit": "(in heart sizes)",
+   "us": false,
+   "value": "3",
+   "x": false
+  },
+  {
+   "category": "Food & Drink",
+   "id": "81654",
+   "isValid": "",
+   "prompt": "How many flavors are in a tub of Neapolitan ice cream?",
+   "unit": "",
+   "us": false,
+   "value": "3",
+   "x": false
+  },
+  {
+   "category": "Animals",
+   "id": "81655",
+   "isValid": "",
+   "prompt": "How many cute, little, precious toes does a normal cat have?",
+   "unit": "(in feline digits)",
+   "us": false,
+   "value": "18",
+   "x": false
+  },
+  {
+   "category": "Music",
+   "id": "81656",
+   "isValid": "",
+   "prompt": "In what year was Madonna born?",
+   "unit": "",
+   "us": false,
+   "value": "1958",
+   "x": false
+  },
+  {
+   "category": "Music",
+   "id": "81657",
+   "isValid": "",
+   "prompt": "In Prince's hit single, what year is referenced right before he sings “party over, oops, out of time”?",
+   "unit": "",
+   "us": false,
+   "value": "2000",
+   "x": false
+  },
+  {
+   "category": "Music",
+   "id": "81659",
+   "isValid": "",
+   "prompt": "How many rings are referenced in the title of Ariana Grande's 2019 hit single?",
+   "unit": "(in rings)",
+   "us": false,
+   "value": "7",
+   "x": false
+  },
+  {
+   "category": "History",
+   "id": "81660",
+   "isValid": "",
+   "prompt": "In what year did the U.S. stock market crash known as “Black Tuesday” happen?",
+   "unit": "",
+   "us": true,
+   "value": "1929",
+   "x": false
+  },
+  {
+   "category": "Historical Figures",
+   "id": "81674",
+   "isValid": "",
+   "prompt": "How many French kings bore the name Louis?",
+   "unit": "",
+   "us": false,
+   "value": "20",
+   "x": false
+  },
+  {
+   "category": "Sports",
+   "id": "81676",
+   "isValid": "",
+   "prompt": "How long is the Olympic 100 meter dash in feet?",
+   "unit": "(in feet)",
+   "us": false,
+   "value": "328",
+   "x": false
+  },
+  {
+   "category": "Music",
+   "id": "81681",
+   "isValid": "",
+   "prompt": "How many rules are there in Dua Lipa's song “New Rules”?",
+   "unit": "",
+   "us": false,
+   "value": "3",
+   "x": false
+  },
+  {
+   "category": "History",
+   "id": "81712",
+   "isValid": "",
+   "prompt": "How old was Cleopatra at the time of her death?",
+   "unit": "(in years)",
+   "us": false,
+   "value": "39",
+   "x": false
+  },
+  {
+   "category": "Film & TV",
+   "id": "81713",
+   "isValid": "",
+   "prompt": "How many minutes of pining do you have to suffer through during the full length of the film [i]Doctor Zhivago[/i]?",
+   "unit": "(in minutes of soulful pining)",
+   "us": false,
+   "value": "197",
+   "x": false
+  },
+  {
+   "category": "Historical Figures",
+   "id": "81715",
+   "isValid": "",
+   "prompt": "How many U.S. presidents had alliterative names (as of 2020)?",
+   "unit": "",
+   "us": true,
+   "value": "4",
+   "x": false
+  },
+  {
+   "category": "Science & Medicine",
+   "id": "81719",
+   "isValid": "",
+   "prompt": "In lightyears, how far away is the nearest star to our solar system?",
+   "unit": "(to the nearest lightyear)",
+   "us": false,
+   "value": "4",
+   "x": false
+  },
+  {
+   "category": "Science & Medicine",
+   "id": "81733",
+   "isValid": "",
+   "prompt": "What is the lowest frequency the typical human ear can perceive in hertz?",
+   "unit": "(in hertz)",
+   "us": false,
+   "value": "20",
+   "x": false
+  },
+  {
+   "category": "Celebrities",
+   "id": "81843",
+   "isValid": "",
+   "prompt": "How many millions of dollars was Harrison Ford paid for his role in [i]Indiana Jones and the Kingdom of the Crystal Skull[/i]?",
+   "unit": "(in millions of U.S. dollars)",
+   "us": false,
+   "value": "65",
+   "x": false
+  },
+  {
+   "category": "Music",
+   "id": "81845",
+   "isValid": "",
+   "prompt": "How many classic tracks are on the seminal Nickelback album “The Long Road”?",
+   "unit": "(in classic, untouchable tracks)",
+   "us": false,
+   "value": "11",
+   "x": false
+  },
+  {
+   "category": "Film & TV",
+   "id": "81848",
+   "isValid": "",
+   "prompt": "How many lines in total does Stifler’s Mom have in the script for [i]American Pie[/i]?",
+   "unit": "",
+   "us": false,
+   "value": "8",
+   "x": false
+  },
+  {
+   "category": "Film & TV",
+   "id": "81851",
+   "isValid": "",
+   "prompt": "How many episodes of [i]Gunsmoke[/i] aired in its 20-year run?",
+   "unit": "(in episodes)",
+   "us": true,
+   "value": "635",
+   "x": false
+  },
+  {
+   "category": "Music",
+   "id": "82103",
+   "isValid": "",
+   "prompt": "How many white keys are on a standard, full-size 88-key piano?",
+   "unit": "(in white keys)",
+   "us": false,
+   "value": "52",
+   "x": false
+  },
+  {
+   "category": "History",
+   "id": "82471",
+   "isValid": "",
+   "prompt": "In what year did the “Summer of Love” take place?",
+   "unit": "",
+   "us": true,
+   "value": "1967",
+   "x": false
+  },
+  {
+   "category": "Food & Drink",
+   "id": "82476",
+   "isValid": "",
+   "prompt": "According to the USDA, how many calories are in a whole avocado?",
+   "unit": "(in calories)",
+   "us": false,
+   "value": "322",
+   "x": false
+  },
+  {
+   "category": "Music",
+   "id": "82478",
+   "isValid": "",
+   "prompt": "How many strings are on a standard pedal harp?",
+   "unit": "",
+   "us": false,
+   "value": "47",
+   "x": false
+  },
+  {
+   "category": "Science & Medicine",
+   "id": "82520",
+   "isValid": "",
+   "prompt": "At what temperature does water boil (in Fahrenheit)?",
+   "unit": "(in degrees Fahrenheit)",
+   "us": true,
+   "value": "212",
+   "x": false
+  },
+  {
+   "category": "Film & TV",
+   "id": "82537",
+   "isValid": "",
+   "prompt": "How old did McLovin make himself on his fake ID in the movie [i]Superbad[/i]?",
+   "unit": "(in years)",
+   "us": true,
+   "value": "25",
+   "x": false
+  },
+  {
+   "category": "Music",
+   "id": "82541",
+   "isValid": "",
+   "prompt": "How many main members of the children's band The Wiggles were there in 1992?",
+   "unit": "",
+   "us": false,
+   "value": "4",
+   "x": false
+  },
+  {
+   "category": "Pop Culture",
+   "id": "82542",
+   "isValid": "",
+   "prompt": "How many dwarfs from [i]Snow White[/i] have adjectives as names?",
+   "unit": "(in adjectival cartoon dwarfs)",
+   "us": false,
+   "value": "6",
+   "x": false
+  },
+  {
+   "category": "",
+   "id": "82544",
+   "isValid": "",
+   "prompt": "How many breakable sections are in a standard, 1.55-ounce Hershey's chocolate bar?",
+   "unit": "(in breakable pips)",
+   "us": true,
+   "value": "12",
+   "x": false
+  },
+  {
+   "category": "Pop Culture",
+   "id": "85194",
+   "isValid": "",
+   "prompt": "How many Teletubbies are there?",
+   "unit": "",
+   "us": true,
+   "value": "4",
+   "x": false
+  }
+ ]
+}
