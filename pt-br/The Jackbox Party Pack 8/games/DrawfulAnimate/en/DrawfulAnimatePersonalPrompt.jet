@@ -1,0 +1,2863 @@
+{
+ "content": [
+  {
+   "altSpellings": [],
+   "id": "77072",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} in their element",
+   "tags": [
+    "subjective"
+   ],
+   "title": "{{PLAYER}}...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "77113",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s utopia",
+   "tags": [
+    "subjective",
+    "nonhuman"
+   ],
+   "title": "{{PLAYER}}'s...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "77140",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} when conflict arises",
+   "tags": [
+    "subjective"
+   ],
+   "title": "{{PLAYER}} when...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "77141",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s secret talent",
+   "tags": [
+    "subjective"
+   ],
+   "title": "{{PLAYER}}'s...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "77152",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s alter ego",
+   "tags": [
+    "subjective"
+   ],
+   "title": "{{PLAYER}}'s...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "77153",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s idea of a perfect friday night",
+   "tags": [
+    "subjective"
+   ],
+   "title": "{{PLAYER}}'s idea of...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "77154",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} would never do this...",
+   "tags": [
+    "subjective"
+   ],
+   "title": "{{PLAYER}}...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "77155",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} as a greek god",
+   "tags": [
+    "literal"
+   ],
+   "title": "{{PLAYER}}...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "77156",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} in 20 years",
+   "tags": [
+    "da-personal",
+    "subjective"
+   ],
+   "title": "{{PLAYER}}...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "77615",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s signature dance move",
+   "tags": [
+    "subjective"
+   ],
+   "title": "{{PLAYER}}'s...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "77616",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s favorite memory with this group",
+   "tags": [
+    "subjective"
+   ],
+   "title": "{{PLAYER}}'s...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "77618",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} holding hands with their biggest fear",
+   "tags": [
+    "da-personal",
+    "subjective"
+   ],
+   "title": "{{PLAYER}}...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "77619",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} reincarnated in the next life",
+   "tags": [
+    "nonhuman"
+   ],
+   "title": "{{PLAYER}}...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "77620",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s number one pet peeve",
+   "tags": [
+    "subjective"
+   ],
+   "title": "{{PLAYER}}'s...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "78025",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s evil plan",
+   "tags": [
+    "#da-personal",
+    "da-yes",
+    "subjective"
+   ],
+   "title": "{{PLAYER}}'s...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "78026",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} after they retire",
+   "tags": [
+    "#da-personal",
+    "da-yes",
+    "subjective"
+   ],
+   "title": "{{PLAYER}}...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "78027",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s best day",
+   "tags": [
+    "#da-personal",
+    "da-yes",
+    "subjective"
+   ],
+   "title": "{{PLAYER}}'s...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "78192",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s last moment, probably",
+   "tags": [
+    "subjective"
+   ],
+   "title": "{{PLAYER}}'s...",
+   "x": true
+  },
+  {
+   "altSpellings": [],
+   "id": "78193",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s dirty little secret",
+   "tags": [
+    "subjective"
+   ],
+   "title": "{{PLAYER}}'s...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "78790",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} hits puberty",
+   "tags": [
+    "literal"
+   ],
+   "title": "{{PLAYER}}...",
+   "x": true
+  },
+  {
+   "altSpellings": [],
+   "id": "78792",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} being a villain",
+   "tags": [
+    "subjective"
+   ],
+   "title": "{{PLAYER}} being...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "79783",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} trips in front of their hero",
+   "tags": [
+    "#da-personal",
+    "subjective"
+   ],
+   "title": "{{PLAYER}}...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "80033",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s true form",
+   "tags": [
+    "subjective"
+   ],
+   "title": "{{PLAYER}}'s...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "80034",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} achieves their dream",
+   "tags": [
+    "subjective"
+   ],
+   "title": "{{PLAYER}}...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "80154",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} on the cover of a romance novel",
+   "tags": [
+    "literal"
+   ],
+   "title": "{{PLAYER}}...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "80155",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s royal palace",
+   "tags": [
+    "nonhuman"
+   ],
+   "title": "{{PLAYER}}'s...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "80156",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s favorite midnight snack",
+   "tags": [
+    "nonhuman"
+   ],
+   "title": "{{PLAYER}}'s...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "80157",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} as a fairytale villain",
+   "tags": [
+    "literal"
+   ],
+   "title": "{{PLAYER}}...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "80158",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s favorite store at the mall",
+   "tags": [
+    "nonhuman"
+   ],
+   "title": "{{PLAYER}}'s...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "80159",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s recipe for relaxation",
+   "tags": [
+    "subjective"
+   ],
+   "title": "{{PLAYER}}'s...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "80160",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} as a terrifying children's TV show character",
+   "tags": [
+    "literal"
+   ],
+   "title": "{{PLAYER}}...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "80162",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s dream job",
+   "tags": [
+    "subjective"
+   ],
+   "title": "{{PLAYER}}'s...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "80194",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s first childhood memory",
+   "tags": [
+    "subjective"
+   ],
+   "title": "{{PLAYER}}'s...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "80196",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} five minutes ago",
+   "tags": [
+    "subjective"
+   ],
+   "title": "{{PLAYER}}...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "80200",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} trying to flirt",
+   "tags": [
+    "subjective"
+   ],
+   "title": "{{PLAYER}}...",
+   "x": true
+  },
+  {
+   "altSpellings": [],
+   "id": "80202",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s best life decision",
+   "tags": [
+    "subjective"
+   ],
+   "title": "{{PLAYER}}'s...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "80350",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s perfect tuesday night",
+   "tags": [
+    "subjective"
+   ],
+   "title": "{{PLAYER}}'s...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "80351",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s guilty pleasure",
+   "tags": [
+    "subjective"
+   ],
+   "title": "{{PLAYER}}'s...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "80352",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s favorite dance move",
+   "tags": [
+    "subjective"
+   ],
+   "title": "{{PLAYER}}'s...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "80354",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s big night out",
+   "tags": [
+    "subjective"
+   ],
+   "title": "{{PLAYER}}'s...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "80355",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s favorite party theme",
+   "tags": [
+    "nonhuman"
+   ],
+   "title": "{{PLAYER}}'s...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "80356",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s dream concert",
+   "tags": [
+    "nonhuman"
+   ],
+   "title": "{{PLAYER}}'s...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "80405",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s favorite dessert exploding",
+   "tags": [
+    "literal",
+    "nonhuman"
+   ],
+   "title": "{{PLAYER}}'s...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "80407",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} sneaking a midnight snack",
+   "tags": [
+    "literal",
+    "nonhuman"
+   ],
+   "title": "{{PLAYER}}...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "80408",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s features are changing places",
+   "tags": [
+    "literal"
+   ],
+   "title": "{{PLAYER}}'s...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "80472",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s reason for going viral one day",
+   "tags": [
+    "subjective"
+   ],
+   "title": "{{PLAYER}}'s...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "80475",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s unfinished business",
+   "tags": [
+    "subjective"
+   ],
+   "title": "{{PLAYER}}'s...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "80477",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s midlife crisis",
+   "tags": [
+    "subjective"
+   ],
+   "title": "{{PLAYER}}'s...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "80478",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} in the last scene of their biopic",
+   "tags": [
+    "subjective"
+   ],
+   "title": "{{PLAYER}}...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "80485",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} if they were a tiktok star",
+   "tags": [
+    "subjective"
+   ],
+   "title": "{{PLAYER}} if...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "80486",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s great-great-great grandchild",
+   "tags": [
+    "nonhuman"
+   ],
+   "title": "{{PLAYER}}'s...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "80487",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} if they were born in the 1800s",
+   "tags": [
+    "literal"
+   ],
+   "title": "{{PLAYER}} if...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "80488",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} in a parallel universe",
+   "tags": [
+    "subjective"
+   ],
+   "title": "{{PLAYER}}...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "80489",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s recurring dream",
+   "tags": [
+    "subjective"
+   ],
+   "title": "{{PLAYER}}'s...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "80490",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s last daydream",
+   "tags": [
+    "subjective"
+   ],
+   "title": "{{PLAYER}}'s...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "80491",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s least favorite activity",
+   "tags": [
+    "subjective"
+   ],
+   "title": "{{PLAYER}}'s...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "80492",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s fever dream",
+   "tags": [
+    "subjective"
+   ],
+   "title": "{{PLAYER}}'s...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "80493",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s hell",
+   "tags": [
+    "subjective"
+   ],
+   "title": "{{PLAYER}}'s...",
+   "x": true
+  },
+  {
+   "altSpellings": [],
+   "id": "80495",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s idea of working out",
+   "tags": [
+    "subjective"
+   ],
+   "title": "{{PLAYER}}'s...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "80496",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s upcoming scandal",
+   "tags": [
+    "subjective"
+   ],
+   "title": "{{PLAYER}}'s...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "80498",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} in an olympic event they'd dominate",
+   "tags": [
+    "subjective"
+   ],
+   "title": "{{PLAYER}}...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "80499",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s imagination land",
+   "tags": [
+    "subjective"
+   ],
+   "title": "{{PLAYER}}'s...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "80500",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s idea of a *wild night*",
+   "tags": [
+    "subjective"
+   ],
+   "title": "{{PLAYER}}'s idea of...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "80501",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} going ham",
+   "tags": [
+    "subjective"
+   ],
+   "title": "{{PLAYER}}...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "80503",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s vision of heaven",
+   "tags": [
+    "subjective"
+   ],
+   "title": "{{PLAYER}}'s...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "80507",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s job in 10 years",
+   "tags": [
+    "subjective"
+   ],
+   "title": "{{PLAYER}}'s...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "80586",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s stunning makeover",
+   "tags": [
+    "da-personal",
+    "subjective"
+   ],
+   "title": "{{PLAYER}}'s...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "80589",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} in beast mode",
+   "tags": [
+    "subjective"
+   ],
+   "title": "{{PLAYER}}...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "80933",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s special move",
+   "tags": [
+    "subjective"
+   ],
+   "title": "{{PLAYER}}'s...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "80934",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} on opposite day",
+   "tags": [
+    "subjective"
+   ],
+   "title": "{{PLAYER}}...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "80935",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s favorite activity",
+   "tags": [
+    "subjective"
+   ],
+   "title": "{{PLAYER}}'s...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "80938",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s favorite tv show",
+   "tags": [
+    "subjective"
+   ],
+   "title": "{{PLAYER}}'s...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "80940",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} when watching reality tv",
+   "tags": [
+    "subjective"
+   ],
+   "title": "{{PLAYER}} when...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "80942",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} after they cancel plans",
+   "tags": [
+    "subjective"
+   ],
+   "title": "{{PLAYER}}...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "80944",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s mind when meditating",
+   "tags": [
+    "subjective"
+   ],
+   "title": "{{PLAYER}}'s...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "80948",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s poorly made clone",
+   "tags": [
+    "literal"
+   ],
+   "title": "{{PLAYER}}'s...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "80951",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} when they skip school",
+   "tags": [
+    "subjective"
+   ],
+   "title": "{{PLAYER}} when...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "80953",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s reaction to being the center of attention",
+   "tags": [
+    "subjective"
+   ],
+   "title": "{{PLAYER}}'s...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "80956",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} morphing into a pokemon character",
+   "tags": [
+    "literal"
+   ],
+   "title": "{{PLAYER}}...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "80992",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s idea of a romantic gesture",
+   "tags": [
+    "da-personal",
+    "subjective"
+   ],
+   "title": "{{PLAYER}}'s idea of...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "80993",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} literally right now",
+   "tags": [
+    "da-personal",
+    "subjective"
+   ],
+   "title": "{{PLAYER}}...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "80994",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s secret nemesis",
+   "tags": [
+    "nonhuman"
+   ],
+   "title": "{{PLAYER}}'s...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "80996",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s imaginary friend",
+   "tags": [
+    "nonhuman"
+   ],
+   "title": "{{PLAYER}}'s...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "81029",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s most embarrassing moment",
+   "tags": [
+    "subjective"
+   ],
+   "title": "{{PLAYER}}'s...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "81042",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s first act as president",
+   "tags": [
+    "subjective"
+   ],
+   "title": "{{PLAYER}}'s...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "81056",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s idea of a good prank",
+   "tags": [
+    "subjective"
+   ],
+   "title": "{{PLAYER}}'s idea of...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "81059",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s archnemesis",
+   "tags": [
+    "subjective"
+   ],
+   "title": "{{PLAYER}}'s...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "81084",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s first act after winning the lottery",
+   "tags": [
+    "subjective"
+   ],
+   "title": "{{PLAYER}}'s...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "81087",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s idea of the worst job",
+   "tags": [
+    "subjective"
+   ],
+   "title": "{{PLAYER}}'s idea of...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "81088",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} creating a distraction",
+   "tags": [
+    "subjective"
+   ],
+   "title": "{{PLAYER}}...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "81089",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s day summed up",
+   "tags": [
+    "subjective"
+   ],
+   "title": "{{PLAYER}}'s...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "81352",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} going undercover at a high school",
+   "tags": [
+    "literal"
+   ],
+   "title": "{{PLAYER}}...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "81353",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} is always thinking about this",
+   "tags": [
+    "nonhuman"
+   ],
+   "title": "{{PLAYER}} is...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "81450",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s secret plan for later",
+   "tags": [
+    "subjective"
+   ],
+   "title": "{{PLAYER}}'s...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "81455",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s current obsession",
+   "tags": [
+    "da-personal",
+    "subjective"
+   ],
+   "title": "{{PLAYER}}'s...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "82092",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} if they were a street performer",
+   "tags": [
+    "odd"
+   ],
+   "title": "{{PLAYER}} if...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "82141",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} would lead this cult",
+   "tags": [
+    "subjective"
+   ],
+   "title": "{{PLAYER}}...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "82143",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} in high school",
+   "tags": [
+    "subjective"
+   ],
+   "title": "{{PLAYER}}...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "82548",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s most cherished memory",
+   "tags": [
+    "subjective"
+   ],
+   "title": "{{PLAYER}}'s...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "82656",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} in the school play",
+   "tags": [
+    "literal"
+   ],
+   "title": "{{PLAYER}}...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "82659",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} gettin down",
+   "tags": [
+    "da-spencer",
+    "literal"
+   ],
+   "title": "{{PLAYER}}...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "82696",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s pov while surfing the web",
+   "tags": [
+    "nonhuman"
+   ],
+   "title": "{{PLAYER}}'s...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "82697",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s skin care routine",
+   "tags": [
+    "nonhuman"
+   ],
+   "title": "{{PLAYER}}'s...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "82731",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} hip wigglin'",
+   "tags": [
+    "literal"
+   ],
+   "title": "{{PLAYER}}...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "82769",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} growing tulip hair",
+   "tags": [
+    "literal"
+   ],
+   "title": "{{PLAYER}}...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "82770",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} at the clone store",
+   "tags": [
+    "da-personal",
+    "literal"
+   ],
+   "title": "{{PLAYER}}...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "82774",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} is a dumpling now",
+   "tags": [
+    "literal"
+   ],
+   "title": "{{PLAYER}} is...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "82829",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s descent into madness",
+   "tags": [
+    "subjective"
+   ],
+   "title": "{{PLAYER}}'s...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "82830",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s greatest mistake :)",
+   "tags": [
+    "subjective"
+   ],
+   "title": "{{PLAYER}}'s...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "82831",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} and the beast, tra la la la la",
+   "tags": [
+    "literal"
+   ],
+   "title": "{{PLAYER}}...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "82832",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} thinks about this b4 falling asleep",
+   "tags": [
+    "nonhuman",
+    "odd"
+   ],
+   "title": "{{PLAYER}}...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "82833",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} does this when ain't nobody watchin",
+   "tags": [],
+   "title": "{{PLAYER}}...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "82835",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} loves these two things exactly equally",
+   "tags": [
+    "nonhuman"
+   ],
+   "title": "{{PLAYER}}...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "82853",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} as an extra in their fave movie",
+   "tags": [
+    "da-personal"
+   ],
+   "title": "{{PLAYER}}...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "82858",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} is on the News!",
+   "tags": [
+    "literal"
+   ],
+   "title": "{{PLAYER}} is...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "82901",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} wore this (??!) to be fancy !??>?!",
+   "tags": [
+    "odd"
+   ],
+   "title": "{{PLAYER}}...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "82903",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} wouldn't be caught dead here",
+   "tags": [
+    "nonhuman"
+   ],
+   "title": "{{PLAYER}}...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "83001",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s general vibes",
+   "tags": [
+    "nonhuman"
+   ],
+   "title": "{{PLAYER}}'s...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "83004",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} unsupervised",
+   "tags": [
+    "subjective"
+   ],
+   "title": "{{PLAYER}}...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "83005",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s ultimate middle school fantasy",
+   "tags": [
+    "nonhuman"
+   ],
+   "title": "{{PLAYER}}'s...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "83073",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} wasting genie wishes on frivolous junk",
+   "tags": [
+    "da-personal",
+    "literal"
+   ],
+   "title": "{{PLAYER}}...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "83346",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} “with child” but the child is many meatballs",
+   "tags": [
+    "literal"
+   ],
+   "title": "{{PLAYER}}...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "83347",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} trying to express normal healthy human love",
+   "tags": [
+    "subjective"
+   ],
+   "title": "{{PLAYER}}...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "83348",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} would immediately pee if they saw this",
+   "tags": [
+    "nonhuman"
+   ],
+   "title": "{{PLAYER}}...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "83349",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} being a horrible role model",
+   "tags": [
+    "subjective"
+   ],
+   "title": "{{PLAYER}} being...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "83350",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} being.... patriotic ???",
+   "tags": [
+    "odd"
+   ],
+   "title": "{{PLAYER}} being...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "83351",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} is a crappy off-brand cereal mascot",
+   "tags": [
+    "literal"
+   ],
+   "title": "{{PLAYER}} is...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "83352",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} when thrown in the middle of the dance circle",
+   "tags": [
+    "odd"
+   ],
+   "title": "{{PLAYER}} when...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "83353",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s secret \"basement collection\"",
+   "tags": [
+    "nonhuman"
+   ],
+   "title": "{{PLAYER}}'s...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "83354",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} ! dont go in there, its full of nightmare",
+   "tags": [
+    "odd"
+   ],
+   "title": "{{PLAYER}}...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "83355",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} university: there's lots to learn here",
+   "tags": [
+    "odd"
+   ],
+   "title": "{{PLAYER}}...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "83356",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} is in troouuuble for this one. moooom!!!",
+   "tags": [
+    "odd"
+   ],
+   "title": "{{PLAYER}} is...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "83357",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} will regret this moment forever",
+   "tags": [
+    "subjective"
+   ],
+   "title": "{{PLAYER}}...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "83358",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} would be \"athletic\" if this was a sport",
+   "tags": [
+    "odd"
+   ],
+   "title": "{{PLAYER}}...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "83359",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} daaaaaang, you look good. dang.",
+   "tags": [
+    "odd"
+   ],
+   "title": "{{PLAYER}}...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "83360",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} eating the spiciest thing they can handle",
+   "tags": [
+    "odd"
+   ],
+   "title": "{{PLAYER}}...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "83448",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} having a bad time!",
+   "tags": [
+    "subjective"
+   ],
+   "title": "{{PLAYER}}...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "83450",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s secret ambition",
+   "tags": [
+    "subjective"
+   ],
+   "title": "{{PLAYER}}'s...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "83451",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s last big project",
+   "tags": [
+    "subjective"
+   ],
+   "title": "{{PLAYER}}'s...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "83453",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} does this in the darkness",
+   "tags": [
+    "subjective"
+   ],
+   "title": "{{PLAYER}}...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "83454",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s vacation self",
+   "tags": [
+    "subjective"
+   ],
+   "title": "{{PLAYER}}'s...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "83455",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} ...don't do that!",
+   "tags": [
+    "odd"
+   ],
+   "title": "{{PLAYER}}...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "83456",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s third favorite thing",
+   "tags": [
+    "nonhuman"
+   ],
+   "title": "{{PLAYER}}'s...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "83659",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} has seized control of the universe",
+   "tags": [
+    "odd"
+   ],
+   "title": "{{PLAYER}}...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "83660",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s drawer of beloved keepsakes",
+   "tags": [
+    "nonhuman"
+   ],
+   "title": "{{PLAYER}}'s...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "83662",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} won't stop breakdancing",
+   "tags": [
+    "literal"
+   ],
+   "title": "{{PLAYER}}...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "83664",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} has gone rogue ... omg",
+   "tags": [
+    "odd"
+   ],
+   "title": "{{PLAYER}}...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "83671",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} wrestling with their conscience",
+   "tags": [
+    "literal"
+   ],
+   "title": "{{PLAYER}}...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "83695",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} drank from the wrong grail! AHHG!!",
+   "tags": [
+    "literal"
+   ],
+   "title": "{{PLAYER}}...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "83734",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} snackin' on a snacky snack",
+   "tags": [
+    "literal"
+   ],
+   "title": "{{PLAYER}}...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "83735",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s own little world :)",
+   "tags": [
+    "subjective"
+   ],
+   "title": "{{PLAYER}}'s...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "83738",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} isn't allowed in there! nooooo stop",
+   "tags": [
+    "odd"
+   ],
+   "title": "{{PLAYER}}...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "83902",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} manually changing the leaves for the season",
+   "tags": [
+    "da-personal",
+    "literal"
+   ],
+   "title": "{{PLAYER}}...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "84246",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} cannot handle this",
+   "tags": [
+    "subjective"
+   ],
+   "title": "{{PLAYER}}...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "84248",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s morning routine",
+   "tags": [
+    "subjective"
+   ],
+   "title": "{{PLAYER}}'s...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "84437",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s social media presence",
+   "tags": [
+    "nonhuman"
+   ],
+   "title": "{{PLAYER}}'s...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "84438",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} deadlifts pizza people",
+   "tags": [
+    "da-personal",
+    "literal"
+   ],
+   "title": "{{PLAYER}}...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "84439",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} dressed for the wronggg weather",
+   "tags": [
+    "odd"
+   ],
+   "title": "{{PLAYER}}...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "84440",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} is a sparkly vampire now",
+   "tags": [
+    "odd"
+   ],
+   "title": "{{PLAYER}} is...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "84696",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} and their best pal, horsemonster",
+   "tags": [
+    "da-personal",
+    "literal"
+   ],
+   "title": "{{PLAYER}}...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "84699",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s boundless rage",
+   "tags": [
+    "literal"
+   ],
+   "title": "{{PLAYER}}'s...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "84701",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s wallet contents",
+   "tags": [
+    "nonhuman"
+   ],
+   "title": "{{PLAYER}}'s...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "84906",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s favorite sauce. is all over.",
+   "tags": [
+    "nonhuman"
+   ],
+   "title": "{{PLAYER}}'s...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "85096",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} is on sicko mode",
+   "tags": [
+    "da-personal"
+   ],
+   "title": "{{PLAYER}} is...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "85097",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} literally eating their feelings",
+   "tags": [
+    "da-personal",
+    "literal"
+   ],
+   "title": "{{PLAYER}}...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "85099",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} is actually who wiped out the dinosaurs",
+   "tags": [
+    "da-personal",
+    "literal"
+   ],
+   "title": "{{PLAYER}} is...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "85100",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} is the iceberg that did you know what",
+   "tags": [],
+   "title": "{{PLAYER}} is...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "85106",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} as a sesame street muppety thing",
+   "tags": [
+    "da-personal",
+    "literal"
+   ],
+   "title": "{{PLAYER}}...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "85146",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} dipping a toe in a blackhole",
+   "tags": [
+    "literal"
+   ],
+   "title": "{{PLAYER}}...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "85153",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s pov lookin into a crystal ball",
+   "tags": [
+    "nonhuman"
+   ],
+   "title": "{{PLAYER}}'s...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "85625",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} crafting their masterpiece",
+   "tags": [
+    "subjective"
+   ],
+   "title": "{{PLAYER}}...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "85629",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s mom enjoying Sunday",
+   "tags": [
+    "nonhuman"
+   ],
+   "title": "{{PLAYER}}'s...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "85673",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} really going for it with earrings",
+   "tags": [
+    "literal"
+   ],
+   "title": "{{PLAYER}}...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "85677",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} falling asleep on the trapeze",
+   "tags": [
+    "literal"
+   ],
+   "title": "{{PLAYER}}...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "85686",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} doing secret stuff in the attic",
+   "tags": [
+    "odd"
+   ],
+   "title": "{{PLAYER}}...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "85689",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s brain + the wacky nonsense in there",
+   "tags": [
+    "odd"
+   ],
+   "title": "{{PLAYER}}'s...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "85690",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s greatest achievement so far",
+   "tags": [
+    "subjective"
+   ],
+   "title": "{{PLAYER}}'s...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "85693",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s wild alien encounter",
+   "tags": [
+    "odd"
+   ],
+   "title": "{{PLAYER}}'s...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "85723",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} in the gift shop at the zoo??",
+   "tags": [
+    "literal"
+   ],
+   "title": "{{PLAYER}}...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "85725",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} singing with the chickens",
+   "tags": [
+    "literal"
+   ],
+   "title": "{{PLAYER}}...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "85909",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} sees themself like this",
+   "tags": [
+    "subjective"
+   ],
+   "title": "{{PLAYER}}...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "85910",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} if they were a parade float",
+   "tags": [
+    "subjective"
+   ],
+   "title": "{{PLAYER}} if...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "85911",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s special skill",
+   "tags": [
+    "subjective"
+   ],
+   "title": "{{PLAYER}}'s...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "85912",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} if they were on the bachelorette",
+   "tags": [],
+   "title": "{{PLAYER}} if...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "85914",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s morning routine",
+   "tags": [
+    "subjective"
+   ],
+   "title": "{{PLAYER}}'s...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "85980",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s one chance at true love",
+   "tags": [
+    "da-personal"
+   ],
+   "title": "{{PLAYER}}'s...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "85982",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s first sight upon waking",
+   "tags": [
+    "da-personal"
+   ],
+   "title": "{{PLAYER}}'s...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "85983",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} had this in their HS locker",
+   "tags": [
+    "da-personal"
+   ],
+   "title": "{{PLAYER}}'s...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "85987",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} would hate this vacation",
+   "tags": [
+    "subjective"
+   ],
+   "title": "{{PLAYER}}...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "85999",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} is way too proud of this",
+   "tags": [
+    "nonhuman"
+   ],
+   "title": "{{PLAYER}} is...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "86005",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} getting their wish granted",
+   "tags": [
+    "subjective"
+   ],
+   "title": "{{PLAYER}}...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "86021",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} gets nervous about this",
+   "tags": [],
+   "title": "{{PLAYER}}...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "86040",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s idea of a bad wedding",
+   "tags": [
+    "da-personal"
+   ],
+   "title": "{{PLAYER}}'s idea of...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "86041",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} when the caffeine finally hits",
+   "tags": [
+    "da-personal"
+   ],
+   "title": "{{PLAYER}} when...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "86071",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} being a silly goose",
+   "tags": [
+    "da-personal"
+   ],
+   "title": "{{PLAYER}} being...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "86072",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} if time travel was possible",
+   "tags": [
+    "da-personal"
+   ],
+   "title": "{{PLAYER}} if...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "86073",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} painted by a le fancy artiste",
+   "tags": [
+    "da-personal"
+   ],
+   "title": "{{PLAYER}}...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "86074",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} has trouble with this",
+   "tags": [
+    "da-personal"
+   ],
+   "title": "{{PLAYER}}...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "86075",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} when the lights come on at the club",
+   "tags": [
+    "da-personal"
+   ],
+   "title": "{{PLAYER}} when...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "86079",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} is in charge of the clams now",
+   "tags": [
+    "da-personal"
+   ],
+   "title": "{{PLAYER}} is...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "86082",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} would totally own this toy",
+   "tags": [
+    "da-personal"
+   ],
+   "title": "{{PLAYER}}...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "86114",
+   "isValid": "",
+   "joke": "And yes, we put that typo in there to annoy you, Alan. You need to loosen up.",
+   "prompt": "{{PLAYER}}'s junk underneth their bed",
+   "tags": [
+    "da-personal",
+    "da-typo"
+   ],
+   "title": "{{PLAYER}}'s...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "86187",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} if they were reassembled haphazardly",
+   "tags": [
+    "da-personal"
+   ],
+   "title": "{{PLAYER}} if...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "86190",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s idea of fine dining",
+   "tags": [
+    "da-personal"
+   ],
+   "title": "{{PLAYER}}'s idea of...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "86196",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s nightmare fuel",
+   "tags": [
+    "da-personal"
+   ],
+   "title": "{{PLAYER}}'s...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "86202",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} thinks this is the worst thing ever invented",
+   "tags": [
+    "da-personal"
+   ],
+   "title": "{{PLAYER}}...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "86205",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} is literally magnetic",
+   "tags": [
+    "da-personal"
+   ],
+   "title": "{{PLAYER}} is...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "86210",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s hands making a peculiar sandwich",
+   "tags": [
+    "da-personal"
+   ],
+   "title": "{{PLAYER}}'s...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "86226",
+   "isValid": "",
+   "joke": "Yeah, sometimes there's a typo in the correct answer.",
+   "prompt": "{{PLAYER}} (dun dun dun) was t he murderer all along!!!!",
+   "tags": [
+    "da-personal",
+    "da-typo"
+   ],
+   "title": "{{PLAYER}}...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "86329",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s teenage rebellion",
+   "tags": [
+    "da-personal"
+   ],
+   "title": "{{PLAYER}}'s...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "86332",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s deal with the devil",
+   "tags": [
+    "da-personal"
+   ],
+   "title": "{{PLAYER}}'s...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "86334",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s cursed family heirloom",
+   "tags": [
+    "da-personal"
+   ],
+   "title": "{{PLAYER}}'s...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "86335",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s idea of a hot robot butler",
+   "tags": [
+    "da-personal"
+   ],
+   "title": "{{PLAYER}}'s idea of...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "86336",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s idea of the end of the world",
+   "tags": [
+    "da-personal"
+   ],
+   "title": "{{PLAYER}}'s idea of...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "86338",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s targeted ads",
+   "tags": [
+    "da-personal"
+   ],
+   "title": "{{PLAYER}}'s...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "86369",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} when the stinkman gets them!!!!",
+   "tags": [],
+   "title": "{{PLAYER}} when...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "86373",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s idea of a hundred dollar shirt",
+   "tags": [],
+   "title": "{{PLAYER}}'s idea of...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "86374",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s reason to get out of bed",
+   "tags": [],
+   "title": "{{PLAYER}}'s...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "86381",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s pathetic snack",
+   "tags": [
+    "da-personal"
+   ],
+   "title": "{{PLAYER}}'s...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "86385",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s idea of an expensive date",
+   "tags": [
+    "da-personal"
+   ],
+   "title": "{{PLAYER}}'s idea of...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "86387",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} being a scawed wittle bay-bay",
+   "tags": [
+    "da-personal"
+   ],
+   "title": "{{PLAYER}} being...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "86389",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s most recent google",
+   "tags": [
+    "da-personal"
+   ],
+   "title": "{{PLAYER}}'s...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "86394",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} being impulsive!!",
+   "tags": [
+    "da-personal"
+   ],
+   "title": "{{PLAYER}} being...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "86401",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} when they have 20 free minutes",
+   "tags": [
+    "da-personal"
+   ],
+   "title": "{{PLAYER}} when...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "86402",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s idea to make goats better",
+   "tags": [
+    "da-personal"
+   ],
+   "title": "{{PLAYER}}'s...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "86403",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} when it's hot hot hot out",
+   "tags": [
+    "da-personal"
+   ],
+   "title": "{{PLAYER}} when...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "86405",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} when there's no more coffee",
+   "tags": [
+    "da-personal"
+   ],
+   "title": "{{PLAYER}} when...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "86408",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s idea of the best water slide",
+   "tags": [
+    "da-personal"
+   ],
+   "title": "{{PLAYER}}'s idea of...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "86409",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s idea of true bliss",
+   "tags": [
+    "da-personal"
+   ],
+   "title": "{{PLAYER}}'s idea of...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "86417",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s idea to solve climate change",
+   "tags": [
+    "da-personal"
+   ],
+   "title": "{{PLAYER}}'s...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "86418",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s idea of sick transportation",
+   "tags": [
+    "da-personal"
+   ],
+   "title": "{{PLAYER}}'s idea of...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "86419",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s idea for fixing the government",
+   "tags": [
+    "da-personal"
+   ],
+   "title": "{{PLAYER}}'s...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "86420",
+   "isValid": "",
+   "joke": "Yes, it's a typo. Grow up!",
+   "prompt": "{{PLAYER}} wehn they turn 100",
+   "tags": [
+    "da-personal",
+    "da-typo"
+   ],
+   "title": "{{PLAYER}}...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "86427",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} after getting nothing from Santa",
+   "tags": [
+    "da-personal"
+   ],
+   "title": "{{PLAYER}}...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "86428",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} as a teenager in the 80s",
+   "tags": [
+    "da-personal"
+   ],
+   "title": "{{PLAYER}}...",
+   "x": false
+  },
+  {
+   "altSpellings": [],
+   "id": "86431",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}} being born",
+   "tags": [
+    "da-personal"
+   ],
+   "title": "{{PLAYER}} being...",
+   "x": true
+  },
+  {
+   "altSpellings": [],
+   "id": "86432",
+   "isValid": "",
+   "joke": null,
+   "prompt": "{{PLAYER}}'s idea of total boredom",
+   "tags": [
+    "da-personal"
+   ],
+   "title": "{{PLAYER}}'s idea of...",
+   "x": false
+  }
+ ]
+}
