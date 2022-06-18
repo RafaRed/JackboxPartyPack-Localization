@@ -1,0 +1,7130 @@
+{
+ "content": [
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Russian Federation",
+      "The Russian Federation"
+     ],
+     "hint": "There's one that shares a border with Kazakhstan. Enormous proportions.",
+     "text": "Russia"
+    },
+    {
+     "altSpellings": [],
+     "hint": "What's that big North American country?",
+     "text": "Canada"
+    },
+    {
+     "altSpellings": [
+      "US",
+      "United States",
+      "America",
+      "The US",
+      "The United States of America",
+      "United States of America",
+      "U.S.A.",
+      "U.S.",
+      "The United States"
+     ],
+     "hint": "",
+     "text": "USA"
+    },
+    {
+     "altSpellings": [
+      "Mainland China",
+      "People's Republic of China",
+      "PRC",
+      "The People's Republic of China"
+     ],
+     "hint": "I'm thinking of a large Asian country.",
+     "text": "China"
+    },
+    {
+     "altSpellings": [
+      "Brasil",
+      "Federative Republic of Brazil"
+     ],
+     "hint": "",
+     "text": "Brazil"
+    },
+    {
+     "altSpellings": [
+      "Commonwealth of Australia"
+     ],
+     "hint": "Try searching... down under.",
+     "text": "Australia"
+    },
+    {
+     "altSpellings": [
+      "Republic of India"
+     ],
+     "hint": "",
+     "text": "India"
+    },
+    {
+     "altSpellings": [
+      "Argentine Republic"
+     ],
+     "hint": "",
+     "text": "Argentina"
+    }
+   ],
+   "category": "Geography & Landmarks",
+   "exactSpelling": false,
+   "id": "76584",
+   "isValid": "",
+   "prompt": "Which countries are larger than Kazakhstan by land mass?",
+   "subtype": "name",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "burger",
+      "patty",
+      "hamburger",
+      "meat",
+      "flame-grilled beef"
+     ],
+     "hint": "",
+     "text": "beef"
+    },
+    {
+     "altSpellings": [
+      "tomatoes"
+     ],
+     "hint": "",
+     "text": "tomato"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Don't forget your greens.",
+     "text": "lettuce"
+    },
+    {
+     "altSpellings": [
+      "mayo"
+     ],
+     "hint": "",
+     "text": "mayonnaise"
+    },
+    {
+     "altSpellings": [
+      "catsup"
+     ],
+     "hint": "Think about condiments! Like... the red one.",
+     "text": "ketchup"
+    },
+    {
+     "altSpellings": [
+      "pickle"
+     ],
+     "hint": "",
+     "text": "pickles"
+    },
+    {
+     "altSpellings": [
+      "onion",
+      "sliced onions",
+      "white onions",
+      "raw onions"
+     ],
+     "hint": "One of these ingredients really brings a tear to my eye.",
+     "text": "onions"
+    },
+    {
+     "altSpellings": [
+      "bun",
+      "sesame seeds",
+      "bread",
+      "sesame bun"
+     ],
+     "hint": "To top it off, you'll need this!",
+     "text": "sesame seed bun"
+    }
+   ],
+   "category": "Food & Drink",
+   "exactSpelling": false,
+   "id": "76586",
+   "isValid": "",
+   "prompt": "What are the traditional ingredients in a Burger King Whopper?",
+   "subtype": "name",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "New Years"
+     ],
+     "hint": "",
+     "text": "New Year's Day"
+    },
+    {
+     "altSpellings": [
+      "MLK Day",
+      "Martin Luther King Day",
+      "Martin Luther King Junior Day",
+      "MLK",
+      "Martin Luther King",
+      "Martin Luther King Jr. Day",
+      "Martin Luther King Jr.",
+      "Martin Luther King Junior"
+     ],
+     "hint": "The newest one honors a trailblazer in January.",
+     "text": "Martin Luther King's Birthday"
+    },
+    {
+     "altSpellings": [
+      "George Washington's Birthday",
+      "Washington's Bday",
+      "George Washington Day",
+      "George Washington's Bday",
+      "George Washington",
+      "President's Day",
+      "President Day"
+     ],
+     "hint": "",
+     "text": "Washington's Birthday"
+    },
+    {
+     "altSpellings": [
+      "Fourth of July",
+      "4th of July",
+      "July Fourth",
+      "July 4th"
+     ],
+     "hint": "",
+     "text": "Independence Day"
+    },
+    {
+     "altSpellings": [
+      "Labor",
+      "Labor Day Weekend"
+     ],
+     "hint": "Don't work too hard to come up with THIS one.",
+     "text": "Labor Day"
+    },
+    {
+     "altSpellings": [
+      "Indigenous Peoples' Day",
+      "Cristopher Columbus Day",
+      "Columbus",
+      "Indigenous People Day",
+      "Native American Day",
+      "Discoverers' Day",
+      "Christopher Columbus"
+     ],
+     "hint": "",
+     "text": "Columbus Day"
+    },
+    {
+     "altSpellings": [
+      "Veterans",
+      "Armistice Day"
+     ],
+     "hint": "",
+     "text": "Veterans Day"
+    },
+    {
+     "altSpellings": [
+      "Thanksgiving",
+      "Turkey Day"
+     ],
+     "hint": "",
+     "text": "Thanksgiving Day"
+    },
+    {
+     "altSpellings": [
+      "Christmas",
+      "Xmas",
+      "Xmas Day"
+     ],
+     "hint": "",
+     "text": "Christmas Day"
+    },
+    {
+     "altSpellings": [
+      "Memorial Day Weekend",
+      "Decoration Day",
+      "Memorial"
+     ],
+     "hint": "One of these you should always REMEMBER.",
+     "text": "Memorial Day"
+    }
+   ],
+   "category": "Calendar/Holidays",
+   "exactSpelling": false,
+   "id": "76588",
+   "isValid": "",
+   "prompt": "What are the Federal holidays in the U.S.?",
+   "subtype": "name",
+   "us": true,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "partridge in a pear tree",
+      "a partridge in a pear tree"
+     ],
+     "hint": "",
+     "text": "partridge"
+    },
+    {
+     "altSpellings": [
+      "calling",
+      "colly bird",
+      "four calling birds",
+      "4 calling birds",
+      "blackbird",
+      "Eurasian blackbird"
+     ],
+     "hint": "",
+     "text": "calling birds"
+    },
+    {
+     "altSpellings": [
+      "hens",
+      "chickens",
+      "three french hens",
+      "3 french hens"
+     ],
+     "hint": "Domestic chickens anyone?",
+     "text": "French hens"
+    },
+    {
+     "altSpellings": [
+      "doves",
+      "two turtle doves",
+      "2 turtle doves"
+     ],
+     "hint": "",
+     "text": "turtle doves"
+    },
+    {
+     "altSpellings": [
+      "seven swans",
+      "7 swans",
+      "seven swans a-swimming",
+      "7 swans a-swimming"
+     ],
+     "hint": "Seven of THESE are... a-swimming",
+     "text": "swans"
+    },
+    {
+     "altSpellings": [
+      "goose",
+      "six geese",
+      "6 geese",
+      "six geese a-laying",
+      "6 geese a-laying"
+     ],
+     "hint": "Six of THESE are... a-laying",
+     "text": "geese"
+    }
+   ],
+   "category": "Music",
+   "exactSpelling": false,
+   "id": "76590",
+   "isValid": "",
+   "prompt": "Which birds are mentioned in “The Twelve Days of Christmas”?",
+   "subtype": "name",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "noun"
+    },
+    {
+     "altSpellings": [
+      "lexical verb",
+      "auxiliary verb"
+     ],
+     "hint": "What's the word that's all about DOING things?",
+     "text": "verb"
+    },
+    {
+     "altSpellings": [
+      "adj"
+     ],
+     "hint": "enormous, majestic, round... sorry, I keep talking about myself",
+     "text": "adjective"
+    },
+    {
+     "altSpellings": [
+      "pro noun"
+     ],
+     "hint": "",
+     "text": "pronoun"
+    },
+    {
+     "altSpellings": [
+      "ad verb"
+     ],
+     "hint": "Think about the one that tends to end in -ly. Think about it!",
+     "text": "adverb"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Before, behind, below, beneath.. for example",
+     "text": "preposition"
+    },
+    {
+     "altSpellings": [
+      "conjuncture"
+     ],
+     "hint": "And... or... but.",
+     "text": "conjunction"
+    },
+    {
+     "altSpellings": [
+      "interject"
+     ],
+     "hint": "Here's a hint: HEY!!!... Did that help?",
+     "text": "interjection"
+    },
+    {
+     "altSpellings": [
+      "articles"
+     ],
+     "hint": "",
+     "text": "determiner"
+    }
+   ],
+   "category": "Language/Words/Grammar",
+   "exactSpelling": false,
+   "id": "76591",
+   "isValid": "",
+   "prompt": "What are the 9 parts of speech?",
+   "subtype": "name",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Conneticut"
+     ],
+     "hint": "",
+     "text": "Connecticut"
+    },
+    {
+     "altSpellings": [
+      "Road Island"
+     ],
+     "hint": "Don't forget that itty, bitty state. It's so cute.",
+     "text": "Rhode Island"
+    },
+    {
+     "altSpellings": [
+      "Mass",
+      "Massechusets"
+     ],
+     "hint": "",
+     "text": "Massachusetts"
+    },
+    {
+     "altSpellings": [
+      "New Hamshire",
+      "New Hamsure"
+     ],
+     "hint": "What's that one? It's not OLD Hampshire. Is it just Hampshire?",
+     "text": "New Hampshire"
+    },
+    {
+     "altSpellings": [
+      "Delawear"
+     ],
+     "hint": "",
+     "text": "Delaware"
+    },
+    {
+     "altSpellings": [
+      "Pencilvania"
+     ],
+     "hint": "What state is home to Philadelphia?",
+     "text": "Pennsylvania"
+    },
+    {
+     "altSpellings": [
+      "Jersey"
+     ],
+     "hint": "",
+     "text": "New Jersey"
+    },
+    {
+     "altSpellings": [
+      "NY"
+     ],
+     "hint": "The Big Apple. Why am I thinking of the Big Apple?",
+     "text": "New York"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "Virginia"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "Maryland"
+    },
+    {
+     "altSpellings": [
+      "North Caralina"
+     ],
+     "hint": "",
+     "text": "North Carolina"
+    },
+    {
+     "altSpellings": [
+      "South Caralina"
+     ],
+     "hint": "",
+     "text": "South Carolina"
+    },
+    {
+     "altSpellings": [],
+     "hint": "This southern state is a real peach!",
+     "text": "Georgia"
+    }
+   ],
+   "category": "History",
+   "exactSpelling": false,
+   "id": "76593",
+   "isValid": "",
+   "prompt": "What are the original 13 American colonies?",
+   "subtype": "name",
+   "us": true,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "text": "cadmium"
+    },
+    {
+     "altSpellings": [
+      "cesium"
+     ],
+     "text": "caesium"
+    },
+    {
+     "hint": "Quick hint... you can find it in a nice, cold glass of milk!",
+     "text": "calcium"
+    },
+    {
+     "hint": "One of these sounds like a large state on the west coast.",
+     "text": "californium"
+    },
+    {
+     "hint": "You're missing an easy one. It's one of the building blocks of life!",
+     "text": "carbon"
+    },
+    {
+     "text": "cerium"
+    },
+    {
+     "hint": "Hmm, what's that stuff they put in swimming pools?",
+     "text": "chlorine"
+    },
+    {
+     "text": "chromium"
+    },
+    {
+     "text": "cobalt"
+    },
+    {
+     "text": "copernicum"
+    },
+    {
+     "hint": "One of these things is coated on pennies!",
+     "text": "copper"
+    },
+    {
+     "text": "curium"
+    }
+   ],
+   "category": "Science & Medicine",
+   "exactSpelling": false,
+   "id": "76855",
+   "isValid": "",
+   "prompt": "Which chemical elements start with “C”?",
+   "subtype": "name",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Kris"
+     ],
+     "hint": "Don’t forget “K” spellings. I don’t discriminate.",
+     "text": "Chris"
+    },
+    {
+     "altSpellings": [
+      "Kristoff",
+      "Christoph",
+      "Kristoph"
+     ],
+     "text": "Christoff"
+    },
+    {
+     "altSpellings": [
+      "Kristo"
+     ],
+     "text": "Christo"
+    },
+    {
+     "altSpellings": [
+      "Kitt"
+     ],
+     "text": "Kit"
+    },
+    {
+     "altSpellings": [
+      "Chritter"
+     ],
+     "text": "Critter"
+    },
+    {
+     "altSpellings": [
+      "Christy",
+      "Kristy",
+      "Kristie"
+     ],
+     "text": "Christie"
+    },
+    {
+     "altSpellings": [
+      "Kristobal"
+     ],
+     "text": "Christobal"
+    },
+    {
+     "altSpellings": [
+      "Kristopherus",
+      "Christofferus",
+      "Kristofferus"
+     ],
+     "text": "Christopherus"
+    },
+    {
+     "altSpellings": [
+      "Toffer"
+     ],
+     "hint": "You might consider the back end of Christopher.",
+     "text": "Topher"
+    },
+    {
+     "altSpellings": [
+      "Kris Kross",
+      "Chris Cross",
+      "Criss-Cross",
+      "Chris-Cross",
+      "Kris-Kross"
+     ],
+     "text": "Criss Cross"
+    }
+   ],
+   "category": "Factoids",
+   "exactSpelling": true,
+   "id": "77196",
+   "isValid": "",
+   "prompt": "10 good nicknames for someone named “Christopher”",
+   "subtype": "subjective",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "scraper",
+      "pancake turner",
+      "turner",
+      "pancake flipper",
+      "flipper"
+     ],
+     "hint": "How can you flip pancakes without THIS?",
+     "text": "spatula"
+    },
+    {
+     "hint": "How can you stir batter without THIS? (aside) well, I suppose you could use anything.",
+     "text": "whisk"
+    },
+    {
+     "altSpellings": [
+      "ladel",
+      "soup ladle",
+      "soup ladel"
+     ],
+     "hint": "I've got a big scoop on a correct answer. And it's not an ice cream scooper.",
+     "text": "ladle"
+    },
+    {
+     "altSpellings": [
+      "bread knives"
+     ],
+     "text": "bread knife"
+    },
+    {
+     "altSpellings": [
+      "strainer"
+     ],
+     "hint": "Your strategy is full of holes!",
+     "text": "colander"
+    },
+    {
+     "altSpellings": [
+      "forks"
+     ],
+     "text": "fork"
+    },
+    {
+     "altSpellings": [
+      "masher",
+      "smasher",
+      "potato smasher"
+     ],
+     "text": "potato masher"
+    },
+    {
+     "altSpellings": [
+      "pizza cutter",
+      "pizza rocker",
+      "cutting wheel",
+      "wheel cutter",
+      "pizza wheel cutter",
+      "cutter wheel"
+     ],
+     "hint": "What sort of tool is good for a pepperoni with cheese?",
+     "text": "pizza wheel"
+    },
+    {
+     "altSpellings": [
+      "grater",
+      "cheese shredder",
+      "shredder"
+     ],
+     "hint": "Sure would be grate if you thought of this one. \"Grate.\"",
+     "text": "cheese grater"
+    },
+    {
+     "altSpellings": [
+      "skewers",
+      "kabob skewer",
+      "kabob stick"
+     ],
+     "text": "skewer"
+    },
+    {
+     "altSpellings": [
+      "chopstick"
+     ],
+     "hint": "Chinese food anyone?",
+     "text": "chopsticks"
+    },
+    {
+     "altSpellings": [
+      "cooking tongs",
+      "kitchen tongs"
+     ],
+     "text": "tongs"
+    },
+    {
+     "altSpellings": [
+      "roller pin",
+      "dough roller"
+     ],
+     "hint": "Roll out that dough!",
+     "text": "rolling pin"
+    },
+    {
+     "altSpellings": [
+      "wine opener",
+      "wine bottle opener",
+      "cork opener",
+      "corks screw"
+     ],
+     "hint": "Can't have any wine without THIS.",
+     "text": "corkscrew"
+    }
+   ],
+   "category": "Tools",
+   "exactSpelling": false,
+   "id": "77197",
+   "isValid": "",
+   "prompt": "My 14 Favorite Kitchen Utensils",
+   "subtype": "subjective",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "servings",
+      "amount per serving",
+      "portion",
+      "portion size"
+     ],
+     "text": "serving size"
+    },
+    {
+     "altSpellings": [
+      "cals"
+     ],
+     "hint": "THIS thing is in everything. Well, except like Coke Zero.",
+     "text": "calories"
+    },
+    {
+     "altSpellings": [
+      "total saturated fat",
+      "trans fat",
+      "saturated fat",
+      "fat content",
+      "total fat"
+     ],
+     "text": "fat"
+    },
+    {
+     "altSpellings": [
+      "colesterol"
+     ],
+     "hint": "Might want to try egg whites to avoid THIS one.",
+     "text": "cholesterol"
+    },
+    {
+     "altSpellings": [
+      "salt"
+     ],
+     "hint": "If you don't get THIS one, you may feel a bit salty about it.",
+     "text": "sodium"
+    },
+    {
+     "altSpellings": [
+      "carbohydrates",
+      "carbs"
+     ],
+     "hint": "What's that one that really packs on the pounds?",
+     "text": "carbohydrate"
+    },
+    {
+     "altSpellings": [
+      "proteins"
+     ],
+     "hint": "You gym rats should be familiar with THIS one.",
+     "text": "protein"
+    },
+    {
+     "altSpellings": [
+      "fiber",
+      "daily fiber"
+     ],
+     "hint": "You can find plenty of THIS one in bran muffins.",
+     "text": "dietary fiber"
+    },
+    {
+     "altSpellings": [
+      "total sugars",
+      "added sugars"
+     ],
+     "hint": "Don't forget the sweet one!",
+     "text": "sugar"
+    },
+    {
+     "altSpellings": [
+      "percentage daily value",
+      "DV",
+      "% daily value",
+      "% dv",
+      "percent daily value",
+      "daily percentage",
+      "percentage"
+     ],
+     "hint": "One of these is a percentage.",
+     "text": "daily value"
+    }
+   ],
+   "category": "Food & Drink",
+   "exactSpelling": false,
+   "id": "77199",
+   "isValid": "",
+   "prompt": "My 10 Favorite Words Found on Nutrition Labels",
+   "subtype": "subjective",
+   "us": true,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "syrah"
+     ],
+     "text": "Shiraz"
+    },
+    {
+     "altSpellings": [
+      "cabernet sauvignon",
+      "cab"
+     ],
+     "hint": "Allow me to help. What's another word for a taxi?",
+     "text": "Cabernet"
+    },
+    {
+     "altSpellings": [
+      "Bordeaux wine"
+     ],
+     "hint": "THIS one comes from a very specific region in France.",
+     "text": "Bordeaux"
+    },
+    {
+     "altSpellings": [
+      "Malbeck"
+     ],
+     "text": "Malbec"
+    },
+    {
+     "altSpellings": [
+      "Nebyolo",
+      "Nebolo",
+      "Nebbyolo"
+     ],
+     "hint": "There's that one that starts with an \"N.\"",
+     "text": "Nebbiolo"
+    },
+    {
+     "altSpellings": [
+      "Tempranila",
+      "Tempraniyo"
+     ],
+     "text": "Tempranillo"
+    },
+    {
+     "altSpellings": [
+      "Montapulchiano"
+     ],
+     "hint": "Don't forget that long one that starts with an \"M.\"",
+     "text": "Montepulciano"
+    },
+    {
+     "altSpellings": [
+      "Merlow",
+      "Murlow"
+     ],
+     "hint": "Of course there's the wine that everyone who doesn't drink wine says is their favorite. Does that help?",
+     "text": "Merlot"
+    },
+    {
+     "altSpellings": [
+      "Peno Noir",
+      "Pino Noir"
+     ],
+     "text": "Pinot Noir"
+    },
+    {
+     "altSpellings": [
+      "Kianti",
+      "Keyanti"
+     ],
+     "text": "Chianti"
+    },
+    {
+     "altSpellings": [
+      "Barolo wine"
+     ],
+     "text": "Barolo"
+    },
+    {
+     "altSpellings": [
+      "primitivo",
+      "zinfundell"
+     ],
+     "hint": "What's that one that starts with a Z?",
+     "text": "Zinfandel"
+    }
+   ],
+   "category": "Food & Drink",
+   "exactSpelling": false,
+   "id": "77201",
+   "isValid": "",
+   "prompt": "My 12 Preferred Red Wines for When I Need to... Unwind",
+   "subtype": "subjective",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Choclate"
+     ],
+     "hint": "(perturbed) I'm going to spell it out for you. Chocolate! Just type in chocolate!",
+     "text": "chocolate"
+    },
+    {
+     "hint": "Some might say it's the most boring flavor.",
+     "text": "vanilla"
+    },
+    {
+     "altSpellings": [
+      "straw berry"
+     ],
+     "text": "strawberry"
+    },
+    {
+     "altSpellings": [
+      "cookies and cream",
+      "cookies & cream",
+      "cookies cream"
+     ],
+     "text": "cookies 'n' cream"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Do you like your ice cream caffeinated?",
+     "text": "coffee"
+    },
+    {
+     "altSpellings": [
+      "choclate chip",
+      "mint chocolate chip"
+     ],
+     "text": "chocolate chip"
+    },
+    {
+     "altSpellings": [
+      "rockyroad"
+     ],
+     "hint": "Though the road may be long, hopefully it's also THIS.",
+     "text": "rocky road"
+    },
+    {
+     "altSpellings": [
+      "cookie doe"
+     ],
+     "text": "cookie dough"
+    },
+    {
+     "altSpellings": [
+      "buttered pecan",
+      "pecan"
+     ],
+     "hint": "One of my favorites is nice and buttery.",
+     "text": "butter pecan"
+    },
+    {
+     "altSpellings": [
+      "pistashio"
+     ],
+     "hint": "One of my faves has a green tinge with a nutty flavor.",
+     "text": "pistachio"
+    }
+   ],
+   "category": "Food & Drink",
+   "exactSpelling": false,
+   "id": "77203",
+   "isValid": "",
+   "prompt": "The 10 Best Ice Cream Flavors",
+   "subtype": "subjective",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Carry"
+     ],
+     "hint": "You'll never think of a high school dance the same after reading THIS one.",
+     "text": "[i]Carrie[/i]"
+    },
+    {
+     "altSpellings": [
+      "Shining"
+     ],
+     "text": "[i]The Shining[/i]"
+    },
+    {
+     "altSpellings": [
+      "Stand"
+     ],
+     "hint": "Will none of you take a stand?",
+     "text": "[i]The Stand[/i]"
+    },
+    {
+     "altSpellings": [
+      "Kujo"
+     ],
+     "hint": "What's that one about the dog? Starts with a \"C.\"",
+     "text": "[i]Cujo[/i]"
+    },
+    {
+     "altSpellings": [
+      "Pet Cemetery"
+     ],
+     "text": "[i]Pet Sematary[/i]"
+    },
+    {
+     "hint": "Stop \"clowning\" around. Just type... it... in.",
+     "text": "[i]IT[/i]"
+    },
+    {
+     "hint": "You'll feel miserable if you get THIS one.",
+     "text": "[i]Misery[/i]"
+    },
+    {
+     "altSpellings": [
+      "Geralds game"
+     ],
+     "hint": "I don't know what kind of GAME you're playing, but hopefully not this one.",
+     "text": "[i]Gerald's Game[/i]"
+    },
+    {
+     "altSpellings": [
+      "Dolores Clayborn"
+     ],
+     "hint": "One of these is a woman's first and last name.",
+     "text": "[i]Dolores Claiborne[/i]"
+    },
+    {
+     "altSpellings": [
+      "Dark Half"
+     ],
+     "hint": "There's the light half, and then there's...",
+     "text": "[i]The Dark Half[/i]"
+    },
+    {
+     "altSpellings": [
+      "Dr. Sleep"
+     ],
+     "text": "[i]Doctor Sleep[/i]"
+    },
+    {
+     "altSpellings": [
+      "The Tomknockers"
+     ],
+     "text": "[i]The Tommyknockers[/i]"
+    }
+   ],
+   "category": "Literature",
+   "exactSpelling": false,
+   "id": "77211",
+   "isValid": "",
+   "prompt": "The 12 Stephen King Novels That Were Too Scary for Me to Finish",
+   "subtype": "subjective",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Kevin Jonas",
+      "Kev",
+      "Kev Jonas"
+     ],
+     "text": "Kevin"
+    },
+    {
+     "altSpellings": [
+      "Nicholas",
+      "Nick Jonas",
+      "Nicholas Jonas"
+     ],
+     "text": "Nick"
+    },
+    {
+     "altSpellings": [
+      "Joseph",
+      "Joe Jonas",
+      "Joseph Jonas"
+     ],
+     "text": "Joe"
+    },
+    {
+     "altSpellings": [
+      "Franklin",
+      "Frank",
+      "Frankie Jonas",
+      "Franklin Jonas"
+     ],
+     "text": "Frankie"
+    },
+    {
+     "altSpellings": [
+      "Alec Baldwin"
+     ],
+     "text": "Alec"
+    },
+    {
+     "altSpellings": [
+      "Daniel Baldwin",
+      "Dan Baldwin",
+      "Dan"
+     ],
+     "text": "Daniel"
+    },
+    {
+     "altSpellings": [
+      "Billy",
+      "Will",
+      "William Baldwin",
+      "Will Baldwin",
+      "Billy Baldwin"
+     ],
+     "text": "William"
+    },
+    {
+     "altSpellings": [
+      "Steven",
+      "Stephen Baldwin",
+      "Steven Baldwin"
+     ],
+     "text": "Stephen"
+    },
+    {
+     "altSpellings": [
+      "Beth",
+      "Elizabeth Keuchler"
+     ],
+     "text": "Elizabeth"
+    },
+    {
+     "altSpellings": [
+      "Jane Sasso"
+     ],
+     "text": "Jane"
+    }
+   ],
+   "category": "Celebrities",
+   "exactSpelling": false,
+   "id": "77212",
+   "isValid": "",
+   "prompt": "Name every Jonas + Baldwin Brother sibling",
+   "subtype": "name",
+   "us": true,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "chewie",
+      "wookiee",
+      "chewy"
+     ],
+     "hint": "I'm thinking of a TALL, adorable character. And let's just say \"hirsute.\"",
+     "text": "Chewbacca"
+    },
+    {
+     "altSpellings": [
+      "Ewok"
+     ],
+     "hint": "You know! The cute ones with the smashed-in dog faces! Come on now.",
+     "text": "Ewoks"
+    },
+    {
+     "altSpellings": [
+      "R2",
+      "R2D2",
+      "R2 D2",
+      "Artoo",
+      "Artoo Deetoo",
+      "Artwo"
+     ],
+     "hint": "One word: Droid!",
+     "text": "R2-D2"
+    },
+    {
+     "altSpellings": [
+      "BB8"
+     ],
+     "hint": "There's that one that looks a bit like a soccer ball. Or a football if you will.",
+     "text": "BB-8"
+    },
+    {
+     "altSpellings": [
+      "Porg"
+     ],
+     "hint": "Who were those cute, chubby birds in [i]The Rise of Skywalker[/i]?",
+     "text": "Porgs"
+    },
+    {
+     "altSpellings": [
+      "The Child",
+      "Grogu"
+     ],
+     "hint": "So Yoda didn't make my list, but this one did.",
+     "text": "Baby Yoda"
+    },
+    {
+     "altSpellings": [
+      "Ice Fox",
+      "Vulptices",
+      "Vulptex",
+      "Crystal Foxes",
+      "Ice Foxes"
+     ],
+     "text": "Crystal Fox"
+    },
+    {
+     "altSpellings": [
+      "Jawa"
+     ],
+     "text": "Jawas"
+    }
+   ],
+   "category": "Film & TV",
+   "exactSpelling": false,
+   "id": "77227",
+   "isValid": "",
+   "prompt": "The 8 Most Adorable [i]Star Wars[/i] Characters and Species",
+   "subtype": "subjective",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "hint": "(SFX: flute)",
+     "text": "flute"
+    },
+    {
+     "altSpellings": [],
+     "hint": "(SFX: piccolo)",
+     "text": "piccolo"
+    },
+    {
+     "altSpellings": [],
+     "hint": "(SFX: oboe)",
+     "text": "oboe"
+    },
+    {
+     "altSpellings": [
+      "cor anglais"
+     ],
+     "hint": "(SFX: English horn)",
+     "text": "English horn"
+    },
+    {
+     "altSpellings": [
+      "B-flat clarinet",
+      "bass clarinet",
+      "E-flat clarinet"
+     ],
+     "hint": "(SFX: clarinet)",
+     "text": "clarinet"
+    },
+    {
+     "altSpellings": [
+      "contrabassoon"
+     ],
+     "hint": "(SFX: bassoon)",
+     "text": "bassoon"
+    },
+    {
+     "altSpellings": [
+      "sax",
+      "alto saxophone",
+      "soprano saxophone",
+      "sopranino saxophone",
+      "tenor saxophone",
+      "contrabass saxophone",
+      "baritone saxophone",
+      "alto sax",
+      "soprano sax",
+      "sopranino sax",
+      "tenor sax",
+      "baritone sax"
+     ],
+     "hint": "One of these woodwinds is brass. And it's very sexy.",
+     "text": "saxophone"
+    },
+    {
+     "altSpellings": [],
+     "hint": "(SFX: recorder)",
+     "text": "recorder"
+    }
+   ],
+   "category": "Music",
+   "exactSpelling": false,
+   "id": "77333",
+   "isValid": "",
+   "prompt": "Which woodwind instruments may be found in an orchestra?",
+   "subtype": "name",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "polar bear",
+      "teddy bear",
+      "grizzly bear",
+      "brown bear"
+     ],
+     "hint": "Rooaar!!! Well, that could apply to a few these actually.",
+     "text": "bear"
+    },
+    {
+     "altSpellings": [
+      "american bison"
+     ],
+     "hint": "Not exactly a buffalo, but similar.",
+     "text": "bison"
+    },
+    {
+     "altSpellings": [
+      "dromedary"
+     ],
+     "hint": "Think... humps.",
+     "text": "camel"
+    },
+    {
+     "altSpellings": [
+      "puma",
+      "panther",
+      "mountain lion",
+      "catamount",
+      "painter"
+     ],
+     "hint": "One of them is kind of a lion, sort of.",
+     "text": "cougar"
+    },
+    {
+     "altSpellings": [
+      "african elephant",
+      "asian elephant"
+     ],
+     "hint": "",
+     "text": "elephant"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Come on, stick your neck out. Your NECK!",
+     "text": "giraffe"
+    },
+    {
+     "altSpellings": [
+      "ape",
+      "silverback",
+      "silverback gorilla"
+     ],
+     "hint": "Think King Kong, but bite-sized.",
+     "text": "gorilla"
+    },
+    {
+     "altSpellings": [
+      "hippo"
+     ],
+     "hint": "",
+     "text": "hippopotamus"
+    },
+    {
+     "altSpellings": [
+      "hyaena"
+     ],
+     "hint": "",
+     "text": "hyena"
+    },
+    {
+     "altSpellings": [
+      "roo"
+     ],
+     "hint": "Reach into your pouches and see what comes up.",
+     "text": "kangaroo"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "lion"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "monkey"
+    },
+    {
+     "altSpellings": [
+      "rhino"
+     ],
+     "hint": "",
+     "text": "rhinoceros"
+    },
+    {
+     "altSpellings": [
+      "harbor seal",
+      "common seal",
+      "sea lion",
+      ""
+     ],
+     "hint": "",
+     "text": "seal"
+    },
+    {
+     "altSpellings": [
+      "lamb"
+     ],
+     "hint": "Baaaaaaa! (clear throat) Excuse me.",
+     "text": "sheep"
+    },
+    {
+     "altSpellings": [
+      "bengal tiger",
+      "bengal"
+     ],
+     "hint": "",
+     "text": "tiger"
+    },
+    {
+     "altSpellings": [],
+     "hint": "What animal starts with a Z?",
+     "text": "zebra"
+    },
+    {
+     "altSpellings": [
+      "koala bear"
+     ],
+     "hint": "One is an marsupial that loves eucalyptus leaves.",
+     "text": "koala"
+    }
+   ],
+   "category": "Food & Drink",
+   "exactSpelling": false,
+   "id": "77334",
+   "isValid": "",
+   "prompt": "Which animals were included in Barnum's Animals Crackers (100th Anniversary Edition)?",
+   "subtype": "name",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "beam"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "bream"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "cream"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "deem"
+    },
+    {
+     "altSpellings": [],
+     "hint": "You might experience this while you're sleeping.",
+     "text": "dream"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "gleam"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "ream"
+    },
+    {
+     "altSpellings": [],
+     "hint": "What is it you do when you make shady plans?",
+     "text": "scheme"
+    },
+    {
+     "altSpellings": [],
+     "hint": "(SFX: scream)",
+     "text": "scream"
+    },
+    {
+     "altSpellings": [],
+     "hint": "You'll find this along the side of a pair of pants.",
+     "text": "seam"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "seem"
+    },
+    {
+     "altSpellings": [],
+     "hint": "If you like saunas, you'll know all about THIS one.",
+     "text": "steam"
+    },
+    {
+     "altSpellings": [],
+     "hint": "What's another word for a brook?",
+     "text": "stream"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Think group sports.",
+     "text": "team"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "teem"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "theme"
+    }
+   ],
+   "category": "Language/Words/Grammar",
+   "exactSpelling": true,
+   "id": "77336",
+   "isValid": "",
+   "prompt": "What rhymes with “meme”? (one-syllable common words only)",
+   "subtype": "rhyme",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "hint": "What's another word for cashier?",
+     "text": "clerk"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "dirk"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Ooh, one of these words really irritates me.",
+     "text": "irk"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "jerk"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "lurk"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "murk"
+    },
+    {
+     "altSpellings": [],
+     "hint": "What's another word for advantage?",
+     "text": "perk"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "quirk"
+    },
+    {
+     "altSpellings": [],
+     "hint": "If you evade responsibilities, you're doing THIS.",
+     "text": "shirk"
+    },
+    {
+     "altSpellings": [],
+     "hint": "If you think of THIS one, it may put a wry smile on your face.",
+     "text": "smirk"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "stirk"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "turk"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "work"
+    },
+    {
+     "altSpellings": [],
+     "hint": "What's that French word for circus?",
+     "text": "cirque"
+    }
+   ],
+   "category": "Language/Words/Grammar",
+   "exactSpelling": true,
+   "id": "77337",
+   "isValid": "",
+   "prompt": "What rhymes with “twerk”? (one-syllable common words only)",
+   "subtype": "rhyme",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "ache"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "bake"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "brake"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "break"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "cake"
+    },
+    {
+     "altSpellings": [],
+     "hint": "(to self) What's another word for phony?",
+     "text": "fake"
+    },
+    {
+     "altSpellings": [],
+     "hint": "You often find this thing in a bowl of cereal.",
+     "text": "flake"
+    },
+    {
+     "altSpellings": [],
+     "hint": "What's bigger than a pond?",
+     "text": "lake"
+    },
+    {
+     "altSpellings": [],
+     "hint": "It's BLANK or BLANK time.",
+     "text": "make"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "quake"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "rake"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "sake"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "shake"
+    },
+    {
+     "altSpellings": [],
+     "hint": "If you quench your thirst, you'll be doing THIS.",
+     "text": "slake"
+    },
+    {
+     "altSpellings": [],
+     "hint": "(to self) Now why would I be thinking about the Garden of Eden?",
+     "text": "snake"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "stake"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Ever have a craving for a nice sirloin?",
+     "text": "steak"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "take"
+    },
+    {
+     "altSpellings": [],
+     "hint": "You do this in the morning... unless you sleep in I guess.",
+     "text": "wake"
+    }
+   ],
+   "category": "Language/Words/Grammar",
+   "exactSpelling": true,
+   "id": "77338",
+   "isValid": "",
+   "prompt": "What rhymes with “Drake”? (one-syllable common words only)",
+   "subtype": "rhyme",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "claws",
+      "pincer",
+      "pincers"
+     ],
+     "hint": "The part that snips! I love the snipping!",
+     "text": "claw"
+    },
+    {
+     "altSpellings": [
+      "eye",
+      "eyestalk"
+     ],
+     "hint": "The way they peep is very soothing.",
+     "text": "eyes"
+    },
+    {
+     "altSpellings": [
+      "chitin",
+      "exoskeleton"
+     ],
+     "hint": "You just need to get past that hard exterior.",
+     "text": "shell"
+    },
+    {
+     "altSpellings": [
+      "leg",
+      "crab legs",
+      "crablegs"
+     ],
+     "hint": "Get the butter! They were for walking, now they're for eating!",
+     "text": "legs"
+    },
+    {
+     "altSpellings": [
+      "inside",
+      "crab meat",
+      "crabmeat"
+     ],
+     "hint": "There's certainly nothing imitation here.",
+     "text": "meat"
+    }
+   ],
+   "category": "Animals",
+   "exactSpelling": false,
+   "id": "77488",
+   "isValid": "",
+   "prompt": "The 5 Best Parts of a Crab",
+   "subtype": "subjective",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Super Mario"
+     ],
+     "hint": "It's-a him! You know, the one whose name is in the title of the game?",
+     "text": "Mario"
+    },
+    {
+     "altSpellings": [],
+     "hint": "It's-a him, the main character's brother! A sensitive plumber just trying to get by.",
+     "text": "Luigi"
+    },
+    {
+     "altSpellings": [
+      "Captain Toad"
+     ],
+     "hint": "Please don't forget about this little mushroom who wears a vest.",
+     "text": "Toad"
+    },
+    {
+     "altSpellings": [
+      "Peach"
+     ],
+     "hint": "Wasn't there a royal racer? Someone who was a queen, or a prince, or a...",
+     "text": "Princess Peach"
+    },
+    {
+     "altSpellings": [
+      "Koopa",
+      "Koopa Turtle"
+     ],
+     "hint": "Don't forget about this upright turtle who wears shoes! You forgot about him, didn't you?",
+     "text": "Koopa Troopa"
+    },
+    {
+     "altSpellings": [
+      "Donkey Kong",
+      "DK"
+     ],
+     "hint": "This guy loves bananas and hates barrels. He's like the opposite of me!",
+     "text": "Donkey Kong Jr"
+    },
+    {
+     "altSpellings": [
+      "King Koopa"
+     ],
+     "hint": "What about the big spiky monster guy? Remember him?",
+     "text": "Bowser"
+    },
+    {
+     "altSpellings": [],
+     "hint": "He's a dinosaur who can lay eggs on command! I know you know who this is.",
+     "text": "Yoshi"
+    }
+   ],
+   "category": "Games",
+   "exactSpelling": false,
+   "id": "77765",
+   "isValid": "",
+   "prompt": "Which 8 characters were playable in the original [i]Super Mario Kart[/i]?",
+   "subtype": "name",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "supermarket",
+      "market",
+      "store",
+      "grocery shopping",
+      "grocery shop",
+      "superstore"
+     ],
+     "hint": "Ewan McGregor loves food shopping.",
+     "text": "grocery store"
+    },
+    {
+     "altSpellings": [
+      "Doctor",
+      "the doctor’s office",
+      "the doctor’s"
+     ],
+     "hint": "Doctors always love getting a visit from Ewan McGregor.",
+     "text": "doctor's office"
+    },
+    {
+     "altSpellings": [
+      "shop",
+      "car mechanic",
+      "repair shop",
+      "car shop"
+     ],
+     "hint": "Sometimes Ewan McGregor needs to get his motorcycle tuned up.",
+     "text": "mechanic"
+    },
+    {
+     "altSpellings": [
+      "Diner",
+      "cafe"
+     ],
+     "hint": "The maitre d' always finds Ewan McGregor a table at this place.",
+     "text": "restaurant"
+    },
+    {
+     "altSpellings": [
+      "the library"
+     ],
+     "hint": "Sometimes Ewan McGregor just wants to borrow a book for a month or so.",
+     "text": "library"
+    },
+    {
+     "altSpellings": [
+      "the park",
+      "garden"
+     ],
+     "hint": "I hear Ewan McGregor likes to sit down and watch pigeons. It's relaxing.",
+     "text": "park"
+    },
+    {
+     "altSpellings": [
+      "the movie theater",
+      "Cinema",
+      "the movies",
+      "the cinema",
+      "theater"
+     ],
+     "hint": "Sometimes Ewan McGregor goes to premieres of his new films.",
+     "text": "movie theater"
+    },
+    {
+     "altSpellings": [
+      "the bank"
+     ],
+     "hint": "Ewan McGregor makes deposits and withdrawals. Celebrities are just like us!",
+     "text": "bank"
+    }
+   ],
+   "category": "Film & TV",
+   "exactSpelling": false,
+   "id": "77797",
+   "isValid": "",
+   "prompt": "The 8 Everyday Places Where You Might Run Into Ewan McGregor",
+   "subtype": "subjective",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "the bedroom"
+     ],
+     "hint": "“You don’t need the lights on when you’re asleep!”",
+     "text": "bedroom"
+    },
+    {
+     "altSpellings": [
+      "restroom",
+      "powder room",
+      "the bathroom",
+      "the restroom",
+      "the powder room"
+     ],
+     "hint": "You can shower in the dark. I saw a documentary about it.",
+     "text": "bathroom"
+    },
+    {
+     "altSpellings": [
+      "the kitchen"
+     ],
+     "hint": "“I might as well turn the fridge off, too, while I'm in here.”",
+     "text": "kitchen"
+    },
+    {
+     "altSpellings": [
+      "Den",
+      "family room",
+      "tv room",
+      "the den",
+      "the living room",
+      "the family room",
+      "the tv room"
+     ],
+     "hint": "“You still watching TV, or can I turn that off, too?”",
+     "text": "living room"
+    },
+    {
+     "altSpellings": [
+      "the dining room"
+     ],
+     "hint": "“The only thing I’m eating right now is high electricity costs!”",
+     "text": "dining room"
+    },
+    {
+     "altSpellings": [
+      "the garage"
+     ],
+     "hint": "“The car doesn’t need to see anything, does it?”",
+     "text": "garage"
+    },
+    {
+     "altSpellings": [
+      "home office",
+      "the office"
+     ],
+     "hint": "Business hours are daytime hours.",
+     "text": "office"
+    },
+    {
+     "altSpellings": [
+      "Baby’s Room",
+      "nursery room",
+      "the nursery",
+      "the baby room"
+     ],
+     "hint": "“It’s never too early for babies to learn about fiscal responsibility.”",
+     "text": "nursery"
+    },
+    {
+     "altSpellings": [
+      "greenhouse",
+      "the conservatory",
+      "the greenhouse"
+     ],
+     "hint": "“What is this, Clue? Look, just turn the lights off.”",
+     "text": "conservatory"
+    }
+   ],
+   "category": "Other",
+   "exactSpelling": false,
+   "id": "77798",
+   "isValid": "",
+   "prompt": "The 9 Rooms Where Dads Can't Help Themselves from Turning Off the Lights",
+   "subtype": "subjective",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "scroggin"
+     ],
+     "hint": "You might have to throw the raisins and peanuts at me. I don’t have hands, I’m a Wheel.",
+     "text": "trail mix"
+    },
+    {
+     "altSpellings": [
+      "MnMs",
+      "M and Ms",
+      "MMs"
+     ],
+     "hint": "They melt in your mouth, not your… wait, I don’t have hands.",
+     "text": "M&M’S"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Have you ever tried to peel one without hands? It’s not impossible.",
+     "text": "banana"
+    },
+    {
+     "altSpellings": [
+      "Cool Ranch Doritos",
+      "Dorito Chips"
+     ],
+     "hint": "Even without hands, I always end up covered in Cool Ranch dust.",
+     "text": "Doritos"
+    },
+    {
+     "altSpellings": [
+      "Bugle Chips"
+     ],
+     "hint": "Witch fingers! If I had fingers, that is.",
+     "text": "Bugles"
+    },
+    {
+     "altSpellings": [
+      "jerky"
+     ],
+     "hint": "I’d be a big JERK not to give you a hint, right? A wheely, wheely big jerk?",
+     "text": "beef jerky"
+    },
+    {
+     "altSpellings": [
+      "snickers bar"
+     ],
+     "hint": "I really thought we knew each other better than this. Just type \"Snickers.\"",
+     "text": "Snickers"
+    },
+    {
+     "altSpellings": [
+      "Combos stuffed snacks",
+      "Combos snacks"
+     ],
+     "hint": "I like the Pizzeria Pretzel flavor.",
+     "text": "Combos"
+    }
+   ],
+   "category": "Food & Drink",
+   "exactSpelling": false,
+   "id": "77799",
+   "isValid": "",
+   "prompt": "My 8 Favorite Road Trip Snacks",
+   "subtype": "subjective",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Vainglory",
+      "prideful"
+     ],
+     "hint": "Being selfish or arrogant? That's definitely a sin.",
+     "text": "Pride"
+    },
+    {
+     "altSpellings": [
+      "Covetousness",
+      "Greediness",
+      "Covet",
+      "Coveting"
+     ],
+     "hint": "Hoarding wealth or other resources? You bet that's a sin.",
+     "text": "Greed"
+    },
+    {
+     "altSpellings": [
+      "Lustful",
+      "Lusting",
+      "desire"
+     ],
+     "hint": "Feelings of longing or desire? Yep, that's a sin.",
+     "text": "Lust"
+    },
+    {
+     "altSpellings": [
+      "Jealousy"
+     ],
+     "hint": "Wanting what someone else has? Welcome to sin city, population you!",
+     "text": "Envy"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Overindulging? That's a sin.",
+     "text": "Gluttony"
+    },
+    {
+     "altSpellings": [
+      "Anger"
+     ],
+     "hint": "Uncontrollable rage? Sure, that's a sin.",
+     "text": "Wrath"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Lazing around? That's a sin for sure.",
+     "text": "Sloth"
+    }
+   ],
+   "category": "History",
+   "exactSpelling": false,
+   "id": "77800",
+   "isValid": "",
+   "prompt": "What are the seven deadly sins?",
+   "subtype": "name",
+   "us": false,
+   "x": true
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "the viola"
+     ],
+     "hint": "",
+     "text": "viola"
+    },
+    {
+     "altSpellings": [
+      "the violin",
+      "fiddle",
+      "the fiddle"
+     ],
+     "hint": "",
+     "text": "violin"
+    },
+    {
+     "altSpellings": [
+      "the guitar",
+      "acoustic guitar",
+      "electric guitar"
+     ],
+     "hint": "",
+     "text": "guitar"
+    },
+    {
+     "altSpellings": [
+      "violoncello"
+     ],
+     "hint": "",
+     "text": "cello"
+    },
+    {
+     "altSpellings": [
+      "pedal harp"
+     ],
+     "hint": "This gigantic thing has the most angelic sound.",
+     "text": "harp"
+    },
+    {
+     "altSpellings": [],
+     "hint": "You need one of these if you're going to play bluegrass. Oh, you're not going to play bluegrass? Well still, just type in the instrument.",
+     "text": "banjo"
+    },
+    {
+     "altSpellings": [],
+     "hint": "I'll give you a hint: it's from Hawaii!",
+     "text": "ukulele"
+    }
+   ],
+   "category": "Music",
+   "exactSpelling": false,
+   "id": "78058",
+   "isValid": "",
+   "prompt": "My 7 Favorite Stringed Instruments",
+   "subtype": "subjective",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "ice cream cone"
+     ],
+     "hint": "",
+     "text": "ice cream"
+    },
+    {
+     "altSpellings": [
+      "popcycle",
+      "ice pop"
+     ],
+     "hint": "Dessert on a stick. Doesn't get better than that.",
+     "text": "popsicle"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "sorbet"
+    },
+    {
+     "altSpellings": [
+      "frozen custard"
+     ],
+     "hint": "This one's on the pudding spectrum. A spectrum I just made up.",
+     "text": "custard"
+    },
+    {
+     "altSpellings": [],
+     "hint": "This dessert is huge in Italy. I assume.",
+     "text": "Italian ice"
+    },
+    {
+     "altSpellings": [
+      "yogurt",
+      "froyo"
+     ],
+     "hint": "",
+     "text": "frozen yogurt"
+    },
+    {
+     "altSpellings": [
+      "slushy",
+      "slushee",
+      "slushies",
+      "slushees",
+      "icee",
+      "slurpee"
+     ],
+     "hint": "You can drink this one.",
+     "text": "slushie"
+    }
+   ],
+   "category": "Food & Drink",
+   "exactSpelling": false,
+   "id": "78059",
+   "isValid": "",
+   "prompt": "My 7 Favorite Frozen Desserts",
+   "subtype": "subjective",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "hint": "New York, baby!",
+     "text": "manhattan"
+    },
+    {
+     "altSpellings": [
+      "cosmo"
+     ],
+     "hint": "",
+     "text": "cosmopolitan"
+    },
+    {
+     "altSpellings": [],
+     "hint": "James Bond prefers his shaken, not stirred.",
+     "text": "martini"
+    },
+    {
+     "altSpellings": [],
+     "hint": "The most fun word to say! Mojito! Oh, whoops. My bad.",
+     "text": "mojito"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "whiskey sour"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Say you are a traditionalist.. people might call you THIS.",
+     "text": "old fashioned"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "Moscow mule"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "mai tai"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "margarita"
+    },
+    {
+     "altSpellings": [
+      "blooding mary"
+     ],
+     "hint": "Tomatoes, people! The one with tomatoes!",
+     "text": "bloody mary"
+    },
+    {
+     "altSpellings": [
+      "tequila sun"
+     ],
+     "hint": "",
+     "text": "tequila sunrise"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Vladimir Putin could identify with THIS drink.",
+     "text": "White Russian"
+    },
+    {
+     "altSpellings": [],
+     "hint": "One of these is not REALLY an iced tea.",
+     "text": "Long Island iced tea"
+    }
+   ],
+   "category": "Food & Drink",
+   "exactSpelling": false,
+   "id": "78063",
+   "isValid": "",
+   "prompt": "The 13 Best Bar Drinks",
+   "subtype": "subjective",
+   "us": false,
+   "x": true
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Fiji Water"
+     ],
+     "hint": "It's the name of an island!",
+     "text": "Fiji"
+    },
+    {
+     "altSpellings": [
+      "Dasani Water"
+     ],
+     "hint": "",
+     "text": "Dasani"
+    },
+    {
+     "altSpellings": [
+      "Evian Water",
+      "Evian Sparkling",
+      "Evian Sparkling Water"
+     ],
+     "hint": "",
+     "text": "Evian"
+    },
+    {
+     "altSpellings": [],
+     "hint": "I believe this one raised my IQ from 300 to 301.",
+     "text": "Smartwater"
+    },
+    {
+     "altSpellings": [
+      "perrier water",
+      "perrier mineral water"
+     ],
+     "hint": "This one's french! Oui, oui! If I do say so myself.",
+     "text": "Perrier"
+    },
+    {
+     "altSpellings": [
+      "Voss Water"
+     ],
+     "hint": "I buy this one just for the cool bottle. Rhymes with... moss.",
+     "text": "Voss"
+    },
+    {
+     "altSpellings": [
+      "Aquafina Water"
+     ],
+     "hint": "",
+     "text": "Aquafina"
+    },
+    {
+     "altSpellings": [
+      "Poland Spring Water"
+     ],
+     "hint": "Okay let's hurry this up, Poland Spring Water.",
+     "text": "Poland Spring"
+    }
+   ],
+   "category": "Companies & Brands",
+   "exactSpelling": false,
+   "id": "78663",
+   "isValid": "",
+   "prompt": "My 8 Favorite Bottled Water Brands",
+   "subtype": "subjective",
+   "us": true,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Wolf of Wall Street",
+      "The Wolf and Wall Street",
+      "Wolf and Wall Street",
+      "The Wolves of Wall Street",
+      "Wolves of Wall Street",
+      "Wolf Wall Street"
+     ],
+     "hint": "In THIS one, he plays a wolf, so to speak.",
+     "text": "[i]The Wolf of Wall Street[/i]"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Ah... THIS movie was simply dreamy.",
+     "text": "[i]Inception[/i]"
+    },
+    {
+     "altSpellings": [
+      "The Shutter Island"
+     ],
+     "hint": "You know, the one where his wife dies and he thinks he's a detective.",
+     "text": "[i]Shutter Island[/i]"
+    },
+    {
+     "altSpellings": [
+      "Great Gatsby"
+     ],
+     "hint": "F. Scott Fitzgerald. Does that help?",
+     "text": "[i]The Great Gatsby[/i]"
+    },
+    {
+     "altSpellings": [
+      "Romeo Juliet",
+      "Romeo and Juliet",
+      "Romeo & Juliet",
+      "Romeo n Juliet"
+     ],
+     "hint": "",
+     "text": "[i]Romeo + Juliet[/i]"
+    },
+    {
+     "altSpellings": [
+      "Aviator"
+     ],
+     "hint": "I'll give you a clue... The Aviator.",
+     "text": "[i]The Aviator[/i]"
+    }
+   ],
+   "category": "Film & TV",
+   "exactSpelling": false,
+   "id": "78667",
+   "isValid": "",
+   "prompt": "My 6 Favorite Leonardo DiCaprio Movies",
+   "subtype": "subjective",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Joker"
+     ],
+     "text": "The Joker"
+    },
+    {
+     "altSpellings": [
+      "Two Face",
+      "2 Face",
+      "To Face",
+      "Harvey Dent",
+      "Dent",
+      "Harvey"
+     ],
+     "text": "Two-Face"
+    },
+    {
+     "altSpellings": [
+      "Cat Woman",
+      "Selina Kyle"
+     ],
+     "text": "Catwoman"
+    },
+    {
+     "altSpellings": [
+      "Riddler",
+      "Edward Nigma",
+      "Riddler"
+     ],
+     "hint": "One of these is a real question mark.",
+     "text": "The Riddler"
+    },
+    {
+     "altSpellings": [
+      "Penguin",
+      "Oswald Chesterfield Cobblepot"
+     ],
+     "hint": "Oh come on. The one with the umbrella?!",
+     "text": "The Penguin"
+    },
+    {
+     "hint": "Think Play-Doh.",
+     "text": "Clayface"
+    },
+    {
+     "altSpellings": [
+      "Pamela Lillian Isley",
+      "Pamela Isley",
+      "Pamela"
+     ],
+     "text": "Poison Ivy"
+    },
+    {
+     "altSpellings": [
+      "Freeze",
+      "Mr Freeze",
+      "Mister Freeze",
+      "Victor Fries"
+     ],
+     "hint": "Arnold Schwarzenegger played THIS baddie.",
+     "text": "Mr. Freeze"
+    },
+    {
+     "text": "Bane"
+    },
+    {
+     "altSpellings": [
+      "Jonathan Crane",
+      "Doctor Crane",
+      "Dr. Crane",
+      "Crane"
+     ],
+     "hint": "Not the Tin Man, but...",
+     "text": "Scarecrow"
+    }
+   ],
+   "category": "Animation/Comic Books",
+   "exactSpelling": false,
+   "id": "78737",
+   "isValid": "",
+   "prompt": "My 10 Favorite Batman Villains",
+   "subtype": "subjective",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "the restroom"
+     ],
+     "hint": "This one sounds as though you might sleep here.",
+     "text": "restroom"
+    },
+    {
+     "altSpellings": [
+      "loo"
+     ],
+     "hint": "Think British!",
+     "text": "the loo"
+    },
+    {
+     "altSpellings": [
+      "toilet"
+     ],
+     "hint": "Think British!",
+     "text": "the toilet"
+    },
+    {
+     "altSpellings": [
+      "the lavatory"
+     ],
+     "hint": "A word you'd use for bathroom in polite societies. Or on airplanes.",
+     "text": "lavatory"
+    },
+    {
+     "altSpellings": [
+      "the latrine"
+     ],
+     "hint": "If you were stranded on a deserted island, you might need to dig one of these.",
+     "text": "latrine"
+    },
+    {
+     "altSpellings": [
+      "the washroom"
+     ],
+     "hint": "Scrub a dub dub.",
+     "text": "washroom"
+    },
+    {
+     "altSpellings": [
+      "the water closet"
+     ],
+     "hint": "Clothes could go here, according to the name alone.",
+     "text": "water closet"
+    },
+    {
+     "altSpellings": [
+      "the powder room"
+     ],
+     "hint": "Think 1950s!",
+     "text": "powder room"
+    }
+   ],
+   "category": "Language/Words/Grammar",
+   "exactSpelling": false,
+   "id": "78745",
+   "isValid": "",
+   "prompt": "8 Different Ways of Saying “Bathroom”",
+   "subtype": "subjective",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Chipotle",
+      "Southwest",
+      "Chipotle Sauce",
+      "Southwest Sauce",
+      "chipotle mayo",
+      "chipotle southwest",
+      "chipotle southwest mayo"
+     ],
+     "hint": "You know! That sauce that suddenly became a thing in the 2000s.",
+     "text": "chipotle southwest sauce"
+    },
+    {
+     "altSpellings": [
+      "Mayonnaise",
+      "Mayo",
+      "light mayo"
+     ],
+     "hint": "Creamy goodness.",
+     "text": "light mayonnaise"
+    },
+    {
+     "altSpellings": [
+      "Banana Pepper",
+      "peppers",
+      "yellow peppers",
+      "peps",
+      "banana peps",
+      "yellow peps"
+     ],
+     "text": "banana peppers"
+    },
+    {
+     "altSpellings": [
+      "shredded lettuce"
+     ],
+     "hint": "Greens please.",
+     "text": "lettuce"
+    },
+    {
+     "altSpellings": [
+      "Cucumber"
+     ],
+     "hint": "Not zucchini but close.",
+     "text": "cucumbers"
+    },
+    {
+     "altSpellings": [
+      "Tomato"
+     ],
+     "hint": "You say this, I say that.",
+     "text": "tomatoes"
+    },
+    {
+     "altSpellings": [
+      "black forest ham",
+      "honey ham",
+      "smoked ham"
+     ],
+     "text": "ham"
+    },
+    {
+     "altSpellings": [],
+     "text": "salami"
+    },
+    {
+     "altSpellings": [
+      "roasted turkey",
+      "oven roasted turkey"
+     ],
+     "text": "turkey"
+    }
+   ],
+   "category": "Food & Drink",
+   "exactSpelling": false,
+   "id": "78747",
+   "isValid": "",
+   "prompt": "What should go on a twelve-inch Artisan Flatbread at Subway?",
+   "subtype": "subjective",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Bereishit",
+      "Bereshit",
+      "Origins",
+      "Bresheit",
+      "B’reshit",
+      "Ma’aseh B’reshit"
+     ],
+     "hint": "In the beginning, Phil Collins was in this band...",
+     "text": "Genesis"
+    },
+    {
+     "altSpellings": [
+      "Shemot",
+      "The Road Out",
+      "Sh’mot",
+      "Yesi’at Misrayim"
+     ],
+     "hint": "Let my people go, cause when you gotta go, you gotta GO.",
+     "text": "Exodus"
+    },
+    {
+     "altSpellings": [
+      "vayikra",
+      "Law of the Levites",
+      "vayicra",
+      "vayyikra",
+      "Torat Kohanim"
+     ],
+     "hint": "I prefer a tapered jean, but this priestly Hebrew tribe probably preferred a straight leg.",
+     "text": "Leviticus"
+    },
+    {
+     "altSpellings": [
+      "Bamidbar",
+      "The Census",
+      "Bemidbar",
+      "Pekuddim"
+     ],
+     "hint": "You start with one and then keep counting for forever.",
+     "text": "Numbers"
+    },
+    {
+     "altSpellings": [
+      "Devarim",
+      "Second Law",
+      "D’varim",
+      "Mishneh Torah",
+      "Dueteronomy",
+      "Duteronomy"
+     ],
+     "hint": "You’d think you wouldn’t need a second book of rules after your massive first book of rules, but here we are.",
+     "text": "Deuteronomy"
+    }
+   ],
+   "category": "Religion",
+   "exactSpelling": false,
+   "id": "79190",
+   "isValid": "",
+   "prompt": "What are the first 5 books of the Old Testament?",
+   "subtype": "name",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Francis Sinatra",
+      "Old Blue Eyes",
+      "Ol’ Blue Eyes",
+      "Sinatra",
+      "Frank",
+      "The Voice",
+      "Chairman of the Board"
+     ],
+     "hint": "HE did it his way.",
+     "text": "Frank Sinatra"
+    },
+    {
+     "altSpellings": [
+      "Samuel Davis Jr",
+      "sam davis",
+      "Sammie Davis Jr.",
+      "Sammie Davis Junior",
+      "Sammy Davis",
+      "Davis",
+      "Sammy",
+      "Samuel Davis"
+     ],
+     "hint": "Easily the best dancer of the bunch was THIS guy.",
+     "text": "Sammy Davis Jr."
+    },
+    {
+     "altSpellings": [
+      "Dino Paul Crocetti",
+      "Deano",
+      "Dino",
+      "Martin",
+      "Dean",
+      "Dino Martin",
+      "Dino Crocetti"
+     ],
+     "hint": "",
+     "text": "Dean Martin"
+    },
+    {
+     "altSpellings": [
+      "Joseph Abraham Gottlieb",
+      "Joe Bishop",
+      "Bishop",
+      "Joey",
+      "Joseph Gottlieb"
+     ],
+     "hint": "THIS guy would only be able to go diagonally on a chess board.",
+     "text": "Joey Bishop"
+    },
+    {
+     "altSpellings": [
+      "Pete Lawford",
+      "Lawford",
+      "Peter"
+     ],
+     "hint": "Old Blue Eyes used to joke he was the Brother-in-Lawford to John F. Kennedy.",
+     "text": "Peter Lawford"
+    }
+   ],
+   "category": "Celebrities",
+   "exactSpelling": false,
+   "id": "79191",
+   "isValid": "",
+   "prompt": "Name the 5 members of the 1960s Rat Pack",
+   "subtype": "name",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Manhattan Island"
+     ],
+     "hint": "Also a popular rye whiskey cocktail served with a cherry.",
+     "text": "Manhattan"
+    },
+    {
+     "altSpellings": [
+      "The Bronx"
+     ],
+     "hint": "Jackie Chan came here once and caused a bit of a rumble.",
+     "text": "Bronx"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Hipsters ruined THIS borough, apparently.",
+     "text": "Brooklyn"
+    },
+    {
+     "altSpellings": [
+      "Staten Isl."
+     ],
+     "hint": "Most of the boroughs are islands, but THIS one has it in the name.",
+     "text": "Staten Island"
+    },
+    {
+     "altSpellings": [],
+     "hint": "This borough can move in any direction on a chess board.",
+     "text": "Queens"
+    }
+   ],
+   "category": "Geography & Landmarks",
+   "exactSpelling": false,
+   "id": "79192",
+   "isValid": "",
+   "prompt": "What are the 5 boroughs of New York City?",
+   "subtype": "name",
+   "us": true,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "shahada",
+      "The Shahada",
+      "The Profession of Faith",
+      "Profession",
+      "Faith Profession",
+      "Testimony",
+      "Testimony of Faith"
+     ],
+     "hint": "To be a good Muslim you should say what you believe outloud.",
+     "text": "Profession of Faith"
+    },
+    {
+     "altSpellings": [
+      "salat",
+      "salah",
+      "pray",
+      "daily prayer",
+      "the salat"
+     ],
+     "hint": "",
+     "text": "Prayer"
+    },
+    {
+     "altSpellings": [
+      "Alms",
+      "Charity",
+      "zakat",
+      "giving"
+     ],
+     "hint": "Being generous with your time and with your money.",
+     "text": "Almsgiving"
+    },
+    {
+     "altSpellings": [
+      "sawm",
+      "fasting during ramadan",
+      "Ramadan",
+      "Saum",
+      "abstaining from food and drink"
+     ],
+     "hint": "You don’t necessarily have to be quick, but during this month, you hope the sunsets are earlier.",
+     "text": "Fasting"
+    },
+    {
+     "altSpellings": [
+      "haj",
+      "hajj",
+      "Visit Mecca",
+      "Mecca",
+      "Pilgrimage to Mecca",
+      "Ka’ba",
+      "Kaaba"
+     ],
+     "hint": "It wouldn't hurt if you crossed the world to visit once in a lifetime.",
+     "text": "Pilgrimage"
+    }
+   ],
+   "category": "Religion",
+   "exactSpelling": false,
+   "id": "79196",
+   "isValid": "",
+   "prompt": "What are the Five Pillars of Islam?",
+   "subtype": "name",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "hint": "Oh-hoh-hoh! Baguette si'l vous plait!",
+     "text": "France"
+    },
+    {
+     "altSpellings": [
+      "Italia"
+     ],
+     "hint": "",
+     "text": "Italy"
+    },
+    {
+     "altSpellings": [
+      "Deutchland",
+      "Germania",
+      "Allemagne"
+     ],
+     "hint": "Achtung!",
+     "text": "Germany"
+    },
+    {
+     "altSpellings": [
+      "Osterreich"
+     ],
+     "hint": "The other Achtung!",
+     "text": "Austria"
+    },
+    {
+     "altSpellings": [],
+     "hint": "A former first lady came from this country.",
+     "text": "Slovenia"
+    },
+    {
+     "altSpellings": [
+      "Schweiz",
+      "Suisse",
+      "Svizzera",
+      "Svizra"
+     ],
+     "hint": "In the most neutral voice I can muster, I gotta say, they make great chocolate and even better knives.",
+     "text": "Switzerland"
+    },
+    {
+     "altSpellings": [
+      "Lichtenstein"
+     ],
+     "hint": "This tiny nation has a long name and apparently some big mountains.",
+     "text": "Liechtenstein"
+    },
+    {
+     "altSpellings": [],
+     "hint": "If you're ever looking for a Grand Prix, I know a city-state.",
+     "text": "Monaco"
+    }
+   ],
+   "category": "Geography & Landmarks",
+   "exactSpelling": false,
+   "id": "79220",
+   "isValid": "",
+   "prompt": "Which 8 countries do the Alps run through?",
+   "subtype": "name",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Anaheim, California",
+      "Los Angeles",
+      "LA",
+      "Hollywood"
+     ],
+     "hint": "It's not just a place to go see the Ducks play hockey. You can also find Donald here.",
+     "text": "Anaheim"
+    },
+    {
+     "altSpellings": [
+      "Paris, France",
+      "Disneyland Paris"
+     ],
+     "hint": "Eiffel Tower? Goofy fell on the flower bed.",
+     "text": "Paris"
+    },
+    {
+     "altSpellings": [
+      "Tokyo, Japan",
+      "Tokyo Disney",
+      "Tokyo Disney Sea"
+     ],
+     "hint": "In this country's language, a mouse is pronounced \"nezumi.\"",
+     "text": "Tokyo"
+    },
+    {
+     "altSpellings": [
+      "Shanghai, China",
+      "Shanghai Disney"
+     ],
+     "hint": "Mulan's home country has two theme parks, one in this famous city.",
+     "text": "Shanghai"
+    },
+    {
+     "altSpellings": [
+      "Hong Kong, China",
+      "Hong Kong Disney",
+      "Hong Kong Disneyland"
+     ],
+     "hint": "Mulan's home country has two theme parks, one in this former British colony.",
+     "text": "Hong Kong"
+    },
+    {
+     "altSpellings": [
+      "Orlando, Florida",
+      "Bay Lake",
+      "Lake Buena Vista",
+      "Buena Vista",
+      "Disneyworld Orlando",
+      "WDW Orlando"
+     ],
+     "hint": "",
+     "text": "Orlando"
+    }
+   ],
+   "category": "Geography & Landmarks",
+   "exactSpelling": false,
+   "id": "79222",
+   "isValid": "",
+   "prompt": "In which cities of the world can you find a Disney theme park?",
+   "subtype": "name",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Mr. Body",
+      "Boddy",
+      "Body",
+      "The Body"
+     ],
+     "hint": "This is the host’s name and he turns up dead.",
+     "text": "Mr. Boddy"
+    },
+    {
+     "altSpellings": [
+      "Colonel Michael Mustard",
+      "Mustard",
+      "Michael Mustard",
+      "Col. Mustard"
+     ],
+     "hint": "Grey Poupon, anyone?",
+     "text": "Colonel Mustard"
+    },
+    {
+     "altSpellings": [
+      "Mrs. Blanche White",
+      "White",
+      "Blanche White"
+     ],
+     "hint": "One of them is lighter shade of pale.",
+     "text": "Mrs. White"
+    },
+    {
+     "altSpellings": [
+      "Professor Peter Plum",
+      "Plum",
+      "Peter Plum"
+     ],
+     "hint": "",
+     "text": "Professor Plum"
+    },
+    {
+     "altSpellings": [
+      "Mrs. Patricia Peacock",
+      "Peacock",
+      "Patricia Peacock"
+     ],
+     "hint": "One is always strutting her stuff like some kind of flamboyant bird!",
+     "text": "Mrs. Peacock"
+    },
+    {
+     "altSpellings": [
+      "Reverend John Green",
+      "Green",
+      "Rev. Green",
+      "John Green"
+     ],
+     "hint": "The grass certainly is THIS on the other side, where you’re not accused of murder.",
+     "text": "Mr. Green"
+    },
+    {
+     "altSpellings": [
+      "Miss Josephine Scarlet",
+      "Scarlet",
+      "Scarlett",
+      "Josephine Scarlet"
+     ],
+     "hint": "One character is certainly a well RED lady.",
+     "text": "Miss Scarlet"
+    }
+   ],
+   "category": "Games",
+   "exactSpelling": true,
+   "id": "79326",
+   "isValid": "",
+   "prompt": "Name the 7 characters from [i]Clue[/i]",
+   "subtype": "name",
+   "us": true,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Mike Brady",
+      "Michael",
+      "Michael Brady"
+     ],
+     "hint": "Isn't the dad an architect? Oh, what is his name?",
+     "text": "Mike"
+    },
+    {
+     "altSpellings": [
+      "Greg Brady",
+      "Gregory",
+      "Gregory Brady"
+     ],
+     "hint": "Oh, who is the oldest son? He's so handsome.",
+     "text": "Greg"
+    },
+    {
+     "altSpellings": [
+      "Peter Brady"
+     ],
+     "hint": "",
+     "text": "Peter"
+    },
+    {
+     "altSpellings": [
+      "Bobby Brady"
+     ],
+     "hint": "Are you spinning your wheels? The youngest son's given name is Robert.",
+     "text": "Bobby"
+    },
+    {
+     "altSpellings": [
+      "Carol Martin",
+      "Carol Brady",
+      "Carol Tyler"
+     ],
+     "hint": "",
+     "text": "Carol"
+    },
+    {
+     "altSpellings": [
+      "Marcia Martin",
+      "Marcia Brady"
+     ],
+     "hint": "Remember \"Marcia, Marcia, Marcia?\" No? Okay, just type Marcia.",
+     "text": "Marcia"
+    },
+    {
+     "altSpellings": [
+      "Jan Brady",
+      "Jan Martin",
+      "Janet Brady"
+     ],
+     "hint": "Remember the middle sister? Sadly for her, nobody else did either.",
+     "text": "Jan"
+    },
+    {
+     "altSpellings": [
+      "Cindy Brady",
+      "Cindy Martin"
+     ],
+     "hint": "",
+     "text": "Cindy"
+    },
+    {
+     "altSpellings": [
+      "Alice Nelson"
+     ],
+     "hint": "The housekeeper fell down a rabbit hole when she joined the Brady's. Not literally, that's just a hint about her name.",
+     "text": "Alice"
+    }
+   ],
+   "category": "Film & TV",
+   "exactSpelling": false,
+   "id": "79408",
+   "isValid": "",
+   "prompt": "Name the members of [i]The Brady Bunch[/i]",
+   "subtype": "name",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Tomatoes"
+     ],
+     "hint": "",
+     "text": "tomato"
+    },
+    {
+     "altSpellings": [
+      "Carrot"
+     ],
+     "hint": "Orange you glad this orange vegetable is in there?",
+     "text": "carrots"
+    },
+    {
+     "altSpellings": [
+      "celery sticks"
+     ],
+     "hint": "",
+     "text": "celery"
+    },
+    {
+     "altSpellings": [
+      "Beet"
+     ],
+     "hint": "",
+     "text": "beets"
+    },
+    {
+     "altSpellings": [
+      "parsley leaves",
+      "parsley herb"
+     ],
+     "hint": "V8 contains this common herb, and not too sparsely.",
+     "text": "parsley"
+    },
+    {
+     "altSpellings": [
+      "iceberg lettuce"
+     ],
+     "hint": "Lettuce be clear: I will not leaf you hanging! That was a hint.",
+     "text": "lettuce"
+    },
+    {
+     "altSpellings": [
+      "water cress"
+     ],
+     "hint": "Did you know watercress is in V8? It's true. Type \"watercress\".",
+     "text": "watercress"
+    },
+    {
+     "altSpellings": [
+      "spinach leaves"
+     ],
+     "hint": "Every can of V8 includes a little bit of Popeye's favorite vegetable.",
+     "text": "spinach"
+    }
+   ],
+   "category": "Food & Drink",
+   "exactSpelling": false,
+   "id": "79413",
+   "isValid": "",
+   "prompt": "What are the 8 original V8 veggies?",
+   "subtype": "name",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "New York Yankees",
+      "The Yankees",
+      "NY Yankees",
+      "The New York Yankees"
+     ],
+     "hint": "And he called it Macaroni. Come on Jeter, this one's a freebie.",
+     "text": "Yankees"
+    },
+    {
+     "altSpellings": [
+      "New York Mets",
+      "Metropolitans",
+      "The Mets",
+      "The New York Mets",
+      "NY Mets"
+     ],
+     "hint": "If you've been to several of these galas, you been to several...",
+     "text": "Mets"
+    },
+    {
+     "altSpellings": [
+      "New York Giants",
+      "The Giants",
+      "NY Giants",
+      "The New York Giants"
+     ],
+     "hint": "Jack and the Beanstalk met one of these jamokes.",
+     "text": "Giants"
+    },
+    {
+     "altSpellings": [
+      "New York Jets",
+      "The Jets",
+      "NY Jets",
+      "The New York Jets"
+     ],
+     "hint": "Hey! Can’t you see I’m going Mach 3 over here!",
+     "text": "Jets"
+    },
+    {
+     "altSpellings": [
+      "Brooklyn Nets",
+      "The Nets",
+      "The Brooklyn Nets"
+     ],
+     "hint": "If you're just starting out as an acrobat, you probably want one of these.",
+     "text": "Nets"
+    },
+    {
+     "altSpellings": [
+      "New York Rangers",
+      "NY Rangers",
+      "The Rangers"
+     ],
+     "hint": "Oh, hi-ho, Silver!",
+     "text": "Rangers"
+    },
+    {
+     "altSpellings": [
+      "New York Islanders",
+      "The Islanders",
+      "NY Islanders"
+     ],
+     "hint": "If you're home is completely surrounded by water, you're one of these. Or you need a plumber.",
+     "text": "Islanders"
+    },
+    {
+     "altSpellings": [
+      "New York Knicks",
+      "New York Knickerbockers",
+      "The Knicks"
+     ],
+     "hint": "I'm sure I'd give myself a couple of these tiny uncomfortable cuts if I ever needed to shave.",
+     "text": "Knicks"
+    },
+    {
+     "altSpellings": [
+      "New York Liberty",
+      "Brooklyn Liberty"
+     ],
+     "hint": "Some dame with a torch is in the river!",
+     "text": "Liberty"
+    },
+    {
+     "altSpellings": [
+      "New York Red Bulls",
+      "The Red Bulls"
+     ],
+     "hint": "This soccer team gives you wings!",
+     "text": "Red Bulls"
+    },
+    {
+     "altSpellings": [
+      "New York Magic",
+      "The Magic"
+     ],
+     "hint": "You can see these ladies play soccer, or you can see David Blaine doing this over Times Square.",
+     "text": "Magic"
+    }
+   ],
+   "category": "Sports",
+   "exactSpelling": false,
+   "id": "79420",
+   "isValid": "",
+   "prompt": "Name the professional sports teams of New York City",
+   "subtype": "name",
+   "us": true,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "hint": "How could you forget about the color of tomatoes?",
+     "text": "red"
+    },
+    {
+     "altSpellings": [],
+     "hint": "It's the color of carrots! You know the one.",
+     "text": "orange"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Where would we be without this main color? Mustard would be gray!",
+     "text": "yellow"
+    },
+    {
+     "altSpellings": [],
+     "hint": "It's the color of crisp, leafy lettuce! Perfect on a sandwich!",
+     "text": "green"
+    },
+    {
+     "altSpellings": [
+      "cyan"
+     ],
+     "hint": "Don't forget about the color of blueberries! Oh, oops.",
+     "text": "blue"
+    },
+    {
+     "altSpellings": [],
+     "hint": "You'll be \"closer to fine\" if you can remember what the I in Roy G Biv stands for.",
+     "text": "indigo"
+    },
+    {
+     "altSpellings": [],
+     "hint": "It's the word for purple that starts with a V. The visible light spectrum is fancy like that.",
+     "text": "violet"
+    }
+   ],
+   "category": "Science & Medicine",
+   "exactSpelling": false,
+   "id": "79424",
+   "isValid": "",
+   "prompt": "Which 7 colors are on the visible light spectrum?",
+   "subtype": "name",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Copperfield"
+     ],
+     "hint": "You know, like the Dickens character?",
+     "text": "David Copperfield"
+    },
+    {
+     "altSpellings": [
+      "Siegfried & Roy",
+      "Roy and Siegfried",
+      "Roy & Siegfried",
+      "Siegfried Roy"
+     ],
+     "hint": "They had the tigers! The magical tigers",
+     "text": "Siegfried and Roy"
+    },
+    {
+     "altSpellings": [
+      "Burton"
+     ],
+     "hint": "",
+     "text": "Lance Burton"
+    },
+    {
+     "altSpellings": [
+      "Jay",
+      "Ricky"
+     ],
+     "hint": "",
+     "text": "Ricky Jay"
+    },
+    {
+     "altSpellings": [
+      "Penn & Teller",
+      "Penn Teller"
+     ],
+     "hint": "There's just something magical about their height difference.",
+     "text": "Penn and Teller"
+    },
+    {
+     "altSpellings": [
+      "Angel"
+     ],
+     "hint": "You know, the bad boy of magic?",
+     "text": "Criss Angel"
+    },
+    {
+     "altSpellings": [
+      "Houdini"
+     ],
+     "hint": "The man who started it all, if by “it” you mean drowning yourself while wearing handcuffs.",
+     "text": "Harry Houdini"
+    },
+    {
+     "altSpellings": [
+      "Blane"
+     ],
+     "hint": "Oh, what about that guy who was sealed high in a box for 44 days? That was pretty magical.",
+     "text": "David Blaine"
+    }
+   ],
+   "category": "Pop Culture",
+   "exactSpelling": false,
+   "id": "79427",
+   "isValid": "",
+   "prompt": "My 8 Favorite Famous Magicians",
+   "subtype": "subjective",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "mini iPad",
+      "an iPad",
+      "an iPad mini"
+     ],
+     "hint": "It's like an iPad, but smaller.",
+     "text": "iPad mini"
+    },
+    {
+     "altSpellings": [
+      "The iPhone",
+      "an iPhone"
+     ],
+     "hint": "",
+     "text": "iPhone"
+    },
+    {
+     "altSpellings": [
+      "Watch"
+     ],
+     "hint": "You wear it on your wrist.",
+     "text": "Apple Watch"
+    },
+    {
+     "altSpellings": [
+      "tv"
+     ],
+     "hint": "",
+     "text": "Apple TV"
+    },
+    {
+     "altSpellings": [
+      "Apple Headphones",
+      "AirPods Pro"
+     ],
+     "hint": "",
+     "text": "AirPods"
+    },
+    {
+     "altSpellings": [
+      "the ipod",
+      "an ipod"
+     ],
+     "hint": "This is a device that stored music in the olden days.",
+     "text": "iPod"
+    }
+   ],
+   "category": "Factoids",
+   "exactSpelling": false,
+   "id": "79461",
+   "isValid": "",
+   "prompt": "Which 6 Apple products can fit in a standard shoebox?",
+   "subtype": "name",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "semi-sweet chocolate",
+      "bittersweet chocolate"
+     ],
+     "hint": "Oh come on, it's in the name people!",
+     "text": "chocolate"
+    },
+    {
+     "altSpellings": [],
+     "hint": "If you wanna make a souffle you gotta crack a couple of these babies.",
+     "text": "eggs"
+    },
+    {
+     "altSpellings": [
+      "cream of tartar",
+      "tartar",
+      "tartar cream",
+      "cream tartar"
+     ],
+     "hint": "",
+     "text": "cream"
+    },
+    {
+     "altSpellings": [
+      "sea salt"
+     ],
+     "hint": "Can't believe you haven't thought of putting in a pinch of this.",
+     "text": "salt"
+    },
+    {
+     "altSpellings": [
+      "granulated sugar"
+     ],
+     "hint": "",
+     "text": "sugar"
+    },
+    {
+     "altSpellings": [
+      "vanilla"
+     ],
+     "hint": "I'll give you a hint... it's an extract... made from vanilla.",
+     "text": "vanilla extract"
+    },
+    {
+     "altSpellings": [
+      "butter stick",
+      "stick of butter",
+      "unsalted butter"
+     ],
+     "hint": "",
+     "text": "butter"
+    }
+   ],
+   "category": "Food & Drink",
+   "exactSpelling": false,
+   "id": "79462",
+   "isValid": "",
+   "prompt": "What are the ingredients in a chocolate soufflé?",
+   "subtype": "name",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "triangle"
+    },
+    {
+     "altSpellings": [],
+     "hint": "It has 8 sides! Now that would be cool. To have sides I mean.",
+     "text": "octagon"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "square"
+    },
+    {
+     "altSpellings": [
+      "rhombus"
+     ],
+     "hint": "They say THIS one is a girl's best friend!",
+     "text": "diamond"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "rectangle"
+    },
+    {
+     "altSpellings": [],
+     "hint": "This one would make me look like the coolest stop sign ever.",
+     "text": "hexagon"
+    }
+   ],
+   "category": "Math",
+   "exactSpelling": false,
+   "id": "79467",
+   "isValid": "",
+   "prompt": "The 6 Shapes I Would Like to Be If I Weren't a Wheel",
+   "subtype": "subjective",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Physics Prize",
+      "Fisics Prize",
+      "Fisics"
+     ],
+     "hint": "",
+     "text": "Physics"
+    },
+    {
+     "altSpellings": [
+      "Chemistry Prize"
+     ],
+     "hint": "It's a science and something Mulder and Scully had.",
+     "text": "Chemistry"
+    },
+    {
+     "altSpellings": [
+      "Physiology",
+      "Physiology or Medicine",
+      "Physiology and Medicine",
+      "Physiology Medicine",
+      "Medicine or Physiology",
+      "Medicine Physiology",
+      "Medicine and Physiology",
+      "Medicine Prize",
+      "Physiology Prize"
+     ],
+     "hint": "",
+     "text": "Medicine"
+    },
+    {
+     "altSpellings": [
+      "Peace Prize"
+     ],
+     "hint": "Winners of one category include Nelson Mandela & Mother Teresa.",
+     "text": "Peace"
+    },
+    {
+     "altSpellings": [
+      "Literature Prize"
+     ],
+     "hint": "",
+     "text": "Literature"
+    },
+    {
+     "altSpellings": [
+      "Economy",
+      "Economics",
+      "Econ Science",
+      "Prize in Economic Sciences"
+     ],
+     "hint": "(to self) Money, money, money.",
+     "text": "Economic Sciences"
+    }
+   ],
+   "category": "Science & Medicine",
+   "exactSpelling": false,
+   "id": "79471",
+   "isValid": "",
+   "prompt": "What are the 6 Nobel Prize categories?",
+   "subtype": "name",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Delta Airlines",
+      "Delta Air"
+     ],
+     "hint": "Named after the end of a river? Pretty boring.",
+     "text": "Delta"
+    },
+    {
+     "altSpellings": [
+      "Virgin Atlantic",
+      "Virgin Australia",
+      "Virgin Airline",
+      "Virgin Air"
+     ],
+     "hint": "Go back to selling CDs at the megastore!",
+     "text": "Virgin"
+    },
+    {
+     "altSpellings": [
+      "Southwest Airlines",
+      "Southwest Air"
+     ],
+     "hint": "A direction and another direction... WOW, original!",
+     "text": "Southwest"
+    },
+    {
+     "altSpellings": [
+      "Frontier Airlines",
+      "Frontier Air"
+     ],
+     "hint": "This one is ironic because it doesn't go into the great unknown anymore, just Cleveland.",
+     "text": "Frontier"
+    },
+    {
+     "altSpellings": [
+      "JetBlue Airways",
+      "JetBlue Airline",
+      "JetBlue Air"
+     ],
+     "hint": "You can't just say what you are and then a color!",
+     "text": "JetBlue"
+    },
+    {
+     "altSpellings": [
+      "Emirates Airline"
+     ],
+     "hint": "I WAS going to fly to the corporate HQ to complain, but Dubai's too far for me to roll.",
+     "text": "Emirates"
+    },
+    {
+     "altSpellings": [
+      "Aer Lingus Airline"
+     ],
+     "hint": "This European carrier just sounds dirty.\n\nALT. What to say about this European carrier... well... it's all in the tongue.",
+     "text": "Aer Lingus"
+    },
+    {
+     "altSpellings": [
+      "Deutsche Lufthansa"
+     ],
+     "hint": "Sounds like \"Lift Hans,\" right? Whatever.",
+     "text": "Lufthansa"
+    },
+    {
+     "altSpellings": [
+      "Spirit Airlines",
+      "Spirit Air"
+     ],
+     "hint": "They call it this because if you take one of their flights your soul leaves your body.\n\nALT.  (mimicing the spirit cheer) \"We've got an airline, yes we do, we've got an airline, how 'bout you?\"",
+     "text": "Spirit"
+    },
+    {
+     "altSpellings": [
+      "United Airlines",
+      "United Air"
+     ],
+     "hint": "Time to dissolve this \"union.\"",
+     "text": "United"
+    }
+   ],
+   "category": "Vehicles",
+   "exactSpelling": false,
+   "id": "79500",
+   "isValid": "",
+   "prompt": "The 10 Airlines I Boycott Because I Am Unable to Fit in the Planes",
+   "subtype": "subjective",
+   "us": true,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "apple pie"
+     ],
+     "hint": "Classic American pie for a classic non-nation-affiliated wheel.",
+     "text": "apple"
+    },
+    {
+     "altSpellings": [
+      "cherry pie"
+     ],
+     "hint": "Tasty, tangy, and oozing red on the inside, just like me.",
+     "text": "cherry"
+    },
+    {
+     "altSpellings": [
+      "peach pie"
+     ],
+     "hint": "You gotta roll yourself down to Georgia for THIS treat.",
+     "text": "peach"
+    },
+    {
+     "altSpellings": [
+      "pumpkin pie"
+     ],
+     "hint": "This pie's a real jack-o-lantern of all trades.",
+     "text": "pumpkin"
+    },
+    {
+     "altSpellings": [
+      "key lime pie"
+     ],
+     "hint": "Tart with a graham cracker crust, THIS pie puts me in the island mood.",
+     "text": "key lime"
+    },
+    {
+     "altSpellings": [
+      "lemon meringue pie",
+      "lemon cream",
+      "lemon cream pie",
+      "lemon custard",
+      "lemon custard pie",
+      "iced lemon pie",
+      "iced lemon"
+     ],
+     "hint": "Balance out the sour with a little bit of whipped, hard-to-bake sweet. Pucker up!",
+     "text": "lemon meringue"
+    }
+   ],
+   "category": "Food & Drink",
+   "exactSpelling": false,
+   "id": "79502",
+   "isValid": "",
+   "prompt": "I Wish My Facial Slices Were Filled With These 6 [i]Pies[/i] Instead of Your Names",
+   "subtype": "subjective",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Larson",
+      "Brie"
+     ],
+     "hint": "More like Captain MARVELOUS.",
+     "text": "Brie Larson"
+    },
+    {
+     "altSpellings": [
+      "Evans",
+      "Kris Evans"
+     ],
+     "hint": "The original super soldier, and owner of \"America's Butt.\"",
+     "text": "Chris Evans"
+    },
+    {
+     "altSpellings": [
+      "Hemsworth",
+      "Hemworth"
+     ],
+     "hint": "This one's certainly got a cute Asgard!",
+     "text": "Chris Hemsworth"
+    },
+    {
+     "altSpellings": [
+      "Rudd",
+      "Paul"
+     ],
+     "hint": "The ageless Ant-Man! No wrinkles there!",
+     "text": "Paul Rudd"
+    },
+    {
+     "altSpellings": [
+      "Jackson",
+      "Sam Jackson",
+      "Samuel Jackson",
+      "Samuel",
+      "Sam",
+      "Sam Jack",
+      "SLJ",
+      "S.L.J."
+     ],
+     "hint": "",
+     "text": "Samuel L. Jackson"
+    },
+    {
+     "altSpellings": [
+      "Lilly",
+      "Evangeline"
+     ],
+     "hint": "The Wasp to the titular Ant-Man. Get LOST in her eyes!",
+     "text": "Evangeline Lilly"
+    },
+    {
+     "altSpellings": [
+      "Benedict",
+      "Cumberbatch"
+     ],
+     "hint": "Oh yeah, I love Humperdink Funkybunch.",
+     "text": "Benedict Cumberbatch"
+    },
+    {
+     "altSpellings": [
+      "Cheadle"
+     ],
+     "hint": "There's no replacement for THIS War Machine!",
+     "text": "Don Cheadle"
+    },
+    {
+     "altSpellings": [
+      "Hiddleston"
+     ],
+     "hint": "Low key? This hottie is pretty tricky.",
+     "text": "Tom Hiddleston"
+    },
+    {
+     "altSpellings": [
+      "Sebastian",
+      "Stan"
+     ],
+     "hint": "This one's a real Bucky Barnes-burner. Now is the Winter Soldier of our discontent... over how hot he is!",
+     "text": "Sebastian Stan"
+    },
+    {
+     "altSpellings": [
+      "Elizabeth",
+      "Olsen"
+     ],
+     "hint": "This magical actress has us seeing red... and developing a mind dimension where nothing can ever go wrong as a result of trauma.",
+     "text": "Elizabeth Olsen"
+    },
+    {
+     "altSpellings": [
+      "Anthony",
+      "Mackie"
+     ],
+     "hint": "Is he Falcon? Captain America? Two-for-one!",
+     "text": "Anthony Mackie"
+    }
+   ],
+   "category": "Celebrities",
+   "exactSpelling": false,
+   "id": "79503",
+   "isValid": "",
+   "prompt": "The 12 Biggest Dreamboats in the Marvel Cinematic Universe (Celebrity Names)",
+   "subtype": "subjective",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Angel Soft Ultra"
+     ],
+     "hint": "What's more gentle on your tender bottom than Cupid's touch?",
+     "text": "Angel Soft"
+    },
+    {
+     "altSpellings": [
+      "Charmin Ultra Soft",
+      "Charmin Ultra Strong",
+      "Charmin Ultra"
+     ],
+     "hint": "Ok, what's with the bears? Can someone explain it to me?",
+     "text": "Charmin"
+    },
+    {
+     "altSpellings": [
+      "Cottonelle Ultra",
+      "Cottonelle Ultra GentleCare",
+      "Cottonelle Ultra CleanCare",
+      "Cottonelle Ultra ComfortCare"
+     ],
+     "hint": "It's named after a fabric, but it's not a fabric. Is it?",
+     "text": "Cottonelle"
+    },
+    {
+     "altSpellings": [
+      "Walmart Great Value",
+      "Great Value Walmart"
+     ],
+     "hint": "This is Walmart's line of in-house products, so I hope it's as great a bargain as it says it is.",
+     "text": "Great Value"
+    },
+    {
+     "altSpellings": [
+      "Quilted Northern Ultra",
+      "Quilting Northern",
+      "Northern"
+     ],
+     "hint": "Imagine someone's grandmother knitting THIS toilet paper while doing your business... in the north.",
+     "text": "Quilted Northern"
+    },
+    {
+     "altSpellings": [
+      "Kirkland Signature",
+      "Kirkland Costco",
+      "Costco Kirkland",
+      "Kirkland Signature Bath Tissue"
+     ],
+     "hint": "One is named after Coscto's personal brand, but it does sound like my friend Kirk's backyard.",
+     "text": "Kirkland"
+    },
+    {
+     "altSpellings": [
+      "Scott’s"
+     ],
+     "hint": "Ok, this one is literally just a guy's name. Really, am I being pranked?",
+     "text": "Scott"
+    },
+    {
+     "altSpellings": [
+      "Panda Ultra Premium"
+     ],
+     "hint": "These bears are too rare and beautiful for us to be naming our bathroom tissue after them!",
+     "text": "Panda"
+    },
+    {
+     "altSpellings": [
+      "Seven Generation",
+      "7th Generation",
+      "Seventh Gen",
+      "7th Gen"
+     ],
+     "hint": "You know the one: eco-friendly, has a leaf for a logo, probably more comfortable than an actual leaf.",
+     "text": "Seventh Generation"
+    }
+   ],
+   "category": "Companies & Brands",
+   "exactSpelling": false,
+   "id": "79515",
+   "isValid": "",
+   "prompt": "The 9 Toilet Paper Brands That Strike My Fancy",
+   "subtype": "subjective",
+   "us": true,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Wear",
+      "ware"
+     ],
+     "text": "where"
+    },
+    {
+     "altSpellings": [
+      "stair"
+     ],
+     "text": "stare"
+    },
+    {
+     "altSpellings": [
+      "bare"
+     ],
+     "text": "bear"
+    },
+    {
+     "text": "rare"
+    },
+    {
+     "text": "tear"
+    },
+    {
+     "text": "dare"
+    },
+    {
+     "text": "glare"
+    },
+    {
+     "altSpellings": [
+      "flair"
+     ],
+     "text": "flare"
+    },
+    {
+     "text": "share"
+    },
+    {
+     "altSpellings": [
+      "hare"
+     ],
+     "text": "hair"
+    },
+    {
+     "altSpellings": [
+      "ayer"
+     ],
+     "text": "air"
+    },
+    {
+     "text": "lair"
+    },
+    {
+     "text": "square"
+    },
+    {
+     "altSpellings": [
+      "they're",
+      "their"
+     ],
+     "text": "there"
+    },
+    {
+     "altSpellings": [
+      "pair",
+      "pare"
+     ],
+     "text": "pear"
+    },
+    {
+     "text": "snare"
+    },
+    {
+     "text": "swear"
+    },
+    {
+     "text": "scare"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "mare"
+    }
+   ],
+   "category": "Language/Words/Grammar",
+   "exactSpelling": true,
+   "id": "79613",
+   "isValid": "",
+   "prompt": "What rhymes with “care”? (one-syllable common words only)",
+   "subtype": "rhyme",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "bhang"
+     ],
+     "text": "bang"
+    },
+    {
+     "text": "clang"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Come on, meeples! Put your teeth into it.",
+     "text": "fang"
+    },
+    {
+     "text": "gang"
+    },
+    {
+     "text": "hang"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Ding dong! Hey, was that the doorbell?",
+     "text": "rang"
+    },
+    {
+     "text": "sang"
+    },
+    {
+     "hint": "What's another word for lingo?",
+     "text": "slang"
+    },
+    {
+     "hint": "I'm thinking of a word that's kind of like \"zest.\" Maybe a bit sour.",
+     "text": "tang"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Really good trivia makes my heart feel one of these things.",
+     "text": "pang"
+    }
+   ],
+   "category": "Language/Words/Grammar",
+   "exactSpelling": true,
+   "id": "79614",
+   "isValid": "",
+   "prompt": "What rhymes with “dang”? (one-syllable common words only)",
+   "subtype": "rhyme",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "cort"
+     ],
+     "text": "court"
+    },
+    {
+     "altSpellings": [
+      "forte"
+     ],
+     "text": "fort"
+    },
+    {
+     "text": "port"
+    },
+    {
+     "text": "quart"
+    },
+    {
+     "text": "short"
+    },
+    {
+     "text": "skort"
+    },
+    {
+     "text": "snort"
+    },
+    {
+     "text": "sort"
+    },
+    {
+     "text": "sport"
+    },
+    {
+     "text": "thwart"
+    },
+    {
+     "altSpellings": [
+      "torte"
+     ],
+     "text": "tort"
+    },
+    {
+     "text": "wart"
+    }
+   ],
+   "category": "Language/Words/Grammar",
+   "exactSpelling": true,
+   "id": "79615",
+   "isValid": "",
+   "prompt": "What rhymes with “Bort”? (one-syllable common words only)",
+   "subtype": "rhyme",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "feel",
+      "touching",
+      "feeling"
+     ],
+     "hint": "",
+     "text": "touch"
+    },
+    {
+     "altSpellings": [
+      "vision",
+      "eyes",
+      "see",
+      "seeing"
+     ],
+     "hint": "",
+     "text": "sight"
+    },
+    {
+     "altSpellings": [
+      "flavor",
+      "tastebuds",
+      "tongue",
+      "tasting"
+     ],
+     "hint": "",
+     "text": "taste"
+    },
+    {
+     "altSpellings": [
+      "sniff",
+      "nose",
+      "smelling"
+     ],
+     "hint": "",
+     "text": "smell"
+    },
+    {
+     "altSpellings": [
+      "hear",
+      "hearing"
+     ],
+     "hint": "",
+     "text": "sound"
+    },
+    {
+     "altSpellings": [
+      "can see dead people",
+      "he can see dead people",
+      "you can see dead people",
+      "can see the dead",
+      "I can see dead people",
+      "I see dead people",
+      "dead people",
+      "see ghosts",
+      "ghosts",
+      "sees dead people"
+     ],
+     "hint": "",
+     "text": "see dead people"
+    }
+   ],
+   "category": "Factoids",
+   "exactSpelling": false,
+   "id": "80249",
+   "isValid": "",
+   "prompt": "Name the five senses + the one Haley Joel Osment has",
+   "subtype": "name",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "AK"
+     ],
+     "hint": "You all need to get your BERINGS ... straight.",
+     "text": "Alaska"
+    },
+    {
+     "altSpellings": [
+      "WA"
+     ],
+     "hint": "Think \"west,\" like as west as you can go.",
+     "text": "Washington"
+    },
+    {
+     "altSpellings": [
+      "ID"
+     ],
+     "hint": "Potatoes, anyone? Taters?",
+     "text": "Idaho"
+    },
+    {
+     "altSpellings": [
+      "MT"
+     ],
+     "hint": "Don't forget Big Sky Country.",
+     "text": "Montana"
+    },
+    {
+     "altSpellings": [
+      "ND",
+      "N. Dakota"
+     ],
+     "hint": "What's the state with Mount Rushmore? Is it that one? Not sure.",
+     "text": "North Dakota"
+    },
+    {
+     "altSpellings": [
+      "MN"
+     ],
+     "hint": "If there's one you cannot miss, it's this one. Just imagine Canada, but with a gigantic mall.",
+     "text": "Minnesota"
+    },
+    {
+     "altSpellings": [
+      "MI"
+     ],
+     "hint": "",
+     "text": "Michigan"
+    },
+    {
+     "altSpellings": [
+      "OH"
+     ],
+     "hint": "The password for this state is... Lake Erie. Good luck.",
+     "text": "Ohio"
+    },
+    {
+     "altSpellings": [
+      "PA"
+     ],
+     "hint": "Did you know Ben Franklin visited Canada? He had that stupid hat to keep him warm I guess.",
+     "text": "Pennsylvania"
+    },
+    {
+     "altSpellings": [
+      "NY"
+     ],
+     "hint": "It's only the 4th most populated state in the US. Easy to forget.",
+     "text": "New York"
+    },
+    {
+     "altSpellings": [
+      "VT"
+     ],
+     "hint": "I wonder if Bernie Sanders ever went to Canada.",
+     "text": "Vermont"
+    },
+    {
+     "altSpellings": [
+      "NH"
+     ],
+     "hint": "",
+     "text": "New Hampshire"
+    },
+    {
+     "altSpellings": [
+      "ME"
+     ],
+     "hint": "I'm sure Stephen King's spent time in Canada. Polite and scary is a terrifying combo.",
+     "text": "Maine"
+    }
+   ],
+   "category": "Geography & Landmarks",
+   "exactSpelling": true,
+   "id": "80323",
+   "isValid": "",
+   "prompt": "Which U.S. states border Canada?",
+   "subtype": "name",
+   "us": true,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Homie",
+      "Homer Simpson"
+     ],
+     "hint": "He didn't write the Odyssey.",
+     "text": "Homer"
+    },
+    {
+     "altSpellings": [
+      "Margie",
+      "Marjorie",
+      "Marge Simpson"
+     ],
+     "hint": "The matriarch wears her hair in a LARGE beehive!",
+     "text": "Marge"
+    },
+    {
+     "altSpellings": [
+      "Bartholomew",
+      "Bort",
+      "Bart Simpson"
+     ],
+     "hint": "If you don't get this, you're gonna have a cow, man!",
+     "text": "Bart"
+    },
+    {
+     "altSpellings": [
+      "Lisa Marie",
+      "Lisa Simpson"
+     ],
+     "hint": "",
+     "text": "Lisa"
+    },
+    {
+     "altSpellings": [
+      "Margaret",
+      "Maggie Simpson"
+     ],
+     "hint": "",
+     "text": "Maggie"
+    }
+   ],
+   "category": "Animation/Comic Books",
+   "exactSpelling": false,
+   "id": "82672",
+   "isValid": "",
+   "prompt": "Who are the 5 primary members of the [i]Simpsons[/i] family?",
+   "subtype": "name",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Borinquen"
+     ],
+     "hint": "This country has a great PR firm. It features prominently in the musical, [i]West Side Story[/i].",
+     "text": "Puerto Rico"
+    },
+    {
+     "altSpellings": [
+      "Virgin Islands",
+      "The Virgin Islands",
+      "The US Virgin Islands",
+      "US Virgin Islands",
+      "USVI"
+     ],
+     "hint": "If you're thinking of Virgin Records, you're on the right track.",
+     "text": "U.S. Virgin Islands"
+    },
+    {
+     "altSpellings": [
+      "Amelika Samoa"
+     ],
+     "hint": "Don't confuse one of these territories with Samoa, but it sounds similar.",
+     "text": "American Samoa"
+    },
+    {
+     "altSpellings": [],
+     "hint": "This territory is in the Pacific and is the westernmost point of the United States.",
+     "text": "Guam"
+    },
+    {
+     "altSpellings": [
+      "Mariana Islands",
+      "CNMI"
+     ],
+     "hint": "",
+     "text": "Northern Mariana Islands"
+    }
+   ],
+   "category": "Geography & Landmarks",
+   "exactSpelling": false,
+   "id": "82674",
+   "isValid": "",
+   "prompt": "As of 2020, what are the 5 inhabited territories of the United States that have permanent residents?",
+   "subtype": "name",
+   "us": true,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "Head"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "Shoulders"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "Knees"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "Toes"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Hey, look up here. LOOK up here.",
+     "text": "Eyes"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Pay attention and listen up.",
+     "text": "Ears"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "Mouth"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "Nose"
+    }
+   ],
+   "category": "Music",
+   "exactSpelling": false,
+   "id": "82695",
+   "isValid": "",
+   "prompt": "Name all the body parts mentioned in the nursery rhyme “Head, Shoulders, Knees and Toes”",
+   "subtype": "name",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "hint": "If my face were capable of this, I'm sure I would do it.",
+     "text": "blush"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "brush"
+    },
+    {
+     "altSpellings": [],
+     "hint": "I'm so enormous, if I fell I'd certainly do THIS to you.",
+     "text": "crush"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Hey toilet users, don't forget to...!",
+     "text": "flush"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "gush"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "hush"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "lush"
+    },
+    {
+     "altSpellings": [],
+     "hint": "You might say this to a dogsled team.",
+     "text": "mush"
+    },
+    {
+     "altSpellings": [],
+     "hint": "In the morning and late afternoon, this hour is usually full of traffic.",
+     "text": "rush"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "shush"
+    },
+    {
+     "altSpellings": [],
+     "hint": "When the winter snow melts, it turns into this gray nuisance.",
+     "text": "slush"
+    },
+    {
+     "altSpellings": [],
+     "hint": "This is a little bird.",
+     "text": "thrush"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "smush"
+    }
+   ],
+   "category": "Language/Words/Grammar",
+   "exactSpelling": true,
+   "id": "82701",
+   "isValid": "",
+   "prompt": "What rhymes with “plush”? (one-syllable common words only)",
+   "subtype": "rhyme",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "hint": "I’m a little too big to sleep up top, so I’ll choose the bottom.",
+     "text": "bunk"
+    },
+    {
+     "altSpellings": [
+      "klunk"
+     ],
+     "hint": "",
+     "text": "clunk"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "crunk"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Drinking too much mead might make you THIS. Do people still drink mead?",
+     "text": "drunk"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Michael Jordan has been known to do this.",
+     "text": "dunk"
+    },
+    {
+     "altSpellings": [],
+     "hint": "If you fail this game, THIS word might fit.",
+     "text": "flunk"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "funk"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "gunk"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Strapping handsome men are often called this.",
+     "text": "hunk"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "junk"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "monk"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "plunk"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "punk"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Rick Moranis’ kids got...",
+     "text": "shrunk"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "skunk"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Consider the past tense of slink.",
+     "text": "slunk"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "spunk"
+    },
+    {
+     "altSpellings": [],
+     "hint": "You wore deodorant yesterday because you...",
+     "text": "stunk"
+    },
+    {
+     "altSpellings": [
+      "it sunk"
+     ],
+     "hint": "Say, what did the Titanic do?",
+     "text": "sunk"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "trunk"
+    }
+   ],
+   "category": "Language/Words/Grammar",
+   "exactSpelling": true,
+   "id": "82702",
+   "isValid": "",
+   "prompt": "What rhymes with “chunk”? (one-syllable common words only)",
+   "subtype": "rhyme",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Bill Clinton",
+      "William Jefferson Clinton",
+      "Bill",
+      "The Comeback Kid"
+     ],
+     "hint": "This man's wife also ran for president.",
+     "text": "Clinton"
+    },
+    {
+     "altSpellings": [
+      "George Herbert Walker Bush",
+      "H. W. Bush",
+      "George",
+      "George Bush",
+      "George H. W. Bush",
+      "George H. Bush",
+      "Bush Senior",
+      "Bush Sr"
+     ],
+     "hint": "This man's son was also president in the next century.",
+     "text": "Bush"
+    },
+    {
+     "altSpellings": [
+      "Ronald Reagan",
+      "Ronald Wilson Reagan",
+      "Ronnie"
+     ],
+     "hint": "One was formerly the governor of California and, before that, in movies.",
+     "text": "Reagan"
+    },
+    {
+     "altSpellings": [
+      "James Carter",
+      "James Earl Carter",
+      "Jimmy Carter",
+      "Jimmy"
+     ],
+     "hint": "",
+     "text": "Carter"
+    },
+    {
+     "altSpellings": [
+      "Gerald R. Ford",
+      "Gerald Rudolph Ford",
+      "Jerry",
+      "Gerald Ford"
+     ],
+     "hint": "",
+     "text": "Ford"
+    },
+    {
+     "altSpellings": [
+      "Richard M. Nixon",
+      "Richard Milhouse Nixon",
+      "Dick",
+      "Richard Nixon",
+      "Tricky Dick"
+     ],
+     "hint": "This one was the first president to resign in office.",
+     "text": "Nixon"
+    },
+    {
+     "altSpellings": [
+      "LBJ",
+      "Lyndon B. Johnson",
+      "Lyndon Baines Johnson",
+      "Lyndon",
+      "Lyndon Johnson"
+     ],
+     "hint": "This one became president after JFK was assassinated.",
+     "text": "Johnson"
+    }
+   ],
+   "category": "Historical Figures",
+   "exactSpelling": false,
+   "id": "82707",
+   "isValid": "",
+   "prompt": "Who were the last 7 U.S. Presidents of the 20th century?",
+   "subtype": "name",
+   "us": true,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "creep"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "deep"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "peep"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "sleep"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "sweep"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "weep"
+    },
+    {
+     "altSpellings": [
+      "cheep"
+     ],
+     "hint": "",
+     "text": "cheap"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "keep"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "weep"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Look before you do THIS.",
+     "text": "leap"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Oh mother (SFX: long bleep)",
+     "text": "bleep"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "heap"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "reap"
+    },
+    {
+     "altSpellings": [],
+     "hint": "I don't count these in my sleep, but some people do.",
+     "text": "sheep"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "steep"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Think of the sound a bird makes.",
+     "text": "cheep"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "jeep"
+    },
+    {
+     "altSpellings": [],
+     "hint": "A vice president is sometimes called this.",
+     "text": "veep"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "meep"
+    }
+   ],
+   "category": "Language/Words/Grammar",
+   "exactSpelling": true,
+   "id": "83258",
+   "isValid": "",
+   "prompt": "What rhymes with “beep”? (one-syllable common words only)",
+   "subtype": "rhyme",
+   "us": false,
+   "x": true
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "car"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "bar"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "star"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "mar"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "are"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "far"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Don't get burned.",
+     "text": "char"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Think... golfing.",
+     "text": "par"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "tar"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Think... boxing.",
+     "text": "spar"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "scar"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "jar"
+    }
+   ],
+   "category": "Language/Words/Grammar",
+   "exactSpelling": true,
+   "id": "83260",
+   "isValid": "",
+   "prompt": "What rhymes with “czar”? (one-syllable common words only)",
+   "subtype": "rhyme",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      ""
+     ],
+     "hint": "",
+     "text": "beach"
+    },
+    {
+     "altSpellings": [
+      "breech"
+     ],
+     "hint": "",
+     "text": "breach"
+    },
+    {
+     "altSpellings": [],
+     "hint": "This word makes your whites whiter.",
+     "text": "bleach"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "screech"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "teach"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Maybe this question is beyond... yours.",
+     "text": "reach"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "speech"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "each"
+    },
+    {
+     "altSpellings": [
+      "leach"
+     ],
+     "hint": "",
+     "text": "leech"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "preach"
+    },
+    {
+     "altSpellings": [],
+     "hint": "I'm thinking of a popular type of lumber.",
+     "text": "beech"
+    }
+   ],
+   "category": "Language/Words/Grammar",
+   "exactSpelling": true,
+   "id": "83261",
+   "isValid": "",
+   "prompt": "What rhymes with “peach”? (one-syllable common words only)",
+   "subtype": "rhyme",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "art"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "start"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "cart"
+    },
+    {
+     "altSpellings": [],
+     "hint": "What's that place where shopping happens?",
+     "text": "mart"
+    },
+    {
+     "altSpellings": [],
+     "hint": "(toots) Pardon me.",
+     "text": "fart"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "chart"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "dart"
+    },
+    {
+     "altSpellings": [],
+     "hint": "I'm thinking of a shortcrust pastry. Well, when am I not thinking of those?",
+     "text": "tart"
+    },
+    {
+     "altSpellings": [],
+     "hint": "If you nail this one, you'll certainly feel like this.",
+     "text": "smart"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "part"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "hart"
+    }
+   ],
+   "category": "Language/Words/Grammar",
+   "exactSpelling": true,
+   "id": "83262",
+   "isValid": "",
+   "prompt": "What rhymes with “heart”? (one-syllable common words only)",
+   "subtype": "rhyme",
+   "us": false,
+   "x": true
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "fling"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "thing"
+    },
+    {
+     "altSpellings": [
+      "ding ding ding"
+     ],
+     "hint": "What's the sound of getting something right?!",
+     "text": "ding"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "sing"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "sling"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "bring"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "cling"
+    },
+    {
+     "altSpellings": [
+      "a king"
+     ],
+     "hint": "Not a Jack, not a Queen...",
+     "text": "king"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "ring"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "swing"
+    },
+    {
+     "altSpellings": [],
+     "hint": "You'll need two of these to fly, little ones.",
+     "text": "wing"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "ping"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "zing"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "sting"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "bing"
+    },
+    {
+     "altSpellings": [],
+     "hint": "If you win, you may adorn yourself with so much of this.",
+     "text": "bling"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "wring"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "ting"
+    }
+   ],
+   "category": "Language/Words/Grammar",
+   "exactSpelling": true,
+   "id": "83263",
+   "isValid": "",
+   "prompt": "What rhymes with “string”? (one-syllable common words only)",
+   "subtype": "rhyme",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "flower"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "cower"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "dour"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Some of you may like your cream this way.",
+     "text": "sour"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "tower"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "power"
+    },
+    {
+     "altSpellings": [
+      "plougher"
+     ],
+     "hint": "What do you call one who toils in a field?",
+     "text": "plower"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "scour"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "hour"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "our"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Hey! Don't look at me that way!",
+     "text": "glower"
+    },
+    {
+     "altSpellings": [],
+     "hint": "You'll need this for a proper bake.",
+     "text": "flour"
+    }
+   ],
+   "category": "Language/Words/Grammar",
+   "exactSpelling": true,
+   "id": "83264",
+   "isValid": "",
+   "prompt": "What rhymes with “shower”? (one- or two-syllable common words only)",
+   "subtype": "rhyme",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "cheque"
+     ],
+     "hint": "",
+     "text": "check"
+    },
+    {
+     "altSpellings": [],
+     "hint": "I'm here at your blank and call. I'm good like that.",
+     "text": "beck"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "neck"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "deck"
+    },
+    {
+     "altSpellings": [],
+     "hint": "What's another word for a little, tiny, baby kiss?",
+     "text": "peck"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "speck"
+    },
+    {
+     "altSpellings": [],
+     "hint": "I imagine some of you may work in THIS industry.",
+     "text": "tech"
+    },
+    {
+     "altSpellings": [
+      "treck"
+     ],
+     "hint": "You all made a journey to my mountaintop. You could say you made one of these.",
+     "text": "trek"
+    },
+    {
+     "altSpellings": [
+      "wrek"
+     ],
+     "hint": "",
+     "text": "wreck"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "heck"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Some Slovaks can relate to THIS word.",
+     "text": "Czech"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "dreck"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "fleck"
+    }
+   ],
+   "category": "Language/Words/Grammar",
+   "exactSpelling": true,
+   "id": "83267",
+   "isValid": "",
+   "prompt": "What rhymes with “Shrek”? (one-syllable common words only)",
+   "subtype": "rhyme",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "Poland"
+    },
+    {
+     "altSpellings": [],
+     "hint": "One of these places is known for its canal.",
+     "text": "Panama"
+    },
+    {
+     "altSpellings": [],
+     "hint": "There are two P-named countries in South America.",
+     "text": "Peru"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Not Afghanistan but...",
+     "text": "Pakistan"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "Papua New Guinea"
+    },
+    {
+     "altSpellings": [],
+     "hint": "One country borders Spain. And it ain't France.",
+     "text": "Portugal"
+    },
+    {
+     "altSpellings": [
+      "The Philippines"
+     ],
+     "hint": "",
+     "text": "Philippines"
+    },
+    {
+     "altSpellings": [],
+     "hint": "There are two P-named countries in South America.",
+     "text": "Paraguay"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "Palau"
+    },
+    {
+     "altSpellings": [],
+     "hint": "One of these is recognized as a sovereign state. It's on the West Bank of the River Jordan.",
+     "text": "Palestine"
+    }
+   ],
+   "category": "Geography & Landmarks",
+   "exactSpelling": false,
+   "id": "83271",
+   "isValid": "",
+   "prompt": "What countries start with the letter “P”?",
+   "subtype": "name",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Airies",
+      "Airyes"
+     ],
+     "hint": "What's the sign of the ram?",
+     "text": "Aries"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Roooaaar! (clears throat)",
+     "text": "Leo"
+    },
+    {
+     "altSpellings": [
+      "Sagitearius",
+      "Sagitareous"
+     ],
+     "hint": "",
+     "text": "Sagittarius"
+    },
+    {
+     "altSpellings": [
+      "Scorepio",
+      "Squorpio",
+      "Scorpyo"
+     ],
+     "hint": "",
+     "text": "Scorpio"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Why do I have a craving for crab?",
+     "text": "Cancer"
+    },
+    {
+     "altSpellings": [
+      "Pieces"
+     ],
+     "hint": "Think... fish.",
+     "text": "Pisces"
+    }
+   ],
+   "category": "Religion",
+   "exactSpelling": false,
+   "id": "83273",
+   "isValid": "",
+   "prompt": "What are the 6 fire and water signs of the zodiac?",
+   "subtype": "name",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Apples"
+     ],
+     "hint": "One of these a day can keep the doctor away, or be used to make a Waldorf salad!",
+     "text": "apple"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Remember, it needs a bit of crunch.",
+     "text": "celery"
+    },
+    {
+     "altSpellings": [
+      "Mayo"
+     ],
+     "hint": "It's a... creamy... salad.",
+     "text": "mayonnaise"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Don't forget the seasoning!",
+     "text": "salt"
+    },
+    {
+     "altSpellings": [],
+     "hint": "A little bit of heat never hurt anyone!",
+     "text": "pepper"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "lettuce"
+    }
+   ],
+   "category": "Food & Drink",
+   "exactSpelling": false,
+   "id": "83283",
+   "isValid": "",
+   "prompt": "According to [i]The New York Times[/i], which 6 ingredients do you need to make a classic Waldorf salad?",
+   "subtype": "name",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Dorothy Zbornak",
+      "Zbornak",
+      "Dorthea",
+      "Dor"
+     ],
+     "hint": "Who's the protagonist of Wizard of Oz?\nType that name.",
+     "text": "Dorothy"
+    },
+    {
+     "altSpellings": [
+      "Rose Nylund",
+      "Nylund"
+     ],
+     "hint": "A BLANK by any other name would smell as sweet.",
+     "text": "Rose"
+    },
+    {
+     "altSpellings": [
+      "Blanche Devereaux",
+      "Devereaux"
+     ],
+     "hint": "",
+     "text": "Blanche"
+    },
+    {
+     "altSpellings": [
+      "Sophia Petrillo",
+      "Petrillo"
+     ],
+     "hint": "",
+     "text": "Sophia"
+    },
+    {
+     "altSpellings": [
+      "Vincent Chase",
+      "Vinny",
+      "Vinny Chase"
+     ],
+     "hint": "Think... van Gogh!",
+     "text": "Vincent"
+    },
+    {
+     "altSpellings": [
+      "E",
+      "Eric Murphy",
+      "E Murphy",
+      "Eric “E” Murphy"
+     ],
+     "hint": "",
+     "text": "Eric"
+    },
+    {
+     "altSpellings": [
+      "Salvatore",
+      "Salvatore \"Turtle\" Assante",
+      "Salvatore Assante"
+     ],
+     "hint": "Not Tortoise but...",
+     "text": "Turtle"
+    },
+    {
+     "altSpellings": [
+      "Johnny \"Drama\" Chase",
+      "Drama",
+      "Johnny Chase",
+      "Johnny"
+     ],
+     "hint": "",
+     "text": "Johnny Drama"
+    },
+    {
+     "altSpellings": [
+      "Ari Gold",
+      "Gold"
+     ],
+     "hint": "",
+     "text": "Ari"
+    }
+   ],
+   "category": "Film & TV",
+   "exactSpelling": false,
+   "id": "83285",
+   "isValid": "",
+   "prompt": "Name the girls in the [i]Golden Girls[/i] house AND the boys in the [i]Entourage[/i] entourage",
+   "subtype": "name",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "red"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "orange"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Why not type in the color of the sun, just for giggles? After all, the sun is chocolate's greatest enemy.",
+     "text": "yellow"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Freshly cut grass, guacamole, and M&M'S are all this color... weirdly enough.",
+     "text": "green"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "blue"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Have you considered typing in the color of chocolate itself? Just an idea.",
+     "text": "brown"
+    }
+   ],
+   "category": "Food & Drink",
+   "exactSpelling": false,
+   "id": "83286",
+   "isValid": "",
+   "prompt": "Which 6 colors will you find in a bag of milk chocolate M&M’S?",
+   "subtype": "name",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "First",
+      "First Baseman"
+     ],
+     "hint": "",
+     "text": "first base"
+    },
+    {
+     "altSpellings": [
+      "Second",
+      "Second Baseman"
+     ],
+     "hint": "",
+     "text": "second base"
+    },
+    {
+     "altSpellings": [
+      "Third",
+      "Third Baseman"
+     ],
+     "hint": "",
+     "text": "third base"
+    },
+    {
+     "altSpellings": [
+      "short"
+     ],
+     "hint": "Who sees most of the action happen in the infield? This position.",
+     "text": "shortstop"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Who's the worst hitter on the team? This one!",
+     "text": "pitcher"
+    },
+    {
+     "altSpellings": [],
+     "hint": "This position is known for leadership and knee surgeries.",
+     "text": "catcher"
+    },
+    {
+     "altSpellings": [
+      "Left Fielder"
+     ],
+     "hint": "",
+     "text": "left field"
+    },
+    {
+     "altSpellings": [
+      "Right Fielder"
+     ],
+     "hint": "",
+     "text": "right field"
+    },
+    {
+     "altSpellings": [
+      "Center Fielder"
+     ],
+     "hint": "It's right there in the middle of the outfield. Riiight there in the middle.",
+     "text": "center field"
+    }
+   ],
+   "category": "Sports",
+   "exactSpelling": false,
+   "id": "83326",
+   "isValid": "",
+   "prompt": "What are the 9 defensive positions you can play in baseball?",
+   "subtype": "name",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Two"
+     ],
+     "hint": "",
+     "text": "2"
+    },
+    {
+     "altSpellings": [
+      "Three"
+     ],
+     "hint": "",
+     "text": "3"
+    },
+    {
+     "altSpellings": [
+      "Five"
+     ],
+     "hint": "",
+     "text": "5"
+    },
+    {
+     "altSpellings": [
+      "Seven"
+     ],
+     "hint": "",
+     "text": "7"
+    },
+    {
+     "altSpellings": [
+      "Eleven"
+     ],
+     "hint": "",
+     "text": "11"
+    },
+    {
+     "altSpellings": [
+      "Thirteen"
+     ],
+     "hint": "",
+     "text": "13"
+    },
+    {
+     "altSpellings": [
+      "Seventeen"
+     ],
+     "hint": "",
+     "text": "17"
+    },
+    {
+     "altSpellings": [
+      "Nineteen"
+     ],
+     "hint": "",
+     "text": "19"
+    },
+    {
+     "altSpellings": [
+      "Twenty-Three",
+      "twenty three"
+     ],
+     "hint": "",
+     "text": "23"
+    },
+    {
+     "altSpellings": [
+      "Twenty-Nine",
+      "twenty nine"
+     ],
+     "hint": "",
+     "text": "29"
+    }
+   ],
+   "category": "Math",
+   "exactSpelling": false,
+   "id": "83327",
+   "isValid": "",
+   "prompt": "What are all of the prime numbers between 1 and 30?",
+   "subtype": "name",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "hint": "This state is named after a queen.",
+     "text": "Maryland"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Don't forget your mittens when you're visiting this northern state shaped like a mitten.",
+     "text": "Michigan"
+    },
+    {
+     "altSpellings": [],
+     "hint": "This states nickname is Big Sky Country.",
+     "text": "Montana"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Despite not being Kansas, this state's largest city is Kansas City.",
+     "text": "Missouri"
+    },
+    {
+     "altSpellings": [],
+     "hint": "(boston accent) Go Sox!",
+     "text": "Massachusetts"
+    },
+    {
+     "altSpellings": [],
+     "hint": "A beloved state to spell, this long name matches the long river it's named for.",
+     "text": "Mississippi"
+    },
+    {
+     "altSpellings": [],
+     "hint": "This state is known as the Land of 10,000 Lakes.",
+     "text": "Minnesota"
+    },
+    {
+     "altSpellings": [],
+     "hint": "The main attraction in this state is lobster. The main deterrent is Stephen King.",
+     "text": "Maine"
+    }
+   ],
+   "category": "Geography & Landmarks",
+   "exactSpelling": false,
+   "id": "83328",
+   "isValid": "",
+   "prompt": "What are the 8 U.S. states that begin with the letter “M”?",
+   "subtype": "name",
+   "us": true,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Nile",
+      "Nyle",
+      "Nial",
+      "Niall Horan"
+     ],
+     "hint": "Sounds like that river in Egypt.",
+     "text": "Niall"
+    },
+    {
+     "altSpellings": [
+      "Zane",
+      "Zayn Malik"
+     ],
+     "hint": "Similar to Billy's last name! Get on the train!",
+     "text": "Zayn"
+    },
+    {
+     "altSpellings": [
+      "Liam Payne"
+     ],
+     "hint": "Shares a name with Mr. Neeson!",
+     "text": "Liam"
+    },
+    {
+     "altSpellings": [
+      "Harry Styles"
+     ],
+     "hint": "Shares a name with Mr. Potter!",
+     "text": "Harry"
+    },
+    {
+     "altSpellings": [
+      "Lewis",
+      "Louis Tomlinson"
+     ],
+     "hint": "Like the last name of that fantasy author, C. S. ...",
+     "text": "Louis"
+    }
+   ],
+   "category": "Music",
+   "exactSpelling": false,
+   "id": "83329",
+   "isValid": "",
+   "prompt": "Quick! What are the first names of all the members of One Direction?",
+   "subtype": "name",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Quiplash",
+      "Q3",
+      "Quip 3"
+     ],
+     "hint": "You can learn more about this game at jackboxgames dot com slash quiplash dash three! What a time to be alive!",
+     "text": "[i]Quiplash 3[/i]"
+    },
+    {
+     "altSpellings": [
+      "The Devs and the Details",
+      "Devils",
+      "Devils and the Details",
+      "Devils and Details",
+      "The Devils & the Details",
+      "Devils & Details",
+      "D&D",
+      "Devils Details",
+      "The Devils and Details"
+     ],
+     "hint": "3 to 8 players can play this game! Wow! For more information, go to jackboxgames dot com slash the dash devils dash and dash the dash details!",
+     "text": "[i]The Devils and the Details[/i]"
+    },
+    {
+     "altSpellings": [
+      "Champd"
+     ],
+     "hint": "I've been told I'll get a small commission if you go to jackboxgames dot com slash champd dash up!",
+     "text": "[i]Champ’d Up[/i]"
+    },
+    {
+     "altSpellings": [
+      "Talk Points"
+     ],
+     "hint": "Sometimes I like to go to jackboxgames dot com slash talking dash points! It's how I manage to look so young and spin so smoothly.",
+     "text": "[i]Talking Points[/i]"
+    },
+    {
+     "altSpellings": [
+      "Blather Around",
+      "Blather"
+     ],
+     "hint": "Wow! How many games have the great internet domain jackboxgames dot com slash blather dash round? There's one that FOR SURE does!",
+     "text": "[i]Blather ‘Round[/i]"
+    }
+   ],
+   "category": "Games",
+   "exactSpelling": false,
+   "id": "83333",
+   "isValid": "",
+   "prompt": "Which 5 games are included in [i]The Jackbox Party Pack 7[/i]?",
+   "subtype": "name",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Arctic Ocean",
+      "The Arctic Ocean"
+     ],
+     "hint": "Brr! This ocean is cold! How do those penguins stand it?",
+     "text": "Arctic"
+    },
+    {
+     "altSpellings": [
+      "Southern Ocean",
+      "The Southern Ocean",
+      "Antarctic",
+      "Antarctic Ocean",
+      "The Antarctic Ocean"
+     ],
+     "hint": "Forget the peach pie and sweet tea: it doesn't get more southern than this ocean.",
+     "text": "Southern"
+    },
+    {
+     "altSpellings": [
+      "Indian Ocean",
+      "The Indian Ocean"
+     ],
+     "hint": "Ironically, this ocean is located nowhere near India! Just kidding, it's, like, right next to India.",
+     "text": "Indian"
+    },
+    {
+     "altSpellings": [
+      "Atlantic Ocean",
+      "The Atlantic Ocean"
+     ],
+     "hint": "",
+     "text": "Atlantic"
+    },
+    {
+     "altSpellings": [
+      "Pacific Ocean",
+      "The Pacific Ocean"
+     ],
+     "hint": "",
+     "text": "Pacific"
+    }
+   ],
+   "category": "Geography & Landmarks",
+   "exactSpelling": false,
+   "id": "83335",
+   "isValid": "",
+   "prompt": "What are the 5 named oceans on Earth?",
+   "subtype": "name",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "1 cent",
+      "one cent",
+      "cent",
+      "pennies",
+      "the penny"
+     ],
+     "hint": "This one is the smallest coin!",
+     "text": "penny"
+    },
+    {
+     "altSpellings": [
+      "five cents",
+      "5 cents",
+      "nikel",
+      "nickle",
+      "nikle",
+      "the nickel",
+      "nickels"
+     ],
+     "hint": "I'll give this coin a high-five.",
+     "text": "nickel"
+    },
+    {
+     "altSpellings": [
+      "10 cents",
+      "ten cents",
+      "dimes",
+      "the dime"
+     ],
+     "hint": "Put this coin on a surfboard, because it's hanging ten!",
+     "text": "dime"
+    },
+    {
+     "altSpellings": [
+      "25 cents",
+      "twenty five cents",
+      "a quarter",
+      "the quarter"
+     ],
+     "hint": "We're a fourth of the way to THIS coin.",
+     "text": "quarter"
+    },
+    {
+     "altSpellings": [
+      "twoonie",
+      "two dollars",
+      "toonies",
+      "the toonie",
+      "2 dollar"
+     ],
+     "hint": "This coin rhymes with the nickname for the one-dollar coin.",
+     "text": "toonie"
+    },
+    {
+     "altSpellings": [
+      "one dollar",
+      "one dollar coin",
+      "the loonie",
+      "loonies"
+     ],
+     "hint": "This one is named after the bird on it.",
+     "text": "loonie"
+    },
+    {
+     "altSpellings": [
+      "fifty cents",
+      "50 cents",
+      "half dollar",
+      "1/2 dollar"
+     ],
+     "hint": "Not as much in use, but at least half as fun as a loonie!",
+     "text": "half-dollar"
+    }
+   ],
+   "category": "Money",
+   "exactSpelling": true,
+   "id": "83337",
+   "isValid": "",
+   "prompt": "What are the 7 denominations of Canadian coins?",
+   "subtype": "name",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "dagger"
+     ],
+     "hint": "Let's go people, take a stab at it.",
+     "text": "knife"
+    },
+    {
+     "altSpellings": [
+      "revolver gun",
+      "revolving gun"
+     ],
+     "hint": "One weapon is a type of gun. And no, gun is not acceptable, c'mon!",
+     "text": "revolver"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "rope"
+    },
+    {
+     "altSpellings": [
+      "monkey wrench",
+      "spanner"
+     ],
+     "hint": "This one is good to have in your tool kit... of MURDER!",
+     "text": "wrench"
+    },
+    {
+     "altSpellings": [
+      "candle"
+     ],
+     "hint": "",
+     "text": "candlestick"
+    },
+    {
+     "altSpellings": [
+      "pipe",
+      "lead piping",
+      "piping"
+     ],
+     "hint": "One is made out of lead, and it's not lead paint. Though that's not good for you either.",
+     "text": "lead pipe"
+    }
+   ],
+   "category": "Games",
+   "exactSpelling": false,
+   "id": "83338",
+   "isValid": "",
+   "prompt": "What were the original 6 weapons in the board game [i]Clue[/i]?",
+   "subtype": "name",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Lake Ontario"
+     ],
+     "hint": "One is also the name of a Canadian province!",
+     "text": "Ontario"
+    },
+    {
+     "altSpellings": [
+      "Lake Huron"
+     ],
+     "hint": "This lake was named after an Iroquois tribe.",
+     "text": "Huron"
+    },
+    {
+     "altSpellings": [
+      "Lake Michigan"
+     ],
+     "hint": "If you've ever met anyone from this state they usually pull up their right hand and point to where they're from.",
+     "text": "Michigan"
+    },
+    {
+     "altSpellings": [
+      "Lake Erie"
+     ],
+     "hint": "This lake sure is spooky!",
+     "text": "Erie"
+    },
+    {
+     "altSpellings": [
+      "Lake Superior"
+     ],
+     "hint": "This lake sure is big!",
+     "text": "Superior"
+    }
+   ],
+   "category": "Geography & Landmarks",
+   "exactSpelling": false,
+   "id": "83340",
+   "isValid": "",
+   "prompt": "What are the 5 Great Lakes of North America?",
+   "subtype": "name",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "Mandarin",
+      "Chinese Language",
+      "Mandarin Chinese",
+      "AP Chinese"
+     ],
+     "hint": "Can you say \"Ni hao\"?",
+     "text": "Chinese"
+    },
+    {
+     "altSpellings": [
+      "French Language",
+      "AP French"
+     ],
+     "hint": "Can you say \"Bonjour\"?",
+     "text": "French"
+    },
+    {
+     "altSpellings": [
+      "German Language",
+      "AP German"
+     ],
+     "hint": "Can you say \"Hallo\"?",
+     "text": "German"
+    },
+    {
+     "altSpellings": [
+      "Italian Language",
+      "AP Italian"
+     ],
+     "hint": "Can you say \"Ciao\"?",
+     "text": "Italian"
+    },
+    {
+     "altSpellings": [
+      "Japanese Language",
+      "AP Japanese"
+     ],
+     "hint": "Can you say \"Kon'nichiwa\"?",
+     "text": "Japanese"
+    },
+    {
+     "altSpellings": [
+      "Latin Language",
+      "AP Latin"
+     ],
+     "hint": "Can you say \"Salve\"? (Probably not, it's a dead language.)",
+     "text": "Latin"
+    },
+    {
+     "altSpellings": [
+      "Espanol",
+      "Spanish Language",
+      "Spanish Literature",
+      "AP Spanish"
+     ],
+     "hint": "Can you say \"Hola\"?",
+     "text": "Spanish"
+    },
+    {
+     "altSpellings": [
+      "English Literature",
+      "English Language",
+      "AP English"
+     ],
+     "hint": "Can you say \"Hello\"? (I imagine so.)",
+     "text": "English"
+    }
+   ],
+   "category": "Language/Words/Grammar",
+   "exactSpelling": false,
+   "id": "83342",
+   "isValid": "",
+   "prompt": "Which languages can high school students study at the Advanced Placement (AP) level?",
+   "subtype": "name",
+   "us": true,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "hint": "Like a beetle or an ant.",
+     "text": "bug"
+    },
+    {
+     "altSpellings": [],
+     "hint": "You would do this to some water, or a beer, or even milk? I dunno, I don't do this.",
+     "text": "chug"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Like aspirin or... mmm... something stronger than aspirin.",
+     "text": "drug"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "dug"
+    },
+    {
+     "altSpellings": [],
+     "hint": "I wish I could perform this act... if only I had arms.",
+     "text": "hug"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "jug"
+    },
+    {
+     "altSpellings": [],
+     "hint": "If you don't check your bags, you'll have to blank them all around the airport.",
+     "text": "lug"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "plug"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "pug"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Sweep under this sometime, why don't you?",
+     "text": "rug"
+    },
+    {
+     "altSpellings": [],
+     "hint": "I dunno. If I had shoulders, I'd be doing this. I dunno.",
+     "text": "shrug"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Like a snail who lost his house.",
+     "text": "slug"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "smug"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "snug"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "tug"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Charlie Brown says this interjection when he's exasperated. Some of you have been saying this a lot because of my prompts.",
+     "text": "ugh"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "thug"
+    }
+   ],
+   "category": "Language/Words/Grammar",
+   "exactSpelling": true,
+   "id": "83399",
+   "isValid": "",
+   "prompt": "What rhymes with “mug”? (one-syllable common words only)",
+   "subtype": "rhyme",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "hint": "More than one alcoholic beverage of this type for me!",
+     "text": "beers"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "clears"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Your two little ear holes!",
+     "text": "ears"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Lots of people have these, like being scared of spiders. Or quadrilaterals.",
+     "text": "fears"
+    },
+    {
+     "altSpellings": [],
+     "hint": "These are the little things that make watches go. And wheels for that matter.",
+     "text": "gears"
+    },
+    {
+     "altSpellings": [
+      "piers"
+     ],
+     "hint": "Either your companions, OR a way you can walk over the ocean.",
+     "text": "peers"
+    },
+    {
+     "altSpellings": [
+      "tiers"
+     ],
+     "hint": "These come out of your eye holes when you're sad.",
+     "text": "tears"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Oh, how the THESE fly by.",
+     "text": "years"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "sears"
+    },
+    {
+     "altSpellings": [],
+     "hint": "I'm... sort of... shaped like this.",
+     "text": "spheres"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "spears"
+    },
+    {
+     "altSpellings": [],
+     "hint": "The wheel in your car does this.",
+     "text": "steers"
+    },
+    {
+     "altSpellings": [
+      "dears"
+     ],
+     "hint": "Oh Frankie! Come look! There's a bunch of these cute antlered guys on the lawn!",
+     "text": "deers"
+    },
+    {
+     "altSpellings": [],
+     "hint": "When the creature gets closer, it does this.",
+     "text": "nears"
+    },
+    {
+     "altSpellings": [],
+     "hint": "The evil villain does this with his wicked mouth.",
+     "text": "sneers"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "sheers"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "veers"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "smears"
+    }
+   ],
+   "category": "Language/Words/Grammar",
+   "exactSpelling": true,
+   "id": "83404",
+   "isValid": "",
+   "prompt": "What rhymes with “cheers”? (one-syllable common words only)",
+   "subtype": "rhyme",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "hint": "Do you like all my chunky jewelry? Or my favorite ’80s band?",
+     "text": "bangle"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Earrings do this from the ear.",
+     "text": "dangle"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Sleigh bells go jingle and...",
+     "text": "jangle"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "mangle"
+    },
+    {
+     "altSpellings": [],
+     "hint": "This is putting a shiny decoration on something.",
+     "text": "spangle"
+    },
+    {
+     "altSpellings": [],
+     "hint": "If I wear a collar too tight, it feels like this.",
+     "text": "strangle"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Make sure to brush your hair, otherwise you get this.",
+     "text": "tangle"
+    },
+    {
+     "altSpellings": [],
+     "hint": "The official definition of this is “to accomplish something via trickery.”",
+     "text": "wangle"
+    },
+    {
+     "altSpellings": [],
+     "hint": "This is what I gotta do to gather up all my misbehaving cows.",
+     "text": "wrangle"
+    }
+   ],
+   "category": "Language/Words/Grammar",
+   "exactSpelling": true,
+   "id": "83441",
+   "isValid": "",
+   "prompt": "What rhymes with “angle”? (two-syllable common words only)",
+   "subtype": "rhyme",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "hint": "At the grocery, you love to take your time walking down this.",
+     "text": "aisle"
+    },
+    {
+     "altSpellings": [],
+     "hint": "This is that icky sour stuff in your stomach.",
+     "text": "bile"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Kids these days have never seen a phone with this.",
+     "text": "dial"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Let me just put your documents away in this.",
+     "text": "file"
+    },
+    {
+     "altSpellings": [],
+     "hint": "I am innocent! Incapable of tricking anyone, I am without this!",
+     "text": "guile"
+    },
+    {
+     "altSpellings": [
+      "isles"
+     ],
+     "hint": "Oh, to be back on those beautiful other word for islands.",
+     "text": "isle"
+    },
+    {
+     "altSpellings": [
+      "ill"
+     ],
+     "hint": "Shortened version of \"I will\"!",
+     "text": "i'll"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Word is, Eminem has eight of these.",
+     "text": "mile"
+    },
+    {
+     "altSpellings": [],
+     "hint": "A bunch of things on top of each other in one spot.",
+     "text": "pile"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "rile"
+    },
+    {
+     "altSpellings": [],
+     "hint": "How can I say no to that conglomeration of teeth and lips?",
+     "text": "smile"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Ooh! This word mean aesthetic!",
+     "text": "style"
+    },
+    {
+     "altSpellings": [],
+     "hint": "All players of the Wheel are granted a fair and free one of these by a jury of their peers.",
+     "text": "trial"
+    },
+    {
+     "altSpellings": [],
+     "hint": "This word is disgusting! Gross!",
+     "text": "vile"
+    },
+    {
+     "altSpellings": [],
+     "hint": "This word is going to take... a bit.",
+     "text": "while"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Meaning \"mischief,\" this is more often used as a descriptor.",
+     "text": "wile"
+    }
+   ],
+   "category": "Language/Words/Grammar",
+   "exactSpelling": true,
+   "id": "83445",
+   "isValid": "",
+   "prompt": "What rhymes with “tile”? (one-syllable common words only)",
+   "subtype": "rhyme",
+   "us": false,
+   "x": false
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [
+      "bowl",
+      "spoon",
+      "pipes",
+      "bowls",
+      "spoons"
+     ],
+     "hint": "",
+     "text": "pipe"
+    },
+    {
+     "altSpellings": [
+      "cigaret",
+      "cigarettes",
+      "cigarets"
+     ],
+     "hint": "",
+     "text": "cigarette"
+    },
+    {
+     "altSpellings": [
+      "stogy",
+      "cigars",
+      "stogies",
+      "stogys"
+     ],
+     "hint": "What's that thing your uncle smokes when he's having his glass of brandy?",
+     "text": "cigar"
+    },
+    {
+     "altSpellings": [
+      "rolled cigarette",
+      "marijuana cigarette",
+      "joints"
+     ],
+     "hint": "Think... rolling papers.",
+     "text": "joint"
+    },
+    {
+     "altSpellings": [
+      "electronic cigarette",
+      "ecigarette",
+      "e cigarette",
+      "e cigaret",
+      "vape pen",
+      "vaporizer",
+      "vape",
+      "vapes",
+      "e-cig",
+      "e cig",
+      "ecig",
+      "vape pens",
+      "e-cigarettes"
+     ],
+     "hint": "",
+     "text": "e-cigarette"
+    },
+    {
+     "altSpellings": [
+      "bongs"
+     ],
+     "hint": "You may have encountered THIS smoke stack in a college dorm room. Not YOU personally, of course.",
+     "text": "bong"
+    },
+    {
+     "altSpellings": [
+      "hooka",
+      "shisha",
+      "hookahs",
+      "hookas"
+     ],
+     "hint": "One device was made famous by the caterpillar from Alice in Wonderland.",
+     "text": "hookah"
+    }
+   ],
+   "category": "Technology",
+   "exactSpelling": true,
+   "id": "86163",
+   "isValid": "",
+   "prompt": "The 7 Popular Devices Some Humans Use to Inhale and Exhale Smoke",
+   "subtype": "name",
+   "us": false,
+   "x": true
+  },
+  {
+   "answers": [
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "bound"
+    },
+    {
+     "altSpellings": [],
+     "hint": "One of these is a cooking term. You'll need high heat to make it happen.",
+     "text": "browned"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Think kings and queens.",
+     "text": "crowned"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "downed"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "drowned"
+    },
+    {
+     "altSpellings": [],
+     "hint": "LOST and...",
+     "text": "found"
+    },
+    {
+     "altSpellings": [],
+     "hint": "There's another word for floor, but think “outdoors.”",
+     "text": "ground"
+    },
+    {
+     "altSpellings": [],
+     "hint": "You're missing an easy one. It's a kind of dog.",
+     "text": "hound"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "mound"
+    },
+    {
+     "altSpellings": [
+      "lb.",
+      "lb"
+     ],
+     "hint": "What's that English currency called?",
+     "text": "pound"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "sound"
+    },
+    {
+     "altSpellings": [],
+     "hint": "",
+     "text": "wound"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Come on. Don't be a Bozo.",
+     "text": "clowned"
+    },
+    {
+     "altSpellings": [],
+     "hint": "Does this prompt put a sad look on your face?",
+     "text": "frowned"
+    }
+   ],
+   "category": "Language/Words/Grammar",
+   "exactSpelling": true,
+   "id": "86377",
+   "isValid": "",
+   "prompt": "What rhymes with “round”? (one-syllable common words only)",
+   "subtype": "rhyme",
+   "us": false,
+   "x": false
+  }
+ ]
+}

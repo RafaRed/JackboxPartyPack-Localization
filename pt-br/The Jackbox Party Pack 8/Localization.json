@@ -1,0 +1,45 @@
+{
+    "table":{
+    "en": {
+        "LANGUAGE_NAME": "English",
+        "LANGUAGE": "Language",
+
+        "INTERNET_CONNECTED": "We've just found the internet.",
+        "INTERNET_DISCONNECTED": "We're sorry, we can't seem to connect to the Jackbox Games servers.<br />Please check that your internet connection is working properly.",
+        "ROOM_DESTROYED": "We're sorry, a network error occurred and your room was destroyed.<br />Please check that your internet connection is working properly.",
+        
+        "ROOM_EXIT_CAUSE_LOBBY_TIMEOUT": "We're sorry, a network error occurred and your room was destroyed.<br/>Please check that your internet connection is working properly. (Cause: 1)",
+        "ROOM_EXIT_CAUSE_JOIN_TIMEOUT": "We're sorry, a network error occurred and your room was destroyed.<br/>Please check that your internet connection is working properly. (Cause: 2)",
+        "ROOM_EXIT_CAUSE_GAME_TIMEOUT": "We're sorry, a network error occurred and your room was destroyed.<br/>Please check that your internet connection is working properly. (Cause: 3)",
+        "ROOM_EXIT_CAUSE_DISCONNECT": "We're sorry, a network error occurred and your room was destroyed.<br/>Please check that your internet connection is working properly. (Cause: 4)",
+        "ROOM_EXIT_CAUSE_BY_REQUEST": "We're sorry, a network error occurred and your room was destroyed.<br/>Please check that your internet connection is working properly. (Cause: 5)",
+        "ROOM_EXIT_CAUSE_SHUTTING_DOWN": "We're sorry, a network error occurred and your room was destroyed.<br/>Please check that your internet connection is working properly. (Cause: 6)",
+        
+        "SOCKET_DISCONNECTED ": "We're sorry, we've lost your connection to the Jackbox Games servers.",
+        "TIMEOUT": "We're sorry, we can't seem to connect to the Jackbox Games servers.<br />Please check that your internet connection is working properly.",
+        "TIMEOUT_INTERNET": "We're sorry, we can't seem to connect to the servers.<br />Please check that your internet connection is working properly.",
+        "USER_DISCONNECT": "We're sorry, the server has disconnected you. Please try again.",
+        "USER_ACCESS_DENIED": "We're sorry, we can't proceed.",
+        "START_PRIVILEGE_ERROR": "We're sorry, we can't proceed.",
+        "TROPHY_PREPARE_ERROR": "We're sorry, we can't proceed.",
+        "SAVE_PREPARE_FAIL": "We're sorry, we can't proceed.",
+        "LICENSE_ERROR": "We're sorry, we lost the license for this content!",
+        "LOST_LICENSE": "We're sorry, we lost the license for this content!",
+        "STEAM_ERROR": "We're sorry, we couldn't validate your Steam license.",
+        "TWITCH_PRIME_ERROR": "We're sorry, we couldn't validate your Twitch license.",
+        "LOST_DLC": "We're sorry, the license for your DLC could not be found. Returning you to the menu...",
+        "START": "START",
+        "SKIP": "SKIP",
+        "LOADING": "LOADING...",
+        "SWITCH_USER": "SWITCH USER",
+        "LEGAL": "Created & Developed by Jackbox Games, Inc. Game and Software © 2021 Jackbox Games, Inc. All rights reserved. Jackbox Games and the Jackbox Games logo are registered trademarks of Jackbox Games, Inc. Drawful Animate, The Wheel of Enormous Proportions, Job Job, The Poll Mine, Weapons Drawn, and Party Pack are trademarks of Jackbox Games, Inc. All other trademarks and logos are the property of their respective owners.",
+        "LEGAL_CRIWARE": "Powered by \"CRIWARE\". CRIWARE is a trademark of CRI Middleware Co., Ltd.",
+        "LEGAL_FMOD": "This product uses FMOD Sound System by Firelight Technologies",
+        "LEGAL_STADIA": "No endorsement or affiliation is intended between Stadia and the manufacturers of non-Stadia controllers or consoles. STADIA, the Stadia beacon, Google, and related marks and logos are trademarks of Google LLC. All other trademarks are the property of their respective owners."
+    },
+    "fr": {},
+    "it": {},
+    "de": {},
+    "es": {}
+}
+}

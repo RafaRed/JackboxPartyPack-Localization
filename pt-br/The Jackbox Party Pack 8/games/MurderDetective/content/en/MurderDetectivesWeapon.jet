@@ -1,0 +1,2542 @@
+{
+ "content": [
+  {
+   "id": "80830",
+   "isValid": "",
+   "weapon": "weird sword",
+   "x": false
+  },
+  {
+   "id": "80831",
+   "isValid": "",
+   "weapon": "trap",
+   "x": false
+  },
+  {
+   "id": "80832",
+   "isValid": "",
+   "weapon": "fire",
+   "x": false
+  },
+  {
+   "id": "80833",
+   "isValid": "",
+   "weapon": "spider",
+   "x": false
+  },
+  {
+   "id": "80834",
+   "isValid": "",
+   "weapon": "manipulation",
+   "x": false
+  },
+  {
+   "id": "80835",
+   "isValid": "",
+   "weapon": "kindness",
+   "x": false
+  },
+  {
+   "id": "80836",
+   "isValid": "",
+   "weapon": "giant anvil",
+   "x": false
+  },
+  {
+   "id": "80837",
+   "isValid": "",
+   "weapon": "dynamite",
+   "x": false
+  },
+  {
+   "id": "80838",
+   "isValid": "",
+   "weapon": "trained dolphin",
+   "x": false
+  },
+  {
+   "id": "80839",
+   "isValid": "",
+   "weapon": "withering stare",
+   "x": false
+  },
+  {
+   "id": "80841",
+   "isValid": "",
+   "weapon": "fluffy pillow",
+   "x": false
+  },
+  {
+   "id": "80842",
+   "isValid": "",
+   "weapon": "bow and arrow",
+   "x": false
+  },
+  {
+   "id": "80843",
+   "isValid": "",
+   "weapon": "banjo",
+   "x": false
+  },
+  {
+   "id": "80844",
+   "isValid": "",
+   "weapon": "disgusting socks",
+   "x": false
+  },
+  {
+   "id": "80845",
+   "isValid": "",
+   "weapon": "frying pan",
+   "x": false
+  },
+  {
+   "id": "80846",
+   "isValid": "",
+   "weapon": "bottle of poison",
+   "x": false
+  },
+  {
+   "id": "80847",
+   "isValid": "",
+   "weapon": "“accident”",
+   "x": false
+  },
+  {
+   "id": "80848",
+   "isValid": "",
+   "weapon": "timber wolf",
+   "x": false
+  },
+  {
+   "id": "80849",
+   "isValid": "",
+   "weapon": "bees",
+   "x": false
+  },
+  {
+   "id": "80850",
+   "isValid": "",
+   "weapon": "stampeding pony",
+   "x": false
+  },
+  {
+   "id": "80851",
+   "isValid": "",
+   "weapon": "killer robot",
+   "x": false
+  },
+  {
+   "id": "80852",
+   "isValid": "",
+   "weapon": "vengeful spirit",
+   "x": false
+  },
+  {
+   "id": "80853",
+   "isValid": "",
+   "weapon": "boredom",
+   "x": false
+  },
+  {
+   "id": "80854",
+   "isValid": "",
+   "weapon": "incredibly unsafe car",
+   "x": false
+  },
+  {
+   "id": "80855",
+   "isValid": "",
+   "weapon": "the butler",
+   "x": false
+  },
+  {
+   "id": "80856",
+   "isValid": "",
+   "weapon": "chainsaw",
+   "x": false
+  },
+  {
+   "id": "80857",
+   "isValid": "",
+   "weapon": "ruthless lawyer",
+   "x": false
+  },
+  {
+   "id": "80859",
+   "isValid": "",
+   "weapon": "runaway train",
+   "x": false
+  },
+  {
+   "id": "80860",
+   "isValid": "",
+   "weapon": "steamroller",
+   "x": false
+  },
+  {
+   "id": "80861",
+   "isValid": "",
+   "weapon": "the passage of time",
+   "x": false
+  },
+  {
+   "id": "80862",
+   "isValid": "",
+   "weapon": "evil mustache",
+   "x": false
+  },
+  {
+   "id": "80863",
+   "isValid": "",
+   "weapon": "umbrella",
+   "x": false
+  },
+  {
+   "id": "80864",
+   "isValid": "",
+   "weapon": "toxic fumes",
+   "x": false
+  },
+  {
+   "id": "80865",
+   "isValid": "",
+   "weapon": "electric shock",
+   "x": false
+  },
+  {
+   "id": "80866",
+   "isValid": "",
+   "weapon": "excitable dog",
+   "x": false
+  },
+  {
+   "id": "80867",
+   "isValid": "",
+   "weapon": "panther",
+   "x": false
+  },
+  {
+   "id": "80868",
+   "isValid": "",
+   "weapon": "fire ants",
+   "x": false
+  },
+  {
+   "id": "80869",
+   "isValid": "",
+   "weapon": "sports equipment",
+   "x": false
+  },
+  {
+   "id": "80870",
+   "isValid": "",
+   "weapon": "anxiety",
+   "x": false
+  },
+  {
+   "id": "80871",
+   "isValid": "",
+   "weapon": "DVD box set",
+   "x": false
+  },
+  {
+   "id": "80872",
+   "isValid": "",
+   "weapon": "the stairs",
+   "x": false
+  },
+  {
+   "id": "80874",
+   "isValid": "",
+   "weapon": "guillotine",
+   "x": false
+  },
+  {
+   "id": "80876",
+   "isValid": "",
+   "weapon": "a podcast",
+   "x": false
+  },
+  {
+   "id": "80877",
+   "isValid": "",
+   "weapon": "cursed treasure",
+   "x": false
+  },
+  {
+   "id": "80879",
+   "isValid": "",
+   "weapon": "octopus",
+   "x": false
+  },
+  {
+   "id": "80880",
+   "isValid": "",
+   "weapon": "peanut allergy",
+   "x": false
+  },
+  {
+   "id": "80881",
+   "isValid": "",
+   "weapon": "bear",
+   "x": false
+  },
+  {
+   "id": "80882",
+   "isValid": "",
+   "weapon": "shark attack",
+   "x": false
+  },
+  {
+   "id": "80883",
+   "isValid": "",
+   "weapon": "flamethrower",
+   "x": false
+  },
+  {
+   "id": "80884",
+   "isValid": "",
+   "weapon": "broken heart",
+   "x": false
+  },
+  {
+   "id": "80885",
+   "isValid": "",
+   "weapon": "ghost",
+   "x": false
+  },
+  {
+   "id": "80886",
+   "isValid": "",
+   "weapon": "vitamin c overdose",
+   "x": true
+  },
+  {
+   "id": "80887",
+   "isValid": "",
+   "weapon": "fear",
+   "x": false
+  },
+  {
+   "id": "80888",
+   "isValid": "",
+   "weapon": "slingshot",
+   "x": false
+  },
+  {
+   "id": "80890",
+   "isValid": "",
+   "weapon": "throwing star",
+   "x": false
+  },
+  {
+   "id": "80891",
+   "isValid": "",
+   "weapon": "brick",
+   "x": false
+  },
+  {
+   "id": "80892",
+   "isValid": "",
+   "weapon": "targeted earthquake",
+   "x": false
+  },
+  {
+   "id": "80893",
+   "isValid": "",
+   "weapon": "machete",
+   "x": false
+  },
+  {
+   "id": "80894",
+   "isValid": "",
+   "weapon": "comb",
+   "x": false
+  },
+  {
+   "id": "80895",
+   "isValid": "",
+   "weapon": "exercise",
+   "x": false
+  },
+  {
+   "id": "80896",
+   "isValid": "",
+   "weapon": "tambourine",
+   "x": false
+  },
+  {
+   "id": "80897",
+   "isValid": "",
+   "weapon": "very big book",
+   "x": false
+  },
+  {
+   "id": "80898",
+   "isValid": "",
+   "weapon": "snake",
+   "x": false
+  },
+  {
+   "id": "80899",
+   "isValid": "",
+   "weapon": "tire iron",
+   "x": false
+  },
+  {
+   "id": "80900",
+   "isValid": "",
+   "weapon": "school of goldfish",
+   "x": false
+  },
+  {
+   "id": "80901",
+   "isValid": "",
+   "weapon": "lactose intolerance",
+   "x": false
+  },
+  {
+   "id": "80902",
+   "isValid": "",
+   "weapon": "vacuum",
+   "x": false
+  },
+  {
+   "id": "80903",
+   "isValid": "",
+   "weapon": "cello",
+   "x": false
+  },
+  {
+   "id": "80904",
+   "isValid": "",
+   "weapon": "trampoline",
+   "x": false
+  },
+  {
+   "id": "80905",
+   "isValid": "",
+   "weapon": "basset hound",
+   "x": false
+  },
+  {
+   "id": "80906",
+   "isValid": "",
+   "weapon": "paper cuts",
+   "x": false
+  },
+  {
+   "id": "80907",
+   "isValid": "",
+   "weapon": "relentless eye contact",
+   "x": false
+  },
+  {
+   "id": "80908",
+   "isValid": "",
+   "weapon": "shopping cart",
+   "x": false
+  },
+  {
+   "id": "80909",
+   "isValid": "",
+   "weapon": "electric fan",
+   "x": false
+  },
+  {
+   "id": "80910",
+   "isValid": "",
+   "weapon": "lollipop",
+   "x": false
+  },
+  {
+   "id": "80911",
+   "isValid": "",
+   "weapon": "pineapple",
+   "x": false
+  },
+  {
+   "id": "80913",
+   "isValid": "",
+   "weapon": "bubble gum",
+   "x": false
+  },
+  {
+   "id": "80914",
+   "isValid": "",
+   "weapon": "waiting in line",
+   "x": false
+  },
+  {
+   "id": "80915",
+   "isValid": "",
+   "weapon": "lightning",
+   "x": false
+  },
+  {
+   "id": "80916",
+   "isValid": "",
+   "weapon": "knuckle sandwich",
+   "x": false
+  },
+  {
+   "id": "80917",
+   "isValid": "",
+   "weapon": "slam dunk",
+   "x": false
+  },
+  {
+   "id": "80918",
+   "isValid": "",
+   "weapon": "expired yogurt",
+   "x": false
+  },
+  {
+   "id": "80919",
+   "isValid": "",
+   "weapon": "laser beams",
+   "x": false
+  },
+  {
+   "id": "80920",
+   "isValid": "",
+   "weapon": "water gun",
+   "x": false
+  },
+  {
+   "id": "80921",
+   "isValid": "",
+   "weapon": "wheel of cheese",
+   "x": false
+  },
+  {
+   "id": "80922",
+   "isValid": "",
+   "weapon": "big rock",
+   "x": false
+  },
+  {
+   "id": "80923",
+   "isValid": "",
+   "weapon": "giant spork",
+   "x": false
+  },
+  {
+   "id": "80924",
+   "isValid": "",
+   "weapon": "hockey stick",
+   "x": false
+  },
+  {
+   "id": "80925",
+   "isValid": "",
+   "weapon": "bloodthirsty woodpecker",
+   "x": false
+  },
+  {
+   "id": "80926",
+   "isValid": "",
+   "weapon": "deep fryer",
+   "x": false
+  },
+  {
+   "id": "80927",
+   "isValid": "",
+   "weapon": "axe",
+   "x": false
+  },
+  {
+   "id": "80928",
+   "isValid": "",
+   "weapon": "uppercut",
+   "x": false
+  },
+  {
+   "id": "80929",
+   "isValid": "",
+   "weapon": "lake monster",
+   "x": false
+  },
+  {
+   "id": "80930",
+   "isValid": "",
+   "weapon": "bubble wrap",
+   "x": false
+  },
+  {
+   "id": "80931",
+   "isValid": "",
+   "weapon": "boiling water",
+   "x": false
+  },
+  {
+   "id": "81532",
+   "isValid": "",
+   "weapon": "cursed apple",
+   "x": false
+  },
+  {
+   "id": "81574",
+   "isValid": "",
+   "weapon": "lit match",
+   "x": false
+  },
+  {
+   "id": "81575",
+   "isValid": "",
+   "weapon": "telescope",
+   "x": false
+  },
+  {
+   "id": "81577",
+   "isValid": "",
+   "weapon": "jump scare",
+   "x": false
+  },
+  {
+   "id": "81578",
+   "isValid": "",
+   "weapon": "long fingernails",
+   "x": false
+  },
+  {
+   "id": "81579",
+   "isValid": "",
+   "weapon": "club",
+   "x": false
+  },
+  {
+   "id": "81582",
+   "isValid": "",
+   "weapon": "letter opener",
+   "x": false
+  },
+  {
+   "id": "81583",
+   "isValid": "",
+   "weapon": "globe",
+   "x": false
+  },
+  {
+   "id": "81584",
+   "isValid": "",
+   "weapon": "spoiled milk",
+   "x": false
+  },
+  {
+   "id": "81588",
+   "isValid": "",
+   "weapon": "blaster",
+   "x": false
+  },
+  {
+   "id": "81589",
+   "isValid": "",
+   "weapon": "crowbar",
+   "x": false
+  },
+  {
+   "id": "81590",
+   "isValid": "",
+   "weapon": "dehydration",
+   "x": false
+  },
+  {
+   "id": "81591",
+   "isValid": "",
+   "weapon": "armpit stink",
+   "x": false
+  },
+  {
+   "id": "81592",
+   "isValid": "",
+   "weapon": "tickles",
+   "x": false
+  },
+  {
+   "id": "81593",
+   "isValid": "",
+   "weapon": "rope",
+   "x": false
+  },
+  {
+   "id": "81594",
+   "isValid": "",
+   "weapon": "crane",
+   "x": false
+  },
+  {
+   "id": "81595",
+   "isValid": "",
+   "weapon": "rolling pin",
+   "x": false
+  },
+  {
+   "id": "81597",
+   "isValid": "",
+   "weapon": "lamp",
+   "x": false
+  },
+  {
+   "id": "81598",
+   "isValid": "",
+   "weapon": "platypus",
+   "x": false
+  },
+  {
+   "id": "81639",
+   "isValid": "",
+   "weapon": "stop sign",
+   "x": false
+  },
+  {
+   "id": "81640",
+   "isValid": "",
+   "weapon": "tap shoe",
+   "x": false
+  },
+  {
+   "id": "81641",
+   "isValid": "",
+   "weapon": "heights",
+   "x": false
+  },
+  {
+   "id": "81643",
+   "isValid": "",
+   "weapon": "minivan",
+   "x": false
+  },
+  {
+   "id": "81644",
+   "isValid": "",
+   "weapon": "anniversary gift",
+   "x": false
+  },
+  {
+   "id": "81646",
+   "isValid": "",
+   "weapon": "anglerfish",
+   "x": false
+  },
+  {
+   "id": "81648",
+   "isValid": "",
+   "weapon": "table saw",
+   "x": false
+  },
+  {
+   "id": "81649",
+   "isValid": "",
+   "weapon": "roommate",
+   "x": false
+  },
+  {
+   "id": "81650",
+   "isValid": "",
+   "weapon": "marathon",
+   "x": false
+  },
+  {
+   "id": "81662",
+   "isValid": "",
+   "weapon": "iceberg",
+   "x": false
+  },
+  {
+   "id": "81663",
+   "isValid": "",
+   "weapon": "marble statue",
+   "x": false
+  },
+  {
+   "id": "81665",
+   "isValid": "",
+   "weapon": "loud music",
+   "x": false
+  },
+  {
+   "id": "81666",
+   "isValid": "",
+   "weapon": "circus clown",
+   "x": false
+  },
+  {
+   "id": "81667",
+   "isValid": "",
+   "weapon": "beef stew",
+   "x": false
+  },
+  {
+   "id": "81668",
+   "isValid": "",
+   "weapon": "happiness",
+   "x": false
+  },
+  {
+   "id": "81669",
+   "isValid": "",
+   "weapon": "ogre",
+   "x": false
+  },
+  {
+   "id": "81672",
+   "isValid": "",
+   "weapon": "grenades",
+   "x": false
+  },
+  {
+   "id": "81673",
+   "isValid": "",
+   "weapon": "chain email",
+   "x": false
+  },
+  {
+   "id": "81675",
+   "isValid": "",
+   "weapon": "the magic of theatre",
+   "x": false
+  },
+  {
+   "id": "81677",
+   "isValid": "",
+   "weapon": "hidden trapdoor",
+   "x": false
+  },
+  {
+   "id": "81678",
+   "isValid": "",
+   "weapon": "mysterious orb",
+   "x": false
+  },
+  {
+   "id": "81679",
+   "isValid": "",
+   "weapon": "mean chef",
+   "x": false
+  },
+  {
+   "id": "81680",
+   "isValid": "",
+   "weapon": "volcano",
+   "x": false
+  },
+  {
+   "id": "81684",
+   "isValid": "",
+   "weapon": "avalanche",
+   "x": false
+  },
+  {
+   "id": "81685",
+   "isValid": "",
+   "weapon": "mountaineering disaster",
+   "x": false
+  },
+  {
+   "id": "81686",
+   "isValid": "",
+   "weapon": "alien invasion",
+   "x": false
+  },
+  {
+   "id": "81687",
+   "isValid": "",
+   "weapon": "cursed doll",
+   "x": false
+  },
+  {
+   "id": "81688",
+   "isValid": "",
+   "weapon": "emo teens",
+   "x": false
+  },
+  {
+   "id": "81737",
+   "isValid": "",
+   "weapon": "giant magnet",
+   "x": false
+  },
+  {
+   "id": "81739",
+   "isValid": "",
+   "weapon": "squeaky hammer",
+   "x": false
+  },
+  {
+   "id": "81742",
+   "isValid": "",
+   "weapon": "well-timed avalanche",
+   "x": false
+  },
+  {
+   "id": "81744",
+   "isValid": "",
+   "weapon": "loneliness",
+   "x": false
+  },
+  {
+   "id": "81746",
+   "isValid": "",
+   "weapon": "stale baguette",
+   "x": false
+  },
+  {
+   "id": "81748",
+   "isValid": "",
+   "weapon": "pogo stick",
+   "x": false
+  },
+  {
+   "id": "81750",
+   "isValid": "",
+   "weapon": "landfill mattress",
+   "x": false
+  },
+  {
+   "id": "81751",
+   "isValid": "",
+   "weapon": "stained glass",
+   "x": false
+  },
+  {
+   "id": "81752",
+   "isValid": "",
+   "weapon": "british tea kettle",
+   "x": false
+  },
+  {
+   "id": "81753",
+   "isValid": "",
+   "weapon": "overpowering perfume",
+   "x": false
+  },
+  {
+   "id": "81755",
+   "isValid": "",
+   "weapon": "grandma's good china",
+   "x": false
+  },
+  {
+   "id": "81756",
+   "isValid": "",
+   "weapon": "gossip",
+   "x": false
+  },
+  {
+   "id": "81757",
+   "isValid": "",
+   "weapon": "exploding teddy bear",
+   "x": false
+  },
+  {
+   "id": "81758",
+   "isValid": "",
+   "weapon": "cherry red convertible",
+   "x": false
+  },
+  {
+   "id": "81760",
+   "isValid": "",
+   "weapon": "many frisbees",
+   "x": false
+  },
+  {
+   "id": "81762",
+   "isValid": "",
+   "weapon": "cyborg arm",
+   "x": false
+  },
+  {
+   "id": "81764",
+   "isValid": "",
+   "weapon": "carry-on luggage",
+   "x": false
+  },
+  {
+   "id": "81765",
+   "isValid": "",
+   "weapon": "gnarled tree branch",
+   "x": false
+  },
+  {
+   "id": "81766",
+   "isValid": "",
+   "weapon": "hot air balloon",
+   "x": false
+  },
+  {
+   "id": "81767",
+   "isValid": "",
+   "weapon": "soccer cleats",
+   "x": false
+  },
+  {
+   "id": "81768",
+   "isValid": "",
+   "weapon": "snapping turtle",
+   "x": false
+  },
+  {
+   "id": "81769",
+   "isValid": "",
+   "weapon": "clawfoot tub",
+   "x": false
+  },
+  {
+   "id": "81770",
+   "isValid": "",
+   "weapon": "feather quill & ink",
+   "x": false
+  },
+  {
+   "id": "81771",
+   "isValid": "",
+   "weapon": "old timey pipe",
+   "x": false
+  },
+  {
+   "id": "81772",
+   "isValid": "",
+   "weapon": "riding lawn mower",
+   "x": false
+  },
+  {
+   "id": "81773",
+   "isValid": "",
+   "weapon": "tumbleweed",
+   "x": false
+  },
+  {
+   "id": "81775",
+   "isValid": "",
+   "weapon": "arcade claw machine",
+   "x": false
+  },
+  {
+   "id": "81776",
+   "isValid": "",
+   "weapon": "women's razor",
+   "x": false
+  },
+  {
+   "id": "81779",
+   "isValid": "",
+   "weapon": "squirting clown flower",
+   "x": false
+  },
+  {
+   "id": "81780",
+   "isValid": "",
+   "weapon": "giant turkey leg",
+   "x": false
+  },
+  {
+   "id": "81781",
+   "isValid": "",
+   "weapon": "beach towel",
+   "x": false
+  },
+  {
+   "id": "81784",
+   "isValid": "",
+   "weapon": "the ocean depths",
+   "x": false
+  },
+  {
+   "id": "81786",
+   "isValid": "",
+   "weapon": "cold hands",
+   "x": false
+  },
+  {
+   "id": "81931",
+   "isValid": "",
+   "weapon": "sock full of quarters",
+   "x": false
+  },
+  {
+   "id": "81932",
+   "isValid": "",
+   "weapon": "tuna",
+   "x": false
+  },
+  {
+   "id": "81933",
+   "isValid": "",
+   "weapon": "bike lock",
+   "x": false
+  },
+  {
+   "id": "81934",
+   "isValid": "",
+   "weapon": "grandfather clock",
+   "x": false
+  },
+  {
+   "id": "81935",
+   "isValid": "",
+   "weapon": "strongly worded letter",
+   "x": false
+  },
+  {
+   "id": "81936",
+   "isValid": "",
+   "weapon": "a mace",
+   "x": false
+  },
+  {
+   "id": "81939",
+   "isValid": "",
+   "weapon": "pizza cutter",
+   "x": false
+  },
+  {
+   "id": "81940",
+   "isValid": "",
+   "weapon": "many many cats",
+   "x": false
+  },
+  {
+   "id": "82244",
+   "isValid": "",
+   "weapon": "heavy bookcase",
+   "x": false
+  },
+  {
+   "id": "82245",
+   "isValid": "",
+   "weapon": "jellyfish sting",
+   "x": false
+  },
+  {
+   "id": "82249",
+   "isValid": "",
+   "weapon": "cow",
+   "x": false
+  },
+  {
+   "id": "82250",
+   "isValid": "",
+   "weapon": "strange amulet",
+   "x": false
+  },
+  {
+   "id": "82252",
+   "isValid": "",
+   "weapon": "cuckoo clock",
+   "x": false
+  },
+  {
+   "id": "82254",
+   "isValid": "",
+   "weapon": "ceiling fan",
+   "x": false
+  },
+  {
+   "id": "82255",
+   "isValid": "",
+   "weapon": "bubbling potion",
+   "x": false
+  },
+  {
+   "id": "82258",
+   "isValid": "",
+   "weapon": "air conditioner",
+   "x": false
+  },
+  {
+   "id": "82260",
+   "isValid": "",
+   "weapon": "complaining",
+   "x": false
+  },
+  {
+   "id": "82264",
+   "isValid": "",
+   "weapon": "grand piano",
+   "x": false
+  },
+  {
+   "id": "82265",
+   "isValid": "",
+   "weapon": "glamorous sea lion",
+   "x": false
+  },
+  {
+   "id": "82267",
+   "isValid": "",
+   "weapon": "high cholesterol",
+   "x": false
+  },
+  {
+   "id": "82268",
+   "isValid": "",
+   "weapon": "bad leftovers",
+   "x": false
+  },
+  {
+   "id": "82271",
+   "isValid": "",
+   "weapon": "futuristic blender",
+   "x": false
+  },
+  {
+   "id": "82272",
+   "isValid": "",
+   "weapon": "bubble bath",
+   "x": false
+  },
+  {
+   "id": "82273",
+   "isValid": "",
+   "weapon": "disappointment",
+   "x": false
+  },
+  {
+   "id": "82274",
+   "isValid": "",
+   "weapon": "gym equipment",
+   "x": false
+  },
+  {
+   "id": "82276",
+   "isValid": "",
+   "weapon": "acid",
+   "x": false
+  },
+  {
+   "id": "82306",
+   "isValid": "",
+   "weapon": "garden shears\n",
+   "x": false
+  },
+  {
+   "id": "82309",
+   "isValid": "",
+   "weapon": "emotional neglect",
+   "x": false
+  },
+  {
+   "id": "82312",
+   "isValid": "",
+   "weapon": "peer pressure",
+   "x": false
+  },
+  {
+   "id": "82314",
+   "isValid": "",
+   "weapon": "anime",
+   "x": false
+  },
+  {
+   "id": "82432",
+   "isValid": "",
+   "weapon": "icicle",
+   "x": false
+  },
+  {
+   "id": "82433",
+   "isValid": "",
+   "weapon": "quadruple cheeseburger",
+   "x": false
+  },
+  {
+   "id": "82435",
+   "isValid": "",
+   "weapon": "bazooka",
+   "x": false
+  },
+  {
+   "id": "82437",
+   "isValid": "",
+   "weapon": "9-5 day job",
+   "x": false
+  },
+  {
+   "id": "82445",
+   "isValid": "",
+   "weapon": "dancing",
+   "x": false
+  },
+  {
+   "id": "82447",
+   "isValid": "",
+   "weapon": "wasps",
+   "x": false
+  },
+  {
+   "id": "82451",
+   "isValid": "",
+   "weapon": "horses",
+   "x": false
+  },
+  {
+   "id": "82453",
+   "isValid": "",
+   "weapon": "bear trap",
+   "x": false
+  },
+  {
+   "id": "82458",
+   "isValid": "",
+   "weapon": "circular saw",
+   "x": false
+  },
+  {
+   "id": "82466",
+   "isValid": "",
+   "weapon": "carrot",
+   "x": false
+  },
+  {
+   "id": "82491",
+   "isValid": "",
+   "weapon": "terrible fall",
+   "x": false
+  },
+  {
+   "id": "82492",
+   "isValid": "",
+   "weapon": "mother",
+   "x": false
+  },
+  {
+   "id": "82496",
+   "isValid": "",
+   "weapon": "foul magics",
+   "x": false
+  },
+  {
+   "id": "82499",
+   "isValid": "",
+   "weapon": "parenthood",
+   "x": false
+  },
+  {
+   "id": "82598",
+   "isValid": "",
+   "weapon": "radioactive cookies",
+   "x": false
+  },
+  {
+   "id": "82600",
+   "isValid": "",
+   "weapon": "janitor's keys",
+   "x": false
+  },
+  {
+   "id": "82602",
+   "isValid": "",
+   "weapon": "mascara wand",
+   "x": false
+  },
+  {
+   "id": "82606",
+   "isValid": "",
+   "weapon": "wheelbarrow",
+   "x": false
+  },
+  {
+   "id": "82612",
+   "isValid": "",
+   "weapon": "wide leg pants",
+   "x": false
+  },
+  {
+   "id": "82617",
+   "isValid": "",
+   "weapon": "old timey telephone",
+   "x": false
+  },
+  {
+   "id": "82775",
+   "isValid": "",
+   "weapon": "stinky garbage",
+   "x": false
+  },
+  {
+   "id": "82776",
+   "isValid": "",
+   "weapon": "seafood tower",
+   "x": false
+  },
+  {
+   "id": "82777",
+   "isValid": "",
+   "weapon": "dinosaur",
+   "x": false
+  },
+  {
+   "id": "82778",
+   "isValid": "",
+   "weapon": "many forks",
+   "x": false
+  },
+  {
+   "id": "82779",
+   "isValid": "",
+   "weapon": "elephant stomp",
+   "x": false
+  },
+  {
+   "id": "82780",
+   "isValid": "",
+   "weapon": "expensive lamp",
+   "x": false
+  },
+  {
+   "id": "82781",
+   "isValid": "",
+   "weapon": "fireworks",
+   "x": false
+  },
+  {
+   "id": "82782",
+   "isValid": "",
+   "weapon": "bowl of soup",
+   "x": false
+  },
+  {
+   "id": "82783",
+   "isValid": "",
+   "weapon": "box of chocolates",
+   "x": false
+  },
+  {
+   "id": "82784",
+   "isValid": "",
+   "weapon": "chips and dip",
+   "x": false
+  },
+  {
+   "id": "82923",
+   "isValid": "",
+   "weapon": "severe weather",
+   "x": false
+  },
+  {
+   "id": "82924",
+   "isValid": "",
+   "weapon": "souvenir shot glass",
+   "x": false
+  },
+  {
+   "id": "82925",
+   "isValid": "",
+   "weapon": "big scissors",
+   "x": false
+  },
+  {
+   "id": "82927",
+   "isValid": "",
+   "weapon": "fabulous robe",
+   "x": false
+  },
+  {
+   "id": "82929",
+   "isValid": "",
+   "weapon": "giant oak",
+   "x": false
+  },
+  {
+   "id": "82930",
+   "isValid": "",
+   "weapon": "rumors",
+   "x": false
+  },
+  {
+   "id": "82976",
+   "isValid": "",
+   "weapon": "judge gavel",
+   "x": false
+  },
+  {
+   "id": "82985",
+   "isValid": "",
+   "weapon": "dragon's egg",
+   "x": false
+  },
+  {
+   "id": "82989",
+   "isValid": "",
+   "weapon": "spiky trampoline",
+   "x": false
+  },
+  {
+   "id": "83128",
+   "isValid": "",
+   "weapon": "line dancing",
+   "x": false
+  },
+  {
+   "id": "83129",
+   "isValid": "",
+   "weapon": "cell phone",
+   "x": false
+  },
+  {
+   "id": "83130",
+   "isValid": "",
+   "weapon": "strange crab",
+   "x": false
+  },
+  {
+   "id": "83131",
+   "isValid": "",
+   "weapon": "zoo animal",
+   "x": false
+  },
+  {
+   "id": "83132",
+   "isValid": "",
+   "weapon": "gasoline explosion",
+   "x": false
+  },
+  {
+   "id": "83133",
+   "isValid": "",
+   "weapon": "campfire",
+   "x": false
+  },
+  {
+   "id": "83134",
+   "isValid": "",
+   "weapon": "heated argument",
+   "x": false
+  },
+  {
+   "id": "83135",
+   "isValid": "",
+   "weapon": "hot tub",
+   "x": false
+  },
+  {
+   "id": "83136",
+   "isValid": "",
+   "weapon": "farm equipment",
+   "x": false
+  },
+  {
+   "id": "83137",
+   "isValid": "",
+   "weapon": "forest sprite",
+   "x": false
+  },
+  {
+   "id": "83138",
+   "isValid": "",
+   "weapon": "cave monster",
+   "x": false
+  },
+  {
+   "id": "83139",
+   "isValid": "",
+   "weapon": "hockey fight",
+   "x": false
+  },
+  {
+   "id": "83140",
+   "isValid": "",
+   "weapon": "rollercoaster",
+   "x": false
+  },
+  {
+   "id": "83141",
+   "isValid": "",
+   "weapon": "creepy dentist",
+   "x": false
+  },
+  {
+   "id": "83142",
+   "isValid": "",
+   "weapon": "carnival strongman",
+   "x": false
+  },
+  {
+   "id": "83145",
+   "isValid": "",
+   "weapon": "old friend",
+   "x": false
+  },
+  {
+   "id": "83146",
+   "isValid": "",
+   "weapon": "betrayal!",
+   "x": false
+  },
+  {
+   "id": "83147",
+   "isValid": "",
+   "weapon": "big hug",
+   "x": false
+  },
+  {
+   "id": "83148",
+   "isValid": "",
+   "weapon": "boa constrictor",
+   "x": false
+  },
+  {
+   "id": "83149",
+   "isValid": "",
+   "weapon": "stage fright",
+   "x": false
+  },
+  {
+   "id": "83150",
+   "isValid": "",
+   "weapon": "cactus",
+   "x": false
+  },
+  {
+   "id": "83155",
+   "isValid": "",
+   "weapon": "bad hair day",
+   "x": false
+  },
+  {
+   "id": "83156",
+   "isValid": "",
+   "weapon": "nail clippers",
+   "x": false
+  },
+  {
+   "id": "83236",
+   "isValid": "",
+   "weapon": "gingivitis",
+   "x": false
+  },
+  {
+   "id": "83290",
+   "isValid": "",
+   "weapon": "hummus",
+   "x": false
+  },
+  {
+   "id": "83291",
+   "isValid": "",
+   "weapon": "non-stop flute",
+   "x": false
+  },
+  {
+   "id": "83294",
+   "isValid": "",
+   "weapon": "smog",
+   "x": false
+  },
+  {
+   "id": "83295",
+   "isValid": "",
+   "weapon": "molotov cocktail",
+   "x": false
+  },
+  {
+   "id": "83296",
+   "isValid": "",
+   "weapon": "a fart so bad",
+   "x": false
+  },
+  {
+   "id": "83301",
+   "isValid": "",
+   "weapon": "boomerang",
+   "x": false
+  },
+  {
+   "id": "83303",
+   "isValid": "",
+   "weapon": "tiny meteor",
+   "x": false
+  },
+  {
+   "id": "83306",
+   "isValid": "",
+   "weapon": "golf club",
+   "x": false
+  },
+  {
+   "id": "83308",
+   "isValid": "",
+   "weapon": "bus",
+   "x": false
+  },
+  {
+   "id": "83309",
+   "isValid": "",
+   "weapon": "broken beer bottle",
+   "x": false
+  },
+  {
+   "id": "83311",
+   "isValid": "",
+   "weapon": "wildebeest stampede",
+   "x": false
+  },
+  {
+   "id": "83313",
+   "isValid": "",
+   "weapon": "staple gun",
+   "x": false
+  },
+  {
+   "id": "83316",
+   "isValid": "",
+   "weapon": "accordion music",
+   "x": false
+  },
+  {
+   "id": "83317",
+   "isValid": "",
+   "weapon": "hot coals",
+   "x": false
+  },
+  {
+   "id": "83319",
+   "isValid": "",
+   "weapon": "dental floss",
+   "x": false
+  },
+  {
+   "id": "83321",
+   "isValid": "",
+   "weapon": "tank",
+   "x": false
+  },
+  {
+   "id": "83322",
+   "isValid": "",
+   "weapon": "can opener",
+   "x": false
+  },
+  {
+   "id": "83402",
+   "isValid": "",
+   "weapon": "a soft song",
+   "x": false
+  },
+  {
+   "id": "83405",
+   "isValid": "",
+   "weapon": "ballpoint pen",
+   "x": false
+  },
+  {
+   "id": "83406",
+   "isValid": "",
+   "weapon": "ball pit",
+   "x": false
+  },
+  {
+   "id": "83407",
+   "isValid": "",
+   "weapon": "box of rocks",
+   "x": false
+  },
+  {
+   "id": "83408",
+   "isValid": "",
+   "weapon": "canned sardines",
+   "x": false
+  },
+  {
+   "id": "83409",
+   "isValid": "",
+   "weapon": "big cannon",
+   "x": false
+  },
+  {
+   "id": "83410",
+   "isValid": "",
+   "weapon": "catapult",
+   "x": false
+  },
+  {
+   "id": "83411",
+   "isValid": "",
+   "weapon": "chicken kebabs",
+   "x": false
+  },
+  {
+   "id": "83412",
+   "isValid": "",
+   "weapon": "disco",
+   "x": false
+  },
+  {
+   "id": "83413",
+   "isValid": "",
+   "weapon": "disrespect",
+   "x": false
+  },
+  {
+   "id": "83414",
+   "isValid": "",
+   "weapon": "ear piercing gun",
+   "x": false
+  },
+  {
+   "id": "83415",
+   "isValid": "",
+   "weapon": "expired candy",
+   "x": false
+  },
+  {
+   "id": "83416",
+   "isValid": "",
+   "weapon": "vampire",
+   "x": false
+  },
+  {
+   "id": "83417",
+   "isValid": "",
+   "weapon": "fuzzy sweater",
+   "x": false
+  },
+  {
+   "id": "83418",
+   "isValid": "",
+   "weapon": "heavy rain",
+   "x": false
+  },
+  {
+   "id": "83419",
+   "isValid": "",
+   "weapon": "kayak paddle",
+   "x": false
+  },
+  {
+   "id": "83420",
+   "isValid": "",
+   "weapon": "killer ladybug",
+   "x": false
+  },
+  {
+   "id": "83422",
+   "isValid": "",
+   "weapon": "launched into the sun",
+   "x": false
+  },
+  {
+   "id": "83423",
+   "isValid": "",
+   "weapon": "never-ending sorrow",
+   "x": false
+  },
+  {
+   "id": "83424",
+   "isValid": "",
+   "weapon": "overdue library book",
+   "x": false
+  },
+  {
+   "id": "83425",
+   "isValid": "",
+   "weapon": "paranoia",
+   "x": false
+  },
+  {
+   "id": "83426",
+   "isValid": "",
+   "weapon": "party favors",
+   "x": false
+  },
+  {
+   "id": "83428",
+   "isValid": "",
+   "weapon": "pool cue",
+   "x": false
+  },
+  {
+   "id": "83429",
+   "isValid": "",
+   "weapon": "potpourri",
+   "x": false
+  },
+  {
+   "id": "83430",
+   "isValid": "",
+   "weapon": "rabid porcupine",
+   "x": false
+  },
+  {
+   "id": "83431",
+   "isValid": "",
+   "weapon": "really sharp cheddar",
+   "x": false
+  },
+  {
+   "id": "83432",
+   "isValid": "",
+   "weapon": "saber-toothed tiger",
+   "x": false
+  },
+  {
+   "id": "83433",
+   "isValid": "",
+   "weapon": "scalding hot tea",
+   "x": false
+  },
+  {
+   "id": "83434",
+   "isValid": "",
+   "weapon": "the sea",
+   "x": false
+  },
+  {
+   "id": "83435",
+   "isValid": "",
+   "weapon": "deadly tricycle",
+   "x": false
+  },
+  {
+   "id": "83437",
+   "isValid": "",
+   "weapon": "walking the plank",
+   "x": false
+  },
+  {
+   "id": "83438",
+   "isValid": "",
+   "weapon": "water balloon attack",
+   "x": false
+  },
+  {
+   "id": "83439",
+   "isValid": "",
+   "weapon": "wiffle ball bat",
+   "x": false
+  },
+  {
+   "id": "83440",
+   "isValid": "",
+   "weapon": "the world wide web",
+   "x": false
+  },
+  {
+   "id": "83540",
+   "isValid": "",
+   "weapon": "time travel",
+   "x": false
+  },
+  {
+   "id": "83541",
+   "isValid": "",
+   "weapon": "movie marathon",
+   "x": false
+  },
+  {
+   "id": "83542",
+   "isValid": "",
+   "weapon": "slippery stairs",
+   "x": false
+  },
+  {
+   "id": "83546",
+   "isValid": "",
+   "weapon": "robot with feelings",
+   "x": false
+  },
+  {
+   "id": "83581",
+   "isValid": "",
+   "weapon": "ham sandwich",
+   "x": false
+  },
+  {
+   "id": "83586",
+   "isValid": "",
+   "weapon": "Napoleon impersonator",
+   "x": false
+  },
+  {
+   "id": "83587",
+   "isValid": "",
+   "weapon": "overwork",
+   "x": false
+  },
+  {
+   "id": "83593",
+   "isValid": "",
+   "weapon": "enormous foot",
+   "x": false
+  },
+  {
+   "id": "83595",
+   "isValid": "",
+   "weapon": "wobbly skateboard",
+   "x": false
+  },
+  {
+   "id": "83596",
+   "isValid": "",
+   "weapon": "self-driving car",
+   "x": false
+  },
+  {
+   "id": "83598",
+   "isValid": "",
+   "weapon": "shy assassin",
+   "x": false
+  },
+  {
+   "id": "83599",
+   "isValid": "",
+   "weapon": "evil baby",
+   "x": false
+  },
+  {
+   "id": "83602",
+   "isValid": "",
+   "weapon": "death by chocolate",
+   "x": false
+  },
+  {
+   "id": "83605",
+   "isValid": "",
+   "weapon": "birthday cake",
+   "x": false
+  },
+  {
+   "id": "83606",
+   "isValid": "",
+   "weapon": "toaster",
+   "x": false
+  },
+  {
+   "id": "83607",
+   "isValid": "",
+   "weapon": "thorny rose",
+   "x": false
+  },
+  {
+   "id": "83608",
+   "isValid": "",
+   "weapon": "embarrassment",
+   "x": false
+  },
+  {
+   "id": "83775",
+   "isValid": "",
+   "weapon": "unicycle accident",
+   "x": false
+  },
+  {
+   "id": "83776",
+   "isValid": "",
+   "weapon": "credit card debt",
+   "x": false
+  },
+  {
+   "id": "83777",
+   "isValid": "",
+   "weapon": "angry mob of bunnies",
+   "x": false
+  },
+  {
+   "id": "83782",
+   "isValid": "",
+   "weapon": "hermit crab",
+   "x": false
+  },
+  {
+   "id": "83787",
+   "isValid": "",
+   "weapon": "banana peel",
+   "x": false
+  },
+  {
+   "id": "83792",
+   "isValid": "",
+   "weapon": "goose",
+   "x": false
+  },
+  {
+   "id": "83794",
+   "isValid": "",
+   "weapon": "nuclear explosion",
+   "x": false
+  },
+  {
+   "id": "83800",
+   "isValid": "",
+   "weapon": "wistful nostalgia",
+   "x": false
+  },
+  {
+   "id": "83823",
+   "isValid": "",
+   "weapon": "tight deadline",
+   "x": false
+  },
+  {
+   "id": "83825",
+   "isValid": "",
+   "weapon": "lackluster report card",
+   "x": false
+  },
+  {
+   "id": "83826",
+   "isValid": "",
+   "weapon": "wet floor sign",
+   "x": false
+  },
+  {
+   "id": "83828",
+   "isValid": "",
+   "weapon": "Cupid's arrow",
+   "x": false
+  },
+  {
+   "id": "83832",
+   "isValid": "",
+   "weapon": "torpedo",
+   "x": false
+  },
+  {
+   "id": "84059",
+   "isValid": "",
+   "weapon": "trained falcon",
+   "x": false
+  },
+  {
+   "id": "84064",
+   "isValid": "",
+   "weapon": "electric guitar",
+   "x": false
+  },
+  {
+   "id": "84065",
+   "isValid": "",
+   "weapon": "bicycle",
+   "x": false
+  },
+  {
+   "id": "84076",
+   "isValid": "",
+   "weapon": "witch's curse",
+   "x": false
+  },
+  {
+   "id": "84084",
+   "isValid": "",
+   "weapon": "blankie",
+   "x": false
+  },
+  {
+   "id": "84085",
+   "isValid": "",
+   "weapon": "family of raccoons",
+   "x": false
+  },
+  {
+   "id": "84092",
+   "isValid": "",
+   "weapon": "air pollution",
+   "x": false
+  },
+  {
+   "id": "84094",
+   "isValid": "",
+   "weapon": "spicy mustard",
+   "x": false
+  },
+  {
+   "id": "84098",
+   "isValid": "",
+   "weapon": "blimp",
+   "x": false
+  },
+  {
+   "id": "84099",
+   "isValid": "",
+   "weapon": "dance-off",
+   "x": false
+  },
+  {
+   "id": "84103",
+   "isValid": "",
+   "weapon": "bulldozer",
+   "x": false
+  },
+  {
+   "id": "84107",
+   "isValid": "",
+   "weapon": "jelly donut",
+   "x": false
+  },
+  {
+   "id": "84108",
+   "isValid": "",
+   "weapon": "feather duster",
+   "x": false
+  },
+  {
+   "id": "84111",
+   "isValid": "",
+   "weapon": "electric fence",
+   "x": false
+  },
+  {
+   "id": "84505",
+   "isValid": "",
+   "weapon": "carnivorous plant",
+   "x": false
+  },
+  {
+   "id": "84507",
+   "isValid": "",
+   "weapon": "mermaid's trident",
+   "x": false
+  },
+  {
+   "id": "84508",
+   "isValid": "",
+   "weapon": "devious parrot",
+   "x": false
+  },
+  {
+   "id": "84511",
+   "isValid": "",
+   "weapon": "football tackle",
+   "x": false
+  },
+  {
+   "id": "84512",
+   "isValid": "",
+   "weapon": "airplane food",
+   "x": false
+  },
+  {
+   "id": "84515",
+   "isValid": "",
+   "weapon": "intricate maze",
+   "x": false
+  },
+  {
+   "id": "84517",
+   "isValid": "",
+   "weapon": "unseaworthy boat",
+   "x": false
+  },
+  {
+   "id": "84519",
+   "isValid": "",
+   "weapon": "evil magician",
+   "x": false
+  },
+  {
+   "id": "84528",
+   "isValid": "",
+   "weapon": "old potato salad",
+   "x": false
+  },
+  {
+   "id": "84529",
+   "isValid": "",
+   "weapon": "long checkout line",
+   "x": false
+  },
+  {
+   "id": "84535",
+   "isValid": "",
+   "weapon": "murderous scarecrow",
+   "x": false
+  },
+  {
+   "id": "84542",
+   "isValid": "",
+   "weapon": "vengeful cowboy",
+   "x": false
+  },
+  {
+   "id": "84588",
+   "isValid": "",
+   "weapon": "tuba",
+   "x": false
+  },
+  {
+   "id": "84591",
+   "isValid": "",
+   "weapon": "too much bratwurst",
+   "x": false
+  },
+  {
+   "id": "84592",
+   "isValid": "",
+   "weapon": "venomous snake",
+   "x": false
+  },
+  {
+   "id": "84611",
+   "isValid": "",
+   "weapon": "woodchipper",
+   "x": false
+  },
+  {
+   "id": "84614",
+   "isValid": "",
+   "weapon": "walk-in freezer",
+   "x": false
+  },
+  {
+   "id": "84631",
+   "isValid": "",
+   "weapon": "pepper spray",
+   "x": false
+  },
+  {
+   "id": "84634",
+   "isValid": "",
+   "weapon": "rubber duck",
+   "x": false
+  },
+  {
+   "id": "84637",
+   "isValid": "",
+   "weapon": "gravestone",
+   "x": false
+  },
+  {
+   "id": "84681",
+   "isValid": "",
+   "weapon": "big hole",
+   "x": false
+  },
+  {
+   "id": "85010",
+   "isValid": "",
+   "weapon": "airhorn",
+   "x": false
+  },
+  {
+   "id": "85011",
+   "isValid": "",
+   "weapon": "the weight of the world",
+   "x": false
+  },
+  {
+   "id": "85014",
+   "isValid": "",
+   "weapon": "smothered with love",
+   "x": false
+  },
+  {
+   "id": "85016",
+   "isValid": "",
+   "weapon": "jazz solo",
+   "x": false
+  },
+  {
+   "id": "85017",
+   "isValid": "",
+   "weapon": "bad dream",
+   "x": false
+  },
+  {
+   "id": "85019",
+   "isValid": "",
+   "weapon": "gladiator fight",
+   "x": false
+  },
+  {
+   "id": "85020",
+   "isValid": "",
+   "weapon": "quicksand",
+   "x": false
+  },
+  {
+   "id": "85024",
+   "isValid": "",
+   "weapon": "harsh winter",
+   "x": false
+  },
+  {
+   "id": "85025",
+   "isValid": "",
+   "weapon": "rake",
+   "x": false
+  },
+  {
+   "id": "85029",
+   "isValid": "",
+   "weapon": "fine art",
+   "x": false
+  },
+  {
+   "id": "85030",
+   "isValid": "",
+   "weapon": "pie in face",
+   "x": false
+  },
+  {
+   "id": "85157",
+   "isValid": "",
+   "weapon": "cartoon mascot",
+   "x": false
+  },
+  {
+   "id": "85158",
+   "isValid": "",
+   "weapon": "dancing frog",
+   "x": false
+  },
+  {
+   "id": "85161",
+   "isValid": "",
+   "weapon": "breathtaking sunset",
+   "x": false
+  },
+  {
+   "id": "85162",
+   "isValid": "",
+   "weapon": "christmas tree",
+   "x": false
+  },
+  {
+   "id": "85164",
+   "isValid": "",
+   "weapon": "road rage",
+   "x": false
+  },
+  {
+   "id": "85166",
+   "isValid": "",
+   "weapon": "zombie attack",
+   "x": false
+  },
+  {
+   "id": "85171",
+   "isValid": "",
+   "weapon": "T. rex skull",
+   "x": false
+  },
+  {
+   "id": "85172",
+   "isValid": "",
+   "weapon": "6-inch heels",
+   "x": false
+  },
+  {
+   "id": "85173",
+   "isValid": "",
+   "weapon": "fashion",
+   "x": false
+  },
+  {
+   "id": "85174",
+   "isValid": "",
+   "weapon": "firm handshake",
+   "x": false
+  },
+  {
+   "id": "85177",
+   "isValid": "",
+   "weapon": "big ol' snail",
+   "x": false
+  },
+  {
+   "id": "85181",
+   "isValid": "",
+   "weapon": "genie lamp",
+   "x": false
+  },
+  {
+   "id": "85182",
+   "isValid": "",
+   "weapon": "jar of bugs",
+   "x": false
+  },
+  {
+   "id": "85183",
+   "isValid": "",
+   "weapon": "crossbow",
+   "x": false
+  },
+  {
+   "id": "85184",
+   "isValid": "",
+   "weapon": "candlestick",
+   "x": false
+  },
+  {
+   "id": "85185",
+   "isValid": "",
+   "weapon": "baseball bat with nails",
+   "x": false
+  },
+  {
+   "id": "85188",
+   "isValid": "",
+   "weapon": "falling safe",
+   "x": false
+  },
+  {
+   "id": "85555",
+   "isValid": "",
+   "weapon": "folding chair",
+   "x": false
+  },
+  {
+   "id": "85561",
+   "isValid": "",
+   "weapon": "motorcycle explosion",
+   "x": false
+  },
+  {
+   "id": "85572",
+   "isValid": "",
+   "weapon": "hot coffee",
+   "x": false
+  },
+  {
+   "id": "85574",
+   "isValid": "",
+   "weapon": "cosmic rays",
+   "x": false
+  },
+  {
+   "id": "85577",
+   "isValid": "",
+   "weapon": "kick from a donkey",
+   "x": false
+  },
+  {
+   "id": "85578",
+   "isValid": "",
+   "weapon": "box of wine",
+   "x": true
+  },
+  {
+   "id": "85581",
+   "isValid": "",
+   "weapon": "poisoned apple",
+   "x": false
+  },
+  {
+   "id": "85587",
+   "isValid": "",
+   "weapon": "spicy salsa",
+   "x": false
+  },
+  {
+   "id": "85588",
+   "isValid": "",
+   "weapon": "jack-in-the-box",
+   "x": false
+  },
+  {
+   "id": "85590",
+   "isValid": "",
+   "weapon": "mechanical teeth",
+   "x": false
+  },
+  {
+   "id": "85596",
+   "isValid": "",
+   "weapon": "trained mutant bugs",
+   "x": false
+  }
+ ]
+}

@@ -1,0 +1,166 @@
+{
+ "content": [
+    {
+    "prompt": "Your Preferred Greeting",
+    "choices" : [
+           "Warm Hug",
+           "Handshake",
+           "High-Five",
+           "Head Nod",
+           "Cheek Kiss"
+       ]
+    },
+    {
+    "prompt": "Best Cocoa Additions",
+    "choices" : [
+           "Marshmallows",
+           "Whip Cream",
+           "Cinnamon",
+           "Candy Cane",
+           "Orange Zest"
+       ]
+    },
+    {
+    "prompt": "Coolest Hats",
+    "choices" : [
+           "Top Hat",
+           "Beanie",
+           "Fedora",
+           "Beret",
+           "Crown"
+       ]
+    },
+    {
+    "prompt": "Best Ways To Close Pants",
+    "choices" : [
+           "Button",
+           "Zipper",
+           "Safety Pin",
+           "Velcro",
+           "Rope"
+       ]
+    },
+    {
+    "prompt": "Fav Hair Colors",
+    "choices" : [
+           "Blonde",
+           "Brunette",
+           "Jet Black",
+           "Gray",
+           "Bald"
+       ]
+    },
+    {
+    "prompt": "Best Garden Tools",
+    "choices" : [
+           "Rake",
+           "Shovel",
+           "Shears",
+           "Hoe",
+           "Lawnmower"
+       ]
+    },
+    {
+    "prompt": "Best Toys For Baby",
+    "choices" : [
+           "Rattle",
+           "Blocks",
+           "Stuffed Bear",
+           "Keys",
+           "Cool Rock"
+       ]
+    },
+    {
+    "prompt": "Best Things To Sit On",
+    "choices" : [
+           "Loveseat",
+           "Bar Stool",
+           "Yoga Ball",
+           "Wood Bench",
+           "Bean Bag"
+       ]
+    },
+    {
+    "prompt": "What’s Stickiest",
+    "choices" : [
+           "Glue",
+           "Honey",
+           "Tar",
+           "Maple Syrup",
+           "Chewed Gum"
+       ]
+    },
+    {
+    "prompt": "Most Trustworthy Doctors",
+    "choices" : [
+           "Dr. Evil",
+           "Dr. Oz",
+           "Dr. Strange",
+           "Dr. Seuss",
+           "Dr. Ruth"
+       ]
+    },
+    {
+    "prompt": "Most Heroic Captains",
+    "choices" : [
+           "Cpt. America",
+           "Cpt. Marvel",
+           "Cpt. Kirk",
+           "Cpt. Planet",
+           "Cpt. Crunch"
+       ]
+    },
+    {
+    "prompt": "What Makes You Laugh?",
+    "choices" : [
+           "Fart Jokes",
+           "Pie Fights",
+           "Weird Memes",
+           "Cat Antics",
+           "Cave Puns"
+       ]
+    },
+    {
+    "prompt": "Best Things To Push",
+    "choices" : [
+           "A Button",
+           "A Stroller",
+           "A Swing",
+           "A Door",
+           "A Jerk"
+       ]
+    },
+    {
+    "prompt": "Fav Things To Light On Fire",
+    "choices" : [
+           "Candle",
+           "Log",
+           "Firecracker",
+           "Crêpes",
+           "Effigy"
+       ]
+    },
+    {
+    "prompt": "Worst Uses For Hot Sauce",
+    "choices" : [
+           "Toothpaste",
+           "Shampoo",
+           "Deodorant",
+           "Mouthwash",
+           "Sunscreen"
+       ]
+    },
+    {
+    "prompt": "Coolest Parts of Space",
+    "choices" : [
+           "Meteors",
+           "Black Holes",
+           "Stars",
+           "Aliens?",
+           "Moons"
+       ]
+    }
+ ]
+}
+
+

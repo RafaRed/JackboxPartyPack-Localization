@@ -1,0 +1,294 @@
+{
+    "table":{
+    "en": {
+        "LANGUAGE_NAME": "English",
+        "LANGUAGE": "Language",
+        
+        "INTERNET_CONNECTED": "We've just found the internet.",
+        "INTERNET_DISCONNECTED": "We're sorry, we can't seem to connect to the Jackbox Games servers.<br />Please check that your internet connection is working properly.",
+        "ROOM_DESTROYED": "We're sorry, a network error occurred and your room was destroyed.<br />Please check that your internet connection is working properly.",
+        
+        "ROOM_EXIT_CAUSE_LOBBY_TIMEOUT": "We're sorry, a network error occurred and your room was destroyed.<br/>Please check that your internet connection is working properly. (Cause: 1)",
+        "ROOM_EXIT_CAUSE_JOIN_TIMEOUT": "We're sorry, a network error occurred and your room was destroyed.<br/>Please check that your internet connection is working properly. (Cause: 2)",
+        "ROOM_EXIT_CAUSE_GAME_TIMEOUT": "We're sorry, a network error occurred and your room was destroyed.<br/>Please check that your internet connection is working properly. (Cause: 3)",
+        "ROOM_EXIT_CAUSE_DISCONNECT": "We're sorry, a network error occurred and your room was destroyed.<br/>Please check that your internet connection is working properly. (Cause: 4)",
+        "ROOM_EXIT_CAUSE_BY_REQUEST": "We're sorry, a network error occurred and your room was destroyed.<br/>Please check that your internet connection is working properly. (Cause: 5)",
+        "ROOM_EXIT_CAUSE_SHUTTING_DOWN": "We're sorry, a network error occurred and your room was destroyed.<br/>Please check that your internet connection is working properly. (Cause: 6)",
+        
+        "SOCKET_DISCONNECTED ": "We're sorry, we've lost your connection to the Jackbox Games servers.",
+        "TIMEOUT": "We're sorry, we can't seem to connect to the Jackbox Games servers.<br />Please check that your internet connection is working properly.",
+        "USER_DISCONNECT": "We're sorry, the server has disconnected you. Please try again.",
+        "LOST_LICENSE": "We're sorry, we lost the license for this content!",
+        "STEAM_ERROR": "We're sorry, we couldn't validate your Steam license.",
+        "TWITCH_PRIME_ERROR": "We're sorry, we couldn't validate your Twitch Prime license.",
+        "LOST_DLC": "We're sorry, the license for your DLC could not be found. Returning you to the menu...",
+
+        "BACK": "Back",
+        "CLOSE": "Close",
+        "CANCEL": "Cancel",
+        "SELECT": "Select",
+        "OR": "Or",
+        "ON": "On",
+        "OFF": "Off",
+        "HIDE": "Hide",
+        "UNHIDE": "Unhide",
+        "HIDDEN_ROOM_CODE": "?????",
+        "JOIN": "Join!",
+        "PLAY": "PLAY",
+        "SETTINGS": "Settings",
+        "BACK_TO_PACK": "Back",
+        "PLAY_DESCRIPTION": "Create a game room & play",
+        "TMI_DESCRIPTION": "Play a brand new mode that's all about the players",
+        "SETTINGS_DESCRIPTION": "Censoring, Audience, & more",
+        "LEADERBOARD_DESCRIPTION": "",
+        "BACK_TO_PACK_DESCRIPTION": "Exit back to the Party Pack",
+        "SETTINGS_TITLE": "SETTINGS",
+        "LEADERBOARD_TITLE": "LEADERBOARD",
+        "CONNECTING": "Connecting to jackbox games services",
+        "CONNECTING_DELAY": "This is taking a while...<br />Please check your internet connection.",
+        "GO_TO": "Join at\n",
+        "ROOM_CODE":"Room Code",
+        "JOIN_ON_YOUR_DEVICE": "on your mobile device to join in",
+        "JOIN_THE_AUDIENCE": "Join the Audience",
+        "ENTER_ROOM_CODE": "with room code",
+        "READ_ROOM_CODE": "Read room code",
+        "POST_GAME_CHOICE_TITLE": "PLAY AGAIN?",
+        "EVERYBODYS_IN": "Waiting for %s to start the game!",
+        "WAITING_FOR_MORE": "%s players needed to start!",
+        "PRESS": "Press",
+        "TO_START": "to start",
+        "TO_CANCEL": "to cancel",
+        "TO_START_GAME": "to start",
+        "TO_CANCEL_GAME": "to cancel",
+        "JOIN_AUDIENCE": "Join the audience!",
+        "PLAY_AGAIN": "PLAY AGAIN?",
+        "SAME_PLAYERS": "SAME PLAYERS",
+        "LOBBY_OR": "OR",
+        "NEW_PLAYERS": "NEW PLAYERS",
+        "LOBBY_HEADER_MESSAGE_PLAYERS_JOINED": "{CURRENT_PLAYERS}/{MAX_PLAYERS} Players Joined",
+        "LOBBY_STATUS_MESSAGE_WAITINGFORMORE": "{MIN_PLAYERS} Players Needed To Start",
+        "LOBBY_STATUS_MESSAGE_CANSTART": "Press When Everybody's Ready",
+        "LOBBY_STATUS_MESSAGE_COUNTDOWN": "Cancel Game Start",
+        "LOBBY_STATUS_MESSAGE_WAITINGFORVIP": "Waiting for {VIP} to start the game!",
+        "LOBBY_STATUS_MESSAGE_WAITINGFORGAMEPAD": "Waiting for the game to start!",
+
+        "LOBBY_SETTINGS": "Settings",
+        "LOBBY_SETTINGS_ICON_MAX": "MAX",
+        "LOBBY_SETTINGS_ICON_MOD_PLURAL": "MODS",
+        "LOBBY_SETTINGS_ICON_MOD_SINGULAR": "MOD",
+        
+        "SKIP_PROMPT": "Do you want to skip the intro?",
+        "SKIP_CHOICE": "Skip!",
+        
+        "INTRO_1": "You have traveled to this sacred mountaintop...",
+        "INTRO_2": "Seeking answers from the all-knowing Wheel of Enormous Proportions",
+        "INTRO_3": "You may now ask The Wheel any one question that torments your very soul",
+        "INTRO_4": "Will you ask the same question or submit a new one?",
+        "INTRO_5": "The leader of your group has decided that each of you shall be given an important question.",
+        "INTRO_6": "Should you win the game, your unique question will be answered, and your life forever changed.",
+        
+        "TRIVIA_TYPE_TYPINGLIST_NAME": "Don't Forget to Write",
+        "TRIVIA_TYPE_TYPINGLIST_SUBJECTIVE_NAME": "Subjectively Yours, The Wheel",
+        "TRIVIA_TYPE_TAPPINGLIST_NAME": "DO NOT SHOW THIS!",
+        "TRIVIA_TYPE_NUMBERTARGET_NAME": "Please Enumerate",
+        "TRIVIA_TYPE_MATCHING_NAME" : "Counterparts",
+        "TRIVIA_TYPE_RAPIDFIRE_NAME" : "That or This",
+        "TRIVIA_TYPE_GUESSING_NAME" : "What am I thinking?!",
+        
+        "GUESSING_PROMPT": "What do you think The Wheel is talking about?",
+        
+        "TRIVIA_TYPE_TAPPING_LIST_INSTRUCTIONS": "Tap the answers that fit the prompt on your device",
+        "TRIVIA_TYPE_SUBJECTIVE_LIST_INSTRUCTIONS": "Guess as many answers as you can before time runs out",
+        "TRIVIA_TYPE_TYPING_LIST_INSTRUCTIONS": "Type as many answers as you can before time runs out",
+        "TRIVIA_TYPE_NUMBER_TARGET_INSTRUCTIONS": "Submit a number as close to the correct answer as you can",
+        "TRIVIA_TYPE_RAPID_FIRE_INSTRUCTIONS": "Tap as many correct answers as you can before time runs out",
+        "TRIVIA_TYPE_MATCHING_INSTRUCTIONS": "Match as many correct answers as you can before time runs out",
+        "TRIVIA_TYPE_GUESSING_INSTRUCTIONS": "Guess what the wheel is thinking on your device",
+        
+        "ASK_THE_WHEEL_PROMPT": "You may now ask The Wheel of Enormous Proportions one question",
+        "ASK_THE_WHEEL_PLACEHOLDER": "Question goes here",
+        "ASK_THE_WHEEL_DONE_TEXT": "Thank you.",
+
+        "SLICE_TYPE_PLAYER_NAME": "WINNER",
+        "SLICE_TYPE_NEIGHBOR_NAME": "WINNER",
+        "SLICE_TYPE_BONUS_NAME": "POWER SLICE",
+
+        "SLICE_TYPE_WINNER_NAME": "%s Wins",
+        "SLICE_TYPE_WINNER_DESCRIPTION": "%s wins the game!",
+
+        "SLICE_TYPE_POINTS_NAME": "WINNER",
+        "SLICE_TYPE_POINTS_DESCRIPTION": "You get %s points!",
+
+        "SLICE_TYPE_POINTS_FOR_PLAYER_NAME": "WINNER",
+        "SLICE_TYPE_POINTS_FOR_PLAYER_DESCRIPTION": "%s gets %s points",
+
+        "SLICE_TYPE_BAD_NAME": "LOSER",
+        "SLICE_TYPE_BAD_DESCRIPTION": "????????",
+
+        "SLICE_TYPE_AUDIENCE_NAME": "WINNER",
+        "SLICE_TYPE_AUDIENCE_DESCRIPTION": "????????",
+
+        "MINI_WHEEL_TITLE_TOP": "WINNER",
+        "MINI_WHEEL_TITLE_BOTTOM": "WHEEL",
+
+        "SCOREBOARD_NEEDED_TO_WIN": "Needed to win",
+        "SCOREBOARD_SCORES": "Scores",
+        
+        "NEIGHBOR": "Neighbor",
+        "SUBMIT": "Submit",
+
+        "PLAYER_SLICE_SHARED": "SPLIT",
+        "PLAYER_SLICE_CONTESTED": "SPLIT",
+
+        "HIGH_SCORE": "HIGH SCORE",
+        "FASTEST_ANSWER": "FASTEST ANSWER",
+
+        "SLICE_EFFECT_SWAPPOINTS_NAME": "POINT\nSWAP",
+        "SLICE_EFFECT_SWAPPOINTS_DESCRIPTION": "Make two other players swap points",
+        "SLICE_EFFECT_SWAPPOINTS_PROMPT": "Choose two players. They will swap points.",
+        
+        "SLICE_EFFECT_EXPAND_NAME": "DUPLICATE\nSLICE",
+        "SLICE_EFFECT_EXPAND_DESCRIPTION": "Duplicate a slice over top the slices next to it",
+        "SLICE_EFFECT_EXPAND_PROMPT": "Choose a slice. It will duplicate over top the slices next to it",
+        
+        "SLICE_EFFECT_REPLACESLICE_NAME": "REPLACE\nSLICE",
+        "SLICE_EFFECT_REPLACESLICE_DESCRIPTION": "Choose a slice to make it all your own",
+        "SLICE_EFFECT_REPLACESLICE_PROMPT": "Choose a slice. It will become your very own new slice",
+        
+        "SLICE_EFFECT_STEALFROMPLAYERSLICE_NAME": "STEAL\nPOINTS",
+        "SLICE_EFFECT_STEALFROMPLAYERSLICE_DESCRIPTION": "Steal points from everyone on a slice",
+        "SLICE_EFFECT_STEALFROMPLAYERSLICE_PROMPT": "Choose a slice. Everyone on that slice gives you points",
+        
+        "SLICE_EFFECT_RAINBOW_NAME": "RAINBOW\nWHEEL",
+        "SLICE_EFFECT_RAINBOW_DESCRIPTION": "Spin as many times as you can!",
+        "SLICE_EFFECT_RAINBOW_PROMPT": "Spin as many times as you can!",
+        
+        "SLICE_EFFECT_CONSENSUSCHALLENGE_NAME": "CHOOSE A\nWINNER",
+        "SLICE_EFFECT_CONSENSUSCHALLENGE_DESCRIPTION": "You win the pot again unless everyone agrees to give it to someone else",
+        "SLICE_EFFECT_CONSENSUSCHALLENGE_PROMPT": "Choose a player. %s will win the pot again unless everyone agrees to give it to someone else",
+        
+        "SLICE_EFFECT_CATCHMECHALLENGE_NAME": "HIDE AND\nSEEK",
+        "SLICE_EFFECT_CATCHMECHALLENGE_DESCRIPTION": "You win the pot again if no one picks the same slice that you do",
+        "SLICE_EFFECT_CATCHMECHALLENGE_PROMPT_SLICE_OWNER": "Choose a slice. You win the pot again if no one picks the slice that you do",
+        "SLICE_EFFECT_CATCHMECHALLENGE_PROMPT_NON_SLICE_OWNER": "Choose a slice. %s will win the pot again if no one picks the slice that they pick",
+
+        "SLICE_EFFECT_CHAINSTEAL_NAME": "SLICE\nSTEALER",
+        "SLICE_EFFECT_CHAINSTEAL_DESCRIPTION": "Steal a set of linked slices that belong to another player",
+        "SLICE_EFFECT_CHAINSTEAL_PROMPT": "Choose a slice. You will steal a set of linked slices that belong to another player.",
+
+        "AUDIENCE_CHOOSE_TRIVIA_WINNER_PROMPT_0": "Which player is going to do best on this question?",
+        "AUDIENCE_CHOOSE_SLICE_EFFECT_PROMPT": "Vote Now",
+
+        "SLICE_EFFECT_AUDIENCEREPLACESLICES_NAME": "POWER or\nSKULL",
+        "SLICE_EFFECT_AUDIENCEREPLACESLICES_DESCRIPTION": "Everyone vote now on your device",
+        "SLICE_EFFECT_AUDIENCEREPLACESLICES_PROMPT": "Do you want more POWER SLICES or more SKULL SLICES?",
+        "AUDIENCE_REPLACE_SLICES_OPTION_BAD_SLICES": "SKULL",
+        "AUDIENCE_REPLACE_SLICES_OPTION_BONUS_SLICES": "POWER",
+
+        "SLICE_EFFECT_AUDIENCENUMSPINS_NAME": "SPIN METER \nFULL or RESET",
+        "SLICE_EFFECT_AUDIENCENUMSPINS_DESCRIPTION": "Everyone vote now on your device",
+        "SLICE_EFFECT_AUDIENCENUMSPINS_PROMPT": "Do you want the Spin Meter to be FULL or RESET?",
+        "AUDIENCE_NUM_SPINS_OPTION_ZERO": "RESET",
+        "AUDIENCE_NUM_SPINS_OPTION_FULL": "FULL",
+
+        "SLICE_EFFECT_AUDIENCE_NEIGHBOR_BONUS_NAME": "GET POINTS or\nLOSE POINTS",
+        "SLICE_EFFECT_AUDIENCE_NEIGHBOR_BONUS_DESCRIPTION": "Everyone vote now on your device",
+        "SLICE_EFFECT_AUDIENCE_NEIGHBOR_BONUS_PROMPT": "Should players next to a Power Slice GET POINTS or LOSE POINTS?",
+        "SLICE_EFFECT_AUDIENCE_NEIGHBOR_BONUS_GIVE": "GET POINTS",
+        "SLICE_EFFECT_AUDIENCE_NEIGHBOR_BONUS_TAKE": "LOSE POINTS",
+        
+        "SLICE_EFFECT_AUDIENCE_NEIGHBOR_BAD_NAME": "GET POINTS or\nLOSE POINTS",
+        "SLICE_EFFECT_AUDIENCE_NEIGHBOR_BAD_DESCRIPTION": "Everyone vote now on your device",
+        "SLICE_EFFECT_AUDIENCE_NEIGHBOR_BAD_PROMPT": "Should players next to a Skull Slice GET POINTS or LOSE POINTS?",
+        "SLICE_EFFECT_AUDIENCE_NEIGHBOR_BAD_GIVE": "GET POINTS",
+        "SLICE_EFFECT_AUDIENCE_NEIGHBOR_BAD_TAKE": "LOSE POINTS",
+
+        "SLICE_EFFECT_AUDIENCESLICECOUNT_NAME": "MOST or\nFEWEST",
+        "SLICE_EFFECT_AUDIENCESLICECOUNT_DESCRIPTION": "Everyone vote now on your device",
+        "SLICE_EFFECT_AUDIENCESLICECOUNT_PROMPT": "Should I give points to the player with the MOST slices or the FEWEST slices?",
+        "AUDIENCE_SLICE_COUNT_OPTION_MOST_SLICES": "MOST",
+        "AUDIENCE_SLICE_COUNT_OPTION_FEWEST_SLICES": "FEWEST",
+
+        "SLICE_EFFECT_AUDIENCESKULLSWAPPER_NAME": "SINGLE PLAYER\nor SHARED",
+        "SLICE_EFFECT_AUDIENCESKULLSWAPPER_DESCRIPTION": "Everyone vote now on your device",
+        "SLICE_EFFECT_AUDIENCESKULLSWAPPER_PROMPT": "Should I Skull up the SINGLE player slices or the SHARED slices?",
+        "AUDIENCE_SKULL_SWAPPER_OPTION_SINGLE": "SINGLE",
+        "AUDIENCE_SKULL_SWAPPER_OPTION_MULTIPLE": "SHARED",
+
+        "SLICE_EFFECT_AUDIENCESLICEENHANCEMENT_NAME": "WORTH MORE or\nMIX THEM ",
+        "SLICE_EFFECT_AUDIENCESLICEENHANCEMENT_DESCRIPTION": "Everyone vote now on your device",
+        "SLICE_EFFECT_AUDIENCESLICEENHANCEMENT_PROMPT": "Should Player Slices be worth MORE or should I MIX them all up instead?",
+        "AUDIENCE_SLICE_ENHANCEMENT_OPTION_MULTIPLIERS": "MORE",
+        "AUDIENCE_SLICE_ENHANCEMENT_OPTION_RANDOMIZE": "MIX",
+
+        "AUDIENCE_LABEL_AUDIENCECOUNT": "In audience",
+        "AUDIENCE_LABEL_VOTES": "Voted",
+        "AUDIENCE_LABEL_PERCENTWHOCHOSE_CORRECT": "Correct",
+        "AUDIENCE_LABEL_PERCENTWHOCHOSE_INCORRECT": "Wrong",
+        
+        "AUDIENCE_CHOOSE_TRIVIA_WINNER_WIDGET_PROMPT": "Who will do the best?",
+        
+        "CREDITS_WINNER": "WINNER",
+        "CREDITS_UNANSWERED_HEADER": "QUESTIONS THAT MAY NEVER BE ANSWERED\n",
+
+        "TEXT_DESCRIPTION_TAPPING_LIST_REVEAL": "The correct answers were %s",
+        "TEXT_DESCRIPTION_TAPPING_LIST_PLAYER_RESULT": "%s got %s correct",
+
+        "TEXT_DESCRIPTION_GUESSING_REVEAL": "The answer was %s",
+        "TEXT_DESCRIPTION_GUESSING_PLAYER_RESULT": "%s got it in %s seconds",
+        "TEXT_DESCRIPTION_GUESSING_PLAYER_NO_ONE": "No one got it!",
+
+        "TEXT_DESCRIPTION_MATCHING_REVEAL": "The answers were %s",
+        "TEXT_DESCRIPTION_MATCHING_PLAYER_RESULT": "%s got %s matches",
+
+        "TEXT_DESCRIPTION_NUMBER_TARGET_REVEAL": "The answers was %s",
+        "TEXT_DESCRIPTION_NUMBER_TARGET_PLAYER_RESULT": "%s guessed %s",
+
+        "TEXT_DESCRIPTION_RAPID_FIRE_PLAYER_RESULT": "%s got %s correct",
+
+        "TEXT_DESCRIPTION_TYPING_LIST_REVEAL": "The answers were %s",
+        "TEXT_DESCRIPTION_TYPING_LIST_PLAYER_RESULT": "%s got %s correct",
+
+        "TEXT_DESCRIPTION_PLAYER_GOT_SLICES": "%s got %s slices",
+        "TEXT_DESCRIPTION_PLAYER_GOT_POWER_SLICE": "%s got the power slice",
+
+        "TEXT_DESCRIPTION_POINTS": "%s got %s points",
+
+        "TEXT_DESCRIPTION_WIN_WHEEL_STATUS": "Players on the win wheel: %s",
+        "TEXT_DESCRIPTION_WINNER": "%s is the winner",
+
+        "TEXT_DESCRIPTION_ASK_QUESTION": "%s asks the wheel: %s",
+        "TEXT_DESCRIPTION_ANSWER": "The answer is: %s",
+        
+        "TEXT_DESCRIPTION_SCOREBOARD": "The scores are: %s",
+
+        "CREDITS_THEME_0":"Look in the sky, about one-thousand miles high",
+        "CREDITS_THEME_1":"It’s the Wheel of Enormous Proportions",
+        "CREDITS_THEME_2":"A super deity, taller than the highest tree",
+        "CREDITS_THEME_3":"It’s the Wheel of Enormous Proportions",
+        "CREDITS_THEME_4":"Up on a mountain top",
+        "CREDITS_THEME_5":"Its questions never stop",
+        "CREDITS_THEME_6":"Hope you’re really good at trivia",
+        "CREDITS_THEME_7":"And with a spin of its face",
+        "CREDITS_THEME_8":"Maybe it lands upon your space",
+        "CREDITS_THEME_9":"Fulfilling all your dreams beyond compare",
+        "CREDITS_THEME_10":"(solo)",
+        "CREDITS_THEME_11":"Round and round the wheel goes",
+        "CREDITS_THEME_12":"Where it’ll land, no one knows",
+        "CREDITS_THEME_14":"At any moment, anyone can win",
+        "CREDITS_THEME_15":"But with the Wheel of E.P.",
+        "CREDITS_THEME_16":"There’s never any guarantee",
+        "CREDITS_THEME_17":"It bestows upon you answers that you seek",
+        "CREDITS_THEME_18":"So travel on high, to the hero in the sky",
+        "CREDITS_THEME_19":"It’s the Wheel of Enormous Proportions",
+        "CREDITS_THEME_20":"You’ll get more answers there, than you’ll find most anywhere",
+        "CREDITS_THEME_21":"With the Wheel of Enormous Proportions",
+        "CREDITS_THEME_22":"The Wheel of Enormous Proportions",
+        "CREDITS_THEME_23":"The Wheel of Enormous Proportions"
+    },
+    "fr": {},
+    "it": {},
+    "de": {},
+    "es": {}
+}
+}

@@ -1,0 +1,8 @@
+{
+    "id":"Main",
+    "name":"MurderDetectives Main",
+    "types":[
+        "MurderDetectivesWeapon",
+        "MurderDetectivesGuest"
+    ]
+}

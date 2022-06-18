@@ -1,0 +1,14 @@
+{
+    "id":"Main", 
+    "name":"Main Content Pack", 
+    "types":[
+        "TheWheelPlayerQuestion",
+        "TheWheelAnswer",
+        "TheWheelTypingList",
+        "TheWheelTappingList",
+        "TheWheelNumberTarget",
+        "TheWheelMatching",
+        "TheWheelRapidFire",
+        "TheWheelGuessing"
+    ]
+}
