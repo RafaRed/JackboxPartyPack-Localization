@@ -1,0 +1,12 @@
+
+{
+    "id":"Main",
+    "name":"PushTheButton Main",
+    "types":[
+        "PushTheButtonTuneables",
+        "PushTheButtonWritingTests",
+        "PushTheButtonDrawingTests",
+        "PushTheButtonRatingTests",
+        "PushTheButtonMoralityTests"
+    ]
+}
