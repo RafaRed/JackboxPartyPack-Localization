@@ -1,1 +1,65 @@
-{"fields":[{"t":"N","v":"2","n":"AlienPromptDifficulty2"},{"t":"N","v":"2","n":"AlienPromptDifficulty1"},{"t":"N","v":"2","n":"AlienPromptDifficulty0"},{"t":"N","v":"2","n":"Difficulty"},{"t":"S","v":"false","n":"AlienPromptAdultt0"},{"t":"S","v":"D\u00EA-lhes o Heimlich","n":"AlienPromptText0"},{"t":"S","v":"false","n":"AlienPromptAdultt1"},{"t":"S","v":"D\u00EA-lhes dinheiro","n":"AlienPromptText1"},{"t":"S","v":"false","n":"AlienPromptAdultt2"},{"t":"S","v":"pe\u00E7a perd\u00E3o","n":"AlienPromptText2"},{"t":"S","v":"Enquanto voc\u00EA est\u00E1 terminando com algu\u00E9m em um restaurante, eles come\u00E7am a engasgar.Voc\u00EA ent\u00E3o ...","n":"HumanPromptText"},{"s":"Enquanto voc\u00EA est\u00E1 terminando com algu\u00E9m em um restaurante, eles come\u00E7am a engasgar.Voc\u00EA ent\u00E3o ...","t":"A","v":"835095_1","n":"HumanPromptAudio"}]}
+{
+  "fields": [
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty2"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty1"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty0"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt0"
+    },
+    {
+      "t": "S",
+      "v": "Faz a manobra de Heimlich para fazer eles cuspirem",
+      "n": "AlienPromptText0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt1"
+    },
+    {
+      "t": "S",
+      "v": "Da dinheiro para eles",
+      "n": "AlienPromptText1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt2"
+    },
+    {
+      "t": "S",
+      "v": "pede perdão",
+      "n": "AlienPromptText2"
+    },
+    {
+      "t": "S",
+      "v": "Enquanto você está terminando com alguém em um restaurante, eles começam a engasgar. Você então ...",
+      "n": "HumanPromptText"
+    },
+    {
+      "s": "Enquanto você está terminando com alguém em um restaurante, eles começam a engasgar. Você então ...",
+      "t": "A",
+      "v": "835095_1",
+      "n": "HumanPromptAudio"
+    }
+  ]
+}

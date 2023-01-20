@@ -1,1 +1,65 @@
-{"fields":[{"t":"N","v":"1","n":"AlienPromptDifficulty2"},{"t":"N","v":"1","n":"AlienPromptDifficulty1"},{"t":"N","v":"1","n":"AlienPromptDifficulty0"},{"t":"N","v":"1","n":"Difficulty"},{"t":"S","v":"false","n":"AlienPromptAdultt0"},{"t":"S","v":"Pare","n":"AlienPromptText0"},{"t":"S","v":"false","n":"AlienPromptAdultt1"},{"t":"S","v":"Prosseguir","n":"AlienPromptText1"},{"t":"S","v":"false","n":"AlienPromptAdultt2"},{"t":"S","v":"desacelerar","n":"AlienPromptText2"},{"t":"S","v":"\u00C9 descoberto que o aquecimento global \u00E9 piorado olhando para v\u00EDdeos de cachorro.Voc\u00EA deve...","n":"HumanPromptText"},{"s":"\u00C9 descoberto que o aquecimento global \u00E9 piorado olhando para v\u00EDdeos de cachorro.Voc\u00EA deve...","t":"A","v":"823475_1","n":"HumanPromptAudio"}]}
+{
+  "fields": [
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty2"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty1"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty0"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt0"
+    },
+    {
+      "t": "S",
+      "v": "Parar",
+      "n": "AlienPromptText0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt1"
+    },
+    {
+      "t": "S",
+      "v": "Continuar",
+      "n": "AlienPromptText1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt2"
+    },
+    {
+      "t": "S",
+      "v": "Diminuir o ritmo",
+      "n": "AlienPromptText2"
+    },
+    {
+      "t": "S",
+      "v": "É descoberto que o aquecimento global é piorado toda vez que olha para vídeos de mulher pelada. Você deve...",
+      "n": "HumanPromptText"
+    },
+    {
+        "s": "É descoberto que o aquecimento global é piorado toda vez que olha para vídeos de mulher pelada. Você deve...",
+        "t": "A",
+        "v": "823475_1",
+        "n": "HumanPromptAudio"
+    }
+  ]
+}

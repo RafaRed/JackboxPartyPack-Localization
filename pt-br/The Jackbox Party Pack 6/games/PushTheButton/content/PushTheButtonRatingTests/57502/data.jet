@@ -1,1 +1,65 @@
-{"fields":[{"t":"N","v":"0","n":"AlienPromptDifficulty2"},{"t":"N","v":"0","n":"AlienPromptDifficulty1"},{"t":"N","v":"0","n":"AlienPromptDifficulty0"},{"t":"N","v":"0","n":"Difficulty"},{"t":"S","v":"false","n":"AlienPromptAdultt0"},{"t":"S","v":"Eu prefiro visitar o Hava\u00ED sobre o Alasca.","n":"AlienPromptText0"},{"t":"S","v":"false","n":"AlienPromptAdultt1"},{"t":"S","v":"Eu prefiro short para cal\u00E7as.","n":"AlienPromptText1"},{"t":"S","v":"false","n":"AlienPromptAdultt2"},{"t":"S","v":"Ver\u00E3o \u00E9 a minha esta\u00E7\u00E3o favorita.","n":"AlienPromptText2"},{"t":"S","v":"\u00C9 melhor estar quente do que frio.","n":"HumanPromptText"},{"s":"\u00C9 melhor estar quente do que frio.","t":"A","v":"832042_1","n":"HumanPromptAudio"}]}
+{
+  "fields": [
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty2"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty1"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty0"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt0"
+    },
+    {
+      "t": "S",
+      "v": "Eu prefiro visitar o Havaí do que o Alasca.",
+      "n": "AlienPromptText0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt1"
+    },
+    {
+      "t": "S",
+      "v": "Eu prefiro shorts do que calças.",
+      "n": "AlienPromptText1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt2"
+    },
+    {
+      "t": "S",
+      "v": "Verão é a minha estação favorita.",
+      "n": "AlienPromptText2"
+    },
+    {
+      "t": "S",
+      "v": "É melhor estar quente do que frio.",
+      "n": "HumanPromptText"
+    },
+    {
+      "s": "É melhor estar quente do que frio.",
+      "t": "A",
+      "v": "832042_1",
+      "n": "HumanPromptAudio"
+    }
+  ]
+}

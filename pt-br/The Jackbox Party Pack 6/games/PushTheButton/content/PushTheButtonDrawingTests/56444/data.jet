@@ -1,1 +1,110 @@
-{"fields":[{"t":"N","v":"0","n":"AlienPromptDifficulty5"},{"t":"N","v":"2","n":"AlienPromptDifficulty4"},{"t":"N","v":"2","n":"AlienPromptDifficulty3"},{"t":"N","v":"1","n":"AlienPromptDifficulty2"},{"t":"N","v":"1","n":"AlienPromptDifficulty1"},{"t":"N","v":"1","n":"AlienPromptDifficulty0"},{"t":"N","v":"1","n":"Difficulty"},{"t":"S","v":"false","n":"AlienPromptAdultt5"},{"t":"S","v":"Desenhe um assassinato.","n":"HumanPromptText"},{"t":"S","v":"Desenhe glutony.","n":"AlienPromptText4"},{"t":"S","v":"Desenhe furto.","n":"AlienPromptText5"},{"t":"S","v":"true","n":"AlienPromptAdultt0"},{"t":"S","v":"Desenhe uma cena de filme de terror.","n":"AlienPromptText0"},{"t":"S","v":"true","n":"AlienPromptAdultt1"},{"t":"S","v":"Desenhe uma cena de filme de a\u00E7\u00E3o.","n":"AlienPromptText1"},{"t":"S","v":"true","n":"AlienPromptAdultt2"},{"t":"S","v":"Desenhe um a\u00E7ougueiro.","n":"AlienPromptText2"},{"t":"S","v":"true","n":"AlienPromptAdultt3"},{"t":"S","v":"Desenhe corvos.","n":"AlienPromptText3"},{"t":"S","v":"true","n":"AlienPromptAdultt4"},{"s":"Desenhe um assassinato.","t":"A","v":"807597_0","n":"HumanPromptAudio"}]}
+{
+  "fields": [
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty5"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty4"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty3"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty2"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty1"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty0"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt5"
+    },
+    {
+      "t": "S",
+      "v": "Desenhe um assassinato.",
+      "n": "HumanPromptText"
+    },
+    {
+      "t": "S",
+      "v": "Desenhe glutony.",
+      "n": "AlienPromptText4"
+    },
+    {
+      "t": "S",
+      "v": "Desenhe furto.",
+      "n": "AlienPromptText5"
+    },
+    {
+      "t": "S",
+      "v": "true",
+      "n": "AlienPromptAdultt0"
+    },
+    {
+      "t": "S",
+      "v": "Desenhe uma cena de filme de terror.",
+      "n": "AlienPromptText0"
+    },
+    {
+      "t": "S",
+      "v": "true",
+      "n": "AlienPromptAdultt1"
+    },
+    {
+      "t": "S",
+      "v": "Desenhe uma cena de filme de ação.",
+      "n": "AlienPromptText1"
+    },
+    {
+      "t": "S",
+      "v": "true",
+      "n": "AlienPromptAdultt2"
+    },
+    {
+      "t": "S",
+      "v": "Desenhe um açougueiro.",
+      "n": "AlienPromptText2"
+    },
+    {
+      "t": "S",
+      "v": "true",
+      "n": "AlienPromptAdultt3"
+    },
+    {
+      "t": "S",
+      "v": "Desenhe corvos.",
+      "n": "AlienPromptText3"
+    },
+    {
+      "t": "S",
+      "v": "true",
+      "n": "AlienPromptAdultt4"
+    },
+    {
+      "s": "Desenhe um assassinato.",
+      "t": "A",
+      "v": "807597_0",
+      "n": "HumanPromptAudio"
+    }
+  ]
+}

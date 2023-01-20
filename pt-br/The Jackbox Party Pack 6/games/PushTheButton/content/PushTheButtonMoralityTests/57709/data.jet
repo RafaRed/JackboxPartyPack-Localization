@@ -1,1 +1,65 @@
-{"fields":[{"t":"N","v":"2","n":"AlienPromptDifficulty2"},{"t":"N","v":"2","n":"AlienPromptDifficulty1"},{"t":"N","v":"2","n":"AlienPromptDifficulty0"},{"t":"N","v":"2","n":"Difficulty"},{"t":"S","v":"false","n":"AlienPromptAdultt0"},{"t":"S","v":"recusar e sair","n":"AlienPromptText0"},{"t":"S","v":"false","n":"AlienPromptAdultt1"},{"t":"S","v":"Concordar e ficar","n":"AlienPromptText1"},{"t":"S","v":"false","n":"AlienPromptAdultt2"},{"t":"S","v":"Concordar e sair","n":"AlienPromptText2"},{"t":"S","v":"Uma senhora pede para voc\u00EA assistir seu gorila invis\u00EDvel enquanto ela usa o banheiro.Voc\u00EA ent\u00E3o ...","n":"HumanPromptText"},{"s":"Uma senhora pede para voc\u00EA assistir seu gorila invis\u00EDvel enquanto ela usa o banheiro.Voc\u00EA ent\u00E3o ...","t":"A","v":"835071_1","n":"HumanPromptAudio"}]}
+{
+  "fields": [
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty2"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty1"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty0"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt0"
+    },
+    {
+      "t": "S",
+      "v": "recusa e vai embora",
+      "n": "AlienPromptText0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt1"
+    },
+    {
+      "t": "S",
+      "v": "Concorda e fica",
+      "n": "AlienPromptText1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt2"
+    },
+    {
+      "t": "S",
+      "v": "Concorda e vai embora",
+      "n": "AlienPromptText2"
+    },
+    {
+      "t": "S",
+      "v": "Uma senhora pede para você assistir seu gorila invisível enquanto ela usa o banheiro.Você então ...",
+      "n": "HumanPromptText"
+    },
+    {
+      "s": "Uma senhora pede para você assistir seu gorila invisível enquanto ela usa o banheiro.Você então ...",
+      "t": "A",
+      "v": "835071_1",
+      "n": "HumanPromptAudio"
+    }
+  ]
+}

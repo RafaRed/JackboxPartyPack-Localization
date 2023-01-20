@@ -1,1 +1,155 @@
-{"fields":[{"t":"N","v":"1","n":"AlienPromptDifficulty5"},{"t":"N","v":"0","n":"AlienPromptDifficulty4"},{"t":"N","v":"0","n":"AlienPromptDifficulty3"},{"t":"N","v":"2","n":"AlienPromptDifficulty2"},{"t":"N","v":"2","n":"AlienPromptDifficulty1"},{"t":"N","v":"0","n":"AlienPromptDifficulty0"},{"t":"N","v":"0","n":"Difficulty"},{"t":"N","v":"2","n":"AlienPromptDifficulty8"},{"t":"N","v":"1","n":"AlienPromptDifficulty7"},{"t":"N","v":"1","n":"AlienPromptDifficulty6"},{"t":"S","v":"false","n":"AlienPromptAdultt5"},{"t":"S","v":"false","n":"AlienPromptAdultt6"},{"t":"S","v":"false","n":"AlienPromptAdultt7"},{"t":"S","v":"true","n":"AlienPromptAdultt8"},{"t":"S","v":"A localizacao do meu primeiro beijo foi ...","n":"AlienPromptText8"},{"t":"S","v":"Meu destino de fehrias ideal eh ...","n":"HumanPromptText"},{"t":"S","v":"A cidade com a mais bela arquitetura eh ...","n":"AlienPromptText4"},{"t":"S","v":"Uma cidade que todo mundo zomba eh ...","n":"AlienPromptText5"},{"t":"S","v":"Minha localizacao ficticia favorita eh ...","n":"AlienPromptText6"},{"t":"S","v":"false","n":"AlienPromptAdultt0"},{"t":"S","v":"O nome da minha cidade natal eh ...","n":"AlienPromptText7"},{"t":"S","v":"Um pais que eu nunca estive eh ...","n":"AlienPromptText0"},{"t":"S","v":"false","n":"AlienPromptAdultt1"},{"t":"S","v":"O pior lugar para ficar preso seria ...","n":"AlienPromptText1"},{"t":"S","v":"false","n":"AlienPromptAdultt2"},{"t":"S","v":"O lugar mais provahvel que eu corro em um ex eh ...","n":"AlienPromptText2"},{"t":"S","v":"false","n":"AlienPromptAdultt3"},{"t":"S","v":"O pais com os mais belos marcos naturais eh ...","n":"AlienPromptText3"},{"t":"S","v":"false","n":"AlienPromptAdultt4"},{"s":"Meu destino de fehrias ideal eh ...","t":"A","v":"803363_0","n":"HumanPromptAudio"}]}
+{
+  "fields": [
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty5"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty4"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty3"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty2"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty1"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty0"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "Difficulty"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty8"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty7"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty6"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt5"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt6"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt7"
+    },
+    {
+      "t": "S",
+      "v": "true",
+      "n": "AlienPromptAdultt8"
+    },
+    {
+      "t": "S",
+      "v": "A localizacao do meu primeiro beijo foi ...",
+      "n": "AlienPromptText8"
+    },
+    {
+        "t": "S",
+        "v": "Meu destino de férias ideal é ...",
+        "n": "HumanPromptText"
+    },
+    {
+        "t": "S",
+        "v": "A cidade com a mais bela arquitetura é ...",
+        "n": "AlienPromptText4"
+    },
+    {
+        "t": "S",
+        "v": "Uma cidade que todo mundo zomba é ...",
+        "n": "AlienPromptText5"
+    },
+    {
+        "t": "S",
+        "v": "Minha localizacao ficticia favorita é ...",
+        "n": "AlienPromptText6"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt0"
+    },
+    {
+        "t": "S",
+        "v": "O nome da minha cidade natal é ...",
+        "n": "AlienPromptText7"
+    },
+    {
+        "t": "S",
+        "v": "Um pais que eu nunca estive é ...",
+        "n": "AlienPromptText0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt1"
+    },
+    {
+      "t": "S",
+      "v": "O pior lugar para ficar preso seria ...",
+      "n": "AlienPromptText1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt2"
+    },
+    {
+        "t": "S",
+        "v": "O lugar mais provável que eu trombaria com uma ex é ...",
+        "n": "AlienPromptText2"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt3"
+    },
+    {
+        "t": "S",
+        "v": "O país com os mais belos marcos naturais é ...",
+        "n": "AlienPromptText3"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt4"
+    },
+    {
+        "s": "Meu destino de férias ideal é ...",
+        "t": "A",
+        "v": "803363_0",
+        "n": "HumanPromptAudio"
+    }
+  ]
+}

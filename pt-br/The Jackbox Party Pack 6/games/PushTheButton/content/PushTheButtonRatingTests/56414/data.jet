@@ -1,1 +1,65 @@
-{"fields":[{"t":"N","v":"1","n":"AlienPromptDifficulty2"},{"t":"N","v":"1","n":"AlienPromptDifficulty1"},{"t":"N","v":"1","n":"AlienPromptDifficulty0"},{"t":"N","v":"1","n":"Difficulty"},{"t":"S","v":"false","n":"AlienPromptAdultt0"},{"t":"S","v":"Eu sou uma pessoa muito apaixonada.","n":"AlienPromptText0"},{"t":"S","v":"false","n":"AlienPromptAdultt1"},{"t":"S","v":"Eu sou mais s\u00E1bio hoje do que h\u00E1 cinco anos.","n":"AlienPromptText1"},{"t":"S","v":"false","n":"AlienPromptAdultt2"},{"t":"S","v":"Pepperoni \u00E9 a melhor cobertura de pizza.","n":"AlienPromptText2"},{"t":"S","v":"Eu sou um beijador incr\u00EDvel.","n":"HumanPromptText"},{"s":"Eu sou um beijador incr\u00EDvel.","t":"A","v":"807096_1","n":"HumanPromptAudio"}]}
+{
+  "fields": [
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty2"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty1"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty0"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt0"
+    },
+    {
+      "t": "S",
+      "v": "Eu sou uma pessoa muito apaixonada.",
+      "n": "AlienPromptText0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt1"
+    },
+    {
+      "t": "S",
+      "v": "Eu sou mais sábio hoje do que há cinco anos.",
+      "n": "AlienPromptText1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt2"
+    },
+    {
+      "t": "S",
+      "v": "Pepperoni é a melhor cobertura de pizza.",
+      "n": "AlienPromptText2"
+    },
+    {
+      "t": "S",
+      "v": "Eu sou um beijador incrível.",
+      "n": "HumanPromptText"
+    },
+    {
+      "s": "Eu sou um beijador incrível.",
+      "t": "A",
+      "v": "807096_1",
+      "n": "HumanPromptAudio"
+    }
+  ]
+}

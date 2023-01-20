@@ -1,1 +1,110 @@
-{"fields":[{"t":"N","v":"0","n":"AlienPromptDifficulty5"},{"t":"N","v":"0","n":"AlienPromptDifficulty4"},{"t":"N","v":"1","n":"AlienPromptDifficulty3"},{"t":"N","v":"1","n":"AlienPromptDifficulty2"},{"t":"N","v":"1","n":"AlienPromptDifficulty1"},{"t":"N","v":"0","n":"AlienPromptDifficulty0"},{"t":"N","v":"0","n":"Difficulty"},{"t":"S","v":"true","n":"AlienPromptAdultt5"},{"t":"S","v":"Desenhe uma pessoa b\u00EAbada.","n":"HumanPromptText"},{"t":"S","v":"Desenhe um suporte de barril.","n":"AlienPromptText4"},{"t":"S","v":"Desenhe algu\u00E9m desmaio.","n":"AlienPromptText5"},{"t":"S","v":"true","n":"AlienPromptAdultt0"},{"t":"S","v":"Desenhe uma pessoa em um bar.","n":"AlienPromptText0"},{"t":"S","v":"true","n":"AlienPromptAdultt1"},{"t":"S","v":"Desenhe uma pessoa que toma vinho.","n":"AlienPromptText1"},{"t":"S","v":"true","n":"AlienPromptAdultt2"},{"t":"S","v":"Desenhe um barman misturando uma bebida.","n":"AlienPromptText2"},{"t":"S","v":"true","n":"AlienPromptAdultt3"},{"t":"S","v":"Desenhe algu\u00E9m deitado.","n":"AlienPromptText3"},{"t":"S","v":"true","n":"AlienPromptAdultt4"},{"s":"Desenhe uma pessoa b\u00EAbada.","t":"A","v":"811552_0","n":"HumanPromptAudio"}]}
+{
+  "fields": [
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty5"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty4"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty3"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty2"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty1"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty0"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "true",
+      "n": "AlienPromptAdultt5"
+    },
+    {
+      "t": "S",
+      "v": "Desenhe uma pessoa bêbada.",
+      "n": "HumanPromptText"
+    },
+    {
+      "t": "S",
+      "v": "Desenhe alguém se apoiando num barril.",
+      "n": "AlienPromptText4"
+    },
+    {
+      "t": "S",
+      "v": "Desenhe alguém desmaiado.",
+      "n": "AlienPromptText5"
+    },
+    {
+      "t": "S",
+      "v": "true",
+      "n": "AlienPromptAdultt0"
+    },
+    {
+      "t": "S",
+      "v": "Desenhe uma pessoa em um bar.",
+      "n": "AlienPromptText0"
+    },
+    {
+      "t": "S",
+      "v": "true",
+      "n": "AlienPromptAdultt1"
+    },
+    {
+      "t": "S",
+      "v": "Desenhe uma pessoa que toma vinho.",
+      "n": "AlienPromptText1"
+    },
+    {
+      "t": "S",
+      "v": "true",
+      "n": "AlienPromptAdultt2"
+    },
+    {
+      "t": "S",
+      "v": "Desenhe um barman misturando uma bebida.",
+      "n": "AlienPromptText2"
+    },
+    {
+      "t": "S",
+      "v": "true",
+      "n": "AlienPromptAdultt3"
+    },
+    {
+      "t": "S",
+      "v": "Desenhe alguém deitado.",
+      "n": "AlienPromptText3"
+    },
+    {
+      "t": "S",
+      "v": "true",
+      "n": "AlienPromptAdultt4"
+    },
+    {
+      "s": "Desenhe uma pessoa bêbada.",
+      "t": "A",
+      "v": "811552_0",
+      "n": "HumanPromptAudio"
+    }
+  ]
+}

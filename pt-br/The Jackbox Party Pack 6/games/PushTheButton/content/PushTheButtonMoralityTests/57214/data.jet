@@ -1,1 +1,65 @@
-{"fields":[{"t":"N","v":"0","n":"AlienPromptDifficulty2"},{"t":"N","v":"0","n":"AlienPromptDifficulty1"},{"t":"N","v":"0","n":"AlienPromptDifficulty0"},{"t":"N","v":"0","n":"Difficulty"},{"t":"S","v":"false","n":"AlienPromptAdultt0"},{"t":"S","v":"fique quieto","n":"AlienPromptText0"},{"t":"S","v":"false","n":"AlienPromptAdultt1"},{"t":"S","v":"denuncie","n":"AlienPromptText1"},{"t":"S","v":"false","n":"AlienPromptAdultt2"},{"t":"S","v":"mate isso","n":"AlienPromptText2"},{"t":"S","v":"Voc\u00EA descobre bigfoot \u00E9 real e inteligente.Isso te levanta para esquecer que voc\u00EA viu.Voc\u00EA deve...","n":"HumanPromptText"},{"s":"Voc\u00EA descobre bigfoot \u00E9 real e inteligente.Isso te levanta para esquecer que voc\u00EA viu.Voc\u00EA deve...","t":"A","v":"824482_1","n":"HumanPromptAudio"}]}
+{
+  "fields": [
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty2"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty1"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty0"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt0"
+    },
+    {
+      "t": "S",
+      "v": "ficar quieto",
+      "n": "AlienPromptText0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt1"
+    },
+    {
+      "t": "S",
+      "v": "denunciá-lo",
+      "n": "AlienPromptText1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt2"
+    },
+    {
+      "t": "S",
+      "v": "matá-lo",
+      "n": "AlienPromptText2"
+    },
+    {
+        "t": "S",
+        "v": "Você descobre bigfoot é real e inteligente. Ele implora para que esqueça que viu ele. Você deve...",
+        "n": "HumanPromptText"
+    },
+    {
+      "s": "Você descobre bigfoot é real e inteligente. Ele implora para que esqueça que viu ele. Você deve...",
+      "t": "A",
+      "v": "824482_1",
+      "n": "HumanPromptAudio"
+    }
+  ]
+}

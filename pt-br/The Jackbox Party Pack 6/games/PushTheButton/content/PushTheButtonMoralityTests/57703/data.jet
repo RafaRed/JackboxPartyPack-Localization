@@ -1,1 +1,65 @@
-{"fields":[{"t":"N","v":"0","n":"AlienPromptDifficulty2"},{"t":"N","v":"0","n":"AlienPromptDifficulty1"},{"t":"N","v":"0","n":"AlienPromptDifficulty0"},{"t":"N","v":"1","n":"Difficulty"},{"t":"S","v":"false","n":"AlienPromptAdultt0"},{"t":"S","v":"Pare","n":"AlienPromptText0"},{"t":"S","v":"false","n":"AlienPromptAdultt1"},{"t":"S","v":"Prosseguir","n":"AlienPromptText1"},{"t":"S","v":"false","n":"AlienPromptAdultt2"},{"t":"S","v":"desacelerar","n":"AlienPromptText2"},{"t":"S","v":"Todo o crime \u00E9 legal por um dia.Ao se aproximar de um sem\u00E1foro vermelho, voc\u00EA ...","n":"HumanPromptText"},{"s":"Todo o crime \u00E9 legal por um dia.Ao se aproximar de um sem\u00E1foro vermelho, voc\u00EA ...","t":"A","v":"834999_1","n":"HumanPromptAudio"}]}
+{
+  "fields": [
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty2"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty1"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty0"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt0"
+    },
+    {
+      "t": "S",
+      "v": "Para",
+      "n": "AlienPromptText0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt1"
+    },
+    {
+      "t": "S",
+      "v": "Segue em frente",
+      "n": "AlienPromptText1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt2"
+    },
+    {
+      "t": "S",
+      "v": "desacelera",
+      "n": "AlienPromptText2"
+    },
+    {
+      "t": "S",
+      "v": "Todo o crime é legalizado por um dia. Ao se aproximar de um semáforo vermelho, você ...",
+      "n": "HumanPromptText"
+    },
+    {
+        "s": "Todo o crime é legalizado por um dia. Ao se aproximar de um semáforo vermelho, você ...",
+        "t": "A",
+        "v": "834999_1",
+        "n": "HumanPromptAudio"
+    }
+  ]
+}

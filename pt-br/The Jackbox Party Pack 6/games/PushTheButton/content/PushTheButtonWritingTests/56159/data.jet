@@ -1,1 +1,110 @@
-{"fields":[{"t":"N","v":"2","n":"AlienPromptDifficulty5"},{"t":"N","v":"2","n":"AlienPromptDifficulty4"},{"t":"N","v":"2","n":"AlienPromptDifficulty3"},{"t":"N","v":"1","n":"AlienPromptDifficulty2"},{"t":"N","v":"1","n":"AlienPromptDifficulty1"},{"t":"N","v":"1","n":"AlienPromptDifficulty0"},{"t":"N","v":"1","n":"Difficulty"},{"t":"S","v":"true","n":"AlienPromptAdultt5"},{"t":"S","v":"Minha bebida alcoolica favorita eh ...","n":"HumanPromptText"},{"t":"S","v":"O melhor ahlcool para beber como um tiro eh ...","n":"AlienPromptText4"},{"t":"S","v":"O melhor ahlcool para servir em festas eh ...","n":"AlienPromptText5"},{"t":"S","v":"true","n":"AlienPromptAdultt0"},{"t":"S","v":"Minha bebida sazonal favorita eh ...","n":"AlienPromptText0"},{"t":"S","v":"true","n":"AlienPromptAdultt1"},{"t":"S","v":"A ultima coisa que voce quer beber quando eh quente eh ...","n":"AlienPromptText1"},{"t":"S","v":"true","n":"AlienPromptAdultt2"},{"t":"S","v":"A pior coisa a ter gotejamento em voce eh ...","n":"AlienPromptText2"},{"t":"S","v":"true","n":"AlienPromptAdultt3"},{"t":"S","v":"O coquetel mais faniest que jah bebi era ...","n":"AlienPromptText3"},{"t":"S","v":"true","n":"AlienPromptAdultt4"},{"s":"Minha bebida alcoolica favorita eh ...","t":"A","v":"802877_0","n":"HumanPromptAudio"}]}
+{
+  "fields": [
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty5"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty4"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty3"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty2"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty1"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty0"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "true",
+      "n": "AlienPromptAdultt5"
+    },
+    {
+        "t": "S",
+        "v": "Minha bebida alcoolica favorita é ...",
+        "n": "HumanPromptText"
+    },
+    {
+        "t": "S",
+        "v": "O melhor alcool para beber em um shot é ...",
+        "n": "AlienPromptText4"
+    },
+    {
+        "t": "S",
+        "v": "O melhor ahlcool para servir em festas é ...",
+        "n": "AlienPromptText5"
+    },
+    {
+      "t": "S",
+      "v": "true",
+      "n": "AlienPromptAdultt0"
+    },
+    {
+        "t": "S",
+        "v": "Minha bebida sazonal favorita é ...",
+        "n": "AlienPromptText0"
+    },
+    {
+      "t": "S",
+      "v": "true",
+      "n": "AlienPromptAdultt1"
+    },
+    {
+        "t": "S",
+        "v": "A ultima coisa que voce quer beber quando está quente é ...",
+        "n": "AlienPromptText1"
+    },
+    {
+      "t": "S",
+      "v": "true",
+      "n": "AlienPromptAdultt2"
+    },
+    {
+        "t": "S",
+        "v": "A pior coisa de se ter pingando em voce é ...",
+        "n": "AlienPromptText2"
+    },
+    {
+      "t": "S",
+      "v": "true",
+      "n": "AlienPromptAdultt3"
+    },
+    {
+      "t": "S",
+      "v": "O coquetel mais chique que já bebi era ...",
+      "n": "AlienPromptText3"
+    },
+    {
+      "t": "S",
+      "v": "true",
+      "n": "AlienPromptAdultt4"
+    },
+    {
+        "s": "Minha bebida alcoolica favorita é ...",
+        "t": "A",
+        "v": "802877_0",
+        "n": "HumanPromptAudio"
+    }
+  ]
+}

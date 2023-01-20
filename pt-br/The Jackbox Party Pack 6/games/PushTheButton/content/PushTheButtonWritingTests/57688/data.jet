@@ -1,1 +1,155 @@
-{"fields":[{"t":"N","v":"1","n":"AlienPromptDifficulty5"},{"t":"N","v":"2","n":"AlienPromptDifficulty4"},{"t":"N","v":"1","n":"AlienPromptDifficulty3"},{"t":"N","v":"0","n":"AlienPromptDifficulty2"},{"t":"N","v":"1","n":"AlienPromptDifficulty1"},{"t":"N","v":"0","n":"AlienPromptDifficulty0"},{"t":"N","v":"0","n":"Difficulty"},{"t":"N","v":"2","n":"AlienPromptDifficulty8"},{"t":"N","v":"2","n":"AlienPromptDifficulty7"},{"t":"N","v":"0","n":"AlienPromptDifficulty6"},{"t":"S","v":"false","n":"AlienPromptAdultt5"},{"t":"S","v":"false","n":"AlienPromptAdultt6"},{"t":"S","v":"false","n":"AlienPromptAdultt7"},{"t":"S","v":"false","n":"AlienPromptAdultt8"},{"t":"S","v":"A pessoa ficticia mais legal eh ...","n":"AlienPromptText8"},{"t":"S","v":"When I hear the word u201cgoober,u201d I think of...","n":"HumanPromptText"},{"t":"S","v":"When I hear the word u201csexy,u201d I think of...","n":"AlienPromptText4"},{"t":"S","v":"Uma celebridade que me irrita eh ...","n":"AlienPromptText5"},{"t":"S","v":"When I hear the word u201cgoofy,u201d I think of...","n":"AlienPromptText6"},{"t":"S","v":"false","n":"AlienPromptAdultt0"},{"t":"S","v":"Uma celebridade que eu acho que eh super-muscular eh ...","n":"AlienPromptText7"},{"t":"S","v":"When I hear the word u201cdork,u201d I think of...","n":"AlienPromptText0"},{"t":"S","v":"false","n":"AlienPromptAdultt1"},{"t":"S","v":"When I hear the word u201csilly,u201d I think of...","n":"AlienPromptText1"},{"t":"S","v":"false","n":"AlienPromptAdultt2"},{"t":"S","v":"When I hear the word u201cdoofus,u201d I think of...","n":"AlienPromptText2"},{"t":"S","v":"false","n":"AlienPromptAdultt3"},{"t":"S","v":"When I hear the word u201cmuscular,u201d I think of...","n":"AlienPromptText3"},{"t":"S","v":"true","n":"AlienPromptAdultt4"},{"s":"When I hear the word u201cgoober,u201d I think of...","t":"A","v":"834819_1","n":"HumanPromptAudio"}]}
+{
+  "fields": [
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty5"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty4"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty3"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty2"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty1"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty0"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "Difficulty"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty8"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty7"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty6"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt5"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt6"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt7"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt8"
+    },
+    {
+        "t": "S",
+        "v": "A pessoa ficticia mais legal é ...",
+        "n": "AlienPromptText8"
+    },
+    {
+      "t": "S",
+      "v": "Quando escuto a palavra 'bobão' penso em...",
+      "n": "HumanPromptText"
+    },
+    {
+        "t": "S",
+        "v": "Quando escuto a palavra 'sexy' penso em...",
+        "n": "AlienPromptText4"
+    },
+    {
+        "t": "S",
+        "v": "Uma celebridade que me irrita é ...",
+        "n": "AlienPromptText5"
+    },
+    {
+        "t": "S",
+        "v": "Quando escuto a palavra 'Abobalhado' penso em...",
+        "n": "AlienPromptText6"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt0"
+    },
+    {
+        "t": "S",
+        "v": "Uma celebridade que eu acho que é super-musculosa é ...",
+        "n": "AlienPromptText7"
+    },
+    {
+        "t": "S",
+        "v": "Quando escuto a palavra 'tonto' penso em...",
+        "n": "AlienPromptText0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt1"
+    },
+    {
+        "t": "S",
+        "v": "Quando escuto a palavra 'estúpido' penso em...",
+        "n": "AlienPromptText1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt2"
+    },
+    {
+        "t": "S",
+        "v": "Quando escuto a palavra 'idiota' penso em...",
+        "n": "AlienPromptText2"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt3"
+    },
+    {
+        "t": "S",
+        "v": "Quando escuto a palavra 'musculoso' penso em...",
+        "n": "AlienPromptText3"
+    },
+    {
+      "t": "S",
+      "v": "true",
+      "n": "AlienPromptAdultt4"
+    },
+    {
+        "s": "Quando escuto a palavra 'bobão' penso em...",
+        "t": "A",
+        "v": "834819_1",
+        "n": "HumanPromptAudio"
+    }
+  ]
+}

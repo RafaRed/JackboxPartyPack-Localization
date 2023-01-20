@@ -1,1 +1,65 @@
-{"fields":[{"t":"N","v":"0","n":"AlienPromptDifficulty2"},{"t":"N","v":"0","n":"AlienPromptDifficulty1"},{"t":"N","v":"0","n":"AlienPromptDifficulty0"},{"t":"N","v":"0","n":"Difficulty"},{"t":"S","v":"false","n":"AlienPromptAdultt0"},{"t":"S","v":"$1","n":"AlienPromptText0"},{"t":"S","v":"false","n":"AlienPromptAdultt1"},{"t":"S","v":"$50","n":"AlienPromptText1"},{"t":"S","v":"false","n":"AlienPromptAdultt2"},{"t":"S","v":"US $ 100.","n":"AlienPromptText2"},{"t":"S","v":"Seu pior inimigo \u00E9 de US $ 100 longe de aumentar o suficiente para uma cirurgia salva-vidas.Voc\u00EA doa ...","n":"HumanPromptText"},{"s":"Seu pior inimigo \u00E9 de US $ 100 longe de aumentar o suficiente para uma cirurgia salva-vidas.Voc\u00EA doa ...","t":"A","v":"824494_1","n":"HumanPromptAudio"}]}
+{
+  "fields": [
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty2"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty1"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty0"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt0"
+    },
+    {
+      "t": "S",
+      "v": "R$1",
+      "n": "AlienPromptText0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt1"
+    },
+    {
+      "t": "S",
+      "v": "R$50",
+      "n": "AlienPromptText1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt2"
+    },
+    {
+      "t": "S",
+      "v": "R$ 100.",
+      "n": "AlienPromptText2"
+    },
+    {
+        "t": "S",
+        "v": "Seu pior inimigo precisa de R$ 100 para uma cirurgia que irá salvar a vida dele. Você doa ...",
+        "n": "HumanPromptText"
+    },
+    {
+      "s": "Seu pior inimigo precisa de R$ 100 para uma cirurgia que irá salvar a vida dele. Você doa ...",
+      "t": "A",
+      "v": "824494_1",
+      "n": "HumanPromptAudio"
+    }
+  ]
+}

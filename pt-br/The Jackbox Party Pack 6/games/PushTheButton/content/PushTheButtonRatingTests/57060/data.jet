@@ -1,1 +1,65 @@
-{"fields":[{"t":"N","v":"0","n":"AlienPromptDifficulty2"},{"t":"N","v":"2","n":"AlienPromptDifficulty1"},{"t":"N","v":"2","n":"AlienPromptDifficulty0"},{"t":"N","v":"2","n":"Difficulty"},{"t":"S","v":"false","n":"AlienPromptAdultt0"},{"t":"S","v":"Eu prefiro dias ensolarados sobre insens\u00F5es intensas.","n":"AlienPromptText0"},{"t":"S","v":"false","n":"AlienPromptAdultt1"},{"t":"S","v":"O homem vai pousar em Marte dentro de vinte anos.","n":"AlienPromptText1"},{"t":"S","v":"false","n":"AlienPromptAdultt2"},{"t":"S","v":"Eu gostaria de morar no exterior.","n":"AlienPromptText2"},{"t":"S","v":"Eu poderia levantar uma Toyota Prius sobre a minha cabe\u00E7a bem facilmente.","n":"HumanPromptText"},{"s":"Eu poderia levantar uma Toyota Prius sobre a minha cabe\u00E7a bem facilmente.","t":"A","v":"820095_1","n":"HumanPromptAudio"}]}
+{
+  "fields": [
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty2"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty1"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty0"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt0"
+    },
+    {
+      "t": "S",
+      "v": "Eu prefiro dias ensolarados a dias chuvososs.",
+      "n": "AlienPromptText0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt1"
+    },
+    {
+      "t": "S",
+      "v": "O homem vai pousar em Marte dentro de vinte anos.",
+      "n": "AlienPromptText1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt2"
+    },
+    {
+      "t": "S",
+      "v": "Eu gostaria de morar no exterior.",
+      "n": "AlienPromptText2"
+    },
+    {
+      "t": "S",
+      "v": "Eu poderia levantar uma Toyota Prius sobre a minha cabeça bem facilmente.",
+      "n": "HumanPromptText"
+    },
+    {
+      "s": "Eu poderia levantar uma Toyota Prius sobre a minha cabeça bem facilmente.",
+      "t": "A",
+      "v": "820095_1",
+      "n": "HumanPromptAudio"
+    }
+  ]
+}

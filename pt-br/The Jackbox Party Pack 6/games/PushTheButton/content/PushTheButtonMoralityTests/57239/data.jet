@@ -1,1 +1,65 @@
-{"fields":[{"t":"N","v":"0","n":"AlienPromptDifficulty2"},{"t":"N","v":"0","n":"AlienPromptDifficulty1"},{"t":"N","v":"0","n":"AlienPromptDifficulty0"},{"t":"N","v":"0","n":"Difficulty"},{"t":"S","v":"false","n":"AlienPromptAdultt0"},{"t":"S","v":"Cidade de Nova York","n":"AlienPromptText0"},{"t":"S","v":"false","n":"AlienPromptAdultt1"},{"t":"S","v":"o meio de Nevada","n":"AlienPromptText1"},{"t":"S","v":"false","n":"AlienPromptAdultt2"},{"t":"S","v":"T\u00F3quio, Jap\u00E3o","n":"AlienPromptText2"},{"t":"S","v":"Voc\u00EA \u00E9 colocado em prote\u00E7\u00E3o de testemunhas para evitar a multid\u00E3o.Voc\u00EA \u00E9 a melhor chance de se esconder em ...","n":"HumanPromptText"},{"s":"Voc\u00EA \u00E9 colocado em prote\u00E7\u00E3o de testemunhas para evitar a multid\u00E3o.Voc\u00EA \u00E9 a melhor chance de se esconder em ...","t":"A","v":"825342_1","n":"HumanPromptAudio"}]}
+{
+  "fields": [
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty2"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty1"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty0"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt0"
+    },
+    {
+      "t": "S",
+      "v": "Cidade de Nova York",
+      "n": "AlienPromptText0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt1"
+    },
+    {
+      "t": "S",
+      "v": "o meio de Nevada",
+      "n": "AlienPromptText1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt2"
+    },
+    {
+      "t": "S",
+      "v": "Tóquio, Japão",
+      "n": "AlienPromptText2"
+    },
+    {
+      "t": "S",
+      "v": "Você é colocado em proteção de testemunhas para evitar a multidão. A melhor chance de se esconder é em ...",
+      "n": "HumanPromptText"
+    },
+    {
+      "s": "Você é colocado em proteção de testemunhas para evitar a multidão. A melhor chance de se esconder é em ...",
+      "t": "A",
+      "v": "825342_1",
+      "n": "HumanPromptAudio"
+    }
+  ]
+}

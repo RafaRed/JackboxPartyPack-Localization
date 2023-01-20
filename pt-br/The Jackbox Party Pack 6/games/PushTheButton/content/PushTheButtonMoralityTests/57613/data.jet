@@ -1,1 +1,65 @@
-{"fields":[{"t":"N","v":"0","n":"AlienPromptDifficulty2"},{"t":"N","v":"0","n":"AlienPromptDifficulty1"},{"t":"N","v":"0","n":"AlienPromptDifficulty0"},{"t":"N","v":"0","n":"Difficulty"},{"t":"S","v":"false","n":"AlienPromptAdultt0"},{"t":"S","v":"festejando","n":"AlienPromptText0"},{"t":"S","v":"false","n":"AlienPromptAdultt1"},{"t":"S","v":"refletindo","n":"AlienPromptText1"},{"t":"S","v":"false","n":"AlienPromptAdultt2"},{"t":"S","v":"preparando","n":"AlienPromptText2"},{"t":"S","v":"Um cometa est\u00E1 indo em um curso de colis\u00E3o com a Terra.Voc\u00EA passa o dia ...","n":"HumanPromptText"},{"s":"Um cometa est\u00E1 indo em um curso de colis\u00E3o com a Terra.Voc\u00EA passa o dia ...","t":"A","v":"833514_1","n":"HumanPromptAudio"}]}
+{
+  "fields": [
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty2"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty1"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty0"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt0"
+    },
+    {
+      "t": "S",
+      "v": "festejando",
+      "n": "AlienPromptText0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt1"
+    },
+    {
+      "t": "S",
+      "v": "refletindo",
+      "n": "AlienPromptText1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt2"
+    },
+    {
+      "t": "S",
+      "v": "se preparando",
+      "n": "AlienPromptText2"
+    },
+    {
+      "t": "S",
+      "v": "Um cometa está indo em um curso de colisão com a Terra. Você passa o dia ...",
+      "n": "HumanPromptText"
+    },
+    {
+      "s": "Um cometa está indo em um curso de colisão com a Terra. Você passa o dia ...",
+      "t": "A",
+      "v": "833514_1",
+      "n": "HumanPromptAudio"
+    }
+  ]
+}

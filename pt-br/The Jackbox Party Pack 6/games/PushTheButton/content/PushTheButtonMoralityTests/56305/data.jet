@@ -1,1 +1,65 @@
-{"fields":[{"t":"N","v":"0","n":"AlienPromptDifficulty2"},{"t":"N","v":"0","n":"AlienPromptDifficulty1"},{"t":"N","v":"0","n":"AlienPromptDifficulty0"},{"t":"N","v":"0","n":"Difficulty"},{"t":"S","v":"false","n":"AlienPromptAdultt0"},{"t":"S","v":"ajude-os","n":"AlienPromptText0"},{"t":"S","v":"false","n":"AlienPromptAdultt1"},{"t":"S","v":"recusar","n":"AlienPromptText1"},{"t":"S","v":"false","n":"AlienPromptAdultt2"},{"t":"S","v":"transform\u00E1-los dentro","n":"AlienPromptText2"},{"t":"S","v":"Um bom amigo est\u00E1 preocupado que eles n\u00E3o se formam e pede para trapacear seu teste.O que voc\u00EA deve fazer \u00E9 ...","n":"HumanPromptText"},{"s":"Um bom amigo est\u00E1 preocupado que eles n\u00E3o se formam e pede para trapacear seu teste.O que voc\u00EA deve fazer \u00E9 ...","t":"A","v":"805409_0","n":"HumanPromptAudio"}]}
+{
+  "fields": [
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty2"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty1"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty0"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt0"
+    },
+    {
+      "t": "S",
+      "v": "ajudá-lo",
+      "n": "AlienPromptText0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt1"
+    },
+    {
+      "t": "S",
+      "v": "recusar",
+      "n": "AlienPromptText1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt2"
+    },
+    {
+      "t": "S",
+      "v": "denunciá-lo",
+      "n": "AlienPromptText2"
+    },
+    {
+        "t": "S",
+        "v": "Um bom amigo está preocupado que não conseguirá se formar e quer trapacear olhando sua prova. O que você deve fazer é ...",
+        "n": "HumanPromptText"
+    },
+    {
+        "s": "Um bom amigo está preocupado que não conseguirá se formar e quer trapacear olhando sua prova. O que você deve fazer é  ...",
+        "t": "A",
+        "v": "805409_0",
+        "n": "HumanPromptAudio"
+    }
+  ]
+}

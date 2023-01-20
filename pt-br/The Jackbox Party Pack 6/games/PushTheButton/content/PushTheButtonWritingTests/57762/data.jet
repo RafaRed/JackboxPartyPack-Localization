@@ -1,1 +1,155 @@
-{"fields":[{"t":"N","v":"0","n":"AlienPromptDifficulty5"},{"t":"N","v":"2","n":"AlienPromptDifficulty4"},{"t":"N","v":"2","n":"AlienPromptDifficulty3"},{"t":"N","v":"2","n":"AlienPromptDifficulty2"},{"t":"N","v":"1","n":"AlienPromptDifficulty1"},{"t":"N","v":"0","n":"AlienPromptDifficulty0"},{"t":"N","v":"0","n":"Difficulty"},{"t":"N","v":"1","n":"AlienPromptDifficulty8"},{"t":"N","v":"1","n":"AlienPromptDifficulty7"},{"t":"N","v":"0","n":"AlienPromptDifficulty6"},{"t":"S","v":"false","n":"AlienPromptAdultt5"},{"t":"S","v":"false","n":"AlienPromptAdultt6"},{"t":"S","v":"false","n":"AlienPromptAdultt7"},{"t":"S","v":"false","n":"AlienPromptAdultt8"},{"t":"S","v":"O melhor tipo de mergulho para servir em uma festa eh ...","n":"AlienPromptText8"},{"t":"S","v":"A melhor coisa para mergulhar uma fritura francesa eh ...","n":"HumanPromptText"},{"t":"S","v":"A melhor comida de lanche eh ...","n":"AlienPromptText4"},{"t":"S","v":"A melhor coisa para mergulhar batatas fritas eh ...","n":"AlienPromptText5"},{"t":"S","v":"A melhor coisa para mergulhar uma pepita de frango em eh ...","n":"AlienPromptText6"},{"t":"S","v":"false","n":"AlienPromptAdultt0"},{"t":"S","v":"A melhor coisa para colocar em um hamburguer eh ...","n":"AlienPromptText7"},{"t":"S","v":"A melhor coisa para mergulhar um chip de batata em eh ...","n":"AlienPromptText0"},{"t":"S","v":"false","n":"AlienPromptAdultt1"},{"t":"S","v":"A melhor coisa para colocar em um cachorro-quente eh ...","n":"AlienPromptText1"},{"t":"S","v":"false","n":"AlienPromptAdultt2"},{"t":"S","v":"A coisa mais grosseira do seu refrigerador eh ...","n":"AlienPromptText2"},{"t":"S","v":"false","n":"AlienPromptAdultt3"},{"t":"S","v":"A melhor coisa para comer com os dedos eh ...","n":"AlienPromptText3"},{"t":"S","v":"false","n":"AlienPromptAdultt4"},{"s":"A melhor coisa para mergulhar uma fritura francesa eh ...","t":"A","v":"836633_1","n":"HumanPromptAudio"}]}
+{
+  "fields": [
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty5"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty4"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty3"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty2"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty1"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty0"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "Difficulty"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty8"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty7"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty6"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt5"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt6"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt7"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt8"
+    },
+    {
+      "t": "S",
+      "v": "O melhor tipo de molho para servir em uma festa é ...",
+      "n": "AlienPromptText8"
+    },
+    {
+        "t": "S",
+        "v": "A melhor coisa para se mergulhar uma batata frita é ...",
+        "n": "HumanPromptText"
+    },
+    {
+        "t": "S",
+        "v": "A melhor comida de lanche é ...",
+        "n": "AlienPromptText4"
+    },
+    {
+        "t": "S",
+        "v": "A melhor coisa para mergulhar batatas fritas é ...",
+        "n": "AlienPromptText5"
+    },
+    {
+        "t": "S",
+        "v": "A melhor coisa para mergulhar uma perna de frango em é ...",
+        "n": "AlienPromptText6"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt0"
+    },
+    {
+        "t": "S",
+        "v": "A melhor coisa para colocar em um hamburguer é ...",
+        "n": "AlienPromptText7"
+    },
+    {
+        "t": "S",
+        "v": "A melhor coisa para mergulhar um chip de batata em é ...",
+        "n": "AlienPromptText0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt1"
+    },
+    {
+        "t": "S",
+        "v": "A melhor coisa para colocar em um cachorro-quente é ...",
+        "n": "AlienPromptText1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt2"
+    },
+    {
+        "t": "S",
+        "v": "A coisa mais nojenta na minha geladeira é ...",
+        "n": "AlienPromptText2"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt3"
+    },
+    {
+        "t": "S",
+        "v": "A melhor coisa para comer com os dedos é ...",
+        "n": "AlienPromptText3"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt4"
+    },
+    {
+        "s": "A melhor coisa para se mergulhar uma batata frita é ...",
+        "t": "A",
+        "v": "836633_1",
+        "n": "HumanPromptAudio"
+    }
+  ]
+}

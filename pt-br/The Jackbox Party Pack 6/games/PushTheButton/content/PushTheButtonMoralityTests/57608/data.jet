@@ -1,1 +1,65 @@
-{"fields":[{"t":"N","v":"1","n":"AlienPromptDifficulty2"},{"t":"N","v":"1","n":"AlienPromptDifficulty1"},{"t":"N","v":"1","n":"AlienPromptDifficulty0"},{"t":"N","v":"1","n":"Difficulty"},{"t":"S","v":"false","n":"AlienPromptAdultt0"},{"t":"S","v":"nudez p\u00FAblica","n":"AlienPromptText0"},{"t":"S","v":"false","n":"AlienPromptAdultt1"},{"t":"S","v":"lavagem de dinheiro","n":"AlienPromptText1"},{"t":"S","v":"false","n":"AlienPromptAdultt2"},{"t":"S","v":"Viola\u00E7\u00F5es de c\u00F3digo de sa\u00FAde.","n":"AlienPromptText2"},{"t":"S","v":"Voc\u00EA precisa escolher um restaurante para o jantar de ensaio do casamento e todos os tr\u00EAs s\u00E3o reservados.Voc\u00EA escolhe o conhecido por ...","n":"HumanPromptText"},{"s":"Voc\u00EA precisa escolher um restaurante para o jantar de ensaio do casamento e todos os tr\u00EAs s\u00E3o reservados.Voc\u00EA escolhe o conhecido por ...","t":"A","v":"833454_1","n":"HumanPromptAudio"}]}
+{
+  "fields": [
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty2"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty1"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty0"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt0"
+    },
+    {
+      "t": "S",
+      "v": "nudez pública",
+      "n": "AlienPromptText0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt1"
+    },
+    {
+      "t": "S",
+      "v": "lavagem de dinheiro",
+      "n": "AlienPromptText1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt2"
+    },
+    {
+      "t": "S",
+      "v": "Violações de código de saúde.",
+      "n": "AlienPromptText2"
+    },
+    {
+        "t": "S",
+        "v": "Você precisa escolher um restaurante para o jantar de ensaio do casamento e todos os três estão reservados.Você escolhe o conhecido por ...",
+        "n": "HumanPromptText"
+    },
+    {
+      "s": "Você precisa escolher um restaurante para o jantar de ensaio do casamento e todos os três estão reservados. Você escolhe o conhecido por ...",
+      "t": "A",
+      "v": "833454_1",
+      "n": "HumanPromptAudio"
+    }
+  ]
+}

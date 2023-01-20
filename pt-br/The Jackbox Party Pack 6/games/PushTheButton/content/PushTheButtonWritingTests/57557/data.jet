@@ -1,1 +1,65 @@
-{"fields":[{"t":"N","v":"2","n":"AlienPromptDifficulty2"},{"t":"N","v":"2","n":"AlienPromptDifficulty1"},{"t":"N","v":"2","n":"AlienPromptDifficulty0"},{"t":"N","v":"2","n":"Difficulty"},{"t":"S","v":"false","n":"AlienPromptAdultt0"},{"t":"S","v":"Um presente de dia dos namorados que eu comprei antes eh ...","n":"AlienPromptText0"},{"t":"S","v":"false","n":"AlienPromptAdultt1"},{"t":"S","v":"Algo que eu so uso para ocasioes especiais eh ...","n":"AlienPromptText1"},{"t":"S","v":"false","n":"AlienPromptAdultt2"},{"t":"S","v":"O pior animal para um animal de estimacao eh ...","n":"AlienPromptText2"},{"t":"S","v":"Algo que eu estou usando especificamente agora eh ...","n":"HumanPromptText"},{"s":"Algo que eu estou usando especificamente agora eh ...","t":"A","v":"832748_1","n":"HumanPromptAudio"}]}
+{
+  "fields": [
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty2"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty1"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty0"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt0"
+    },
+    {
+      "t": "S",
+      "v": "Um presente de dia dos namorados que eu já comprei foi  ...",
+      "n": "AlienPromptText0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt1"
+    },
+    {
+      "t": "S",
+      "v": "Algo que eu só uso em ocasioes especiais é ...",
+      "n": "AlienPromptText1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt2"
+    },
+    {
+      "t": "S",
+      "v": "O pior animal para se ter como animal de estimação é ...",
+      "n": "AlienPromptText2"
+    },
+    {
+      "t": "S",
+      "v": "Algo que estou vestindo agora ...",
+      "n": "HumanPromptText"
+    },
+    {
+      "s": "Algo que estou vestindo agora ...",
+      "t": "A",
+      "v": "832748_1",
+      "n": "HumanPromptAudio"
+    }
+  ]
+}

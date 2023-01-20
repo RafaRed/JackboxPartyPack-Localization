@@ -1,1 +1,65 @@
-{"fields":[{"t":"N","v":"2","n":"AlienPromptDifficulty2"},{"t":"N","v":"2","n":"AlienPromptDifficulty1"},{"t":"N","v":"2","n":"AlienPromptDifficulty0"},{"t":"N","v":"2","n":"Difficulty"},{"t":"S","v":"false","n":"AlienPromptAdultt0"},{"t":"S","v":"u201cSee you tonightu201d","n":"AlienPromptText0"},{"t":"S","v":"false","n":"AlienPromptAdultt1"},{"t":"S","v":"u201cI'm ticklishu201d","n":"AlienPromptText1"},{"t":"S","v":"false","n":"AlienPromptAdultt2"},{"t":"S","v":"u201cHugs are my favoriteu201d","n":"AlienPromptText2"},{"t":"S","v":"Seu filho trouxe uma boneca assustadora e assustadora.Voc\u00EA se livra dela quando diz a voc\u00EA ...","n":"HumanPromptText"},{"s":"Seu filho trouxe uma boneca assustadora e assustadora.Voc\u00EA se livra dela quando diz a voc\u00EA ...","t":"A","v":"833490_1","n":"HumanPromptAudio"}]}
+{
+  "fields": [
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty2"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty1"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty0"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt0"
+    },
+    {
+      "t": "S",
+      "v": "Te vejo mais tarde",
+      "n": "AlienPromptText0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt1"
+    },
+    {
+      "t": "S",
+      "v": "Tenho cócegas",
+      "n": "AlienPromptText1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt2"
+    },
+    {
+      "t": "S",
+      "v": "Adoro abraços",
+      "n": "AlienPromptText2"
+    },
+    {
+        "t": "S",
+        "v": "Seu filho trouxe uma boneca assustadora falante. Você se livra dela quando ela fala ...",
+        "n": "HumanPromptText"
+    },
+    {
+        "s": "Seu filho trouxe uma boneca assustadora falante. Você se livra dela quando ela fala ...",
+        "t": "A",
+        "v": "833490_1",
+        "n": "HumanPromptAudio"
+    }
+  ]
+}

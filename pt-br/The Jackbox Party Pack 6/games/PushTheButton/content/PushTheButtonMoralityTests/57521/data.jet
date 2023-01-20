@@ -1,1 +1,65 @@
-{"fields":[{"t":"N","v":"0","n":"AlienPromptDifficulty2"},{"t":"N","v":"0","n":"AlienPromptDifficulty1"},{"t":"N","v":"0","n":"AlienPromptDifficulty0"},{"t":"N","v":"0","n":"Difficulty"},{"t":"S","v":"false","n":"AlienPromptAdultt0"},{"t":"S","v":"u201cGo for itu201d","n":"AlienPromptText0"},{"t":"S","v":"false","n":"AlienPromptAdultt1"},{"t":"S","v":"u201cLet's negotiateu201d","n":"AlienPromptText1"},{"t":"S","v":"false","n":"AlienPromptAdultt2"},{"t":"S","v":"u201cI'll pay you to stopu201d","n":"AlienPromptText2"},{"t":"S","v":"A hacker wants $50,000 or they will release your text messages to the world. You would say...","n":"HumanPromptText"},{"s":"A hacker wants $50,000 or they will release your text messages to the world. You would say...","t":"A","v":"832298_1","n":"HumanPromptAudio"}]}
+{
+  "fields": [
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty2"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty1"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty0"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt0"
+    },
+    {
+      "t": "S",
+      "v": "Vá em frente",
+      "n": "AlienPromptText0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt1"
+    },
+    {
+      "t": "S",
+      "v": "Vamos negociar",
+      "n": "AlienPromptText1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt2"
+    },
+    {
+      "t": "S",
+      "v": "Irei te pegar para parar",
+      "n": "AlienPromptText2"
+    },
+    {
+        "t": "S",
+        "v": "Um hacker quer R$50.000 ou eles irão revelar suas mensagens de texto para o mundo. Você diria...",
+        "n": "HumanPromptText"
+    },
+    {
+      "s": "Um hacker quer R$50.000 ou eles irão revelar suas mensagens de texto para o mundo. Você diria...",
+      "t": "A",
+      "v": "832298_1",
+      "n": "HumanPromptAudio"
+    }
+  ]
+}

@@ -1,1 +1,65 @@
-{"fields":[{"t":"N","v":"2","n":"AlienPromptDifficulty2"},{"t":"N","v":"2","n":"AlienPromptDifficulty1"},{"t":"N","v":"2","n":"AlienPromptDifficulty0"},{"t":"N","v":"2","n":"Difficulty"},{"t":"S","v":"false","n":"AlienPromptAdultt0"},{"t":"S","v":"Enquadre isso","n":"AlienPromptText0"},{"t":"S","v":"false","n":"AlienPromptAdultt1"},{"t":"S","v":"vender no ebay","n":"AlienPromptText1"},{"t":"S","v":"false","n":"AlienPromptAdultt2"},{"t":"S","v":"jogue fora","n":"AlienPromptText2"},{"t":"S","v":"Voc\u00EA tossir algum muco particularmente verde em um tecido, ent\u00E3o voc\u00EA ...","n":"HumanPromptText"},{"s":"Voc\u00EA tossir algum muco particularmente verde em um tecido, ent\u00E3o voc\u00EA ...","t":"A","v":"826810_1","n":"HumanPromptAudio"}]}
+{
+  "fields": [
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty2"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty1"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty0"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt0"
+    },
+    {
+      "t": "S",
+      "v": "põe num quadro",
+      "n": "AlienPromptText0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt1"
+    },
+    {
+      "t": "S",
+      "v": "vende no ebay",
+      "n": "AlienPromptText1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt2"
+    },
+    {
+      "t": "S",
+      "v": "joga fora",
+      "n": "AlienPromptText2"
+    },
+    {
+        "t": "S",
+        "v": "Você tossiu algum muco particularmente verde em um tecido, então você ...",
+        "n": "HumanPromptText"
+    },
+    {
+      "s": "Você tossiu algum muco particularmente verde em um tecido, então você ...",
+      "t": "A",
+      "v": "826810_1",
+      "n": "HumanPromptAudio"
+    }
+  ]
+}

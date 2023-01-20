@@ -1,1 +1,65 @@
-{"fields":[{"t":"N","v":"2","n":"AlienPromptDifficulty2"},{"t":"N","v":"2","n":"AlienPromptDifficulty1"},{"t":"N","v":"2","n":"AlienPromptDifficulty0"},{"t":"N","v":"2","n":"Difficulty"},{"t":"S","v":"false","n":"AlienPromptAdultt0"},{"t":"S","v":"Aliens are real.","n":"AlienPromptText0"},{"t":"S","v":"false","n":"AlienPromptAdultt1"},{"t":"S","v":"Os gatos s\u00E3o muito melhores que os c\u00E3es.","n":"AlienPromptText1"},{"t":"S","v":"false","n":"AlienPromptAdultt2"},{"t":"S","v":"Eu sou um bom ouvinte.","n":"AlienPromptText2"},{"t":"S","v":"Eu n\u00E3o posso levar algu\u00E9m a s\u00E9rio a menos que eles est\u00E3o comendo uma grande perna de peru.","n":"HumanPromptText"},{"s":"Eu n\u00E3o posso levar algu\u00E9m a s\u00E9rio a menos que eles est\u00E3o comendo uma grande perna de peru.","t":"A","v":"806868_1","n":"HumanPromptAudio"}]}
+{
+  "fields": [
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty2"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty1"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty0"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt0"
+    },
+    {
+      "t": "S",
+      "v": "Aliens são reais.",
+      "n": "AlienPromptText0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt1"
+    },
+    {
+      "t": "S",
+      "v": "Os gatos são muito melhores que os cães.",
+      "n": "AlienPromptText1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt2"
+    },
+    {
+      "t": "S",
+      "v": "Eu sou um bom ouvinte.",
+      "n": "AlienPromptText2"
+    },
+    {
+      "t": "S",
+      "v": "Eu não posso levar alguém a sério a menos que eles estejam comendo uma grande perna de peru.",
+      "n": "HumanPromptText"
+    },
+    {
+      "s": "Eu não posso levar alguém a sério a menos que eles estejam comendo uma grande perna de peru.",
+      "t": "A",
+      "v": "806868_1",
+      "n": "HumanPromptAudio"
+    }
+  ]
+}

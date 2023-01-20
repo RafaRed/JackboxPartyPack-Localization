@@ -1,1 +1,65 @@
-{"fields":[{"t":"N","v":"0","n":"AlienPromptDifficulty2"},{"t":"N","v":"0","n":"AlienPromptDifficulty1"},{"t":"N","v":"0","n":"AlienPromptDifficulty0"},{"t":"N","v":"0","n":"Difficulty"},{"t":"S","v":"false","n":"AlienPromptAdultt0"},{"t":"S","v":"fale para algu\u00E9m","n":"AlienPromptText0"},{"t":"S","v":"false","n":"AlienPromptAdultt1"},{"t":"S","v":"consert\u00E1-lo","n":"AlienPromptText1"},{"t":"S","v":"false","n":"AlienPromptAdultt2"},{"t":"S","v":"deixe uma nota","n":"AlienPromptText2"},{"t":"S","v":"Voc\u00EA acidentalmente entupir e transborda um banheiro de posto de gasolina.O que voc\u00EA deve fazer \u00E9 ...","n":"HumanPromptText"},{"s":"Voc\u00EA acidentalmente entupir e transborda um banheiro de posto de gasolina.O que voc\u00EA deve fazer \u00E9 ...","t":"A","v":"805721_0","n":"HumanPromptAudio"}]}
+{
+  "fields": [
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty2"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty1"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty0"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt0"
+    },
+    {
+      "t": "S",
+      "v": "fale para alguém",
+      "n": "AlienPromptText0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt1"
+    },
+    {
+      "t": "S",
+      "v": "consertá-lo",
+      "n": "AlienPromptText1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt2"
+    },
+    {
+      "t": "S",
+      "v": "deixe uma nota",
+      "n": "AlienPromptText2"
+    },
+    {
+        "t": "S",
+        "v": "Você acidentalmente entupiu e transbordou um banheiro de posto de gasolina. O que você deve fazer é ...",
+        "n": "HumanPromptText"
+    },
+    {
+      "s": "Você acidentalmente entupiu e transbordou um banheiro de posto de gasolina. O que você deve fazer é ...",
+      "t": "A",
+      "v": "805721_0",
+      "n": "HumanPromptAudio"
+    }
+  ]
+}

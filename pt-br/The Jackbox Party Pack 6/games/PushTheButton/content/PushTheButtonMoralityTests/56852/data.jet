@@ -1,1 +1,65 @@
-{"fields":[{"t":"N","v":"0","n":"AlienPromptDifficulty2"},{"t":"N","v":"0","n":"AlienPromptDifficulty1"},{"t":"N","v":"0","n":"AlienPromptDifficulty0"},{"t":"N","v":"0","n":"Difficulty"},{"t":"S","v":"false","n":"AlienPromptAdultt0"},{"t":"S","v":"esconder e sobreviver","n":"AlienPromptText0"},{"t":"S","v":"false","n":"AlienPromptAdultt1"},{"t":"S","v":"Destrua todos","n":"AlienPromptText1"},{"t":"S","v":"false","n":"AlienPromptAdultt2"},{"t":"S","v":"p\u00F4r fim a isso de uma vez por todas","n":"AlienPromptText2"},{"t":"S","v":"Voc\u00EA \u00E9 escolhido para representar seu distrito nos jogos da fome.Voc\u00EA deveria tentar ...","n":"HumanPromptText"},{"s":"Voc\u00EA \u00E9 escolhido para representar seu distrito nos jogos da fome.Voc\u00EA deveria tentar ...","t":"A","v":"815310_1","n":"HumanPromptAudio"}]}
+{
+  "fields": [
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty2"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty1"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty0"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt0"
+    },
+    {
+      "t": "S",
+      "v": "esconder e sobreviver",
+      "n": "AlienPromptText0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt1"
+    },
+    {
+      "t": "S",
+      "v": "Destruir todos",
+      "n": "AlienPromptText1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt2"
+    },
+    {
+      "t": "S",
+      "v": "pôr fim ao conflito de uma vez por todas",
+      "n": "AlienPromptText2"
+    },
+    {
+      "t": "S",
+      "v": "Você é escolhido para representar seu distrito nos 'Hunger Games'. Você deveria tentar ...",
+      "n": "HumanPromptText"
+    },
+    {
+        "s": "Você é escolhido para representar seu distrito nos 'Hunger Games'. Você deveria tentar ...",
+        "t": "A",
+        "v": "815310_1",
+        "n": "HumanPromptAudio"
+    }
+  ]
+}

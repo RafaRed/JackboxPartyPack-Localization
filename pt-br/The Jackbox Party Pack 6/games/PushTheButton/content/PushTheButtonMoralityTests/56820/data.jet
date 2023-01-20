@@ -1,1 +1,65 @@
-{"fields":[{"t":"N","v":"0","n":"AlienPromptDifficulty2"},{"t":"N","v":"0","n":"AlienPromptDifficulty1"},{"t":"N","v":"0","n":"AlienPromptDifficulty0"},{"t":"N","v":"0","n":"Difficulty"},{"t":"S","v":"false","n":"AlienPromptAdultt0"},{"t":"S","v":"saia da\u00ED","n":"AlienPromptText0"},{"t":"S","v":"false","n":"AlienPromptAdultt1"},{"t":"S","v":"fale para algu\u00E9m","n":"AlienPromptText1"},{"t":"S","v":"false","n":"AlienPromptAdultt2"},{"t":"S","v":"deixe uma nota","n":"AlienPromptText2"},{"t":"S","v":"Voc\u00EA \u00E9 preso e o policial deixa acidentalmente a c\u00E9lula desbloqueada.Voc\u00EA ent\u00E3o ...","n":"HumanPromptText"},{"s":"Voc\u00EA \u00E9 preso e o policial deixa acidentalmente a c\u00E9lula desbloqueada.Voc\u00EA ent\u00E3o ...","t":"A","v":"814868_1","n":"HumanPromptAudio"}]}
+{
+  "fields": [
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty2"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty1"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty0"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt0"
+    },
+    {
+      "t": "S",
+      "v": "foge",
+      "n": "AlienPromptText0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt1"
+    },
+    {
+      "t": "S",
+      "v": "fale para alguém",
+      "n": "AlienPromptText1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt2"
+    },
+    {
+      "t": "S",
+      "v": "deixa uma nota",
+      "n": "AlienPromptText2"
+    },
+    {
+        "t": "S",
+        "v": "Você é preso e o policial deixa a cela aberta. Você então ...",
+        "n": "HumanPromptText"
+    },
+    {
+      "s": "Você é preso e o policial deixa a cela aberta. Você então ...",
+      "t": "A",
+      "v": "814868_1",
+      "n": "HumanPromptAudio"
+    }
+  ]
+}

@@ -1,1 +1,65 @@
-{"fields":[{"t":"N","v":"2","n":"AlienPromptDifficulty2"},{"t":"N","v":"2","n":"AlienPromptDifficulty1"},{"t":"N","v":"2","n":"AlienPromptDifficulty0"},{"t":"N","v":"2","n":"Difficulty"},{"t":"S","v":"true","n":"AlienPromptAdultt0"},{"t":"S","v":"Eu vou esperar para ficar sozinho em um banheiro p\u00FAblico antes de pooping.","n":"AlienPromptText0"},{"t":"S","v":"false","n":"AlienPromptAdultt1"},{"t":"S","v":"Eu me consideraria ficar frugal.","n":"AlienPromptText1"},{"t":"S","v":"false","n":"AlienPromptAdultt2"},{"t":"S","v":"Eu sou um pouco de show.","n":"AlienPromptText2"},{"t":"S","v":"Meu farts cheiro de Paris na primavera.","n":"HumanPromptText"},{"s":"Meu farts cheiro de Paris na primavera.","t":"A","v":"832226_1","n":"HumanPromptAudio"}]}
+{
+  "fields": [
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty2"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty1"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty0"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "true",
+      "n": "AlienPromptAdultt0"
+    },
+    {
+      "t": "S",
+      "v": "Eu espero para ficar sozinho no banheiro público antes de cagar.",
+      "n": "AlienPromptText0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt1"
+    },
+    {
+      "t": "S",
+      "v": "Eu me considero frugal.",
+      "n": "AlienPromptText1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt2"
+    },
+    {
+      "t": "S",
+      "v": "Eu sou um show-man.",
+      "n": "AlienPromptText2"
+    },
+    {
+        "t": "S",
+        "v": "Meus peidos cheiram como Paris na primavera.",
+        "n": "HumanPromptText"
+    },
+    {
+      "s": "Meus peidos cheiram como Paris na primavera.",
+      "t": "A",
+      "v": "832226_1",
+      "n": "HumanPromptAudio"
+    }
+  ]
+}

@@ -1,1 +1,65 @@
-{"fields":[{"t":"N","v":"0","n":"AlienPromptDifficulty2"},{"t":"N","v":"0","n":"AlienPromptDifficulty1"},{"t":"N","v":"0","n":"AlienPromptDifficulty0"},{"t":"N","v":"0","n":"Difficulty"},{"t":"S","v":"false","n":"AlienPromptAdultt0"},{"t":"S","v":"$0","n":"AlienPromptText0"},{"t":"S","v":"false","n":"AlienPromptAdultt1"},{"t":"S","v":"$50","n":"AlienPromptText1"},{"t":"S","v":"false","n":"AlienPromptAdultt2"},{"t":"S","v":"US $ 100.","n":"AlienPromptText2"},{"t":"S","v":"Voc\u00EA encontra US $ 100 em dinheiro na rua.Outra pessoa caminha e diz que pertence a eles.Voc\u00EA lhes d\u00E1 ...","n":"HumanPromptText"},{"s":"Voc\u00EA encontra US $ 100 em dinheiro na rua.Outra pessoa caminha e diz que pertence a eles.Voc\u00EA lhes d\u00E1 ...","t":"A","v":"824530_1","n":"HumanPromptAudio"}]}
+{
+  "fields": [
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty2"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty1"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty0"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt0"
+    },
+    {
+      "t": "S",
+      "v": "R$0",
+      "n": "AlienPromptText0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt1"
+    },
+    {
+      "t": "S",
+      "v": "R$50",
+      "n": "AlienPromptText1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt2"
+    },
+    {
+      "t": "S",
+      "v": "R$ 100.",
+      "n": "AlienPromptText2"
+    },
+    {
+      "t": "S",
+      "v": "Você encontra R$ 100 em dinheiro na rua. Outra pessoa caminha e diz que pertence a eles. Você lhes dá ...",
+      "n": "HumanPromptText"
+    },
+    {
+      "s": "Você encontra R$ 100 em dinheiro na rua. Outra pessoa caminha e diz que pertence a eles. Você lhes dá ...",
+      "t": "A",
+      "v": "824530_1",
+      "n": "HumanPromptAudio"
+    }
+  ]
+}
