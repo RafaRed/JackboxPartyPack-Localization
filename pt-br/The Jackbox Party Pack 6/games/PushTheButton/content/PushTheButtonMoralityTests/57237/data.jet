@@ -1,1 +1,65 @@
-{"fields":[{"t":"N","v":"2","n":"AlienPromptDifficulty2"},{"t":"N","v":"2","n":"AlienPromptDifficulty1"},{"t":"N","v":"2","n":"AlienPromptDifficulty0"},{"t":"N","v":"2","n":"Difficulty"},{"t":"S","v":"false","n":"AlienPromptAdultt0"},{"t":"S","v":"u201cMaybe later.u201d","n":"AlienPromptText0"},{"t":"S","v":"false","n":"AlienPromptAdultt1"},{"t":"S","v":"u201cSure. Why not?u201d","n":"AlienPromptText1"},{"t":"S","v":"false","n":"AlienPromptAdultt2"},{"t":"S","v":"u201cI'll try ONE.u201d","n":"AlienPromptText2"},{"t":"S","v":"Seu cirurgi\u00E3o pl\u00E1stico informa que voc\u00EA teria vinte anos com as m\u00E3os de lagosta.Voc\u00EA diz...","n":"HumanPromptText"},{"s":"Seu cirurgi\u00E3o pl\u00E1stico informa que voc\u00EA teria vinte anos com as m\u00E3os de lagosta.Voc\u00EA diz...","t":"A","v":"825318_1","n":"HumanPromptAudio"}]}
+{
+  "fields": [
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty2"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty1"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty0"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt0"
+    },
+    {
+      "t": "S",
+      "v": "Talvez depois",
+      "n": "AlienPromptText0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt1"
+    },
+    {
+      "t": "S",
+      "v": "Claro. Por que não?",
+      "n": "AlienPromptText1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt2"
+    },
+    {
+      "t": "S",
+      "v": "Vou experimentar UMA VEZ",
+      "n": "AlienPromptText2"
+    },
+    {
+      "t": "S",
+      "v": "Seu cirurgião plástico informa que você pareceria vinte anos mais jovem com as mãos de lagosta. Você diz...",
+      "n": "HumanPromptText"
+    },
+    {
+      "s": "Seu cirurgião plástico informa que você pareceria vinte anos mais jovem com as mãos de lagosta. Você diz...",
+      "t": "A",
+      "v": "825318_1",
+      "n": "HumanPromptAudio"
+    }
+  ]
+}

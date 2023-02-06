@@ -1,1 +1,65 @@
-{"fields":[{"t":"N","v":"0","n":"AlienPromptDifficulty2"},{"t":"N","v":"0","n":"AlienPromptDifficulty1"},{"t":"N","v":"0","n":"AlienPromptDifficulty0"},{"t":"N","v":"0","n":"Difficulty"},{"t":"S","v":"false","n":"AlienPromptAdultt0"},{"t":"S","v":"Batman \u00E9 superestimado.","n":"AlienPromptText0"},{"t":"S","v":"false","n":"AlienPromptAdultt1"},{"t":"S","v":"Eu mastigo minhas unhas.","n":"AlienPromptText1"},{"t":"S","v":"false","n":"AlienPromptAdultt2"},{"t":"S","v":"Eu iria a uma conven\u00E7\u00E3o de fic\u00E7\u00E3o cient\u00EDfica.","n":"AlienPromptText2"},{"t":"S","v":"Eu gosto de romances gr\u00E1ficos.","n":"HumanPromptText"},{"s":"Eu gosto de romances gr\u00E1ficos.","t":"A","v":"820083_1","n":"HumanPromptAudio"}]}
+{
+  "fields": [
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty2"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty1"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty0"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt0"
+    },
+    {
+      "t": "S",
+      "v": "Batman é superestimado.",
+      "n": "AlienPromptText0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt1"
+    },
+    {
+      "t": "S",
+      "v": "Eu mastigo minhas unhas.",
+      "n": "AlienPromptText1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt2"
+    },
+    {
+      "t": "S",
+      "v": "Eu iria a uma convenção de ficção científica.",
+      "n": "AlienPromptText2"
+    },
+    {
+      "t": "S",
+      "v": "Eu gosto de romances gráficos.",
+      "n": "HumanPromptText"
+    },
+    {
+      "s": "Eu gosto de romances gráficos.",
+      "t": "A",
+      "v": "820083_1",
+      "n": "HumanPromptAudio"
+    }
+  ]
+}

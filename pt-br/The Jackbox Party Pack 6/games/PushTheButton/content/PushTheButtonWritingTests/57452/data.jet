@@ -1,1 +1,140 @@
-{"fields":[{"t":"N","v":"1","n":"AlienPromptDifficulty5"},{"t":"N","v":"2","n":"AlienPromptDifficulty4"},{"t":"N","v":"0","n":"AlienPromptDifficulty3"},{"t":"N","v":"2","n":"AlienPromptDifficulty2"},{"t":"N","v":"0","n":"AlienPromptDifficulty1"},{"t":"N","v":"0","n":"AlienPromptDifficulty0"},{"t":"N","v":"0","n":"Difficulty"},{"t":"N","v":"2","n":"AlienPromptDifficulty7"},{"t":"N","v":"1","n":"AlienPromptDifficulty6"},{"t":"S","v":"false","n":"AlienPromptAdultt5"},{"t":"S","v":"false","n":"AlienPromptAdultt6"},{"t":"S","v":"false","n":"AlienPromptAdultt7"},{"t":"S","v":"O pior cheiro do mundo teria que ser ...","n":"HumanPromptText"},{"t":"S","v":"Meu tipo favorito de queijo eh ...","n":"AlienPromptText4"},{"t":"S","v":"A coisa mais grosseira da minha geladeira agora eh ...","n":"AlienPromptText5"},{"t":"S","v":"O pior animal de cheiro eh ...","n":"AlienPromptText6"},{"t":"S","v":"false","n":"AlienPromptAdultt0"},{"t":"S","v":"Minha celebridade favorita eh ...","n":"AlienPromptText7"},{"t":"S","v":"A pior comida de cheiro eh ...","n":"AlienPromptText0"},{"t":"S","v":"false","n":"AlienPromptAdultt1"},{"t":"S","v":"Um cheiro que eu nao suporto eh ...","n":"AlienPromptText1"},{"t":"S","v":"false","n":"AlienPromptAdultt2"},{"t":"S","v":"O nome de alguehm nesta sala eh ...","n":"AlienPromptText2"},{"t":"S","v":"false","n":"AlienPromptAdultt3"},{"t":"S","v":"O cheiro mais poderoso eh ...","n":"AlienPromptText3"},{"t":"S","v":"false","n":"AlienPromptAdultt4"},{"s":"O pior cheiro do mundo teria que ser ...","t":"A","v":"831090_1","n":"HumanPromptAudio"}]}
+{
+  "fields": [
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty5"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty4"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty3"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty2"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty1"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty0"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "Difficulty"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty7"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty6"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt5"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt6"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt7"
+    },
+    {
+      "t": "S",
+      "v": "O pior cheiro do mundo é de ...",
+      "n": "HumanPromptText"
+    },
+    {
+        "t": "S",
+        "v": "Meu tipo favorito de queijo é ...",
+        "n": "AlienPromptText4"
+    },
+    {
+        "t": "S",
+        "v": "A coisa mais nojenta na minha geladeira agora é ...",
+        "n": "AlienPromptText5"
+    },
+    {
+        "t": "S",
+        "v": "O animal mais fedido é ...",
+        "n": "AlienPromptText6"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt0"
+    },
+    {
+        "t": "S",
+        "v": "Minha celebridade favorita é ...",
+        "n": "AlienPromptText7"
+    },
+    {
+        "t": "S",
+        "v": "A comida mais fedida é ...",
+        "n": "AlienPromptText0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt1"
+    },
+    {
+        "t": "S",
+        "v": "Um cheiro que eu não suporto é ...",
+        "n": "AlienPromptText1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt2"
+    },
+    {
+        "t": "S",
+        "v": "O nome de alguém nesta sala é ...",
+        "n": "AlienPromptText2"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt3"
+    },
+    {
+        "t": "S",
+        "v": "O cheiro mais forte é de ...",
+        "n": "AlienPromptText3"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt4"
+    },
+    {
+      "s": "O pior cheiro do mundo é de ...",
+      "t": "A",
+      "v": "831090_1",
+      "n": "HumanPromptAudio"
+    }
+  ]
+}

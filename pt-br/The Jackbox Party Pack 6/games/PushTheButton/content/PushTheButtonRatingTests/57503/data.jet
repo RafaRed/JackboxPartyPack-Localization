@@ -1,1 +1,65 @@
-{"fields":[{"t":"N","v":"2","n":"AlienPromptDifficulty2"},{"t":"N","v":"2","n":"AlienPromptDifficulty1"},{"t":"N","v":"2","n":"AlienPromptDifficulty0"},{"t":"N","v":"2","n":"Difficulty"},{"t":"S","v":"false","n":"AlienPromptAdultt0"},{"t":"S","v":"Animais como eu.","n":"AlienPromptText0"},{"t":"S","v":"false","n":"AlienPromptAdultt1"},{"t":"S","v":"A vida \u00E9 melhor com animais de estima\u00E7\u00E3o.","n":"AlienPromptText1"},{"t":"S","v":"false","n":"AlienPromptAdultt2"},{"t":"S","v":"Eu acariciaria um urso deu uma chance.","n":"AlienPromptText2"},{"t":"S","v":"Eu poderia bater um urso sonolento em um jogo de wrestling.","n":"HumanPromptText"},{"s":"Eu poderia bater um urso sonolento em um jogo de wrestling.","t":"A","v":"832054_1","n":"HumanPromptAudio"}]}
+{
+  "fields": [
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty2"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty1"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty0"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt0"
+    },
+    {
+      "t": "S",
+      "v": "Animais gostam de mim.",
+      "n": "AlienPromptText0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt1"
+    },
+    {
+      "t": "S",
+      "v": "A vida é melhor com animais de estimação.",
+      "n": "AlienPromptText1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt2"
+    },
+    {
+      "t": "S",
+      "v": "Eu acariciaria um urso deu uma chance.",
+      "n": "AlienPromptText2"
+    },
+    {
+        "t": "S",
+        "v": "Eu poderia derrotar um urso sonolento numa luta corpo a corpo.",
+        "n": "HumanPromptText"
+    },
+    {
+        "s": "Eu poderia derrotar um urso sonolento numa luta corpo a corpo.",
+        "t": "A",
+        "v": "832054_1",
+        "n": "HumanPromptAudio"
+    }
+  ]
+}

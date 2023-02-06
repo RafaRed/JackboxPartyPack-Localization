@@ -1,0 +1,170 @@
+{
+  "fields": [
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty5"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty4"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty3"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty2"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty1"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty0"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "Difficulty"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty9"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty8"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty7"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty6"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt5"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt6"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt7"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt8"
+    },
+    {
+        "t": "S",
+        "v": "A coisa mais assustadora que eu consigo imaginar é...",
+        "n": "AlienPromptText8"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt9"
+    },
+    {
+      "t": "S",
+      "v": "A coisa mais estranha que eu vi online é...",
+      "n": "AlienPromptText9"
+    },
+    {
+      "t": "S",
+      "v": "Eu me considero um expert sobre...",
+      "n": "HumanPromptText"
+    },
+    {
+      "t": "S",
+      "v": "O super-heroi mais legal é...",
+      "n": "AlienPromptText4"
+    },
+    {
+      "t": "S",
+      "v": "Quando eu eu mais jovem, a única coisa que eu pensava era...",
+      "n": "AlienPromptText5"
+    },
+    {
+      "t": "S",
+      "v": "Algo que eu nunca vou entender é...",
+      "n": "AlienPromptText6"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt0"
+    },
+    {
+      "t": "S",
+      "v": "Uma coisa entediante que eu faço todos os dias é...",
+      "n": "AlienPromptText7"
+    },
+    {
+      "t": "S",
+      "v": "Meu show de TV favorito é...",
+      "n": "AlienPromptText0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt1"
+    },
+    {
+      "t": "S",
+      "v": "Meu hobby favorito é...",
+      "n": "AlienPromptText1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt2"
+    },
+    {
+      "t": "S",
+      "v": "Um talento que eu tenho é...",
+      "n": "AlienPromptText2"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt3"
+    },
+    {
+      "t": "S",
+      "v": "Meu ator(a) favorito é...",
+      "n": "AlienPromptText3"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt4"
+    },
+    {
+      "s": "Eu me considero um expert sobre...",
+      "t": "A",
+      "v": "889952_1",
+      "n": "HumanPromptAudio"
+    }
+  ]
+}

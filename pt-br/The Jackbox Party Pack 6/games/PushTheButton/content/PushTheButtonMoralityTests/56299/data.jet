@@ -1,1 +1,65 @@
-{"fields":[{"t":"N","v":"0","n":"AlienPromptDifficulty2"},{"t":"N","v":"0","n":"AlienPromptDifficulty1"},{"t":"N","v":"0","n":"AlienPromptDifficulty0"},{"t":"N","v":"0","n":"Difficulty"},{"t":"S","v":"false","n":"AlienPromptAdultt0"},{"t":"S","v":"transform\u00E1-los dentro","n":"AlienPromptText0"},{"t":"S","v":"false","n":"AlienPromptAdultt1"},{"t":"S","v":"mantenha em segredo","n":"AlienPromptText1"},{"t":"S","v":"false","n":"AlienPromptAdultt2"},{"t":"S","v":"Dica fora da imprensa","n":"AlienPromptText2"},{"t":"S","v":"Um companheiro de equipe atinge uma casa vencedora da S\u00E9rie Mundial com um morcego arrombado.O que voc\u00EA deve fazer \u00E9 ...","n":"HumanPromptText"},{"s":"Um companheiro de equipe atinge uma casa vencedora da S\u00E9rie Mundial com um morcego arrombado.O que voc\u00EA deve fazer \u00E9 ...","t":"A","v":"805337_0","n":"HumanPromptAudio"}]}
+{
+  "fields": [
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty2"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty1"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty0"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt0"
+    },
+    {
+      "t": "S",
+      "v": "Entregá-lo",
+      "n": "AlienPromptText0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt1"
+    },
+    {
+      "t": "S",
+      "v": "Manter em segredo",
+      "n": "AlienPromptText1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt2"
+    },
+    {
+      "t": "S",
+      "v": "Avisar a imprensa",
+      "n": "AlienPromptText2"
+    },
+    {
+        "t": "S",
+        "v": "Um companheiro de equipe atinge vence a liga mundial de Beisebol com um taco modificado.O que você deve fazer é ...",
+        "n": "HumanPromptText"
+    },
+    {
+      "s": "Um companheiro de equipe atinge vence a liga mundial de Beisebol com um taco modificado.O que você deve fazer é ...",
+      "t": "A",
+      "v": "805337_0",
+      "n": "HumanPromptAudio"
+    }
+  ]
+}

@@ -1,1 +1,65 @@
-{"fields":[{"t":"N","v":"0","n":"AlienPromptDifficulty2"},{"t":"N","v":"0","n":"AlienPromptDifficulty1"},{"t":"N","v":"0","n":"AlienPromptDifficulty0"},{"t":"N","v":"0","n":"Difficulty"},{"t":"S","v":"false","n":"AlienPromptAdultt0"},{"t":"S","v":"um bilion\u00E1rio","n":"AlienPromptText0"},{"t":"S","v":"false","n":"AlienPromptAdultt1"},{"t":"S","v":"um pai","n":"AlienPromptText1"},{"t":"S","v":"false","n":"AlienPromptAdultt2"},{"t":"S","v":"um cirurgi\u00E3o","n":"AlienPromptText2"},{"t":"S","v":"Voc\u00EA \u00E9 oferecido a chance de ter suas ondas cerebrais assumir o corpo de outra pessoa, excluindo-os.Voc\u00EA escolhe...","n":"HumanPromptText"},{"s":"Voc\u00EA \u00E9 oferecido a chance de ter suas ondas cerebrais assumir o corpo de outra pessoa, excluindo-os.Voc\u00EA escolhe...","t":"A","v":"823905_1","n":"HumanPromptAudio"}]}
+{
+  "fields": [
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty2"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty1"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty0"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt0"
+    },
+    {
+      "t": "S",
+      "v": "um bilionário",
+      "n": "AlienPromptText0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt1"
+    },
+    {
+      "t": "S",
+      "v": "um pai",
+      "n": "AlienPromptText1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt2"
+    },
+    {
+      "t": "S",
+      "v": "um cirurgião",
+      "n": "AlienPromptText2"
+    },
+    {
+        "t": "S",
+        "v": "Você é oferecido a chance de ter suas ondas cerebrais assumirem o corpo de outra pessoa, deletando esta pessoa. Você escolhe...",
+        "n": "HumanPromptText"
+    },
+    {
+      "s": "Você é oferecido a chance de ter suas ondas cerebrais assumirem o corpo de outra pessoa, deletando esta pessoa. Você escolhe...",
+      "t": "A",
+      "v": "823905_1",
+      "n": "HumanPromptAudio"
+    }
+  ]
+}

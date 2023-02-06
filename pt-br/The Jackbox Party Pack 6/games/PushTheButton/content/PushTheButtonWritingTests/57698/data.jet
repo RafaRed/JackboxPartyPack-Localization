@@ -1,1 +1,155 @@
-{"fields":[{"t":"N","v":"0","n":"AlienPromptDifficulty5"},{"t":"N","v":"1","n":"AlienPromptDifficulty4"},{"t":"N","v":"2","n":"AlienPromptDifficulty3"},{"t":"N","v":"2","n":"AlienPromptDifficulty2"},{"t":"N","v":"1","n":"AlienPromptDifficulty1"},{"t":"N","v":"0","n":"AlienPromptDifficulty0"},{"t":"N","v":"0","n":"Difficulty"},{"t":"N","v":"2","n":"AlienPromptDifficulty8"},{"t":"N","v":"1","n":"AlienPromptDifficulty7"},{"t":"N","v":"0","n":"AlienPromptDifficulty6"},{"t":"S","v":"false","n":"AlienPromptAdultt5"},{"t":"S","v":"false","n":"AlienPromptAdultt6"},{"t":"S","v":"false","n":"AlienPromptAdultt7"},{"t":"S","v":"false","n":"AlienPromptAdultt8"},{"t":"S","v":"When I think of u201cThe Lord of the Rings,u201d I think of...","n":"AlienPromptText8"},{"t":"S","v":"Quando penso no ar livre, penso em ...","n":"HumanPromptText"},{"t":"S","v":"Quando penso no canal de descoberta, penso em ...","n":"AlienPromptText4"},{"t":"S","v":"Quando penso em cacar, penso em ...","n":"AlienPromptText5"},{"t":"S","v":"Quando penso em Colorado, penso em ...","n":"AlienPromptText6"},{"t":"S","v":"false","n":"AlienPromptAdultt0"},{"t":"S","v":"Quando penso em um safahri, penso em ...","n":"AlienPromptText7"},{"t":"S","v":"Quando penso em acampar, penso em ...","n":"AlienPromptText0"},{"t":"S","v":"false","n":"AlienPromptAdultt1"},{"t":"S","v":"Quando penso no zoologico, penso em ...","n":"AlienPromptText1"},{"t":"S","v":"false","n":"AlienPromptAdultt2"},{"t":"S","v":"Quando penso em exploradores, penso em ...","n":"AlienPromptText2"},{"t":"S","v":"false","n":"AlienPromptAdultt3"},{"t":"S","v":"Quando penso na noite, penso em ...","n":"AlienPromptText3"},{"t":"S","v":"false","n":"AlienPromptAdultt4"},{"s":"Quando penso no ar livre, penso em ...","t":"A","v":"834939_1","n":"HumanPromptAudio"}]}
+{
+  "fields": [
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty5"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty4"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty3"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty2"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty1"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty0"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "Difficulty"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty8"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty7"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty6"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt5"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt6"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt7"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt8"
+    },
+    {
+      "t": "S",
+      "v": "Quando penso no Senhor dos Anéis eu penso ...",
+      "n": "AlienPromptText8"
+    },
+    {
+      "t": "S",
+      "v": "Quando penso no ar livre, penso em ...",
+      "n": "HumanPromptText"
+    },
+    {
+      "t": "S",
+      "v": "Quando penso no canal de descoberta, penso em ...",
+      "n": "AlienPromptText4"
+    },
+    {
+      "t": "S",
+      "v": "Quando penso em cacar, penso em ...",
+      "n": "AlienPromptText5"
+    },
+    {
+      "t": "S",
+      "v": "Quando penso em Colorado, penso em ...",
+      "n": "AlienPromptText6"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt0"
+    },
+    {
+      "t": "S",
+      "v": "Quando penso em um Safari, penso em ...",
+      "n": "AlienPromptText7"
+    },
+    {
+      "t": "S",
+      "v": "Quando penso em acampar, penso em ...",
+      "n": "AlienPromptText0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt1"
+    },
+    {
+      "t": "S",
+      "v": "Quando penso no zoologico, penso em ...",
+      "n": "AlienPromptText1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt2"
+    },
+    {
+      "t": "S",
+      "v": "Quando penso em exploradores, penso em ...",
+      "n": "AlienPromptText2"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt3"
+    },
+    {
+      "t": "S",
+      "v": "Quando penso na noite, penso em ...",
+      "n": "AlienPromptText3"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt4"
+    },
+    {
+      "s": "Quando penso no ar livre, penso em ...",
+      "t": "A",
+      "v": "834939_1",
+      "n": "HumanPromptAudio"
+    }
+  ]
+}

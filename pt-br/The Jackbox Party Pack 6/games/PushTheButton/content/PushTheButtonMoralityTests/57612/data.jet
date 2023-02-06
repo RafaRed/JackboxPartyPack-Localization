@@ -1,1 +1,65 @@
-{"fields":[{"t":"N","v":"0","n":"AlienPromptDifficulty2"},{"t":"N","v":"0","n":"AlienPromptDifficulty1"},{"t":"N","v":"0","n":"AlienPromptDifficulty0"},{"t":"N","v":"1","n":"Difficulty"},{"t":"S","v":"false","n":"AlienPromptAdultt0"},{"t":"S","v":"u201cSee you tonightu201d","n":"AlienPromptText0"},{"t":"S","v":"false","n":"AlienPromptAdultt1"},{"t":"S","v":"u201cHugs are my favoriteu201d","n":"AlienPromptText1"},{"t":"S","v":"false","n":"AlienPromptAdultt2"},{"t":"S","v":"u201cI'm ticklishu201d","n":"AlienPromptText2"},{"t":"S","v":"Voc\u00EA est\u00E1 confirmando uma entrevista de emprego noturno via e-mail.Sua \u00FAltima linha provavelmente n\u00E3o deveria ser ...","n":"HumanPromptText"},{"s":"Voc\u00EA est\u00E1 confirmando uma entrevista de emprego noturno via e-mail.Sua \u00FAltima linha provavelmente n\u00E3o deveria ser ...","t":"A","v":"833502_1","n":"HumanPromptAudio"}]}
+{
+  "fields": [
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty2"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty1"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty0"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt0"
+    },
+    {
+      "t": "S",
+      "v": "Te vejo mais tarde",
+      "n": "AlienPromptText0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt1"
+    },
+    {
+      "t": "S",
+      "v": "Adoro abraços",
+      "n": "AlienPromptText1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt2"
+    },
+    {
+      "t": "S",
+      "v": "Tenho cócegas",
+      "n": "AlienPromptText2"
+    },
+    {
+        "t": "S",
+        "v": "Você está confirmando uma entrevista de emprego noturno via e-mail. Sua última frase provavelmente NÃO deveria ser ...",
+        "n": "HumanPromptText"
+    },
+    {
+      "s": "Você está confirmando uma entrevista de emprego noturno via e-mail. Sua última frase provavelmente NÃO deveria ser ...",
+      "t": "A",
+      "v": "833502_1",
+      "n": "HumanPromptAudio"
+    }
+  ]
+}

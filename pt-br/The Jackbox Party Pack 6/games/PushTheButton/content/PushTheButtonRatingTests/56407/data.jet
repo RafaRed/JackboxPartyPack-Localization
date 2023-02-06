@@ -1,1 +1,110 @@
-{"fields":[{"t":"N","v":"1","n":"AlienPromptDifficulty5"},{"t":"N","v":"1","n":"AlienPromptDifficulty4"},{"t":"N","v":"0","n":"AlienPromptDifficulty3"},{"t":"N","v":"1","n":"AlienPromptDifficulty2"},{"t":"N","v":"0","n":"AlienPromptDifficulty1"},{"t":"N","v":"0","n":"AlienPromptDifficulty0"},{"t":"N","v":"0","n":"Difficulty"},{"t":"S","v":"false","n":"AlienPromptAdultt5"},{"t":"S","v":"Espero que amigos me mandem imediatamente de volta.","n":"HumanPromptText"},{"t":"S","v":"Eu gosto de bacon.","n":"AlienPromptText4"},{"t":"S","v":"\u00C9 f\u00E1cil para mim fazer amigos.","n":"AlienPromptText5"},{"t":"S","v":"false","n":"AlienPromptAdultt0"},{"t":"S","v":"Eu prefiro texto em vez de ligar.","n":"AlienPromptText0"},{"t":"S","v":"false","n":"AlienPromptAdultt1"},{"t":"S","v":"Eu costumo ter uma bateria telef\u00F4nica baixa.","n":"AlienPromptText1"},{"t":"S","v":"false","n":"AlienPromptAdultt2"},{"t":"S","v":"Eu n\u00E3o pude ir 48 horas sem meu telefone.","n":"AlienPromptText2"},{"t":"S","v":"false","n":"AlienPromptAdultt3"},{"t":"S","v":"Eu sou desajeitado no telefone.","n":"AlienPromptText3"},{"t":"S","v":"false","n":"AlienPromptAdultt4"},{"s":"Espero que amigos me mandem imediatamente de volta.","t":"A","v":"806880_1","n":"HumanPromptAudio"}]}
+{
+  "fields": [
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty5"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty4"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty3"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty2"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty1"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty0"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt5"
+    },
+    {
+        "t": "S",
+        "v": "Espero que amigos respondam minhas mensagens imediatamente.",
+        "n": "HumanPromptText"
+    },
+    {
+      "t": "S",
+      "v": "Eu gosto de bacon.",
+      "n": "AlienPromptText4"
+    },
+    {
+      "t": "S",
+      "v": "É fácil para mim fazer amigos.",
+      "n": "AlienPromptText5"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt0"
+    },
+    {
+      "t": "S",
+      "v": "Eu prefiro mensagem de texto ao invés de ligar.",
+      "n": "AlienPromptText0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt1"
+    },
+    {
+      "t": "S",
+      "v": "Eu costumo ter a bateria baixa no telefone.",
+      "n": "AlienPromptText1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt2"
+    },
+    {
+      "t": "S",
+      "v": "Eu não posso ficar 48 horas sem meu telefone.",
+      "n": "AlienPromptText2"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt3"
+    },
+    {
+      "t": "S",
+      "v": "Eu sou desajeitado no telefone.",
+      "n": "AlienPromptText3"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt4"
+    },
+    {
+      "s": "Espero que amigos respondam minhas mensagens imediatamente.",
+      "t": "A",
+      "v": "806880_1",
+      "n": "HumanPromptAudio"
+    }
+  ]
+}

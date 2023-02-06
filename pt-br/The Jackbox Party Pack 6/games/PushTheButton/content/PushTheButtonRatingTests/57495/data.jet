@@ -1,1 +1,65 @@
-{"fields":[{"t":"N","v":"2","n":"AlienPromptDifficulty2"},{"t":"N","v":"2","n":"AlienPromptDifficulty1"},{"t":"N","v":"2","n":"AlienPromptDifficulty0"},{"t":"N","v":"0","n":"Difficulty"},{"t":"S","v":"false","n":"AlienPromptAdultt0"},{"t":"S","v":"I have zero interest in a u201cWeird Alu201d concert.","n":"AlienPromptText0"},{"t":"S","v":"false","n":"AlienPromptAdultt1"},{"t":"S","v":"Os Beatles eram lixo quente.","n":"AlienPromptText1"},{"t":"S","v":"false","n":"AlienPromptAdultt2"},{"t":"S","v":"Eu n\u00E3o gosto de m\u00FAsicas novidades.","n":"AlienPromptText2"},{"t":"S","v":"u201cWeird Alu201d Yankovic is the greatest musician of the last 100 years.","n":"HumanPromptText"},{"s":"u201cWeird Alu201d Yankovic is the greatest musician of the last 100 years.","t":"A","v":"831958_1","n":"HumanPromptAudio"}]}
+{
+  "fields": [
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty2"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty1"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty0"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt0"
+    },
+    {
+      "t": "S",
+      "v": "Tenho zero interesse em ir num show do 'Weird Al'.",
+      "n": "AlienPromptText0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt1"
+    },
+    {
+      "t": "S",
+      "v": "Os Beatles eram um lixo.",
+      "n": "AlienPromptText1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt2"
+    },
+    {
+      "t": "S",
+      "v": "Eu não gosto de músicas novas.",
+      "n": "AlienPromptText2"
+    },
+    {
+      "t": "S",
+      "v": "Al Yankovic é o maior músico dos últimos 100 anos.",
+      "n": "HumanPromptText"
+    },
+    {
+        "s": "Al Yankovic é o maior músico dos últimos 100 anos.",
+        "t": "A",
+        "v": "831958_1",
+        "n": "HumanPromptAudio"
+    }
+  ]
+}

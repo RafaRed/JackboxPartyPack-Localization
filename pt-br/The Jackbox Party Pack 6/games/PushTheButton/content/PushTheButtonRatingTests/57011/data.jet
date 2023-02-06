@@ -1,1 +1,65 @@
-{"fields":[{"t":"N","v":"0","n":"AlienPromptDifficulty2"},{"t":"N","v":"0","n":"AlienPromptDifficulty1"},{"t":"N","v":"0","n":"AlienPromptDifficulty0"},{"t":"N","v":"0","n":"Difficulty"},{"t":"S","v":"false","n":"AlienPromptAdultt0"},{"t":"S","v":"Eu verifico as not\u00EDcias todos os dias.","n":"AlienPromptText0"},{"t":"S","v":"false","n":"AlienPromptAdultt1"},{"t":"S","v":"Eu chamo shows de r\u00E1dio / texto.","n":"AlienPromptText1"},{"t":"S","v":"false","n":"AlienPromptAdultt2"},{"t":"S","v":"Eu regularmente entro em lutas de m\u00EDdia social.","n":"AlienPromptText2"},{"t":"S","v":"Eu sou obcecado com a pol\u00EDtica.","n":"HumanPromptText"},{"s":"Eu sou obcecado com a pol\u00EDtica.","t":"A","v":"819047_1","n":"HumanPromptAudio"}]}
+{
+  "fields": [
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty2"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty1"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty0"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt0"
+    },
+    {
+      "t": "S",
+      "v": "Eu checo as notícias todos os dias.",
+      "n": "AlienPromptText0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt1"
+    },
+    {
+      "t": "S",
+      "v": "Eu telefono para shows de rádio / TV.",
+      "n": "AlienPromptText1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt2"
+    },
+    {
+      "t": "S",
+      "v": "Eu regularmente entro em brigas nas redes sociais.",
+      "n": "AlienPromptText2"
+    },
+    {
+      "t": "S",
+      "v": "Eu sou obcecado com política.",
+      "n": "HumanPromptText"
+    },
+    {
+      "s": "Eu sou obcecado com política.",
+      "t": "A",
+      "v": "819047_1",
+      "n": "HumanPromptAudio"
+    }
+  ]
+}

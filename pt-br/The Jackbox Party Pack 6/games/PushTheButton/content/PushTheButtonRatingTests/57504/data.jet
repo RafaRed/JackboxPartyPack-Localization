@@ -1,1 +1,125 @@
-{"fields":[{"t":"N","v":"0","n":"AlienPromptDifficulty5"},{"t":"N","v":"1","n":"AlienPromptDifficulty4"},{"t":"N","v":"1","n":"AlienPromptDifficulty3"},{"t":"N","v":"1","n":"AlienPromptDifficulty2"},{"t":"N","v":"0","n":"AlienPromptDifficulty1"},{"t":"N","v":"0","n":"AlienPromptDifficulty0"},{"t":"N","v":"0","n":"Difficulty"},{"t":"N","v":"1","n":"AlienPromptDifficulty6"},{"t":"S","v":"false","n":"AlienPromptAdultt5"},{"t":"S","v":"false","n":"AlienPromptAdultt6"},{"t":"S","v":"Os kardashians s\u00E3o tesouros americanos.","n":"HumanPromptText"},{"t":"S","v":"Joga meio que me aborreceu.","n":"AlienPromptText4"},{"t":"S","v":"Kim Kardashian \u00E9 um \u00EDcone de moda.","n":"AlienPromptText5"},{"t":"S","v":"Eu tenho um fraquinho para fofocas de celebridades.","n":"AlienPromptText6"},{"t":"S","v":"false","n":"AlienPromptAdultt0"},{"t":"S","v":"Eu amo as verdadeiras donas de casa.","n":"AlienPromptText0"},{"t":"S","v":"false","n":"AlienPromptAdultt1"},{"t":"S","v":"Eu prefiro reality shows scripts.","n":"AlienPromptText1"},{"t":"S","v":"false","n":"AlienPromptAdultt2"},{"t":"S","v":"Eu assisto esportes mais do que a TV regular.","n":"AlienPromptText2"},{"t":"S","v":"false","n":"AlienPromptAdultt3"},{"t":"S","v":"Eu n\u00E3o tenho uso para uma assinatura de TV.","n":"AlienPromptText3"},{"t":"S","v":"false","n":"AlienPromptAdultt4"},{"s":"Os kardashians s\u00E3o tesouros americanos.","t":"A","v":"832066_1","n":"HumanPromptAudio"}]}
+{
+  "fields": [
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty5"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty4"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty3"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty2"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty1"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty0"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "Difficulty"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty6"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt5"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt6"
+    },
+    {
+      "t": "S",
+      "v": "Os Kardashians são tesouros americanos.",
+      "n": "HumanPromptText"
+    },
+    {
+      "t": "S",
+      "v": "Peças de teatro me deixam entediado.",
+      "n": "AlienPromptText4"
+    },
+    {
+      "t": "S",
+      "v": "Kim Kardashian é um ícone de moda.",
+      "n": "AlienPromptText5"
+    },
+    {
+      "t": "S",
+      "v": "Eu tenho um fraqueza por fofocas de celebridades.",
+      "n": "AlienPromptText6"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt0"
+    },
+    {
+      "t": "S",
+      "v": "Eu amo as verdadeiras donas de casa.",
+      "n": "AlienPromptText0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt1"
+    },
+    {
+      "t": "S",
+      "v": "Eu prefiro reality shows scriptados.",
+      "n": "AlienPromptText1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt2"
+    },
+    {
+      "t": "S",
+      "v": "Eu assisto esportes mais do que a TV regular.",
+      "n": "AlienPromptText2"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt3"
+    },
+    {
+      "t": "S",
+      "v": "Eu não tenho uso para uma assinatura de TV.",
+      "n": "AlienPromptText3"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt4"
+    },
+    {
+      "s": "Os Kardashians são tesouros americanos.",
+      "t": "A",
+      "v": "832066_1",
+      "n": "HumanPromptAudio"
+    }
+  ]
+}

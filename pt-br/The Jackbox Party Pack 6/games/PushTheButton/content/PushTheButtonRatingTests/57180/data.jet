@@ -1,1 +1,65 @@
-{"fields":[{"t":"N","v":"1","n":"AlienPromptDifficulty2"},{"t":"N","v":"1","n":"AlienPromptDifficulty1"},{"t":"N","v":"1","n":"AlienPromptDifficulty0"},{"t":"N","v":"1","n":"Difficulty"},{"t":"S","v":"false","n":"AlienPromptAdultt0"},{"t":"S","v":"Eu odeio coco em sorvete.","n":"AlienPromptText0"},{"t":"S","v":"false","n":"AlienPromptAdultt1"},{"t":"S","v":"Eu nunca vou estar a tempo.","n":"AlienPromptText1"},{"t":"S","v":"false","n":"AlienPromptAdultt2"},{"t":"S","v":"Cobras s\u00E3o melhores animais de estima\u00E7\u00E3o do que gatos.","n":"AlienPromptText2"},{"t":"S","v":"Ningu\u00E9m parece melhor em um catsuit do que eu.","n":"HumanPromptText"},{"s":"Ningu\u00E9m parece melhor em um catsuit do que eu.","t":"A","v":"823389_1","n":"HumanPromptAudio"}]}
+{
+  "fields": [
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty2"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty1"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty0"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt0"
+    },
+    {
+      "t": "S",
+      "v": "Eu odeio coco em sorvete.",
+      "n": "AlienPromptText0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt1"
+    },
+    {
+      "t": "S",
+      "v": "Eu nunca chego no horário.",
+      "n": "AlienPromptText1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt2"
+    },
+    {
+      "t": "S",
+      "v": "Cobras são melhores animais de estimação do que gatos.",
+      "n": "AlienPromptText2"
+    },
+    {
+      "t": "S",
+      "v": "Ninguém fica mais bonito com uma roupa da tiazinha do que eu.",
+      "n": "HumanPromptText"
+    },
+    {
+        "s": "Ninguém fica mais bonito com uma roupa da tiazinha do que eu.",
+        "t": "A",
+        "v": "823389_1",
+        "n": "HumanPromptAudio"
+    }
+  ]
+}

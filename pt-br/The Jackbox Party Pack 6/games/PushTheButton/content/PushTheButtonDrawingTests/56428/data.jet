@@ -1,1 +1,155 @@
-{"fields":[{"t":"N","v":"2","n":"AlienPromptDifficulty5"},{"t":"N","v":"2","n":"AlienPromptDifficulty4"},{"t":"N","v":"1","n":"AlienPromptDifficulty3"},{"t":"N","v":"1","n":"AlienPromptDifficulty2"},{"t":"N","v":"0","n":"AlienPromptDifficulty1"},{"t":"N","v":"0","n":"AlienPromptDifficulty0"},{"t":"N","v":"0","n":"Difficulty"},{"t":"N","v":"2","n":"AlienPromptDifficulty8"},{"t":"N","v":"1","n":"AlienPromptDifficulty7"},{"t":"N","v":"0","n":"AlienPromptDifficulty6"},{"t":"S","v":"true","n":"AlienPromptAdultt5"},{"t":"S","v":"true","n":"AlienPromptAdultt6"},{"t":"S","v":"true","n":"AlienPromptAdultt7"},{"t":"S","v":"true","n":"AlienPromptAdultt8"},{"t":"S","v":"Desenhe um terr\u00EDvel acidente.","n":"AlienPromptText8"},{"t":"S","v":"Desenhe uma noite louca no bar.","n":"HumanPromptText"},{"t":"S","v":"Desenhe um casal com um beb\u00EA.","n":"AlienPromptText4"},{"t":"S","v":"Desenhe uma casa em chamas.","n":"AlienPromptText5"},{"t":"S","v":"Desenhe uma briga de bar.","n":"AlienPromptText6"},{"t":"S","v":"true","n":"AlienPromptAdultt0"},{"t":"S","v":"Desenhe um restaurante da fam\u00EDlia.","n":"AlienPromptText7"},{"t":"S","v":"Desenhe sua \u00FAltima noite em um bar.","n":"AlienPromptText0"},{"t":"S","v":"true","n":"AlienPromptAdultt1"},{"t":"S","v":"Desenhe uma barra muito divertida.","n":"AlienPromptText1"},{"t":"S","v":"true","n":"AlienPromptAdultt2"},{"t":"S","v":"Desenhe uma barra de mergulho.","n":"AlienPromptText2"},{"t":"S","v":"true","n":"AlienPromptAdultt3"},{"t":"S","v":"Desenhe movimentos de dan\u00E7a sexy.","n":"AlienPromptText3"},{"t":"S","v":"true","n":"AlienPromptAdultt4"},{"s":"Desenhe uma noite louca no bar.","t":"A","v":"807406_1","n":"HumanPromptAudio"}]}
+{
+  "fields": [
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty5"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty4"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty3"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty2"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty1"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty0"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "Difficulty"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty8"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty7"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty6"
+    },
+    {
+      "t": "S",
+      "v": "true",
+      "n": "AlienPromptAdultt5"
+    },
+    {
+      "t": "S",
+      "v": "true",
+      "n": "AlienPromptAdultt6"
+    },
+    {
+      "t": "S",
+      "v": "true",
+      "n": "AlienPromptAdultt7"
+    },
+    {
+      "t": "S",
+      "v": "true",
+      "n": "AlienPromptAdultt8"
+    },
+    {
+      "t": "S",
+      "v": "Desenhe um terrível acidente.",
+      "n": "AlienPromptText8"
+    },
+    {
+      "t": "S",
+      "v": "Desenhe uma noite louca no bar.",
+      "n": "HumanPromptText"
+    },
+    {
+      "t": "S",
+      "v": "Desenhe um casal com um bebê.",
+      "n": "AlienPromptText4"
+    },
+    {
+      "t": "S",
+      "v": "Desenhe uma casa em chamas.",
+      "n": "AlienPromptText5"
+    },
+    {
+      "t": "S",
+      "v": "Desenhe uma briga de bar.",
+      "n": "AlienPromptText6"
+    },
+    {
+      "t": "S",
+      "v": "true",
+      "n": "AlienPromptAdultt0"
+    },
+    {
+      "t": "S",
+      "v": "Desenhe um restaurante da família.",
+      "n": "AlienPromptText7"
+    },
+    {
+      "t": "S",
+      "v": "Desenhe sua última noite em um bar.",
+      "n": "AlienPromptText0"
+    },
+    {
+      "t": "S",
+      "v": "true",
+      "n": "AlienPromptAdultt1"
+    },
+    {
+      "t": "S",
+      "v": "Desenhe um bar divertido.",
+      "n": "AlienPromptText1"
+    },
+    {
+      "t": "S",
+      "v": "true",
+      "n": "AlienPromptAdultt2"
+    },
+    {
+      "t": "S",
+      "v": "Desenhe um bar aquático.",
+      "n": "AlienPromptText2"
+    },
+    {
+      "t": "S",
+      "v": "true",
+      "n": "AlienPromptAdultt3"
+    },
+    {
+      "t": "S",
+      "v": "Desenhe movimentos de dança sexy.",
+      "n": "AlienPromptText3"
+    },
+    {
+      "t": "S",
+      "v": "true",
+      "n": "AlienPromptAdultt4"
+    },
+    {
+      "s": "Desenhe uma noite louca no bar.",
+      "t": "A",
+      "v": "807406_1",
+      "n": "HumanPromptAudio"
+    }
+  ]
+}

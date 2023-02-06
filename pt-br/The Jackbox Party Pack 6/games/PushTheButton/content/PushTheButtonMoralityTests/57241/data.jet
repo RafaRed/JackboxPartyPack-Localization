@@ -1,1 +1,65 @@
-{"fields":[{"t":"N","v":"2","n":"AlienPromptDifficulty2"},{"t":"N","v":"2","n":"AlienPromptDifficulty1"},{"t":"N","v":"2","n":"AlienPromptDifficulty0"},{"t":"N","v":"2","n":"Difficulty"},{"t":"S","v":"false","n":"AlienPromptAdultt0"},{"t":"S","v":"seja otimista","n":"AlienPromptText0"},{"t":"S","v":"false","n":"AlienPromptAdultt1"},{"t":"S","v":"ter vingan\u00E7a","n":"AlienPromptText1"},{"t":"S","v":"false","n":"AlienPromptAdultt2"},{"t":"S","v":"ignore os inimigos","n":"AlienPromptText2"},{"t":"S","v":"Voc\u00EA est\u00E1 criando um beb\u00EA alien\u00EDgena super forte.A coisa mais importante que voc\u00EA pode ensin\u00E1-los \u00E9 sempre ...","n":"HumanPromptText"},{"s":"Voc\u00EA est\u00E1 criando um beb\u00EA alien\u00EDgena super forte.A coisa mais importante que voc\u00EA pode ensin\u00E1-los \u00E9 sempre ...","t":"A","v":"825366_1","n":"HumanPromptAudio"}]}
+{
+  "fields": [
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty2"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty1"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty0"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt0"
+    },
+    {
+      "t": "S",
+      "v": "seja otimista",
+      "n": "AlienPromptText0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt1"
+    },
+    {
+      "t": "S",
+      "v": "vingança",
+      "n": "AlienPromptText1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt2"
+    },
+    {
+      "t": "S",
+      "v": "ignore os inimigos",
+      "n": "AlienPromptText2"
+    },
+    {
+      "t": "S",
+      "v": "Você está criando um bebê alienígena super forte. A coisa mais importante que você pode ensiná-los é sempre ...",
+      "n": "HumanPromptText"
+    },
+    {
+      "s": "Você está criando um bebê alienígena super forte. A coisa mais importante que você pode ensiná-los é sempre ...",
+      "t": "A",
+      "v": "825366_1",
+      "n": "HumanPromptAudio"
+    }
+  ]
+}

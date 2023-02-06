@@ -1,1 +1,110 @@
-{"fields":[{"t":"N","v":"1","n":"AlienPromptDifficulty5"},{"t":"N","v":"1","n":"AlienPromptDifficulty4"},{"t":"N","v":"0","n":"AlienPromptDifficulty3"},{"t":"N","v":"1","n":"AlienPromptDifficulty2"},{"t":"N","v":"0","n":"AlienPromptDifficulty1"},{"t":"N","v":"0","n":"AlienPromptDifficulty0"},{"t":"N","v":"0","n":"Difficulty"},{"t":"S","v":"false","n":"AlienPromptAdultt5"},{"t":"S","v":"Eu poderia ter sido valedictorian se eu tentei mais.","n":"HumanPromptText"},{"t":"S","v":"Eu gostei do ensino m\u00E9dio.","n":"AlienPromptText4"},{"t":"S","v":"Eu sou uma das melhores pessoas no meu trabalho.","n":"AlienPromptText5"},{"t":"S","v":"false","n":"AlienPromptAdultt0"},{"t":"S","v":"Eu sou esperto.","n":"AlienPromptText0"},{"t":"S","v":"false","n":"AlienPromptAdultt1"},{"t":"S","v":"Estou motivado pelo dinheiro.","n":"AlienPromptText1"},{"t":"S","v":"false","n":"AlienPromptAdultt2"},{"t":"S","v":"A faculdade \u00E9 uma perda de tempo.","n":"AlienPromptText2"},{"t":"S","v":"false","n":"AlienPromptAdultt3"},{"t":"S","v":"Eu quero pegar aulas noturnas.","n":"AlienPromptText3"},{"t":"S","v":"false","n":"AlienPromptAdultt4"},{"s":"Eu poderia ter sido valedictorian se eu tentei mais.","t":"A","v":"818524_1","n":"HumanPromptAudio"}]}
+{
+  "fields": [
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty5"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty4"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty3"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty2"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty1"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty0"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt5"
+    },
+    {
+      "t": "S",
+      "v": "Eu poderia ter sido melhor da classe se me esforçasse mais.",
+      "n": "HumanPromptText"
+    },
+    {
+      "t": "S",
+      "v": "Eu gostei do ensino médio.",
+      "n": "AlienPromptText4"
+    },
+    {
+      "t": "S",
+      "v": "Eu sou uma das melhores pessoas no meu trabalho.",
+      "n": "AlienPromptText5"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt0"
+    },
+    {
+      "t": "S",
+      "v": "Eu sou esperto.",
+      "n": "AlienPromptText0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt1"
+    },
+    {
+      "t": "S",
+      "v": "Estou motivado pelo dinheiro.",
+      "n": "AlienPromptText1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt2"
+    },
+    {
+      "t": "S",
+      "v": "A faculdade é uma perda de tempo.",
+      "n": "AlienPromptText2"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt3"
+    },
+    {
+      "t": "S",
+      "v": "Eu quero pegar aulas noturnas.",
+      "n": "AlienPromptText3"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt4"
+    },
+    {
+        "s": "Eu poderia ter sido o melhor da classe se me esforçasse mais.",
+        "t": "A",
+        "v": "818524_1",
+        "n": "HumanPromptAudio"
+    }
+  ]
+}

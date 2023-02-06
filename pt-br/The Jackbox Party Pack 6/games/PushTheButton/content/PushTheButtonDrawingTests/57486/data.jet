@@ -1,1 +1,155 @@
-{"fields":[{"t":"N","v":"2","n":"AlienPromptDifficulty5"},{"t":"N","v":"2","n":"AlienPromptDifficulty4"},{"t":"N","v":"1","n":"AlienPromptDifficulty3"},{"t":"N","v":"1","n":"AlienPromptDifficulty2"},{"t":"N","v":"0","n":"AlienPromptDifficulty1"},{"t":"N","v":"0","n":"AlienPromptDifficulty0"},{"t":"N","v":"0","n":"Difficulty"},{"t":"N","v":"2","n":"AlienPromptDifficulty8"},{"t":"N","v":"1","n":"AlienPromptDifficulty7"},{"t":"N","v":"0","n":"AlienPromptDifficulty6"},{"t":"S","v":"false","n":"AlienPromptAdultt5"},{"t":"S","v":"false","n":"AlienPromptAdultt6"},{"t":"S","v":"false","n":"AlienPromptAdultt7"},{"t":"S","v":"false","n":"AlienPromptAdultt8"},{"t":"S","v":"Desenhe algu\u00E9m na sala.","n":"AlienPromptText8"},{"t":"S","v":"Desenhe uma pessoa chique.","n":"HumanPromptText"},{"t":"S","v":"Desenhe algu\u00E9m usando um chap\u00E9u magn\u00EDfico.","n":"AlienPromptText4"},{"t":"S","v":"Desenhe algu\u00E9m com um len\u00E7o extremamente longo.","n":"AlienPromptText5"},{"t":"S","v":"Desenhe uma pessoa muito atraente.","n":"AlienPromptText6"},{"t":"S","v":"false","n":"AlienPromptAdultt0"},{"t":"S","v":"Desenhe uma garota m\u00E9dia.","n":"AlienPromptText7"},{"t":"S","v":"Desenhe uma celebridade.","n":"AlienPromptText0"},{"t":"S","v":"false","n":"AlienPromptAdultt1"},{"t":"S","v":"Desenhe um modelo de moda.","n":"AlienPromptText1"},{"t":"S","v":"false","n":"AlienPromptAdultt2"},{"t":"S","v":"Desenhe uma mulher francesa.","n":"AlienPromptText2"},{"t":"S","v":"false","n":"AlienPromptAdultt3"},{"t":"S","v":"Desenhe cruela que eles querem.","n":"AlienPromptText3"},{"t":"S","v":"false","n":"AlienPromptAdultt4"},{"s":"Desenhe uma pessoa chique.","t":"A","v":"831736_1","n":"HumanPromptAudio"}]}
+{
+  "fields": [
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty5"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty4"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty3"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty2"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty1"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty0"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "Difficulty"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty8"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty7"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty6"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt5"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt6"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt7"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt8"
+    },
+    {
+      "t": "S",
+      "v": "Desenhe alguém na sala.",
+      "n": "AlienPromptText8"
+    },
+    {
+      "t": "S",
+      "v": "Desenhe uma pessoa chique.",
+      "n": "HumanPromptText"
+    },
+    {
+      "t": "S",
+      "v": "Desenhe alguém usando um chapéu magnífico.",
+      "n": "AlienPromptText4"
+    },
+    {
+      "t": "S",
+      "v": "Desenhe alguém com um lenço extremamente longo.",
+      "n": "AlienPromptText5"
+    },
+    {
+      "t": "S",
+      "v": "Desenhe uma pessoa muito atraente.",
+      "n": "AlienPromptText6"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt0"
+    },
+    {
+      "t": "S",
+      "v": "Desenhe uma garota média.",
+      "n": "AlienPromptText7"
+    },
+    {
+      "t": "S",
+      "v": "Desenhe uma celebridade.",
+      "n": "AlienPromptText0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt1"
+    },
+    {
+      "t": "S",
+      "v": "Desenhe um modelo de moda.",
+      "n": "AlienPromptText1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt2"
+    },
+    {
+      "t": "S",
+      "v": "Desenhe uma mulher francesa.",
+      "n": "AlienPromptText2"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt3"
+    },
+    {
+      "t": "S",
+      "v": "Desenhe Cruela dos 101 Dalmatas.",
+      "n": "AlienPromptText3"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt4"
+    },
+    {
+      "s": "Desenhe uma pessoa chique.",
+      "t": "A",
+      "v": "831736_1",
+      "n": "HumanPromptAudio"
+    }
+  ]
+}

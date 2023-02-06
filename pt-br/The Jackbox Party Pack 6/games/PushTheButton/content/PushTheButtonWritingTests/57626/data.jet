@@ -1,1 +1,155 @@
-{"fields":[{"t":"N","v":"0","n":"AlienPromptDifficulty5"},{"t":"N","v":"1","n":"AlienPromptDifficulty4"},{"t":"N","v":"2","n":"AlienPromptDifficulty3"},{"t":"N","v":"1","n":"AlienPromptDifficulty2"},{"t":"N","v":"1","n":"AlienPromptDifficulty1"},{"t":"N","v":"0","n":"AlienPromptDifficulty0"},{"t":"N","v":"0","n":"Difficulty"},{"t":"N","v":"2","n":"AlienPromptDifficulty8"},{"t":"N","v":"2","n":"AlienPromptDifficulty7"},{"t":"N","v":"0","n":"AlienPromptDifficulty6"},{"t":"S","v":"false","n":"AlienPromptAdultt5"},{"t":"S","v":"false","n":"AlienPromptAdultt6"},{"t":"S","v":"false","n":"AlienPromptAdultt7"},{"t":"S","v":"false","n":"AlienPromptAdultt8"},{"t":"S","v":"O ultimo artigo de noticias que li foi tudo sobre ...","n":"AlienPromptText8"},{"t":"S","v":"O ultimo livro que li foi tudo sobre ...","n":"HumanPromptText"},{"t":"S","v":"Uma figura historica que eu acho fascinante eh ...","n":"AlienPromptText4"},{"t":"S","v":"Meu livro favorito foi tudo sobre ...","n":"AlienPromptText5"},{"t":"S","v":"O livro mais longo que eu jah li foi tudo sobre ...","n":"AlienPromptText6"},{"t":"S","v":"false","n":"AlienPromptAdultt0"},{"t":"S","v":"Algo que estou ansioso por este fim de semana eh ...","n":"AlienPromptText7"},{"t":"S","v":"O ultimo filme que vi foi tudo sobre ...","n":"AlienPromptText0"},{"t":"S","v":"false","n":"AlienPromptAdultt1"},{"t":"S","v":"A ultima grande refeicao que tinha era ...","n":"AlienPromptText1"},{"t":"S","v":"false","n":"AlienPromptAdultt2"},{"t":"S","v":"Eu odeio filmes que nao sao nada alehm de ...","n":"AlienPromptText2"},{"t":"S","v":"false","n":"AlienPromptAdultt3"},{"t":"S","v":"Eu passo a maior parte do meu tempo livre ...","n":"AlienPromptText3"},{"t":"S","v":"false","n":"AlienPromptAdultt4"},{"s":"O ultimo livro que li foi tudo sobre ...","t":"A","v":"833684_1","n":"HumanPromptAudio"}]}
+{
+  "fields": [
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty5"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty4"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty3"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty2"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty1"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty0"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "Difficulty"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty8"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty7"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty6"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt5"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt6"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt7"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt8"
+    },
+    {
+      "t": "S",
+      "v": "O ultimo artigo de noticias que li foi sobre ...",
+      "n": "AlienPromptText8"
+    },
+    {
+      "t": "S",
+      "v": "O ultimo livro que li foi tudo sobre ...",
+      "n": "HumanPromptText"
+    },
+    {
+        "t": "S",
+        "v": "Uma figura historica que eu acho fascinante é ...",
+        "n": "AlienPromptText4"
+    },
+    {
+      "t": "S",
+      "v": "Meu livro favorito foi sobre ...",
+      "n": "AlienPromptText5"
+    },
+    {
+      "t": "S",
+      "v": "O livro mais longo que eu já li foi sobre ...",
+      "n": "AlienPromptText6"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt0"
+    },
+    {
+        "t": "S",
+        "v": "Algo que estou ansioso para este fim de semana é ...",
+        "n": "AlienPromptText7"
+    },
+    {
+      "t": "S",
+      "v": "O ultimo filme que vi foi tudo sobre ...",
+      "n": "AlienPromptText0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt1"
+    },
+    {
+      "t": "S",
+      "v": "A ultima grande refeição que tive foi ...",
+      "n": "AlienPromptText1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt2"
+    },
+    {
+      "t": "S",
+      "v": "Eu odeio filmes que são somente sobre ...",
+      "n": "AlienPromptText2"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt3"
+    },
+    {
+      "t": "S",
+      "v": "Eu passo a maior parte do meu tempo livre ...",
+      "n": "AlienPromptText3"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt4"
+    },
+    {
+      "s": "O ultimo livro que li foi sobre ...",
+      "t": "A",
+      "v": "833684_1",
+      "n": "HumanPromptAudio"
+    }
+  ]
+}

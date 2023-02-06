@@ -1,1 +1,65 @@
-{"fields":[{"t":"N","v":"0","n":"AlienPromptDifficulty2"},{"t":"N","v":"0","n":"AlienPromptDifficulty1"},{"t":"N","v":"0","n":"AlienPromptDifficulty0"},{"t":"N","v":"0","n":"Difficulty"},{"t":"S","v":"false","n":"AlienPromptAdultt0"},{"t":"S","v":"vire-o dentro","n":"AlienPromptText0"},{"t":"S","v":"false","n":"AlienPromptAdultt1"},{"t":"S","v":"mantenha em segredo","n":"AlienPromptText1"},{"t":"S","v":"false","n":"AlienPromptAdultt2"},{"t":"S","v":"Dica fora da imprensa","n":"AlienPromptText2"},{"t":"S","v":"Voc\u00EA descobre que seu amado av\u00F4 tem sido de ser um her\u00F3i de guerra.O que voc\u00EA deve fazer \u00E9 ...","n":"HumanPromptText"},{"s":"Voc\u00EA descobre que seu amado av\u00F4 tem sido de ser um her\u00F3i de guerra.O que voc\u00EA deve fazer \u00E9 ...","t":"A","v":"805361_0","n":"HumanPromptAudio"}]}
+{
+  "fields": [
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty2"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty1"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty0"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt0"
+    },
+    {
+      "t": "S",
+      "v": "entregá-lo",
+      "n": "AlienPromptText0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt1"
+    },
+    {
+      "t": "S",
+      "v": "Manter em segredo",
+      "n": "AlienPromptText1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt2"
+    },
+    {
+      "t": "S",
+      "v": "Avisar a imprensa",
+      "n": "AlienPromptText2"
+    },
+    {
+        "t": "S",
+        "v": "Você descobre que seu amado avô mentiu sobre ter sido um herói de guerra. O que você deve fazer é ...",
+        "n": "HumanPromptText"
+    },
+    {
+        "s": "Você descobre que seu amado avô mentiu sobre ter sido um herói de guerra. O que você deve fazer é ...",
+        "t": "A",
+        "v": "805361_0",
+        "n": "HumanPromptAudio"
+    }
+  ]
+}

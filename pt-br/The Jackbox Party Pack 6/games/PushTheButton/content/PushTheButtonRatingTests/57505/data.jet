@@ -1,1 +1,110 @@
-{"fields":[{"t":"N","v":"2","n":"AlienPromptDifficulty5"},{"t":"N","v":"0","n":"AlienPromptDifficulty4"},{"t":"N","v":"2","n":"AlienPromptDifficulty3"},{"t":"N","v":"0","n":"AlienPromptDifficulty2"},{"t":"N","v":"2","n":"AlienPromptDifficulty1"},{"t":"N","v":"0","n":"AlienPromptDifficulty0"},{"t":"N","v":"0","n":"Difficulty"},{"t":"S","v":"false","n":"AlienPromptAdultt5"},{"t":"S","v":"Frasier \u00E9 o maior show de todos os tempos.","n":"HumanPromptText"},{"t":"S","v":"Eu continuo assistindo as mesmas antigas sitcoms mais e mais.","n":"AlienPromptText4"},{"t":"S","v":"Eu n\u00E3o assisto muita TV.","n":"AlienPromptText5"},{"t":"S","v":"false","n":"AlienPromptAdultt0"},{"t":"S","v":"Felicidades era um bom show.","n":"AlienPromptText0"},{"t":"S","v":"false","n":"AlienPromptAdultt1"},{"t":"S","v":"Os Simpsons s\u00E3o superestimados.","n":"AlienPromptText1"},{"t":"S","v":"false","n":"AlienPromptAdultt2"},{"t":"S","v":"A d\u00E9cada de 1990 foi a melhor d\u00E9cada para programas de TV.","n":"AlienPromptText2"},{"t":"S","v":"false","n":"AlienPromptAdultt3"},{"t":"S","v":"N\u00E3o terminou \u00F3timo, mas o jogo de tronos ainda era muito bom.","n":"AlienPromptText3"},{"t":"S","v":"false","n":"AlienPromptAdultt4"},{"s":"Frasier \u00E9 o maior show de todos os tempos.","t":"A","v":"832078_1","n":"HumanPromptAudio"}]}
+{
+  "fields": [
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty5"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty4"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty3"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty2"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty1"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty0"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt5"
+    },
+    {
+      "t": "S",
+      "v": "Frasier é o maior show de todos os tempos.",
+      "n": "HumanPromptText"
+    },
+    {
+      "t": "S",
+      "v": "Eu continuo assistindo as mesmas antigas sitcoms cada vez mais.",
+      "n": "AlienPromptText4"
+    },
+    {
+      "t": "S",
+      "v": "Eu não assisto muita TV.",
+      "n": "AlienPromptText5"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt0"
+    },
+    {
+      "t": "S",
+      "v": "'Cheers, Aquele Bar' era um bom show.",
+      "n": "AlienPromptText0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt1"
+    },
+    {
+      "t": "S",
+      "v": "Os Simpsons são superestimados.",
+      "n": "AlienPromptText1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt2"
+    },
+    {
+      "t": "S",
+      "v": "A década de 1990 foi a melhor década para programas de TV.",
+      "n": "AlienPromptText2"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt3"
+    },
+    {
+      "t": "S",
+      "v": "Não terminou ótimo, mas o Game of Thrones ainda era muito bom.",
+      "n": "AlienPromptText3"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt4"
+    },
+    {
+      "s": "Frasier é o maior show de todos os tempos.",
+      "t": "A",
+      "v": "832078_1",
+      "n": "HumanPromptAudio"
+    }
+  ]
+}

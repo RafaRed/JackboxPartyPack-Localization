@@ -1,1 +1,65 @@
-{"fields":[{"t":"N","v":"0","n":"AlienPromptDifficulty2"},{"t":"N","v":"0","n":"AlienPromptDifficulty1"},{"t":"N","v":"0","n":"AlienPromptDifficulty0"},{"t":"N","v":"0","n":"Difficulty"},{"t":"S","v":"false","n":"AlienPromptAdultt0"},{"t":"S","v":"mant\u00EA-la","n":"AlienPromptText0"},{"t":"S","v":"false","n":"AlienPromptAdultt1"},{"t":"S","v":"lig\u00E1-lo dentro","n":"AlienPromptText1"},{"t":"S","v":"false","n":"AlienPromptAdultt2"},{"t":"S","v":"Diga a sua av\u00F3","n":"AlienPromptText2"},{"t":"S","v":"Um caixa eletr\u00F4nico lhe d\u00E1 o dobro da quantia de dinheiro que voc\u00EA solicitou.O que voc\u00EA deve fazer \u00E9 ...","n":"HumanPromptText"},{"s":"Um caixa eletr\u00F4nico lhe d\u00E1 o dobro da quantia de dinheiro que voc\u00EA solicitou.O que voc\u00EA deve fazer \u00E9 ...","t":"A","v":"802755_0","n":"HumanPromptAudio"}]}
+{
+  "fields": [
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty2"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty1"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty0"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt0"
+    },
+    {
+      "t": "S",
+      "v": "ficar com o dinheiro",
+      "n": "AlienPromptText0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt1"
+    },
+    {
+      "t": "S",
+      "v": "devolver",
+      "n": "AlienPromptText1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt2"
+    },
+    {
+      "t": "S",
+      "v": "Contar para sua avó",
+      "n": "AlienPromptText2"
+    },
+    {
+      "t": "S",
+      "v": "Um caixa eletrônico lhe dá o dobro da quantia de dinheiro que você solicitou. O que você deve fazer é ...",
+      "n": "HumanPromptText"
+    },
+    {
+      "s": "Um caixa eletrônico lhe dá o dobro da quantia de dinheiro que você solicitou. O que você deve fazer é ...",
+      "t": "A",
+      "v": "802755_0",
+      "n": "HumanPromptAudio"
+    }
+  ]
+}

@@ -1,1 +1,155 @@
-{"fields":[{"t":"N","v":"0","n":"AlienPromptDifficulty5"},{"t":"N","v":"2","n":"AlienPromptDifficulty4"},{"t":"N","v":"1","n":"AlienPromptDifficulty3"},{"t":"N","v":"1","n":"AlienPromptDifficulty2"},{"t":"N","v":"0","n":"AlienPromptDifficulty1"},{"t":"N","v":"0","n":"AlienPromptDifficulty0"},{"t":"N","v":"0","n":"Difficulty"},{"t":"N","v":"2","n":"AlienPromptDifficulty8"},{"t":"N","v":"2","n":"AlienPromptDifficulty7"},{"t":"N","v":"1","n":"AlienPromptDifficulty6"},{"t":"S","v":"false","n":"AlienPromptAdultt5"},{"t":"S","v":"false","n":"AlienPromptAdultt6"},{"t":"S","v":"false","n":"AlienPromptAdultt7"},{"t":"S","v":"false","n":"AlienPromptAdultt8"},{"t":"S","v":"Minha atividade de relaxamento favorita eh ...","n":"AlienPromptText8"},{"t":"S","v":"Um esporte que eu costumava jogar eh ...","n":"HumanPromptText"},{"t":"S","v":"Sua habilidade de sobrevivencia nos jogos da fome seria ...","n":"AlienPromptText4"},{"t":"S","v":"O melhor esporte para assistir na TV eh ...","n":"AlienPromptText5"},{"t":"S","v":"O esporte mais idiota eh facilmente ...","n":"AlienPromptText6"},{"t":"S","v":"false","n":"AlienPromptAdultt0"},{"t":"S","v":"Meu jogo de tabuleiro favorito eh ...","n":"AlienPromptText7"},{"t":"S","v":"Meu esporte favorito para assistir ao vivo eh ...","n":"AlienPromptText0"},{"t":"S","v":"false","n":"AlienPromptAdultt1"},{"t":"S","v":"O melhor esporte para ter em quando voce cochilo eh ...","n":"AlienPromptText1"},{"t":"S","v":"false","n":"AlienPromptAdultt2"},{"t":"S","v":"Um esporte que eu nao deixaria meus filhos jogarmos ...","n":"AlienPromptText2"},{"t":"S","v":"false","n":"AlienPromptAdultt3"},{"t":"S","v":"Meu hobby favorito eh...","n":"AlienPromptText3"},{"t":"S","v":"false","n":"AlienPromptAdultt4"},{"s":"Um esporte que eu costumava jogar eh ...","t":"A","v":"833158_1","n":"HumanPromptAudio"}]}
+{
+  "fields": [
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty5"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty4"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty3"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty2"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty1"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty0"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "Difficulty"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty8"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty7"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty6"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt5"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt6"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt7"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt8"
+    },
+    {
+        "t": "S",
+        "v": "Minha atividade relaxante favorita ...",
+        "n": "AlienPromptText8"
+    },
+    {
+        "t": "S",
+        "v": "Um esporte que eu costumava jogar ...",
+        "n": "HumanPromptText"
+    },
+    {
+      "t": "S",
+      "v": "Sua habilidade de sobrevivencia nos jogos da fome seria ...",
+      "n": "AlienPromptText4"
+    },
+    {
+      "t": "S",
+      "v": "O melhor esporte para assistir na TV é ...",
+      "n": "AlienPromptText5"
+    },
+    {
+        "t": "S",
+        "v": "O esporte mais idiota é facilmente ...",
+        "n": "AlienPromptText6"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt0"
+    },
+    {
+        "t": "S",
+        "v": "Meu jogo de tabuleiro favorito é ...",
+        "n": "AlienPromptText7"
+    },
+    {
+        "t": "S",
+        "v": "Meu esporte favorito para assistir ao vivo é ...",
+        "n": "AlienPromptText0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt1"
+    },
+    {
+        "t": "S",
+        "v": "O melhor esporte para assistir enquanto você tira uma soneca é ...",
+        "n": "AlienPromptText1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt2"
+    },
+    {
+      "t": "S",
+      "v": "Um esporte que não deixaria meus filhos jogarem ...",
+      "n": "AlienPromptText2"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt3"
+    },
+    {
+        "t": "S",
+        "v": "Meu hobby favorito é ...",
+        "n": "AlienPromptText3"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt4"
+    },
+    {
+        "s": "Um esporte que eu costumava jogar é ...",
+        "t": "A",
+        "v": "833158_1",
+        "n": "HumanPromptAudio"
+    }
+  ]
+}

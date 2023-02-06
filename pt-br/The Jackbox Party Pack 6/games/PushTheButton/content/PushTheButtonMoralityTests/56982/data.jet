@@ -1,1 +1,65 @@
-{"fields":[{"t":"N","v":"1","n":"AlienPromptDifficulty2"},{"t":"N","v":"1","n":"AlienPromptDifficulty1"},{"t":"N","v":"1","n":"AlienPromptDifficulty0"},{"t":"N","v":"1","n":"Difficulty"},{"t":"S","v":"false","n":"AlienPromptAdultt0"},{"t":"S","v":"Secretamente substitua-o","n":"AlienPromptText0"},{"t":"S","v":"false","n":"AlienPromptAdultt1"},{"t":"S","v":"deixar","n":"AlienPromptText1"},{"t":"S","v":"false","n":"AlienPromptAdultt2"},{"t":"S","v":"descarte disso","n":"AlienPromptText2"},{"t":"S","v":"O p\u00F4nei do seu filho morre enquanto eles est\u00E3o na escola.Voc\u00EA deveria ent\u00E3o ...","n":"HumanPromptText"},{"s":"O p\u00F4nei do seu filho morre enquanto eles est\u00E3o na escola.Voc\u00EA deveria ent\u00E3o ...","t":"A","v":"818380_1","n":"HumanPromptAudio"}]}
+{
+  "fields": [
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty2"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty1"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty0"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt0"
+    },
+    {
+      "t": "S",
+      "v": "Secretamente substitua-o",
+      "n": "AlienPromptText0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt1"
+    },
+    {
+      "t": "S",
+      "v": "deixá-lo",
+      "n": "AlienPromptText1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt2"
+    },
+    {
+      "t": "S",
+      "v": "descartar ele",
+      "n": "AlienPromptText2"
+    },
+    {
+      "t": "S",
+      "v": "O pônei do seu filho morre enquanto eles estão na escola. Você deveria então ...",
+      "n": "HumanPromptText"
+    },
+    {
+      "s": "O pônei do seu filho morre enquanto eles estão na escola. Você deveria então ...",
+      "t": "A",
+      "v": "818380_1",
+      "n": "HumanPromptAudio"
+    }
+  ]
+}

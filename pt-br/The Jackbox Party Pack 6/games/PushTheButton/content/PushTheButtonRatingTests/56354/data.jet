@@ -1,1 +1,80 @@
-{"fields":[{"t":"N","v":"2","n":"AlienPromptDifficulty3"},{"t":"N","v":"2","n":"AlienPromptDifficulty2"},{"t":"N","v":"2","n":"AlienPromptDifficulty1"},{"t":"N","v":"2","n":"AlienPromptDifficulty0"},{"t":"N","v":"2","n":"Difficulty"},{"t":"S","v":"false","n":"AlienPromptAdultt0"},{"t":"S","v":"Eu geralmente estou desapontado com os \u00FAltimos epis\u00F3dios de programas de TV.","n":"AlienPromptText0"},{"t":"S","v":"false","n":"AlienPromptAdultt1"},{"t":"S","v":"Eu poderia come\u00E7ar uma fogueira.","n":"AlienPromptText1"},{"t":"S","v":"false","n":"AlienPromptAdultt2"},{"t":"S","v":"A praia \u00E9 superestimada.","n":"AlienPromptText2"},{"t":"S","v":"false","n":"AlienPromptAdultt3"},{"t":"S","v":"Pepperoni \u00E9 a melhor cobertura de pizza.","n":"AlienPromptText3"},{"t":"S","v":"Eu comia um saco de vidro quebrado por US $ 11.","n":"HumanPromptText"},{"s":"Eu comia um saco de vidro quebrado por US $ 11.","t":"A","v":"806126_1","n":"HumanPromptAudio"}]}
+{
+  "fields": [
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty3"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty2"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty1"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty0"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt0"
+    },
+    {
+      "t": "S",
+      "v": "Eu geralmente estou desapontado com os últimos episódios de programas de TV.",
+      "n": "AlienPromptText0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt1"
+    },
+    {
+      "t": "S",
+      "v": "Eu sei acender uma fogueira.",
+      "n": "AlienPromptText1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt2"
+    },
+    {
+      "t": "S",
+      "v": "A praia é superestimada.",
+      "n": "AlienPromptText2"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt3"
+    },
+    {
+      "t": "S",
+      "v": "Pepperoni é a melhor cobertura de pizza.",
+      "n": "AlienPromptText3"
+    },
+    {
+      "t": "S",
+      "v": "Eu comeria um saco de vidro quebrado por R$ 11.",
+      "n": "HumanPromptText"
+    },
+    {
+      "s": "Eu comeria um saco de vidro quebrado por R$ 11.",
+      "t": "A",
+      "v": "806126_1",
+      "n": "HumanPromptAudio"
+    }
+  ]
+}

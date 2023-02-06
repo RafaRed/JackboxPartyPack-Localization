@@ -1,1 +1,155 @@
-{"fields":[{"t":"N","v":"1","n":"AlienPromptDifficulty5"},{"t":"N","v":"1","n":"AlienPromptDifficulty4"},{"t":"N","v":"1","n":"AlienPromptDifficulty3"},{"t":"N","v":"0","n":"AlienPromptDifficulty2"},{"t":"N","v":"0","n":"AlienPromptDifficulty1"},{"t":"N","v":"0","n":"AlienPromptDifficulty0"},{"t":"N","v":"0","n":"Difficulty"},{"t":"N","v":"2","n":"AlienPromptDifficulty8"},{"t":"N","v":"2","n":"AlienPromptDifficulty7"},{"t":"N","v":"2","n":"AlienPromptDifficulty6"},{"t":"S","v":"false","n":"AlienPromptAdultt5"},{"t":"S","v":"false","n":"AlienPromptAdultt6"},{"t":"S","v":"false","n":"AlienPromptAdultt7"},{"t":"S","v":"false","n":"AlienPromptAdultt8"},{"t":"S","v":"O pior filme que eu jah sentava foi ...","n":"AlienPromptText8"},{"t":"S","v":"The best u201890s movie is...","n":"HumanPromptText"},{"t":"S","v":"O melhor filme Julia Roberts eh ...","n":"AlienPromptText4"},{"t":"S","v":"The best u201880s movie is...","n":"AlienPromptText5"},{"t":"S","v":"Um filme que me apavore foi ...","n":"AlienPromptText6"},{"t":"S","v":"false","n":"AlienPromptAdultt0"},{"t":"S","v":"Meu filme favorito do super-heroi eh ...","n":"AlienPromptText7"},{"t":"S","v":"O melhor filme de Jim Carrey eh ...","n":"AlienPromptText0"},{"t":"S","v":"false","n":"AlienPromptAdultt1"},{"t":"S","v":"The funniest u201890's movie is...","n":"AlienPromptText1"},{"t":"S","v":"false","n":"AlienPromptAdultt2"},{"t":"S","v":"O melhor filme da Disney Animated eh ...","n":"AlienPromptText2"},{"t":"S","v":"false","n":"AlienPromptAdultt3"},{"t":"S","v":"O primeiro filme que vi nos teatros foi ...","n":"AlienPromptText3"},{"t":"S","v":"false","n":"AlienPromptAdultt4"},{"s":"The best u201890s movie is...","t":"A","v":"802997_0","n":"HumanPromptAudio"}]}
+{
+  "fields": [
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty5"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty4"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty3"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty2"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty1"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty0"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "Difficulty"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty8"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty7"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty6"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt5"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt6"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt7"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt8"
+    },
+    {
+      "t": "S",
+      "v": "O pior filme que eu já assisti foi ...",
+      "n": "AlienPromptText8"
+    },
+    {
+      "t": "S",
+      "v": "O melhor filme dos anos 90 foi...",
+      "n": "HumanPromptText"
+    },
+    {
+      "t": "S",
+      "v": "O melhor filme da Julia Roberts é ...",
+      "n": "AlienPromptText4"
+    },
+    {
+      "t": "S",
+      "v": "O melhor filme dos anos 80 foi
+      "n": "AlienPromptText5"
+    },
+    {
+      "t": "S",
+      "v": "Um filme que me apavora é ...",
+      "n": "AlienPromptText6"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt0"
+    },
+    {
+      "t": "S",
+      "v": "Meu filme favorito do super-heroi é  ...",
+      "n": "AlienPromptText7"
+    },
+    {
+      "t": "S",
+      "v": "O melhor filme de Jim Carrey é ...",
+      "n": "AlienPromptText0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt1"
+    },
+    {
+      "t": "S",
+      "v": "O filme mais engraçado dos anos 90 é ...",
+      "n": "AlienPromptText1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt2"
+    },
+    {
+      "t": "S",
+      "v": "O melhor filme animado da Disney é ...",
+      "n": "AlienPromptText2"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt3"
+    },
+    {
+      "t": "S",
+      "v": "O primeiro filme que vi nos cinemas foi ...",
+      "n": "AlienPromptText3"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt4"
+    },
+    {
+      "s": "O melhor filme dos anos 90 foi ...",
+      "t": "A",
+      "v": "802997_0",
+      "n": "HumanPromptAudio"
+    }
+  ]
+}

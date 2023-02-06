@@ -1,1 +1,65 @@
-{"fields":[{"t":"N","v":"1","n":"AlienPromptDifficulty2"},{"t":"N","v":"1","n":"AlienPromptDifficulty1"},{"t":"N","v":"1","n":"AlienPromptDifficulty0"},{"t":"N","v":"0","n":"Difficulty"},{"t":"S","v":"false","n":"AlienPromptAdultt0"},{"t":"S","v":"Desenhe um esquilo voador.","n":"AlienPromptText0"},{"t":"S","v":"false","n":"AlienPromptAdultt1"},{"t":"S","v":"Desenhe um gamb\u00E1 caindo.","n":"AlienPromptText1"},{"t":"S","v":"false","n":"AlienPromptAdultt2"},{"t":"S","v":"Desenhe um p\u00E1ssaro fedorento.","n":"AlienPromptText2"},{"t":"S","v":"Desenhe um skunk voador.","n":"HumanPromptText"},{"s":"Desenhe um skunk voador.","t":"A","v":"836331_1","n":"HumanPromptAudio"}]}
+{
+  "fields": [
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty2"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty1"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty0"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt0"
+    },
+    {
+      "t": "S",
+      "v": "Desenhe um esquilo voador.",
+      "n": "AlienPromptText0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt1"
+    },
+    {
+      "t": "S",
+      "v": "Desenhe um gambá caindo.",
+      "n": "AlienPromptText1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt2"
+    },
+    {
+      "t": "S",
+      "v": "Desenhe um pássaro fedorento.",
+      "n": "AlienPromptText2"
+    },
+    {
+      "t": "S",
+      "v": "Desenhe um gambá voador.",
+      "n": "HumanPromptText"
+    },
+    {
+        "s": "Desenhe um gambá voador.",
+        "t": "A",
+        "v": "836331_1",
+        "n": "HumanPromptAudio"
+    }
+  ]
+}

@@ -1,1 +1,155 @@
-{"fields":[{"t":"N","v":"0","n":"AlienPromptDifficulty5"},{"t":"N","v":"0","n":"AlienPromptDifficulty4"},{"t":"N","v":"2","n":"AlienPromptDifficulty3"},{"t":"N","v":"2","n":"AlienPromptDifficulty2"},{"t":"N","v":"2","n":"AlienPromptDifficulty1"},{"t":"N","v":"0","n":"AlienPromptDifficulty0"},{"t":"N","v":"0","n":"Difficulty"},{"t":"N","v":"1","n":"AlienPromptDifficulty8"},{"t":"N","v":"1","n":"AlienPromptDifficulty7"},{"t":"N","v":"1","n":"AlienPromptDifficulty6"},{"t":"S","v":"false","n":"AlienPromptAdultt5"},{"t":"S","v":"false","n":"AlienPromptAdultt6"},{"t":"S","v":"false","n":"AlienPromptAdultt7"},{"t":"S","v":"false","n":"AlienPromptAdultt8"},{"t":"S","v":"Uma celebridade eu nao me importo mais eh ...","n":"AlienPromptText8"},{"t":"S","v":"Um tema de festa de aniversahrio que eu tinha como crianca ...","n":"HumanPromptText"},{"t":"S","v":"Meu personagem favorito da Disney eh ...","n":"AlienPromptText4"},{"t":"S","v":"Meus filhos favoritos mostram uma vez foi ...","n":"AlienPromptText5"},{"t":"S","v":"Meu programa de TV favorito quando eu era adolescente foi ...","n":"AlienPromptText6"},{"t":"S","v":"false","n":"AlienPromptAdultt0"},{"t":"S","v":"Meu filme favorito quando eu era adolescente foi ...","n":"AlienPromptText7"},{"t":"S","v":"Meu personagem de desenho animado favorito eh ...","n":"AlienPromptText0"},{"t":"S","v":"false","n":"AlienPromptAdultt1"},{"t":"S","v":"Meu programa de TV favorito eh...","n":"AlienPromptText1"},{"t":"S","v":"false","n":"AlienPromptAdultt2"},{"t":"S","v":"Um bom tema de primeira escola eh ...","n":"AlienPromptText2"},{"t":"S","v":"false","n":"AlienPromptAdultt3"},{"t":"S","v":"Um momento historico eu estou super-interessado eh ...","n":"AlienPromptText3"},{"t":"S","v":"false","n":"AlienPromptAdultt4"},{"s":"Um tema de festa de aniversahrio que eu tinha como crianca ...","t":"A","v":"814700_1","n":"HumanPromptAudio"}]}
+{
+  "fields": [
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty5"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty4"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty3"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty2"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty1"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty0"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "Difficulty"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty8"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty7"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty6"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt5"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt6"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt7"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt8"
+    },
+    {
+        "t": "S",
+        "v": "Uma celebridade eu não me importo mais é ...",
+        "n": "AlienPromptText8"
+    },
+    {
+      "t": "S",
+      "v": "Um tema de festa de aniversário que eu tinha como crianca ...",
+      "n": "HumanPromptText"
+    },
+    {
+        "t": "S",
+        "v": "Meu personagem favorito da Disney é ...",
+        "n": "AlienPromptText4"
+    },
+    {
+      "t": "S",
+      "v": "Meus filme favorito quando criança era ...",
+      "n": "AlienPromptText5"
+    },
+    {
+      "t": "S",
+      "v": "Meu programa de TV favorito quando eu era adolescente era ...",
+      "n": "AlienPromptText6"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt0"
+    },
+    {
+      "t": "S",
+      "v": "Meu filme favorito quando eu era adolescente foi ...",
+      "n": "AlienPromptText7"
+    },
+    {
+        "t": "S",
+        "v": "Meu personagem de desenho animado favorito é ...",
+        "n": "AlienPromptText0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt1"
+    },
+    {
+        "t": "S",
+        "v": "Meu programa de TV favorito é...",
+        "n": "AlienPromptText1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt2"
+    },
+    {
+        "t": "S",
+        "v": "Um bom tema de primeira escola é ...",
+        "n": "AlienPromptText2"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt3"
+    },
+    {
+        "t": "S",
+        "v": "Um momento historico que eu estou super-interessado é ...",
+        "n": "AlienPromptText3"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt4"
+    },
+    {
+      "s": "Um tema de festa de aniversário que eu tinha como crianca foi de ...",
+      "t": "A",
+      "v": "814700_1",
+      "n": "HumanPromptAudio"
+    }
+  ]
+}

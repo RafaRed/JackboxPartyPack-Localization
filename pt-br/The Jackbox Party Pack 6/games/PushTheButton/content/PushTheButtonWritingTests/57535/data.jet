@@ -1,1 +1,155 @@
-{"fields":[{"t":"N","v":"2","n":"AlienPromptDifficulty5"},{"t":"N","v":"1","n":"AlienPromptDifficulty4"},{"t":"N","v":"0","n":"AlienPromptDifficulty3"},{"t":"N","v":"2","n":"AlienPromptDifficulty2"},{"t":"N","v":"1","n":"AlienPromptDifficulty1"},{"t":"N","v":"0","n":"AlienPromptDifficulty0"},{"t":"N","v":"0","n":"Difficulty"},{"t":"N","v":"1","n":"AlienPromptDifficulty8"},{"t":"N","v":"0","n":"AlienPromptDifficulty7"},{"t":"N","v":"2","n":"AlienPromptDifficulty6"},{"t":"S","v":"false","n":"AlienPromptAdultt5"},{"t":"S","v":"false","n":"AlienPromptAdultt6"},{"t":"S","v":"false","n":"AlienPromptAdultt7"},{"t":"S","v":"false","n":"AlienPromptAdultt8"},{"t":"S","v":"Meu melhor assunto da escola eh / foi ...","n":"AlienPromptText8"},{"t":"S","v":"Algo que eu sou secretamente muito bom em eh ...","n":"HumanPromptText"},{"t":"S","v":"O talento que eu gostaria de ter eh ...","n":"AlienPromptText4"},{"t":"S","v":"Se eu fosse um milionahrio, passaria todo fim de semana fazendo isso ...","n":"AlienPromptText5"},{"t":"S","v":"Se eu tivesse um robo, eu usaria isso para ...","n":"AlienPromptText6"},{"t":"S","v":"false","n":"AlienPromptAdultt0"},{"t":"S","v":"Algo que eu uso para ser capaz de fazer quando eu era mais jovem foi ...","n":"AlienPromptText7"},{"t":"S","v":"Eu passatempo eu genuinamente gosto eh ...","n":"AlienPromptText0"},{"t":"S","v":"false","n":"AlienPromptAdultt1"},{"t":"S","v":"Algo que sou secretamente muito ruim em eh ...","n":"AlienPromptText1"},{"t":"S","v":"false","n":"AlienPromptAdultt2"},{"t":"S","v":"Se eu tivesse uma superpotencia, seria ...","n":"AlienPromptText2"},{"t":"S","v":"false","n":"AlienPromptAdultt3"},{"t":"S","v":"Um talento estranho que tenho eh ...","n":"AlienPromptText3"},{"t":"S","v":"false","n":"AlienPromptAdultt4"},{"s":"Algo que eu sou secretamente muito bom em eh ...","t":"A","v":"832466_1","n":"HumanPromptAudio"}]}
+{
+  "fields": [
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty5"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty4"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty3"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty2"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty1"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty0"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "Difficulty"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty8"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty7"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty6"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt5"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt6"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt7"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt8"
+    },
+    {
+        "t": "S",
+        "v": "Minha melhor matéria na escola é / foi ...",
+        "n": "AlienPromptText8"
+    },
+    {
+        "t": "S",
+        "v": "Algo que eu sou secretamente muito bom em é ...",
+        "n": "HumanPromptText"
+    },
+    {
+        "t": "S",
+        "v": "O talento que eu gostaria de ter é ...",
+        "n": "AlienPromptText4"
+    },
+    {
+      "t": "S",
+      "v": "Se eu fosse um milionahrio, passaria todo fim de semana fazendo isso ...",
+      "n": "AlienPromptText5"
+    },
+    {
+      "t": "S",
+      "v": "Se eu tivesse um robô, eu usaria ele para ...",
+      "n": "AlienPromptText6"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt0"
+    },
+    {
+        "t": "S",
+        "v": "Algo que eu conseguia fazer quando eu era mais jovem é ...",
+        "n": "AlienPromptText7"
+    },
+    {
+      "t": "S",
+      "v": "Um hobby que eu genuinamente aprecio é ...",
+      "n": "AlienPromptText0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt1"
+    },
+    {
+        "t": "S",
+        "v": "Algo que sou secretamente muito ruim em é ...",
+        "n": "AlienPromptText1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt2"
+    },
+    {
+      "t": "S",
+      "v": "Se eu tivesse um super-poder, seria ...",
+      "n": "AlienPromptText2"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt3"
+    },
+    {
+        "t": "S",
+        "v": "Um talento estranho que tenho é ...",
+        "n": "AlienPromptText3"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt4"
+    },
+    {
+        "s": "Algo que eu sou secretamente muito bom em é ...",
+        "t": "A",
+        "v": "832466_1",
+        "n": "HumanPromptAudio"
+    }
+  ]
+}

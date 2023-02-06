@@ -1,1 +1,155 @@
-{"fields":[{"t":"N","v":"1","n":"AlienPromptDifficulty5"},{"t":"N","v":"1","n":"AlienPromptDifficulty4"},{"t":"N","v":"0","n":"AlienPromptDifficulty3"},{"t":"N","v":"0","n":"AlienPromptDifficulty2"},{"t":"N","v":"1","n":"AlienPromptDifficulty1"},{"t":"N","v":"0","n":"AlienPromptDifficulty0"},{"t":"N","v":"0","n":"Difficulty"},{"t":"N","v":"2","n":"AlienPromptDifficulty8"},{"t":"N","v":"2","n":"AlienPromptDifficulty7"},{"t":"N","v":"2","n":"AlienPromptDifficulty6"},{"t":"S","v":"false","n":"AlienPromptAdultt5"},{"t":"S","v":"false","n":"AlienPromptAdultt6"},{"t":"S","v":"false","n":"AlienPromptAdultt7"},{"t":"S","v":"false","n":"AlienPromptAdultt8"},{"t":"S","v":"Meu prato favorito eh ...","n":"AlienPromptText8"},{"t":"S","v":"A melhor coisa a receber no Halloween eh ...","n":"HumanPromptText"},{"t":"S","v":"Um doce adultos amor e criancas odio eh ...","n":"AlienPromptText4"},{"t":"S","v":"O melhor tratamento de carnaval eh ....","n":"AlienPromptText5"},{"t":"S","v":"A ultima coisa que voce pediu online foi ...","n":"AlienPromptText6"},{"t":"S","v":"false","n":"AlienPromptAdultt0"},{"t":"S","v":"A melhor coisa para comer no final de um dia estressante eh ...","n":"AlienPromptText7"},{"t":"S","v":"Meus doces favoritos eh ...","n":"AlienPromptText0"},{"t":"S","v":"false","n":"AlienPromptAdultt1"},{"t":"S","v":"A melhor sobremesa eh ...","n":"AlienPromptText1"},{"t":"S","v":"false","n":"AlienPromptAdultt2"},{"t":"S","v":"Algo que voce nao tinha permissao para brincar quando crianca era ...","n":"AlienPromptText2"},{"t":"S","v":"false","n":"AlienPromptAdultt3"},{"t":"S","v":"O melhor brinquedo para entrar em um saco de presente de festa eh ...","n":"AlienPromptText3"},{"t":"S","v":"false","n":"AlienPromptAdultt4"},{"s":"A melhor coisa a receber no Halloween eh ...","t":"A","v":"803209_0","n":"HumanPromptAudio"}]}
+{
+  "fields": [
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty5"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty4"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty3"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty2"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty1"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty0"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "Difficulty"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty8"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty7"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty6"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt5"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt6"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt7"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt8"
+    },
+    {
+        "t": "S",
+        "v": "Meu prato favorito é ...",
+        "n": "AlienPromptText8"
+    },
+    {
+        "t": "S",
+        "v": "A melhor coisa a receber no Halloween é ...",
+        "n": "HumanPromptText"
+    },
+    {
+        "t": "S",
+        "v": "Um doce que adultos amam e crianças odeiam é ...",
+        "n": "AlienPromptText4"
+    },
+    {
+        "t": "S",
+        "v": "A melhor comida numa feira é ....",
+        "n": "AlienPromptText5"
+    },
+    {
+      "t": "S",
+      "v": "A ultima coisa que voce pediu online foi ...",
+      "n": "AlienPromptText6"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt0"
+    },
+    {
+        "t": "S",
+        "v": "A melhor coisa para comer no final de um dia estressante é ...",
+        "n": "AlienPromptText7"
+    },
+    {
+        "t": "S",
+        "v": "Meu doce favorito é ...",
+        "n": "AlienPromptText0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt1"
+    },
+    {
+        "t": "S",
+        "v": "A melhor sobremesa é ...",
+        "n": "AlienPromptText1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt2"
+    },
+    {
+      "t": "S",
+      "v": "Algo que voce nao tinha permissao para brincar quando crianca era ...",
+      "n": "AlienPromptText2"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt3"
+    },
+    {
+        "t": "S",
+        "v": "O melhor brinquedo para encontrar em um saco de presente de festa é ...",
+        "n": "AlienPromptText3"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt4"
+    },
+    {
+        "s": "A melhor coisa a receber no Halloween é ...",
+        "t": "A",
+        "v": "803209_0",
+        "n": "HumanPromptAudio"
+    }
+  ]
+}

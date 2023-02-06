@@ -1,1 +1,110 @@
-{"fields":[{"t":"N","v":"1","n":"AlienPromptDifficulty5"},{"t":"N","v":"1","n":"AlienPromptDifficulty4"},{"t":"N","v":"2","n":"AlienPromptDifficulty3"},{"t":"N","v":"2","n":"AlienPromptDifficulty2"},{"t":"N","v":"2","n":"AlienPromptDifficulty1"},{"t":"N","v":"1","n":"AlienPromptDifficulty0"},{"t":"N","v":"1","n":"Difficulty"},{"t":"S","v":"false","n":"AlienPromptAdultt5"},{"t":"S","v":"Ningu\u00E9m deve reconhecer seu anivers\u00E1rio ap\u00F3s a idade de 16 anos.","n":"HumanPromptText"},{"t":"S","v":"Ningu\u00E9m deve reconhecer seu anivers\u00E1rio ap\u00F3s a idade de 10 anos.","n":"AlienPromptText4"},{"t":"S","v":"Ningu\u00E9m deve reconhecer seu anivers\u00E1rio depois da idade de 3 anos.","n":"AlienPromptText5"},{"t":"S","v":"false","n":"AlienPromptAdultt0"},{"t":"S","v":"Ningu\u00E9m deve reconhecer seu anivers\u00E1rio ap\u00F3s a idade de 12 anos.","n":"AlienPromptText0"},{"t":"S","v":"false","n":"AlienPromptAdultt1"},{"t":"S","v":"Ningu\u00E9m deve reconhecer seu anivers\u00E1rio ap\u00F3s a idade de 30 anos.","n":"AlienPromptText1"},{"t":"S","v":"false","n":"AlienPromptAdultt2"},{"t":"S","v":"Ningu\u00E9m deve reconhecer seu anivers\u00E1rio depois da idade de 25 anos.","n":"AlienPromptText2"},{"t":"S","v":"false","n":"AlienPromptAdultt3"},{"t":"S","v":"Ningu\u00E9m deve reconhecer seu anivers\u00E1rio ap\u00F3s a idade de 22 anos.","n":"AlienPromptText3"},{"t":"S","v":"false","n":"AlienPromptAdultt4"},{"s":"Ningu\u00E9m deve reconhecer seu anivers\u00E1rio ap\u00F3s a idade de 16 anos.","t":"A","v":"832018_1","n":"HumanPromptAudio"}]}
+{
+  "fields": [
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty5"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty4"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty3"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty2"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty1"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty0"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt5"
+    },
+    {
+        "t": "S",
+        "v": "Ninguém deve reconhecer seu aniversário após os 16 anos de idade.",
+        "n": "HumanPromptText"
+    },
+    {
+        "t": "S",
+        "v": "Ninguém deve reconhecer seu aniversário após os 10 anos de idade.",
+        "n": "AlienPromptText4"
+    },
+    {
+        "t": "S",
+        "v": "Ninguém deve reconhecer seu aniversário após os 3 anos de idade.",
+        "n": "AlienPromptText5"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt0"
+    },
+    {
+        "t": "S",
+        "v": "Ninguém deve reconhecer seu aniversário após os 12 anos de idade.",
+        "n": "AlienPromptText0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt1"
+    },
+    {
+        "t": "S",
+        "v": "Ninguém deve reconhecer seu aniversário após os 30 anos de idade.",
+        "n": "AlienPromptText1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt2"
+    },
+    {
+        "t": "S",
+        "v": "Ninguém deve reconhecer seu aniversário após os 25 anos de idade.",
+        "n": "AlienPromptText2"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt3"
+    },
+    {
+        "t": "S",
+        "v": "Ninguém deve reconhecer seu aniversário após os 22 anos de idade.",
+        "n": "AlienPromptText3"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt4"
+    },
+    {
+        "s": "Ninguém deve reconhecer seu aniversário após os 16 anos de idade.",
+        "t": "A",
+        "v": "832018_1",
+        "n": "HumanPromptAudio"
+    }
+  ]
+}

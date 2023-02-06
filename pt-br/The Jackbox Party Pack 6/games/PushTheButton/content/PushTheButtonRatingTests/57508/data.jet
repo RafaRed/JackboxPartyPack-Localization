@@ -1,1 +1,65 @@
-{"fields":[{"t":"N","v":"1","n":"AlienPromptDifficulty2"},{"t":"N","v":"1","n":"AlienPromptDifficulty1"},{"t":"N","v":"1","n":"AlienPromptDifficulty0"},{"t":"N","v":"1","n":"Difficulty"},{"t":"S","v":"false","n":"AlienPromptAdultt0"},{"t":"S","v":"Eu gostaria de saber mais sobre esportes.","n":"AlienPromptText0"},{"t":"S","v":"false","n":"AlienPromptAdultt1"},{"t":"S","v":"Eu n\u00E3o tenho ideia do que s\u00E3o as regras do futebol.","n":"AlienPromptText1"},{"t":"S","v":"false","n":"AlienPromptAdultt2"},{"t":"S","v":"Eu sei quem ganhou a s\u00E9rie mundial h\u00E1 cinco anos.","n":"AlienPromptText2"},{"t":"S","v":"O futebol \u00E9 chato.","n":"HumanPromptText"},{"s":"O futebol \u00E9 chato.","t":"A","v":"832142_1","n":"HumanPromptAudio"}]}
+{
+  "fields": [
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty2"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty1"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty0"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt0"
+    },
+    {
+      "t": "S",
+      "v": "Eu gostaria de saber mais sobre esportes.",
+      "n": "AlienPromptText0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt1"
+    },
+    {
+      "t": "S",
+      "v": "Eu não tenho ideia quais são as regras do futebol.",
+      "n": "AlienPromptText1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt2"
+    },
+    {
+      "t": "S",
+      "v": "Eu sei quem ganhou a copa do mundo há cinco anos.",
+      "n": "AlienPromptText2"
+    },
+    {
+      "t": "S",
+      "v": "Futebol é chato.",
+      "n": "HumanPromptText"
+    },
+    {
+      "s": "Futebol é chato.",
+      "t": "A",
+      "v": "832142_1",
+      "n": "HumanPromptAudio"
+    }
+  ]
+}

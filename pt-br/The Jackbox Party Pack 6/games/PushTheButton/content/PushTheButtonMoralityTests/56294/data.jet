@@ -1,1 +1,65 @@
-{"fields":[{"t":"N","v":"0","n":"AlienPromptDifficulty2"},{"t":"N","v":"0","n":"AlienPromptDifficulty1"},{"t":"N","v":"0","n":"AlienPromptDifficulty0"},{"t":"N","v":"0","n":"Difficulty"},{"t":"S","v":"false","n":"AlienPromptAdultt0"},{"t":"S","v":"denuncie-os","n":"AlienPromptText0"},{"t":"S","v":"false","n":"AlienPromptAdultt1"},{"t":"S","v":"Diga-lhes para confessar","n":"AlienPromptText1"},{"t":"S","v":"false","n":"AlienPromptAdultt2"},{"t":"S","v":"dar um polegar para cima","n":"AlienPromptText2"},{"t":"S","v":"Uma crian\u00E7a de dez anos come uma uva supermercado sem pagar.O que voc\u00EA deve fazer \u00E9 ...","n":"HumanPromptText"},{"s":"Uma crian\u00E7a de dez anos come uma uva supermercado sem pagar.O que voc\u00EA deve fazer \u00E9 ...","t":"A","v":"805277_0","n":"HumanPromptAudio"}]}
+{
+  "fields": [
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty2"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty1"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty0"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt0"
+    },
+    {
+      "t": "S",
+      "v": "denuncie-os",
+      "n": "AlienPromptText0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt1"
+    },
+    {
+      "t": "S",
+      "v": "Diga-lhes para confessar",
+      "n": "AlienPromptText1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt2"
+    },
+    {
+      "t": "S",
+      "v": "faz um jóinha",
+      "n": "AlienPromptText2"
+    },
+    {
+      "t": "S",
+      "v": "Uma criança de dez anos come uma uva no supermercado sem pagar. O que você deve fazer é ...",
+      "n": "HumanPromptText"
+    },
+    {
+      "s": "Uma criança de dez anos come uma uva no supermercado sem pagar. O que você deve fazer é ...",
+      "t": "A",
+      "v": "805277_0",
+      "n": "HumanPromptAudio"
+    }
+  ]
+}

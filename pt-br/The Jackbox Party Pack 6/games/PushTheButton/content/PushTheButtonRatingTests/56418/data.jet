@@ -1,1 +1,65 @@
-{"fields":[{"t":"N","v":"2","n":"AlienPromptDifficulty2"},{"t":"N","v":"2","n":"AlienPromptDifficulty1"},{"t":"N","v":"2","n":"AlienPromptDifficulty0"},{"t":"N","v":"2","n":"Difficulty"},{"t":"S","v":"false","n":"AlienPromptAdultt0"},{"t":"S","v":"Eu acredito que h\u00E1 uma chance melhor do que a m\u00E9dia de vida alien\u00EDgena.","n":"AlienPromptText0"},{"t":"S","v":"false","n":"AlienPromptAdultt1"},{"t":"S","v":"Eu acho que a honestidade \u00E9 a melhor pol\u00EDtica.","n":"AlienPromptText1"},{"t":"S","v":"false","n":"AlienPromptAdultt2"},{"t":"S","v":"Muitas vezes penso na humanidade e do seu destino.","n":"AlienPromptText2"},{"t":"S","v":"Eu fiz muitos desenhos sexy de mim como uma pessoa meia lontra e agora n\u00E3o consigo encontr\u00E1-los e estou com medo.","n":"HumanPromptText"},{"s":"Eu fiz muitos desenhos sexy de mim como uma pessoa meia lontra e agora n\u00E3o consigo encontr\u00E1-los e estou com medo.","t":"A","v":"807172_1","n":"HumanPromptAudio"}]}
+{
+  "fields": [
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty2"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty1"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty0"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt0"
+    },
+    {
+      "t": "S",
+      "v": "Eu acredito que há uma chance maior do que a média de existir vida alienígena.",
+      "n": "AlienPromptText0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt1"
+    },
+    {
+      "t": "S",
+      "v": "Eu acho que a honestidade é a melhor política.",
+      "n": "AlienPromptText1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt2"
+    },
+    {
+      "t": "S",
+      "v": "Muitas vezes penso na humanidade e do seu destino.",
+      "n": "AlienPromptText2"
+    },
+    {
+      "t": "S",
+      "v": "Eu fiz muitos desenhos sexy de mim como uma pessoa meia-lontra e agora não consigo encontrá-los e estou com medo.",
+      "n": "HumanPromptText"
+    },
+    {
+      "s": "Eu fiz muitos desenhos sexy de mim como uma pessoa meia-lontra e agora não consigo encontrá-los e estou com medo.",
+      "t": "A",
+      "v": "807172_1",
+      "n": "HumanPromptAudio"
+    }
+  ]
+}

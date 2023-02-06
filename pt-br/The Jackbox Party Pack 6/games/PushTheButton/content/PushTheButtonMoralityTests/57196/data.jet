@@ -1,1 +1,65 @@
-{"fields":[{"t":"N","v":"0","n":"AlienPromptDifficulty2"},{"t":"N","v":"0","n":"AlienPromptDifficulty1"},{"t":"N","v":"0","n":"AlienPromptDifficulty0"},{"t":"N","v":"0","n":"Difficulty"},{"t":"S","v":"false","n":"AlienPromptAdultt0"},{"t":"S","v":"Keanu Reeves.","n":"AlienPromptText0"},{"t":"S","v":"false","n":"AlienPromptAdultt1"},{"t":"S","v":"Beyonc\u00E9","n":"AlienPromptText1"},{"t":"S","v":"false","n":"AlienPromptAdultt2"},{"t":"S","v":"Dwayne u201cThe Rocku201d Johnson","n":"AlienPromptText2"},{"t":"S","v":"Aliens will spare Earth if they can take one person back to their planet never to be seen again. We should give up...","n":"HumanPromptText"},{"s":"Aliens will spare Earth if they can take one person back to their planet never to be seen again. We should give up...","t":"A","v":"823595_1","n":"HumanPromptAudio"}]}
+{
+  "fields": [
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty2"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty1"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty0"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt0"
+    },
+    {
+      "t": "S",
+      "v": "Keanu Reeves.",
+      "n": "AlienPromptText0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt1"
+    },
+    {
+      "t": "S",
+      "v": "Beyoncé",
+      "n": "AlienPromptText1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt2"
+    },
+    {
+      "t": "S",
+      "v": "Dwayne 'The Rock' Johnson",
+      "n": "AlienPromptText2"
+    },
+    {
+        "t": "S",
+        "v": "Aliens irão deixar a terra em paz se deixarmos eles levarem uma pessoa embora para sempre. Devemos entregar para eles...",
+        "n": "HumanPromptText"
+    },
+    {
+      "s": "Aliens irão deixar a terra em paz se deixarmos eles levarem uma pessoa embora para sempre. Devemos entregar para eles...",
+      "t": "A",
+      "v": "823595_1",
+      "n": "HumanPromptAudio"
+    }
+  ]
+}

@@ -1,1 +1,65 @@
-{"fields":[{"t":"N","v":"0","n":"AlienPromptDifficulty2"},{"t":"N","v":"0","n":"AlienPromptDifficulty1"},{"t":"N","v":"0","n":"AlienPromptDifficulty0"},{"t":"N","v":"0","n":"Difficulty"},{"t":"S","v":"false","n":"AlienPromptAdultt0"},{"t":"S","v":"Cidade de Nova York","n":"AlienPromptText0"},{"t":"S","v":"false","n":"AlienPromptAdultt1"},{"t":"S","v":"o meio de Nevada","n":"AlienPromptText1"},{"t":"S","v":"false","n":"AlienPromptAdultt2"},{"t":"S","v":"Praia de Miami","n":"AlienPromptText2"},{"t":"S","v":"Voc\u00EA \u00E9 um lobisomem.\u00C9 uma lua cheia.Para a seguran\u00E7a de todos, voc\u00EA deve rapidamente pegar ...","n":"HumanPromptText"},{"s":"Voc\u00EA \u00E9 um lobisomem.\u00C9 uma lua cheia.Para a seguran\u00E7a de todos, voc\u00EA deve rapidamente pegar ...","t":"A","v":"824506_1","n":"HumanPromptAudio"}]}
+{
+  "fields": [
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty2"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty1"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty0"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt0"
+    },
+    {
+      "t": "S",
+      "v": "Cidade de Nova York",
+      "n": "AlienPromptText0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt1"
+    },
+    {
+      "t": "S",
+      "v": "o meio de Nevada",
+      "n": "AlienPromptText1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt2"
+    },
+    {
+      "t": "S",
+      "v": "Praia de Miami",
+      "n": "AlienPromptText2"
+    },
+    {
+        "t": "S",
+        "v": "Você é um lobisomem. É uma lua cheia. Para a segurança de todos, você deve rapidamente ir para ...",
+        "n": "HumanPromptText"
+    },
+    {
+      "s": "Você é um lobisomem. É uma lua cheia. Para a segurança de todos, você deve rapidamente ir para ...",
+      "t": "A",
+      "v": "824506_1",
+      "n": "HumanPromptAudio"
+    }
+  ]
+}

@@ -1,1 +1,80 @@
-{"fields":[{"t":"N","v":"1","n":"AlienPromptDifficulty3"},{"t":"N","v":"2","n":"AlienPromptDifficulty2"},{"t":"N","v":"1","n":"AlienPromptDifficulty1"},{"t":"N","v":"1","n":"AlienPromptDifficulty0"},{"t":"N","v":"1","n":"Difficulty"},{"t":"S","v":"false","n":"AlienPromptAdultt0"},{"t":"S","v":"Minha bebida alcoolica favorita eh ...","n":"AlienPromptText0"},{"t":"S","v":"false","n":"AlienPromptAdultt1"},{"t":"S","v":"Minha bebida favorita eh ...","n":"AlienPromptText1"},{"t":"S","v":"false","n":"AlienPromptAdultt2"},{"t":"S","v":"Uma bebida que eu nao suporto eh ...","n":"AlienPromptText2"},{"t":"S","v":"false","n":"AlienPromptAdultt3"},{"t":"S","v":"Uma bebida so caras dura bebe eh ...","n":"AlienPromptText3"},{"t":"S","v":"Uma bebida que me faz sentir como um adulto eh ...","n":"HumanPromptText"},{"s":"Uma bebida que me faz sentir como um adulto eh ...","t":"A","v":"832712_1","n":"HumanPromptAudio"}]}
+{
+  "fields": [
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty3"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty2"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty1"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty0"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt0"
+    },
+    {
+      "t": "S",
+      "v": "Minha bebida alcoolica favorita é ...",
+      "n": "AlienPromptText0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt1"
+    },
+    {
+      "t": "S",
+      "v": "Minha bebida favorita é ...",
+      "n": "AlienPromptText1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt2"
+    },
+    {
+      "t": "S",
+      "v": "Uma bebida que eu nao suporto é ...",
+      "n": "AlienPromptText2"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt3"
+    },
+    {
+      "t": "S",
+      "v": "Uma bebida que só caras durões bebem é ...",
+      "n": "AlienPromptText3"
+    },
+    {
+        "t": "S",
+        "v": "Uma bebida que faz eu me sentir adulto é ...",
+        "n": "HumanPromptText"
+    },
+    {
+      "s": "Uma bebida que faz eu me sentir adulto é ...",
+      "t": "A",
+      "v": "832712_1",
+      "n": "HumanPromptAudio"
+    }
+  ]
+}

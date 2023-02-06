@@ -1,1 +1,65 @@
-{"fields":[{"t":"N","v":"1","n":"AlienPromptDifficulty2"},{"t":"N","v":"1","n":"AlienPromptDifficulty1"},{"t":"N","v":"1","n":"AlienPromptDifficulty0"},{"t":"N","v":"1","n":"Difficulty"},{"t":"S","v":"false","n":"AlienPromptAdultt0"},{"t":"S","v":"pegue","n":"AlienPromptText0"},{"t":"S","v":"false","n":"AlienPromptAdultt1"},{"t":"S","v":"deixar","n":"AlienPromptText1"},{"t":"S","v":"false","n":"AlienPromptAdultt2"},{"t":"S","v":"Chame um amigo para ajud\u00E1-lo","n":"AlienPromptText2"},{"t":"S","v":"Voc\u00EA v\u00EA um colar de diamante em um urso pardo adormecido.Voc\u00EA deve...","n":"HumanPromptText"},{"s":"Voc\u00EA v\u00EA um colar de diamante em um urso pardo adormecido.Voc\u00EA deve...","t":"A","v":"814940_1","n":"HumanPromptAudio"}]}
+{
+  "fields": [
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty2"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty1"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty0"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt0"
+    },
+    {
+      "t": "S",
+      "v": "pegar",
+      "n": "AlienPromptText0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt1"
+    },
+    {
+      "t": "S",
+      "v": "deixar",
+      "n": "AlienPromptText1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt2"
+    },
+    {
+      "t": "S",
+      "v": "Chame um amigo para ajudá-lo",
+      "n": "AlienPromptText2"
+    },
+    {
+      "t": "S",
+      "v": "Você vê um colar de diamante em um urso pardo adormecido.Você deve...",
+      "n": "HumanPromptText"
+    },
+    {
+      "s": "Você vê um colar de diamante em um urso pardo adormecido.Você deve...",
+      "t": "A",
+      "v": "814940_1",
+      "n": "HumanPromptAudio"
+    }
+  ]
+}

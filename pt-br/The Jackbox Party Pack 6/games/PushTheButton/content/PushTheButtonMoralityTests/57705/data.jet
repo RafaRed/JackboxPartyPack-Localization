@@ -1,1 +1,65 @@
-{"fields":[{"t":"N","v":"1","n":"AlienPromptDifficulty2"},{"t":"N","v":"1","n":"AlienPromptDifficulty1"},{"t":"N","v":"1","n":"AlienPromptDifficulty0"},{"t":"N","v":"1","n":"Difficulty"},{"t":"S","v":"false","n":"AlienPromptAdultt0"},{"t":"S","v":"conte a todos","n":"AlienPromptText0"},{"t":"S","v":"false","n":"AlienPromptAdultt1"},{"t":"S","v":"preparar uma armadilha","n":"AlienPromptText1"},{"t":"S","v":"false","n":"AlienPromptAdultt2"},{"t":"S","v":"invadir sua casa","n":"AlienPromptText2"},{"t":"S","v":"Um monte de pequenos elfos se movem para uma \u00E1rvore no seu quintal.Se voc\u00EA chegar perto deles, eles assobiam e garra com voc\u00EA.Voc\u00EA poderia...","n":"HumanPromptText"},{"s":"Um monte de pequenos elfos se movem para uma \u00E1rvore no seu quintal.Se voc\u00EA chegar perto deles, eles assobiam e garra com voc\u00EA.Voc\u00EA poderia...","t":"A","v":"835023_1","n":"HumanPromptAudio"}]}
+{
+  "fields": [
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty2"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty1"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty0"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt0"
+    },
+    {
+      "t": "S",
+      "v": "conte para todos",
+      "n": "AlienPromptText0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt1"
+    },
+    {
+      "t": "S",
+      "v": "preparar uma armadilha",
+      "n": "AlienPromptText1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt2"
+    },
+    {
+      "t": "S",
+      "v": "invadir a casa deles",
+      "n": "AlienPromptText2"
+    },
+    {
+        "t": "S",
+        "v": "Um monte de pequenos elfos se movem para uma árvore no seu quintal. Se você chegar perto deles, eles assobiam e te arranham. Você poderia...",
+        "n": "HumanPromptText"
+    },
+    {
+      "s": "Um monte de pequenos elfos se movem para uma árvore no seu quintal. Se você chegar perto deles, eles assobiam e te arranham. Você poderia...",
+      "t": "A",
+      "v": "835023_1",
+      "n": "HumanPromptAudio"
+    }
+  ]
+}

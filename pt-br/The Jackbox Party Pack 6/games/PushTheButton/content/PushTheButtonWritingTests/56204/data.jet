@@ -1,1 +1,155 @@
-{"fields":[{"t":"N","v":"1","n":"AlienPromptDifficulty5"},{"t":"N","v":"1","n":"AlienPromptDifficulty4"},{"t":"N","v":"0","n":"AlienPromptDifficulty3"},{"t":"N","v":"1","n":"AlienPromptDifficulty2"},{"t":"N","v":"0","n":"AlienPromptDifficulty1"},{"t":"N","v":"0","n":"AlienPromptDifficulty0"},{"t":"N","v":"0","n":"Difficulty"},{"t":"N","v":"2","n":"AlienPromptDifficulty8"},{"t":"N","v":"2","n":"AlienPromptDifficulty7"},{"t":"N","v":"2","n":"AlienPromptDifficulty6"},{"t":"S","v":"false","n":"AlienPromptAdultt5"},{"t":"S","v":"false","n":"AlienPromptAdultt6"},{"t":"S","v":"false","n":"AlienPromptAdultt7"},{"t":"S","v":"false","n":"AlienPromptAdultt8"},{"t":"S","v":"O programa de TV mais como minha vida eh ...","n":"AlienPromptText8"},{"t":"S","v":"Meu show de TV culpado eh ...","n":"HumanPromptText"},{"t":"S","v":"O programa de TV com o elenco mais atraente eh ...","n":"AlienPromptText4"},{"t":"S","v":"O programa de TV mais superestimado eh ...","n":"AlienPromptText5"},{"t":"S","v":"O programa de TV mais intenso eh / foi ...","n":"AlienPromptText6"},{"t":"S","v":"false","n":"AlienPromptAdultt0"},{"t":"S","v":"O programa de TV com uma grande musica tema eh ...","n":"AlienPromptText7"},{"t":"S","v":"Meu desenho infantil favorito eh ...","n":"AlienPromptText0"},{"t":"S","v":"false","n":"AlienPromptAdultt1"},{"t":"S","v":"Um programa de TV que eles devem trazer de volta eh ...","n":"AlienPromptText1"},{"t":"S","v":"false","n":"AlienPromptAdultt2"},{"t":"S","v":"O show mais inteligente na TV eh ...","n":"AlienPromptText2"},{"t":"S","v":"false","n":"AlienPromptAdultt3"},{"t":"S","v":"O melhor show de realidade eh ...","n":"AlienPromptText3"},{"t":"S","v":"false","n":"AlienPromptAdultt4"},{"s":"Meu show de TV culpado eh ...","t":"A","v":"803515_0","n":"HumanPromptAudio"}]}
+{
+  "fields": [
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty5"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty4"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty3"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty2"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty1"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty0"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "Difficulty"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty8"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty7"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty6"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt5"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt6"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt7"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt8"
+    },
+    {
+      "t": "S",
+      "v": "O programa de TV mais como minha vida é ...",
+      "n": "AlienPromptText8"
+    },
+    {
+        "t": "S",
+        "v": "Meu show de TV que gosto mas tenho vergonha de dizer é ...",
+        "n": "HumanPromptText"
+    },
+    {
+        "t": "S",
+        "v": "O programa de TV com o elenco mais atraente é ...",
+        "n": "AlienPromptText4"
+    },
+    {
+        "t": "S",
+        "v": "O programa de TV mais superestimado é ...",
+        "n": "AlienPromptText5"
+    },
+    {
+        "t": "S",
+        "v": "O programa de TV mais intenso é / foi ...",
+        "n": "AlienPromptText6"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt0"
+    },
+    {
+        "t": "S",
+        "v": "O programa de TV com uma grande musica tema é ...",
+        "n": "AlienPromptText7"
+    },
+    {
+        "t": "S",
+        "v": "Meu desenho infantil favorito é ...",
+        "n": "AlienPromptText0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt1"
+    },
+    {
+        "t": "S",
+        "v": "Um programa de TV que eles devem trazer de volta é ...",
+        "n": "AlienPromptText1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt2"
+    },
+    {
+        "t": "S",
+        "v": "O show mais inteligente na TV é ...",
+        "n": "AlienPromptText2"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt3"
+    },
+    {
+        "t": "S",
+        "v": "O melhor reality show é ...",
+        "n": "AlienPromptText3"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt4"
+    },
+    {
+        "s": "Meu show de TV que gosto mas tenho vergonha de dizer é ...",
+        "t": "A",
+        "v": "803515_0",
+        "n": "HumanPromptAudio"
+    }
+  ]
+}

@@ -1,1 +1,80 @@
-{"fields":[{"t":"N","v":"2","n":"AlienPromptDifficulty3"},{"t":"N","v":"2","n":"AlienPromptDifficulty2"},{"t":"N","v":"2","n":"AlienPromptDifficulty1"},{"t":"N","v":"2","n":"AlienPromptDifficulty0"},{"t":"N","v":"2","n":"Difficulty"},{"t":"S","v":"false","n":"AlienPromptAdultt0"},{"t":"S","v":"Meu nome do meio eh...","n":"AlienPromptText0"},{"t":"S","v":"true","n":"AlienPromptAdultt1"},{"t":"S","v":"A palavra mais suja que posso pensar eh ...","n":"AlienPromptText1"},{"t":"S","v":"false","n":"AlienPromptAdultt2"},{"t":"S","v":"Uma palavra que voce nunca quer ouvir eh ...","n":"AlienPromptText2"},{"t":"S","v":"false","n":"AlienPromptAdultt3"},{"t":"S","v":"O animal mais estranho eh provavelmente o ...","n":"AlienPromptText3"},{"t":"S","v":"A palavra mais engracada que posso pensar eh ...","n":"HumanPromptText"},{"s":"A palavra mais engracada que posso pensar eh ...","t":"A","v":"833538_1","n":"HumanPromptAudio"}]}
+{
+  "fields": [
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty3"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty2"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty1"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty0"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt0"
+    },
+    {
+      "t": "S",
+      "v": "Pode me chamar de ...",
+      "n": "AlienPromptText0"
+    },
+    {
+      "t": "S",
+      "v": "true",
+      "n": "AlienPromptAdultt1"
+    },
+    {
+      "t": "S",
+      "v": "A palavra mais suja que eu consigo pensar é ...",
+      "n": "AlienPromptText1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt2"
+    },
+    {
+      "t": "S",
+      "v": "Uma palavra que você nunca quero ouvir é ...",
+      "n": "AlienPromptText2"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt3"
+    },
+    {
+      "t": "S",
+      "v": "O animal mais estranho é provavelmente ...",
+      "n": "AlienPromptText3"
+    },
+    {
+      "t": "S",
+      "v": "A palavra mais engraçada que consigo pensar é ...",
+      "n": "HumanPromptText"
+    },
+    {
+      "s": "A palavra mais engraçada que consigo pensar é ...",
+      "t": "A",
+      "v": "833538_1",
+      "n": "HumanPromptAudio"
+    }
+  ]
+}

@@ -1,1 +1,155 @@
-{"fields":[{"t":"N","v":"1","n":"AlienPromptDifficulty5"},{"t":"N","v":"0","n":"AlienPromptDifficulty4"},{"t":"N","v":"0","n":"AlienPromptDifficulty3"},{"t":"N","v":"2","n":"AlienPromptDifficulty2"},{"t":"N","v":"1","n":"AlienPromptDifficulty1"},{"t":"N","v":"0","n":"AlienPromptDifficulty0"},{"t":"N","v":"0","n":"Difficulty"},{"t":"N","v":"2","n":"AlienPromptDifficulty8"},{"t":"N","v":"2","n":"AlienPromptDifficulty7"},{"t":"N","v":"1","n":"AlienPromptDifficulty6"},{"t":"S","v":"false","n":"AlienPromptAdultt5"},{"t":"S","v":"false","n":"AlienPromptAdultt6"},{"t":"S","v":"false","n":"AlienPromptAdultt7"},{"t":"S","v":"false","n":"AlienPromptAdultt8"},{"t":"S","v":"I would use the word u201cdisgustingu201d to describe...","n":"AlienPromptText8"},{"t":"S","v":"I would use the word u201cdelightfulu201d to describe...","n":"HumanPromptText"},{"t":"S","v":"I would use the word u201cfunnyu201d to describe...","n":"AlienPromptText4"},{"t":"S","v":"I would use the word u201cannoyingu201d to describe...","n":"AlienPromptText5"},{"t":"S","v":"I would use the word u201cfragileu201d to describe...","n":"AlienPromptText6"},{"t":"S","v":"false","n":"AlienPromptAdultt0"},{"t":"S","v":"I would use the word u201chorrifyingu201d to describe...","n":"AlienPromptText7"},{"t":"S","v":"I would use the word u201cexquisiteu201d to describe...","n":"AlienPromptText0"},{"t":"S","v":"false","n":"AlienPromptAdultt1"},{"t":"S","v":"I would use the word u201cfrustratingu201d to describe...","n":"AlienPromptText1"},{"t":"S","v":"false","n":"AlienPromptAdultt2"},{"t":"S","v":"I would use the word u201chumiliatingu201d to describe...","n":"AlienPromptText2"},{"t":"S","v":"false","n":"AlienPromptAdultt3"},{"t":"S","v":"I would use the word u201cdeliciousu201d to describe...","n":"AlienPromptText3"},{"t":"S","v":"false","n":"AlienPromptAdultt4"},{"s":"I would use the word u201cdelightfulu201d to describe...","t":"A","v":"836645_1","n":"HumanPromptAudio"}]}
+{
+  "fields": [
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty5"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty4"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty3"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty2"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty1"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty0"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "Difficulty"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty8"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty7"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty6"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt5"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt6"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt7"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt8"
+    },
+    {
+      "t": "S",
+      "v": "Eu usaria a palavra repugnante para descrever...",
+      "n": "AlienPromptText8"
+    },
+    {
+      "t": "S",
+      "v": "Eu usaria a palavra maravilhoso para descrever...",
+      "n": "HumanPromptText"
+    },
+    {
+      "t": "S",
+      "v": "Eu usaria a palavra engraçado para descrever...",
+      "n": "AlienPromptText4"
+    },
+    {
+      "t": "S",
+      "v": "Eu usaria a palavra irritante para descrever...",
+      "n": "AlienPromptText5"
+    },
+    {
+      "t": "S",
+      "v": "Eu usaria a palavra frágil para descrever...",
+      "n": "AlienPromptText6"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt0"
+    },
+    {
+      "t": "S",
+      "v": "Eu usaria a palavra horripilante para descrever...",
+      "n": "AlienPromptText7"
+    },
+    {
+      "t": "S",
+      "v": "Eu usaria a palavra requintado para descrever...",
+      "n": "AlienPromptText0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt1"
+    },
+    {
+      "t": "S",
+      "v": "Eu usaria a palavra frustrante para descrever......",
+      "n": "AlienPromptText1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt2"
+    },
+    {
+      "t": "S",
+      "v": "Eu usaria a palavra humilhante para descrever......",
+      "n": "AlienPromptText2"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt3"
+    },
+    {
+      "t": "S",
+      "v": "Eu usaria a palavra delicioso para descrever......",
+      "n": "AlienPromptText3"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt4"
+    },
+    {
+      "s": "Eu usaria a palavra encantador para descrever......",
+      "t": "A",
+      "v": "836645_1",
+      "n": "HumanPromptAudio"
+    }
+  ]
+}

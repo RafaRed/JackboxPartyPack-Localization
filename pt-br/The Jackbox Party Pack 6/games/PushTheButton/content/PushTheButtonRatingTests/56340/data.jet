@@ -1,1 +1,65 @@
-{"fields":[{"t":"N","v":"0","n":"AlienPromptDifficulty2"},{"t":"N","v":"0","n":"AlienPromptDifficulty1"},{"t":"N","v":"0","n":"AlienPromptDifficulty0"},{"t":"N","v":"0","n":"Difficulty"},{"t":"S","v":"false","n":"AlienPromptAdultt0"},{"t":"S","v":"Eu n\u00E3o tenho medo de chorar em p\u00FAblico.","n":"AlienPromptText0"},{"t":"S","v":"false","n":"AlienPromptAdultt1"},{"t":"S","v":"Eu encaixo as minhas emo\u00E7\u00F5es.","n":"AlienPromptText1"},{"t":"S","v":"false","n":"AlienPromptAdultt2"},{"t":"S","v":"Eu amo filmes rom\u00E2nticos.","n":"AlienPromptText2"},{"t":"S","v":"Eu choro em filmes tristes.","n":"HumanPromptText"},{"s":"Eu choro em filmes tristes.","t":"A","v":"805958_1","n":"HumanPromptAudio"}]}
+{
+  "fields": [
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty2"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty1"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty0"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt0"
+    },
+    {
+      "t": "S",
+      "v": "Eu não tenho medo de chorar em público.",
+      "n": "AlienPromptText0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt1"
+    },
+    {
+      "t": "S",
+      "v": "Eu guardo minhas emoções.",
+      "n": "AlienPromptText1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt2"
+    },
+    {
+      "t": "S",
+      "v": "Eu amo filmes românticos.",
+      "n": "AlienPromptText2"
+    },
+    {
+      "t": "S",
+      "v": "Eu choro em filmes tristes.",
+      "n": "HumanPromptText"
+    },
+    {
+      "s": "Eu choro em filmes tristes.",
+      "t": "A",
+      "v": "805958_1",
+      "n": "HumanPromptAudio"
+    }
+  ]
+}

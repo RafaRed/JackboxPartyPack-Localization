@@ -1,1 +1,65 @@
-{"fields":[{"t":"N","v":"0","n":"AlienPromptDifficulty2"},{"t":"N","v":"0","n":"AlienPromptDifficulty1"},{"t":"N","v":"0","n":"AlienPromptDifficulty0"},{"t":"N","v":"0","n":"Difficulty"},{"t":"S","v":"true","n":"AlienPromptAdultt0"},{"t":"S","v":"nudez p\u00FAblica","n":"AlienPromptText0"},{"t":"S","v":"true","n":"AlienPromptAdultt1"},{"t":"S","v":"lavagem de dinheiro","n":"AlienPromptText1"},{"t":"S","v":"true","n":"AlienPromptAdultt2"},{"t":"S","v":"Viola\u00E7\u00F5es de c\u00F3digo de sa\u00FAde.","n":"AlienPromptText2"},{"t":"S","v":"Sua cidade faz qualquer crime legal por uma noite.Voc\u00EA escolhe...","n":"HumanPromptText"},{"s":"Sua cidade faz qualquer crime legal por uma noite.Voc\u00EA escolhe...","t":"A","v":"832322_1","n":"HumanPromptAudio"}]}
+{
+  "fields": [
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty2"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty1"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty0"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "true",
+      "n": "AlienPromptAdultt0"
+    },
+    {
+      "t": "S",
+      "v": "nudez pública",
+      "n": "AlienPromptText0"
+    },
+    {
+      "t": "S",
+      "v": "true",
+      "n": "AlienPromptAdultt1"
+    },
+    {
+      "t": "S",
+      "v": "lavagem de dinheiro",
+      "n": "AlienPromptText1"
+    },
+    {
+      "t": "S",
+      "v": "true",
+      "n": "AlienPromptAdultt2"
+    },
+    {
+      "t": "S",
+      "v": "violações de código de saúde.",
+      "n": "AlienPromptText2"
+    },
+    {
+      "t": "S",
+      "v": "Sua cidade faz qualquer crime legal por uma noite. Você escolhe...",
+      "n": "HumanPromptText"
+    },
+    {
+      "s": "Sua cidade faz qualquer crime legal por uma noite. Você escolhe...",
+      "t": "A",
+      "v": "832322_1",
+      "n": "HumanPromptAudio"
+    }
+  ]
+}

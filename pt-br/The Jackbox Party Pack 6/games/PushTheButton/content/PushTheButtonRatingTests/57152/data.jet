@@ -1,1 +1,65 @@
-{"fields":[{"t":"N","v":"0","n":"AlienPromptDifficulty2"},{"t":"N","v":"0","n":"AlienPromptDifficulty1"},{"t":"N","v":"0","n":"AlienPromptDifficulty0"},{"t":"N","v":"0","n":"Difficulty"},{"t":"S","v":"false","n":"AlienPromptAdultt0"},{"t":"S","v":"Sobremesa \u00E9 a melhor parte de uma refei\u00E7\u00E3o.","n":"AlienPromptText0"},{"t":"S","v":"false","n":"AlienPromptAdultt1"},{"t":"S","v":"Doces s\u00E3o melhores que os salgados.","n":"AlienPromptText1"},{"t":"S","v":"false","n":"AlienPromptAdultt2"},{"t":"S","v":"Eu sou um pouco de um foodie.","n":"AlienPromptText2"},{"t":"S","v":"Torta \u00E9 muito melhor que o bolo.","n":"HumanPromptText"},{"s":"Torta \u00E9 muito melhor que o bolo.","t":"A","v":"822236_1","n":"HumanPromptAudio"}]}
+{
+  "fields": [
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty2"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty1"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty0"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt0"
+    },
+    {
+      "t": "S",
+      "v": "Sobremesa é a melhor parte de uma refeição.",
+      "n": "AlienPromptText0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt1"
+    },
+    {
+      "t": "S",
+      "v": "Doces são melhores que os salgados.",
+      "n": "AlienPromptText1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt2"
+    },
+    {
+      "t": "S",
+      "v": "Eu sou um pequeno apreciador de comidas.",
+      "n": "AlienPromptText2"
+    },
+    {
+      "t": "S",
+      "v": "Torta é muito melhor que bolo.",
+      "n": "HumanPromptText"
+    },
+    {
+      "s": "Torta é muito melhor que bolo.",
+      "t": "A",
+      "v": "822236_1",
+      "n": "HumanPromptAudio"
+    }
+  ]
+}

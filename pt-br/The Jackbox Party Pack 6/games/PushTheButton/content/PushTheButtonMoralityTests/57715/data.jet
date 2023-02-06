@@ -1,1 +1,65 @@
-{"fields":[{"t":"N","v":"0","n":"AlienPromptDifficulty2"},{"t":"N","v":"0","n":"AlienPromptDifficulty1"},{"t":"N","v":"0","n":"AlienPromptDifficulty0"},{"t":"N","v":"2","n":"Difficulty"},{"t":"S","v":"false","n":"AlienPromptAdultt0"},{"t":"S","v":"$1","n":"AlienPromptText0"},{"t":"S","v":"false","n":"AlienPromptAdultt1"},{"t":"S","v":"$50","n":"AlienPromptText1"},{"t":"S","v":"false","n":"AlienPromptAdultt2"},{"t":"S","v":"US $ 100.","n":"AlienPromptText2"},{"t":"S","v":"Uma venda de jardim tem um cart\u00E3o de beisebol no valor de US $ 50 marcados por US $ 1.Voc\u00EA tenta compr\u00E1-lo para ...","n":"HumanPromptText"},{"s":"Uma venda de jardim tem um cart\u00E3o de beisebol no valor de US $ 50 marcados por US $ 1.Voc\u00EA tenta compr\u00E1-lo para ...","t":"A","v":"835143_1","n":"HumanPromptAudio"}]}
+{
+  "fields": [
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty2"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty1"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty0"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt0"
+    },
+    {
+      "t": "S",
+      "v": "R$1",
+      "n": "AlienPromptText0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt1"
+    },
+    {
+      "t": "S",
+      "v": "R$50",
+      "n": "AlienPromptText1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt2"
+    },
+    {
+      "t": "S",
+      "v": "R$ 100.",
+      "n": "AlienPromptText2"
+    },
+    {
+      "t": "S",
+      "v": "Uma venda de jardim tem um cartão de beisebol no valor de R$ 50 marcados por R$ 1.Você tenta comprá-lo por ...",
+      "n": "HumanPromptText"
+    },
+    {
+        "s": "Uma venda de jardim tem um cartão de beisebol no valor de R$ 50 marcados por R$ 1.Você tenta comprá-lo por  ...",
+        "t": "A",
+        "v": "835143_1",
+        "n": "HumanPromptAudio"
+    }
+  ]
+}

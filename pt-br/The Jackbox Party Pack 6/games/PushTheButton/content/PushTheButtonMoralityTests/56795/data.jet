@@ -1,1 +1,65 @@
-{"fields":[{"t":"N","v":"1","n":"AlienPromptDifficulty2"},{"t":"N","v":"1","n":"AlienPromptDifficulty1"},{"t":"N","v":"1","n":"AlienPromptDifficulty0"},{"t":"N","v":"1","n":"Difficulty"},{"t":"S","v":"false","n":"AlienPromptAdultt0"},{"t":"S","v":"jogue isso fora","n":"AlienPromptText0"},{"t":"S","v":"false","n":"AlienPromptAdultt1"},{"t":"S","v":"vender no ebay","n":"AlienPromptText1"},{"t":"S","v":"false","n":"AlienPromptAdultt2"},{"t":"S","v":"mant\u00EA-la","n":"AlienPromptText2"},{"t":"S","v":"Voc\u00EA encontra sua jaqueta de ex em sua casa.\u00C9 muito caro, ent\u00E3o voc\u00EA deveria ...","n":"HumanPromptText"},{"s":"Voc\u00EA encontra sua jaqueta de ex em sua casa.\u00C9 muito caro, ent\u00E3o voc\u00EA deveria ...","t":"A","v":"814392_1","n":"HumanPromptAudio"}]}
+{
+  "fields": [
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty2"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty1"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty0"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt0"
+    },
+    {
+      "t": "S",
+      "v": "jogue isso fora",
+      "n": "AlienPromptText0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt1"
+    },
+    {
+      "t": "S",
+      "v": "vender no ebay",
+      "n": "AlienPromptText1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt2"
+    },
+    {
+      "t": "S",
+      "v": "ficar com ela",
+      "n": "AlienPromptText2"
+    },
+    {
+      "t": "S",
+      "v": "Você encontra a jaqueta da ex em sua casa. É muito cara, então você deveria ...",
+      "n": "HumanPromptText"
+    },
+    {
+      "s": "Você encontra a jaqueta da ex em sua casa. É muito cara, então você deveria ...",
+      "t": "A",
+      "v": "814392_1",
+      "n": "HumanPromptAudio"
+    }
+  ]
+}

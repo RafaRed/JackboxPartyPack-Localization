@@ -1,1 +1,155 @@
-{"fields":[{"t":"N","v":"1","n":"AlienPromptDifficulty5"},{"t":"N","v":"1","n":"AlienPromptDifficulty4"},{"t":"N","v":"1","n":"AlienPromptDifficulty3"},{"t":"N","v":"0","n":"AlienPromptDifficulty2"},{"t":"N","v":"0","n":"AlienPromptDifficulty1"},{"t":"N","v":"0","n":"AlienPromptDifficulty0"},{"t":"N","v":"0","n":"Difficulty"},{"t":"N","v":"2","n":"AlienPromptDifficulty8"},{"t":"N","v":"2","n":"AlienPromptDifficulty7"},{"t":"N","v":"2","n":"AlienPromptDifficulty6"},{"t":"S","v":"false","n":"AlienPromptAdultt5"},{"t":"S","v":"false","n":"AlienPromptAdultt6"},{"t":"S","v":"false","n":"AlienPromptAdultt7"},{"t":"S","v":"false","n":"AlienPromptAdultt8"},{"t":"S","v":"O periodo de tempo com a pior higiene foi provavelmente ...","n":"AlienPromptText8"},{"t":"S","v":"A melhor era para viajar pelo tempo para ser ...","n":"HumanPromptText"},{"t":"S","v":"O pior periodo de tempo para ficar preso seria ...","n":"AlienPromptText4"},{"t":"S","v":"O melhor periodo da minha vida foi ...","n":"AlienPromptText5"},{"t":"S","v":"O periodo de tempo mais perigoso para viajar para ser ...","n":"AlienPromptText6"},{"t":"S","v":"false","n":"AlienPromptAdultt0"},{"t":"S","v":"Meu ano favorito foi ...","n":"AlienPromptText7"},{"t":"S","v":"A dehcada nasci foi a ...","n":"AlienPromptText0"},{"t":"S","v":"false","n":"AlienPromptAdultt1"},{"t":"S","v":"A dehcada que provavelmente tinha o pior era ...","n":"AlienPromptText1"},{"t":"S","v":"false","n":"AlienPromptAdultt2"},{"t":"S","v":"O periodo de tempo com as roupas mais legais foi ...","n":"AlienPromptText2"},{"t":"S","v":"false","n":"AlienPromptAdultt3"},{"t":"S","v":"O periodo de tempo que eu conquistaria com a tecnologia eh ...","n":"AlienPromptText3"},{"t":"S","v":"false","n":"AlienPromptAdultt4"},{"s":"A melhor era para viajar pelo tempo para ser ...","t":"A","v":"805555_1","n":"HumanPromptAudio"}]}
+{
+  "fields": [
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty5"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty4"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty3"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty2"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty1"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty0"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "Difficulty"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty8"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty7"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty6"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt5"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt6"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt7"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt8"
+    },
+    {
+      "t": "S",
+      "v": "O periodo de tempo com a pior higiene foi provavelmente ...",
+      "n": "AlienPromptText8"
+    },
+    {
+      "t": "S",
+      "v": "A melhor era para se viajar pelo tempo para seria ...",
+      "n": "HumanPromptText"
+    },
+    {
+      "t": "S",
+      "v": "O pior periodo de tempo para ficar preso seria ...",
+      "n": "AlienPromptText4"
+    },
+    {
+      "t": "S",
+      "v": "O melhor periodo da minha vida foi ...",
+      "n": "AlienPromptText5"
+    },
+    {
+      "t": "S",
+      "v": "O periodo de tempo mais perigoso para se viajar para seria ...",
+      "n": "AlienPromptText6"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt0"
+    },
+    {
+      "t": "S",
+      "v": "Meu ano favorito foi ...",
+      "n": "AlienPromptText7"
+    },
+    {
+      "t": "S",
+      "v": "A década que nasci foi nos anos ...",
+      "n": "AlienPromptText0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt1"
+    },
+    {
+      "t": "S",
+      "v": "A pior década para se viver foi provavelmente nos anos ...",
+      "n": "AlienPromptText1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt2"
+    },
+    {
+      "t": "S",
+      "v": "O periodo de tempo com as roupas mais legais foi nos anos ...",
+      "n": "AlienPromptText2"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt3"
+    },
+    {
+      "t": "S",
+      "v": "O periodo de tempo que eu conquistaria com a tecnologia seria ...",
+      "n": "AlienPromptText3"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt4"
+    },
+    {
+      "s": "A melhor era para se viajar no tempo para seria ...",
+      "t": "A",
+      "v": "805555_1",
+      "n": "HumanPromptAudio"
+    }
+  ]
+}

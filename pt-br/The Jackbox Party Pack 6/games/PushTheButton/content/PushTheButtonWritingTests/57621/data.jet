@@ -1,1 +1,155 @@
-{"fields":[{"t":"N","v":"2","n":"AlienPromptDifficulty5"},{"t":"N","v":"2","n":"AlienPromptDifficulty4"},{"t":"N","v":"1","n":"AlienPromptDifficulty3"},{"t":"N","v":"1","n":"AlienPromptDifficulty2"},{"t":"N","v":"0","n":"AlienPromptDifficulty1"},{"t":"N","v":"0","n":"AlienPromptDifficulty0"},{"t":"N","v":"0","n":"Difficulty"},{"t":"N","v":"2","n":"AlienPromptDifficulty8"},{"t":"N","v":"1","n":"AlienPromptDifficulty7"},{"t":"N","v":"0","n":"AlienPromptDifficulty6"},{"t":"S","v":"false","n":"AlienPromptAdultt5"},{"t":"S","v":"false","n":"AlienPromptAdultt6"},{"t":"S","v":"false","n":"AlienPromptAdultt7"},{"t":"S","v":"false","n":"AlienPromptAdultt8"},{"t":"S","v":"Uma celebridade que nao pensei em um tempo eh ...","n":"AlienPromptText8"},{"t":"S","v":"O ator ou atriz que eu quero me jogar em um filme eh ...","n":"HumanPromptText"},{"t":"S","v":"Uma figura historica legal eh ...","n":"AlienPromptText4"},{"t":"S","v":"Meu personagem de desenho animado favorito eh ...","n":"AlienPromptText5"},{"t":"S","v":"A celebridade que me parece eh provavelmente ...","n":"AlienPromptText6"},{"t":"S","v":"false","n":"AlienPromptAdultt0"},{"t":"S","v":"Uma celebridade que estou cansada de ouvir eh ...","n":"AlienPromptText7"},{"t":"S","v":"Meu ator favorito ou atriz eh ...","n":"AlienPromptText0"},{"t":"S","v":"false","n":"AlienPromptAdultt1"},{"t":"S","v":"Uma celebridade superestimada eh ...","n":"AlienPromptText1"},{"t":"S","v":"false","n":"AlienPromptAdultt2"},{"t":"S","v":"Uma celebridade que acho atraente eh ...","n":"AlienPromptText2"},{"t":"S","v":"false","n":"AlienPromptAdultt3"},{"t":"S","v":"Uma pessoa famosa que eu gostaria de conhecer eh ...","n":"AlienPromptText3"},{"t":"S","v":"false","n":"AlienPromptAdultt4"},{"s":"O ator ou atriz que eu quero me jogar em um filme eh ...","t":"A","v":"833624_1","n":"HumanPromptAudio"}]}
+{
+  "fields": [
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty5"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty4"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty3"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty2"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty1"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty0"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "Difficulty"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty8"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty7"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty6"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt5"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt6"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt7"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt8"
+    },
+    {
+      "t": "S",
+      "v": "Uma celebridade que nao penso faz um tempo é ...",
+      "n": "AlienPromptText8"
+    },
+    {
+      "t": "S",
+      "v": "O ator ou atriz que eu quero que faça meu papel num filme é ...",
+      "n": "HumanPromptText"
+    },
+    {
+      "t": "S",
+      "v": "Uma figura historica legal é ...",
+      "n": "AlienPromptText4"
+    },
+    {
+      "t": "S",
+      "v": "Meu personagem de desenho animado favorito é ...",
+      "n": "AlienPromptText5"
+    },
+    {
+      "t": "S",
+      "v": "A celebridade que se parece comigo é provavelmente ...",
+      "n": "AlienPromptText6"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt0"
+    },
+    {
+        "t": "S",
+        "v": "Uma celebridade que estou cansado de ouvir falar sobre ...",
+        "n": "AlienPromptText7"
+    },
+    {
+        "t": "S",
+        "v": "Meu ator ou atriz favorito ...",
+        "n": "AlienPromptText0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt1"
+    },
+    {
+      "t": "S",
+      "v": "Uma celebridade superestimada é ...",
+      "n": "AlienPromptText1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt2"
+    },
+    {
+      "t": "S",
+      "v": "Uma celebridade que acho atraente é ...",
+      "n": "AlienPromptText2"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt3"
+    },
+    {
+      "t": "S",
+      "v": "Uma pessoa famosa que eu gostaria de conhecer é ...",
+      "n": "AlienPromptText3"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt4"
+    },
+    {
+      "s": "O ator ou atriz que eu quero que faça meu papel num filme é ...",
+      "t": "A",
+      "v": "833624_1",
+      "n": "HumanPromptAudio"
+    }
+  ]
+}

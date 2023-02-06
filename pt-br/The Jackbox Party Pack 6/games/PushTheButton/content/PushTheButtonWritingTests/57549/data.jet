@@ -1,1 +1,155 @@
-{"fields":[{"t":"N","v":"0","n":"AlienPromptDifficulty5"},{"t":"N","v":"0","n":"AlienPromptDifficulty4"},{"t":"N","v":"2","n":"AlienPromptDifficulty3"},{"t":"N","v":"2","n":"AlienPromptDifficulty2"},{"t":"N","v":"1","n":"AlienPromptDifficulty1"},{"t":"N","v":"0","n":"AlienPromptDifficulty0"},{"t":"N","v":"0","n":"Difficulty"},{"t":"N","v":"2","n":"AlienPromptDifficulty8"},{"t":"N","v":"1","n":"AlienPromptDifficulty7"},{"t":"N","v":"1","n":"AlienPromptDifficulty6"},{"t":"S","v":"false","n":"AlienPromptAdultt5"},{"t":"S","v":"false","n":"AlienPromptAdultt6"},{"t":"S","v":"false","n":"AlienPromptAdultt7"},{"t":"S","v":"false","n":"AlienPromptAdultt8"},{"t":"S","v":"Meu personagem de filme favorito passou a maior parte do filme fazendo isso ...","n":"AlienPromptText8"},{"t":"S","v":"Eu gostaria de ter mais tempo no dia para ...","n":"HumanPromptText"},{"t":"S","v":"Meu hobby favorito eh...","n":"AlienPromptText4"},{"t":"S","v":"Eu gosto de relaxar por ...","n":"AlienPromptText5"},{"t":"S","v":"Se eu ganhei na loteria, passei a maior parte do meu tempo ...","n":"AlienPromptText6"},{"t":"S","v":"false","n":"AlienPromptAdultt0"},{"t":"S","v":"Uma atividade que preciso voltar eh ...","n":"AlienPromptText7"},{"t":"S","v":"Eu gostaria de ter mais dinheiro para ...","n":"AlienPromptText0"},{"t":"S","v":"false","n":"AlienPromptAdultt1"},{"t":"S","v":"Eu gostaria de ter coragem para ...","n":"AlienPromptText1"},{"t":"S","v":"false","n":"AlienPromptAdultt2"},{"t":"S","v":"O hahbito mais irritante eh ...","n":"AlienPromptText2"},{"t":"S","v":"false","n":"AlienPromptAdultt3"},{"t":"S","v":"Algo que eu gosto de fazer quando estou sozinho eh ...","n":"AlienPromptText3"},{"t":"S","v":"false","n":"AlienPromptAdultt4"},{"s":"Eu gostaria de ter mais tempo no dia para ...","t":"A","v":"832642_1","n":"HumanPromptAudio"}]}
+{
+  "fields": [
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty5"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty4"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty3"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty2"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty1"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty0"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "Difficulty"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty8"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty7"
+    },
+    {
+      "t": "N",
+      "v": "1",
+      "n": "AlienPromptDifficulty6"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt5"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt6"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt7"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt8"
+    },
+    {
+      "t": "S",
+      "v": "Meu personagem de filme favorito passou a maior parte do filme fazendo isso ...",
+      "n": "AlienPromptText8"
+    },
+    {
+      "t": "S",
+      "v": "Eu gostaria de ter mais tempo no dia para fazer ...",
+      "n": "HumanPromptText"
+    },
+    {
+      "t": "S",
+      "v": "Meu hobby favorito é ...",
+      "n": "AlienPromptText4"
+    },
+    {
+      "t": "S",
+      "v": "Eu gosto de relaxar fazendo ...",
+      "n": "AlienPromptText5"
+    },
+    {
+      "t": "S",
+      "v": "Se eu ganhasse na loteria, passaria a maior parte do meu tempo fazendo ...",
+      "n": "AlienPromptText6"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt0"
+    },
+    {
+        "t": "S",
+        "v": "Uma atividade que preciso a fazer é ...",
+        "n": "AlienPromptText7"
+    },
+    {
+      "t": "S",
+      "v": "Eu gostaria de ter mais dinheiro para ...",
+      "n": "AlienPromptText0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt1"
+    },
+    {
+      "t": "S",
+      "v": "Eu gostaria de ter coragem para ...",
+      "n": "AlienPromptText1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt2"
+    },
+    {
+      "t": "S",
+      "v": "O hábito mais irritante é ...",
+      "n": "AlienPromptText2"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt3"
+    },
+    {
+      "t": "S",
+      "v": "Algo que eu gosto de fazer quando estou sozinho é ...",
+      "n": "AlienPromptText3"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt4"
+    },
+    {
+      "s": "Eu gostaria de ter mais tempo no dia para ...",
+      "t": "A",
+      "v": "832642_1",
+      "n": "HumanPromptAudio"
+    }
+  ]
+}

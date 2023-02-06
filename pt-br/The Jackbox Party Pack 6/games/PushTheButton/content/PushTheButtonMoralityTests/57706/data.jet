@@ -1,1 +1,65 @@
-{"fields":[{"t":"N","v":"0","n":"AlienPromptDifficulty2"},{"t":"N","v":"0","n":"AlienPromptDifficulty1"},{"t":"N","v":"0","n":"AlienPromptDifficulty0"},{"t":"N","v":"2","n":"Difficulty"},{"t":"S","v":"false","n":"AlienPromptAdultt0"},{"t":"S","v":"conte a todos","n":"AlienPromptText0"},{"t":"S","v":"false","n":"AlienPromptAdultt1"},{"t":"S","v":"persegui-los","n":"AlienPromptText1"},{"t":"S","v":"false","n":"AlienPromptAdultt2"},{"t":"S","v":"invadir sua casa","n":"AlienPromptText2"},{"t":"S","v":"Seu vizinho acidentalmente se tranca de sua casa em sua calcinha e pede ajuda.Voc\u00EA poderia...","n":"HumanPromptText"},{"s":"Seu vizinho acidentalmente se tranca de sua casa em sua calcinha e pede ajuda.Voc\u00EA poderia...","t":"A","v":"835035_1","n":"HumanPromptAudio"}]}
+{
+  "fields": [
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty2"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty1"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty0"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt0"
+    },
+    {
+      "t": "S",
+      "v": "conte a todos",
+      "n": "AlienPromptText0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt1"
+    },
+    {
+      "t": "S",
+      "v": "mande eles embora",
+      "n": "AlienPromptText1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt2"
+    },
+    {
+      "t": "S",
+      "v": "invadir a casa deles",
+      "n": "AlienPromptText2"
+    },
+    {
+        "t": "S",
+        "v": "Seu vizinho acidentalmente se tranca para fora de casa com roupas íntimas. Você poderia...",
+        "n": "HumanPromptText"
+    },
+    {
+      "s": "Seu vizinho acidentalmente se tranca para fora de casa com roupas íntimas. Você poderia...",
+      "t": "A",
+      "v": "835035_1",
+      "n": "HumanPromptAudio"
+    }
+  ]
+}

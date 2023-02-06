@@ -1,1 +1,65 @@
-{"fields":[{"t":"N","v":"2","n":"AlienPromptDifficulty2"},{"t":"N","v":"2","n":"AlienPromptDifficulty1"},{"t":"N","v":"2","n":"AlienPromptDifficulty0"},{"t":"N","v":"2","n":"Difficulty"},{"t":"S","v":"false","n":"AlienPromptAdultt0"},{"t":"S","v":"Deve haver um dia nacional de cachorro onde tiramos o dia para apreciar filhotes.","n":"AlienPromptText0"},{"t":"S","v":"false","n":"AlienPromptAdultt1"},{"t":"S","v":"Baseball would be more fun if the pitcher yelled u201cChoo choo!u201d when he threw a fastball.","n":"AlienPromptText1"},{"t":"S","v":"false","n":"AlienPromptAdultt2"},{"t":"S","v":"I know most the words to u201cAll Staru201d by Smash Mouth.","n":"AlienPromptText2"},{"t":"S","v":"Bacon \u00E9 terr\u00EDvel.","n":"HumanPromptText"},{"s":"Bacon \u00E9 terr\u00EDvel.","t":"A","v":"820107_1","n":"HumanPromptAudio"}]}
+{
+  "fields": [
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty2"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty1"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "AlienPromptDifficulty0"
+    },
+    {
+      "t": "N",
+      "v": "2",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt0"
+    },
+    {
+      "t": "S",
+      "v": "Deve haver um dia nacional de cachorro onde tiramos o dia para apreciar filhotes.",
+      "n": "AlienPromptText0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt1"
+    },
+    {
+      "t": "S",
+      "v": "Baseball seria mais divertido se toda vez que o arremassador lançasse uma bola rápida ele gritasse 'Choo-Choo!'.",
+      "n": "AlienPromptText1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt2"
+    },
+    {
+      "t": "S",
+      "v": "Eu conheço a letra da música 'All Star' de Smash Mouth.",
+      "n": "AlienPromptText2"
+    },
+    {
+      "t": "S",
+      "v": "Bacon é terrível.",
+      "n": "HumanPromptText"
+    },
+    {
+      "s": "Bacon é terrível.",
+      "t": "A",
+      "v": "820107_1",
+      "n": "HumanPromptAudio"
+    }
+  ]
+}

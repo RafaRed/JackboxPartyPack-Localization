@@ -1,1 +1,65 @@
-{"fields":[{"t":"N","v":"0","n":"AlienPromptDifficulty2"},{"t":"N","v":"0","n":"AlienPromptDifficulty1"},{"t":"N","v":"0","n":"AlienPromptDifficulty0"},{"t":"N","v":"0","n":"Difficulty"},{"t":"S","v":"false","n":"AlienPromptAdultt0"},{"t":"S","v":"Keanu Reeves.","n":"AlienPromptText0"},{"t":"S","v":"false","n":"AlienPromptAdultt1"},{"t":"S","v":"Beyonc\u00E9","n":"AlienPromptText1"},{"t":"S","v":"false","n":"AlienPromptAdultt2"},{"t":"S","v":"Dwayne u201cThe Rocku201d Johnson","n":"AlienPromptText2"},{"t":"S","v":"Alien invaders land but will let one person convince them not to conquer Earth. The right choice is...","n":"HumanPromptText"},{"s":"Alien invaders land but will let one person convince them not to conquer Earth. The right choice is...","t":"A","v":"823579_1","n":"HumanPromptAudio"}]}
+{
+  "fields": [
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty2"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty1"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "AlienPromptDifficulty0"
+    },
+    {
+      "t": "N",
+      "v": "0",
+      "n": "Difficulty"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt0"
+    },
+    {
+      "t": "S",
+      "v": "Keanu Reeves.",
+      "n": "AlienPromptText0"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt1"
+    },
+    {
+      "t": "S",
+      "v": "Beyoncé",
+      "n": "AlienPromptText1"
+    },
+    {
+      "t": "S",
+      "v": "false",
+      "n": "AlienPromptAdultt2"
+    },
+    {
+      "t": "S",
+      "v": "Dwayne 'The Rock' Johnson",
+      "n": "AlienPromptText2"
+    },
+    {
+        "t": "S",
+        "v": "Aliens invadem a terra porém eles deixarão uma pessoa convencê-los a não conquistar a terra. a pessoa certa é...",
+        "n": "HumanPromptText"
+    },
+    {
+      "s": "Aliens invadem a terra porém eles deixarão uma pessoa convencê-los a não conquistar a terra. a pessoa certa é...",
+      "t": "A",
+      "v": "823579_1",
+      "n": "HumanPromptAudio"
+    }
+  ]
+}
