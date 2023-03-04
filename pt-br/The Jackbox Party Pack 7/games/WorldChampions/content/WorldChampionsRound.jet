@@ -28,8 +28,8 @@
    "x": true
   },
   {
-   "contest": "O Campeão de Ser Ruim",
-   "gameText": "Sucking",
+   "contest": "O Campeão de Ser Uma Merda",
+   "gameText": "Ser Uma Merda",
    "id": "68691",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -37,8 +37,8 @@
    "x": true
   },
   {
-   "contest": "O Campeão do Legal",
-   "gameText": "Legal",
+   "contest": "O Campeão dos Descolados",
+   "gameText": "Descolados",
    "id": "68692",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -55,8 +55,8 @@
    "x": true
   },
   {
-   "contest": "O Campeão de Atrevidos",
-   "gameText": "Sass",
+   "contest": "O Campeão do Atrevimento",
+   "gameText": "Atrevimento",
    "id": "68697",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -64,12 +64,12 @@
    "x": false
   },
   {
-   "contest": "O Campeão do Centro-Leste",
-   "gameText": "o Centro-Leste",
+   "contest": "O Campeão da Região Centro-Oeste",
+   "gameText": "Região Centro-Oeste",
    "id": "68699",
    "includesPlayerName": false,
    "linkedPrompts": [],
-   "us": true,
+   "us": false,
    "x": false
   },
   {
@@ -82,8 +82,8 @@
    "x": false
   },
   {
-   "contest": "O Campeão dos Burrinhos ",
-   "gameText": "Burrinhos ",
+   "contest": "O Campeão dos Bobos ",
+   "gameText": "Bobos ",
    "id": "68703",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -100,8 +100,8 @@
    "x": false
   },
   {
-   "contest": "O Campeão da Vergonha ",
-   "gameText": "Vergonha ",
+   "contest": "O Campeão da Timidez ",
+   "gameText": "Timidez ",
    "id": "68706",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -127,8 +127,8 @@
    "x": false
   },
   {
-   "contest": "O Campeão de Fazer uma Cena ",
-   "gameText": "Fazer uma Cena ",
+   "contest": "O Campeão de Fazer Pirraça ",
+   "gameText": "Fazer Pirraça ",
    "id": "68723",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -136,8 +136,8 @@
    "x": false
   },
   {
-   "contest": "O Campeão dos Subúrbios",
-   "gameText": "os Subúrbios",
+   "contest": "O Campeão da Periferia",
+   "gameText": "da Periferia",
    "id": "68726",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -154,8 +154,8 @@
    "x": true
   },
   {
-   "contest": "O Campeão dos Gostosões",
-   "gameText": "Gostosões",
+   "contest": "O Campeão do Sexy",
+   "gameText": "Sexy",
    "id": "68730",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -164,7 +164,7 @@
   },
   {
    "contest": "O Campeão do Ensino Médio",
-   "gameText": "High School ",
+   "gameText": "Ensino Médio ",
    "id": "68735",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -181,8 +181,8 @@
    "x": false
   },
   {
-   "contest": "O Campeão da Derrota",
-   "gameText": "Failure",
+   "contest": "O Campeão do Fracasso",
+   "gameText": "Fracasso",
    "id": "68751",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -199,8 +199,8 @@
    "x": true
   },
   {
-   "contest": "O Campeão de Ser Sujo",
-   "gameText": "Ser Sujo",
+   "contest": "O Campeão de Ser Trapaceiro",
+   "gameText": "Ser Trapaceiro",
    "id": "68771",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -244,8 +244,8 @@
    "x": false
   },
   {
-   "contest": "O Campeão da Noite de Sexta",
-   "gameText": "Noite de Sexta ",
+   "contest": "O Campeão do Sextou",
+   "gameText": "Sextou ",
    "id": "68780",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -334,8 +334,8 @@
    "x": false
   },
   {
-   "contest": "O Campeão dos Garanhões",
-   "gameText": "Garanhão",
+   "contest": "O Campeão dos Gostosões",
+   "gameText": "Gostosões",
    "id": "69260",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -352,8 +352,8 @@
    "x": false
   },
   {
-   "contest": "O Campeão de Não Estar Nem Aí",
-   "gameText": "Não Estar Nem Aí",
+   "contest": "O Campeão de Ligar o Fodasse",
+   "gameText": "Ligar o Fodasse",
    "id": "69278",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -361,8 +361,8 @@
    "x": true
   },
   {
-   "contest": "O Campeão dos Bros",
-   "gameText": "Bros",
+   "contest": "O Campeão dos Irmãos",
+   "gameText": "Irmãos",
    "id": "69279",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -370,8 +370,8 @@
    "x": false
   },
   {
-   "contest": "O Campeão do Decepcionante",
-   "gameText": "Decepcionante",
+   "contest": "O Campeão da Decepção",
+   "gameText": "Decepção",
    "id": "69289",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -388,8 +388,8 @@
    "x": false
   },
   {
-   "contest": "O Campeão do Cheiro",
-   "gameText": "Cheiro",
+   "contest": "O Campeão do Cheirinho",
+   "gameText": "Cheirinho",
    "id": "69299",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -415,8 +415,8 @@
    "x": false
   },
   {
-   "contest": "O Campeão do Aprimoramento",
-   "gameText": "Aprimoramento",
+   "contest": "O Campeão de Grindar",
+   "gameText": "Grindar",
    "id": "69348",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -452,7 +452,7 @@
   },
   {
    "contest": "O Campeão de Perder",
-   "gameText": "Losing",
+   "gameText": "Perder",
    "id": "69482",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -487,8 +487,8 @@
    "x": false
   },
   {
-   "contest": "O Campeão de Coisas Quentes ",
-   "gameText": "Coisas Quentes ",
+   "contest": "O Campeão da Desorganização ",
+   "gameText": "Desorganização ",
    "id": "69522",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -496,8 +496,8 @@
    "x": true
   },
   {
-   "contest": "O Campeão do Cafuné",
-   "gameText": "Cafuné",
+   "contest": "O Campeão da Conchinha",
+   "gameText": "Conchinha",
    "id": "69531",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -505,8 +505,8 @@
    "x": false
   },
   {
-   "contest": "O Campeão dos Sonhos Surreais",
-   "gameText": "Sonhos Surreais",
+   "contest": "O Campeão dos Sonhos Bizzaros",
+   "gameText": "Sonhos Bizzaros",
    "id": "69780",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -550,8 +550,8 @@
    "x": false
   },
   {
-   "contest": "O Campeão do Trabalhando e Relaxando'",
-   "gameText": "Relaxando",
+   "contest": "O Campeão do Trabalhando e Relaxando",
+   "gameText": "Trabalhando e Relaxando",
    "id": "69961",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -568,8 +568,8 @@
    "x": true
   },
   {
-   "contest": "O Campeão do Jaccuzi",
-   "gameText": "o Jacuzzi",
+   "contest": "O Campeão da Jaccuzi",
+   "gameText": "Jacuzzi",
    "id": "69990",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -577,8 +577,8 @@
    "x": false
   },
   {
-   "contest": "O Campeão de Ser Safado",
-   "gameText": "Being Naughty",
+   "contest": "O Campeão dos Danados",
+   "gameText": "Danados",
    "id": "70042",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -586,8 +586,8 @@
    "x": true
   },
   {
-   "contest": "O Campeão do Flerte na Amizade",
-   "gameText": "Flerte na Amizade",
+   "contest": "O Campeão do Flerte na Brincadeira",
+   "gameText": "Flerte na Brincadeira",
    "id": "70054",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -595,8 +595,8 @@
    "x": true
   },
   {
-   "contest": "O Campeão de Fazer. Isso. Funcionar.",
-   "gameText": "Fazer. Isso. Funcionar.",
+   "contest": "O Campeão de Fazer Funcionar",
+   "gameText": "Fazer Funcionar",
    "id": "70095",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -631,8 +631,8 @@
    "x": false
   },
   {
-   "contest": "O Campeão da Beleza Perpétua",
-   "gameText": "Beleza Perpétua",
+   "contest": "O Campeão da Beleza Eterna",
+   "gameText": "Beleza Eterna",
    "id": "70110",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -640,8 +640,8 @@
    "x": false
   },
   {
-   "contest": "O Campeão das Segundas",
-   "gameText": "Segundas",
+   "contest": "O Campeão das Segundas-Feiras",
+   "gameText": "Segundas-Feiras",
    "id": "70114",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -649,8 +649,8 @@
    "x": false
   },
   {
-   "contest": "O Campeão de Ser Saco Cheio",
-   "gameText": "Saco Cheio",
+   "contest": "O Campeão de Encher o Saco",
+   "gameText": "Encher o Saco",
    "id": "70116",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -658,8 +658,8 @@
    "x": false
   },
   {
-   "contest": "O Campeão do Grandão e Chefão",
-   "gameText": "Grandão e Chefão",
+   "contest": "O Campeão dos Patrões",
+   "gameText": "Patrões",
    "id": "70126",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -676,8 +676,8 @@
    "x": false
   },
   {
-   "contest": "O Campeão do Foi Sem Querer",
-   "gameText": "Foi Sem Querer",
+   "contest": "O Campeão do Ops",
+   "gameText": "Ops",
    "id": "70135",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -685,7 +685,7 @@
    "x": false
   },
   {
-   "contest": "O Campeão da Via Após a Morte",
+   "contest": "O Campeão da Vida Após a Morte",
    "gameText": "Vida Após a Morte",
    "id": "70175",
    "includesPlayerName": false,
@@ -694,8 +694,8 @@
    "x": true
   },
   {
-   "contest": "O Campeão do Modo Besta",
-   "gameText": "Modo Besta",
+   "contest": "O Campeão da Competitividade",
+   "gameText": "Competitivadade",
    "id": "70181",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -703,8 +703,8 @@
    "x": false
   },
   {
-   "contest": "O Campeão da Confiança Inexistente",
-   "gameText": "Confiança Inexistente",
+   "contest": "O Campeão da Confiança Não Conquistada",
+   "gameText": "Confiança Não Conquistada",
    "id": "70198",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -712,8 +712,8 @@
    "x": true
   },
   {
-   "contest": "O Campeão do Oceano Profundo",
-   "gameText": "Oceano Profundo",
+   "contest": "O Campeão do Mar Profundo",
+   "gameText": "Mar Profundo",
    "id": "70225",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -832,8 +832,8 @@
    "x": false
   },
   {
-   "contest": "O Campeão dos Fedorentos",
-   "gameText": "O Campeão dos Fedorentos",
+   "contest": "O Campeão do CC",
+   "gameText": "CC",
    "id": "70304",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -841,8 +841,8 @@
    "x": false
   },
   {
-   "contest": "O Campeão da Sabedoria",
-   "gameText": "Sabedoria",
+   "contest": "O Campeão da Sabedoria Verdadeira",
+   "gameText": "Sabedoria Verdadeira",
    "id": "70305",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -904,8 +904,8 @@
    "x": false
   },
   {
-   "contest": "O Campeão de Estar Passando por Alguma Coisa",
-   "gameText": "Passando por Alguma Coisa",
+   "contest": "O Campeão de Estar Passando por Uma Situação",
+   "gameText": "Estar Passando por Uma Situação",
    "id": "70458",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -922,8 +922,8 @@
    "x": true
   },
   {
-   "contest": "O Campeão da Caixa de Pechincha ",
-   "gameText": "a Caixa de Pechincha",
+   "contest": "O Campeão dos Muquiranas ",
+   "gameText": "Muquiranas",
    "id": "70483",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -931,8 +931,8 @@
    "x": false
   },
   {
-   "contest": "O Campeão do Ex-Tremo ",
-   "gameText": "Ex-Tremo",
+   "contest": "O Campeão do Extremo ",
+   "gameText": "Extremo",
    "id": "70488",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -967,8 +967,8 @@
    "x": false
   },
   {
-   "contest": "O Campeão das Pestes Irritantes",
-   "gameText": "Pestes Irritantes",
+   "contest": "O Campeão dos Pirralhos Irritantes",
+   "gameText": "Pirralhos Irritantes",
    "id": "70512",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -1012,8 +1012,8 @@
    "x": false
   },
   {
-   "contest": "O Campeão da Algazarra",
-   "gameText": "Algazarra",
+   "contest": "O Campeão da Farra",
+   "gameText": "Farra",
    "id": "70566",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -1021,8 +1021,8 @@
    "x": false
   },
   {
-   "contest": "O Campeão dos Sabores Intensos",
-   "gameText": "Sabores Intensos",
+   "contest": "O Campeão da Explosão de Sabor",
+   "gameText": "Explosão de Sabor",
    "id": "70570",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -1040,7 +1040,7 @@
   },
   {
    "contest": "O Campeão do Futuro",
-   "gameText": "o Futuro",
+   "gameText": "O Futuro",
    "id": "70638",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -1066,8 +1066,8 @@
    "x": false
   },
   {
-   "contest": "O Campeão do Embaraço",
-   "gameText": "Embaraço",
+   "contest": "O Campeão do Constrangimento",
+   "gameText": "Constrangimento",
    "id": "70693",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -1084,8 +1084,8 @@
    "x": false
   },
   {
-   "contest": "O Campeão do Emocionante",
-   "gameText": "Emocionante",
+   "contest": "O Campeão dos Hiperativos",
+   "gameText": "Hiperativos",
    "id": "70833",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -1138,8 +1138,8 @@
    "x": false
   },
   {
-   "contest": "O Campeão de Procurar Atenção",
-   "gameText": "Procurar Atenção",
+   "contest": "O Campeão da Carência",
+   "gameText": "Carência",
    "id": "70859",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -1273,8 +1273,8 @@
    "x": false
   },
   {
-   "contest": "O Campeão da Administração Média",
-   "gameText": "Administração Média",
+   "contest": "O Campeão dos Gerentes",
+   "gameText": "Gerentes",
    "id": "71155",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -1300,8 +1300,8 @@
    "x": true
   },
   {
-   "contest": "O Campeão de Cansar os Outros",
-   "gameText": "Cansar Os Outros ",
+   "contest": "O Campeão de Ser Insuportável",
+   "gameText": "Ser Insuportável ",
    "id": "71190",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -1309,8 +1309,8 @@
    "x": false
   },
   {
-   "contest": "O Campeão de Não Ter Erros",
-   "gameText": "Não Ter Erros",
+   "contest": "O Campeão de Ser Perfeito",
+   "gameText": "Ser Perfeito",
    "id": "71198",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -1327,7 +1327,7 @@
    "x": false
   },
   {
-   "contest": "O Campeão da Dark Web",
+   "contest": "O Campeão da Deep Web",
    "gameText": "Dark Web",
    "id": "71200",
    "includesPlayerName": false,
@@ -1345,8 +1345,8 @@
    "x": false
   },
   {
-   "contest": "O Campeão de Colocar Pra Dormir",
-   "gameText": "Colocar Pra Dormir",
+   "contest": "O Campeão de Colocar Você Pra Dormir",
+   "gameText": "Colocar Você Pra Dormir",
    "id": "71204",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -1354,8 +1354,8 @@
    "x": false
   },
   {
-   "contest": "O Campeão de Estar Depois do Auge",
-   "gameText": "Depois Do Auge",
+   "contest": "O Campeão de Não Estar no Auge",
+   "gameText": "Não Estar no Auge",
    "id": "71209",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -1372,8 +1372,8 @@
    "x": true
   },
   {
-   "contest": "O Campeão do Me Elogie",
-   "gameText": "Me Elogie",
+   "contest": "O Campeão do Viva a Estética",
+   "gameText": "Viva a Estética",
    "id": "71213",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -1399,8 +1399,8 @@
    "x": false
   },
   {
-   "contest": "O Campeão dos Barulhentos Demais",
-   "gameText": "Barulhentos Demais",
+   "contest": "O Campeão das Reclamações de Barulho",
+   "gameText": "Reclamações de Barulho",
    "id": "71222",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -1408,8 +1408,8 @@
    "x": false
   },
   {
-   "contest": "O Campeão do Vivendo Fora da Caixa",
-   "gameText": "Vivendo Fora da Caixa",
+   "contest": "O Campeão de Viver No Meio do Mato",
+   "gameText": "Viver No Meio do Mato",
    "id": "71260",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -1426,8 +1426,8 @@
    "x": true
   },
   {
-   "contest": "O Campeão de Descobrir Que Era Bonito O Tempo Todo",
-   "gameText": "Descobrir Que Era Bonito O Tempo Todo",
+   "contest": "O Campeão de Descobrir Que Sempre Foi Bonito",
+   "gameText": "Descobrir Que Sempre Foi Bonito",
    "id": "71264",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -1453,8 +1453,8 @@
    "x": false
   },
   {
-   "contest": "O Campeão dos Problemas Com a Mãe",
-   "gameText": "Problemas Com a Mãe",
+   "contest": "O Campeão dos Problemas Com a Mamãe",
+   "gameText": "Problemas Com a Mamãe",
    "id": "71274",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -1471,8 +1471,8 @@
    "x": false
   },
   {
-   "contest": "O Campeão das Contravenções",
-   "gameText": "Contravenções",
+   "contest": "O Campeão dos Pequenos Crimes",
+   "gameText": "Pequenos Crimes",
    "id": "71286",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -1489,8 +1489,8 @@
    "x": false
   },
   {
-   "contest": "O Campeão das Pessoas Que Gostam de Cães",
-   "gameText": "Pessoas Que Gostam de Cães",
+   "contest": "O Campeão dos Que Gostam de Cães",
+   "gameText": "Gosta de Cães",
    "id": "71297",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -1498,8 +1498,8 @@
    "x": false
   },
   {
-   "contest": "O Campeão da Sugestão",
-   "gameText": "Sugestão",
+   "contest": "O Campeão das Indiretas",
+   "gameText": "Indiretas",
    "id": "71335",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -1516,8 +1516,8 @@
    "x": false
   },
   {
-   "contest": "O Campeão do Bom Amor",
-   "gameText": "Bom Amor",
+   "contest": "O Campeão do Bom Amante",
+   "gameText": "Bom Amante",
    "id": "71476",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -1526,7 +1526,7 @@
   },
   {
    "contest": "O Campeão de Ser #Abençoado",
-   "gameText": "Ser Abençoado",
+   "gameText": "Ser #Abençoado",
    "id": "71511",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -1534,8 +1534,8 @@
    "x": false
   },
   {
-   "contest": "O Campeão dos Moradores de Esgoto",
-   "gameText": "Moradores de Esgoto",
+   "contest": "O Campeão de Morar Debaixo da Ponte",
+   "gameText": "Morar Debaixo da Ponte",
    "id": "71512",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -1561,8 +1561,8 @@
    "x": false
   },
   {
-   "contest": "O Campeão da Vida Limpa",
-   "gameText": "Vida Limpa",
+   "contest": "O Campeão da Vida Saudável",
+   "gameText": "Vida Saudável",
    "id": "71577",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -1579,8 +1579,8 @@
    "x": false
   },
   {
-   "contest": "O Campeão de Fazer Encrenca",
-   "gameText": "Fazer Encrenca",
+   "contest": "O Campeão de Causar Problemas",
+   "gameText": "Causar Problemas",
    "id": "71596",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -1597,8 +1597,8 @@
    "x": false
   },
   {
-   "contest": "O Campeão de Ir Além do Limite",
-   "gameText": "Ir Além do Limite",
+   "contest": "O Campeão de Desafiar os Limites",
+   "gameText": "Desafiar os Limites",
    "id": "71625",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -1606,8 +1606,8 @@
    "x": true
   },
   {
-   "contest": "O Campeão dos Maneiros",
-   "gameText": "Maneiros",
+   "contest": "O Campeão do Dinheiro Vivo",
+   "gameText": "Dinheiro Vivo",
    "id": "71626",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -1633,8 +1633,8 @@
    "x": true
   },
   {
-   "contest": "O Campeão de Dar o Fora",
-   "gameText": "Dar o Fora",
+   "contest": "O Campeão da Curtição",
+   "gameText": "Curtição",
    "id": "71655",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -1651,8 +1651,8 @@
    "x": true
   },
   {
-   "contest": "O Campeão dos Senhorios",
-   "gameText": "Senhorios",
+   "contest": "O Campeão dos Proprietários",
+   "gameText": "Proprietários",
    "id": "71728",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -1660,8 +1660,8 @@
    "x": true
   },
   {
-   "contest": "O Campeão do Espaçamento",
-   "gameText": "Espaçamento",
+   "contest": "O Campeão do Comendo Mosca",
+   "gameText": "Comendo Mosca",
    "id": "71731",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -1678,12 +1678,12 @@
    "x": true
   },
   {
-   "contest": "O Campeão do Nada A Ver",
-   "gameText": "Nada A Ver",
+   "contest": "O Campeão do Etsy",
+   "gameText": "Etsy",
    "id": "71759",
    "includesPlayerName": false,
    "linkedPrompts": [],
-   "us": false,
+   "us": true,
    "x": true
   },
   {
@@ -1714,8 +1714,8 @@
    "x": true
   },
   {
-   "contest": "O Campeão de Ser Vagabundo",
-   "gameText": "Vagabundo",
+   "contest": "O Campeão dos Esquisitos",
+   "gameText": "Esquisitos",
    "id": "74364",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -1723,8 +1723,8 @@
    "x": true
   },
   {
-   "contest": "O Campeão do Canada ",
-   "gameText": "Canada ",
+   "contest": "O Campeão do Canadá ",
+   "gameText": "Canadá ",
    "id": "74745",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -1804,8 +1804,8 @@
    "x": false
   },
   {
-   "contest": "O Campeão do Filho Secreto de <ANYPLAYER>",
-   "gameText": "Filho Secreto de <ANYPLAYER>",
+   "contest": "O Campeão do Filho Não Assumido de <ANYPLAYER>",
+   "gameText": "Filho Não Assumido de <ANYPLAYER>",
    "id": "74794",
    "includesPlayerName": true,
    "linkedPrompts": [],
@@ -1822,8 +1822,8 @@
    "x": false
   },
   {
-   "contest": "O Campeão de <ANYPLAYER> de Um Universo Paralelo",
-   "gameText": "<ANYPLAYER> de Um Universo Paralelo ",
+   "contest": "O Campeão de <ANYPLAYER> em Um Universo Paralelo",
+   "gameText": "<ANYPLAYER> em Um Universo Paralelo ",
    "id": "74797",
    "includesPlayerName": true,
    "linkedPrompts": [],
@@ -1840,8 +1840,8 @@
    "x": false
   },
   {
-   "contest": "O Campeão de ",
-   "gameText": "<ANYPLAYER> Em 20 Anos",
+   "contest": "O Campeão de <ANYPLAYER> Daqui 20 Anos",
+   "gameText": "<ANYPLAYER> Daqui 20 Anos",
    "id": "74803",
    "includesPlayerName": true,
    "linkedPrompts": [],
@@ -1849,7 +1849,7 @@
    "x": false
   },
   {
-   "contest": "O Campeão da ",
+   "contest": "O Campeão da Obsessão Estranha de <ANYPLAYER>",
    "gameText": "Obsessão Estranha de <ANYPLAYER>",
    "id": "74804",
    "includesPlayerName": true,
@@ -1868,7 +1868,7 @@
   },
   {
    "contest": "O Campeão do Fã Clube de <ANYPLAYER>",
-   "gameText": " Fã Clube de <ANYPLAYER>",
+   "gameText": "Fã Clube de <ANYPLAYER>",
    "id": "74814",
    "includesPlayerName": true,
    "linkedPrompts": [],
@@ -1876,8 +1876,8 @@
    "x": false
   },
   {
-   "contest": "O Campeão de Assustar <ANYPLAYER>",
-   "gameText": "Assustar <ANYPLAYER>",
+   "contest": "O Campeão de Aterrorizar <ANYPLAYER>",
+   "gameText": "Aterrorizar <ANYPLAYER>",
    "id": "74817",
    "includesPlayerName": true,
    "linkedPrompts": [],
@@ -1903,8 +1903,8 @@
    "x": false
   },
   {
-   "contest": "O Campeão do Maneeeeeeeiro ",
-   "gameText": "maneeeeeeeiro ",
+   "contest": "O Campeão do Poooora ",
+   "gameText": "Poooora ",
    "id": "74844",
    "includesPlayerName": false,
    "linkedPrompts": [],
@@ -1939,8 +1939,8 @@
    "x": true
   },
   {
-   "contest": "O Campeão de Ser O Parente Perdido de <ANYPLAYER>",
-   "gameText": "Ser O Parente Perdido de <ANYPLAYER>",
+   "contest": "O Campeão de Ser O Irmão Perdido de <ANYPLAYER>",
+   "gameText": "Ser O Irmão Perdido de <ANYPLAYER>",
    "id": "74872",
    "includesPlayerName": true,
    "linkedPrompts": [],
@@ -2020,8 +2020,8 @@
    "x": false
   },
   {
-   "contest": "O Campeão dos Enterros ",
-   "gameText": "Enterros",
+   "contest": "O Campeão das Enterradas ",
+   "gameText": "Enterradas",
    "id": "74966",
    "includesPlayerName": false,
    "linkedPrompts": [],
