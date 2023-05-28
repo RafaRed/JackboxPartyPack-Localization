@@ -1,8 +1,18 @@
 # Jackbox Party Pack - Tradução português - pt_br
 
-O objetivo inicial do projeto não é traduzir todo jogo, estarei começando pelos modulos que considero principais e essenciais.
-
+O objetivo inicial do projeto não é traduzir todo jogo, estamos começando pelos modulos que considero principais e essenciais.
 ( Alguns arquivos menores e arquivos de som não foram adicionados, caso necessario estarei adicionando )
+
+# Guia para colaboração:
+[Link do guia](https://github.com/RafaRed/JackboxPartyPack-Localization/tree/main/pt-br/guia%20de%20tradu%C3%A7%C3%A3o)  
+Em caso de duvidas [crie um Issue](https://github.com/RafaRed/JackboxPartyPack-Localization/issues/new)
+
+# instalação
+- Faça o [download do projeto](https://github.com/RafaRed/JackboxPartyPack-Localization/archive/refs/heads/main.zip)  
+- Acesse a pasta pt-br
+- Acesse a pasta do jogo que você deseja traduzir.
+- Copie e substitua os arquivos originais, pelos arquivos da tradução.  
+Os arquivos originais devem estar na pasta ["C:\Program Files (x86)\steam\SteamLibrary\steamapps\common"](https://savelocation.net/steam-library-folder)
 
 # Progresso:
 
@@ -10,7 +20,7 @@ O objetivo inicial do projeto não é traduzir todo jogo, estarei começando pel
 - [x] Tradução automática em pt-br por @monty-liam
 - [ ] Verificar arquivos que ainda não foram adicionados ao projeto para realização da tradução.
 - [ ] Entender qual a melhor forma de traduzir os arquivos que estão separados em diversas pastas.
-- [ ] Guia de instalação para as traduções no  readme.
+- [x] Guia de instalação para as traduções no readme.
 
 # O que estamos precisando:
 - [ ] Revisão e adaptação brasileira para arquivos traduzidos de forma automática.
