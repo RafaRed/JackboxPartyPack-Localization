@@ -1,7 +1,7 @@
 # Jackbox Party Pack - Tradução português - pt_br
 
-O objetivo inicial do projeto não é traduzir todo jogo, estamos começando pelos modulos que considero principais e essenciais.
-( Alguns arquivos menores e arquivos de som não foram adicionados, caso necessario estarei adicionando )
+O objetivo inicial do projeto não é traduzir todo jogo, estamos começando pelos modulos que considero principais e essenciais.  
+( Alguns arquivos menores e arquivos de som não foram adicionados, caso necessario estarei adicionando )  
 
 # Guia para colaboração:
 [Link do guia](https://github.com/RafaRed/JackboxPartyPack-Localization/tree/main/pt-br/guia%20de%20tradu%C3%A7%C3%A3o)  
