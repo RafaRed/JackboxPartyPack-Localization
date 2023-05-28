@@ -3,7 +3,7 @@
 O objetivo inicial do projeto não é traduzir todo jogo, estamos começando pelos modulos que considero principais e essenciais.  
 ( Alguns arquivos menores e arquivos de som não foram adicionados, caso necessario estarei adicionando )  
 
-# Guia para colaboração:
+# Guia para colaboração
 [Link do guia](https://github.com/RafaRed/JackboxPartyPack-Localization/tree/main/pt-br/guia%20de%20tradu%C3%A7%C3%A3o)  
 Em caso de duvidas [crie um Issue](https://github.com/RafaRed/JackboxPartyPack-Localization/issues/new)
 
@@ -14,7 +14,7 @@ Em caso de duvidas [crie um Issue](https://github.com/RafaRed/JackboxPartyPack-L
 - Copie e substitua os arquivos originais, pelos arquivos da tradução.  
 Os arquivos originais devem estar na pasta ["C:\Program Files (x86)\steam\SteamLibrary\steamapps\common"](https://savelocation.net/steam-library-folder)
 
-# Progresso:
+# Progresso
 
 - [x] Adicionar arquivos de todos os jogos para tradução.
 - [x] Tradução automática em pt-br por @monty-liam
