@@ -3,32 +3,32 @@
    "content": [
       {
          "id": 0,
-         "type": "Mãos",
+         "type": "Hands",
          "name": "Mãos da verdade",
          "duration": 3
       },
       {
          "id": 1,
-         "type": "Apontando",
+         "type": "Pointing",
          "name": "Você tem que apontar",
          "duration": 3
       },
       {
          "id": 2,
-         "type": "Rostos",
-         "name": "Valor nominal",
+         "type": "Faces",
+         "name": "Caras e Bocas",
          "duration": 3
       },
       {
          "id": 3,
-         "type": "Contando",
+         "type": "Counting",
          "name": "Pressão numérica",
          "duration": 3
       },
       {
          "id": 4,
-         "type": "Entrada",
-         "name": "Envie uma mensagem de texto para você",
+         "type": "Input",
+         "name": "Tarefa de texto",
          "duration": 90
       }
    ]
