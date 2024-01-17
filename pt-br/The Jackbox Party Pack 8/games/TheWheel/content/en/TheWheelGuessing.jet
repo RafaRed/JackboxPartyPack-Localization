@@ -5,35 +5,35 @@
     "circle"
    ],
    "answer": "[i]The Circle[/i]",
-   "category": "Film & TV",
+   "category": "Filme e TV",
    "clues": [
     {
-     "clue": "It was originally a British TV show of the same name."
+     "clue": "Originalmente, era um programa de TV britânico com o mesmo nome."
     },
     {
-     "clue": "Participants are isolated from the everyday world.",
-     "clueComment": "Participants are isolated from the everyday world. I can relate to that kind of loneliness."
+     "clue": "Os participantes são isolados do mundo cotidiano.",
+     "clueComment": "Os participantes são isolados do mundo cotidiano. Eu consigo me identificar com esse tipo de solidão."
     },
     {
-     "clue": "It airs on Netflix.",
+     "clue": "É exibido na Netflix.",
      "clueComment": ""
     },
     {
-     "clue": "Each player begins the competition by creating a social media profile."
+     "clue": "Cada jogador começa a competição criando um perfil em redes sociais."
     },
     {
-     "clue": "While competing, contestants never meet face to face, and “catfishing” is allowed.",
+     "clue": "Durante a competição, os participantes nunca se encontram pessoalmente, e o 'catfishing' é permitido.",
      "clueComment": ""
     },
     {
-     "clue": "The show’s title is the greatest shape the world has ever known. Don’t you dare say “The Triangle”!"
+     "clue": "O título do programa é a forma mais grandiosa que o mundo já conheceu. Não ouse dizer 'O Triângulo'!"
     }
    ],
    "followup": "",
    "id": "79651",
    "isValid": "",
-   "prompt": "What is my favorite competitive reality TV show?",
-   "reveal": "It's round, it's proud, it's...",
+   "prompt": "Qual é o meu programa de TV favorito de competição?",
+   "reveal": "É redondo, é orgulhoso, é...",
    "us": false,
    "x": false
   },
@@ -50,55 +50,55 @@
     "Calvin Hobs"
    ],
    "answer": "[i]Calvin & Hobbes[/i]",
-   "category": "Animation/Comic Books",
+   "category": "Animação/Quadrinhos",
    "clues": [
     {
-     "clue": "The strip launched in November 1985."
+     "clue": "A tira foi lançada em novembro de 1985."
     },
     {
-     "clue": "It deals with a special friendship.",
+     "clue": "Lida com uma amizade especial.",
      "clueComment": ""
     },
     {
-     "clue": "The lead character appears, unlicensed, on bumper stickers.",
-     "clueComment": "The lead character appears, unlicensed, on bumper stickers. Often peeing on something."
+     "clue": "O personagem principal aparece, sem licença, em adesivos para carros.",
+     "clueComment": "O personagem principal aparece, sem licença, em adesivos para carros. Muitas vezes, urinando em algo."
     },
     {
-     "clue": "The title characters are named for a philosopher and a theologian.",
-     "clueComment": "The title characters are named for a philosopher and a theologian. No, it wasn't called Karl Marx and Kierkegaard."
+     "clue": "Os personagens principais são nomeados em homenagem a um filósofo e um teólogo.",
+     "clueComment": "Os personagens principais são nomeados em homenagem a um filósofo e um teólogo. Não, não se chamava Karl Marx e Kierkegaard."
     },
     {
-     "clue": "One of them is a little blonde boy and the other is a tiger."
+     "clue": "Um deles é um menino loiro e o outro é um tigre."
     }
    ],
-   "followup": "Remember those?",
+   "followup": "Lembra-se daqueles?",
    "id": "79663",
    "isValid": "",
-   "prompt": "What is my favorite comic strip?",
+   "prompt": "Qual é minha tirinha favorita?",
    "reveal": null,
    "us": true,
    "x": false
   },
   {
    "altSpellings": [
-    "ICE",
-    "Combustion Engine",
-    "the internal combustion engine",
-    "an internal combustion engine"
+    "MCI",
+    "Motor de Combustão",
+    "o motor de combustão interna",
+    "um motor de combustão interna"
    ],
-   "answer": "Internal Combustion Engine",
-   "category": "History",
+   "answer": "Motor de Combustão Interna",
+   "category": "História",
    "clues": [
     {
-     "clue": "It was invented over 100 years ago.",
+     "clue": "Foi inventado há mais de 100 anos.",
      "clueComment": ""
     },
     {
-     "clue": "It's not the wheel.",
-     "clueComment": "It's not the wheel. I mean, come on. Please."
+     "clue": "Não é a roda.",
+     "clueComment": "Não é a roda. Quero dizer, vamos lá. Por favor."
     },
     {
-     "clue": "And it's not fire, but it has a spark to it.",
+     "clue": "E não é o fogo, mas tem uma faísca.",
      "clueComment": "And it's not fire, but it has a spark to it. Yes, I know fire's not an invention. It's a useful *discovery*, like the eggplant emoji."
     },
     {
@@ -111,51 +111,51 @@
     },
     {
      "clue": "It's a kind of engine and your car isn't going anywhere without it.",
-     "clueComment": "It's a kind of engine and your car isn't going anywhere without it. Unless your car is all-electric. Sorry, Tesla owners! (aside) They're so sensitive."
+     "clueComment": "É um tipo de motor, e seu carro não vai a lugar algum sem ele. A menos que seu carro seja totalmente elétrico. Desculpe, proprietários de Teslas! (à parte) Eles são tão sensíveis."
     }
    ],
    "followup": null,
    "id": "79919",
    "isValid": "",
-   "prompt": "What is my second favorite invention?",
-   "reveal": "Thanks for the memories, Steam Engine. Now say hello to...",
+   "prompt": "Qual é a minha segunda invenção favorita?",
+   "reveal": "Obrigado pelas lembranças, Motor a Vapor. Agora, dê as boas-vindas a...",
    "us": false,
    "x": false
   },
   {
    "altSpellings": [
-    "head hair",
-    "human hair",
-    "hair on head"
+    "pelo da cabeça",
+    "cabelo humano",
+    "cabelo na cabeça"
    ],
-   "answer": "Hair",
-   "category": "Anatomy",
+   "answer": "Cabelo",
+   "category": "Anatomia",
    "clues": [
     {
-     "clue": "It is the second fastest growing tissue, aside from bone marrow.",
+     "clue": "É o segundo tecido que cresce mais rápido, depois da medula óssea.",
      "clueComment": ""
     },
     {
-     "clue": "The average person has 100,000 to 150,000 of these.",
-     "clueComment": "The average person has 100,000 to 150,000 of these. And you thought you just had two of everything."
+     "clue": "A pessoa média tem de 100.000 a 150.000 destes.",
+     "clueComment": "A pessoa média tem de 100.000 a 150.000 desses. E você pensou que só tinha dois de tudo."
     },
     {
-     "clue": "It is of the same substance as horse hooves.",
+     "clue": "É da mesma substância que os cascos de cavalos.",
      "clueComment": ""
     },
     {
-     "clue": "It is one of your few customizable parts.",
-     "clueComment": "It is one of your few customizable parts. I'm not talking about knee replacements. EVERYONE customizes this thing."
+     "clue": "É uma das poucas partes que você pode personalizar.",
+     "clueComment": "É uma das poucas partes que você pode personalizar. Não estou falando de substituições de joelho. TODO MUNDO personaliza essa coisa."
     },
     {
-     "clue": "For most, it predominantly grows on the scalp.",
+     "clue": "Para a maioria das pessoas, cresce predominantemente no escalpo.",
      "clueComment": ""
     }
    ],
-   "followup": "I'm thinking about your little human bodies, yes I am.",
+   "followup": "Estou pensando nos seus pequenos corpos humanos, sim.",
    "id": "80061",
    "isValid": "",
-   "prompt": "Which feature of the human body do I find most fascinating?",
+   "prompt": "Qual característica do corpo humano eu acho mais fascinante?",
    "reveal": "\"Flow it, show it, long as God can grow it...\"",
    "us": false,
    "x": false
