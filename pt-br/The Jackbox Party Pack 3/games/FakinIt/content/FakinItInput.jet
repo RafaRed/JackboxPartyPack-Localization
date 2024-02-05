@@ -5,8 +5,8 @@
          "x": false,
          "h": false,
          "id": 40487,
-         "category": "a última coisa que você entregou em sua casa",
-         "type": "Entrada",
+         "category": "a última coisa que você recebeu em sua casa",
+         "type": "Input",
          "tasks": [
             {
                "v": "a última coisa que você deu a alguém como um presente",
@@ -33,7 +33,7 @@
          "h": false,
          "id": 40486,
          "category": "a única habilidade que você gostaria de ter",
-         "type": "Entrada",
+         "type": "Input",
          "tasks": [
             {
                "v": "uma coisa em que você acredita que se destaca",
@@ -60,7 +60,7 @@
          "h": false,
          "id": 40485,
          "category": "um animal que te assusta",
-         "type": "Entrada",
+         "type": "Input",
          "tasks": [
             {
                "v": "a comida mais estranha que você já comeu",
@@ -81,7 +81,7 @@
          "h": false,
          "id": 40482,
          "category": "sua comida de café da manhã favorita",
-         "type": "Entrada",
+         "type": "Input",
          "tasks": [
             {
                "v": "algo em que você adoraria rolar",
@@ -102,7 +102,7 @@
          "h": false,
          "id": 40479,
          "category": "sua atividade ao ar livre favorita",
-         "type": "Entrada",
+         "type": "Input",
          "tasks": [
             {
                "v": "uma coisa embaraçosa de se fazer quando você morrer",
@@ -123,7 +123,7 @@
          "h": false,
          "id": 40478,
          "category": "uma comida pela qual vale a pena pagar muito dinheiro",
-         "type": "Entrada",
+         "type": "Input",
          "tasks": [
             {
                "v": "uma comida que você vomitou ",
@@ -150,7 +150,7 @@
          "h": false,
          "id": 40477,
          "category": "um bom item para se ter em um abrigo anti-precipitação",
-         "type": "Entrada",
+         "type": "Input",
          "tasks": [
             {
                "v": "o item que foi sua última compra por impulso ",
@@ -171,7 +171,7 @@
          "h": false,
          "id": 40476,
          "category": "algo que você gritaria enquanto fazia amor",
-         "type": "Entrada",
+         "type": "Input",
          "tasks": [
             {
                "v": "algo que você diria na igreja",
@@ -198,7 +198,7 @@
          "h": false,
          "id": 40475,
          "category": "um instrumento que você gostaria de tocar",
-         "type": "Entrada",
+         "type": "Input",
          "tasks": [
             {
                "v": "um instrumento que ninguém fica bem tocando ",
@@ -225,7 +225,7 @@
          "h": false,
          "id": 40408,
          "category": "um filme que você assistia muito quando era mais jovem",
-         "type": "Entrada",
+         "type": "Input",
          "tasks": [
             {
                "v": "um filme que você assistiria para ajudá-lo a se tornar romântico",
@@ -246,7 +246,7 @@
          "h": false,
          "id": 40407,
          "category": "o nome da rua em que você mora",
-         "type": "Entrada",
+         "type": "Input",
          "tasks": [
             {
                "v": "o pior nome que você já ouviu alguém dar ao filho",
@@ -267,7 +267,7 @@
          "h": false,
          "id": 40405,
          "category": "um trabalho que você queria quando criança",
-         "type": "Entrada",
+         "type": "Input",
          "tasks": [
             {
                "v": "um trabalho lucrativo ",
@@ -312,7 +312,7 @@
          "h": false,
          "id": 40404,
          "category": "uma revista que você sempre vê no consultório do seu médico",
-         "type": "Entrada",
+         "type": "Input",
          "tasks": [
             {
                "v": "uma revista que você gostaria de assinar ",
@@ -351,7 +351,7 @@
          "h": false,
          "id": 40394,
          "category": "seu primeiro carro",
-         "type": "Entrada",
+         "type": "Input",
          "tasks": [
             {
                "v": "um carro muito manco ",
@@ -372,7 +372,7 @@
          "h": false,
          "id": 40385,
          "category": "seu vegetal favorito",
-         "type": "Entrada",
+         "type": "Input",
          "tasks": [
             {
                "v": "uma fruta",
@@ -393,7 +393,7 @@
          "h": false,
          "id": 40381,
          "category": "um eufemismo para sexo",
-         "type": "Entrada",
+         "type": "Input",
          "tasks": [
             {
                "v": "sua música favorita dos anos 80",
@@ -426,7 +426,7 @@
          "h": false,
          "id": 40376,
          "category": "um país que você deseja visitar",
-         "type": "Entrada",
+         "type": "Input",
          "tasks": [
             {
                "v": "um país que você tem medo de visitar",
@@ -453,7 +453,7 @@
          "h": false,
          "id": 40372,
          "category": "seu esporte olímpico favorito",
-         "type": "Entrada",
+         "type": "Input",
          "tasks": [
             {
                "v": "um esporte que você praticou na escola",
@@ -474,7 +474,7 @@
          "h": false,
          "id": 40367,
          "category": "a cor principal da camisa / top que você está vestindo agora",
-         "type": "Entrada",
+         "type": "Input",
          "tasks": [
             {
                "v": "a cor de olhos mais sexy",
@@ -495,7 +495,7 @@
          "h": false,
          "id": 40362,
          "category": "um hábito que você acha muito atraente em um companheiro",
-         "type": "Entrada",
+         "type": "Input",
          "tasks": [
             {
                "v": "algo bom sobre você",
@@ -516,7 +516,7 @@
          "h": false,
          "id": 40360,
          "category": "seu segundo feriado favorito",
-         "type": "Entrada",
+         "type": "Input",
          "tasks": [
             {
                "v": "uma época do ano que você não gosta",
@@ -543,7 +543,7 @@
          "h": false,
          "id": 40359,
          "category": "uma mensagem de texto que você enviou esta semana",
-         "type": "Entrada",
+         "type": "Input",
          "tasks": [
             {
                "v": "palavras impressas em uma camiseta sua",
@@ -570,7 +570,7 @@
          "h": false,
          "id": 40357,
          "category": "algo que você pode gritar quando está com raiva e no trânsito",
-         "type": "Entrada",
+         "type": "Input",
          "tasks": [
             {
                "v": "algo que você pode gritar durante o sexo",
@@ -597,7 +597,7 @@
          "h": false,
          "id": 40354,
          "category": "a rede de TV que você mais assiste",
-         "type": "Entrada",
+         "type": "Input",
          "tasks": [
             {
                "v": "de onde você obtém a maioria das suas notícias",
@@ -624,7 +624,7 @@
          "h": false,
          "id": 40353,
          "category": "um perfume de vela que você gostaria",
-         "type": "Entrada",
+         "type": "Input",
          "tasks": [
             {
                "v": "sua cor de giz de cera favorita",
@@ -645,7 +645,7 @@
          "h": false,
          "id": 40351,
          "category": "um personagem de filme que você acha realmente assustador",
-         "type": "Entrada",
+         "type": "Input",
          "tasks": [
             {
                "v": "uma tatuagem que você quer fazer",
@@ -672,7 +672,7 @@
          "h": false,
          "id": 40350,
          "category": "uma letra de música que você gosta",
-         "type": "Entrada",
+         "type": "Input",
          "tasks": [
             {
                "v": "algo que você diria para ficar romântico",
@@ -687,7 +687,7 @@
          "h": false,
          "id": 40349,
          "category": "o nome de alguém nesta sala",
-         "type": "Entrada",
+         "type": "Input",
          "tasks": [
             {
                "v": "alguém que você acha atraente",
@@ -714,7 +714,7 @@
          "h": false,
          "id": 40985,
          "category": "seu mês favorito",
-         "type": "Entrada",
+         "type": "Input",
          "tasks": [
             {
                "v": "o mês mais romântico",
@@ -741,7 +741,7 @@
          "h": false,
          "id": 40987,
          "category": "seu tipo favorito de comida estrangeira",
-         "type": "Entrada",
+         "type": "Input",
          "tasks": [
             {
                "v": "um idioma que você acha que seria o mais difícil de aprender",
@@ -762,7 +762,7 @@
          "h": false,
          "id": 40989,
          "category": "sua segunda cobertura de pizza favorita",
-         "type": "Entrada",
+         "type": "Input",
          "tasks": [
             {
                "v": "algo que você sempre tem na sua geladeira",
@@ -801,7 +801,7 @@
          "h": false,
          "id": 40990,
          "category": "um tipo de exercício que você odeia fazer",
-         "type": "Entrada",
+         "type": "Input",
          "tasks": [
             {
                "v": "uma boa coisa para fazer quando você está entediado",
@@ -834,7 +834,7 @@
          "h": false,
          "id": 40991,
          "category": "a idade que você tinha quando deu seu primeiro beijo",
-         "type": "Entrada",
+         "type": "Input",
          "tasks": [
             {
                "v": "o número de pares de sapatos que você possui",
@@ -873,7 +873,7 @@
          "h": false,
          "id": 40992,
          "category": "um programa de TV sobre o qual todos falam, mas você NÃO viu",
-         "type": "Entrada",
+         "type": "Input",
          "tasks": [
             {
                "v": "o programa de TV que mais se parece com a sua vida",
@@ -900,7 +900,7 @@
          "h": false,
          "id": 40348,
          "category": "uma rede de restaurantes que você gosta",
-         "type": "Entrada",
+         "type": "Input",
          "tasks": [
             {
                "v": "algum lugar que você gostaria de ter um encontro para",
@@ -915,7 +915,7 @@
          "h": false,
          "id": 40347,
          "category": "um programa de TV que você acha que é o pior",
-         "type": "Entrada",
+         "type": "Input",
          "tasks": [
             {
                "v": "um programa de TV que é ruim, mas você o ama de qualquer maneira",
@@ -942,7 +942,7 @@
          "h": false,
          "id": 40346,
          "category": "uma música que você acha deprimente",
-         "type": "Entrada",
+         "type": "Input",
          "tasks": [
             {
                "v": "sua música de karaokê",
@@ -969,7 +969,7 @@
          "h": false,
          "id": 40345,
          "category": "seu primeiro emprego",
-         "type": "Entrada",
+         "type": "Input",
          "tasks": [
             {
                "v": "um trabalho que você nunca iria querer",
@@ -990,7 +990,7 @@
          "h": false,
          "id": 40344,
          "category": "uma loja em que você compra frequentemente",
-         "type": "Entrada",
+         "type": "Input",
          "tasks": [
             {
                "v": "a loja onde você compra sua roupa íntima",
@@ -1011,7 +1011,7 @@
          "h": false,
          "id": 40343,
          "category": "um livro que você amava quando criança",
-         "type": "Entrada",
+         "type": "Input",
          "tasks": [
             {
                "v": "o último livro que você leu",
@@ -1038,7 +1038,7 @@
          "h": false,
          "id": 40341,
          "category": "algo que você comeu hoje",
-         "type": "Entrada",
+         "type": "Input",
          "tasks": [
             {
                "v": "o que você comeu na sua última refeição",
@@ -1065,7 +1065,7 @@
          "h": false,
          "id": 40305,
          "category": "a melhor maneira para um encontro terminar",
-         "type": "Entrada",
+         "type": "Input",
          "tasks": [
             {
                "v": "o passatempo favorito dos seus avós",
@@ -1092,7 +1092,7 @@
          "h": false,
          "id": 40297,
          "category": "um nome legal que você gostaria de ter",
-         "type": "Entrada",
+         "type": "Input",
          "tasks": [
             {
                "v": "seu nome do meio",
@@ -1125,7 +1125,7 @@
          "h": false,
          "id": 40288,
          "category": "uma celebridade",
-         "type": "Entrada",
+         "type": "Input",
          "tasks": [
             {
                "v": "uma celebridade que você conheceu",
@@ -1158,7 +1158,7 @@
          "h": false,
          "id": 40282,
          "category": "um objeto que você poderia usar para matar alguém",
-         "type": "Entrada",
+         "type": "Input",
          "tasks": [
             {
                "v": "um objeto atualmente em seu carro",
@@ -1185,7 +1185,7 @@
          "h": false,
          "id": 40274,
          "category": "um país que você sabe como soletrar",
-         "type": "Entrada",
+         "type": "Input",
          "tasks": [
             {
                "v": "um país que você nunca foi, mas adoraria visitar",
